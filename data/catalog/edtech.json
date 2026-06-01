@@ -1,0 +1,284 @@
+{
+  "industry": "edtech",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "DAY ONE",
+        "tagline": "Start strong.",
+        "brandNameRationale": "Two words. Day One names the start of any class, course, or learning practice. The brand sits on the moment of beginning, the most important day of a learning relationship. Plain, modern, and immediately legible.",
+        "industrySummary": "Modern edtech has moved past the era of MOOCs and pivoted to skill-specific, professional-grade learning products. The customer is a working adult who already pays for one or two subscription education products and will switch the moment one of them stops shipping.",
+        "competitorLandscape": "Maven (maven.com) holds the cohort-based learning peer position. Coursera (coursera.org) sits in the marketplace tier. MasterClass (masterclass.com) does the celebrity-led content middle. Brilliant (brilliant.org) does the design-led STEM peer. We sit closest to Maven in posture.",
+        "positioningStatement": "Professional learning that ships skills, not certificates.",
+        "positioningRationale": "Most edtech promises transformation. We promise the customer can do something today they couldn't do last week. The brand sells the shipped skill, not the credential.",
+        "targetAudience": {
+          "primary": "25 to 45. Working adult. Already pays for at least one premium learning subscription. Wants the course to deliver a specific skill they can use on Monday."
+        },
+        "brandPersonalityTraits": ["Direct", "Modern", "Considered", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Show what the learner will be able to do",
+            "Name the instructor and their credentials",
+            "Use plain English in course descriptions"
+          ],
+          "donts": [
+            "Use the word transformative",
+            "Promise to change your career in 30 days",
+            "Photograph models holding laptops with serious faces"
+          ]
+        },
+        "logoDirection": "A wordmark only. DAY ONE in a tight modern grotesk, all caps, two words on one line. A small geometric mark, a single solid circle with the numeral 1 inside, used as the app icon and the course completion stamp.",
+        "colorPalette": [
+          {"name": "Study Black", "hex": "#101012", "meaning": "Ink on the first page of the notebook.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Page Cream", "hex": "#F4F1EA", "meaning": "Notebook paper. Used as space.", "usage": "Backgrounds, paper, app body"},
+          {"name": "Highlight Yellow", "hex": "#FFD23F", "meaning": "Highlighter, the marked passage.", "usage": "Accent, key callouts, CTA"}
+        ],
+        "typography": {
+          "primary": "Inter for the marketing site and product",
+          "secondary": "GT America Mono for code samples in technical courses",
+          "rationale": "Inter handles the marketing and product. The mono handles the technical content where it appears."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'transform your life in 30 days' marketing. No certificate-as-marketing strategy. No celebrity-instructor content. No motivational founder quotes."},
+          {"title": "Where it lives", "body": "A site that shows the curriculum in the first scroll. A small cohort of students per course. A printed welcome packet for every cohort. A direct line to the instructor for the duration of the course."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "The reference shelf",
+          "positioning": "The pitch",
+          "targetAudience": "Who learns with us",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Atheneum",
+        "tagline": "Considered learning.",
+        "brandNameRationale": "Two words. Atheneum is the older word for a place of learning, an institution combining library and salon. The brand names itself after the older tradition of considered learning, not the modern marketplace.",
+        "story": "The Atheneum began with three principals who had spent decades inside major universities and wanted to offer a more considered alternative for adult learners. The institution accepts a limited number of fellows each year. Each cohort is small. Each program is long.",
+        "industrySummary": "Top end adult learning has been dominated by university executive education programs and high-end consulting-led programs. There's a parallel market for small, principal-led institutions in the older tradition. Few fellows, long programs, lasting relationships.",
+        "competitorLandscape": "Harvard Business School Executive Education (exed.hbs.edu) is the institutional peer. The Aspen Institute (aspeninstitute.org) sits in the seminar-based tier. School of Life (theschooloflife.com) holds the design-led cultural learning middle. We sit smaller and quieter than all of them.",
+        "positioningStatement": "A small institution for adults pursuing considered learning across multiple seasons.",
+        "targetAudience": {
+          "primary": "40 and up. Established in a career. Has the time and means to commit to a year-long program. Values the cohort, the principals, and the relationships built across the program."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the fellow by surname",
+            "Speak in the language of the discipline",
+            "Send paper letters between seminars"
+          ],
+          "donts": [
+            "Use the word disrupt",
+            "Maintain a public content strategy",
+            "Photograph the institution for press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn columnar hallmark, two parallel vertical lines suggesting a portico, used on letterhead, the seminar materials, and the brass plaque outside the seminar room.",
+        "colorPalette": [
+          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the seminar room.", "usage": "Primary brand color, signage, letterhead"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque.", "usage": "Foil, hallmark, accents"},
+          {"name": "Cream", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure fellow portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No open enrollment. No marketing campaigns. No social media presence. No press. No certifications used for marketing."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who studies here",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "LEARN",
+        "tagline": "Then do.",
+        "brandNameRationale": "Single word, single verb. Learn is what the customer is here for. The brand sits on the action, not the institution, not the platform. Plain, useful, direct.",
+        "industrySummary": "Most edtech brands have elaborate names, philosophies, and brand worlds. There's an opening for one that strips it back to the verb itself.",
+        "competitorLandscape": "Most edtech brands fail this purity test. The closest peers in spirit are some Japanese cram school traditions and certain Khan Academy-adjacent practices.",
+        "positioningStatement": "A learning platform that does one thing: teach you a skill.",
+        "targetAudience": {
+          "primary": "Adults who want to learn a specific skill and don't need a brand world. They want the course, the price, and a finished result."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show what you'll learn",
+            "Show the time and the price",
+            "Use plain English"
+          ],
+          "donts": [
+            "Promote a 'learning ecosystem'",
+            "Run a community of practice",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark only. LEARN in a single weight grotesk, wide kerned, all caps, five letters with generous space. No icon. The course page, the website, and the certificate (if printed) all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, course materials, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The course page, the materials, and the receipt all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No community feature. No streak counter. No badges. No newsletter. No social media presence."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who learns here",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Vanguard Learning Group",
+        "tagline": "Workforce learning for the enterprise.",
+        "brandNameRationale": "Three words. Vanguard signals first-mover and leadership. Learning Group names the category. The whole name reads like a real, established corporate learning firm already on the procurement panel at Fortune 500 talent and L&D teams.",
+        "industrySummary": "Corporate learning and development is a multi-billion-dollar B2B category. Companies want partners who can deliver workforce upskilling, leadership development, and compliance training at scale with operational discipline and measurable outcomes.",
+        "competitorLandscape": "Cornerstone OnDemand (cornerstoneondemand.com) holds the LMS platform peer. Skillsoft (skillsoft.com) sits in the content-led tier. Korn Ferry (kornferry.com) does the strategy-and-talent middle. We sit smaller and more focused on the contemporary mid-market enterprise.",
+        "positioningStatement": "Workforce learning and leadership development for mid-market enterprise.",
+        "positioningRationale": "Mid-market companies are too small for Skillsoft attention and too sophisticated for boutique L&D consultants. We sit between them, with operating discipline and outcome reporting.",
+        "targetAudience": {
+          "primary": "Chief Learning Officers, VPs of Talent, and L&D Directors at companies of 1000 to 50000 employees. They sign multi-year contracts.",
+          "motivations": [
+            "Outcome-led learning programs",
+            "Reporting that connects learning to performance",
+            "One partner across upskilling, leadership, and compliance"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with learning outcomes",
+            "Show cohort case studies with performance data",
+            "Speak to the buyer, not the learner"
+          ],
+          "donts": [
+            "Use consumer edtech language",
+            "Photograph models with laptops in serious faces",
+            "Promote individual courses on consumer social"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Outcome-led learning", "description": "Programs measured against performance change, not completion rates."},
+          {"name": "Single platform across needs", "description": "Upskilling, leadership development, and compliance training under one engagement."},
+          {"name": "Reporting that satisfies the board", "description": "Workforce development metrics formatted for the Chief People Officer and the CFO together."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single chevron pointing up, suggesting forward progress. Reads cleanly on a procurement deck, name badge, and B2B trade show booth.",
+        "colorPalette": [
+          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Performance Green", "hex": "#3E8E5A", "meaning": "Outcome accent.", "usage": "Charts, status indicators, success states"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and learning program documentation."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C consumer learning brand. No celebrity instructors. No certification-as-marketing strategy. The firm sells through enterprise procurement, not Instagram learning influencers."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "NIGHT SCHOOL",
+        "tagline": "Open late. Learn loud.",
+        "brandNameRationale": "Two words. Night School names a real institution with a specific cultural memory: working adults learning after hours, not for credit, because they want to. The brand puts the older, less-credentialed tradition of evening learning in the brand position. Loud, warm, and slightly nostalgic.",
+        "manifesto": "Most edtech brands sell certificates, transformations, and career changes. We made Night School because some people want to learn things for the same reason they read books: because it's interesting. The brand is for evening classes, weekend workshops, and the kind of learning that doesn't appear on a LinkedIn profile.",
+        "industrySummary": "Edtech branding has been polished, credential-led, and slightly anxious. There's room for a brand that's warm, playful, sticker-friendly, and serious about the older tradition of learning-for-its-own-sake.",
+        "competitorLandscape": "School of Life (theschooloflife.com) holds the closest cultural-learning peer. MasterClass (masterclass.com) does the celebrity-led version. The Strand's classes do the bookstore-adjacent middle. We sit warmer and louder than any of them.",
+        "positioningStatement": "Learning for adults who want it for the love of it.",
+        "targetAudience": {
+          "primary": "30 to 50. Successful in their day job. Already reads two books a month. Wants to take a class for fun. Doesn't need a certificate. Tells friends about the class at dinner."
+        },
+        "brandPersonalityTraits": ["Warm", "Sharp", "Playful", "Confident", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes about credentialism",
+            "Quote real student stories",
+            "Talk to the adult who's already curious"
+          ],
+          "donts": [
+            "Promise to change a career",
+            "Use the word transformative",
+            "Run a 'thought leadership' campaign"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the L of SCHOOL stylized as a small bell pull or doorway figure. Standalone bell-icon for stickers, social profiles, and the back of every class welcome card.",
+        "colorPalette": [
+          {"name": "Night Red", "hex": "#D72638", "meaning": "Loud, warm, the EXIT sign of the old school.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Chalkboard Black", "hex": "#0E0E10", "meaning": "Anchor, the chalkboard.", "usage": "Body type, secondary surfaces"},
+          {"name": "Chalk White", "hex": "#F7F5F0", "meaning": "Chalk on slate, the warm classroom.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note, the marked passage.", "usage": "Highlights, social, swag"},
+          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Old books, the library wall.", "usage": "Secondary surfaces, accents"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and course materials",
+          "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and a little nostalgic."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a credentialing brand. Not a career-change brand. Not afraid of red. Not too cool to put a joke on a class flyer."},
+          {"title": "Where it lives", "body": "Real evening classes in a real building. Printed course catalogs mailed twice a year. Stickers in every welcome packet. A small bookstore at the back of the building. A monthly newsletter written by the instructors."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who studies here",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
