@@ -117,7 +117,7 @@ export default function HomePage() {
   }
 
   return (
-    <main className="mx-auto flex max-w-3xl flex-col gap-10 px-5 py-10 sm:px-8 sm:py-16">
+    <main className="mx-auto flex max-w-4xl flex-col gap-10 px-5 py-10 sm:px-8 sm:py-16">
       <header className="text-center">
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-zinc-500">
           Brand Briefs
@@ -134,7 +134,7 @@ export default function HomePage() {
 
       <form
         onSubmit={onSubmit}
-        className="grid grid-cols-1 gap-4 lg:grid-cols-[1fr_300px]"
+        className="grid grid-cols-1 gap-4 lg:grid-cols-[1fr_auto] lg:items-center"
       >
         <div className="rounded-2xl border border-zinc-200 bg-white p-5 sm:p-6 shadow-sm">
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
@@ -174,43 +174,33 @@ export default function HomePage() {
           )}
         </div>
 
-        <div className="flex flex-col justify-between gap-4 rounded-2xl bg-gradient-to-br from-[#7229FF] via-[#3A1F94] to-[#160A33] p-5 sm:p-6 text-white shadow-[0_10px_30px_-12px_rgba(114,41,255,0.55)]">
-          <div>
-            <p className="text-[10px] font-semibold uppercase tracking-[0.22em] text-[#C9BCFF]">
-              Ready
-            </p>
-            <p className="mt-1.5 text-base font-semibold leading-snug text-white">
-              Generate your brief
-            </p>
-          </div>
-          <div className="flex flex-col gap-2">
-            <button
-              type="submit"
-              disabled={loading}
-              className="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-[#F5F2EC] px-5 py-3 text-sm font-semibold text-[#160A33] transition hover:bg-white hover:-translate-y-0.5 active:scale-[0.98] disabled:opacity-70 disabled:cursor-not-allowed"
-            >
-              {loading ? (
-                <>
-                  <span
-                    className="inline-block h-3.5 w-3.5 animate-spin rounded-full border-2 border-[#160A33]/20 border-t-[#160A33]"
-                    aria-hidden
-                  />
-                  Loading…
-                </>
-              ) : (
-                "Generate brief"
-              )}
-            </button>
-            {response && !loading && (
-              <button
-                type="button"
-                onClick={regenerate}
-                className="inline-flex w-full items-center justify-center rounded-lg border border-white/30 bg-white/0 px-4 py-2.5 text-sm font-medium text-white transition hover:bg-white/10 active:scale-[0.98]"
-              >
-                Regenerate
-              </button>
+        <div className="flex flex-col gap-2 lg:items-end">
+          <button
+            type="submit"
+            disabled={loading}
+            className="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-[#7229FF] px-6 py-3 text-sm font-semibold text-white transition hover:bg-[#5B1FD9] active:scale-[0.98] disabled:opacity-70 disabled:cursor-not-allowed lg:w-auto shadow-[0_8px_24px_-8px_rgba(114,41,255,0.55)]"
+          >
+            {loading ? (
+              <>
+                <span
+                  className="inline-block h-3.5 w-3.5 animate-spin rounded-full border-2 border-white/40 border-t-white"
+                  aria-hidden
+                />
+                Loading…
+              </>
+            ) : (
+              "Generate brief"
             )}
-          </div>
+          </button>
+          {response && !loading && (
+            <button
+              type="button"
+              onClick={regenerate}
+              className="inline-flex w-full items-center justify-center rounded-lg border border-[#7229FF]/40 bg-white px-4 py-2.5 text-sm font-medium text-[#7229FF] transition hover:bg-[#7229FF]/5 active:scale-[0.98] lg:w-auto"
+            >
+              Regenerate
+            </button>
+          )}
         </div>
       </form>
 
