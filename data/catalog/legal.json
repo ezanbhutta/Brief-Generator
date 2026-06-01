@@ -1,0 +1,283 @@
+{
+  "industry": "legal",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "CASE LAW",
+        "tagline": "Counsel that reads.",
+        "brandNameRationale": "Two words from inside the practice. Case Law is what every attorney works with. The brand puts the substance of the discipline in the brand position, not the firm-name vanity. Plain, modern, and immediately legible to the client and the colleague.",
+        "industrySummary": "Modern law firms are competing on clarity and accessibility. Clients have grown more sophisticated and less tolerant of opacity. Mid-size firms with strong brand work and clean client-facing systems are winning share against the big traditional names.",
+        "competitorLandscape": "Latham & Watkins (lw.com) holds the global institutional reference. Wilson Sonsini (wsgr.com) is the technology-firm peer. Atrium (atrium.co), before closure, was the modern challenger. We sit closer to Wilson Sonsini in scope, with a sharper brand surface.",
+        "positioningStatement": "A modern law firm that answers email and writes in English.",
+        "targetAudience": {
+          "primary": "Founders, in-house counsel at growth-stage companies, and senior executives. They have used at least one big-firm lawyer and were unhappy with the responsiveness."
+        },
+        "brandPersonalityTraits": ["Direct", "Modern", "Confident", "Quiet"],
+        "voiceAndTone": {
+          "dos": [
+            "Write in plain English on the website",
+            "Quote the bill rate clearly",
+            "Confirm next steps in writing"
+          ],
+          "donts": [
+            "Use the word boutique",
+            "Photograph the partners against marble",
+            "Use Latin for things English handles"
+          ]
+        },
+        "logoDirection": "A wordmark only. CASE LAW in a precise modern serif, all caps, two words on one line. A small geometric mark, a single thin underline beneath the wordmark, used as the favicon and as the email signature stamp.",
+        "colorPalette": [
+          {"name": "Counsel Black", "hex": "#101012", "meaning": "The color of a closed legal binder.", "usage": "Wordmark, body type, signage"},
+          {"name": "Bone", "hex": "#F4F1EA", "meaning": "Old casebook paper.", "usage": "Backgrounds, paper, web body"},
+          {"name": "Counsel Red", "hex": "#A8313F", "meaning": "Quiet authority. The single accent.", "usage": "Highlights, web headlines, key terms"}
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and major type",
+          "secondary": "Söhne for the client portal and email",
+          "rationale": "A high contrast serif sets the legal register. A composed grotesk handles the digital surfaces. Both confident."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No client-acquisition newsletters. No 'thought leadership' posts on LinkedIn. No partner photos against bookshelves. No 'family of firms' brand architecture."},
+          {"title": "Where it lives", "body": "A website that loads the practice areas first. A client portal that shows the matter status in plain English. A printed engagement letter, hand signed. No content marketing strategy."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Whitcombe & Hayes",
+        "tagline": "Counsel since 1894.",
+        "brandNameRationale": "Two surnames, joined by an ampersand. The structure of a long-established English law firm. Whitcombe and Hayes sound like two real partners whose names ended up on the door a century ago. The whole name reads as legal counsel that has outlived its founders.",
+        "story": "Whitcombe & Hayes was founded in the late nineteenth century by two solicitors with a small practice in the City. The firm has stayed small. Most matters are handled by a single partner. Most clients are second or third generation with the firm.",
+        "industrySummary": "Top end legal counsel has been consolidating into mega-firms with thousands of lawyers and quarterly earnings calls. There's a parallel market for small, principal-led firms with decades-long client relationships. The customer is paying for the partner, not the firm.",
+        "competitorLandscape": "Slaughter and May (slaughterandmay.com) holds the institutional London reference. Cleary Gottlieb (clearygottlieb.com) is the international institutional peer. Bristows (bristows.com) sits closer in scope. We belong in their company on the smaller, more discreet side.",
+        "positioningStatement": "A small London law firm with two principal partners and a few dozen clients.",
+        "targetAudience": {
+          "primary": "Family offices, private trustees, owners of significant private companies, and individuals with multi-generational counsel needs. Often inherited the relationship from a parent."
+        },
+        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Speak in the language of the discipline",
+            "Send paper letters where the situation warrants"
+          ],
+          "donts": [
+            "Use marketing language",
+            "Maintain a press strategy",
+            "List clients publicly"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures and a hand-drawn ampersand. The ampersand becomes the firm's hallmark, used on letterhead, the brass plaque outside the office, and the wax seal on every paper letter.",
+        "colorPalette": [
+          {"name": "Counsel Green", "hex": "#1E3A30", "meaning": "Old library walls, leather bindings.", "usage": "Primary brand color, letterhead, signage"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hallmark, accents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, reports, structural elements"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few necessary digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public client list. No press releases. No social media presence. No content marketing. No conference appearances by the partners."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we represent",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "COUNSEL",
+        "tagline": "Book the hour.",
+        "brandNameRationale": "Single word. Counsel is the role and the act and the noun. The brand sits on the most basic legal word, before practice areas, before partnerships, before brand. Plain. Honest. Useful.",
+        "industrySummary": "Most law firms have elaborate names and quiet histories. There's an opening for one that strips it back to the function. One word. One role. One hour at a time.",
+        "competitorLandscape": "Most consumer-facing legal services compete on tier or convenience (LegalZoom, Rocket Lawyer). We compete on plainness and quality of counsel. There isn't a direct peer at the design-led minimal end of the legal advisory category.",
+        "positioningStatement": "Legal counsel by the hour. No retainers. No long engagements.",
+        "targetAudience": {
+          "primary": "Adults and small business owners who need legal advice occasionally and don't want to be on a firm's monthly retainer. They want to pay for the hour and walk away."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the hourly rate",
+            "Confirm the engagement in one short letter",
+            "Use plain English"
+          ],
+          "donts": [
+            "Sell retainers",
+            "Use Latin for things English handles",
+            "Run a thought-leadership newsletter"
+          ]
+        },
+        "logoDirection": "A wordmark only. COUNSEL in a single weight grotesk, wide kerned, all caps. No icon. The engagement letter, the bill, and the website all carry the same wordmark in the same place.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The bill, the letter, and the website all carry the same wordmark and the same type."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No retainers. No subscriptions. No legal-tech app. No 'free initial consultation' marketing. No content marketing."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who hires us",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Crestwood Legal Group",
+        "tagline": "General counsel for the modern enterprise.",
+        "brandNameRationale": "Crestwood sounds like a real place name with no specific geography, suggesting steadiness and tradition. Legal Group names the category. The whole name reads like an established mid-size firm already on the General Counsel's vendor list.",
+        "industrySummary": "Mid-market enterprise legal services are dominated by either the big law firms (Latham, Skadden) or in-house teams. There's an opening for a mid-size firm focused on the corporate generalist work that the big firms over-bill and the in-house teams don't have bandwidth for.",
+        "competitorLandscape": "Kirkland & Ellis (kirkland.com) is the giant. Cooley (cooley.com) holds the technology-corporate middle. Cravath (cravath.com) sits at the institutional top. We are smaller than these, focused on the mid-market enterprise that doesn't need their pricing.",
+        "positioningStatement": "Corporate legal services for mid-market companies that have outgrown the in-house team but don't need a $1500-per-hour partner.",
+        "positioningRationale": "Mid-market companies need real corporate counsel without the big-firm pricing structure. We sit in the middle, with operating discipline and clear billing.",
+        "targetAudience": {
+          "primary": "General Counsels, CFOs, and CEOs at companies of 200 to 5000 employees. They handle most matters in-house but need external counsel for transactional work, regulatory matters, and the occasional litigation.",
+          "motivations": [
+            "Counsel that doesn't run the meter",
+            "Reliable turnaround on transactional work",
+            "One firm across corporate, employment, and regulatory needs"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the practice areas",
+            "Show clear billing structure",
+            "Speak to the General Counsel, not the consumer"
+          ],
+          "donts": [
+            "Use consumer legal language",
+            "Promote individual cases",
+            "Run a content strategy aimed at the public"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Mid-market specialists", "description": "Built for companies between in-house counsel only and big-firm engagement."},
+          {"name": "Clear billing structure", "description": "Most matters delivered on flat fee or capped hourly. No surprise invoices."},
+          {"name": "One firm across practice areas", "description": "Corporate, employment, regulatory, and transactional under one engagement."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single vertical bar with a horizontal line crossing it near the top, suggesting a column or scales reduced to their structure. Reads cleanly on a proposal, a name badge, and a procurement deck.",
+        "colorPalette": [
+          {"name": "Counsel Navy", "hex": "#0F2238", "meaning": "Trust, finance, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean, unfussy.", "usage": "Backgrounds, paper"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Counsel Red", "hex": "#A8313F", "meaning": "Quiet authority accent.", "usage": "Highlights, charts, key callouts"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed engagement letters and reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal engagement letters, opinion letters, and printed quarterly reports."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No consumer legal services. No 'free initial consultation' marketing. No celebrity legal commentary. The firm sells through procurement and direct relationships with General Counsels."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who hires us",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "FINE PRINT",
+        "tagline": "Read it twice.",
+        "brandNameRationale": "Two words. Fine Print is what every contract has and most people skip. The brand names the part of legal work most clients dismiss. Loud, playful, and slightly self-aware: we're the firm that reads it for you, twice.",
+        "manifesto": "Most law firms sound like they wish they were stuffier than they actually are. We made Fine Print because legal work is interesting when explained well, and clients deserve a firm that explains it. We are serious about the work. We are not serious about the wig.",
+        "industrySummary": "Legal branding has been polished, traditional, and slightly intimidating. There's room for a firm that's warm, personable, sticker-friendly, and still produces work that holds up in court.",
+        "competitorLandscape": "Atrium (atrium.co) before closure was the closest in spirit. Founder Shield (foundershield.com) does playful in insurance-adjacent legal. Stripe Atlas (stripe.com/atlas) does it inside a fintech product. We are sharper than any of these.",
+        "positioningStatement": "A law firm that reads the fine print and explains it so you don't have to.",
+        "targetAudience": {
+          "primary": "30 to 50. Founders, freelancers, small business owners. They have legal needs they understand and legal language they don't. They want a firm that translates."
+        },
+        "brandPersonalityTraits": ["Warm", "Sharp", "Confident", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes about legal jargon",
+            "Quote the contract and the plain English version",
+            "Talk like the lawyer friend you call before you call the firm"
+          ],
+          "donts": [
+            "Use Latin without translating it",
+            "Photograph the partners with arms crossed",
+            "Apologize for being a small firm"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the I of PRINT stylized as a small magnifying glass detail. Standalone magnifier-I icon for stickers, social profiles, and the back of every engagement letter.",
+        "colorPalette": [
+          {"name": "Contract Red", "hex": "#D72638", "meaning": "Loud, warm, the editor's mark on the contract.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background, the contract paper.", "usage": "Backgrounds, paper, engagement letters"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
+          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note.", "usage": "Highlights, social, swag"},
+          {"name": "Carbon Blue", "hex": "#1B4A8B", "meaning": "Pen ink. Secondary accent.", "usage": "Secondary surfaces, signatures"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and engagement letters",
+          "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a big firm. Not a legal tech app. Not afraid of red. Not too cool to read the contract twice."},
+          {"title": "Where it lives", "body": "Engagement letters that read like a friend explaining the situation. A printed plain-English guide to the most common contracts, mailed to every new client. Stickers in every welcome envelope. A monthly newsletter that's mostly funny legal news."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

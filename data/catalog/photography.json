@@ -1,0 +1,283 @@
+{
+  "industry": "photography",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "NEW FRAME",
+        "tagline": "Shot well.",
+        "brandNameRationale": "Two words. New Frame names the act of photography (every shot is a new frame) and the studio's posture (modern, not heritage). The brand sits on the smallest unit of the craft.",
+        "industrySummary": "Modern photography studios are competing on visual signature as much as on the client roster. Editorial, commercial, and brand photography has consolidated around studios with strong points of view. The mid-market is moving toward design-led practices.",
+        "competitorLandscape": "Tom Sloan (tomsloan.co) holds the modern commercial peer position. Bobby Doherty (bobbydoherty.com) does the editorial-still-life corner. Petra Collins (petracollins.com) carries the lifestyle-fashion side. Maurizio Cattelan's collaborators set the conceptual top. We sit closer to Tom Sloan in posture, with a sharper brand surface.",
+        "positioningStatement": "A commercial photography studio with one visual signature and a small client list.",
+        "targetAudience": {
+          "primary": "Art directors, brand managers, and creative directors at mid-size brands and editorial titles. They book the studio because the look fits the brief, not because the price is lowest."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Quiet"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the work, then the credits",
+            "Name the photographer on every shoot",
+            "Skip the lifestyle aspiration copy"
+          ],
+          "donts": [
+            "Use the word storytelling",
+            "Photograph the studio empty at golden hour",
+            "Run a paid Instagram strategy"
+          ]
+        },
+        "logoDirection": "A wordmark only. NEW FRAME in a tight modern grotesk, all caps, two words on one line. A small geometric mark, a thin rectangular frame outline, used as the watermark on every image, the favicon, and the email signature.",
+        "colorPalette": [
+          {"name": "Frame Black", "hex": "#101012", "meaning": "Matte black framing tape.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Print White", "hex": "#F4F1EA", "meaning": "Photo paper. Used as space.", "usage": "Backgrounds, paper, web body"},
+          {"name": "Negative Orange", "hex": "#FF6A2A", "meaning": "Color negative film. The single accent.", "usage": "Highlights, web headlines, sale signage"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for image credits and tech specs",
+          "rationale": "One family. The mono carries the file numbers, dimensions, and credits. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'lifestyle photography' as a service. No prop-rental side hustle. No mood-board emails. No client logos cluttering the homepage."},
+          {"title": "Where it lives", "body": "A site that loads the work, then the studio, then the contact. A printed monograph published every two years. A small studio open by appointment. A signature visual style that holds across every project."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Atelier Norden",
+        "tagline": "Photographs that outlive the subject.",
+        "brandNameRationale": "Two words. Atelier is the French word for a craft workshop. Norden suggests a Northern European register: Scandinavian or Northern English, both associated with quiet craft. The pair reads as a small heritage studio that takes its time.",
+        "story": "Atelier Norden began with a single photographer who had spent decades inside larger studios and wanted to take fewer commissions, more carefully. The studio accepts a limited number of sittings each year. Some clients have been with the studio for two generations.",
+        "industrySummary": "Top end portrait and family photography has been moving toward larger studios and faster turnarounds. There's a parallel market for small heritage studios in the older tradition. Few clients, long sittings, archival prints. The customer is paying for the photographer, the workshop, and the next sitting in a decade.",
+        "competitorLandscape": "Annie Leibovitz's studio (annieleibovitz.com) holds the institutional peak. Mario Testino (mariotestino.com) sits in the celebrity-portrait tier. Karim Sadli (karimsadli.com) does the editorial-meets-portraiture middle. We sit smaller than all of them, in the heritage-portrait specialism.",
+        "positioningStatement": "A small portrait studio for families and individuals who treat the sitting as a generational record.",
+        "targetAudience": {
+          "primary": "Wealthy families. Heads of established institutions. People who treat the photograph as an heirloom. Often the sitting is for a milestone (wedding, birth, succession, retirement, death)."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Send paper sitting confirmations",
+            "Speak in the language of craft, not service"
+          ],
+          "donts": [
+            "Run digital advertising",
+            "Promote on social media",
+            "Photograph the studio for press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn camera-aperture hallmark, three thin arcs forming a closed shape, used on archival print backings, the order book, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Studio Black", "hex": "#1A1A1B", "meaning": "Darkroom, archival print backing, the cloth behind the sitter.", "usage": "Primary brand color, signage, paper"},
+          {"name": "Print Cream", "hex": "#EFE9DB", "meaning": "Hand-laid archival paper.", "usage": "Stationery, packaging, mat backing"},
+          {"name": "Brass", "hex": "#A38454", "meaning": "Aged camera body. The studio's brass plaque.", "usage": "Foil, hallmark, accents"},
+          {"name": "Slate", "hex": "#3A3F44", "meaning": "Quiet anchor. The shadow on the sitter.", "usage": "Body type, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces. Both restrained."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No commercial work. No editorial commissions. No celebrity sittings used for press. No social media accounts. No public price list."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who sits for us",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "PORTRAIT",
+        "tagline": "One sitting.",
+        "brandNameRationale": "Single word. Portrait is the most basic photography category: the photograph of a person. The brand puts the genre in the brand position, plain and unadorned.",
+        "industrySummary": "Most photography studios offer everything: weddings, portraits, commercial, lifestyle, product. There's an opening for one that does one thing only.",
+        "competitorLandscape": "Most studios fail this purity test. The closest spirit is some Japanese portrait practices and the early Avedon studio model: one genre, done very well.",
+        "positioningStatement": "A studio that takes portraits. That is the entire offering.",
+        "targetAudience": {
+          "primary": "Adults who want a portrait. They don't want a 'shoot'. They don't want lifestyle content. They want a still picture of themselves or someone they love, made by a person who knows how to make one."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the portfolio",
+            "Show the price",
+            "Confirm the sitting in one short message"
+          ],
+          "donts": [
+            "Offer packages",
+            "Photograph the studio empty",
+            "Sell prints separately from the sitting fee"
+          ]
+        },
+        "logoDirection": "A wordmark only. PORTRAIT in a single weight grotesk, wide kerned, all caps. No icon. The studio sign, the receipt, and the print backing all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, print backing, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The website, the print backing, and the receipt all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No weddings. No commercial work. No 'lifestyle sittings'. No prop styling. No packages."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who sits for us",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Standard Image Group",
+        "tagline": "Visual production at scale.",
+        "brandNameRationale": "Three words. Standard signals industry-grade, reliable, on-spec. Image is the category. Group closes it as a B2B services firm. The whole name reads like a real, established production company already on the procurement panel at Fortune 500 marketing departments.",
+        "industrySummary": "Commercial photography and visual production is a B2B category dominated by either huge production companies (Wieden+Kennedy's in-house teams, Stink) or thousands of small studios. The opening is a mid-size production firm focused on enterprise marketing visual needs.",
+        "competitorLandscape": "Smyle (smyle.com) handles the production side in Europe. Mishpacha (mishpacha.co) holds the corporate-photo middle. Trunk Archive (trunkarchive.com) is the photography licensing peer. We sit closer to Smyle in scope, more design-led.",
+        "positioningStatement": "Visual production services for enterprise marketing teams.",
+        "positioningRationale": "Enterprise marketing teams need production partners who can deliver photography, video, and visual content across campaigns at consistent quality, with the operational discipline of a procurement-ready vendor.",
+        "targetAudience": {
+          "primary": "Heads of Marketing Production, Creative Directors, and Brand Operations leads at companies of 1000 to 50000 employees. They sign annual production contracts.",
+          "motivations": [
+            "Consistent visual quality across markets and campaigns",
+            "One vendor across photography, video, and post-production",
+            "Reporting on asset usage and content performance"
+          ]
+        },
+        "brandPersonalityTraits": ["Reliable", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with capacity and consistency",
+            "Show case studies with usage metrics",
+            "Speak to the production buyer"
+          ],
+          "donts": [
+            "Use creative-industry insider language",
+            "Photograph the production team for press",
+            "Run award-show submissions for the firm itself"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Capacity at scale", "description": "Photography, video, and post-production delivered across markets and campaign volumes with consistent quality."},
+          {"name": "One vendor across the visual stack", "description": "Still photography, motion, post-production, and digital asset management under one contract."},
+          {"name": "Asset-usage reporting", "description": "Reporting on where each asset is used, by whom, and for how long, formatted for content operations and finance."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single thin rectangular frame, suggesting a captured image. Reads cleanly on a procurement deck, name badge, and B2B trade show booth.",
+        "colorPalette": [
+          {"name": "Production Navy", "hex": "#0F2238", "meaning": "Trust, B2B production seriousness.", "usage": "Logo, primary surfaces"},
+          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean, unfussy.", "usage": "Backgrounds, paper"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Frame Red", "hex": "#A8313F", "meaning": "Production accent. Used sparingly.", "usage": "Status indicators, charts"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and printed production playbooks."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C creative agency work. No award-show submissions for the firm itself. No celebrity photographer roster. The firm sells through enterprise production procurement, not creative industry awards."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "HARD LIGHT",
+        "tagline": "No softening.",
+        "brandNameRationale": "Two words. Hard Light is the photography term for direct, unfiltered illumination that creates strong shadows. The brand sits on the technical opposite of the soft-light Instagram aesthetic. Sharp, direct, unflattering on purpose.",
+        "manifesto": "Most photography brands sell soft light. The flattering portrait, the golden hour, the warm afternoon. We made Hard Light because the photographs that last are the ones with the shadow still in them. We sell the actual face, the actual moment, the actual color. We are not a flattering brand. We are not for every client. We are for the ones who want the real picture.",
+        "industrySummary": "Photography branding has been soft, warm, and slightly twee. There's room for a studio that's sharp, character-driven, sticker-friendly, and still produces editorial-grade work.",
+        "competitorLandscape": "Juergen Teller (juergenteller.com) holds the canonical hard-light editorial position. Wolfgang Tillmans (tillmans.co.uk) sits in the conceptual peer group. Pierre Debusschere (pdb.bz) does the contemporary hard-edge fashion. We sit younger and more brand-aware than any of them.",
+        "positioningStatement": "A photography studio for clients who want the real picture, not the flattering one.",
+        "targetAudience": {
+          "primary": "30 to 45. Art directors at editorial titles, creative directors at sharper-edged fashion brands, and the small set of musicians and designers who book photographers based on signature."
+        },
+        "brandPersonalityTraits": ["Sharp", "Confident", "Direct", "Warm", "Opinionated"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the unretouched image",
+            "Talk like the photographer in the studio at 11 p.m.",
+            "Quote the brief and the rejection both"
+          ],
+          "donts": [
+            "Use the word storytelling",
+            "Photograph the studio empty at golden hour",
+            "Soften the work in case studies"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display sans, with the L of LIGHT cast in a thicker stroke to suggest harder light. Standalone hard-edge L icon for stickers, social profiles, and the back of every printed print.",
+        "colorPalette": [
+          {"name": "Shadow Black", "hex": "#0E0E10", "meaning": "Hard shadow.", "usage": "Primary brand color, body type, dark surfaces"},
+          {"name": "Highlight White", "hex": "#FAFAF7", "meaning": "Direct light.", "usage": "Background, paper, light surfaces"},
+          {"name": "Flash Red", "hex": "#D72638", "meaning": "Studio strobe, the warning light.", "usage": "Accent, stickers, social"},
+          {"name": "Negative Orange", "hex": "#FF6A2A", "meaning": "Color negative, the unfinished image.", "usage": "Secondary accent, swag"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Body type.", "usage": "Body, headlines"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and credits",
+          "rationale": "Migra has personality and weight. Neue Montreal handles the readable bits. The pair feels designed and a little defiant."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a wedding studio. Not a lifestyle brand. Not afraid of unflattering. Not too cool to ship a print."},
+          {"title": "Where it lives", "body": "Printed monographs sold at independent bookstores. Stickers in every print order. A small studio bar that's open the first Friday of every month. A monthly newsletter with the worst rejected images from the month."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

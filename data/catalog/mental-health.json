@@ -1,0 +1,283 @@
+{
+  "industry": "mental-health",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "SESSION",
+        "tagline": "Talk to someone good.",
+        "brandNameRationale": "Single word. Session is what therapy is, said as plainly as the customer would say it. The brand puts the basic unit of the work in the brand position. Modern, direct, low-friction. No clinical jargon. No metaphor.",
+        "industrySummary": "Mental health has gone mainstream. The customer base is larger and more design-literate than ever, and they have less tolerance for the cold clinical aesthetic the category traditionally used. Modern players are competing on warmth, accessibility, and brand quality.",
+        "competitorLandscape": "BetterHelp (betterhelp.com) holds the volume D2C tier. Talkspace (talkspace.com) is the institutional peer. Alma (helloalma.com) does the design-led therapist marketplace. Two Chairs (twochairs.com) sits in the in-network premium tier. We sit closest to Alma in tone.",
+        "positioningStatement": "Therapy booking that works the way modern services should: clear pricing, clear matching, clear next steps.",
+        "targetAudience": {
+          "primary": "25 to 45. Has thought about therapy for years and never started. Wants the booking to feel like a service, not a leap. Will pay out of pocket for the right match."
+        },
+        "brandPersonalityTraits": ["Warm", "Modern", "Direct", "Trustworthy"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the price per session",
+            "Show the therapist's actual photo and bio",
+            "Confirm the booking in one short message"
+          ],
+          "donts": [
+            "Use the word journey",
+            "Promise transformation",
+            "Photograph models pretending to be in therapy"
+          ]
+        },
+        "logoDirection": "A wordmark only. SESSION in a soft modern grotesk, slightly humanist, all caps with wide kerning. A small horizontal pulse mark beneath the wordmark, suggesting calm rhythm. Used as the app icon and on the appointment card.",
+        "colorPalette": [
+          {"name": "Session Navy", "hex": "#102236", "meaning": "Trust, calm, the deep end of a soft pool.", "usage": "Wordmark, primary surface, app body"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Used as space. The waiting room.", "usage": "Backgrounds, paper, light surfaces"},
+          {"name": "Soft Sage", "hex": "#A6B49A", "meaning": "Quiet warmth. The single accent.", "usage": "Status, CTAs, accent type"}
+        ],
+        "typography": {
+          "primary": "Inter for the product",
+          "secondary": "Söhne for the marketing site",
+          "rationale": "Inter handles the booking and product surfaces, where clarity is the priority. The grotesk carries the warmer brand surface."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'mental wellness journey' content. No streaks. No anxiety quizzes used as marketing. No celebrity therapy ambassadors."},
+          {"title": "Where it lives", "body": "An app that books in three taps. Therapist matches based on actual conversation, not a 30-question form. Sessions confirmed by SMS. A single annual email with the practice news. No push notifications."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who we work with",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Linwood Counsel",
+        "tagline": "Considered psychotherapy.",
+        "brandNameRationale": "Two words. Linwood sounds like a real place or a quiet street. Counsel is the older word for the therapeutic relationship, before 'therapy' became a category. The pair reads as a small, established practice serving a specific kind of client over many years.",
+        "story": "Linwood Counsel was founded by a small group of psychotherapists who had spent decades inside larger institutional practices and wanted to take fewer clients, more carefully. The practice accepts a limited number of patients each year. Some have been with the practice since it opened.",
+        "industrySummary": "Top end psychotherapy has been moving toward concierge services bolted onto larger systems. There's a parallel market for small, principal-led practices in the older tradition. Few patients, long engagements, decades-long relationships. The customer is paying for the therapist, the practice, and the next hour.",
+        "competitorLandscape": "Brick (brickbymanhattan.com) sits in the premium psychotherapy tier. The Practice (similar private practices in Mayfair, the Upper East Side, Pacific Heights) are the peers. We sit closer to a Harley Street consulting room than to any digital-first peer.",
+        "positioningStatement": "A small psychotherapy practice for clients who treat the work as central, not optional.",
+        "targetAudience": {
+          "primary": "40 and up. High-functioning. Often has tried therapy before and wants something deeper. Pays out of pocket. Values the long relationship with the therapist over the convenience of the booking flow."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname or chosen name",
+            "Speak in the language of the discipline",
+            "Send paper letters where the situation warrants"
+          ],
+          "donts": [
+            "Advertise",
+            "Maintain a content strategy",
+            "Photograph the practice for press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand-like flourish becomes the practice's hallmark, used on letterhead, the brass plaque outside the practice, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Counsel Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the practice's waiting room.", "usage": "Primary brand color, signage, letterhead"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hallmark, accents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper. The session notes.", "usage": "Stationery, paper, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body type, dividers"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces. Both restrained."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No insurance billing. No therapist directory listings. No content marketing. No press. No social media presence."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we work with",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "TALK",
+        "tagline": "That's the work.",
+        "brandNameRationale": "Single word. Talk is what therapy actually is, stripped of clinical language. The brand puts the act in the brand position. Plain. Specific. Unpretentious.",
+        "industrySummary": "Mental health brands have been adding features for years (chatbots, mood trackers, meditation libraries, sleep stories). There's an opening for one that subtracts. One thing. Talking to a person.",
+        "competitorLandscape": "Most modern mental health apps compete on what they include. We compete on absence. The closest peer in spirit is Open Path Collective (openpathcollective.org) on the affordability side, with a sharper minimal aesthetic.",
+        "positioningStatement": "A therapy practice with one offering: sessions with a therapist. No app extras.",
+        "targetAudience": {
+          "primary": "Adults who want therapy and don't want a mental health app. They want to book, attend, and continue. No streaks, no journals, no AI."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Patient", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the session length and price",
+            "Confirm the booking in one line",
+            "Use plain language"
+          ],
+          "donts": [
+            "Add features",
+            "Run a content blog",
+            "Promote a 'wellness ecosystem'"
+          ]
+        },
+        "logoDirection": "A wordmark only. TALK in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The app, the website, and the appointment card all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, app, all light surfaces"},
+          {"name": "Sage", "hex": "#A6B49A", "meaning": "Quiet accent.", "usage": "Status, secondary"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The app is the wordmark, the appointment, the therapist's name. Nothing else."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No mood tracker. No journal feature. No meditation library. No AI chatbot. No streaks. No notifications."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who uses this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Threshold Behavioral Health",
+        "tagline": "Behavioral health services for the enterprise.",
+        "brandNameRationale": "Three words. Threshold suggests the point of change. Behavioral Health is the buyer-side word for the category. The whole name reads like a real, established clinical-services firm already on the panel of every major health plan and self-insured employer.",
+        "industrySummary": "Enterprise behavioral health is a serious B2B category. Self-insured employers, health plans, and integrated health systems need partners who can deliver behavioral health programs at scale with clinical rigor and regulatory-grade reporting.",
+        "competitorLandscape": "Lyra Health (lyrahealth.com) is the modern enterprise leader. Spring Health (springhealth.com) sits closely. Modern Health (joinmodernhealth.com) is the peer. Beacon Health Options (now part of Carelon) holds the institutional position. We sit closer to Lyra in posture, with stronger clinical-network focus.",
+        "positioningStatement": "Behavioral health programs for self-insured employers and integrated health systems.",
+        "positioningRationale": "Employers and health systems want clinical partners they can trust to deliver outcomes, not just enrollments. We position on the clinical depth of the network and the reporting discipline of the operations.",
+        "targetAudience": {
+          "primary": "Chief Medical Officers, VPs of Benefits, and Population Health Directors at self-insured employers and integrated health systems with at least 5000 covered lives.",
+          "motivations": [
+            "Clinical network depth that holds up under utilization",
+            "Outcome reporting that satisfies regulators and CFOs",
+            "One partner across EAP, in-network therapy, and crisis support"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Clinical", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with clinical outcomes",
+            "Show network coverage by region",
+            "Speak to the buyer, not the patient"
+          ],
+          "donts": [
+            "Use consumer wellness language",
+            "Promote patient testimonials on social",
+            "Run a brand-of-our-own podcast"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Clinical network depth", "description": "Therapists, psychiatrists, and care navigators in network across every geography the buyer covers."},
+          {"name": "Outcomes-grade reporting", "description": "PHQ-9, GAD-7, and other validated outcome measures reported at the cohort level, formatted for the CMO and CFO."},
+          {"name": "Full continuum of care", "description": "EAP, outpatient therapy, psychiatry, and crisis support under one contract."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single open doorway silhouette, reduced to three lines. Reads cleanly on a procurement deck, name badge, and patient-facing card.",
+        "colorPalette": [
+          {"name": "Clinical Navy", "hex": "#102238", "meaning": "Trust, clinical seriousness.", "usage": "Logo, primary surfaces"},
+          {"name": "Lab White", "hex": "#FAFAF8", "meaning": "Clean and clinical.", "usage": "Packaging, paper, web"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body text, dividers"},
+          {"name": "Care Teal", "hex": "#2A8B82", "meaning": "Care accent.", "usage": "Charts, status, certifications"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and product UI",
+          "secondary": "Source Serif Pro for printed clinical literature",
+          "rationale": "Inter scales clean across digital. The serif handles formal clinical reports and trust center documentation."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C app. No retail clinics. No influencer therapists. The firm sells through enterprise procurement, not Instagram mental health content."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "GOOD DAYS",
+        "tagline": "More of them.",
+        "brandNameRationale": "Two words. Good Days names what the customer actually wants from the work. Not 'wellness' or 'thriving' or 'transformation'. Just more good days than bad. Honest, warm, and grounded.",
+        "manifesto": "Most mental health brands sound like a textbook trying to be soft. They moralize. They over-promise. They use words nobody says out loud. Good Days is the brand for therapy that sounds like a real conversation. The work is serious. The voice doesn't have to be.",
+        "industrySummary": "Mental health branding has been earnest, cool-toned, and slightly preachy. There's room for one that's warm, character-driven, and still serious about the actual clinical work.",
+        "competitorLandscape": "Real (joinreal.com) does playful well in clinical adjacent spaces. Mindful (mindful.org) holds the older mindfulness content. Headspace (headspace.com) does the mass meditation tier. We sit warmer than all of them, with a clearer point of view.",
+        "positioningStatement": "A therapy and mental health brand that sounds like a real friend, not a textbook.",
+        "targetAudience": {
+          "primary": "25 to 45. Has been to therapy or wants to go. Already familiar with mental health language and slightly exhausted by it. Wants a brand that talks like they do."
+        },
+        "brandPersonalityTraits": ["Warm", "Honest", "Sharp", "Friendly", "Direct"],
+        "voiceAndTone": {
+          "dos": [
+            "Use real language people use about their feelings",
+            "Make warm jokes",
+            "Tell the truth about what therapy is and isn't"
+          ],
+          "donts": [
+            "Promise transformation",
+            "Use the word journey",
+            "Photograph models in white linen at sunset"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the O of GOOD stylized as a small open circle, suggesting a sun rising or a thought bubble. Standalone open-circle icon for app icons, stickers, and social profiles. The mark reads warm at every size.",
+        "colorPalette": [
+          {"name": "Day Yellow", "hex": "#FFD23F", "meaning": "Morning light. The good one.", "usage": "Primary brand color, hero surfaces, social"},
+          {"name": "Soft Pink", "hex": "#FFB7B7", "meaning": "Warmth without sweetness.", "usage": "Accent, social, swag"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Sage", "hex": "#A6B49A", "meaning": "Calm anchor.", "usage": "Secondary surfaces, body type"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Body, headlines"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and signage",
+          "rationale": "Migra has warmth and character. Neue Montreal keeps the practical bits readable. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a meditation app. Not a transformation brand. Not afraid of yellow. Not too cool to make a joke about therapy."},
+          {"title": "Where it lives", "body": "An app that opens to a single warm message. A printed mood journal that's actually beautiful, sold separately. A weekly newsletter written like a friend checking in. Stickers in every welcome envelope."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who we work with",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
