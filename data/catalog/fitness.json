@@ -1,0 +1,287 @@
+{
+  "industry": "fitness",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "REPS",
+        "tagline": "Show up. Move. Leave.",
+        "brandNameRationale": "Three letters. One syllable. The thing you do. REPS is the smallest unit of progress in a gym, and now it's the brand that lives inside that unit. Reads as confident without being loud.",
+        "industrySummary": "Boutique fitness used to mean a single class type. Spin. Barre. Pilates. Now the market is asking for something simpler. A room with weights, a clock on the wall, and people who know what they're there for.",
+        "competitorLandscape": "Equinox (equinox.com) sells the lifestyle. Barry's (barrysbootcamp.com) sells the burn. Solidcore (solidcore.co) sells the formula. None of them sell the silence of a good lift.",
+        "positioningStatement": "A gym for people who already know what they're doing.",
+        "positioningRationale": "Too many fitness brands sell motivation as a service. Reps assumes the customer has motivation. We just provide the room.",
+        "targetAudience": {
+          "primary": "25 to 45. Knows their numbers. Has trained before. Doesn't need a coach yelling. Wants clean equipment, working bathrooms, music they can ignore, and chalk at the rack.",
+          "motivations": [
+            "Progress, not entertainment",
+            "Equipment that works",
+            "Members who put the weights back"
+          ]
+        },
+        "brandPersonalityTraits": ["Direct", "Quiet", "Confident", "Modern"],
+        "voiceAndTone": {
+          "dos": [
+            "Say what you mean",
+            "Show the schedule clearly",
+            "Speak to the experienced lifter"
+          ],
+          "donts": [
+            "Use the word journey",
+            "Sell transformation",
+            "Talk about challenges or programs"
+          ]
+        },
+        "logoDirection": "A bold sans wordmark. REPS in extra heavy weight, slightly condensed. The S can be slightly stylized like a barbell collar but never made into an icon. The mark alone is enough.",
+        "colorPalette": [
+          {"name": "Pure Black", "hex": "#0A0A0A", "meaning": "The color of an unused barbell.", "usage": "Wordmark, signage, primary surface"},
+          {"name": "Chalk White", "hex": "#F7F5F0", "meaning": "Used as space. The color on the rack at 6 in the morning.", "usage": "Background, secondary surfaces"},
+          {"name": "Hi-Vis Lime", "hex": "#C8FF00", "meaning": "One bright accent. Used like a timer on the wall.", "usage": "Class times, signage, hover states"}
+        ],
+        "typography": {
+          "primary": "GT America Condensed for the wordmark",
+          "secondary": "Inter for everything else",
+          "rationale": "Condensed sans for the headline. A clean grotesk for the schedule, the website, the digital. No serifs anywhere."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No transformation programs. No challenges. No coach photos. No before-and-after content. No motivational quotes on the wall."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who shows up",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Court",
+        "tagline": "Membership has its hour.",
+        "brandNameRationale": "The Court reads as private, as British, as quietly old. It's also literal. A court is where the work happens. The definite article does the work of making it sound like the only one.",
+        "story": "We built The Court because we wanted somewhere to train where the floor wasn't filmed, the trainer wasn't selling, and the towels were heavier than usual. We thought a few other people would want it too.",
+        "industrySummary": "Premium fitness has been chasing scale. Bigger clubs, more locations, more screens. There is room at the top for something smaller. One room. One coach at a time. A waiting list.",
+        "competitorLandscape": "Equinox (equinox.com) is the size to beat. The Wing (no longer operating) was the lifestyle to learn from. KX London (kxlife.co.uk) is the closest peer. We are smaller than any of them, by design.",
+        "positioningStatement": "A private gym, not a club. Membership by invitation, training by appointment.",
+        "targetAudience": {
+          "primary": "40 to 65. Successful. Time-poor. Has tried the big clubs and didn't love the noise. Trains four times a week. Pays for things to be done well, not done loudly."
+        },
+        "brandPersonalityTraits": ["Refined", "Discreet", "Considered", "Steady", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Speak softly",
+            "Use the member's name",
+            "Send a paper letter for renewals"
+          ],
+          "donts": [
+            "Promote, ever",
+            "Have a public price",
+            "Run any social media campaigns"
+          ]
+        },
+        "logoDirection": "A serif monogram. The Court set in a high contrast classical face. A standalone TC ligature for cufflinks, towels, key fobs. The mark is small everywhere except on the front door.",
+        "colorPalette": [
+          {"name": "Court Green", "hex": "#1E3A30", "meaning": "Deep forest, old library, members' room.", "usage": "Walls, primary brand color, signage"},
+          {"name": "Brass", "hex": "#A38454", "meaning": "Aged hardware. The number on the door.", "usage": "Foil, accents, hardware"},
+          {"name": "Ivory", "hex": "#EFE9DB", "meaning": "Linen towels, cream walls, hand-laid paper.", "usage": "Background, paper, towels"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious, restrained.", "usage": "Body type, flooring photography"}
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and primary type",
+          "secondary": "Söhne for member communication",
+          "rationale": "A high contrast serif for the brand. A composed grotesk for everything functional. Nothing decorative."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public membership. No flash sales. No filming. No social media presence. No celebrity partnerships, ever."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who is a member",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "FORM",
+        "tagline": "Move well.",
+        "brandNameRationale": "FORM means two things at once. Your shape under load, and the most pared-back word for what we believe in. Single syllable. Hard consonant on each end. Reads as a discipline.",
+        "industrySummary": "Fitness brands keep adding. More programs. More gear. More content. There is space for one that subtracts.",
+        "competitorLandscape": "Tracksmith (tracksmith.com) shows what restraint looks like in running. Outdoor Voices (outdoorvoices.com) had it before they lost it. No one currently owns minimal in strength.",
+        "positioningStatement": "The fitness brand for people who know that less, done well, is more.",
+        "targetAudience": {
+          "primary": "Adults who train and don't need it to be exciting. They want one good gym, one good coach, one good plan. They will pay for that, and not for anything else."
+        },
+        "brandPersonalityTraits": ["Calm", "Considered", "Honest", "Patient"],
+        "voiceAndTone": {
+          "dos": [
+            "Use plain words",
+            "Show, don't promise",
+            "Leave white space"
+          ],
+          "donts": [
+            "Hype",
+            "Use the words push, grind, or beast",
+            "Promote results photos"
+          ]
+        },
+        "logoDirection": "A wordmark only. FORM set in a precise grotesk, all caps, light weight. No icon. No second mark. Wide kerning so the four letters earn their space.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#161616", "meaning": "Type and structure.", "usage": "Wordmark, body type"},
+          {"name": "Paper", "hex": "#F0EDE6", "meaning": "Used as space.", "usage": "Background, all neutral surfaces"},
+          {"name": "Mid Grey", "hex": "#9C9A93", "meaning": "Quiet anchor. Walls between rooms.", "usage": "Secondary, dividers"}
+        ],
+        "typography": {
+          "primary": "ABC Diatype",
+          "secondary": "Same family, mono weight for numbers",
+          "rationale": "One family. Two weights. Nothing else."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No transformation. No challenges. No before-and-after. No supplements. No merch."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who shows up",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Vantage Fitness Partners",
+        "tagline": "Corporate wellness, delivered.",
+        "brandNameRationale": "Vantage signals advantage and clarity. Fitness Partners closes it like a real B2B firm. The whole name reads like something you would already trust on a contract.",
+        "industrySummary": "Companies are taking employee wellness seriously after years of saying they did. The contracts are now real. Buyers want a single vendor who can stand up a gym, run the programs, and report on attendance.",
+        "competitorLandscape": "Optum (optum.com) is the giant. EXOS (teamexos.com) is the premium operator. Wellable (wellable.co) is the digital-first one. Most of them are software-heavy and service-light. We are the opposite.",
+        "positioningStatement": "Full-service corporate fitness, run by people who used to run real gyms.",
+        "positioningRationale": "HR teams don't need another app. They need a partner who shows up, runs the room, files the reports, and renews the contract because the employees liked it.",
+        "targetAudience": {
+          "primary": "Heads of HR, benefits managers, facilities directors at companies of 200 to 10000 people. They sign the contract and they catch the complaints.",
+          "motivations": [
+            "One vendor across multiple sites",
+            "Real engagement, not just sign-ups",
+            "Clean monthly reporting"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the deliverable",
+            "Show numbers when you have them",
+            "Speak to the buyer"
+          ],
+          "donts": [
+            "Use consumer-facing fitness language",
+            "Promise things you can't measure",
+            "Run flashy campaigns"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "One partner across sites", "description": "We run the gym, the programs, the events, and the reporting under one contract."},
+          {"name": "Real engagement", "description": "We measure attendance, not memberships sold. The number that matters is who came back."},
+          {"name": "Reporting that procurement uses", "description": "Quarterly utilization reports, ROI summaries, and renewal-ready data."}
+        ],
+        "logoDirection": "A wordmark with a small structural mark to the left. The mark is a stack of three short bars, ascending. Reads as progress, not motion. Works on uniforms, vans, signage, and a procurement deck.",
+        "colorPalette": [
+          {"name": "Trust Navy", "hex": "#0E2238", "meaning": "Deep blue, steady, conservative.", "usage": "Logo, primary surfaces"},
+          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean and unfussy.", "usage": "Backgrounds, paper"},
+          {"name": "Steel", "hex": "#5E6A75", "meaning": "Structure and balance.", "usage": "Secondary text, dividers"},
+          {"name": "Signal Green", "hex": "#3E8E5A", "meaning": "Positive metric. Used as a small accent.", "usage": "Charts, hover, success states"}
+        ],
+        "typography": {
+          "primary": "Inter",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital and print. Reserve the serif for the few documents that get printed and read at a desk."
+        },
+        "customSections": [
+          {"title": "What it doesn't sell", "body": "No D2C app. No wearables. No supplements. No personal training to the public. No celebrity coaches."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Sweat Equity",
+        "tagline": "We're all building something.",
+        "brandNameRationale": "A finance term, repurposed for fitness. Sweat equity is the value you create with your own work. The pun lands twice. Once at the door, once on the back of a hoodie.",
+        "manifesto": "We started Sweat Equity for the people who treat their gym hour the way they treat their work. As a deposit. As a thing they show up for, even on the bad days. The gym is a place to build something only you can build.",
+        "industrySummary": "Fitness brands sell two things right now. Calm. Or guilt. Neither is fun. There is room for one that treats fitness like a project you're excited about, not a debt you're paying.",
+        "competitorLandscape": "Barry's (barrysbootcamp.com) is the loud one. Solidcore (solidcore.co) is the disciplined one. The cult-fitness brands of Brooklyn (Mark Fisher Fitness, Tier Four) are the closest in voice. We're more direct, less inside-joke.",
+        "positioningStatement": "The gym that treats your hour like an investment, not a punishment.",
+        "targetAudience": {
+          "primary": "25 to 40. Working hard at something. A founder, a creative, a freelancer, a person juggling. Walks into the gym to clear their head, not to lose weight. Pays for the gym because it makes the rest of their work better."
+        },
+        "brandPersonalityTraits": ["Sharp", "Funny", "Warm", "Confident", "Honest"],
+        "voiceAndTone": {
+          "dos": [
+            "Make a joke at our own expense",
+            "Use real language, not gym jargon",
+            "Talk to the member as a peer"
+          ],
+          "donts": [
+            "Shame anyone",
+            "Use the word burn",
+            "Promise a body, ever"
+          ]
+        },
+        "logoDirection": "A wordmark with a small dollar sign worked into the E of Equity. Subtle enough that you have to look twice. Works on a tee, a totebag, and the front door. Standalone $ mark for stickers and Instagram avatar.",
+        "colorPalette": [
+          {"name": "Cash Green", "hex": "#0E6E4F", "meaning": "The color of a checkbook from 1995. Money green.", "usage": "Logo, primary surface, hoodies"},
+          {"name": "Receipt Pink", "hex": "#FFB7B7", "meaning": "Quiet warmth. The opposite of harsh.", "usage": "Accent, social, hover"},
+          {"name": "Paper Cream", "hex": "#F4EFE2", "meaning": "Used as space.", "usage": "Backgrounds, paper"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Text, structure, the wordmark on light.", "usage": "Body, headlines, structure"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big headlines",
+          "secondary": "PP Neue Montreal for body, web, and signage",
+          "rationale": "Migra carries the personality. Neue Montreal handles the work. The combo feels expensive and a little weird, in a good way."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a wellness brand. Not a transformation brand. Not a cult. Not silent. Not for everyone."},
+          {"title": "Where it lives", "body": "Hoodies and totes you actually want to wear out. The gym has one wall of past member photos taken by a film camera at the front desk. Social is text-on-green, full of inside jokes that always land."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why this exists",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who walks in",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

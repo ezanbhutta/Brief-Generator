@@ -1,0 +1,283 @@
+{
+  "industry": "bakery",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Crumb & Code",
+        "tagline": "Bread, built right.",
+        "brandNameRationale": "Two words from two worlds. Crumb is the inside of the loaf, the part bakers obsess over. Code is the structure that holds modern things together. The brand sits between hand work and rigor.",
+        "industrySummary": "Sourdough went mainstream during the pandemic. Now every neighborhood has a bakery that calls itself craft. The market is asking for the next step. Something that respects the bread but doesn't worship it.",
+        "competitorLandscape": "Tartine (tartinebakery.com) is the canon. Sullivan Street Bakery (sullivanstreetbakery.com) sells the volume. She Wolf Bakery (shewolfbakery.com) does the Brooklyn version. Most lean rustic. We lean modern.",
+        "positioningStatement": "A bakery for people who care about the bread and don't need the wood-and-flour story.",
+        "targetAudience": {
+          "primary": "30 to 50. Eats out three nights a week. Cooks the other four. Knows which bakery a chef uses. Will drive across town for a good loaf. Doesn't need the loaf wrapped in butcher paper to know it's good."
+        },
+        "brandPersonalityTraits": ["Precise", "Modern", "Considered", "Warm", "Direct"],
+        "voiceAndTone": {
+          "dos": [
+            "Use bread terms accurately",
+            "List what's in the loaf",
+            "Update the menu like a software changelog"
+          ],
+          "donts": [
+            "Use the word artisanal",
+            "Photograph the baker with flour on his face",
+            "Romanticize the oven"
+          ]
+        },
+        "logoDirection": "A wordmark in a precise grotesk, with the ampersand styled as a tight braid or twist. A second mark, a clean cross-section of a loaf in line art, used as the app icon and on the take-home box stamp.",
+        "colorPalette": [
+          {"name": "Crust", "hex": "#A65A2A", "meaning": "The color of a well-baked loaf at minute thirty-eight.", "usage": "Wordmark, accent, signage"},
+          {"name": "Flour", "hex": "#F4EFE3", "meaning": "Used as space. The dust on the counter.", "usage": "Background, paper, take-home bags"},
+          {"name": "Ink", "hex": "#1B1B1B", "meaning": "Type and structure.", "usage": "Body type, labels, web"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for ingredient lists and pricing",
+          "rationale": "One typeface family. The mono is for facts. The regular is for the brand. Two voices, one shelf."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No flour-on-the-apron photography. No founder origin story on the bag. No Friday market van with wooden crates."},
+          {"title": "Where it lives", "body": "A clean shop with a glass case, a board listing today's three breads, and one chalkboard with tomorrow's pastry list. Web ordering opens at 5 a.m. and closes when the day's loaves are claimed."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The vibe",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Lebrun",
+        "tagline": "Bread, since attention was a virtue.",
+        "brandNameRationale": "Maison sets the register. A house, not a shop. Lebrun is a baker's name from another century. Together it reads as a small French institution. The accent on the brand is on patience.",
+        "story": "Maison Lebrun began as a single oven in a stone room. We grew slowly, by intention. We still make the same number of loaves a day as the day we opened. Some people wait. Most do.",
+        "industrySummary": "There's a luxury food market that has run out of objects to elevate. Chocolate, salt, olive oil, even ice cubes. Bread sits there still. Plain on the counter. We think that's the opportunity.",
+        "competitorLandscape": "Poilâne (poilane.com) wrote the playbook. Du Pain et des Idées (dupainetdesidees.com) holds the Parisian charm. Tartine (tartinebakery.com) goes American luxury. We are quieter than all of them.",
+        "positioningStatement": "The bread house for people who treat bread the way other people treat wine.",
+        "targetAudience": {
+          "primary": "40 to 70. Wealthy. Has a chef at home or knows the chef at the restaurant. Eats bread the way it was meant to be eaten, with salted butter and silence. Will pay twelve dollars for the right loaf."
+        },
+        "brandPersonalityTraits": ["Patient", "Refined", "Quiet", "Steady", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Speak slowly",
+            "Use accurate French where it fits",
+            "Name the flour, the mill, and the miller"
+          ],
+          "donts": [
+            "Discount, ever",
+            "Use the word luxury",
+            "Talk loudly online"
+          ]
+        },
+        "logoDirection": "A serif wordmark with a small wheat sheaf used as a hallmark, not a logo. The sheaf goes on wax paper, on the back of the price tag, on the door handle. The wordmark goes on the awning, the box, the bag.",
+        "colorPalette": [
+          {"name": "Stone", "hex": "#C7BBA3", "meaning": "The color of an old miller's wall.", "usage": "Bags, paper, awning"},
+          {"name": "Burnt Crust", "hex": "#5A2E16", "meaning": "Deep, controlled brown. The color of a long fermentation.", "usage": "Wordmark, signage, type"},
+          {"name": "Linen", "hex": "#EFE7D5", "meaning": "Tablecloths, napkins, packaging.", "usage": "Background, paper, secondary"},
+          {"name": "Brass", "hex": "#A98B52", "meaning": "Foil, hardware, the brass scoop in the flour bin.", "usage": "Foil applications, signage details"}
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and major type",
+          "secondary": "Söhne for the menu and operational signage",
+          "rationale": "A classical serif sets the heritage tone. A modern grotesk handles the legibility for the menu and the website."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No franchise. No second location for now. No grocery store distribution. No collabs. No app."}
+        ],
+        "sectionLabels": {
+          "story": "Where this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who comes to us",
+          "personality": "How it feels",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "THE LOAF",
+        "tagline": "Bread.",
+        "brandNameRationale": "The definite article in front of the most basic word for the thing. We don't name the brand after the maker. We name it after the product. Honest and quiet.",
+        "industrySummary": "There are too many bakery brands. Every one of them has a story, a logo, a sourdough origin tale. Most of them are good. Almost none of them are quiet.",
+        "competitorLandscape": "Tartine, Du Pain et des Idées, every neighborhood Brooklyn bakery. The reference shelf is full. The shelf for quiet is empty.",
+        "positioningStatement": "The bakery that doesn't make a fuss about being a bakery.",
+        "targetAudience": {
+          "primary": "Adults who buy bread once or twice a week and don't need a story to go with it. They have a regular order. They don't want to talk."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Quiet", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Say less",
+            "Show the price",
+            "Name what's in the bread"
+          ],
+          "donts": [
+            "Tell stories",
+            "Sell",
+            "Photograph the baker"
+          ]
+        },
+        "logoDirection": "A wordmark only. THE LOAF set in a single weight grotesk, all caps, wide spacing. No icon. The bag has the wordmark and the price. The receipt has the date.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type, structure, the wordmark.", "usage": "All type and the wordmark"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Bags, web, paper, walls"},
+          {"name": "Stone", "hex": "#C7C0B0", "meaning": "Quiet, almost not there.", "usage": "Secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. One job."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No bag art. No founder story. No social campaigns. No paper price tags written by hand. Plain printing, plain paper."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who buys this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Wheat & Order Company",
+        "tagline": "Wholesale bread, delivered on time.",
+        "brandNameRationale": "Wheat names the product. Order names the discipline. Company closes it like a business. The whole thing sounds like it has been around since the 1940s, even if it's two years old.",
+        "industrySummary": "Restaurants and grocers spend more than they should on bread because the supplier is unreliable. The category is dominated by either huge factory bakers or precious craft bakeries that can't scale. Few players sit in the middle.",
+        "competitorLandscape": "Aryzta (aryzta.com) is the industrial giant. Boudin (boudinbakery.com) handles the West Coast wholesale. La Brea Bakery (labreabakery.com) is the premium wholesale standard. We are smaller, faster, more direct.",
+        "positioningStatement": "Wholesale bread that arrives at six, every day, and tastes like it was baked in a real oven.",
+        "positioningRationale": "Restaurant operations live and die on delivery reliability. We compete on showing up first, with bread that the head chef approves the first time.",
+        "targetAudience": {
+          "primary": "Restaurant owners, head chefs, grocer buyers, hotel F&B managers. They sign weekly purchase orders. They have a short list of bakers they trust.",
+          "motivations": [
+            "Delivery on time, every time",
+            "Bread that doesn't change between deliveries",
+            "One invoice, one contact"
+          ]
+        },
+        "brandPersonalityTraits": ["Reliable", "Direct", "Professional", "Calm", "Honest"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the delivery window",
+            "Show the price list",
+            "Speak to the buyer, not the diner"
+          ],
+          "donts": [
+            "Use consumer marketing language",
+            "Discount on the website",
+            "Sell to the public"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "On time, every time", "description": "We deliver between 5 and 7 a.m., seven days a week, including holidays."},
+          {"name": "The same bread, every time", "description": "Standardized recipes, calibrated ovens, single mill source. No batch variation."},
+          {"name": "One contact, one invoice", "description": "One account manager per restaurant. One invoice per month."}
+        ],
+        "logoDirection": "A wordmark with a small wheat icon to the left. The icon is geometric, almost industrial. Reads cleanly on a delivery van, an invoice, and a tray label.",
+        "colorPalette": [
+          {"name": "Mill Brown", "hex": "#5A3E20", "meaning": "Trust, tradition, the floor of an old bakery.", "usage": "Logo, primary surfaces"},
+          {"name": "Bone", "hex": "#F0EBDD", "meaning": "Clean and unfussy.", "usage": "Backgrounds, paper, vans"},
+          {"name": "Steel", "hex": "#5C6770", "meaning": "Structure and balance.", "usage": "Secondary text, dividers"},
+          {"name": "Wheat", "hex": "#D7A85F", "meaning": "Accent, used sparingly.", "usage": "Highlights, key info on print"}
+        ],
+        "typography": {
+          "primary": "Inter",
+          "secondary": "Source Serif Pro for printed price books",
+          "rationale": "Inter scales clean across digital and operational signage. Serif reserved for printed B2B documents."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No retail shop. No D2C. No specialty croissants. No seasonal limited editions. Bread, on time, at scale."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Crust Club",
+        "tagline": "Membership has its perks. Also: cookies.",
+        "brandNameRationale": "Crust is the most flavorful part. Club implies you belong. The pair sounds like a place that throws a good party. The name lives on a hoodie before it lives on a sign.",
+        "manifesto": "We started Crust Club because we wanted a bakery that felt like a place to hang out. Not a museum. Not a temple. Not a TikTok set. A real bakery with a sticky door handle and a sticker wall and bread that ruins other bread for you.",
+        "industrySummary": "Bakeries got serious. The serious ones are great but they're not fun. There's room for one that has personality, throws events, sells T-shirts, and still makes really good bread.",
+        "competitorLandscape": "She Wolf Bakery (shewolfbakery.com) is Brooklyn earnest. Bub and Grandma's (bubandgrandmas.com) has the LA charm. Levain (levainbakery.com) figured out the line-out-the-door bakery. We're more clubhouse than counter.",
+        "positioningStatement": "The bakery that throws the party and makes the bread.",
+        "targetAudience": {
+          "primary": "20s and 30s. Lives in a city. Has a friend group they post photos with. Joins things. Wears the merch. Buys a loaf and a totebag in the same trip."
+        },
+        "brandPersonalityTraits": ["Fun", "Warm", "Loud", "Confident", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Be playful",
+            "Name the bread something memorable",
+            "Make jokes the customer can repeat"
+          ],
+          "donts": [
+            "Sound corporate",
+            "Be precious about technique",
+            "Lecture about flour"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy serif with a wheat sheaf where the I in CLUB should be. A standalone wheat-as-I mark for stickers, totes, and Instagram avatar.",
+        "colorPalette": [
+          {"name": "Crust Orange", "hex": "#E07A2C", "meaning": "Loud, warm, the color of an actual crust.", "usage": "Primary brand color, hoodies, signage"},
+          {"name": "Butter", "hex": "#FFD773", "meaning": "Pure joy. The pat on the plate.", "usage": "Accent, social headers, swag"},
+          {"name": "Sourdough", "hex": "#F0E6CB", "meaning": "Warm cream, the inside of the loaf.", "usage": "Backgrounds, paper, bag color"},
+          {"name": "Cocoa", "hex": "#3D2C1A", "meaning": "Deep, anchoring brown. The chocolate chip.", "usage": "Body type, secondary surfaces"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Used for the wordmark on light backgrounds.", "usage": "Type, hard structure"}
+        ],
+        "typography": {
+          "primary": "Editorial New for the wordmark and large display",
+          "secondary": "PP Neue Montreal for body and signage",
+          "rationale": "A characterful serif up top. A modern sans beneath. Plenty of room for personality."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not minimal. Not silent. Not a temple to sourdough. Not a place to be photographed at."},
+          {"title": "Where it lives", "body": "Tote bags people actually use. Stickers on laptops. A bread-of-the-month club with a printed newsletter. Events at the shop on Sunday mornings. Hoodies in the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why this exists",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who shows up",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
