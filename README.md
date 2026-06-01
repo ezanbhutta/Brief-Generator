@@ -1,46 +1,70 @@
 # Brand Brief Generator
 
-A single-page web app that generates **deeply researched** branding briefs — brand name, positioning, audience, voice, palette, typography, and visual identity — from two inputs: **industry** and **style**.
-
-Briefs are produced by **Claude (Anthropic) with adaptive thinking + high effort** behind a Next.js server route. Generation takes ~20–40 seconds and is meaningfully better than templated output.
+A single-page web app that serves **agency-quality branding briefs** from a curated catalog. Users enter an industry and pick a style; the app returns a complete brief (name, positioning, audience, voice, palette, typography, visual direction). No LLM call at request time — briefs are pre-written and read from a static catalog.
 
 ## Tech
 
 - **Next.js 16** (App Router) + **React 18** + **TypeScript** + **Tailwind CSS**
-- **Anthropic SDK** (`@anthropic-ai/sdk`) using `claude-sonnet-4-6` with structured JSON output
-- No database, no auth — your API key is the only secret
+- No database — briefs are JSON files in `data/catalog/`
+- No API keys required at runtime
 
 ## Folder structure
 
 ```
 .
 ├── app/
-│   ├── api/generate/route.ts   Server route — calls Claude
+│   ├── api/generate/route.ts   Reads from the catalog; no external API
 │   ├── globals.css
 │   ├── layout.tsx
 │   └── page.tsx                Single-page UI
 ├── components/
 │   └── BriefDisplay.tsx        Rendered brief + copy-to-clipboard
+├── data/
+│   └── catalog/                Drop one JSON file per industry here
+│       └── README.md           Catalog file schema
 ├── lib/
-│   └── generator.ts            Brief types + plain-text serializer
-├── .env.example
-├── next.config.js · tailwind.config.ts · tsconfig.json · package.json …
+│   ├── catalog.ts              Loader + closest-match picker
+│   ├── generator.ts            Brief types + plain-text serializer
+│   └── industries.ts           50-industry registry with aliases
 ```
+
+## How it works
+
+1. User submits **industry** (free text) and **style** (dropdown).
+2. The server route resolves the industry through the 50-industry registry — exact match → alias → fuzzy (Levenshtein).
+3. It picks a random brief from `data/catalog/<industry>.json` for the matched style.
+4. The client tracks "seen" brief IDs in `localStorage`, so **Regenerate** always returns a different one until the cell is exhausted.
+
+If the catalog has no brief for the requested cell, the API returns a clear `cell-empty` / `industry-unknown` / `catalog-empty` error and the UI surfaces it gracefully.
+
+## Adding briefs to the catalog
+
+Each industry gets its own JSON file at `data/catalog/<industry-key>.json` matching this shape:
+
+```json
+{
+  "industry": "coffee",
+  "briefs": {
+    "Modern":    [ { /* Brief object */ }, ... ],
+    "Luxury":    [ ... ],
+    "Minimal":   [ ... ],
+    "Corporate": [ ... ],
+    "Creative":  [ ... ]
+  }
+}
+```
+
+- Use the keys from `lib/industries.ts` (e.g. `coffee`, `fintech`, `skincare`).
+- The `Brief` object schema is defined as the `Brief` interface in `lib/generator.ts`.
+- Append more briefs to a cell at any time — the picker reads the file at request time.
+- After editing catalog files, redeploy (or `npm run dev` will pick them up live).
 
 ## Local setup
 
-Requirements: Node.js 18.17+ (Node 20 LTS recommended) and an Anthropic API key.
+Requirements: Node.js 18.17+ (Node 20 LTS recommended).
 
 ```bash
-# 1. Install
 npm install
-
-# 2. Add your key
-cp .env.example .env.local
-# then open .env.local and paste your real key after ANTHROPIC_API_KEY=
-# Get a key: https://console.anthropic.com/settings/keys
-
-# 3. Run
 npm run dev
 # open http://localhost:3000
 ```
@@ -53,60 +77,22 @@ npm run start   # serve the production build
 npm run lint    # next lint
 ```
 
-## How a brief is generated
+## Deploying on Vercel (free)
 
-1. The user submits **industry** and **style**.
-2. The browser POSTs `/api/generate`.
-3. The server route calls Claude with:
-   - **Model:** `claude-sonnet-4-6`
-   - **Adaptive thinking** on — the model decides how much to reason per request
-   - **Effort:** `high`
-   - **Structured JSON output** — the response is constrained to the brief schema, so it's always parseable
-   - A senior-brand-strategist system prompt that requires competitive-landscape analysis, category-tension identification, and a defensible point of difference before generating any output
-4. The parsed JSON is returned and rendered.
-
-To swap the model (Opus for max quality, Haiku for speed/cost), edit `app/api/generate/route.ts` and change the `model:` string. See model docs: <https://platform.claude.com/docs/en/about-claude/models/overview>.
-
-## Deploying free on Vercel
-
-Vercel's Hobby tier is free and fits this app — the server route is set to `maxDuration = 60` seconds, which Hobby allows.
-
-### Deploy from GitHub
-
-1. Push this repo to GitHub.
+1. Push the repo to GitHub.
 2. Go to <https://vercel.com/new> and import the repo.
-3. Framework preset is auto-detected as **Next.js**. Leave the defaults:
-   - Build: `next build`
-   - Output: `.next`
-   - Install: `npm install`
-4. **Add the environment variable:** in the import screen (or later under Project → Settings → Environment Variables) add:
-   - **Name:** `ANTHROPIC_API_KEY`
-   - **Value:** your Anthropic API key
-   - **Environments:** Production, Preview, Development
-5. Click **Deploy**. You'll get a live URL in ~60 seconds.
+3. Vercel auto-detects **Next.js**. Leave defaults.
+4. **No environment variables required.**
+5. Deploy.
 
-Every push to your default branch redeploys to production; PRs get preview URLs.
+Every push to the default branch auto-deploys.
 
-### Deploy from your terminal
+## Customizing
 
-```bash
-npm install -g vercel
-vercel              # first-time: links the project, creates a preview
-vercel env add ANTHROPIC_API_KEY    # paste the key, pick all environments
-vercel --prod       # promote to production
-```
-
-## Costs
-
-Each brief uses Sonnet 4.6: roughly 5–15K input tokens and 3–6K output tokens, including thinking. At list pricing that's typically **$0.05–$0.15 per brief**. Anthropic offers a small starting credit when you create an account.
-
-To reduce cost: lower `effort` to `"medium"` in `app/api/generate/route.ts`, or switch the model to `claude-haiku-4-5`.
-
-## Customizing the briefs
-
-- **Change the brand-strategist persona / standards:** edit `SYSTEM_PROMPT` in `app/api/generate/route.ts`.
-- **Add or remove fields:** update `Brief` and `briefToPlainText` in `lib/generator.ts`, update `BRIEF_SCHEMA` in the API route, and update `components/BriefDisplay.tsx` to render the new fields.
+- **Add a new industry:** add an entry to `INDUSTRIES` in `lib/industries.ts` (key + label + aliases), then create `data/catalog/<key>.json`.
 - **Add a new style:** add it to the `Style` union and `STYLES` array in `lib/generator.ts`. The dropdown reads from the same list.
+- **Tweak fallback behavior:** edit `resolveIndustry` in `lib/industries.ts` (Levenshtein threshold, alias matching).
+- **Change "seen" memory:** edit `SEEN_LIMIT` in `app/page.tsx`.
 
 ## License
 
