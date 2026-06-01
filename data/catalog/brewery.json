@@ -1,0 +1,283 @@
+{
+  "industry": "brewery",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "DRAFT LIST",
+        "tagline": "Six on tap. Two rotating.",
+        "brandNameRationale": "Two words. Draft List is what's on the tap wall, the brewer's daily selection. The brand sits on the smallest commitment the brewery makes: this is what we have today. Modern, plain, immediately legible to anyone who has stood at a bar.",
+        "industrySummary": "Modern craft breweries are competing with thousands of others on the shelf and on tap. The customer has gotten more discerning and design-literate. Brand quality, can design, and a clear point of view do more work than they used to.",
+        "competitorLandscape": "Other Half (otherhalfbrewing.com) holds the hype-driven peer. Trillium (trilliumbrewing.com) sits in the New England IPA tier. Hop Butcher For The World (hopbutcher.com) does the design-led aggressive middle. Modern Times (moderntimesbeer.com) has the strong visual world. We sit closest to Modern Times in posture.",
+        "positioningStatement": "A small modern brewery with eight beers on at a time and no nostalgia.",
+        "targetAudience": {
+          "primary": "25 to 45. Drinks craft beer two or three times a week. Already follows three local breweries. Will walk past four others to drink ours."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the list and the prices clearly",
+            "Talk about the beer, not the founders",
+            "Use plain English on the menu"
+          ],
+          "donts": [
+            "Use the word craft",
+            "Photograph the brewers with their arms crossed",
+            "Run a 'limited drop' campaign every Thursday"
+          ]
+        },
+        "logoDirection": "A wordmark only. DRAFT LIST in a tight modern grotesk, all caps, two words on one line. A small geometric mark, a single thin underline, used as the favicon and on every can lid.",
+        "colorPalette": [
+          {"name": "Tap Black", "hex": "#101012", "meaning": "Polished tap handle.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Bone", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, packaging body"},
+          {"name": "Hop Green", "hex": "#3E8E5A", "meaning": "Fresh hops. The single accent.", "usage": "Tap list highlights, sale signage"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for the tap list and prices",
+          "rationale": "One family. The mono carries the data: ABV, IBU, price. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'crafted with passion' copy. No founder origin story on the can. No medals printed on the label. No 'limited drop' weekly hype."},
+          {"title": "Where it lives", "body": "A taproom with a printed list rewritten daily. Cans with the wordmark and the beer name only. The beer name and the ABV. Nothing on the back."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who drinks here",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Halewood & Co.",
+        "tagline": "Brewed since 1881.",
+        "brandNameRationale": "Three words. Halewood is an English surname suggesting a long-running family brewery. & Co. closes it as a small heritage firm. The whole name reads as a regional brewery that has outlasted its founders.",
+        "story": "Halewood & Co. began as a single oak-vessel brewery in a market town. The current generation has stayed at the same address. The barrels have stayed in use. Some clients have been buying from the brewery for three generations.",
+        "industrySummary": "Top end beer has been moving toward larger craft brewers and bigger distribution. There's a parallel market for small heritage breweries in the older tradition. Few beers, old methods, oak vessels, decades-long relationships. The customer is paying for the brewery, the brewer, and the next pint in a decade.",
+        "competitorLandscape": "Cantillon (cantillon.be) holds the institutional traditional brewery peer. The Kernel Brewery (thekernelbrewery.com) sits in the modern-craft heritage middle. Drie Fonteinen (3fonteinen.be) is the Belgian peer. We sit closer to The Kernel in posture.",
+        "positioningStatement": "A small heritage brewery making a few beers, very carefully.",
+        "targetAudience": {
+          "primary": "Wealthy, often beer-collecting. Has cellared bottles for years. Pays for the craft and the patience. Values the brewer's eye over the marketing."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the customer by surname in writing",
+            "Name the barrel, the malt, the brewer",
+            "Send paper allocation letters"
+          ],
+          "donts": [
+            "Discount",
+            "Use the word craft",
+            "Promote on Instagram"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the brewery's hallmark, used on bottle labels, the cellar book, and the brass plaque outside the brewery gate.",
+        "colorPalette": [
+          {"name": "Cellar Brown", "hex": "#5A3E20", "meaning": "Oak barrel, the cellar floor.", "usage": "Primary brand color, bottle labels, signage"},
+          {"name": "Brass", "hex": "#A38454", "meaning": "Aged metal, the bottle cap.", "usage": "Foil, hallmark, accents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, packaging, paper"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure allocation portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No retail distribution. No flash sales. No celebrity brewers. No social media presence. No content marketing."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who buys from us",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "TAP",
+        "tagline": "One. Two. Three.",
+        "brandNameRationale": "Single word. Tap is the smallest unit of a beer-drinking decision. The brand sits on the moment between standing at the bar and ordering. Plain, direct, and slightly anti-brand.",
+        "industrySummary": "Most breweries have elaborate names, mascots, and brand worlds. There's an opening for one that strips it back to the most basic word in the experience.",
+        "competitorLandscape": "Most breweries fail this purity test. The closest peers in spirit are some Belgian Trappist breweries (where the abbey, not the brand, does the work) and certain Japanese sake makers.",
+        "positioningStatement": "A small brewery with three beers. No more. No less.",
+        "targetAudience": {
+          "primary": "Adults who don't need a brand world to choose a beer. They want a good lager, a good IPA, and a good stout, plainly packaged, fairly priced."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the beer, the price, the ABV",
+            "Print the same label every batch",
+            "Use plain English"
+          ],
+          "donts": [
+            "Brew limited editions",
+            "Photograph the brewery for press",
+            "Run a tap takeover marketing campaign"
+          ]
+        },
+        "logoDirection": "A wordmark only. TAP in a single weight grotesk, wide kerned, all caps, three letters with generous space. No icon. The can, the menu, and the receipt all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The can, the menu, and the website all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No limited editions. No collaborations. No barrel-aged variants. No mug club. No newsletter."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who drinks here",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Eastside Brewing Group",
+        "tagline": "Brewing and distribution at scale.",
+        "brandNameRationale": "Three words. Eastside suggests a geographic identity and operational scale. Brewing Group names the holding-company category. The whole name reads like a real, established regional brewer-distributor already on the procurement panel at retail chains.",
+        "industrySummary": "Regional brewing and beer distribution is a serious B2B category. Retail chains, restaurant groups, and on-premise operators need partners who can deliver consistent beer supply at scale across multiple labels. The category is dominated by giants and a few specialist firms.",
+        "competitorLandscape": "Anheuser-Busch InBev (ab-inbev.com) is the global giant. Constellation Brands (cbrands.com) holds the institutional peer. Boston Beer Company (bostonbeer.com) sits in the modern-craft scale tier. We sit smaller, focused on the regional contemporary brewing side.",
+        "positioningStatement": "Regional brewing operations and beer distribution for retail chains and restaurant groups.",
+        "positioningRationale": "Regional retailers and restaurant groups want partners who can deliver multiple brewing labels with operational discipline. The giants are too national. The boutique brewers lack scale. We sit in the middle.",
+        "targetAudience": {
+          "primary": "Beverage Directors, Category Managers, and Buyers at regional retail chains, restaurant groups, and on-premise operators. They sign multi-year supply contracts.",
+          "motivations": [
+            "Reliable supply across labels",
+            "Quality control across production runs",
+            "Single distributor for multiple categories"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the portfolio and delivery model",
+            "Show case studies with retail-partner revenue",
+            "Speak to the buyer, not the drinker"
+          ],
+          "donts": [
+            "Use consumer beer language",
+            "Photograph beer in styled settings",
+            "Promote individual labels on consumer social"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Production at scale", "description": "Multiple brewing labels under one operating group, with consistent quality across runs."},
+          {"name": "Reliable distribution", "description": "On-time delivery, dedicated account management, and predictable pricing."},
+          {"name": "One partner across categories", "description": "Beer, hard seltzer, and adjacent beverages under one contract."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single hop-cone silhouette reduced to two crossing strokes. Reads cleanly on a sourcing deck, name badge, and B2B trade show booth.",
+        "colorPalette": [
+          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Hop Green", "hex": "#3E8E5A", "meaning": "Category accent.", "usage": "Highlights, charts, success states"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed catalogs and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs and supply contracts."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C beer sales. No retail taprooms. No celebrity brewer partnerships. The firm sells through wholesale and on-premise distribution."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys from us",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "PINT GLASS",
+        "tagline": "Made for drinking together.",
+        "brandNameRationale": "Two words. Pint Glass names the vessel of the social drink. The brand puts the shared experience in the brand position, not the brewer's ego. Loud, warm, and immediately legible.",
+        "manifesto": "Most breweries sell the beer. We made Pint Glass because the actual product is the hour spent drinking it with people you like. The brand is for the round of pints at the end of a Thursday, the pub on the way home, the bar where you don't need to look at the menu. We brew good beer for the rooms where good beer matters.",
+        "industrySummary": "Brewery branding has been polished, hop-forward, and slightly precious. There's room for a brewery that's loud, warm, sticker-friendly, and serious about the social experience of drinking beer.",
+        "competitorLandscape": "Founders Brewing (foundersbrewing.com) does the irreverent middle. Sierra Nevada (sierranevada.com) holds the heritage peer. Russian River Brewing (russianriverbrewing.com) sits in the cult-craft tier. We sit warmer than all of them.",
+        "positioningStatement": "A brewery built around the round, not the bottle.",
+        "targetAudience": {
+          "primary": "25 to 45. Goes to the same pub two or three times a week. Buys the round. Tells friends about the brewery by tagging them in a photo at the bar."
+        },
+        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes about beer snobbery",
+            "Show real customers at the bar",
+            "Talk like the friend who's getting the next round"
+          ],
+          "donts": [
+            "Use the word craft",
+            "Photograph hops against marble",
+            "Run medal-count marketing"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the G of GLASS stylized as a small round pint silhouette. Standalone pint-G icon for stickers, coasters, and social profiles.",
+        "colorPalette": [
+          {"name": "Pint Amber", "hex": "#C8A24A", "meaning": "The color of the beer in the glass.", "usage": "Primary brand color, can labels, signage"},
+          {"name": "Foam White", "hex": "#F4EFE2", "meaning": "The head.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Bar Black", "hex": "#181818", "meaning": "The bar top.", "usage": "Body type, structure"},
+          {"name": "Pub Red", "hex": "#A8313F", "meaning": "Pub leather, the booth.", "usage": "Accent, secondary surfaces"},
+          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Punchline accent.", "usage": "Highlights, social, swag"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and labels",
+          "rationale": "Migra has warmth. Neue Montreal handles the practical bits. The pair feels designed and warm."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a hype brewery. Not a medal-collecting brewery. Not afraid of amber. Not too cool to put a joke on a coaster."},
+          {"title": "Where it lives", "body": "Coasters in every bar that pours us. Stickers in every six-pack. A monthly newsletter with the customer photos from the taproom. A merch line of two shirts that say PINT GLASS across the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who drinks this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

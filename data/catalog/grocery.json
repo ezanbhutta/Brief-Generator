@@ -1,0 +1,283 @@
+{
+  "industry": "grocery",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "GOOD GROCER",
+        "tagline": "Stocked weekly. Picked daily.",
+        "brandNameRationale": "Two words. Good Grocer names the customer's universal desire (a good grocery store) and the brand's claim at once. Plain, modern, and impossible to misread.",
+        "industrySummary": "Modern grocery has split between the giant chains and the small specialty stores. The customer is design-literate, increasingly willing to pay a premium for local sourcing and editorial selection, and tired of the overwhelming aisle.",
+        "competitorLandscape": "Foragers (foragersmarket.com) holds the design-led specialty position. Eataly (eataly.com) sits at the curated international tier. Pop Up Grocer (popupgrocer.com) does the discovery shop middle. We sit closer to Pop Up Grocer in posture.",
+        "positioningStatement": "A small modern grocer with a tight, edited selection and a clear price.",
+        "targetAudience": {
+          "primary": "28 to 50. Cooks at home three to five times a week. Reads about food, doesn't post about it. Will pay a premium for editorial selection and a fair price."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Warm"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the product, the producer, the price",
+            "Recommend three items per visit",
+            "Speak to the cook, not the shopper"
+          ],
+          "donts": [
+            "Use the word curated",
+            "Photograph aisles with golden hour light",
+            "Run a 'farm to table' marketing campaign"
+          ]
+        },
+        "logoDirection": "A wordmark only. GOOD GROCER in a precise modern grotesk, all caps, two words on one line. A small geometric mark, a single thin horizontal line beneath, used as the receipt header and the favicon.",
+        "colorPalette": [
+          {"name": "Market Black", "hex": "#101012", "meaning": "Chalk on a sign.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Bone", "hex": "#F4F0E6", "meaning": "Brown paper. Used as space.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Stamp Red", "hex": "#D72638", "meaning": "Price tag. The single accent.", "usage": "Sale signage, web headlines, key callouts"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for prices and product specs",
+          "rationale": "One family. The mono carries the price and the product data. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'farm to table' marketing. No celebrity-chef collaborations. No flash sales. No loyalty program."},
+          {"title": "Where it lives", "body": "A small shop reprinted-each-week menu. A printed weekly recommendation card. A direct relationship with the customer at the register."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who shops here",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Provisions & Co.",
+        "tagline": "The good cellar, stocked.",
+        "brandNameRationale": "Three words. Provisions is the older word for what a household keeps in the larder. & Co. closes it as a small heritage firm. The whole name reads as a quiet provisions merchant serving households that keep proper cellars.",
+        "story": "Provisions & Co. began as a small shop above a delivery service for households with country homes. The firm has stayed at the same address. The catalog has stayed close to the same number of items. Some clients have been with the firm for two generations.",
+        "industrySummary": "Top end grocery has been moving toward larger gourmet retailers and faster delivery. There's a parallel market for small heritage provisions merchants in the older tradition. Tight selection, decades-long supplier relationships, careful delivery to households that have kept the same store on rotation for years.",
+        "competitorLandscape": "Dean & DeLuca (formerly) was the institutional reference. Fortnum & Mason (fortnumandmason.com) holds the heritage London peer. Goldbelly (goldbelly.com) sits at the modern delivery middle. We sit smaller and more discreet than all of them.",
+        "positioningStatement": "A heritage provisions merchant for households that keep proper cellars.",
+        "targetAudience": {
+          "primary": "Wealthy. Often inherited. Maintains primary and country homes. Orders the same items for years. Values the relationship with the merchant over the catalog browsing."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Name the producer, the region, the year",
+            "Send paper allocation cards by post"
+          ],
+          "donts": [
+            "Discount",
+            "Use the word luxury",
+            "Promote on Instagram"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the merchant's hallmark, used on the order book, the delivery boxes, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Cellar Green", "hex": "#1E3A30", "meaning": "Cool larder walls.", "usage": "Primary brand color, signage, letterhead"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hallmark, accents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, packaging, paper"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure ordering portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No flash sales. No celebrity-chef partnerships. No third-party delivery platforms. No social media presence."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who orders from us",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "MARKET",
+        "tagline": "We sell groceries.",
+        "brandNameRationale": "Single word. Market is the most universal word for what we are. The brand sits on the category itself, plain and unadorned. Anti-brand by virtue of being plain.",
+        "industrySummary": "Most grocery brands have elaborate names, brand worlds, and origin stories. There's an opening for one that strips it all back to the most basic word for what's actually happening.",
+        "competitorLandscape": "Most grocery brands fail this purity test. The closest peer in spirit is some Japanese supermarket traditions and the no-name aesthetic of certain warehouse retailers.",
+        "positioningStatement": "A small grocery store. Plain bags. Clear prices.",
+        "targetAudience": {
+          "primary": "Adults who want groceries and don't want a brand story. They want the produce, the price, the receipt. Done."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the product, the price, the date",
+            "Confirm orders in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Promote a 'local-first' content campaign",
+            "Photograph the produce against marble",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark only. MARKET in a single weight grotesk, wide kerned, all caps, six letters with generous space. No icon. The bag, the receipt, and the sign all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The bag, the receipt, and the sign all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No loyalty card. No newsletter. No 'meet the farmer' content. No celebrity-chef recipe cards. No app."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who shops here",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Northstar Grocery Partners",
+        "tagline": "Grocery wholesale and distribution at scale.",
+        "brandNameRationale": "Three words. Northstar suggests guidance and reliability. Grocery Partners closes it as a B2B services firm. The whole name reads like a real, established grocery distributor already on the procurement panel at chains and independent grocers.",
+        "industrySummary": "Grocery wholesale and distribution is a multi-billion-dollar B2B category dominated by giants (Sysco, US Foods) and a few specialty distributors. Buyers are retail chains, independent grocers, and restaurants. Brand and operational discipline are the differentiators.",
+        "competitorLandscape": "Sysco (sysco.com) is the institutional giant. US Foods (usfoods.com) holds the same tier. UNFI (unfi.com) does the natural-and-specialty middle. We sit smaller and more focused on the contemporary specialty-grocery side.",
+        "positioningStatement": "Grocery wholesale and distribution for specialty grocery chains and independent retailers.",
+        "positioningRationale": "Specialty grocery chains and independent retailers want partners who can deliver design-led product selection at scale. The category incumbents are designed for mass-market grocery. We are designed for the specialty middle.",
+        "targetAudience": {
+          "primary": "Category Buyers, VPs of Merchandising, and Procurement Directors at specialty grocery chains and independent retailers. They sign annual supply contracts.",
+          "motivations": [
+            "Reliable supply of specialty products",
+            "Editorial-grade product selection",
+            "Single distributor across multiple categories"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the catalog and the delivery model",
+            "Show case studies with retail-partner revenue",
+            "Speak to the buyer, not the shopper"
+          ],
+          "donts": [
+            "Use consumer grocery language",
+            "Photograph products in styled settings",
+            "Promote individual SKUs on consumer social"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Wholesale at scale", "description": "Reliable supply across produce, pantry, dairy, and specialty under one contract."},
+          {"name": "Editorial-grade selection", "description": "Product catalog curated with the eye of a specialty buyer."},
+          {"name": "One distributor across categories", "description": "Produce, pantry, dairy, and specialty under one engagement."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single eight-point star, suggesting the north star. Reads cleanly on a sourcing deck, name badge, and B2B trade show booth.",
+        "colorPalette": [
+          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, slides"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Specialty Green", "hex": "#3E8E5A", "meaning": "Category accent.", "usage": "Highlights, charts"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed catalogs and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs and supply contracts."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C grocery brand. No retail stores. No celebrity-chef partnerships. The firm sells through wholesale, not consumer social."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys from us",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "SNACK TIME",
+        "tagline": "Earned, daily.",
+        "brandNameRationale": "Two words. Snack Time is what every customer is actually shopping for, even if they don't admit it. The brand puts the small daily pleasure in the brand position. Loud, warm, and slightly cheeky.",
+        "manifesto": "Most grocery brands sell the weekly stock-up. The week-of-meals. The Pinterest-pantry. We made Snack Time because the truth about grocery shopping is that the best part is the chips, the drink, the small thing you bought because you wanted it. The brand is for the snack, the late-night fridge, the bag opened in the parking lot.",
+        "industrySummary": "Grocery branding has been earnest, sustainability-led, and slightly preachy. There's room for a brand that's loud, warm, sticker-friendly, and serious about the small daily pleasure of food.",
+        "competitorLandscape": "Trader Joe's (traderjoes.com) holds the playful-grocery peer position. Erewhon (erewhonmarket.com) sits at the lifestyle tier. Aldi (aldi.us) does the value-led middle. We sit warmer and funnier than any of them.",
+        "positioningStatement": "A grocery brand that celebrates the snack, not the stock-up.",
+        "targetAudience": {
+          "primary": "25 to 45. Buys groceries twice a week. Likes the chips aisle. Tells friends about the brand by tagging them in a snack photo at 3 p.m."
+        },
+        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes about the chips aisle",
+            "Photograph customers eating the snacks",
+            "Talk to the snacker like a friend who'd share"
+          ],
+          "donts": [
+            "Promote a 'wellness lifestyle'",
+            "Photograph empty pantries with curated jars",
+            "Use the word artisanal"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the T of TIME stylized as a small clock hand. Standalone clock-hand icon for stickers, social profiles, and the back of every receipt.",
+        "colorPalette": [
+          {"name": "Snack Red", "hex": "#D72638", "meaning": "Loud, warm, the chip-bag color.", "usage": "Primary brand color, hero surfaces, swag"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background, the paper bag.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Highlight, the price-tag yellow.", "usage": "Accents, social, swag"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
+          {"name": "Pickle Green", "hex": "#3E8E5A", "meaning": "Refrigerator-aisle green.", "usage": "Secondary surfaces, accents"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and labels",
+          "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a wellness brand. Not a stock-up brand. Not afraid of red. Not too cool to put a chip on a tote bag."},
+          {"title": "Where it lives", "body": "A small shop with a wall of customer snack photos. Stickers in every order. A weekly newsletter that's mostly snack reviews. A merch line of two tees that say SNACK TIME across the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who shops here",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

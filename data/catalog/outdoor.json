@@ -1,0 +1,283 @@
+{
+  "industry": "outdoor",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "OFF GRID",
+        "tagline": "Gear for the next miles.",
+        "brandNameRationale": "Two words. Off Grid is the customer's stated goal: to be somewhere the phone signal is weak and the city is far. The brand sits on the destination, not the equipment.",
+        "industrySummary": "Modern outdoor brands are competing with the legacy giants (Patagonia, REI) and the technical specialists (Arc'teryx). The customer is design-literate, weight-conscious, and willing to pay for materials science that survives a long trip.",
+        "competitorLandscape": "Topo Designs (topodesigns.com) holds the modern outdoor-lifestyle peer. Cotopaxi (cotopaxi.com) sits in the design-led middle. REI Co-op (rei.com) is the institutional retailer. Arc'teryx (arcteryx.com) holds the technical-premium peer. We sit closest to Topo in posture.",
+        "positioningStatement": "Outdoor gear for the trip that's two days too long.",
+        "targetAudience": {
+          "primary": "28 to 45. Goes outside on weekends and books a real trip once a year. Buys the gear that lasts five trips. Reads the spec sheet."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the gear, the material, the weight",
+            "Photograph real trips with real customers",
+            "Skip the wilderness inspiration copy"
+          ],
+          "donts": [
+            "Use the word adventure",
+            "Photograph empty mountains at sunrise",
+            "Run a 'wilderness manifesto' campaign"
+          ]
+        },
+        "logoDirection": "A wordmark only. OFF GRID in a tight modern grotesk, all caps, two words on one line. A small geometric mark, two crossed thin lines suggesting a compass bearing, used as the favicon and on every gear tag.",
+        "colorPalette": [
+          {"name": "Trail Black", "hex": "#101012", "meaning": "Wet rock, the dark of the early morning trail.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Bone", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Hi-Vis Orange", "hex": "#FF6A2A", "meaning": "Safety accent. The marker on a trail.", "usage": "Tags, key callouts, sale signage"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for material specs and weight",
+          "rationale": "One family. The mono carries the gear data (weight, gauge, material). The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'find yourself' copy. No empty-mountain photography. No celebrity-explorer partnerships. No 'wilderness lifestyle' bundles."},
+          {"title": "Where it lives", "body": "A site that shows the gear in real use first. Real customer photos from real trips. A printed gear-guide twice a year. A monthly newsletter with three pieces of gear and where they've been tested."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who carries this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Hawksworth Outfitters",
+        "tagline": "Equipment, since 1932.",
+        "brandNameRationale": "Two words. Hawksworth sounds like an English country surname or place name with quiet outdoor heritage. Outfitters is the older word for a shop that supplies expeditions. The whole name reads as a heritage outfitter that has been outfitting walking parties and shooting parties for almost a century.",
+        "story": "Hawksworth Outfitters began as a small shop above a country gun makers. The current generation has stayed at the same address. Each item is hand-finished. Each customer is recorded in the same ledger started in 1932.",
+        "industrySummary": "Top end outdoor has been moving toward technical performance and bigger marketing. There's a parallel market for heritage outfitters in the older tradition. Hand-finished gear, lifetime guarantees, decades-long relationships with shooting parties, walking clubs, and country families.",
+        "competitorLandscape": "Holland & Holland (hollandandholland.com) holds the institutional peer in shooting and outdoor luxury. Purdey (purdey.com) sits at the bespoke firearm-and-outdoor tier. Filson (filson.com) does the heritage American workwear-and-outdoor middle. We sit smaller and more discreet than all of them.",
+        "positioningStatement": "A heritage outfitter making hand-finished gear for country pursuits.",
+        "targetAudience": {
+          "primary": "Wealthy, often inherited. Owns a country house. Walks, fishes, shoots. Buys gear once and expects it to last decades. Values the relationship with the outfitter."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the customer by surname",
+            "Name the material, the maker, the leatherworker",
+            "Send paper measurement cards for fittings"
+          ],
+          "donts": [
+            "Discount",
+            "Use the word adventure",
+            "Photograph the shop for fashion press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn hawk silhouette becomes the outfitter's hallmark, used on the leather hangtag of every piece, the printed catalog, and the brass plaque outside the shop.",
+        "colorPalette": [
+          {"name": "Field Green", "hex": "#3A4032", "meaning": "Old growth woodland, the moor.", "usage": "Primary brand color, signage, livery"},
+          {"name": "Saddle Brown", "hex": "#5A3E20", "meaning": "Aged leather, the workshop bench.", "usage": "Hangtags, leather products, accents"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The hardware.", "usage": "Foil, hallmark, accents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the catalog.", "usage": "Stationery, paper, packaging"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No wholesale to outdoor chains. No technical-performance marketing. No celebrity ambassadors. No social media presence. No press."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we outfit",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "PACK",
+        "tagline": "Take less.",
+        "brandNameRationale": "Single word. Pack is the act and the object. What you carry and what you carry it in. The brand sits on the smallest decision of any trip: what to take. Plain, direct, immediately useful.",
+        "industrySummary": "Outdoor brands have elaborate names and longer stories. There's an opening for one that strips it back to the verb and the object at once.",
+        "competitorLandscape": "Most outdoor brands fail this purity test. The closest peers in spirit are some Japanese hiking brands and certain ultralight-backpacking practitioners' kit lists.",
+        "positioningStatement": "Outdoor gear designed to be carried, not collected.",
+        "targetAudience": {
+          "primary": "Adults who already know what they want to take outside. They want the gear, the weight, the price. They will not read the founder's letter."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the gear, the weight, the price",
+            "Confirm orders in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Photograph the gear against mountain backdrops",
+            "Use the word ultralight as marketing",
+            "Run a wilderness manifesto campaign"
+          ]
+        },
+        "logoDirection": "A wordmark only. PACK in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The tag, the catalog, and the receipt all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The tag, the spec sheet, and the receipt all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No seasonal lookbooks. No collaborations with fashion houses. No 'lifestyle' branded apparel. No newsletter."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who carries this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Foundry Outdoor Group",
+        "tagline": "Outdoor gear manufacturing at scale.",
+        "brandNameRationale": "Three words. Foundry suggests heavy production, durable engineering, and serious manufacturing. Outdoor Group names the category. The whole name reads like a real, established outdoor manufacturer already on the procurement panel at major retailers.",
+        "industrySummary": "Outdoor gear manufacturing and licensing is a B2B category dominated by giants (VF Corporation, Columbia Sportswear) and a few specialist firms. The buyers are retailers, brand licensees, and outdoor specialty chains. Brand and operational discipline are the differentiators.",
+        "competitorLandscape": "VF Corporation (vfc.com) holds the outdoor-conglomerate peer position. Columbia Sportswear (columbia.com) sits at the institutional tier. Amer Sports (amersports.com) is the international peer. We sit smaller, focused on the contemporary outdoor brand operator side.",
+        "positioningStatement": "Outdoor gear manufacturing and licensing for contemporary outdoor brands at scale.",
+        "positioningRationale": "Contemporary outdoor brands want operating partners with manufacturing depth and category understanding. The conglomerate giants are slow. We sit in the middle.",
+        "targetAudience": {
+          "primary": "Heads of Sourcing, VPs of Manufacturing, and Licensing Directors at outdoor brands, retail chains, and specialty outdoor chains. They sign multi-season production contracts.",
+          "motivations": [
+            "Reliable manufacturing across product lines",
+            "Materials science and technical fabric expertise",
+            "One partner across apparel, packs, and hardware"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with production capacity",
+            "Show case studies with retail-partner performance",
+            "Speak to the buyer, not the end consumer"
+          ],
+          "donts": [
+            "Use consumer outdoor brand language",
+            "Photograph empty mountains",
+            "Promote individual products on consumer social"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Manufacturing at scale", "description": "Multi-season production across apparel, packs, and outdoor hardware under one operating group."},
+          {"name": "Technical fabric expertise", "description": "Working relationships with the major technical fabric suppliers and a fabric R&D team."},
+          {"name": "One partner across categories", "description": "Apparel, packs, footwear, and accessories under one contract."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single mountain silhouette reduced to two intersecting strokes. Reads cleanly on a sourcing deck, name badge, and B2B trade show booth.",
+        "colorPalette": [
+          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Trail Green", "hex": "#3A4032", "meaning": "Category accent.", "usage": "Highlights, foil on B2B documents"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed catalogs and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs and licensing contracts."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C consumer brand. No retail stores. No outdoor celebrity partnerships. The firm sells through B2B sourcing, not consumer outdoor social."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys from us",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "GET LOST",
+        "tagline": "On purpose.",
+        "brandNameRationale": "Two words, imperative. Get Lost is the customer's actual goal: to be somewhere they don't fully know. The brand puts the wandering in the brand position. Loud, slightly cheeky, and immediately legible.",
+        "manifesto": "Most outdoor brands sell the photogenic mountain peak. The summit. The arrival. We made Get Lost because the actual experience of being outside is the wander before the destination. The wrong turn. The unmarked trail. The hour you sat by the river because you didn't know which way was the car. The brand is for the time spent not arriving.",
+        "industrySummary": "Outdoor branding has been polished, summit-focused, and slightly aspirational. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about the long, slow, slightly aimless time outside that nobody photographs.",
+        "competitorLandscape": "Yeti (yeti.com) does the irreverent rugged middle. Topo Designs (topodesigns.com) holds the design-led modern. Howler Brothers (howlerbros.com) sits in the playful-outdoor peer position. We sit warmer and more honest than any of them.",
+        "positioningStatement": "An outdoor brand for the hour you didn't plan.",
+        "targetAudience": {
+          "primary": "25 to 45. Goes outside often. Doesn't summit. Sits by rivers. Pulls over for the view. Buys the gear because the brand made them laugh."
+        },
+        "brandPersonalityTraits": ["Warm", "Sharp", "Playful", "Confident", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes about adventure marketing",
+            "Quote real customer wrong-turn stories",
+            "Talk like the friend who's already in the parking lot"
+          ],
+          "donts": [
+            "Photograph summit shots",
+            "Use the word adventure",
+            "Promote a 'wilderness manifesto'"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the L of LOST stylized as a small turned arrow, suggesting a path that turns. Standalone turned-arrow icon for stickers, social profiles, and gear tags.",
+        "colorPalette": [
+          {"name": "Trail Red", "hex": "#D72638", "meaning": "Loud, warm, the trail marker.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Field Green", "hex": "#3A4032", "meaning": "The woods.", "usage": "Secondary, gear, packaging"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Hi-Vis Yellow", "hex": "#FFD23F", "meaning": "Safety vest, the rain shell.", "usage": "Accents, swag, social"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and gear tags",
+          "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and a little weird."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a summit brand. Not a technical-spec brand. Not afraid of red. Not too cool to pull over for snacks."},
+          {"title": "Where it lives", "body": "Real customer photos from the parking lot, not the summit. Stickers in every order. A weekly newsletter with one good slow walk a week. A merch line of two shirts that say GET LOST across the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who wanders with us",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
