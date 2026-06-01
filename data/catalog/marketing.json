@@ -1,0 +1,283 @@
+{
+  "industry": "marketing",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "NOTICE",
+        "tagline": "Be the thing they remember.",
+        "brandNameRationale": "Single word. Notice is what every marketing campaign exists to earn: a real moment of attention from a real person. The brand sits on the outcome, not the discipline. Plain, sharp, and immediately legible.",
+        "industrySummary": "Modern marketing agencies are competing with the big network shops at the top and freelancers at the bottom. The customer is design-literate and tired of strategic-deck theatre. The opening is for a small agency that talks like a craft studio and ships like a product company.",
+        "competitorLandscape": "Mother (motherlondon.com) holds the irreverent peer position. Wieden+Kennedy (wk.com) sits in the institutional tier. Anomaly (anomaly.com) does the modern design-led middle. We sit closer to Mother in posture.",
+        "positioningStatement": "A small marketing studio that ships campaigns the customer remembers a week later.",
+        "targetAudience": {
+          "primary": "Founders and CMOs at mid-stage companies. They have hired a big shop once and were unhappy with the eighty-percent that never shipped."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the work, not the process",
+            "Speak to the founder, not the procurement team",
+            "Name the people on the project"
+          ],
+          "donts": [
+            "Use the word activation",
+            "Photograph the studio empty at golden hour",
+            "Run an awards-show submission strategy for the studio itself"
+          ]
+        },
+        "logoDirection": "A wordmark only. NOTICE in a tight modern grotesk, all caps, six letters with wide kerning. A small geometric mark, a single thin underline beneath, used as the favicon and as a hold-the-eye device in headlines.",
+        "colorPalette": [
+          {"name": "Studio Black", "hex": "#101012", "meaning": "Marker on tracing paper.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Bone", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, web body"},
+          {"name": "Highlight Yellow", "hex": "#FFD23F", "meaning": "Marker on the brief.", "usage": "Highlights, web headlines, key callouts"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for project metadata and credits",
+          "rationale": "One family. The mono carries the project credits. The regular carries the brand and the editorial."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No award-show strategy for the firm itself. No spec work. No 'partnership' decks. No founder LinkedIn posts about the company values."},
+          {"title": "Where it lives", "body": "A site that loads the work first. A printed annual review of the year's campaigns. A small studio open by appointment. A direct line to the principal on every project."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Bow & Lyon",
+        "tagline": "Brand counsel since 1971.",
+        "brandNameRationale": "Two distinctive surname-and-place names joined by an ampersand. Bow is an East London neighborhood with a craft history; Lyon is the French city of editorial publishing. The pair reads as an Anglo-French brand advisory firm that has been around longer than most of its clients.",
+        "story": "Bow & Lyon was founded by two principals who had spent decades inside larger brand consultancies and wanted to take fewer clients, more carefully. The firm represents a small number of brands at any time. The work is mostly inherited.",
+        "industrySummary": "Top end brand advisory has been consolidating into network agencies and holding-company subsidiaries. There's a parallel market for small principal-led firms with deep client relationships. Few clients, long engagements, decades-long retention. The customer is paying for the principals, not the agency machine.",
+        "competitorLandscape": "Pentagram (pentagram.com) holds the global design-advisory benchmark. Wolff Olins (wolffolins.com) sits at the network-scale strategy peer position. Collins (wearecollins.com) does the modern design-led middle. Sullivan (sullivannyc.com) sits closer in tone. We belong in their company on the smaller, more discreet side.",
+        "positioningStatement": "A small brand advisory firm with two partners and a private client list.",
+        "targetAudience": {
+          "primary": "CEOs and founders at mature companies, foundations, and family-held businesses. Hiring brand counsel that will work directly with the principal for years. Not chasing case studies."
+        },
+        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Considered", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Speak in the language of the principal's industry",
+            "Send paper letters between meetings"
+          ],
+          "donts": [
+            "Pitch in open competitions",
+            "Promote case studies on social",
+            "Run a content strategy"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark, used on letterhead, the brass plaque outside the office, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Counsel Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the partner's room.", "usage": "Primary brand color, letterhead, signage"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hallmark, hardware"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for digital correspondence",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public client list. No case studies on the website. No social media presence. No press."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we counsel",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "HEARD",
+        "tagline": "Your brand, recognized.",
+        "brandNameRationale": "Single word, past tense. Heard is the outcome a marketing brand actually exists to produce: the customer's brand was heard. The past tense is the trick — the brand is named after the result, not the action.",
+        "industrySummary": "Most marketing agencies have elaborate names, philosophies, and origin stories. There's an opening for one that strips it back to the outcome the client wants. One word. One result. Many campaigns.",
+        "competitorLandscape": "Most agencies fail this purity test. The closest peers in spirit are some Japanese advertising practices and certain Scandinavian editorial studios.",
+        "positioningStatement": "A marketing studio named after the outcome, not the discipline.",
+        "targetAudience": {
+          "primary": "Clients who care about the campaign outcome, not the agency story. They check the portfolio. They reorder when the work performs."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the work and the result",
+            "Use plain English in proposals",
+            "Confirm engagements in one short letter"
+          ],
+          "donts": [
+            "Use the word activation",
+            "Write a manifesto",
+            "Run an awards strategy"
+          ]
+        },
+        "logoDirection": "A wordmark only. HEARD in a single weight grotesk, wide kerned, all caps, five letters with generous space. No icon. The proposal, the contract, and the final files all carry the same wordmark.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The proposal, the deliverable, and the invoice all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No awards strategy. No conference speaking. No founder podcast. No newsletter. No social media presence."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who hires us",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Page One",
+        "tagline": "Marketing services for the modern enterprise.",
+        "brandNameRationale": "Two words. Page One is the newsroom term for the most important story in the day's paper — the one above the fold. The brand sits on the journalistic idea of earned attention rather than the agency idea of bought distribution. Distinctive, not formulaic.",
+        "industrySummary": "Mid-market enterprise marketing services is dominated by the holding-company giants and a long tail of boutiques. There's a clear opening for a mid-size firm that wins on the journalistic idea of earned attention and the operational discipline of modern delivery.",
+        "competitorLandscape": "WPP (wpp.com) is the global giant. Accenture Song (accenture.com/song) holds the consulting-led peer position. R/GA (rga.com) sits in the design-led tier. Stagwell (stagwellglobal.com) does the modern-holding middle. We sit smaller, focused on the mid-market enterprise client.",
+        "positioningStatement": "Marketing services for companies that want the page-one story, not the bottom-of-the-page mention.",
+        "positioningRationale": "Mid-market companies are too small for holding-company attention and too large for boutique bandwidth. We sit between them, with the editorial discipline of a newsroom and the operating model of a modern services firm.",
+        "targetAudience": {
+          "primary": "CMOs and VPs of Marketing at companies of 500 to 10000 employees. They sign annual contracts. They have a board to answer to.",
+          "motivations": [
+            "Earned attention, not just paid reach",
+            "Reporting that connects marketing to brand and pipeline",
+            "One firm across editorial, paid, and analytics"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with earned-attention outcomes",
+            "Show case studies with brand recall and pipeline data",
+            "Speak to the buyer"
+          ],
+          "donts": [
+            "Use creative-industry jargon",
+            "Run thought-leadership podcasts aimed at the public",
+            "Promote individual creative work on social"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Editorial-grade thinking", "description": "Campaigns built like a journalist would build a story, with a clear angle and a fact-checked headline."},
+          {"name": "One firm across services", "description": "Editorial, paid media, analytics, and CRM under one engagement."},
+          {"name": "Reporting that connects to revenue", "description": "Marketing investment measured against brand equity, pipeline, and revenue."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single thin horizontal rule beneath a slightly heavier rule, suggesting an above-the-fold layout. Reads cleanly on a procurement deck, name badge, and the trust center.",
+        "colorPalette": [
+          {"name": "Newsroom Navy", "hex": "#0F2238", "meaning": "Trust, scale, the editor's office.", "usage": "Logo, primary surfaces"},
+          {"name": "Newsprint", "hex": "#F4F1EA", "meaning": "Cream paper.", "usage": "Backgrounds, paper, slides"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Headline Red", "hex": "#A8313F", "meaning": "The masthead red.", "usage": "Highlights, charts, key callouts"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and printed case study books."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No celebrity-led creative campaigns. No spec work. No award-show submissions for the firm itself. The firm sells through enterprise marketing procurement, not industry awards."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "MAYBE LATER",
+        "tagline": "We'll make them not say it.",
+        "brandNameRationale": "Two words. Maybe Later is what every customer says when a marketing brand has failed: maybe later, not now, not interested. The agency is named after the rejection it exists to prevent. Self-deprecating, ironic, and absolutely sharp.",
+        "manifesto": "Most marketing agencies promise transformation, growth, virality. We made Maybe Later because the truth about marketing is that most of it is ignored. 'Maybe later' is the single most common response to any marketing message. We are the agency that knows it, names it, and builds campaigns the customer doesn't say it to.",
+        "industrySummary": "Marketing branding has been polished and slightly desperate. There's room for a small agency that's honest about the difficulty of the work, sharp enough to make jokes about it, and serious enough to ship campaigns that survive contact with a real audience.",
+        "competitorLandscape": "Mother (motherlondon.com) holds the irreverent agency peer position. Wieden+Kennedy (wk.com) sits at the institutional tier. Friends of The Family (friendsofthefamily.co) holds the small-personality middle. We sit sharper than any of them.",
+        "positioningStatement": "A small marketing studio for clients who know how often customers say 'maybe later'.",
+        "targetAudience": {
+          "primary": "30 to 55. Founders and CMOs who have run marketing campaigns and watched them die in inboxes. They are looking for an agency that takes the rejection seriously enough to make work that survives it."
+        },
+        "brandPersonalityTraits": ["Sharp", "Confident", "Warm", "Direct", "Witty"],
+        "voiceAndTone": {
+          "dos": [
+            "Quote real customer rejections in case studies",
+            "Make jokes about marketing's effectiveness rates",
+            "Talk like the strategist who has seen the campaign die"
+          ],
+          "donts": [
+            "Use the word transformation",
+            "Promise virality",
+            "Apologize for being a small agency"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the L of LATER stylized as a small strike-through, suggesting the rejection. Standalone strikethrough icon for stickers, social profiles, and the back of every engagement letter.",
+        "colorPalette": [
+          {"name": "Rejection Red", "hex": "#D72638", "meaning": "Loud, warm, the editor's mark.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, engagement letters"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
+          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note.", "usage": "Highlights, social, swag"},
+          {"name": "Carbon Blue", "hex": "#1B4A8B", "meaning": "Pen ink, the signed letter.", "usage": "Secondary surfaces, signatures"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and proposals",
+          "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and a little defiant."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a holding company. Not an awards-driven studio. Not afraid of red. Not too cool to admit campaigns die."},
+          {"title": "Where it lives", "body": "Engagement letters that quote the worst rejection from the brief. Stickers in every project box. A small studio bar that's open the first Friday of every month. A printed annual yearbook of the year's work, including the campaigns that died."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "industry": "sports",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "HUDDLE",
+        "tagline": "Get in.",
+        "brandNameRationale": "Single word. Huddle is the moment a team comes together before the play. The brand sits on the most basic act of being on a team. No equipment, no fanfare, just the gathering. Modern, warm, immediately legible to anyone who has played anything.",
+        "industrySummary": "Modern sports brands have been chasing performance and aesthetics in roughly equal measure. The customer is design-literate and increasingly looking for brands that respect amateur athletes rather than positioning everyone as an Olympian. The opening is for a brand that talks to the weekend league more than the pro level.",
+        "competitorLandscape": "Tracksmith (tracksmith.com) holds the modern running peer position. On (on.com) sits at the technical-performance tier. Bandit Running (banditrunning.com) does the modern community-led middle. We sit closer to Tracksmith in posture.",
+        "positioningStatement": "A small sports brand for amateurs who take their game seriously without pretending to be professional.",
+        "targetAudience": {
+          "primary": "28 to 50. Plays in a weekend league or trains for one annual race. Already owns the gear. Wants a brand that respects them without selling them the Olympic story."
+        },
+        "brandPersonalityTraits": ["Considered", "Warm", "Modern", "Direct"],
+        "voiceAndTone": {
+          "dos": [
+            "Show real amateur athletes",
+            "Name the league, the team, the position",
+            "Skip the inspirational quote"
+          ],
+          "donts": [
+            "Use the word legend",
+            "Photograph empty stadiums at sunrise",
+            "Run a 'no excuses' campaign"
+          ]
+        },
+        "logoDirection": "A wordmark only. HUDDLE in a soft modern grotesk, all caps, six letters with tight kerning. A small geometric mark, a circle of five small dots suggesting players gathered, used as the favicon and the team-kit number plate.",
+        "colorPalette": [
+          {"name": "Field Black", "hex": "#101012", "meaning": "Wet grass after the rain, the lined field.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Chalk", "hex": "#F4F0E6", "meaning": "Used as space. Field markings.", "usage": "Backgrounds, paper, secondary"},
+          {"name": "Team Red", "hex": "#A8313F", "meaning": "Jersey trim, the home color.", "usage": "Accent, kit details, headlines"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for player numbers and stats",
+          "rationale": "One family. The mono carries the numbers and stats. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'no excuses' campaigns. No Olympic-athlete sponsorships. No 'unleash your inner athlete' copy. No celebrity-coach partnerships."},
+          {"title": "Where it lives", "body": "A site that shows the weekend league first. Each piece ships with a hangtag listing the field, the league, and the year it was tested. A monthly newsletter with three teams and the stories behind them."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who plays this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Pavilion",
+        "tagline": "Sport, since 1891.",
+        "brandNameRationale": "Two words. The Pavilion is the older word for the clubhouse at a cricket ground, a tennis lawn, or a country shooting club. The definite article makes it sound like an institution. The brand is named after the place sport happened in another century, before it became television.",
+        "story": "The Pavilion began as the clubhouse at a private cricket ground. The current generation has stayed at the same grounds. The membership has stayed close to the original number. Some members are now in their third generation of the club.",
+        "industrySummary": "Top end sports has been moving toward larger sponsorship deals and bigger broadcast. There's a parallel market for heritage sporting institutions in the older tradition. Private grounds, members' tennis clubs, country shooting clubs. The customer is paying for the grounds, the protocol, and the next season.",
+        "competitorLandscape": "Marylebone Cricket Club (lords.org) holds the institutional heritage peer position. The All England Club (Wimbledon) (wimbledon.com) sits at the same tier. Henley Royal Regatta (hrr.co.uk) is the closest in cultural register. We sit smaller and more discreet than all of them.",
+        "positioningStatement": "A small heritage sporting institution with a private membership and a long calendar.",
+        "targetAudience": {
+          "primary": "Wealthy, often inherited. Plays the sport seriously, often poorly. Values the membership across generations. Books the same fixtures every season."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address members by surname",
+            "Speak in the language of the sport's tradition",
+            "Send paper fixture cards by post"
+          ],
+          "donts": [
+            "Run public ticket sales",
+            "Use the word luxury",
+            "Photograph the grounds for press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn crest hallmark, two thin horizontal lines suggesting a heraldic chief, used on member's stationery, the printed fixture card, and the brass plaque outside the gate.",
+        "colorPalette": [
+          {"name": "Grounds Green", "hex": "#1E3A30", "meaning": "Old field, mown grass.", "usage": "Primary brand color, signage, livery"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the gate hardware.", "usage": "Foil, hallmark, accents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, cricket whites.", "usage": "Stationery, paper, packaging"},
+          {"name": "Pavilion Red", "hex": "#A8313F", "meaning": "Heritage trim, the club color.", "usage": "Secondary brand surfaces, accents"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure member portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public day-passes. No broadcast deals. No press tour. No social media presence. No celebrity-athlete partnerships."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who plays here",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "MATCH",
+        "tagline": "Bring kit.",
+        "brandNameRationale": "Single word. Match is the smallest unit of competitive sport. The brand sits on the most basic word in the discipline. Plain, direct, and immediately understood by anyone who has played anything.",
+        "industrySummary": "Most sports brands have elaborate names suggesting transformation, performance, or legacy. There's an opening for one that strips it back to the most basic word.",
+        "competitorLandscape": "Most sports brands fail this purity test. The closest peers in spirit are some Japanese amateur-baseball brands and certain Scandinavian football club aesthetics.",
+        "positioningStatement": "A sports brand for the match, not the lifestyle.",
+        "targetAudience": {
+          "primary": "Adults who play and don't need a brand world. They want the kit, the ball, the gloves, the boots. Fairly priced. Made to last."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the product, the size, the price",
+            "Confirm orders in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Use the word performance",
+            "Run a 'no excuses' campaign",
+            "Photograph empty stadiums"
+          ]
+        },
+        "logoDirection": "A wordmark only. MATCH in a single weight grotesk, wide kerned, all caps, five letters with generous space. No icon. The kit, the bag, the receipt all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The kit label, the website, and the receipt all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No 'performance' marketing. No celebrity-athlete endorsements. No streetwear collaborations. No newsletter."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who plays this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "First Whistle",
+        "tagline": "Sports operations and team services.",
+        "brandNameRationale": "Two words. First Whistle is the moment a match begins. The brand puts the start of competitive play in the brand position, where most B2B sports firms put 'Group' or 'Partners'. Distinctive without being unfamiliar.",
+        "industrySummary": "Sports team operations and services is a serious B2B category. Professional and amateur leagues, university programs, and athletic clubs need partners who can deliver team operations, facility management, and event production at scale.",
+        "competitorLandscape": "Legends Hospitality (legends.net) holds the institutional sports-services peer position. Spectra (spectraexperiences.com) sits at the venue-management tier. Wasserman (teamwass.com) does the agency-led middle. We sit smaller and more focused on the contemporary college and club program side.",
+        "positioningStatement": "Sports team operations and services for college programs, professional clubs, and amateur leagues.",
+        "positioningRationale": "Sports programs at the college and club level need operations partners with both the discipline of the big-league operators and the responsiveness of a smaller firm. We sit between them.",
+        "targetAudience": {
+          "primary": "Athletic Directors, GMs, and Operations Directors at college athletic programs, professional sports clubs, and large amateur leagues. They sign multi-year contracts.",
+          "motivations": [
+            "Reliable team operations across seasons",
+            "Modern technology stack for scheduling, ticketing, and analytics",
+            "One partner across operations, facilities, and event production"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with operational discipline",
+            "Show case studies with program-level outcomes",
+            "Speak to the AD or GM"
+          ],
+          "donts": [
+            "Use consumer sports media language",
+            "Promote individual athlete stories on social",
+            "Run a brand-of-our-own campaign"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Operations across seasons", "description": "Team operations, scheduling, and analytics delivered consistently across the calendar."},
+          {"name": "Facility and event services", "description": "Stadium operations, event production, and game-day staff under one contract."},
+          {"name": "Reporting that satisfies the board", "description": "Operating metrics, revenue performance, and fan engagement reports formatted for the athletic department and the board."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single whistle silhouette reduced to two strokes. Reads cleanly on a procurement deck, name badge, and B2B trade show booth.",
+        "colorPalette": [
+          {"name": "Stadium Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, slides"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Field Green", "hex": "#3E8E5A", "meaning": "Performance accent.", "usage": "Charts, status indicators"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C sports product. No team apparel licensing. No celebrity athlete sponsorships. The firm sells through B2B sports services procurement."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "HOT HAND",
+        "tagline": "You're on a streak.",
+        "brandNameRationale": "Two words. Hot Hand is the universal sports phrase for the player who can't miss. The brand is named after the moment of inexplicable competence that every amateur athlete chases. Loud, warm, and immediately legible.",
+        "manifesto": "Most sports brands sell the legend, the championship, the underdog story. We made Hot Hand because the actual experience of playing sports is the streak. The night the shots fall. The game the legs work. The match where every pass lands. The brand is for the rare, briefly magical hour of being on.",
+        "industrySummary": "Sports branding has been polished, performance-led, and slightly anxious. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about the actual joy of being briefly good at the thing.",
+        "competitorLandscape": "Bandit Running (banditrunning.com) does community-led running well. Brain Dead (wearebraindead.com) holds the streetwear-meets-sport peer position. NOAH (noahny.com) sits in the prep-and-skate culture middle. We sit warmer than any of them.",
+        "positioningStatement": "A sports brand for the night you can't miss.",
+        "targetAudience": {
+          "primary": "25 to 45. Plays a sport for fun. Has had one hot game. Tells friends about it. Buys the brand because the marketing made them remember the game."
+        },
+        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the streak stories",
+            "Photograph customers on actual courts and fields",
+            "Talk like the friend who watched the game"
+          ],
+          "donts": [
+            "Use the word legend",
+            "Photograph empty stadiums",
+            "Run an Olympic-athlete sponsorship strategy"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the O of HOT stylized as a small flame curl. Standalone flame-O icon for stickers, social profiles, and the back of every kit bag.",
+        "colorPalette": [
+          {"name": "Streak Red", "hex": "#D72638", "meaning": "Loud, warm, the on-fire color.", "usage": "Primary brand color, hero surfaces, swag"},
+          {"name": "Court Cream", "hex": "#F4EFE2", "meaning": "Warm background, the gym floor.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Field Green", "hex": "#3E8E5A", "meaning": "The grass.", "usage": "Secondary surfaces, accents"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
+          {"name": "Sun Yellow", "hex": "#FFD23F", "meaning": "Highlight, the trophy.", "usage": "Highlights, social, swag"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and kit labels",
+          "rationale": "Migra has warmth and personality. Neue Montreal handles the practical bits. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a performance brand. Not a 'no excuses' brand. Not afraid of red. Not too cool to celebrate a weekend league win."},
+          {"title": "Where it lives", "body": "Kit with the player's actual position printed on it. Stickers in every order. A weekly newsletter with one streak story from a customer. A merch line of two tees that say HOT HAND across the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who plays this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

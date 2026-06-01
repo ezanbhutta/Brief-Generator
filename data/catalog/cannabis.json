@@ -1,0 +1,283 @@
+{
+  "industry": "cannabis",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "EVENING",
+        "tagline": "Made for after.",
+        "brandNameRationale": "Single word. Evening names the time of day the customer actually uses the product. The brand sits on the moment, not the plant. Plain, mature, and built around the hour rather than the substance.",
+        "industrySummary": "Modern cannabis has moved from emerging-market hype toward design-led brands. The customer is design-literate, often older than the early-legalization stereotype, and looking for brands that talk about cannabis the way a wine brand talks about wine.",
+        "competitorLandscape": "Houseplant (houseplant.com) holds the modern design-led peer position. Dosist (dosist.com) sits in the wellness-leaning tier. Eaze (eaze.com) does the consumer marketplace middle. Cann (drinkcann.com) holds the beverage-led peer. We sit closest to Houseplant in posture.",
+        "positioningStatement": "A cannabis brand that talks about the time of day, not the substance.",
+        "targetAudience": {
+          "primary": "30 to 55. Uses cannabis occasionally and considers it part of an evening, not an identity. Already buys design-led adult goods. Will pay a premium for product that looks at home on a kitchen counter."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Warm"],
+        "voiceAndTone": {
+          "dos": [
+            "Talk about the evening, the room, the hour",
+            "Show the product on a real coffee table",
+            "Skip the youth-culture aesthetic"
+          ],
+          "donts": [
+            "Use the word stoner",
+            "Photograph leaves against neutral backdrops",
+            "Run a youth-culture marketing campaign"
+          ]
+        },
+        "logoDirection": "A wordmark only. EVENING in a soft modern grotesk, all caps, seven letters with wide kerning. A small geometric mark, a single thin crescent suggesting an evening moon, used as the favicon and the package seal.",
+        "colorPalette": [
+          {"name": "Evening Navy", "hex": "#162236", "meaning": "The sky after sunset.", "usage": "Wordmark, primary surface"},
+          {"name": "Cream", "hex": "#F4F0E6", "meaning": "Lamp light, used as space.", "usage": "Backgrounds, paper, packaging body"},
+          {"name": "Warm Brass", "hex": "#A38454", "meaning": "Aged metal, the lamp shade.", "usage": "Accent, foil, hardware"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for product specs",
+          "rationale": "One family. The mono carries the technical product data. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No leaf imagery. No 'high life' copy. No youth-culture marketing. No '420' references."},
+          {"title": "Where it lives", "body": "Packaging that looks at home on a kitchen counter. A small dispensary with the product behind a clean counter. A monthly email written like a friend recommending a wine."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Halls & Bough",
+        "tagline": "Botanicals, since 1898.",
+        "brandNameRationale": "Two distinctive words joined by an ampersand. Halls suggests a heritage house with long corridors and old wood. Bough is the older English word for a branch of a tree, with botanical associations. The pair reads as a heritage botanical apothecary that has been operating quietly for over a century.",
+        "story": "Halls & Bough was founded as a botanical apothecary at the turn of the last century. The current generation operates in the modernized cannabis space while keeping the apothecary tradition. The catalog is small. The clients are mostly older, mostly inherited, mostly long-standing.",
+        "industrySummary": "Top end cannabis has been moving toward larger brands and bigger marketing. There's a parallel market for small heritage-feeling brands that operate like botanical apothecaries from another century. Quiet packaging, considered selection, decades-long relationships. The customer is paying for the apothecary, not the substance.",
+        "competitorLandscape": "Beboe (beboe.com) holds the design-led luxury peer position. Lord Jones (lordjones.com) sits in the institutional luxury tier. Saint Jane (saintjanebeauty.com) does the wellness-luxury middle. We sit quieter and more heritage in tone than all of them.",
+        "positioningStatement": "A small heritage botanical apothecary with a quiet cannabis catalog.",
+        "targetAudience": {
+          "primary": "Wealthy, often inherited. Uses cannabis occasionally. Values the apothecary tradition. Pays for considered packaging and discreet delivery."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname in writing",
+            "Name the botanical, the source, the maker",
+            "Send paper allocation letters"
+          ],
+          "donts": [
+            "Discount",
+            "Use the word luxury",
+            "Promote on Instagram"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the apothecary's hallmark, used on the bottle labels, the apothecary book, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Apothecary Green", "hex": "#1E3A30", "meaning": "Old apothecary cabinet, the botanical wall.", "usage": "Primary brand color, signage, letterhead"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the apothecary scale.", "usage": "Foil, hallmark, hardware"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the apothecary book.", "usage": "Stationery, paper, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body type, dividers"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure allocation portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No mass distribution. No celebrity endorsements. No social media presence. No press tour. No publicly listed clients."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who orders from us",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "HERB",
+        "tagline": "From the cabinet.",
+        "brandNameRationale": "Single word. Herb is the oldest, plainest word for what cannabis actually is: a plant. The brand sits on the botanical truth, before the slang and the marketing. Plain, slightly old-fashioned, and immediately legible.",
+        "industrySummary": "Most cannabis brands have elaborate names suggesting wellness, luxury, or counterculture. There's an opening for one that strips it back to the most basic word for the plant.",
+        "competitorLandscape": "Most cannabis brands fail this purity test. The closest peers in spirit are some Japanese herbal traditions and certain Chinese herbal-medicine aesthetics.",
+        "positioningStatement": "A cannabis brand named after the plant.",
+        "targetAudience": {
+          "primary": "Adults who use cannabis occasionally and want it sold the way other botanical products are sold. They want the product, the dose, the receipt."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the product, the strain, the price",
+            "Confirm orders in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Use the word stoner",
+            "Photograph leaves against neutral backdrops",
+            "Promote a 'lifestyle' campaign"
+          ]
+        },
+        "logoDirection": "A wordmark only. HERB in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The packaging, the website, and the receipt all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Sage", "hex": "#A6B49A", "meaning": "Quiet botanical accent.", "usage": "Secondary surfaces, accents"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The packaging, the website, and the receipt all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No youth-culture marketing. No '420' references. No leaf imagery. No social media presence beyond a single archive."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who buys this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Trellis & Co.",
+        "tagline": "Cannabis cultivation and distribution.",
+        "brandNameRationale": "Three words. Trellis is the agricultural structure that cannabis is grown on. The brand sits on the literal infrastructure of cultivation, not the consumer-facing language. & Co. closes it as a real, established firm. Distinctive without being overstyled.",
+        "industrySummary": "B2B cannabis (cultivation, distribution, licensing services) is a real category serving licensed dispensaries, brand operators, and regulated wholesalers. Buyers want partners with operational discipline and clean compliance documentation.",
+        "competitorLandscape": "Curaleaf (curaleaf.com) holds the institutional MSO peer position. Cresco Labs (crescolabs.com) sits at the same tier. Trulieve (trulieve.com) is the southern peer. We sit smaller and more focused on the cultivation-and-distribution side.",
+        "positioningStatement": "Cannabis cultivation and wholesale distribution for licensed operators.",
+        "positioningRationale": "Licensed dispensaries and brand operators want supply partners with operational discipline, clean compliance, and consistent quality. The category incumbents are uneven. We sit on the more disciplined side.",
+        "targetAudience": {
+          "primary": "Dispensary owners, brand operators, and wholesale buyers at licensed cannabis companies. They sign multi-year supply contracts.",
+          "motivations": [
+            "Reliable cultivation supply",
+            "Clean compliance documentation",
+            "Consistent product across batches"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the cultivation operation and compliance documentation",
+            "Show case studies with retail-partner economics",
+            "Speak to the buyer, not the end consumer"
+          ],
+          "donts": [
+            "Use consumer cannabis language",
+            "Photograph leaves against neutral backdrops",
+            "Promote individual SKUs on consumer social"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Cultivation discipline", "description": "Consistent product across batches, with documented growing protocols."},
+          {"name": "Compliance built in", "description": "Documentation prepared for state regulators on demand."},
+          {"name": "One partner across the supply chain", "description": "Cultivation, processing, and distribution under one contract."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single trellis pattern reduced to crossing lines. Reads cleanly on a procurement deck, name badge, and B2B trade show booth.",
+        "colorPalette": [
+          {"name": "Operator Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, slides"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Cultivation Green", "hex": "#3E8E5A", "meaning": "Category accent.", "usage": "Charts, highlights"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed compliance documentation",
+          "rationale": "Inter scales clean across digital. The serif handles formal compliance reports and printed wholesale catalogs."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C consumer brand. No retail dispensaries. No celebrity-cannabis partnerships. The firm sells through B2B procurement at licensed operators."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys from us",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "GOOD COUCH",
+        "tagline": "Stay there.",
+        "brandNameRationale": "Two words. Good Couch names the actual destination of most cannabis use: the couch, after dinner, with one person. The brand puts the universal experience in the brand position. Warm, slightly self-deprecating, and refreshingly honest about what the product is for.",
+        "manifesto": "Most cannabis brands sell wellness, luxury, or counterculture. We made Good Couch because the truth about cannabis is that most of it ends with someone on a couch, lights low, eating something they didn't plan to eat. The brand is for the small private hour. The lights are dim. The phone is face-down. The couch is good.",
+        "industrySummary": "Cannabis branding has been split between wellness theatre and youth-culture posturing. There's room for a brand that's warm, honest, sticker-friendly, and serious about the actual relaxed experience the customer is paying for.",
+        "competitorLandscape": "Houseplant (houseplant.com) does design-led restraint. Cann (drinkcann.com) holds the beverage middle. Old Pal (oldpal.com) sits in the friend-with-weed peer position. We sit warmer and more honest about the couch.",
+        "positioningStatement": "A cannabis brand for the small couch hour after dinner.",
+        "targetAudience": {
+          "primary": "28 to 50. Uses cannabis occasionally, almost always at home, almost always on a couch. Buys the brand because the marketing made them feel seen rather than upsold."
+        },
+        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Talk about the couch, the snack, the movie",
+            "Quote real customer evenings",
+            "Speak softly"
+          ],
+          "donts": [
+            "Promote a 'lifestyle' campaign",
+            "Photograph models in linen at sunset",
+            "Use the word elevated"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the O of GOOD stylized as a small filled circle, like a lamp from above. Standalone lamp-O icon for stickers, social profiles, and the back of every package.",
+        "colorPalette": [
+          {"name": "Couch Red", "hex": "#A8313F", "meaning": "Old velvet couch.", "usage": "Primary brand color, hero surfaces, packaging"},
+          {"name": "Lamp Yellow", "hex": "#FFD23F", "meaning": "The reading lamp.", "usage": "Accent, social, swag"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging body"},
+          {"name": "Evening Navy", "hex": "#162236", "meaning": "The room at 10 p.m.", "usage": "Secondary surfaces, body type"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and labels",
+          "rationale": "Migra has warmth. Neue Montreal handles the practical bits. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a wellness brand. Not a counterculture brand. Not afraid of red. Not too cool to talk about the couch."},
+          {"title": "Where it lives", "body": "Packaging that looks at home on a coffee table. Stickers in every order. A weekly newsletter that's mostly customer-recommended movies. A merch line of two hoodies that say GOOD COUCH across the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who uses this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

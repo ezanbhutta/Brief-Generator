@@ -1,0 +1,283 @@
+{
+  "industry": "consulting",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "THIRD CHAIR",
+        "tagline": "We sit in.",
+        "brandNameRationale": "Two words. The third chair is the seat at every important meeting that isn't filled by anyone from the company. The consultant fills it. The brand names the role at the room, not the discipline. Specific, modern, story-led.",
+        "industrySummary": "Modern consulting has split between the big firms (McKinsey, BCG, Bain) and a long tail of boutiques. The customer has gotten more skeptical and more design-literate. The opening is for a small firm that looks like a product company and gets things done without the deck theatre.",
+        "competitorLandscape": "Reforge (reforge.com) holds the modern advisory-meets-content peer. Public Digital (public.digital) sits in the design-led government and enterprise tier. Substantial (substantial.com) does the product-led consulting middle. We sit closer to Public Digital in posture.",
+        "positioningStatement": "A small advisory that sits in the meeting, not above it.",
+        "targetAudience": {
+          "primary": "Founders and C-suite at companies of 50 to 2000 people. They have hired a consultant before and were unhappy with the time spent on slides. They want the work, not the deliverable."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the work, not the framework",
+            "Name the principal on every project",
+            "Speak to the founder, not the procurement team"
+          ],
+          "donts": [
+            "Use the word strategic in a sentence with the word alignment",
+            "Photograph the partners against neutral backdrops",
+            "Run a thought-leadership newsletter"
+          ]
+        },
+        "logoDirection": "A wordmark only. THIRD CHAIR in a tight modern grotesk, all caps, two words on one line. A small geometric mark, three short horizontal lines stacked at irregular spacing (suggesting three seats), used as the favicon and on every working document.",
+        "colorPalette": [
+          {"name": "Meeting Black", "hex": "#101012", "meaning": "The conference room chair.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space, the working notes.", "usage": "Backgrounds, paper, web body"},
+          {"name": "Margin Red", "hex": "#A8313F", "meaning": "The note in the margin.", "usage": "Highlights, web headlines, key terms"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for project metadata",
+          "rationale": "One family. The mono carries the project facts. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No three-hundred-slide decks. No 'industry-leading' anything. No conference circuit. No thought-leadership newsletter."},
+          {"title": "Where it lives", "body": "A site that loads the work and the contact in the first scroll. A short printed engagement letter, hand signed. A single shared working doc per project. No client logos cluttering the homepage."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Pemberton & Hare",
+        "tagline": "Counsel, since 1962.",
+        "brandNameRationale": "Two surnames, joined by an ampersand. Pemberton carries the literary weight of a name from Austen or Wharton; Hare is short, sharp, and grounded. The pair feels real because the rhythm is off-balance: one long name and one short, the way actual partnerships tend to be.",
+        "story": "Pemberton & Hare was founded in 1962 by two principals who had spent two decades inside larger consulting houses and wanted to take fewer clients, more carefully. The firm represents a small number of families and institutions. The work is mostly inherited.",
+        "industrySummary": "Top end strategic consulting has been consolidating into firms with thousands of consultants and quarterly earnings calls. There's a parallel market for small, principal-led firms with decades-long client relationships. The work is sensitive, the relationship is the product, and the firm exists in the absence of marketing.",
+        "competitorLandscape": "McKinsey & Company (mckinsey.com) is the institutional reference. Bridgespan (bridgespan.org) sits at the social-impact strategy tier. The Bridgespan Group, Brunswick (brunswickgroup.com) holds the strategic-communications peer. We sit smaller and quieter than all of them.",
+        "positioningStatement": "A small consulting firm representing fewer than thirty clients.",
+        "targetAudience": {
+          "primary": "Family principals, foundation chairs, and CEOs at long-established companies. The relationship usually predates the current leadership and survives several of them."
+        },
+        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the principal by surname",
+            "Speak in the language of the principal's industry",
+            "Send paper letters when the situation warrants"
+          ],
+          "donts": [
+            "Maintain a public press strategy",
+            "Run a content marketing program",
+            "List clients publicly"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. The ampersand is hand-drawn and becomes the firm's hallmark, used on letterhead, the small brass plaque outside the office, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the partner's room.", "usage": "Primary brand color, letterhead, signage"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the plaque outside.", "usage": "Foil, hallmark, accents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public client list. No website beyond a single address card. No social media presence. No press strategy. No conference speaking."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we counsel",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "PROBLEM",
+        "tagline": "Bring yours.",
+        "brandNameRationale": "Single word. Problem is what every consulting engagement actually is, said as plainly as the client would say it on the way to the meeting. The brand puts the thing on the table, not the framework around it. Slightly confrontational, which is the point.",
+        "industrySummary": "Most consulting firms hide behind brand language about partnership, strategy, and transformation. There's an opening for one that names the work plainly. A problem comes in, the consultant works on it, the problem goes away. Said as such.",
+        "competitorLandscape": "Most consulting firms fail this purity test. The closest peers in spirit are some legal firms that name themselves after their function (The Bar) and certain Japanese consulting traditions that name the work.",
+        "positioningStatement": "An advisory firm named after the only thing the client actually wants solved.",
+        "targetAudience": {
+          "primary": "Adults who have a specific problem and want it solved. They will hire by the day or by the answer. They will not hire by the retainer."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the problem in the first email",
+            "Show the daily rate",
+            "Confirm the engagement in one short letter"
+          ],
+          "donts": [
+            "Use the word partner",
+            "Photograph the consultants for press",
+            "Run a 'thought leadership' newsletter"
+          ]
+        },
+        "logoDirection": "A wordmark only. PROBLEM in a single weight grotesk, wide kerned, all caps, seven letters with generous space. No icon. The engagement letter, the bill, and the website all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The bill, the letter, and the website all carry the same wordmark and the same type."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No retainers. No multi-month engagements that start with a discovery phase. No conference appearances. No newsletter. No social media presence."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who hires us",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Forum & Stack",
+        "tagline": "Strategy and operating depth.",
+        "brandNameRationale": "Two distinctive words. Forum is the Roman word for a public space of discussion; in modern usage it suggests the executive conversation. Stack is the modern technical word for the layered tools of a business. The pair signals two consulting traditions at once: classical strategy and modern operating expertise. The name avoids the corporate template ('Group', 'Partners') and reads like a real, slightly unusual firm.",
+        "industrySummary": "Mid-market enterprise consulting is dominated by the big firms at the top and a long tail of small boutiques. There's a clear opening for a mid-size firm focused on the strategy-meets-operations work that the giants over-bill and the boutiques can't scale.",
+        "competitorLandscape": "McKinsey (mckinsey.com), Bain (bain.com), and BCG (bcg.com) are the giants. Innosight (innosight.com) holds the design-led strategy peer. Boston Consulting Group's BCG GAMMA (bcg.com/gamma) does the data-led tier. We sit smaller and more focused on the operating-stack work.",
+        "positioningStatement": "Strategy and operations consulting for mid-market enterprises that have outgrown boutique advice.",
+        "positioningRationale": "Mid-market companies are too small for the big firms' attention and too sophisticated for boutiques. We sit in the middle with strategic depth and operating discipline.",
+        "targetAudience": {
+          "primary": "CEOs, COOs, and CFOs at companies of 500 to 5000 employees. They sign multi-quarter engagements and live with the consequences.",
+          "motivations": [
+            "Strategy delivered against operating realities, not slides",
+            "One firm across strategy and execution",
+            "Engagements scoped to a real business problem"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the engagement model",
+            "Show case studies with operating outcomes",
+            "Speak to the executive who lives with the results"
+          ],
+          "donts": [
+            "Use the word transformation more than once on a page",
+            "Promote individual case studies on social",
+            "Run a thought-leadership podcast aimed at the public"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Strategy plus operations", "description": "We deliver both the strategy and the operating change to ship it."},
+          {"name": "Mid-market specialists", "description": "Built for companies between in-house executive teams only and big-firm engagement."},
+          {"name": "Real scoping", "description": "Engagements scoped to a real business problem, not to a year of retainer billing."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single vertical bar with a horizontal line crossing near the top, suggesting a column and a beam. Reads cleanly on a proposal, name badge, and procurement deck.",
+        "colorPalette": [
+          {"name": "Counsel Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean, unfussy.", "usage": "Backgrounds, paper"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Margin Red", "hex": "#A8313F", "meaning": "The note in the margin.", "usage": "Highlights, charts, key callouts"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed engagement documents",
+          "rationale": "Inter scales clean across digital. The serif handles formal engagement letters and printed reports."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C product. No celebrity-CEO podcast. No content strategy aimed at the public. The firm sells through direct relationships with executives."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who hires us",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "OUTSIDE VOICE",
+        "tagline": "Said out loud.",
+        "brandNameRationale": "Two words. Outside Voice is what an outside advisor actually is: the person who will say the thing in the meeting that the internal team won't. The name puts the function in the brand position and does it in plain English. Loud, slightly cheeky, and immediately legible.",
+        "manifesto": "Most consulting firms sound like they wish they were the client. They mirror the company's language, soften the recommendations, and round off the edges. We made Outside Voice because the client already has internal voices. What they don't have is someone willing to say the thing nobody at the table will say. We say the thing. The brand is the function.",
+        "industrySummary": "Consulting branding has been polished, neutral, and slightly cautious. There's room for a brand that's sharp, character-driven, and serious about saying what the client's internal team won't.",
+        "competitorLandscape": "Brunswick Group (brunswickgroup.com) does the cautious-counsel peer. Strategy& (strategyand.pwc.com) holds the institutional middle. Public Digital (public.digital) sits in the modern design-led tier. We sit louder than any of them.",
+        "positioningStatement": "An advisory firm that says the thing.",
+        "targetAudience": {
+          "primary": "30 to 55. Founders, CEOs, and senior executives who have hired consultants and felt told what they already knew. They want someone who will disagree with them in writing."
+        },
+        "brandPersonalityTraits": ["Sharp", "Warm", "Confident", "Direct", "Opinionated"],
+        "voiceAndTone": {
+          "dos": [
+            "Disagree in writing",
+            "Quote the client's words and then the better answer",
+            "Talk like the advisor who has nothing to lose"
+          ],
+          "donts": [
+            "Soften the recommendation in the case study",
+            "Use the word partner",
+            "Apologize for being direct"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the V of VOICE stylized as a small speech-bubble flourish. Standalone speech-bubble icon for stickers, social profiles, and the back of every engagement letter.",
+        "colorPalette": [
+          {"name": "Voice Red", "hex": "#D72638", "meaning": "Loud, warm, the speaker.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, engagement letters"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
+          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note, the highlighted line.", "usage": "Highlights, social, swag"},
+          {"name": "Carbon Blue", "hex": "#1B4A8B", "meaning": "Pen ink, the signed letter.", "usage": "Secondary surfaces, signatures"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and engagement letters",
+          "rationale": "Migra has personality and weight. Neue Montreal handles the readable bits. The pair feels designed and a little defiant."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a big firm. Not a mirror to the client. Not afraid of red. Not too cool to disagree with the CEO in writing."},
+          {"title": "Where it lives", "body": "Engagement letters that name the recommendation clearly and the disagreement clearly. Stickers in every welcome envelope. A small annual letter to past clients written like an opinion column. No client logos on the website."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
