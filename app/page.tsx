@@ -120,14 +120,15 @@ export default function HomePage() {
     <main className="mx-auto flex max-w-3xl flex-col gap-10 px-5 py-10 sm:px-8 sm:py-16">
       <header className="text-center">
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-zinc-500">
-          Brand Brief Generator
+          Brand Briefs
         </p>
         <h1 className="mt-3 text-4xl sm:text-5xl font-semibold tracking-tight text-zinc-900">
-          Agency-quality brand briefs, on demand.
+          Your boss will think you paid an{" "}
+          <span className="text-[#7229FF]">agency</span>.
         </h1>
         <p className="mx-auto mt-4 max-w-xl text-zinc-600">
-          Enter an industry and pick a style. Get a complete branding brief — name, positioning,
-          audience, voice, palette, typography, and visual direction.
+          Type an industry. Pick a style. Get the whole brief in seconds. Naming, positioning,
+          audience, voice, palette, typography. All the stuff you&apos;d usually fake your way through.
         </p>
       </header>
 
