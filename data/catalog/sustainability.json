@@ -1,0 +1,284 @@
+{
+  "industry": "sustainability",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "CIRCULAR",
+        "tagline": "Designed to come back.",
+        "brandNameRationale": "Single word, technical term. Circular is the economic model the category is built around: products designed to return to the system, not the landfill. The brand sits on the principle directly. No flowers. No earth-photographs.",
+        "industrySummary": "Sustainability brands keep using nature imagery. Trees. Leaves. The earth from space. The category has run out of room in that direction. The opening is for brands that look like product companies and lead with design and engineering, not imagery.",
+        "competitorLandscape": "Patagonia (patagonia.com) is the institution. Vollebak (vollebak.com) does material-science-led modern. Pangaia (thepangaia.com) sits at the design-meets-science intersection. We sit closer to Vollebak in posture, with sharper brand work.",
+        "positioningStatement": "Sustainable products engineered to come back to the system.",
+        "positioningRationale": "Most sustainability brands lean on imagery and storytelling. We lead with the engineering: the materials, the take-back program, the next life of every product. The proof is in the system, not the photography.",
+        "targetAudience": {
+          "primary": "30 to 50. Buys fewer, better things. Pays attention to materials. Returns the product when it's worn out. Reads the take-back program before buying."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the material and the percentage",
+            "Show the take-back path",
+            "Skip the nature photography"
+          ],
+          "donts": [
+            "Use the word eco",
+            "Photograph forests",
+            "Promise to save the planet"
+          ]
+        },
+        "logoDirection": "A wordmark only. CIRCULAR in a tight modern grotesk, all caps, with the C set as a near-closed loop, almost a full circle. A standalone closed-loop circle icon for app, social, and on every take-back tag.",
+        "colorPalette": [
+          {"name": "System Black", "hex": "#101012", "meaning": "Engineering, not nature.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Bone", "hex": "#F4F1EA", "meaning": "Used as space.", "usage": "Background, paper, secondary"},
+          {"name": "Loop Green", "hex": "#2E7D5B", "meaning": "Cycle accent. The take-back tag color.", "usage": "Accent, status, take-back labels"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for material specs and take-back data",
+          "rationale": "One family. The mono carries the technical material data and product lifecycle stats. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No tree counting. No earth-from-space hero shots. No 'planet-friendly' copy. No carbon-offset partnerships used as marketing."},
+          {"title": "Where it lives", "body": "Every product ships with a take-back tag and a printed material lifecycle card. The website shows the percentage of returned products on the homepage. A printed annual report on what came back and what got remade."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Garden & Estate",
+        "tagline": "Land kept well.",
+        "brandNameRationale": "Two words from a different register. Garden and Estate belong to the older language of stewardship: the practice of caring for land across generations. The brand reframes sustainability as estate management, not activism.",
+        "story": "Garden & Estate began with a family that had spent four generations managing the same agricultural land. They wanted to share what they had learned with other owners of significant land. The firm advises on regenerative agriculture, woodland restoration, and long-term land stewardship.",
+        "industrySummary": "Sustainability at the top end has been chasing carbon credits and offsets. There's a parallel market for actual land stewardship, which is older, slower, and aimed at people who already own significant property. The customer is not buying sustainability. They are paying for someone to help them keep what they have.",
+        "competitorLandscape": "Pew Charitable Trusts (pewtrusts.org) operates at institutional scale. The Land Trust Alliance (landtrustalliance.org) handles the U.S. conservation easement side. Knepp Estate (knepp.co.uk) is the rewilding reference. We sit in their conversation, on the advisory side.",
+        "positioningStatement": "An advisory firm for landowners who want to keep their land well for the next century.",
+        "targetAudience": {
+          "primary": "Landowners of estates, ranches, working farms, and significant private holdings. Often inherited. Often working with one trusted family office. Looking for a firm that thinks in 50-year horizons."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Speak in the language of land, not climate",
+            "Send paper reports each season"
+          ],
+          "donts": [
+            "Use activist language",
+            "Run a public content strategy",
+            "Photograph the land for marketing"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark. A second mark, a single tree silhouette reduced to a trunk and three branch lines, used as the seal on every printed report.",
+        "colorPalette": [
+          {"name": "Woodland Green", "hex": "#1E3A30", "meaning": "Old forest, deep leaf canopy.", "usage": "Primary brand color, signage, letterhead"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The hardware on the estate gate.", "usage": "Foil, hallmark, accents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, reports, packaging"},
+          {"name": "Soil Brown", "hex": "#3A2E1F", "meaning": "The land itself.", "usage": "Body type, deep accent"}
+        ],
+        "typography": {
+          "primary": "Canela Text for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "A high contrast serif sets the heritage tone. A modern grotesk handles correspondence and digital surfaces. Both quiet."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public marketing. No conference appearances. No content strategy. No client logos. No press."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we work with",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "LESS",
+        "tagline": "That's the whole brief.",
+        "brandNameRationale": "Single word. Says the entire philosophy of the brand in one syllable. Less is the actual sustainability practice, stripped of marketing. Less buying, less owning, less producing. The brand puts the principle in the brand position.",
+        "industrySummary": "Sustainability marketing has been about adding things. New brands, new materials, new labels. There is an opening for one that subtracts. One word. One promise. One product line that doesn't grow.",
+        "competitorLandscape": "Most sustainability brands compete on what they add. We compete on what we won't. The closest spirit is The Ordinary in skincare or Muji's discipline, applied to a sustainability-focused product line.",
+        "positioningStatement": "Sustainable goods. Fewer of them. Made to last.",
+        "targetAudience": {
+          "primary": "Adults who own less and want less. They don't want a new sustainability brand. They want the brand to stop launching things."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Patient", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Use plain words",
+            "Show what's in it",
+            "Tell customers when they don't need the product"
+          ],
+          "donts": [
+            "Launch new product lines often",
+            "Use the word journey",
+            "Sell add-ons"
+          ]
+        },
+        "logoDirection": "A wordmark only. LESS in a single weight grotesk, wide kerned, all caps. No icon. The product line is a small number of items that never gets larger. The wordmark appears on each. That's the system.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. One purpose. Nothing decorative."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No newsletter. No limited editions. No collaborations. No seasonal collections. No app. No content marketing."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who buys this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Polaris Sustainability Partners",
+        "tagline": "Climate strategy and reporting for the enterprise.",
+        "brandNameRationale": "Polaris is the north star. The point on the horizon that holds steady while everything else moves. Naming a sustainability advisory firm after it suggests fixed reference, long-term orientation, and serious navigation. Partners closes it as B2B.",
+        "industrySummary": "Corporate sustainability has become a regulated function. Companies need climate strategy, ESG reporting, carbon accounting, and supply-chain traceability. The buyer is a CSO, CFO, or General Counsel. The vendors are mostly large consultancies (Deloitte, EY) or small specialist firms. The opening is a structured, mid-size advisory firm focused on enterprise.",
+        "competitorLandscape": "Deloitte Sustainability (deloitte.com) holds the giant consultancy peer. ERM (erm.com) is the specialist incumbent. Watershed (watershed.com) is the software-led modern peer. We sit closest to ERM with stronger brand work and a clearer mid-size positioning.",
+        "positioningStatement": "Climate strategy and reporting for enterprise companies subject to regulatory disclosure.",
+        "positioningRationale": "Sustainability has moved from optional initiative to regulated function. Companies need a serious advisory partner who can deliver strategy and audit-ready reports. We are built for that buyer specifically.",
+        "targetAudience": {
+          "primary": "Chief Sustainability Officers, CFOs, General Counsels, and Heads of ESG at companies of 1000 to 100000 employees. They sign multi-year advisory contracts.",
+          "motivations": [
+            "Regulatory-grade ESG reporting",
+            "Credible climate strategy that survives scrutiny",
+            "One advisor across multiple geographies"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with regulatory readiness",
+            "Cite frameworks correctly (CSRD, SBTi, TCFD, ISSB)",
+            "Speak to the C-suite, not the community"
+          ],
+          "donts": [
+            "Use activist language",
+            "Promote individual project case studies on social",
+            "Run a thought-leadership podcast"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Audit-ready reporting", "description": "ESG disclosures formatted for the regulators, the auditors, and the board."},
+          {"name": "Strategy that survives scrutiny", "description": "Climate strategies built to hold up under analyst questioning, NGO criticism, and litigation."},
+          {"name": "Cross-jurisdiction coverage", "description": "Advisory across U.S., EU, and APAC reporting frameworks under one engagement."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single eight-point compass rose, the north pointing slightly extended. Reads cleanly on procurement decks, name badges, and the corporate trust center.",
+        "colorPalette": [
+          {"name": "Polaris Navy", "hex": "#0C2240", "meaning": "Trust, regulatory weight, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Compliance Green", "hex": "#2E7D5B", "meaning": "Audit-cleared accent.", "usage": "Status indicators, charts, success states"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed climate disclosures",
+          "rationale": "Inter scales clean across digital and B2B portals. The serif handles formal printed disclosures and audit-grade reports."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No consumer-facing sustainability campaigns. No activism. No community engagement programs. No carbon-credit retail marketplace. The firm sells through enterprise procurement and the General Counsel's office."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "NICE PLANET",
+        "tagline": "Let's not break it.",
+        "brandNameRationale": "Two words. Plain English. Says the entire argument in one phrase. Internet voice. Says what it says, with a wink. The name is a tone of voice as much as a brand.",
+        "manifesto": "Most sustainability brands are too earnest to take seriously. They moralize. They scold. They make you feel bad. We made Nice Planet because climate work should be possible without becoming a different person. We're serious about the work. We're not serious about ourselves.",
+        "industrySummary": "Sustainability branding has been earnest, beige, and slightly preachy. There's room for one that's loud, warm, full of personality, and still serious about the actual work. The category has been quiet for too long.",
+        "competitorLandscape": "Allbirds (allbirds.com) does sustainability with restraint. Patagonia (patagonia.com) does it with conviction. Climate Town (the YouTube channel) does it with humor. We are closer to Climate Town in tone, applied to a brand and product company.",
+        "positioningStatement": "A sustainability brand for people who want to do something without feeling guilty about the rest of their life.",
+        "targetAudience": {
+          "primary": "25 to 45. Tries to do the right thing where it's easy. Already exhausted by climate-anxiety content. Wants to participate without joining a movement. Buys the totebag, reads the newsletter."
+        },
+        "brandPersonalityTraits": ["Warm", "Funny", "Confident", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes about the climate without minimizing it",
+            "Talk like a friend who reads the news",
+            "Tell the truth about what works and what doesn't"
+          ],
+          "donts": [
+            "Scold",
+            "Use the word journey",
+            "Promise to save the planet"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with a slight smile curve under NICE. Standalone smiling-earth icon for stickers, social profiles, and packaging seals. The mark stays warm at every size.",
+        "colorPalette": [
+          {"name": "Nice Green", "hex": "#5DDE9F", "meaning": "Loud, friendly, the smile color.", "usage": "Primary brand color, hero surfaces, totebags"},
+          {"name": "Sky", "hex": "#7BB8FF", "meaning": "Clear day. Optimism.", "usage": "Secondary, social, accents"},
+          {"name": "Cream", "hex": "#FBF6E9", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Sun Yellow", "hex": "#FFD23F", "meaning": "Highlight, joy.", "usage": "Highlights, swag, social"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Body, headlines"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and labels",
+          "rationale": "Migra has personality and warmth. Neue Montreal handles the practical bits. The pair feels designed and friendly."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not earnest. Not preachy. Not afraid of green. Not too cool to make a joke about itself."},
+          {"title": "Where it lives", "body": "Totebags people actually use. Stickers in every order. A weekly newsletter that's mostly funny climate news. Pop-up events that are part education, part party. A merch line that's actually good. A printed zine three times a year."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who shows up",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

@@ -110,9 +110,9 @@
     ],
     "Minimal": [
       {
-        "brandName": "ACCOUNT",
-        "tagline": "Your money. That's it.",
-        "brandNameRationale": "The most basic financial word. We named the brand after the thing the customer is opening. No wordplay. No story. The brand is the function. Account.",
+        "brandName": "BALANCE",
+        "tagline": "Just the number.",
+        "brandNameRationale": "Single word. Balance is what the customer is actually checking, and what most banking apps actively undermine with notifications and upsells. The brand is named after the thing they want to see.",
         "industrySummary": "Fintech apps have been over-designed for years. Bright colors, animations, gamified savings goals. There's an opening for a brand that subtracts. One account. One screen. One thing it does well.",
         "competitorLandscape": "Most consumer fintech competes on features. We compete on absence. The closest aesthetic peer is Charm Industrial's design language, but in a different category. There isn't a direct competitor in this position.",
         "positioningStatement": "A bank account that does what a bank account does. Nothing else.",
@@ -132,7 +132,7 @@
             "Send marketing emails"
           ]
         },
-        "logoDirection": "A wordmark only. ACCOUNT set in a single weight grotesk, wide kerned, all caps. No icon. The app icon is the wordmark abbreviated to ACT. No second mark.",
+        "logoDirection": "A wordmark only. BALANCE set in a single weight grotesk, wide kerned, all caps. No icon. The app icon is the wordmark abbreviated to BAL. No second mark.",
         "colorPalette": [
           {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body type, all interface"},
           {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, all light surfaces"},

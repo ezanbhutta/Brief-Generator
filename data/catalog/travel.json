@@ -1,0 +1,283 @@
+{
+  "industry": "travel",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "PASSAGE",
+        "tagline": "Book the way through.",
+        "brandNameRationale": "Single word. Passage means the act of moving and the route itself. Two readings in one word. Sounds like travel without saying travel. Reads as planned, considered, and slightly grown up.",
+        "industrySummary": "Travel brands have been chasing inspiration as a category. Beautiful photos, dreamy taglines, vague promises. The customer has gotten more practical. They want a real itinerary, real prices, and an interface that books in fewer than ten clicks.",
+        "competitorLandscape": "Mr & Mrs Smith (mrandmrssmith.com) holds the boutique hotel category. Original Travel (originaltravel.co.uk) handles the curated bespoke side. Airbnb Luxe (airbnb.com/luxe) sits in the high end. We are closer in tone to Mr & Mrs Smith with a sharper modern interface.",
+        "positioningStatement": "Curated travel for people who already know how to book a flight.",
+        "targetAudience": {
+          "primary": "30 to 50. Travels for work and pleasure. Has a frequent flyer status they don't talk about. Books their own trips usually, hires us for the ones that matter."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Quiet"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the price",
+            "Show the day-by-day",
+            "Speak to one traveler at a time"
+          ],
+          "donts": [
+            "Use the word wanderlust",
+            "Photograph empty beaches",
+            "Promise an experience of a lifetime"
+          ]
+        },
+        "logoDirection": "A wordmark only. PASSAGE in a tight modern serif, all caps, narrow tracking. The two A's set with a subtly shared crossbar, suggesting a connecting route. A standalone arrow-style mark, a simple chevron, for app and social use.",
+        "colorPalette": [
+          {"name": "Passage Black", "hex": "#101012", "meaning": "The color of a passport cover.", "usage": "Wordmark, primary type, dark mode"},
+          {"name": "Map Cream", "hex": "#F4F1EA", "meaning": "Old paper, the printed map.", "usage": "Backgrounds, paper, light surfaces"},
+          {"name": "Stamp Red", "hex": "#D72638", "meaning": "Visa stamp. The single accent.", "usage": "CTAs, key callouts, web headlines"}
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and large type",
+          "secondary": "Söhne for the product UI and itineraries",
+          "rationale": "A high contrast serif carries the brand. A composed grotesk handles the itinerary days and product surfaces. Two voices, one trip."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No inspirational mood boards. No flash sales. No 'lifetime experience' copy. No influencer trips."},
+          {"title": "Where it lives", "body": "A web app that books in under ten clicks. A printed itinerary mailed the week before departure. A WhatsApp number for the duration of the trip. No mid-trip marketing emails."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who books with us",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Allard & Co.",
+        "tagline": "Itineraries by appointment.",
+        "brandNameRationale": "Allard is a French surname with a quiet international register. & Co. closes it like a small, established firm. The whole name reads as a private travel office that has been around for three generations, even if it's been around for three years.",
+        "story": "Allard began with a single principal who had spent twenty years inside larger travel firms and grew tired of the volume. The office accepts forty client families. The waiting list has stayed long.",
+        "industrySummary": "Luxury travel has consolidated into bigger agencies and bigger packages. There's a thin market in the other direction. Private offices with a single principal, a handful of clients, and an address book that takes a lifetime to build.",
+        "competitorLandscape": "Indagare (indagare.com) leads the membership-based curated travel space. Quintessentially Travel (quintessentially.com) holds the concierge-driven side. Black Tomato (blacktomato.com) sits in the bespoke adventure tier. We are quieter than all of them.",
+        "positioningStatement": "A private travel office for forty client families. No more.",
+        "targetAudience": {
+          "primary": "Wealthy. Often inherited. Travels six to twelve weeks a year. Has a primary residence and a secondary one. Wants a single trusted travel office with a single principal who knows the family's preferences without being told."
+        },
+        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Trusted", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Send paper letters",
+            "Confirm arrangements in writing"
+          ],
+          "donts": [
+            "Advertise",
+            "Use a public price list",
+            "Publish a content calendar"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark, set with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark, used on letterhead, embossed business cards, and a brass plaque outside the office. The mark stays small in every application.",
+        "colorPalette": [
+          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Aged leather, hunting estates, the gentleman's club bar.", "usage": "Primary brand color, letterhead, signage"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the plaque outside.", "usage": "Foil, hallmark, hardware"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, fine cotton.", "usage": "Stationery, backgrounds, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, reports, structural elements"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "A high contrast classical serif carries the heritage tone. A modern grotesk handles correspondence and the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public price list. No website beyond a single-page address card. No social media. No press. No client logo wall. No advertising of any kind."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we serve",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "AWAY",
+        "tagline": "Out and back.",
+        "brandNameRationale": "Single word. Away is what travel actually is, said plainly. The brand sits on the word itself, before the destination, before the airline, before any of the categories the industry usually leads with.",
+        "industrySummary": "Travel brands lead with destinations. We lead with the act. The customer wants to be away. The where matters second.",
+        "competitorLandscape": "Most travel brands compete on destination galleries. We compete on absence of decoration. The closest aesthetic peer is Away (the luggage brand) but operating in a different category and a different lane.",
+        "positioningStatement": "Travel planning that doesn't try to sell you the destination.",
+        "targetAudience": {
+          "primary": "Adults who already know where they want to go. They want help with the booking, the logistics, the on-trip support. They do not want the inspiration."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the dates",
+            "Show the price",
+            "Send the confirmation in one short email"
+          ],
+          "donts": [
+            "Photograph the destination",
+            "Use the word adventure",
+            "Run promotional flash sales"
+          ]
+        },
+        "logoDirection": "A wordmark only. AWAY in a single weight grotesk, wide kerned, all caps. No icon. No flag. No silhouette. The wordmark appears on confirmation emails and itinerary headers. That's where the brand lives.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, transaction rows"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The app is the wordmark, the dates, the price, the itinerary. Nothing decorative."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No destination guides. No mood boards. No newsletter. No referral codes. No flash sales."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who books this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Bridger Corporate Travel",
+        "tagline": "Travel management for the modern enterprise.",
+        "brandNameRationale": "Bridger sounds like a real surname or place name. Corporate Travel names the buyer category cleanly. The whole name reads as a real B2B travel firm. Already on a procurement panel without having to win one.",
+        "industrySummary": "Corporate travel is a multi-billion-dollar B2B category dominated by older players (Amex GBT, CWT, BCD). Their interfaces have aged. There's a clear opening for a modern operator that wins the procurement cycle on platform quality and reporting depth.",
+        "competitorLandscape": "American Express Global Business Travel (amexglobalbusinesstravel.com) is the giant. CWT (mycwt.com) and BCD Travel (bcdtravel.com) hold the rest. TripActions/Navan (navan.com) is the modern startup peer. We sit closest to Navan in tone, with stronger brand work.",
+        "positioningStatement": "Corporate travel management for finance and people teams that have moved on from legacy platforms.",
+        "positioningRationale": "Finance teams are tired of legacy booking platforms. People teams want better traveler experience. We win when we can address both audiences in one buying cycle.",
+        "targetAudience": {
+          "primary": "CFOs, Heads of People, and Travel Managers at companies of 500 to 50000 employees. They sign multi-year contracts.",
+          "motivations": [
+            "Replace legacy platforms",
+            "Real-time spend visibility",
+            "Traveler experience that doesn't get complaints"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Modern", "Steady"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with cost and policy compliance",
+            "Show real metrics in case studies",
+            "Speak to the buyer, not the traveler"
+          ],
+          "donts": [
+            "Use consumer travel language",
+            "Photograph leisure destinations",
+            "Run growth-hacker campaigns"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Real-time spend visibility", "description": "Every booking, every traveler, every entity, in a single view, updated continuously."},
+          {"name": "Policy compliance built in", "description": "Policies enforced at booking time, not flagged after the fact."},
+          {"name": "Traveler experience that doesn't generate complaints", "description": "Mobile-first booking, 24/7 support, and rebooking that doesn't require three calls."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single bridge silhouette reduced to two arches. Reads cleanly on a procurement deck, name badges, and the trust center.",
+        "colorPalette": [
+          {"name": "Enterprise Navy", "hex": "#0C2240", "meaning": "Trust, finance, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Approval Green", "hex": "#2E7D5B", "meaning": "Policy compliant. Cleared trip.", "usage": "Status indicators, charts, success states"}
+        ],
+        "typography": {
+          "primary": "Inter for product UI and marketing",
+          "secondary": "Source Serif Pro for printed compliance documentation",
+          "rationale": "Inter scales clean across digital. The serif handles printed quarterly reports and trust center documents."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No consumer leisure travel. No free tier. No celebrity ambassadors. The product sells through enterprise procurement, not Instagram travel content."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "ELSEWHERE",
+        "tagline": "Be somewhere else.",
+        "brandNameRationale": "Single word. Names the goal of every traveler in one. Elsewhere is where the customer wants to be. The brand sits on that desire, plain and confident.",
+        "manifesto": "Most travel brands sell the same five destinations on rotation. We sell the elsewhere. The trip the customer didn't know they wanted. The off-day in a place they hadn't thought to consider. The strange dinner. The wrong turn. The brand exists to send people somewhere else.",
+        "industrySummary": "Travel brand has gotten cautious and beige. Linen-on-a-beach photography. The same lookbook for every destination. There's room for one that's loud, character-driven, sticker-friendly, and serious about finding the actual interesting places.",
+        "competitorLandscape": "Atlas Obscura (atlasobscura.com) does the curiosity side well. Roam (joinroam.com) has the digital nomad community. Trover, before its closure, did some of this. We sit closer to Atlas Obscura with a sharper modern brand.",
+        "positioningStatement": "A travel brand for people who pick the destination based on the rumor, not the brochure.",
+        "targetAudience": {
+          "primary": "25 to 45. Travels often, alone or in twos. Reads the niche city blog over the major travel magazine. Eats at the place with no English menu. Tells friends about the trip and never about the brand."
+        },
+        "brandPersonalityTraits": ["Curious", "Warm", "Confident", "Playful", "Sharp"],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the rumor",
+            "Name the strange place by its real name",
+            "Use real customer notes in the guide"
+          ],
+          "donts": [
+            "Photograph empty beaches",
+            "Use the word breathtaking",
+            "Curate a list of the top ten anything"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif, with the E of ELSEWHERE stylized as a small compass-rose section. Standalone compass-fragment icon for stickers, social profiles, and the back of every printed guide.",
+        "colorPalette": [
+          {"name": "Elsewhere Orange", "hex": "#E07A2C", "meaning": "Sunset on a town you can't find on the map.", "usage": "Primary brand color, hero surfaces, totebags"},
+          {"name": "Map Cream", "hex": "#F4EFE2", "meaning": "Old printed map.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Compass Blue", "hex": "#1B4A8B", "meaning": "Anchor. The water on the map.", "usage": "Secondary surfaces, body type"},
+          {"name": "Stamp Red", "hex": "#D72638", "meaning": "Passport stamp. The accent.", "usage": "Highlights, social, key callouts"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Type.", "usage": "Body, headlines, structure"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and itineraries",
+          "rationale": "Migra has character and warmth. Neue Montreal keeps the practical details readable. The pair feels designed and curious."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a luxury travel brand. Not a list-of-ten-things brand. Not afraid of orange. Not too cool to tell you about the bus."},
+          {"title": "Where it lives", "body": "Printed guides for specific small cities. Totebags people actually use abroad. A monthly newsletter that's mostly customer notes. A pop-up travel office twice a year in a different city each time. Stickers in every order."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who travels with us",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

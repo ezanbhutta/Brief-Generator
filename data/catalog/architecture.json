@@ -1,0 +1,283 @@
+{
+  "industry": "architecture",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "PLANE",
+        "tagline": "Build flat. Build true.",
+        "brandNameRationale": "Single word. Plane is the most basic word in architecture. A flat surface. A datum. The starting point of every drawing. We named the practice after the first move every architect makes.",
+        "industrySummary": "Modern architecture practices are competing on portfolio and process. The client market has gotten more design-literate. Practices that look like product companies are winning the smaller residential and boutique commercial work.",
+        "competitorLandscape": "Studio MK27 (studiomk27.com.br) sets the global modern bar. Sou Fujimoto Architects (sou-fujimoto.net) for poetic restraint. SO-IL (so-il.org) for the New York version. Locally we are competing against the design-led residential firms that publish on Instagram.",
+        "positioningStatement": "A small modern practice that treats every project as one room before it is fifty.",
+        "targetAudience": {
+          "primary": "Homeowners, restaurateurs, and small commercial clients who already follow design accounts. They have a budget and a clear taste. They want a practice that listens before it draws."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Precise", "Quiet"],
+        "voiceAndTone": {
+          "dos": [
+            "Talk about the room before the building",
+            "Show the plan, not the render",
+            "Speak to the client, not the press"
+          ],
+          "donts": [
+            "Use the word starchitect",
+            "Photograph buildings with no people in them",
+            "Publish a manifesto on the homepage"
+          ]
+        },
+        "logoDirection": "A wordmark only. PLANE in a precise grotesk, set with mathematical spacing. The horizontal of the A subtly extended, like a datum line crossing the wordmark. Square icon for app and social uses a single thin horizontal line.",
+        "colorPalette": [
+          {"name": "Drafting Black", "hex": "#0F0F12", "meaning": "The color of a 6B pencil on tracing paper.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Tracing Paper", "hex": "#F4F0E5", "meaning": "Warm white. Used as space.", "usage": "Background, paper, secondary surfaces"},
+          {"name": "Site Yellow", "hex": "#E8B23A", "meaning": "Surveyor's flag color. The single accent.", "usage": "Section markers, key drawings, web headlines"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for dimensions and drawings",
+          "rationale": "One family. The mono carries the technical data on plans and elevations. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No press releases. No glossy book monographs. No competition entries for projects we wouldn't take. No render-only marketing."},
+          {"title": "Where it lives", "body": "A website that loads the floor plan first. A printed studio brochure, updated once a year. A single Instagram account with construction photos and finished plans. No reels."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Burnham & Wills",
+        "tagline": "Buildings that outlive their architects.",
+        "brandNameRationale": "Two surnames, joined by an ampersand. The 19th century structure of a great American practice. The name does not reference architecture directly because at this level it does not have to. The discipline is implied by the seriousness of the name.",
+        "story": "Burnham & Wills began with two partners who had spent decades inside larger firms and wanted to take fewer commissions, more carefully. The practice has stayed small since the day it opened. The waitlist has only grown.",
+        "industrySummary": "Architecture at the top end has been chasing scale and signature. Larger offices, more projects, bigger reveals. There's a thin market in the other direction. Small practices, long timelines, projects that take five years and are designed to last a hundred.",
+        "competitorLandscape": "Robert A.M. Stern (ramsa.com) holds the classical American reference. Studio Sofield (studiosofield.com) is the interiors-adjacent peer. Annabelle Selldorf (selldorf.com) is the closest in restraint and quiet ambition. We belong in their company.",
+        "positioningStatement": "A small architecture practice that accepts six commissions a year and finishes each before the next begins.",
+        "targetAudience": {
+          "primary": "Private clients building primary or secondary residences in the $20 to $200 million range. Institutions commissioning small but meaningful buildings. People who treat the architect choice as more important than the location."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Confident", "Heritage"],
+        "voiceAndTone": {
+          "dos": [
+            "Speak rarely",
+            "Use the client's surname in writing",
+            "Send paper updates by post"
+          ],
+          "donts": [
+            "Pitch in competitions",
+            "Photograph buildings for press",
+            "Run a content strategy"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark, used alone on stationery, the brass plaque outside the studio, and the cover of the printed brochure. The mark is small everywhere.",
+        "colorPalette": [
+          {"name": "Drawing Ink", "hex": "#1A1F26", "meaning": "Indigo black. The color of a fountain pen on heavy paper.", "usage": "Wordmark, type, signage"},
+          {"name": "Cream Stock", "hex": "#EFE9DB", "meaning": "Hand-laid paper. Cream linen.", "usage": "Stationery, backgrounds, brochures"},
+          {"name": "Brass Hardware", "hex": "#A38454", "meaning": "Aged metal. The hardware on every door we specify.", "usage": "Foil, hallmark, plaque"},
+          {"name": "Slate", "hex": "#3A3F44", "meaning": "Stone. Considered anchor.", "usage": "Body type, dividers"}
+        ],
+        "typography": {
+          "primary": "Canela Text for the wordmark and printed material",
+          "secondary": "Söhne for the few digital surfaces",
+          "rationale": "A high contrast classical serif sets the heritage tone. A composed grotesk handles correspondence and the secure client portal. Both restrained."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No competition entries. No public press. No published monograph. No competitions for projects we wouldn't take. No client logo wall."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we work with",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "HOUSE",
+        "tagline": "We make them.",
+        "brandNameRationale": "Single word. The most basic word for what we build. The brand is the noun. No adjective. No abstraction. We make houses, and the brand is named accordingly.",
+        "industrySummary": "Architecture practices love long, abstract names. Latin roots. Ampersands. Two-word coinages. There's an opening for one that just says what it is.",
+        "competitorLandscape": "Most modern practices position somewhere between art and craft. We position closer to the construction side, on purpose. The closest peers in spirit are the no-nonsense Japanese practices like Kazuyo Sejima's earliest work.",
+        "positioningStatement": "An architecture practice that builds houses. That's it.",
+        "targetAudience": {
+          "primary": "Homeowners who don't need their architect to also be a brand. They want a good drawing, an honest schedule, and a finished house."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the plan",
+            "Show the schedule",
+            "Use plain English in proposals"
+          ],
+          "donts": [
+            "Use the word vision",
+            "Write a project manifesto",
+            "Photograph the architect"
+          ]
+        },
+        "logoDirection": "A wordmark only. HOUSE set in a single weight grotesk, wide kerned, all caps. No icon. The proposal, the contract, and the final drawings all carry the same wordmark in the same place.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Background, all neutral surfaces"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, plan markers"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The drawings are the design language. The wordmark stays out of the way."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No competition entries. No monograph. No press. No published manifesto. No social media accounts beyond a single archive page."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who hires us",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Halstead Architecture Group",
+        "tagline": "Architecture, engineering, and program management.",
+        "brandNameRationale": "Halstead sounds like a firm that has been around. Architecture Group closes it as a B2B service category. The whole name reads like something already on a Fortune 500 facilities team's vendor list.",
+        "industrySummary": "Corporate architecture is dominated by the giant firms (HOK, Gensler, HKS, Perkins+Will). Most of them lean toward signature work. There's a quiet middle market for firms that focus on operational corporate buildings: campuses, headquarters refits, distribution centers. The buyers care about budget, schedule, and consistency more than signature.",
+        "competitorLandscape": "Gensler (gensler.com) is the global giant. HOK (hok.com) holds the institutional side. Perkins+Will (perkinswill.com) is the design-leaning corporate peer. We are smaller, more responsive, and more accountable to the schedule.",
+        "positioningStatement": "Corporate architecture and program management for companies that need the building delivered on time.",
+        "positioningRationale": "Most large architecture firms over-design and under-deliver on schedule. Our pitch is the opposite. We are designed for the corporate client who has a board to answer to and a building to occupy.",
+        "targetAudience": {
+          "primary": "Heads of Real Estate, Corporate Facilities, and Workplace at companies of 1000 to 100000 employees. They sign multi-year contracts and they live with the consequences.",
+          "motivations": [
+            "On-time delivery",
+            "Budget discipline",
+            "A single accountable partner"
+          ]
+        },
+        "brandPersonalityTraits": ["Reliable", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with schedule and budget",
+            "Show completed projects with delivery dates",
+            "Speak to the buyer"
+          ],
+          "donts": [
+            "Use design-press language",
+            "Show buildings without occupants",
+            "Run thought-leadership campaigns"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "On time, on budget", "description": "Every project tracked against published delivery and cost milestones."},
+          {"name": "One accountable partner", "description": "Architecture, engineering, and program management under one contract and one principal."},
+          {"name": "Designed for the operator", "description": "Buildings designed for the people who run them, not the people who publish them."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single solid right angle, suggesting structure and corner. Reads cleanly on a proposal cover, a hard hat, a name badge, and a corporate procurement deck.",
+        "colorPalette": [
+          {"name": "Industrial Navy", "hex": "#0F2238", "meaning": "Steadiness and seriousness.", "usage": "Logo, primary surfaces, proposal covers"},
+          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean, unfussy.", "usage": "Backgrounds, paper"},
+          {"name": "Slate", "hex": "#5A6776", "meaning": "Structure.", "usage": "Body text, dividers, chart axes"},
+          {"name": "Schedule Green", "hex": "#3E8E5A", "meaning": "On-time accent. Used in charts and milestones.", "usage": "Status indicators, charts, signage"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and proposals",
+          "secondary": "Source Serif Pro for printed RFP responses",
+          "rationale": "Inter scales clean across digital and printed proposals. The serif handles formal RFP submissions and printed monographs of completed work."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No residential work. No museum competitions. No press tour. No starchitect roster. The firm sells through corporate procurement, not architecture journals."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who hires us",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "DRAFT",
+        "tagline": "It starts on tracing paper.",
+        "brandNameRationale": "Draft is the architecture word for an early drawing, and the word for the air that moves through a building. Two meanings, both alive in our work. The name is loud, honest, and slightly self-deprecating: every project starts as a draft.",
+        "manifesto": "Most architecture practices treat the drawing as a stage in the process. We treat it as the product. The finished building is the byproduct. We sell the drawing first, the conversation second, and the building as a consequence of both being right. We are not an architecture practice that happens to draw well. We are a drawing practice that happens to build.",
+        "industrySummary": "Architecture brand is quiet and design-led. Most practices try to look like an art gallery. There's room for one that's loud, character-driven, sticker-friendly, and still serious about the work.",
+        "competitorLandscape": "MOS (mos-office.net) is the closest in playful seriousness. Bureau Spectacular (bureau-spectacular.net) leans further into the cartoon end. Snarkitecture (snarkitecture.com) sells the design-installation crossover. We're sharper than any of them.",
+        "positioningStatement": "An architecture practice with personality, made for clients who want a building and a conversation.",
+        "targetAudience": {
+          "primary": "30 to 50. Founders, restaurateurs, gallery owners, small-press publishers. People building something physical for the first time. They want an architect who is going to be fun to email."
+        },
+        "brandPersonalityTraits": ["Playful", "Sharp", "Warm", "Confident", "Direct"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes",
+            "Annotate the drawings with margin notes",
+            "Email like a human being"
+          ],
+          "donts": [
+            "Quote dead architects in the homepage hero",
+            "Use the word praxis",
+            "Photograph buildings at dawn with no one in them"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the T crossed by a hand-drawn stroke that looks like a sketch mark. Standalone hand-drawn-T icon for stickers, social profiles, and the back of every contract.",
+        "colorPalette": [
+          {"name": "Sketch Pink", "hex": "#FF5C8A", "meaning": "Highlighter. Margin note. The annotated drawing.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Tracing Paper", "hex": "#F4EFE2", "meaning": "Warm background, the working surface.", "usage": "Backgrounds, drawing covers, paper"},
+          {"name": "Blueprint Blue", "hex": "#1B4A8B", "meaning": "The classic, used sparingly.", "usage": "Accent, secondary type, occasional sketch backgrounds"},
+          {"name": "Ink Black", "hex": "#181818", "meaning": "Drawing ink.", "usage": "Body type, wordmark on light"},
+          {"name": "Citrus", "hex": "#E8B23A", "meaning": "Site flag. The single warm accent.", "usage": "Highlights, swag"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and headlines",
+          "secondary": "PP Neue Montreal for body and signage",
+          "rationale": "Migra has personality and craft. Neue Montreal keeps everything legible. The pair feels both designed and a bit hand drawn."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a starchitect. Not a quiet practice. Not afraid of color. Not too cool to annotate a margin."},
+          {"title": "Where it lives", "body": "Drawings printed on real tracing paper, hand annotated, mailed to the client. Stickers on every laptop in the studio. A monthly newsletter written like a margin note. A merch line of two T-shirts and a totebag. The studio is open on Saturdays and people come by."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who hires us",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
