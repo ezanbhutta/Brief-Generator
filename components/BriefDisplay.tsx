@@ -1,8 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import type { Brief, Style } from "@/lib/generator";
-import { briefToPlainText } from "@/lib/generator";
+import type { Brief, Style, SectionKey } from "@/lib/generator";
+import { briefToPlainText, DEFAULT_SECTION_ORDER, DEFAULT_SECTION_TITLES } from "@/lib/generator";
 
 interface Props {
   brief: Brief;
@@ -70,63 +70,66 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
   const typo = brief.typography;
   const hasTypo = typo && (hasText(typo.primary) || hasText(typo.secondary) || hasText(typo.rationale));
 
-  return (
-    <article className="rounded-2xl border border-zinc-200 bg-white p-6 sm:p-10 shadow-sm">
-      <header className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
-        <div>
-          <p className="text-xs font-semibold uppercase tracking-[0.18em] text-zinc-500">
-            {style} · {industry}
-          </p>
-          <h2 className="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight text-zinc-900">
-            {brief.brandName}
-          </h2>
-          {hasText(brief.tagline) && (
-            <p className="mt-1 text-zinc-600 italic">{brief.tagline}</p>
-          )}
-        </div>
-        <button
-          type="button"
-          onClick={copyAll}
-          className="inline-flex items-center gap-2 self-start rounded-lg border border-zinc-300 bg-zinc-50 px-4 py-2 text-sm font-medium text-zinc-800 transition hover:bg-zinc-100 hover:border-zinc-400 active:scale-[0.98]"
-          aria-live="polite"
-        >
-          {copied ? "Copied" : "Copy full brief"}
-        </button>
-      </header>
+  const labelFor = (k: SectionKey): string =>
+    brief.sectionLabels?.[k] ?? DEFAULT_SECTION_TITLES[k];
 
-      <div className="mt-8 space-y-6">
-        {hasText(brief.brandNameRationale) && (
-          <Section title="Why this name">
+  const sectionHasData: Record<SectionKey, boolean> = {
+    brandNameRationale: hasText(brief.brandNameRationale),
+    story: hasText(brief.story),
+    manifesto: hasText(brief.manifesto),
+    industrySummary: hasText(brief.industrySummary),
+    competitorLandscape: hasText(brief.competitorLandscape),
+    positioning: hasPositioning,
+    targetAudience: !!hasAudience,
+    personality: traits.length > 0,
+    voiceAndTone: !!hasVoice,
+    messagingPillars: pillars.length > 0,
+    logoDirection: hasText(brief.logoDirection),
+    colorPalette: palette.length > 0,
+    typography: !!hasTypo,
+    visualIdentityIdeas: visuals.length > 0,
+  };
+
+  const orderedKeys: SectionKey[] = (brief.sectionOrder ?? DEFAULT_SECTION_ORDER).filter(
+    (k) => sectionHasData[k],
+  );
+
+  function renderSection(key: SectionKey): React.ReactNode {
+    const title = labelFor(key);
+    switch (key) {
+      case "brandNameRationale":
+        return (
+          <Section key={key} title={title}>
             <p>{brief.brandNameRationale}</p>
           </Section>
-        )}
-
-        {hasText(brief.story) && (
-          <Section title="Story">
+        );
+      case "story":
+        return (
+          <Section key={key} title={title}>
             <p className="whitespace-pre-line">{brief.story}</p>
           </Section>
-        )}
-
-        {hasText(brief.manifesto) && (
-          <Section title="Manifesto">
+        );
+      case "manifesto":
+        return (
+          <Section key={key} title={title}>
             <p className="whitespace-pre-line text-lg leading-relaxed">{brief.manifesto}</p>
           </Section>
-        )}
-
-        {hasText(brief.industrySummary) && (
-          <Section title="Industry Summary">
+        );
+      case "industrySummary":
+        return (
+          <Section key={key} title={title}>
             <p>{brief.industrySummary}</p>
           </Section>
-        )}
-
-        {hasText(brief.competitorLandscape) && (
-          <Section title="Competitive Landscape">
+        );
+      case "competitorLandscape":
+        return (
+          <Section key={key} title={title}>
             <p>{brief.competitorLandscape}</p>
           </Section>
-        )}
-
-        {hasPositioning && (
-          <Section title="Brand Positioning">
+        );
+      case "positioning":
+        return (
+          <Section key={key} title={title}>
             {hasText(brief.positioningStatement) && (
               <p className="text-zinc-900 font-medium">{brief.positioningStatement}</p>
             )}
@@ -134,10 +137,11 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
               <p className="mt-3 text-zinc-700">{brief.positioningRationale}</p>
             )}
           </Section>
-        )}
-
-        {hasAudience && audience && (
-          <Section title="Target Audience">
+        );
+      case "targetAudience":
+        if (!audience) return null;
+        return (
+          <Section key={key} title={title}>
             {hasText(audience.primary) && <p className="text-zinc-900">{audience.primary}</p>}
             {audience.behaviors && audience.behaviors.length > 0 && (
               <div className="mt-4">
@@ -164,10 +168,10 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
               </div>
             )}
           </Section>
-        )}
-
-        {traits.length > 0 && (
-          <Section title="Brand Personality">
+        );
+      case "personality":
+        return (
+          <Section key={key} title={title}>
             <ul className="flex flex-wrap gap-2">
               {traits.map((p) => (
                 <li
@@ -179,10 +183,11 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
               ))}
             </ul>
           </Section>
-        )}
-
-        {hasVoice && voice && (
-          <Section title="Voice & Tone">
+        );
+      case "voiceAndTone":
+        if (!voice) return null;
+        return (
+          <Section key={key} title={title}>
             <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
               {voice.dos && voice.dos.length > 0 && (
                 <div className="rounded-xl border border-emerald-200 bg-emerald-50/40 p-4">
@@ -216,10 +221,10 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
               )}
             </div>
           </Section>
-        )}
-
-        {pillars.length > 0 && (
-          <Section title="Messaging Pillars">
+        );
+      case "messagingPillars":
+        return (
+          <Section key={key} title={title}>
             <ul className="space-y-3">
               {pillars.map((p) => (
                 <li key={p.name} className="rounded-xl border border-zinc-200 p-4">
@@ -229,16 +234,16 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
               ))}
             </ul>
           </Section>
-        )}
-
-        {hasText(brief.logoDirection) && (
-          <Section title="Logo Direction">
-            <p>{brief.logoDirection}</p>
+        );
+      case "logoDirection":
+        return (
+          <Section key={key} title={title}>
+            <p className="whitespace-pre-line">{brief.logoDirection}</p>
           </Section>
-        )}
-
-        {palette.length > 0 && (
-          <Section title="Color Palette">
+        );
+      case "colorPalette":
+        return (
+          <Section key={key} title={title}>
             <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2">
               {palette.map((c) => (
                 <li
@@ -270,10 +275,11 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
               ))}
             </ul>
           </Section>
-        )}
-
-        {hasTypo && typo && (
-          <Section title="Typography Direction">
+        );
+      case "typography":
+        if (!typo) return null;
+        return (
+          <Section key={key} title={title}>
             <dl className="grid grid-cols-1 gap-2 sm:grid-cols-[max-content_1fr] sm:gap-x-6">
               {hasText(typo.primary) && (
                 <>
@@ -295,17 +301,46 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
               )}
             </dl>
           </Section>
-        )}
-
-        {visuals.length > 0 && (
-          <Section title="Visual Identity Ideas">
+        );
+      case "visualIdentityIdeas":
+        return (
+          <Section key={key} title={title}>
             <ul className="list-disc space-y-1 pl-5 marker:text-zinc-400">
               {visuals.map((v) => (
                 <li key={v}>{v}</li>
               ))}
             </ul>
           </Section>
-        )}
+        );
+    }
+  }
+
+  return (
+    <article className="rounded-2xl border border-zinc-200 bg-white p-6 sm:p-10 shadow-sm">
+      <header className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-[0.18em] text-zinc-500">
+            {style} · {industry}
+          </p>
+          <h2 className="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight text-zinc-900">
+            {brief.brandName}
+          </h2>
+          {hasText(brief.tagline) && (
+            <p className="mt-1 text-zinc-600 italic">{brief.tagline}</p>
+          )}
+        </div>
+        <button
+          type="button"
+          onClick={copyAll}
+          className="inline-flex items-center gap-2 self-start rounded-lg border border-zinc-300 bg-zinc-50 px-4 py-2 text-sm font-medium text-zinc-800 transition hover:bg-zinc-100 hover:border-zinc-400 active:scale-[0.98]"
+          aria-live="polite"
+        >
+          {copied ? "Copied" : "Copy full brief"}
+        </button>
+      </header>
+
+      <div className="mt-8 space-y-6">
+        {orderedKeys.map((key) => renderSection(key))}
 
         {customs.map((s) => (
           <Section key={s.title} title={s.title}>

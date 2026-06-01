@@ -38,6 +38,58 @@ export interface CustomSection {
 
 export type BriefFormat = "structured" | "editorial" | "compact" | "story";
 
+export type SectionKey =
+  | "brandNameRationale"
+  | "story"
+  | "manifesto"
+  | "industrySummary"
+  | "competitorLandscape"
+  | "positioning"
+  | "targetAudience"
+  | "personality"
+  | "voiceAndTone"
+  | "messagingPillars"
+  | "logoDirection"
+  | "colorPalette"
+  | "typography"
+  | "visualIdentityIdeas";
+
+export type SectionLabels = Partial<Record<SectionKey, string>>;
+
+export const DEFAULT_SECTION_ORDER: SectionKey[] = [
+  "brandNameRationale",
+  "story",
+  "manifesto",
+  "industrySummary",
+  "competitorLandscape",
+  "positioning",
+  "targetAudience",
+  "personality",
+  "voiceAndTone",
+  "messagingPillars",
+  "logoDirection",
+  "colorPalette",
+  "typography",
+  "visualIdentityIdeas",
+];
+
+export const DEFAULT_SECTION_TITLES: Record<SectionKey, string> = {
+  brandNameRationale: "Why this name",
+  story: "Story",
+  manifesto: "Manifesto",
+  industrySummary: "Industry Summary",
+  competitorLandscape: "Competitive Landscape",
+  positioning: "Brand Positioning",
+  targetAudience: "Target Audience",
+  personality: "Brand Personality",
+  voiceAndTone: "Voice & Tone",
+  messagingPillars: "Messaging Pillars",
+  logoDirection: "Logo Direction",
+  colorPalette: "Color Palette",
+  typography: "Typography Direction",
+  visualIdentityIdeas: "Visual Identity Ideas",
+};
+
 export interface Brief {
   brandName: string;
 
@@ -62,6 +114,9 @@ export interface Brief {
   visualIdentityIdeas?: string[];
 
   customSections?: CustomSection[];
+
+  sectionLabels?: SectionLabels;
+  sectionOrder?: SectionKey[];
 
   format?: BriefFormat;
 }
