@@ -1,0 +1,284 @@
+{
+  "industry": "ai-tools",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "PROMPT",
+        "tagline": "Type it. Ship it.",
+        "brandNameRationale": "Single word. Prompt is the basic unit of every modern AI interaction. The brand sits on the customer's daily verb. Modern, direct, and impossible to confuse with anything else.",
+        "industrySummary": "AI tools have become a category overnight. The customer is a designer, developer, or knowledge worker who already uses three AI products and wants the fourth to be the one that sticks. The opening is for a brand that talks like the engineers who use the tool, not like the marketing team.",
+        "competitorLandscape": "Cursor (cursor.com) holds the AI-developer-tool peer position. Linear (linear.app) sets the design bar for adjacent product. Anthropic (anthropic.com) and OpenAI (openai.com) are the foundation models the customer already uses. We sit closest to Cursor in posture.",
+        "positioningStatement": "An AI product that ships output, not promises.",
+        "positioningRationale": "Most AI tools sell the demo. We sell the work. The brand promise is that the customer can prompt the tool and get something useful in their hand within minutes.",
+        "targetAudience": {
+          "primary": "25 to 45. Designer, developer, writer, or knowledge worker. Already pays for at least three AI subscriptions. Will switch tools the moment one of them gets in the way of shipping."
+        },
+        "brandPersonalityTraits": ["Direct", "Modern", "Precise", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the prompt and the output side by side",
+            "Lead with what the tool ships",
+            "Speak to the engineer or designer who'd use the tool"
+          ],
+          "donts": [
+            "Use the word democratize",
+            "Promise it will replace your team",
+            "Show abstract glowing figures in marketing"
+          ]
+        },
+        "logoDirection": "A wordmark only. PROMPT in a custom geometric mono, all caps, with a small caret symbol used as the cursor before the word. The caret can stand alone as the favicon and app icon. The wordmark works on a dark editor background and a light landing page.",
+        "colorPalette": [
+          {"name": "Editor Black", "hex": "#0F1014", "meaning": "Dark IDE. The customer's native habitat.", "usage": "Primary surface, marketing site, app body"},
+          {"name": "Off Paper", "hex": "#F3F1EC", "meaning": "Used as space, the light theme.", "usage": "Light mode, paper, secondary"},
+          {"name": "Prompt Violet", "hex": "#7229FF", "meaning": "The accent. The color of a successful generation.", "usage": "Links, CTAs, accent, status"}
+        ],
+        "typography": {
+          "primary": "Inter for the marketing site and product",
+          "secondary": "JetBrains Mono for prompts, outputs, and the wordmark",
+          "rationale": "Inter is the dev default for clean product marketing. JetBrains Mono carries the prompts, the code, and the brand wordmark. Both feel native to the customer."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'AI agent' marketing copy that overpromises. No glowing-figures hero illustration. No 'democratize creativity' tagline. No founder personal brand on Twitter."},
+          {"title": "Where it lives", "body": "A landing page that shows the prompt and the output in the first scroll. Real product screenshots on every page. A changelog written like a developer talking to other developers. No marketing illustrations."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "The reference shelf",
+          "positioning": "The pitch",
+          "targetAudience": "Who uses this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Atelier Models",
+        "tagline": "Models, considered.",
+        "brandNameRationale": "Two words. Atelier is the French word for a small craft workshop, more associated with couture than software. Models is the technical AI word. The pair reframes AI as a craft discipline rather than a tech-startup race. Unexpected and slightly heretical.",
+        "story": "Atelier Models began with a small group of researchers who had spent years inside the major AI labs and wanted to build smaller, more carefully tuned models for specific enterprise applications. The atelier accepts a limited number of customers. Each model is built by hand for the customer's use case.",
+        "industrySummary": "Top end AI services have been chasing scale: bigger models, bigger compute, bigger announcements. There's a parallel market for smaller, custom-tuned models for specific applications. The customer is paying for the researchers, the tuning, and the long-term relationship.",
+        "competitorLandscape": "Anthropic (anthropic.com), OpenAI (openai.com), and Google DeepMind (deepmind.google) are the foundation-model giants we build atop. The closest peers in spirit are some boutique AI consultancies (Cohere's enterprise practice, Hugging Face's tuning services) and the older private-AI labs.",
+        "positioningStatement": "A small atelier building custom-tuned AI models for specific enterprise applications.",
+        "targetAudience": {
+          "primary": "Heads of AI, CIOs, and Chief Data Officers at enterprise companies who want bespoke AI capabilities rather than off-the-shelf APIs. They sign multi-year engagements."
+        },
+        "brandPersonalityTraits": ["Refined", "Considered", "Precise", "Discreet", "Patient"],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in the language of AI research",
+            "Address the client by surname",
+            "Send paper reports for major model evaluations"
+          ],
+          "donts": [
+            "Use the word disrupt",
+            "Run content marketing aimed at the public",
+            "Photograph the team for press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand-like flourish becomes the atelier's hallmark, used on letterhead, model evaluation reports, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Studio Black", "hex": "#1A1A1B", "meaning": "Ink, the studio at night.", "usage": "Wordmark, type, signage"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The hallmark.", "usage": "Foil, accents"},
+          {"name": "Deep Indigo", "hex": "#1F2A4A", "meaning": "Computation, the deep math.", "usage": "Secondary surfaces, charts"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "A high contrast classical serif sets the atelier tone, intentionally distant from tech-startup branding. A modern grotesk handles the technical surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public price list. No D2C product. No conference circuit. No client logos on the website. No content strategy."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we build for",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "CALL",
+        "tagline": "One endpoint.",
+        "brandNameRationale": "Single word. Call is what every API integration does. The brand sits on the smallest unit of AI consumption: one API call. Plain, technical, immediately legible to the developer audience.",
+        "industrySummary": "Most AI product marketing has been elaborate (illustrations, demos, big landing pages). There's an opening for one that strips it back to the unit: a single API call, a single output, a single price.",
+        "competitorLandscape": "Most AI product brands compete on demos. We compete on absence of marketing. The closest peers in spirit are some Unix utility brands and the no-marketing aesthetic of certain developer-tool projects.",
+        "positioningStatement": "One AI endpoint. Pay per call.",
+        "targetAudience": {
+          "primary": "Developers who already use multiple AI APIs and want one that doesn't waste their time. They want the docs, the rate limit, the price, and the endpoint."
+        },
+        "brandPersonalityTraits": ["Plain", "Technical", "Honest", "Direct"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the endpoint and the example",
+            "Show the price per call",
+            "Use mono font for everything"
+          ],
+          "donts": [
+            "Run marketing illustrations",
+            "Use the word transformative",
+            "Add features customers didn't ask for"
+          ]
+        },
+        "logoDirection": "A wordmark only. CALL in monospace, lowercase, set without decoration. No icon. The favicon is the four letters stacked. The marketing site is essentially the API docs.",
+        "colorPalette": [
+          {"name": "Terminal Black", "hex": "#0C0C0C", "meaning": "The default terminal background.", "usage": "Primary background"},
+          {"name": "Terminal White", "hex": "#F0F0F0", "meaning": "The default terminal text.", "usage": "Body type, headlines"},
+          {"name": "Cursor Green", "hex": "#33FF33", "meaning": "The blinking cursor.", "usage": "Single accent, links, highlights"}
+        ],
+        "typography": {
+          "primary": "JetBrains Mono",
+          "secondary": "Same family",
+          "rationale": "One typeface. Monospace. Nothing else."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No hero illustrations. No glowing-figures imagery. No gradient text. No SaaS-stock photography. No sans-serif anywhere. No app, just an API."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The reference",
+          "positioning": "The line",
+          "targetAudience": "Who uses this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Granite AI Partners",
+        "tagline": "AI deployment for the enterprise.",
+        "brandNameRationale": "Three words. Granite signals durability, foundation, and unshakable structure. AI names the category. Partners closes it as a B2B services firm. The whole name reads like a real, established AI implementation firm already on the panel at major enterprise CIOs.",
+        "industrySummary": "Enterprise AI implementation and deployment is a multi-billion-dollar B2B category undergoing fast change as foundation models commoditize and integration becomes the differentiator. Buyers want partners who can deliver AI capabilities at enterprise scale with regulatory-grade governance.",
+        "competitorLandscape": "Accenture (accenture.com) is the consulting giant. Palantir (palantir.com) holds the data-led implementation tier. BCG GAMMA (bcg.com/gamma) sits in the strategy-led middle. We sit smaller, focused on the contemporary mid-market enterprise.",
+        "positioningStatement": "AI deployment services for mid-market enterprise companies operationalizing AI across the business.",
+        "positioningRationale": "Mid-market companies need real AI implementation partners without the giant consultancy price structure. We sit between the giants and the boutique studios, with operating discipline and modern delivery.",
+        "targetAudience": {
+          "primary": "CIOs, Chief Data Officers, and Heads of AI at companies of 1000 to 50000 employees. They sign multi-year contracts.",
+          "motivations": [
+            "Real AI deployment without runaway scope",
+            "Governance and risk management built in",
+            "One partner across strategy, implementation, and operations"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with delivery outcomes",
+            "Show case studies with business impact",
+            "Speak to the CIO and the CFO together"
+          ],
+          "donts": [
+            "Use AI hype language",
+            "Promise general intelligence",
+            "Run a thought-leadership podcast aimed at the public"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Implementation discipline", "description": "AI projects delivered against scoped outcomes, on multi-quarter milestones, with documentation."},
+          {"name": "Governance built in", "description": "Risk frameworks, audit trails, and regulatory documentation built into every engagement."},
+          {"name": "One partner across the AI stack", "description": "Strategy, data engineering, model deployment, and operations under one contract."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single granite-block silhouette reduced to a faceted hexagon. Reads cleanly on a procurement deck, a name badge, and the trust center.",
+        "colorPalette": [
+          {"name": "Granite Navy", "hex": "#0F2238", "meaning": "Trust, durability, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Deploy Green", "hex": "#3E8E5A", "meaning": "Shipped, in production.", "usage": "Status indicators, charts, success states"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and product UI",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and compliance documentation."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No consumer AI products. No free tier. No celebrity-AI partnerships. The firm sells through enterprise procurement, not Twitter AI commentary."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "BAD PROMPT",
+        "tagline": "We'll write a better one.",
+        "brandNameRationale": "Two words. Bad Prompt is the universal AI complaint: the customer typed the wrong thing and got a bad result. The brand puts the user's frustration in the brand position. Loud, sharp, and slightly self-deprecating.",
+        "manifesto": "Most AI brands sell the magic. The glowing figure. The future of work. We made Bad Prompt because the actual experience of working with AI is mostly debugging. Re-writing the prompt. Re-running the output. Squinting at the result. Bad Prompt is the brand for the real experience: a tool that helps you write better prompts, with humor and humility about how often we all type the wrong thing.",
+        "industrySummary": "AI tool branding has been polished, futuristic, and slightly cold. There's room for one that's loud, character-driven, sticker-friendly, and honest about how AI actually works in daily use.",
+        "competitorLandscape": "ChatGPT (chat.openai.com) is the cultural reference. Cursor (cursor.com) holds the developer-tool peer. Cleo (meetcleo.com) does playful in fintech-AI. Krea (krea.ai) does design-led AI image work. We sit warmer than all of them, with a clearer point of view.",
+        "positioningStatement": "An AI tool that helps you write better prompts and laughs about the bad ones.",
+        "targetAudience": {
+          "primary": "25 to 45. Already uses three AI tools. Has typed at least one prompt today they regret. Wants a tool that's good at output and good at admitting when the output is wrong."
+        },
+        "brandPersonalityTraits": ["Playful", "Sharp", "Warm", "Direct", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Quote real bad prompts (with humor)",
+            "Show the bad output and the better one",
+            "Talk to the user like another tired AI user"
+          ],
+          "donts": [
+            "Use the word democratize",
+            "Promise to replace human work",
+            "Photograph abstract glowing figures"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display sans with a small strikethrough on PROMPT, suggesting it's the bad version. Standalone strikethrough-P icon for stickers, social profiles, and the back of every welcome email.",
+        "colorPalette": [
+          {"name": "Error Red", "hex": "#D72638", "meaning": "Loud, the editor's mark, the failed prompt.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background, the document the prompt sits on.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
+          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note, the good prompt highlighted.", "usage": "Highlights, social, swag"},
+          {"name": "Prompt Violet", "hex": "#7229FF", "meaning": "The AI accent, used sparingly.", "usage": "Secondary brand surfaces, accent"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and product UI",
+          "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and a little weird."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a foundation-model lab. Not an enterprise AI consultancy. Not afraid of red. Not too cool to admit a prompt was bad."},
+          {"title": "Where it lives", "body": "A product that shows the bad output and the better prompt side by side. Stickers in every welcome email (digital and physical). A weekly newsletter with the funniest bad prompts from the community. A merch line for the patient few: tees that say BAD PROMPT across the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who uses this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

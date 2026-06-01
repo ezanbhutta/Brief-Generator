@@ -1,0 +1,283 @@
+{
+  "industry": "home-goods",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "MAKERS",
+        "tagline": "Built by hand. Sold direct.",
+        "brandNameRationale": "Single word, plural. Makers names the people behind the work rather than the work itself. The brand sits on the relationship between the customer and the human who made the thing. Modern, plural, and a quiet rebuke to factory retail.",
+        "industrySummary": "Modern home goods has become a category. Customers buy fewer pieces and care about who made them. The opening is a brand that puts the maker first, treats every piece as a small relationship, and skips the mass-market playbook.",
+        "competitorLandscape": "Heath Ceramics (heathceramics.com) holds the modern small-maker heritage position. Hawkins New York (hawkinsnewyork.com) sits in the design-led retail tier. Tortuga Forma (tortugaforma.com) does the modern maker-marketplace. We sit closest to Hawkins in editorial discipline.",
+        "positioningStatement": "A home goods brand where every piece is signed by the person who made it.",
+        "targetAudience": {
+          "primary": "30 to 55. Owns a home, cares about how it's furnished. Buys two or three pieces a year. Will pay a premium for hand-made. Reads the maker's bio before buying."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Warm"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the maker on every product page",
+            "Show the workshop, not the studio",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use the word artisan",
+            "Photograph empty rooms with golden hour light",
+            "Run a flash sale"
+          ]
+        },
+        "logoDirection": "A wordmark only. MAKERS in a precise modern grotesk, all caps, wide kerned. A small geometric mark, two thin horizontal lines suggesting a workbench, used as the hangtag stamp and the favicon.",
+        "colorPalette": [
+          {"name": "Workshop Black", "hex": "#101012", "meaning": "Marker on muslin, the workbench color.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Workshop Cream", "hex": "#F4F0E6", "meaning": "Unbleached canvas. Used as space.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Stamp Red", "hex": "#A8313F", "meaning": "Maker's mark stamp. The single accent.", "usage": "Hangtags, sale signs, web headlines"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for product specs and maker bios",
+          "rationale": "One family. The mono carries the material data and dimensions. The regular carries the brand and the editorial copy."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No mass-market lines. No 'inspired by' language. No flash sales. No celebrity collaborations. No 'shop the look' bundles."},
+          {"title": "Where it lives", "body": "A small retail shop open three days a week. A printed catalog twice a year. Each piece ships with a hangtag listing the maker, the material, and the make time. The website loads the workshop before the lookbook."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Brunton & Hall",
+        "tagline": "For the household, kept properly.",
+        "brandNameRationale": "Two surnames, joined by an ampersand. The structure of an established English homewares house. Brunton and Hall sound like two real partners whose names ended up over the door. The whole name reads like a small heritage retailer that has been here a century.",
+        "story": "Brunton & Hall began as a small workshop above a row of stables. The current generation has stayed at the same address. The catalog has stayed close to the same number of pieces. Some clients have been buying from the house for three generations.",
+        "industrySummary": "Top end home goods has been moving toward larger platforms and faster collections. There's a parallel market for small heritage retailers with a quiet catalog of objects meant to be passed down. The customer is paying for the house, the catalog, and the long relationship.",
+        "competitorLandscape": "Astier de Villatte (astierdevillatte.com) holds the European heritage homewares peer. Cassina (cassina.com) sits at the institutional design tier. March (marchsf.com) does the small independent peer well. We sit smaller than all of them, in the English heritage tradition.",
+        "positioningStatement": "A heritage homewares house with a small catalog and a long client list.",
+        "targetAudience": {
+          "primary": "Wealthy. Often inherited. Furnishes a house slowly. Buys for milestones. Expects every piece to outlast its purchase. Values the relationship with the editor over the catalog itself."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Name the maker, the material, and the maker's town",
+            "Send paper cards for every order"
+          ],
+          "donts": [
+            "Run a sale",
+            "Use the word luxury",
+            "Promote on Instagram with shoppable tags"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the house's hallmark, used on hangtags, the catalog cover, the brass plaque outside the showroom, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "House Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the showroom interior.", "usage": "Primary brand color, signage, letterhead"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hallmark, hardware"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper. Fine cotton.", "usage": "Stationery, paper, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, reports, structural elements"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure order portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces. Both restrained."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No mass distribution. No collaborations with fashion houses. No flash sales. No celebrity endorsements. No marketplace listings."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who buys from us",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "GOODS",
+        "tagline": "Sold here.",
+        "brandNameRationale": "Single word. Goods is the most basic word for what a retailer sells. The brand sits on the category itself, in the simplest plural noun available. Plain, honest, and slightly anti-brand.",
+        "industrySummary": "Most home goods brands lead with a story. There's an opening for one that leads with the goods themselves. One word. One catalog. Nothing else.",
+        "competitorLandscape": "Most home goods brands fail this purity test. The closest peers in spirit are some Japanese household stores (Muji's earliest iteration) and the no-name aesthetic of Costco's Kirkland.",
+        "positioningStatement": "A home goods shop with a small catalog and no brand world.",
+        "targetAudience": {
+          "primary": "Adults who buy household items and don't need a story. They want the right object, the right price, and a fair return policy."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Patient"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the product, the material, the price",
+            "Use plain English",
+            "Confirm orders in two lines"
+          ],
+          "donts": [
+            "Use the word curated",
+            "Photograph products styled in rooms",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark only. GOODS in a single weight grotesk, wide kerned, all caps. No icon. The hangtag, the bag, the receipt all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The hangtag, the website, and the receipt all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No collaborations. No newsletter. No loyalty program. No styled lifestyle imagery. No 'shop the look'."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who shops here",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Cresta Home Group",
+        "tagline": "Home and lifestyle distribution at scale.",
+        "brandNameRationale": "Three words. Cresta suggests a peak or summit, signaling premium quality without saying so. Home Group names the category as a holding company. The whole name reads like an established home-and-lifestyle distributor already on the procurement panel at major retailers.",
+        "industrySummary": "Home goods distribution and licensing is a serious B2B category. Retail chains, department stores, and direct-to-consumer brand operators need wholesale partners with reliable supply, design-led product development, and operational scale. The category is mostly served by giant distributors and a few specialist firms.",
+        "competitorLandscape": "Williams-Sonoma (williams-sonomainc.com) holds the integrated retail-and-distribution peer. RH (rh.com) does the design-led version. Restoration Hardware Trade (rhtrade.com) holds the B2B trade tier. We sit smaller than these, focused on the contemporary home retailer side.",
+        "positioningStatement": "Wholesale home goods distribution and brand licensing for retailers at scale.",
+        "positioningRationale": "Retailers want partners who can deliver consistent product across categories with design discipline. The category incumbents are designed for legacy retail. We are designed for the contemporary home retailer who needs an operator that thinks like a brand.",
+        "targetAudience": {
+          "primary": "Category buyers, VPs of Merchandising, and licensing directors at home retail chains, department stores, and direct-to-consumer home brands. They sign multi-season supply contracts.",
+          "motivations": [
+            "Reliable supply across categories",
+            "Design-led product development without losing operational discipline",
+            "Single partner across home, kitchen, and accessories"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the catalog and the delivery model",
+            "Show case studies with revenue impact",
+            "Speak to the buyer, not the consumer"
+          ],
+          "donts": [
+            "Use consumer home goods language",
+            "Photograph products in styled rooms",
+            "Promote individual products on consumer social media"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Wholesale at scale", "description": "Reliable supply across home, kitchen, and accessories under one contract."},
+          {"name": "Design-led category development", "description": "New product introduced on a multi-season calendar with editorial discipline, not chasing weekly trends."},
+          {"name": "Single partner across categories", "description": "Furniture, decor, kitchen, and accessories under one engagement."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single inverted triangle pointing up, suggesting a peak. Reads cleanly on a sourcing deck, a name badge, and a B2B trade show banner.",
+        "colorPalette": [
+          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, slides"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Category accent.", "usage": "Foil on B2B documents, accent"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed catalogs and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs and licensing contracts."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C brand of our own. No retail stores. No celebrity endorsements. The firm sells through wholesale and brand licensing channels, not consumer social media."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys from us",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "HOME BODY",
+        "tagline": "Stay in. Stay good.",
+        "brandNameRationale": "Two words. Home Body is the internet word for the person who would rather be at home than anywhere else. The brand names the customer instead of the category. Loud, warm, and slightly self-deprecating.",
+        "manifesto": "Most home goods brands sell aspiration. Big rooms, big rugs, big curated lifestyles. We made Home Body because most people actually live in small apartments, with not enough space, with one cat and a partner and a deadline. The home is where we are, not where we wish we were. Home Body is the brand for the home you actually have.",
+        "industrySummary": "Home goods branding has been chasing the magazine spread for too long. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about furnishing the actual rooms most people live in.",
+        "competitorLandscape": "Goodee (goodeeworld.com) does the design-led ethical end. The Citizenry (the-citizenry.com) holds the maker-driven middle. Wayfair (wayfair.com) is the mass-market giant. We sit warmer than Goodee, sharper than Wayfair, more honest than the design press.",
+        "positioningStatement": "A home goods brand for people who actually live in small spaces.",
+        "targetAudience": {
+          "primary": "25 to 40. Lives in an apartment. Buys for one room at a time. Reads home Instagram but knows they don't have the budget for it. Wants pieces that work in a 600-square-foot apartment, not a Brooklyn brownstone."
+        },
+        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the products in real small apartments",
+            "Make jokes about apartment life",
+            "Talk like a friend who already lives in the building"
+          ],
+          "donts": [
+            "Photograph empty Brooklyn brownstones",
+            "Use the word curated",
+            "Run a 'manor house' collection"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the O of HOME stylized as a small open square, suggesting a window. Standalone window-icon for stickers, social profiles, and packaging seals.",
+        "colorPalette": [
+          {"name": "Apartment Red", "hex": "#D72638", "meaning": "Loud, warm, the front door painted that way on purpose.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Apartment Cream", "hex": "#F4EFE2", "meaning": "Warm wall, the place you actually live.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Sage", "hex": "#A6B49A", "meaning": "The one plant on the windowsill.", "usage": "Accent, secondary surfaces"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
+          {"name": "Sun Yellow", "hex": "#FFD23F", "meaning": "The lamp in the corner.", "usage": "Highlights, swag, social"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and signage",
+          "rationale": "Migra has warmth and personality. Neue Montreal handles the practical bits. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a luxury brand. Not a magazine-shoot brand. Not afraid of red. Not too cool to admit the apartment is small."},
+          {"title": "Where it lives", "body": "Real photos from real customer apartments. Stickers in every order. A printed apartment-living guide mailed once a year. A weekly newsletter written like a friend texting from across the hallway."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

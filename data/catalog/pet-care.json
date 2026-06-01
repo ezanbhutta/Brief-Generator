@@ -1,0 +1,283 @@
+{
+  "industry": "pet-care",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "GOOD BOY",
+        "tagline": "And good girl. And good cat.",
+        "brandNameRationale": "Two words. Good Boy is what every dog person says to their dog, and what the cat probably hears too. The brand sits on the most universal phrase of pet ownership. Plain, warm, and immediately readable.",
+        "industrySummary": "Modern pet brands have moved past the cartoon-paw aesthetic. Owners want product that respects the design literacy they bring to every other category they shop in. The brand opening is for a pet brand that looks like an adult brand and treats the owner like one.",
+        "competitorLandscape": "Wild One (wildone.com) holds the modern dog-accessories peer position. Pups of New York (pupsofny.com) does the lifestyle-led tier. Found My Animal (foundmyanimal.com) holds the craft-leather position. Maxbone (maxbone.com) sits in the design-led pet retail middle. We sit closest to Wild One in posture.",
+        "positioningStatement": "Pet products designed for people who don't want their home to look like a pet shop.",
+        "targetAudience": {
+          "primary": "28 to 45. Owns one or two pets. Already buys design-led adult goods. Will pay a premium for pet products that work in a modern apartment."
+        },
+        "brandPersonalityTraits": ["Warm", "Modern", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Talk about the dog and the owner together",
+            "Show the product in a real apartment",
+            "Skip the cartoon paws"
+          ],
+          "donts": [
+            "Use the word fur-baby",
+            "Photograph products with cartoon backgrounds",
+            "Run influencer dog campaigns"
+          ]
+        },
+        "logoDirection": "A wordmark only. GOOD BOY in a soft modern grotesk, all caps, two words on one line. A small geometric mark, two thin parallel lines suggesting an ear, used as the hangtag stamp and the favicon.",
+        "colorPalette": [
+          {"name": "Coat Black", "hex": "#101012", "meaning": "The good dog's coat. Loyal.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Bone", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Treat Brown", "hex": "#A65A2A", "meaning": "Warm, the color of a good treat.", "usage": "Accent, hangtags, web headlines"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for product specs",
+          "rationale": "One family. The mono carries the technical product data. The regular carries the brand and the warm copy."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No cartoon paw imagery. No 'fur-baby' language. No dog-influencer marketing. No styled studio shoots with sleeping puppies."},
+          {"title": "Where it lives", "body": "A site that shows the product in real homes with real pets. Packaging that looks at home next to the toaster. A monthly email written like a friend talking about their dog."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Bramble & Co.",
+        "tagline": "For the well-kept dog.",
+        "brandNameRationale": "Three words. Bramble is the older word for a thorny hedge, the kind a country dog might explore. & Co. closes it as a small heritage house. The whole name reads like a quiet English firm making dog gear for the kind of household that has had dogs for generations.",
+        "story": "Bramble & Co. began with a single saddler making leather collars and leads for the dogs of country estates. The firm has stayed small. The catalog has stayed close to a few dozen pieces. Some clients have been with the firm for two or three generations of dogs.",
+        "industrySummary": "Top end pet products have been moving toward designer collaborations and faster collections. There's a parallel market for heritage-craft pieces in the older tradition: hand-stitched leather, hand-forged hardware, made to last across the dog's life. The customer is paying for the saddler, not the season.",
+        "competitorLandscape": "Mungo & Maud (mungoandmaud.com) holds the closest peer position. William Wegman's dog products (wegman.com) sits at the institutional design peak. Filson Dog (filson.com) carries the heritage-American end. We sit smaller than Mungo & Maud and quieter than Filson.",
+        "positioningStatement": "A small heritage firm making hand-stitched dog gear for households that keep dogs well.",
+        "targetAudience": {
+          "primary": "Wealthy. Often country-house owners. Has had dogs for decades, often the same breed. Pays for leather that improves with age. Expects the collar to outlast at least one dog."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Warm"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Name the leather, the hardware, the saddler",
+            "Send paper measurement cards for fitting"
+          ],
+          "donts": [
+            "Discount",
+            "Run a celebrity dog campaign",
+            "Sell through pet stores"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark, stamped into the leather of every collar and lead, embossed on the printed catalog, and used as the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Saddle Brown", "hex": "#5A3E20", "meaning": "Aged leather, the workshop bench.", "usage": "Primary brand color, leather products, signage"},
+          {"name": "Cream Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the catalog pages.", "usage": "Stationery, paper, packaging"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The collar hardware.", "usage": "Foil, hardware on products, hallmark"},
+          {"name": "Field Green", "hex": "#3A4032", "meaning": "Country land. Anchor.", "usage": "Secondary surfaces, body type"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure order portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No mass distribution. No celebrity dog endorsements. No flash sales. No app. No styling collaborations."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who orders from us",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "FED",
+        "tagline": "And walked.",
+        "brandNameRationale": "Single word, past tense. Fed is what your pet should be. The brand names the state of being cared for, not the act of caring. Plain, slightly humorous in its terseness, and disarming in a category that usually over-decorates.",
+        "industrySummary": "Most pet brands lean into the cuteness. There's an opening for a brand that strips it back to the basic function: keeping the animal fed, walked, and alive. Said plainly.",
+        "competitorLandscape": "Most pet brands fail this purity test. The closest peer in spirit is some Japanese pet brands and the no-name aesthetic of veterinary-grade nutrition.",
+        "positioningStatement": "Pet essentials. Plain packaging. No mascot.",
+        "targetAudience": {
+          "primary": "Pet owners who don't want a relationship with the brand. They want the food, the leash, the litter, the bowl. They want it to work."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the product, the ingredients, the price",
+            "Confirm orders in one short line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Use the word fur-baby",
+            "Photograph pets with props",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark only. FED in a single weight grotesk, wide kerned, all caps, three letters with generous space. No icon. The packaging, the website, and the receipt all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The package label, the website, and the receipt all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No mascot. No subscription gimmicks. No flavored bundles. No newsletter. No social media presence beyond a single archive page."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who buys this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Anchor Pet Services",
+        "tagline": "Pet services for the modern enterprise.",
+        "brandNameRationale": "Three words. Anchor signals steadiness and reliability. Pet Services names the category clearly. The whole name reads like a real, established services firm already on the procurement panel at veterinary chains, pet retailers, and animal-care institutions.",
+        "industrySummary": "Enterprise pet services (veterinary chains, pet retail operations, animal welfare institutions, insurance providers) is a serious B2B category. Buyers want operators who can deliver across services, infrastructure, and reporting at scale. The category is mostly served by giants and a few specialist firms.",
+        "competitorLandscape": "Mars Petcare (mars.com/petcare) holds the institutional giant peer. National Veterinary Associates (nva.com) sits in the veterinary-services tier. Banfield Pet Hospital (banfield.com) holds the chain-veterinary middle. We sit smaller, focused on the operations and services side for the contemporary pet sector.",
+        "positioningStatement": "Operating services for veterinary chains and pet retail at enterprise scale.",
+        "positioningRationale": "Veterinary and pet retail operators need partners for back-office services, supply chain, technology infrastructure, and reporting. The category incumbents are slow. We sit in the middle, with the operating discipline and modern technology stack the sector needs.",
+        "targetAudience": {
+          "primary": "CEOs, COOs, and CFOs at veterinary chains, pet retail operators, animal welfare institutions, and pet insurance providers. They sign multi-year contracts.",
+          "motivations": [
+            "Reliable operations across locations",
+            "Modern technology stack for clinical or retail operations",
+            "Reporting that satisfies investor and regulator scrutiny"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the operating model",
+            "Show case studies with revenue and cost impact",
+            "Speak to the operator, not the pet owner"
+          ],
+          "donts": [
+            "Use consumer pet brand language",
+            "Photograph pets in styled studio shots",
+            "Promote individual locations on social"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Operations at scale", "description": "Veterinary or retail operations delivered consistently across multiple locations."},
+          {"name": "Modern technology stack", "description": "Practice management, point of sale, scheduling, and reporting integrated under one platform."},
+          {"name": "Reporting that satisfies the board", "description": "Operational metrics, clinical outcomes, and financial performance reported to investor-grade standards."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single anchor silhouette reduced to two crossing strokes. Reads cleanly on uniforms, vans, signage, and procurement decks.",
+        "colorPalette": [
+          {"name": "Trust Navy", "hex": "#0F2238", "meaning": "Trust, steadiness, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean, unfussy.", "usage": "Backgrounds, paper"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Care Teal", "hex": "#2A8B82", "meaning": "Health accent.", "usage": "Charts, status, certifications"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and product UI",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and clinical reports."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C consumer pet brand. No retail clinics under our name. No celebrity pet partnerships. The firm sells through enterprise operating contracts, not consumer Instagram."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "WET NOSE",
+        "tagline": "On your face. By six a.m.",
+        "brandNameRationale": "Two words. Wet Nose is the universal description of a dog (and a healthy cat). The brand names the most physical, slightly inconvenient, deeply affectionate part of pet ownership. Loud, warm, and slightly self-aware.",
+        "manifesto": "Most pet brands sell the soft, sleeping, golden-hour version of pet ownership. We made Wet Nose for the actual experience. The cold nose at 5:30 a.m. The shoe chewed in the first three days. The hair on everything. The deep love that survives all of it. The brand is for the truth.",
+        "industrySummary": "Pet branding has been calm, beige, and styled. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about products that work for actual real-life pets and the people who live with them.",
+        "competitorLandscape": "Bark (bark.co) does playful well on the toy side. Chewy (chewy.com) holds the mass-market e-commerce position. The Farmer's Dog (thefarmersdog.com) sits in the wellness-leaning tier. We are sharper than all of them, with a clearer point of view.",
+        "positioningStatement": "A pet brand for owners who are exhausted, in love, and slightly covered in hair.",
+        "targetAudience": {
+          "primary": "25 to 50. Owns one or two pets. Has been woken up by them. Tells stories about them. Buys the brand because the marketing made them laugh."
+        },
+        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes about pet ownership",
+            "Tell real customer stories",
+            "Talk to the owner like a friend who also has a dog"
+          ],
+          "donts": [
+            "Use the word fur-baby",
+            "Photograph pets sleeping on white linen",
+            "Sound like a wellness brand"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the O of NOSE stylized as a small filled circle, like a dog's nose. Standalone nose-circle icon for stickers, social profiles, and the back of every package.",
+        "colorPalette": [
+          {"name": "Nose Black", "hex": "#0F0F11", "meaning": "Wet dog's nose. Direct.", "usage": "Wordmark, body type, dark surfaces"},
+          {"name": "Tongue Pink", "hex": "#FF5C8A", "meaning": "Hot, warm, the dog's tongue at the window.", "usage": "Accent, social, swag"},
+          {"name": "Coat Cream", "hex": "#F4EFE2", "meaning": "Warm background, the dog's fur in winter sun.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Treat Brown", "hex": "#8B5A2A", "meaning": "The good treat color.", "usage": "Secondary surfaces, accents"},
+          {"name": "Sun Yellow", "hex": "#FFD23F", "meaning": "Highlight.", "usage": "Highlights, social hero, swag"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and signage",
+          "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a wellness brand. Not a Pinterest brand. Not afraid of hair. Not too cool to share customer photos at 6 a.m."},
+          {"title": "Where it lives", "body": "Products that survive the dog. Real customer photos in every campaign. A weekly newsletter that's mostly funny pet stories. Stickers in every order. A merch line for the owner that says WET NOSE on the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
