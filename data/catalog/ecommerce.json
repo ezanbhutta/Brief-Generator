@@ -1,0 +1,283 @@
+{
+  "industry": "ecommerce",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "SHELF SPACE",
+        "tagline": "Curated, then sold.",
+        "brandNameRationale": "Two words. Shelf Space is the retail-industry term for the most valuable real estate in any store. Curation. Limited slots. Editorial discipline. The brand names the constraint that makes a good shop a good shop.",
+        "industrySummary": "DTC ecommerce has been a category for a decade. The customer is tired of the playbook: linen ad copy, pastel boxes, founder origin stories. The next wave is curation-led marketplaces and design-forward retailers with editorial discipline.",
+        "competitorLandscape": "Goop (goop.com) holds the celebrity-led curation peak. Need Supply Co. (now closed) was the design-led template. Verishop (verishop.com) sits in the contemporary tier. The Pop Up Grocer (popupgrocer.com) holds the discovery-shop position. We sit closest to Pop Up Grocer in posture, with sharper brand work.",
+        "positioningStatement": "An online shop with limited shelves and editorial taste.",
+        "targetAudience": {
+          "primary": "28 to 45. Reads two newsletters about shopping. Has bought from at least three DTC brands. Wants a curator to filter the noise. Will pay a premium for the editorial trust."
+        },
+        "brandPersonalityTraits": ["Curated", "Modern", "Direct", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the maker, the materials, and the reason it's on the shelf",
+            "Show why we picked it",
+            "Speak to the curator's reader, not the bargain hunter"
+          ],
+          "donts": [
+            "Run flash sales",
+            "Use the word effortless",
+            "Photograph products on white"
+          ]
+        },
+        "logoDirection": "A wordmark only. SHELF SPACE in a tight modern grotesk, all caps, two words on one line. A small geometric mark, three thin horizontal lines stacked at irregular spacing to suggest a real shelf, used as the favicon and on the order tag.",
+        "colorPalette": [
+          {"name": "Shop Black", "hex": "#101012", "meaning": "Pencil on the price tag.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, packaging body"},
+          {"name": "Stamp Red", "hex": "#D72638", "meaning": "The single accent. The price flag.", "usage": "Hot products, sale signs, web headlines"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for product specs and prices",
+          "rationale": "One family. The mono carries the technical product data and price. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No promotional codes. No 'final hours' urgency on the homepage. No affiliate-loaded influencer marketing. No flash sales."},
+          {"title": "Where it lives", "body": "A homepage that loads the editorial pick of the week. A monthly printed shelf guide mailed to subscribers. A pop-up shop in a different city twice a year. No referral program."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who shops here",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Pantry & Hearth",
+        "tagline": "For the well-kept house.",
+        "brandNameRationale": "Three words, two domestic anchors. Pantry and Hearth are older words for the two centers of a household: where the food is kept and where the fire is. The brand sits on the language of the home, told properly, before words like 'lifestyle' arrived.",
+        "story": "Pantry & Hearth began with a single editor who had spent years inside larger luxury retailers and wanted to keep a smaller shop. The shop took six months to fill. Each piece is chosen by the editor herself. The catalog is printed once a year.",
+        "industrySummary": "Top end home and lifestyle retail has been moving toward larger platforms and bigger drops. There's a parallel market for a smaller editorial shop that treats every object as a considered choice. The customer is paying for the curator, not the catalog.",
+        "competitorLandscape": "March (marchsf.com) holds the heritage independent home shop position. Toogood (t-o-o-g-o-o-d.com) sits in the design-led tier. Bergdorf Goodman Home (bergdorfgoodman.com) is the institutional reference. We sit closer to March in posture and intent.",
+        "positioningStatement": "A small editorial shop for objects meant to be kept.",
+        "targetAudience": {
+          "primary": "Wealthy. Often inherited. Owns at least one home they care about. Buys for the house slowly. Reads the catalog before buying. Knows the editor's taste."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the maker and the material",
+            "Write product descriptions like museum cards",
+            "Send a paper card with every order"
+          ],
+          "donts": [
+            "Run a sale",
+            "Use the word luxury",
+            "Promote on Instagram with shoppable tags"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the shop's hallmark, used on the catalog cover, the order card, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Pantry Cream", "hex": "#EFE9DB", "meaning": "Hand-laid paper, linen tea towel, the inside of a butter dish.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Hearth Black", "hex": "#1A1A1B", "meaning": "Cast iron, the inside of the fireplace.", "usage": "Wordmark, body type, signage"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The hardware on the cabinets.", "usage": "Foil, hardware, accents"},
+          {"name": "Olive", "hex": "#6E7A4C", "meaning": "The garden outside the kitchen door.", "usage": "Secondary, seasonal accents"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed catalog",
+          "secondary": "Söhne for the order portal and few digital surfaces",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the order flow. Both restrained."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No flash sales. No promotional emails. No celebrity endorsements. No influencer affiliate programs. No same-day shipping."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who shops here",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "CHECKOUT",
+        "tagline": "That's the whole flow.",
+        "brandNameRationale": "Single word. Checkout is the moment ecommerce is actually about. The brand sits on the action, not the catalog, not the brand world, not the founder story. Plain and honest about what the customer is doing.",
+        "industrySummary": "Most ecommerce sites have grown into content platforms, lookbooks, lifestyle hubs, and newsletters. There's an opening for one that strips it all back to the checkout itself.",
+        "competitorLandscape": "Most ecommerce brands compete on what they add. We compete on absence. The closest peers in spirit are some Japanese stationery shops and the early Muji digital experience.",
+        "positioningStatement": "An online shop with a checkout and not much else.",
+        "targetAudience": {
+          "primary": "Adults who don't want a relationship with the store. They want to find the product, buy it, and leave. They will resent any added screen."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the product, the price, the buy button",
+            "Confirm the order in two lines",
+            "Print the return policy on the shipping label"
+          ],
+          "donts": [
+            "Run a referral program",
+            "Send a welcome email",
+            "Build a content strategy"
+          ]
+        },
+        "logoDirection": "A wordmark only. CHECKOUT in a single weight grotesk, wide kerned, all caps. No icon. The favicon is the wordmark abbreviated to a small chevron. The order confirmation, the shipping label, and the return form all use the same wordmark.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The product page is the wordmark, the photo, the price, the buy button. Nothing else."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No newsletter. No social media. No loyalty program. No content hub. No editorial."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who shops here",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Apex Commerce Partners",
+        "tagline": "Ecommerce infrastructure for the enterprise.",
+        "brandNameRationale": "Apex suggests the highest point of performance. Commerce names the category. Partners closes it as a B2B service relationship. The whole name reads like a real, established ecommerce services firm, already on the procurement panel at Fortune 500 retailers.",
+        "industrySummary": "Enterprise ecommerce infrastructure is a multi-billion-dollar B2B category. Retailers, brands, and marketplaces need partners for platform implementation, integration, fulfillment, and analytics. The category is dominated by giant systems integrators with high overhead. There's a clear opening for a structured mid-size firm.",
+        "competitorLandscape": "Salesforce Commerce Cloud (salesforce.com/products/commerce-cloud) is the platform giant. BORN Group (borngroup.com) holds the systems integrator peer. Accenture Interactive (accenture.com/song) sits in the consulting-led tier. Shopify Plus (shopify.com/plus) handles the mid-market platform side. We sit smaller than these giants, more design-led than the integrators.",
+        "positioningStatement": "Ecommerce infrastructure and implementation for mid-market enterprise retailers.",
+        "positioningRationale": "Mid-market retailers are too small for Accenture and too sophisticated for boutique agencies. We sit in the middle, with the operating discipline they need and the responsiveness the integrators can't deliver.",
+        "targetAudience": {
+          "primary": "VPs of Ecommerce, Chief Digital Officers, and CTOs at retailers, brands, and marketplaces of $50M to $5B in annual revenue. They sign multi-year contracts.",
+          "motivations": [
+            "Platform implementation without runaway scope",
+            "Integration across the full ecommerce stack",
+            "Reporting that connects platform investment to revenue"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with platform certifications and case study revenue impact",
+            "Show integration architecture diagrams in proposals",
+            "Speak to the buyer, not the merchandiser"
+          ],
+          "donts": [
+            "Use consumer ecommerce language",
+            "Run thought-leadership campaigns",
+            "Promote individual project case studies on social media"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Platform expertise", "description": "Certified across Shopify Plus, Salesforce Commerce Cloud, Adobe Commerce, and the major headless platforms."},
+          {"name": "Integration across the stack", "description": "ERP, OMS, WMS, CDP, and analytics integrated under one engagement and one principal."},
+          {"name": "Reporting that connects to revenue", "description": "Platform investment measured against gross merchandise value, conversion, and customer lifetime value."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single solid triangle pointing up, suggesting the apex. Reads cleanly on a procurement deck, name badge, and platform partner directory.",
+        "colorPalette": [
+          {"name": "Enterprise Navy", "hex": "#0C2240", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Conversion Green", "hex": "#2E7D5B", "meaning": "Performance accent.", "usage": "Charts, status indicators, KPI flags"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and product UI",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and printed implementation playbooks."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No direct-to-consumer brand. No retail stores. No celebrity-led ecommerce launches. The firm sells through enterprise procurement and platform partner channels."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "SOLD OUT",
+        "tagline": "Be quick.",
+        "brandNameRationale": "Two words. Sold Out is the most aspirational phrase in retail. It says the products are in demand without saying it. The brand sits on the customer's deepest retail desire: to buy the thing before it's gone. Loud, playful, and slightly self-aware.",
+        "manifesto": "Most ecommerce brands lead with abundance: infinite inventory, infinite scrolls, infinite emails. We lead with scarcity. The drop ends. The shelf empties. The customer is part of the moment, not the campaign. Sold Out is the brand for people who want to be there when it happens.",
+        "industrySummary": "Ecommerce branding has been clean, polished, and slightly cold. There's room for a brand that treats every drop as an event, brings personality back to the product page, and makes the buying itself feel like a story.",
+        "competitorLandscape": "Supreme (supremenewyork.com) holds the drop-culture peak. Aimé Leon Dore (aimeleondore.com) has the cultural-product hybrid position. Off-White (off---white.com) sits in the fashion-meets-drops tier. We are smaller, more playful, and category-agnostic.",
+        "positioningStatement": "An ecommerce brand that treats every product as a small event.",
+        "targetAudience": {
+          "primary": "20s and 30s. Already buys from at least one drop brand. Sets push notifications. Tells friends about the brand on close-friends stories. Buys the merch."
+        },
+        "brandPersonalityTraits": ["Loud", "Playful", "Confident", "Warm", "Sharp"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes about scarcity",
+            "Show the count down",
+            "Tell the customer the truth about what's left"
+          ],
+          "donts": [
+            "Run a perpetual sale",
+            "Use the word luxury",
+            "Apologize for things being sold out"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the O of SOLD set as a small filled dot, like a sold-out indicator. Standalone filled-dot icon for app icons, social profiles, and the back of every shipped box.",
+        "colorPalette": [
+          {"name": "Sold Red", "hex": "#D7263D", "meaning": "Loud, urgent, the sold-out flag.", "usage": "Primary brand color, hero surfaces, social"},
+          {"name": "Out Black", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure, secondary"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Drop-in-progress accent.", "usage": "Highlights, countdown timers"},
+          {"name": "Hot Pink", "hex": "#FF4D8D", "meaning": "Drop alert accent.", "usage": "Social hero, stickers, swag"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and product specs",
+          "rationale": "Migra has personality. Neue Montreal keeps the practical bits readable. The pair feels designed and a little weird."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a marketplace. Not a perpetual-inventory shop. Not afraid of red. Not too cool to celebrate selling out."},
+          {"title": "Where it lives", "body": "Push notifications when a drop opens. A small printed card in every box that says 'You got there in time.' Stickers in every order. A pop-up shop in a different city for every drop."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who shops here",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "industry": "hospitality",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "NIGHT & DAY",
+        "tagline": "Open both.",
+        "brandNameRationale": "Three words, one concept. Night & Day names the two halves of hospitality service. The brand sits on the fact that the hotel runs continuously, the staff change shifts, and the guest gets the same standard from both. Plain, modern, slightly poetic.",
+        "industrySummary": "Modern hotel brands are competing on design, food, and local credibility. The chain model is being challenged by independent houses with stronger personalities. The customer wants a hotel that feels owned, not operated.",
+        "competitorLandscape": "Ace Hotel (acehotel.com) set the modern boutique chain template. Sister Hotels (sisterhotels.com) holds the small-house tier. Casa Bonay (casabonay.com) does the modern European version. Standard Hotels (standardhotels.com) is the brand the category measures itself against. We sit closest to Sister Hotels in tone.",
+        "positioningStatement": "Boutique hotels that operate like one good restaurant.",
+        "targetAudience": {
+          "primary": "30 to 50. Travels for work and pleasure. Already books boutique hotels by default. Reads the reviews. Will pay more for a hotel with a real bar and a single page menu."
+        },
+        "brandPersonalityTraits": ["Considered", "Warm", "Modern", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the rooms by number, not by theme",
+            "Show the food at the bar",
+            "Speak to one guest at a time"
+          ],
+          "donts": [
+            "Use the word boutique on the website",
+            "Photograph empty rooms with golden hour light",
+            "Promote a 'lifestyle' on social media"
+          ]
+        },
+        "logoDirection": "A wordmark only. NIGHT & DAY in a tight modern grotesk, all caps, three short marks on one line. A standalone moon-and-sun monogram, reduced to two thin crescents, for app icons, key cards, and signage.",
+        "colorPalette": [
+          {"name": "Night Blue", "hex": "#162236", "meaning": "Hotel bar at midnight. The deep half of the day.", "usage": "Primary surface, signage, dark mode"},
+          {"name": "Day Cream", "hex": "#F4EFE2", "meaning": "Breakfast linen. Used as space.", "usage": "Backgrounds, paper, light surfaces"},
+          {"name": "Brass", "hex": "#A38454", "meaning": "Lamp, key, the door number.", "usage": "Hardware, foil, accents"},
+          {"name": "Lobby Red", "hex": "#A8313F", "meaning": "Carpet, banquette, a single warm note.", "usage": "Secondary brand, hospitality accents"}
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and major signage",
+          "secondary": "Söhne for room cards and the booking flow",
+          "rationale": "A high contrast serif sets the heritage register modern hotels lean on. A modern grotesk handles operational signage and the booking site."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No themed rooms. No lobby muzak. No turndown chocolates. No 'wellness experiences' bolted onto the spa. No loyalty programs."},
+          {"title": "Where it lives", "body": "A small bar that's open to the public. A breakfast menu on a single sheet of paper. A bookable site that loads in under a second. Room cards printed letterpress with the room number and the Wi-Fi password."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who stays here",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Stonebridge Hall",
+        "tagline": "Where the day slows down.",
+        "brandNameRationale": "Two words, one location. Stonebridge sounds like a real English country estate. Hall is the architectural word for the large central room of such an estate. Together it reads as a heritage house that has been receiving guests since the 1800s.",
+        "story": "Stonebridge began as a private country house held by the same family for four generations. The current generation decided to open it to a small number of guests, a few weeks each year. The house is the brand. We have not added to it. We have not subtracted from it.",
+        "industrySummary": "Top end hospitality has been moving toward larger destinations and bigger spa programs. There's a parallel market for slower, smaller country house hotels. The customer is paying for restraint, real walking distance to the next thing, and silence.",
+        "competitorLandscape": "Babington House (babingtonhouse.co.uk) sits in the closest peer group. Cliveden House (clivedenhouse.co.uk) is the institutional reference. Heckfield Place (heckfieldplace.com) is the contemporary peer. We are quieter than all of them.",
+        "positioningStatement": "A small country house that takes a limited number of guests each year.",
+        "targetAudience": {
+          "primary": "Wealthy. Often inherited. Spends weekends in the country. Books the same house every year. Values the staff knowing the family's names without being told."
+        },
+        "brandPersonalityTraits": ["Refined", "Quiet", "Patient", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the guest by surname",
+            "Send paper invitations to the seasonal openings",
+            "Speak in the language of stewardship, not service"
+          ],
+          "donts": [
+            "Run public bookings on Booking.com",
+            "Use the word luxury",
+            "Photograph the house for press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark. Stonebridge Hall set with elegant ligatures and wide tracking. A small estate-crest hallmark, two horizontal lines suggesting a heraldic chief, used on letterhead, the wax seal of every paper letter, and the brass plaque outside the gatehouse.",
+        "colorPalette": [
+          {"name": "Estate Green", "hex": "#1E3A30", "meaning": "Old growth woodland, the avenue of trees up to the house.", "usage": "Primary brand color, signage, livery"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "The walls of the house. The gravel drive.", "usage": "Backgrounds, paper, secondary surfaces"},
+          {"name": "Cream", "hex": "#EFE9DB", "meaning": "Linen napkins, hand-laid paper.", "usage": "Stationery, packaging, paper"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The hardware on every door.", "usage": "Foil, hardware, accents"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure guest portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few necessary digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No third-party booking platforms. No public price list. No press tour. No spa packages. No event bookings."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who stays here",
+          "personality": "How the house feels",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "ROOM & KEY",
+        "tagline": "That's what you booked.",
+        "brandNameRationale": "Three words, two objects. Room & Key names the entire hospitality offer in its smallest form. The brand strips away spa, gym, lobby, mini-bar, and concierge. The guest gets a room and a key. Plain and honest.",
+        "industrySummary": "Hotel brands keep adding features and selling them as amenities. There's an opening for a brand that subtracts. One good room. One key. Clean sheets. Hot water. No talking.",
+        "competitorLandscape": "Most hotel brands compete on amenities. We compete on absence. The closest peers are some Japanese ryokan and the early Yotel airport rooms. There is no direct competitor in this position at scale.",
+        "positioningStatement": "Hotels that sell you a room and a key. Nothing else.",
+        "targetAudience": {
+          "primary": "Adults who travel and don't want a relationship with the hotel. They want to sleep, shower, and leave. They will pay fairly for the room and resent paying for anything else."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Quiet", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the room and the price",
+            "Skip the welcome message",
+            "Print the Wi-Fi password on the door"
+          ],
+          "donts": [
+            "Run a loyalty program",
+            "Offer a breakfast package",
+            "Send a welcome email"
+          ]
+        },
+        "logoDirection": "A wordmark only. ROOM & KEY in a single weight grotesk, wide kerned, all caps. No icon. The room card has the wordmark, the room number, and the Wi-Fi. The receipt has the date and the price. That is the whole system.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, room cards, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Hardware, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The room card and the website have the same wordmark, the same type, the same nothing."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No spa. No restaurant. No bar. No gym. No loyalty program. No newsletter. No app."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who stays here",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Westcliff Hospitality Group",
+        "tagline": "Managed hospitality, operated at scale.",
+        "brandNameRationale": "Westcliff sounds like a real place or a real surname. The whole name reads like a real, established hospitality holding company already on the deck of every investment bank covering the sector.",
+        "industrySummary": "Hospitality investment and management is a serious B2B category. Hotel owners, real estate investors, and institutional landlords need operators they can trust to run properties on their behalf. The category is mostly served by giant chains and a few specialist firms.",
+        "competitorLandscape": "Hyatt (hyatt.com) is the publicly traded giant. Marriott International (marriott.com) is the largest peer. Aman Group (aman.com) holds the ultra-luxury operator position. Sage Hospitality (sagehospitalitygroup.com) is the closest mid-size operator. We sit smaller than Sage, with stronger brand work.",
+        "positioningStatement": "A hospitality management firm for owners who want their property operated like a single great hotel.",
+        "positioningRationale": "Hotel owners want operators who understand their property as a singular asset, not a unit in a portfolio. We position against the chains. The pitch is operational scale plus property-by-property attention.",
+        "targetAudience": {
+          "primary": "Hotel owners, real estate investors, family offices with hospitality holdings, and institutional landlords looking for a credible operator partner.",
+          "motivations": [
+            "Reliable operations with property-level attention",
+            "Branding work that fits the property, not the chain",
+            "Reporting that holds up under investor scrutiny"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with operating discipline",
+            "Show portfolio occupancy and ADR figures",
+            "Speak to the owner, not the guest"
+          ],
+          "donts": [
+            "Promote individual properties on social media",
+            "Use consumer hospitality language",
+            "Run a brand-of-our-own marketing campaign"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Operations at scale", "description": "Centralized procurement, finance, technology, and HR across a portfolio of independent properties."},
+          {"name": "Property-level branding", "description": "Each property keeps its own identity. We operate behind the scenes."},
+          {"name": "Owner-aligned reporting", "description": "Monthly P&L, quarterly portfolio reviews, and ESG reporting formatted for investor diligence."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single cliff silhouette reduced to two horizontal strokes at different elevations. Reads cleanly on a procurement deck, name badge, and investor pitch book.",
+        "colorPalette": [
+          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, capital, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Brass", "hex": "#A38454", "meaning": "Hospitality accent. Used sparingly.", "usage": "Highlights, foil on B2B documents"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal investor reports and printed property portfolios."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No consumer-facing brand. No loyalty programs. No celebrity hotel partnerships. The firm sells through hotel owners and institutional investors, not Instagram travel."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who we work with",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "NIGHT MANAGER",
+        "tagline": "Awake while you sleep.",
+        "brandNameRationale": "Two words. Names a real hospitality role. The night manager is the person who runs the hotel after midnight, who deals with the strange requests and the broken room and the lost guest. The brand sits in the role most hotels hide. Loud, character-driven, playful.",
+        "manifesto": "Most hotel brands sell the lobby. We sell the night. The strange request at 2 a.m. The conversation at the front desk with the only other person awake. The corridor at 4 a.m. when the cleaners haven't started. Night Manager is the hotel brand for people who keep odd hours and want a hotel that does too.",
+        "industrySummary": "Hotel brand has been polished and daylight-only for too long. The customer who travels for fun, stays up late, and wants a hotel with personality hasn't been served by a single brand cleanly. There's room for one.",
+        "competitorLandscape": "Ace Hotel (acehotel.com) has the cultural side. The Standard (standardhotels.com) does the irreverent posture well. CitizenM (citizenm.com) holds the playful affordable end. Generator Hostels (staygenerator.com) sits in the social-budget tier. We are louder than all of them with sharper voice.",
+        "positioningStatement": "A hotel brand for people who travel for the night, not the day.",
+        "targetAudience": {
+          "primary": "25 to 40. Travels frequently for work and music and culture. Books boutique hotels. Stays up late. Drinks at the bar. Doesn't use the gym."
+        },
+        "brandPersonalityTraits": ["Loud", "Warm", "Confident", "Sharp", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes about hotel weirdness",
+            "Quote real guest requests in marketing",
+            "Talk like the front desk person who's already had two coffees"
+          ],
+          "donts": [
+            "Promote a 'wellness journey'",
+            "Photograph the empty pool at sunrise",
+            "Apologize for not being a luxury brand"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the M of MANAGER stylized as a small flame or candle, suggesting late-hour wakefulness. Standalone candle-flame icon for key cards, social profiles, and hotel matchbooks.",
+        "colorPalette": [
+          {"name": "Night Red", "hex": "#D72638", "meaning": "Loud, warm, the EXIT sign.", "usage": "Primary brand color, key cards, signage"},
+          {"name": "Lamp Yellow", "hex": "#FFD23F", "meaning": "The desk lamp at 3 a.m.", "usage": "Accent, social, swag"},
+          {"name": "Night Black", "hex": "#0E0E10", "meaning": "Anchor. The corridor.", "usage": "Body type, secondary surfaces"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm space.", "usage": "Backgrounds, paper, room cards"},
+          {"name": "Lobby Pink", "hex": "#FF4D8D", "meaning": "Neon. The bar sign.", "usage": "Highlights, social hero"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and operational signage",
+          "rationale": "Migra has personality and warmth. Neue Montreal handles the room cards and operational text. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a luxury hotel brand. Not a hostel. Not a wellness retreat. Not afraid of red. Not too cool to keep a real bar."},
+          {"title": "Where it lives", "body": "Matchbooks at the front desk. Key cards with the worst guest request as the design. A printed in-room magazine that's mostly funny essays. A bar that's open later than every other bar in the neighborhood."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who stays here",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

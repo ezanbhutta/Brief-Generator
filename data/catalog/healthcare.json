@@ -1,0 +1,284 @@
+{
+  "industry": "healthcare",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "OPEN CARE",
+        "tagline": "Healthcare you can read.",
+        "brandNameRationale": "Two words. Open says the brand is transparent about pricing, providers, and process. Care names the category. The pair reads as a modern alternative to the opaque clinical industry, without trying to be a tech startup.",
+        "industrySummary": "Healthcare brand has been clinical, sterile, and slightly intimidating. The modern customer wants clarity: a clean app, clear prices, a doctor they can actually message. New entrants are competing on design and transparency more than on outcomes alone.",
+        "competitorLandscape": "One Medical (onemedical.com) holds the modern primary care position. Forward (goforward.com), before its issues, set the tech-led pitch. Parsley Health (parsleyhealth.com) does the wellness-medicine middle. Tia (asktia.com) handles women's health well. We sit closest to One Medical in posture, with a sharper brand surface.",
+        "positioningStatement": "Primary care that shows you what it costs before the visit.",
+        "positioningRationale": "Most healthcare brands hide the price until after the appointment. Our brand promise is the opposite. Every visit, every test, every prescription is priced clearly on the app before the patient confirms.",
+        "targetAudience": {
+          "primary": "28 to 50. Has insurance but doesn't trust it to be transparent. Already pays for at least one premium consumer health app. Wants the doctor visit to feel like booking a flight, not like applying for a mortgage."
+        },
+        "brandPersonalityTraits": ["Direct", "Modern", "Honest", "Trustworthy", "Calm"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the price next to the service",
+            "Speak to the patient as an adult",
+            "Confirm next steps in writing"
+          ],
+          "donts": [
+            "Use the word journey",
+            "Promise a transformation",
+            "Photograph models pretending to be patients"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is an open square, three sides of a rectangle suggesting an open door. The mark and the wordmark work together on the front of the clinic, in the app, and on the prescription label.",
+        "colorPalette": [
+          {"name": "Open Navy", "hex": "#102236", "meaning": "Trust without sterility.", "usage": "Wordmark, primary surface"},
+          {"name": "Bone", "hex": "#F4F1EA", "meaning": "Clean and warm.", "usage": "Background, paper, app body"},
+          {"name": "Care Teal", "hex": "#2A8B82", "meaning": "Health accent. Used like a small green check.", "usage": "Status, accent, CTA buttons"}
+        ],
+        "typography": {
+          "primary": "Inter for product UI and headlines",
+          "secondary": "Source Serif Pro for printed patient information",
+          "rationale": "Inter is the trusted default for clean modern healthcare apps. The serif handles printed patient brochures and the few formal forms."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No surprise billing. No referral lock-in. No upsells in the app. No celebrity-endorsed wellness add-ons. No 'concierge tier' with hidden access."},
+          {"title": "Where it lives", "body": "An app that books, charges, and confirms in three taps. A clinic that looks like a small library, not a hospital. A printed visit summary at the door. A WhatsApp number for the team that responds within four hours."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "The reference shelf",
+          "positioning": "The pitch",
+          "targetAudience": "Who we treat",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Aldcroft Medical",
+        "tagline": "Care, considered.",
+        "brandNameRationale": "Two words. Aldcroft sounds like an English Harley Street practice that has been around for generations. Medical closes it as a clinical service. The whole name reads as a private practice already known to a small set of families.",
+        "story": "Aldcroft began with a single physician who had spent decades inside larger institutional practices and wanted to take fewer patients, more carefully. The practice accepts a limited number of patients each year. Some have been with the practice since it opened.",
+        "industrySummary": "Top end medicine has been moving toward concierge-tier products bolted onto larger systems. There's a parallel market for small private practices in the old style. One doctor, a few hundred patients, decades-long relationships. The customer is paying for the practice, the physician, and the next appointment.",
+        "competitorLandscape": "Marlowe (themarlowe.com), if it operated in the U.S., would be a peer. Sollis Health (sollishealth.com) holds the concierge tier. K Health (khealth.com) is a digital-first peer. We are closer in spirit to a Harley Street practice than to any of these.",
+        "positioningStatement": "A private medical practice with a limited number of patients and one physician.",
+        "targetAudience": {
+          "primary": "Wealthy. Often inherited. Values the relationship with the physician. Travels for consultations. Will pay annually for the access, even when nothing is wrong."
+        },
+        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the patient by surname",
+            "Speak in the language of medicine, not wellness",
+            "Send paper letters between visits"
+          ],
+          "donts": [
+            "Advertise",
+            "Run a content strategy",
+            "Photograph the practice for press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn caduceus reduced to two crossed lines, used as a hallmark on letterhead, the brass plaque outside the practice, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Practice Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the waiting room.", "usage": "Primary brand color, signage, letterhead"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque and the hardware.", "usage": "Foil, hallmark, accents"},
+          {"name": "Cream Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the records.", "usage": "Stationery, paper, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, reports, structural elements"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure patient portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the secure portal and the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public marketing. No social media presence. No press. No celebrity patients on the website. No client logos."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we treat",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "CHECK UP",
+        "tagline": "Book one.",
+        "brandNameRationale": "Two words. Check Up is the most basic thing the patient is here for. The brand puts the reason for the visit in the brand position. No clinical jargon. No metaphor. Plain.",
+        "industrySummary": "Healthcare brands lead with promises, partnerships, and proprietary protocols. There's an opening for one that strips it back to the visit itself. One reason to come in. One appointment. Done.",
+        "competitorLandscape": "Most consumer healthcare brands compete on apps, programs, and continuity. We compete on simplicity. The closest peers in spirit are some Japanese clinics and the early Walgreens Healthcare Clinic model.",
+        "positioningStatement": "A clinic for the check up and nothing else.",
+        "targetAudience": {
+          "primary": "Adults who don't have a primary care doctor and don't want one. They want to come in, get checked, and leave. They will pay fairly for that and resent paying for anything else."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the appointment slot",
+            "Show the price",
+            "Send the result by SMS"
+          ],
+          "donts": [
+            "Run a loyalty program",
+            "Upsell wellness",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark only. CHECK UP in a single weight grotesk, wide kerned, all caps, two words on a single line. No icon. The signage uses the wordmark and the appointment number. That's the whole system.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, signage, all neutrals"},
+          {"name": "Mint", "hex": "#A6D4C0", "meaning": "Quiet health accent.", "usage": "Status, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The reception, the SMS confirmation, and the printed receipt all use the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No subscription. No app. No newsletter. No wellness programs. No referrals to specialists we partner with."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who we treat",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Sentinel Health Group",
+        "tagline": "Healthcare services for the enterprise.",
+        "brandNameRationale": "Sentinel suggests vigilance, watching, standing guard. Health Group names the category. The whole name reads like a real, established healthcare services firm, the kind already on procurement panels at large companies and health systems.",
+        "industrySummary": "Healthcare services contracted to enterprise customers (employers, health systems, payers) is a serious B2B category. Buyers want operational reliability, regulatory-grade reporting, and a partner who can stand up programs across multiple sites.",
+        "competitorLandscape": "Optum (optum.com) is the giant. Cleveland Clinic for Business (clevelandclinic.org) holds the clinical-prestige B2B side. Crossover Health (crossoverhealth.com) sits in the employer-health middle. We sit smaller than Optum, more design-led than Crossover.",
+        "positioningStatement": "Healthcare operations for self-insured employers and health system partners.",
+        "positioningRationale": "Self-insured employers and regional health systems want operational partners who can deliver reliable care programs without the bureaucratic overhead of the giant vendors. We win on responsiveness and reporting depth.",
+        "targetAudience": {
+          "primary": "Heads of Benefits, Chief Medical Officers, and Population Health Directors at self-insured employers and regional health systems. They sign multi-year contracts.",
+          "motivations": [
+            "Reliable program delivery across sites",
+            "Regulatory-grade reporting on outcomes and spend",
+            "One partner across employee health, occupational, and clinical services"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with reporting and outcomes",
+            "Show cohort metrics in case studies",
+            "Speak to the buyer, not the patient"
+          ],
+          "donts": [
+            "Use consumer wellness language",
+            "Show patient testimonials on social",
+            "Run a B2C content strategy"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Operations at scale", "description": "Care delivered consistently across multiple employer sites and regional health systems."},
+          {"name": "Reporting that meets the standard", "description": "Outcomes, utilization, and ROI reports formatted to the standard the chief medical officer and CFO both need."},
+          {"name": "One partner across services", "description": "Onsite clinics, virtual care, occupational health, and population health under one contract."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single shield silhouette with a horizontal divider, suggesting protection and structure. Reads cleanly on uniforms, vans, badges, and procurement decks.",
+        "colorPalette": [
+          {"name": "Clinical Navy", "hex": "#102238", "meaning": "Trust, clinical seriousness.", "usage": "Logo, primary surfaces"},
+          {"name": "Lab White", "hex": "#FAFAF8", "meaning": "Clean and clinical.", "usage": "Packaging, paper, web"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body text, dividers"},
+          {"name": "Compliance Green", "hex": "#2A8B82", "meaning": "Status accent.", "usage": "Charts, certifications, success states"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and product UI",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly health reports and clinical documentation."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C app. No retail clinics. No celebrity health endorsements. The firm sells through enterprise procurement, not Instagram health content."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "HOUSE CALL",
+        "tagline": "We come to you.",
+        "brandNameRationale": "Two words. House Call is the older word for the doctor coming to the patient's home. It belongs to a different era of medicine and a different relationship. The name reframes modern primary care as a relationship, not a transaction.",
+        "manifesto": "Most healthcare brands sound like an insurance company trying to be your friend. They overpromise, underexplain, and outsource the warmth. House Call is the brand for the doctor who knows your name, has been to your kitchen, and won't pretend the system is fine. Warm, sharp, honest about what's broken.",
+        "industrySummary": "Healthcare branding has been polished, professional, and a little cold. There's room for one that's warm, personable, sticker-friendly, and still serious about the work.",
+        "competitorLandscape": "Parsley Health (parsleyhealth.com) does warm-modern. Tia (asktia.com) holds the design-forward women's health position. Galileo (galileo.io) sits in the digital-first peer group. We sit warmer than all of them, with a clearer point of view.",
+        "positioningStatement": "A primary care brand that treats the patient like a person, not a chart.",
+        "targetAudience": {
+          "primary": "30 to 55. Has insurance, doesn't trust it. Already pays out of pocket for at least one health service. Wants the doctor to actually know them. Will pay for the relationship."
+        },
+        "brandPersonalityTraits": ["Warm", "Confident", "Direct", "Friendly", "Sharp"],
+        "voiceAndTone": {
+          "dos": [
+            "Talk like the family doctor who would call you back",
+            "Be honest about what's broken in the system",
+            "Make jokes about the bureaucracy"
+          ],
+          "donts": [
+            "Use the word wellness",
+            "Promote influencer doctors",
+            "Promise to transform your life"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the C of CALL stylized as a small doorbell or knocker. Standalone doorbell icon for app icons, social profiles, and the front door of the clinic. The mark reads warm and a little old-fashioned, which is the point.",
+        "colorPalette": [
+          {"name": "House Red", "hex": "#D72638", "meaning": "Warm, loud, the front door of a clinic.", "usage": "Primary brand color, signage, social"},
+          {"name": "Doctor Cream", "hex": "#F4EFE2", "meaning": "Warm space.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Anchor Navy", "hex": "#102238", "meaning": "Clinical trust, used as a counter to the warm tone.", "usage": "Body, secondary, structural"},
+          {"name": "Sun Yellow", "hex": "#FFD23F", "meaning": "Highlight, joy, the porch light.", "usage": "Accents, swag, social hero"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Type.", "usage": "Body type, structure"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and headlines",
+          "secondary": "PP Neue Montreal for body and signage",
+          "rationale": "Migra has warmth and character. Neue Montreal handles the practical patient information. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a wellness brand. Not a tech-first telehealth brand. Not afraid of red. Not too cool to call you back."},
+          {"title": "Where it lives", "body": "A clinic that feels like a kitchen. A printed visit summary mailed in a real envelope. Text messages from the doctor, written by the doctor. A monthly newsletter that's actually written by a person on the team."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who we treat",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
