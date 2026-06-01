@@ -5,8 +5,8 @@ export const STYLES: Style[] = ["Modern", "Luxury", "Minimal", "Corporate", "Cre
 export interface ColorSwatch {
   name: string;
   hex: string;
-  meaning: string;
-  usage: string;
+  meaning?: string;
+  usage?: string;
 }
 
 export interface MessagingPillar {
@@ -16,8 +16,8 @@ export interface MessagingPillar {
 
 export interface TargetAudience {
   primary: string;
-  behaviors: string[];
-  motivations: string[];
+  behaviors?: string[];
+  motivations?: string[];
 }
 
 export interface VoiceAndTone {
@@ -27,112 +27,152 @@ export interface VoiceAndTone {
 
 export interface Typography {
   primary: string;
-  secondary: string;
-  rationale: string;
+  secondary?: string;
+  rationale?: string;
 }
+
+export interface CustomSection {
+  title: string;
+  body: string;
+}
+
+export type BriefFormat = "structured" | "editorial" | "compact" | "story";
 
 export interface Brief {
   brandName: string;
-  brandNameRationale: string;
-  tagline: string;
-  industrySummary: string;
-  competitorLandscape: string;
-  positioningStatement: string;
-  positioningRationale: string;
-  targetAudience: TargetAudience;
-  brandPersonalityTraits: string[];
-  voiceAndTone: VoiceAndTone;
-  messagingPillars: MessagingPillar[];
-  logoDirection: string;
-  colorPalette: ColorSwatch[];
-  typography: Typography;
-  visualIdentityIdeas: string[];
+
+  tagline?: string;
+  brandNameRationale?: string;
+  story?: string;
+  manifesto?: string;
+
+  industrySummary?: string;
+  competitorLandscape?: string;
+  positioningStatement?: string;
+  positioningRationale?: string;
+
+  targetAudience?: TargetAudience;
+  brandPersonalityTraits?: string[];
+  voiceAndTone?: VoiceAndTone;
+  messagingPillars?: MessagingPillar[];
+
+  logoDirection?: string;
+  colorPalette?: ColorSwatch[];
+  typography?: Typography;
+  visualIdentityIdeas?: string[];
+
+  customSections?: CustomSection[];
+
+  format?: BriefFormat;
+}
+
+function pushIf(lines: string[], label: string, value: string | undefined | null) {
+  if (value && value.trim()) {
+    lines.push(label);
+    lines.push(value.trim());
+    lines.push("");
+  }
+}
+
+function pushBullets(lines: string[], label: string, items: string[] | undefined, marker = "•") {
+  if (items && items.length > 0) {
+    lines.push(label);
+    for (const i of items) lines.push(`  ${marker} ${i}`);
+    lines.push("");
+  }
 }
 
 export function briefToPlainText(b: Brief, industry: string, style: Style): string {
   const lines: string[] = [];
   const hr = "─".repeat(60);
 
-  lines.push(`BRAND BRIEF`);
+  lines.push("BRAND BRIEF");
   lines.push(`Industry: ${industry}`);
   lines.push(`Style: ${style}`);
   lines.push(hr);
-  lines.push(``);
+  lines.push("");
 
-  lines.push(`BRAND NAME`);
+  lines.push("BRAND NAME");
   lines.push(b.brandName);
-  lines.push(`Tagline: ${b.tagline}`);
-  lines.push(``);
-  lines.push(`Why this name:`);
-  lines.push(b.brandNameRationale);
-  lines.push(``);
+  if (b.tagline) lines.push(`Tagline: ${b.tagline}`);
+  lines.push("");
+  pushIf(lines, "Why this name:", b.brandNameRationale);
 
-  lines.push(hr);
-  lines.push(`INDUSTRY SUMMARY`);
-  lines.push(b.industrySummary);
-  lines.push(``);
+  pushIf(lines, "STORY", b.story);
+  pushIf(lines, "MANIFESTO", b.manifesto);
 
-  lines.push(`COMPETITIVE LANDSCAPE`);
-  lines.push(b.competitorLandscape);
-  lines.push(``);
+  pushIf(lines, "INDUSTRY SUMMARY", b.industrySummary);
+  pushIf(lines, "COMPETITIVE LANDSCAPE", b.competitorLandscape);
 
-  lines.push(`BRAND POSITIONING`);
-  lines.push(b.positioningStatement);
-  lines.push(``);
-  lines.push(`Why it works:`);
-  lines.push(b.positioningRationale);
-  lines.push(``);
-
-  lines.push(`TARGET AUDIENCE`);
-  lines.push(`Primary: ${b.targetAudience.primary}`);
-  lines.push(``);
-  lines.push(`Behaviors:`);
-  for (const x of b.targetAudience.behaviors) lines.push(`  • ${x}`);
-  lines.push(``);
-  lines.push(`Motivations:`);
-  for (const x of b.targetAudience.motivations) lines.push(`  • ${x}`);
-  lines.push(``);
-
-  lines.push(`BRAND PERSONALITY`);
-  lines.push(b.brandPersonalityTraits.join(" · "));
-  lines.push(``);
-
-  lines.push(`VOICE & TONE`);
-  lines.push(`Do:`);
-  for (const x of b.voiceAndTone.dos) lines.push(`  ✓ ${x}`);
-  lines.push(``);
-  lines.push(`Don't:`);
-  for (const x of b.voiceAndTone.donts) lines.push(`  ✗ ${x}`);
-  lines.push(``);
-
-  lines.push(`MESSAGING PILLARS`);
-  for (const p of b.messagingPillars) {
-    lines.push(`• ${p.name}`);
-    lines.push(`  ${p.description}`);
+  if (b.positioningStatement || b.positioningRationale) {
+    lines.push("BRAND POSITIONING");
+    if (b.positioningStatement) lines.push(b.positioningStatement);
+    lines.push("");
+    pushIf(lines, "Why it works:", b.positioningRationale);
   }
-  lines.push(``);
 
-  lines.push(hr);
-  lines.push(`LOGO DIRECTION`);
-  lines.push(b.logoDirection);
-  lines.push(``);
-
-  lines.push(`COLOR PALETTE`);
-  for (const c of b.colorPalette) {
-    lines.push(`• ${c.name} (${c.hex})`);
-    lines.push(`  Meaning: ${c.meaning}`);
-    lines.push(`  Usage: ${c.usage}`);
+  if (b.targetAudience) {
+    lines.push("TARGET AUDIENCE");
+    lines.push(`Primary: ${b.targetAudience.primary}`);
+    lines.push("");
+    pushBullets(lines, "Behaviors:", b.targetAudience.behaviors);
+    pushBullets(lines, "Motivations:", b.targetAudience.motivations);
   }
-  lines.push(``);
 
-  lines.push(`TYPOGRAPHY`);
-  lines.push(`Primary: ${b.typography.primary}`);
-  lines.push(`Secondary: ${b.typography.secondary}`);
-  lines.push(`Rationale: ${b.typography.rationale}`);
-  lines.push(``);
+  if (b.brandPersonalityTraits && b.brandPersonalityTraits.length > 0) {
+    lines.push("BRAND PERSONALITY");
+    lines.push(b.brandPersonalityTraits.join(" · "));
+    lines.push("");
+  }
 
-  lines.push(`VISUAL IDENTITY IDEAS`);
-  for (const v of b.visualIdentityIdeas) lines.push(`• ${v}`);
+  if (b.voiceAndTone) {
+    lines.push("VOICE & TONE");
+    pushBullets(lines, "Do:", b.voiceAndTone.dos, "✓");
+    pushBullets(lines, "Don't:", b.voiceAndTone.donts, "✗");
+  }
 
-  return lines.join("\n");
+  if (b.messagingPillars && b.messagingPillars.length > 0) {
+    lines.push("MESSAGING PILLARS");
+    for (const p of b.messagingPillars) {
+      lines.push(`• ${p.name}`);
+      lines.push(`  ${p.description}`);
+    }
+    lines.push("");
+  }
+
+  pushIf(lines, "LOGO DIRECTION", b.logoDirection);
+
+  if (b.colorPalette && b.colorPalette.length > 0) {
+    lines.push("COLOR PALETTE");
+    for (const c of b.colorPalette) {
+      lines.push(`• ${c.name} (${c.hex})`);
+      if (c.meaning) lines.push(`  Meaning: ${c.meaning}`);
+      if (c.usage) lines.push(`  Usage: ${c.usage}`);
+    }
+    lines.push("");
+  }
+
+  if (b.typography) {
+    lines.push("TYPOGRAPHY");
+    lines.push(`Primary: ${b.typography.primary}`);
+    if (b.typography.secondary) lines.push(`Secondary: ${b.typography.secondary}`);
+    if (b.typography.rationale) lines.push(`Rationale: ${b.typography.rationale}`);
+    lines.push("");
+  }
+
+  if (b.visualIdentityIdeas && b.visualIdentityIdeas.length > 0) {
+    lines.push("VISUAL IDENTITY IDEAS");
+    for (const v of b.visualIdentityIdeas) lines.push(`• ${v}`);
+    lines.push("");
+  }
+
+  if (b.customSections && b.customSections.length > 0) {
+    for (const s of b.customSections) {
+      lines.push(s.title.toUpperCase());
+      lines.push(s.body);
+      lines.push("");
+    }
+  }
+
+  return lines.join("\n").trim();
 }
