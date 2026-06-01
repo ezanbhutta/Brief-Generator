@@ -1,0 +1,284 @@
+{
+  "industry": "skincare",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "PROOF",
+        "tagline": "Skin you can read.",
+        "brandNameRationale": "One word. Direct. Skincare is full of promises. We named the brand after the thing customers actually want: proof. Works as a noun, works as a claim, works on a bottle in a single line.",
+        "industrySummary": "Skincare has gotten loud. Every brand promises clinical, glass-skin results. Customers are smart now. They read ingredient lists. They check trial data. The category is asking for honesty more than novelty.",
+        "competitorLandscape": "The Ordinary (theordinary.com) set the modern transparent template. Glossier (glossier.com) owns the cultural side. Drunk Elephant (drunkelephant.com) sits at the science-meets-design intersection. We sit closer to The Ordinary in tone, with a smaller, sharper line.",
+        "positioningStatement": "Skincare that shows its work.",
+        "positioningRationale": "Most brands sell results without showing how they got there. We publish the clinical data, the ingredient percentages, and the price reasoning on every bottle. Customers who care about skincare care about this.",
+        "targetAudience": {
+          "primary": "25 to 45. Already uses three products in their routine. Reads the back of the bottle before they buy. Trusts science, not influencers. Asks questions when something doesn't work."
+        },
+        "brandPersonalityTraits": ["Direct", "Modern", "Honest", "Precise", "Quiet"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the active ingredient and the percentage",
+            "Show the trial data",
+            "Skip the marketing copy"
+          ],
+          "donts": [
+            "Use the word miracle",
+            "Promise overnight results",
+            "Photograph the founder with the bottle"
+          ]
+        },
+        "logoDirection": "A wordmark only. PROOF in a precise modern grotesk, slightly compressed, all caps. The two O's set tightly together, almost touching. The mark works at every size, from a 6mm seal on a bottle to a window display.",
+        "colorPalette": [
+          {"name": "Clinical White", "hex": "#FAFAF7", "meaning": "The color of a lab notebook on a clean desk.", "usage": "Bottles, packaging body, web background"},
+          {"name": "Lab Black", "hex": "#161618", "meaning": "Ink. The wordmark. The serial number.", "usage": "Wordmark, body type, structure"},
+          {"name": "Test Strip Blue", "hex": "#2B5BCB", "meaning": "Lab test paper. The single accent.", "usage": "Active ingredient flags, percentages on label"}
+        ],
+        "typography": {
+          "primary": "GT America Mono for label data and percentages",
+          "secondary": "GT America for headlines and the wordmark",
+          "rationale": "The mono carries the facts (ingredient percentages, batch numbers, pH). The regular carries the brand. One family, two jobs."
+        },
+        "customSections": [
+          {"title": "What it doesn't say", "body": "No miracle claims. No before-and-after photos. No celebrity endorsements. No 'natural' or 'clean beauty' language."},
+          {"title": "Where it lives", "body": "Bottles are clinical white with a small black wordmark. The label is a single column of data: active ingredient, percentage, pH, batch, expiry. The website shows the trial data above the buy button."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "The reference shelf",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The vibe",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Aubade",
+        "tagline": "Begin the day.",
+        "brandNameRationale": "Aubade is a French word for a morning song. It's the music played as light first enters the room. We named the brand after the first ritual of the day, not the product. The word sounds like the act of waking up gently.",
+        "story": "Aubade began with a single oil, made in a Provence kitchen, for a friend who had spent a hard winter. We made twelve bottles. Then we made twelve more. Then a small atelier. The brand has grown the way the morning grows. Slowly and deliberately.",
+        "industrySummary": "The luxury end of skincare has been chasing celebrity, technology, and acquisitions. There is a quieter market for European craft brands that still operate like small ateliers. The customer wants story, ritual, and the sense that someone made this by hand.",
+        "competitorLandscape": "Augustinus Bader (augustinusbader.com) set the science-luxury bar. Dr. Barbara Sturm (drsturm.com) carries the clinical-prestige angle. Le Labo for the Body (lelabofragrances.com) does the niche-craft thing in adjacent territory. We sit closer to a small French perfumer than to any of these.",
+        "positioningStatement": "A skincare house for people who treat their morning as the most important hour.",
+        "targetAudience": {
+          "primary": "40 and up. Disposable income. Travels often. Owns three creams and uses one. Pays for things made slowly. Doesn't post the bottle online."
+        },
+        "brandPersonalityTraits": ["Refined", "Quiet", "Patient", "Considered", "Warm"],
+        "voiceAndTone": {
+          "dos": [
+            "Use fewer words",
+            "Name the ingredients in their botanical Latin",
+            "Send a paper card with every order"
+          ],
+          "donts": [
+            "Discount, ever",
+            "Use the word luxury",
+            "Run influencer campaigns"
+          ]
+        },
+        "logoDirection": "A serif wordmark, set wide, in a high contrast classical face. A small sun-rising hallmark, two concentric arcs, used as a watermark on the bottle's back label and on paper inserts.",
+        "colorPalette": [
+          {"name": "Provence Ivory", "hex": "#EFE5D1", "meaning": "Linen at dawn. Hand-laid paper. The color of restraint.", "usage": "Bottles, packaging, paper"},
+          {"name": "Morning Gold", "hex": "#B89253", "meaning": "First light on stone. Aged brass.", "usage": "Foil applications, wordmark on light surfaces"},
+          {"name": "Night Indigo", "hex": "#1F2A4A", "meaning": "The blue just before dawn. Anchor.", "usage": "Body type, accents"},
+          {"name": "Field Sage", "hex": "#A8B49B", "meaning": "The garden the oil came from.", "usage": "Secondary, packaging seal"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and primary type",
+          "secondary": "Söhne for the website and customer correspondence",
+          "rationale": "A high contrast serif carries the brand. A modern grotesk handles the digital surfaces. Each does its job and stays quiet."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No celebrity endorsements. No influencer seeding. No mass retail. No subscription model. No app."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who uses this",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "ROUTINE",
+        "tagline": "Three steps. Every day.",
+        "brandNameRationale": "One word. What the customer is actually buying. Skincare is a daily routine, and we named the brand after that. It says what it is, no decoration.",
+        "industrySummary": "Most skincare brands sell newness. New ingredient, new launch, new step. There's an opening for a brand that sells the same three things forever, and gets them right.",
+        "competitorLandscape": "The Ordinary, CeraVe (cerave.com), and basic-skincare drugstore lines occupy this space functionally but not brand-wise. We are the design-minded version of the same idea.",
+        "positioningStatement": "Three products. One routine. Replaced only when something stops working.",
+        "targetAudience": {
+          "primary": "Adults who don't want to think about skincare. They want it to work, to be affordable, and to never change. They buy a refill, not an upgrade."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Patient", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Use plain English",
+            "Name the function, not the ingredient",
+            "Tell customers when to stop using it"
+          ],
+          "donts": [
+            "Launch new products",
+            "Sell add-ons",
+            "Use the word treatment"
+          ]
+        },
+        "logoDirection": "A wordmark only. ROUTINE set in a single weight grotesk, wide kerned, all caps. The three products carry the wordmark and nothing else. Each bottle differs only by the step number: 01, 02, 03.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, labels, type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Bottles, background, packaging"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "A quieter anchor.", "usage": "Secondary surfaces, refill packaging"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The label has the wordmark, the step number, the function, and the ingredients. Nothing else."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No serums. No masks. No oils. No limited editions. No seasonal launches. Three steps, forever."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who uses this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Helix Dermal",
+        "tagline": "Clinical skincare, professionally distributed.",
+        "brandNameRationale": "Helix points to science without trying too hard. Dermal closes it as a category. The pair reads as a real medical-grade brand. The kind of name that already shows up on a dermatologist's invoice.",
+        "industrySummary": "Professional skincare, sold through dermatologists, med spas, and licensed estheticians, is a quiet B2B category. The buyers care about clinical efficacy, regulatory documentation, and reliable supply. Brand has been an afterthought for most players.",
+        "competitorLandscape": "SkinCeuticals (skinceuticals.com) is the standard. Obagi (obagi.com) sits beside it. ZO Skin Health (zoskinhealth.com) is the clinical-prestige peer. We compete on documentation, design, and being easier to work with than any of them.",
+        "positioningStatement": "Clinical-grade skincare distributed exclusively through licensed providers.",
+        "positioningRationale": "Practitioners need brands that hold up to dermatology questions and reorder cleanly. Helix Dermal is built around the practitioner relationship, not the consumer one.",
+        "targetAudience": {
+          "primary": "Dermatologists, plastic surgeons, med spa owners, licensed estheticians. They buy on documentation, reorder on reliability, and recommend to patients on outcomes.",
+          "motivations": [
+            "Clinical documentation that holds up",
+            "Reliable reordering and supply",
+            "A brand patients trust on a doctor's shelf"
+          ]
+        },
+        "brandPersonalityTraits": ["Clinical", "Direct", "Reliable", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the active and the percentage",
+            "Cite the trial",
+            "Speak to the practitioner, not the patient"
+          ],
+          "donts": [
+            "Use consumer marketing language",
+            "Show influencer testimonials",
+            "Sell direct to public"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Clinical documentation", "description": "Every product launched with peer-reviewed trial data and complete ingredient transparency."},
+          {"name": "Reliable distribution", "description": "Practitioner accounts get next-day reordering and dedicated account management."},
+          {"name": "Practitioner exclusive", "description": "Never sold to consumers without a provider relationship."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single helix pattern reduced to two crossing strokes. Reads as scientific without being cartoonish. Works on practitioner packaging, professional samples, and clinical literature.",
+        "colorPalette": [
+          {"name": "Clinical Navy", "hex": "#102238", "meaning": "Trust, clinical seriousness.", "usage": "Logo, primary surfaces"},
+          {"name": "Lab White", "hex": "#FAFAF8", "meaning": "Clean and clinical.", "usage": "Packaging, paper, web"},
+          {"name": "Slate", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body text, dividers"},
+          {"name": "Test Strip Teal", "hex": "#2A8B82", "meaning": "Clinical accent. Reliability.", "usage": "Highlights, charts, certifications"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and product UI",
+          "secondary": "Source Serif Pro for printed clinical literature",
+          "rationale": "Inter scales clean across digital and practitioner communications. The serif handles printed clinical documentation."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C website. No celebrity partnerships. No influencer seeding. No retail availability. Practitioner channel only."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "GLOW UP",
+        "tagline": "From the inside, out loud.",
+        "brandNameRationale": "Glow Up is internet slang for becoming your better self. The phrase is already in the customer's vocabulary. We named the brand after the language people already use about themselves. Two words, all caps, looks great on a tube.",
+        "manifesto": "Most skincare brands sound like a dermatologist trying to be your friend. We sound like your friend who already happens to know things about skincare. The product is serious. The brand is fun. The customer gets both.",
+        "industrySummary": "Skincare branding has been quiet, clinical, and minimal for the last few years. The category swung clean. There's room for one that's loud, playful, fun to buy, and still backed by real formulation work.",
+        "competitorLandscape": "Glossier (glossier.com) was loud and got quiet. Topicals (topicals.com) is the closest match in voice. Bubble (bubbleskincare.com) goes younger and brighter. Saie (saiehello.com) sits in the warm middle. We are louder than Saie and a bit older than Bubble.",
+        "positioningStatement": "Skincare for people who want results and don't want to be bored about it.",
+        "targetAudience": {
+          "primary": "20s and early 30s. Lives online. Owns more than five tubes. Buys based on packaging. Posts to close friends only. Wants the formula to work but won't read the back of the bottle."
+        },
+        "brandPersonalityTraits": ["Playful", "Confident", "Warm", "Friendly", "Sharp"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes",
+            "Talk to the customer like a friend",
+            "Use slang where it fits"
+          ],
+          "donts": [
+            "Sound like a chemist",
+            "Use the word journey",
+            "Apologize for being fun"
+          ]
+        },
+        "logoDirection": "A wordmark in a bold display sans with a slight upward angle, like the words are rising. The U in UP can extend a curve into a smile. Standalone smile-curve icon for stickers, social profiles, and packaging seals.",
+        "colorPalette": [
+          {"name": "Glow Pink", "hex": "#FF5C8A", "meaning": "Hot, friendly, the loud one.", "usage": "Primary brand color, tubes, social"},
+          {"name": "Highlighter Yellow", "hex": "#FFE93C", "meaning": "Joy. The marker color.", "usage": "Accent, highlights, swag"},
+          {"name": "Cream", "hex": "#FBF6E9", "meaning": "Warm space.", "usage": "Backgrounds, paper, packaging body"},
+          {"name": "Mint", "hex": "#7BE0B2", "meaning": "Fresh accent, the after-feel.", "usage": "Secondary tubes, hover, fresh products"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Body, headlines, structure"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and labels",
+          "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and fun."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not clinical. Not minimal. Not afraid of pink. Not too cool to make a joke about itself."},
+          {"title": "Where it lives", "body": "Tubes that look great in a fridge or a flatlay. Stickers in every order. A monthly email written like a group text. Pop-up shops with mirror selfies as the marketing. A merch line that's actually good."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

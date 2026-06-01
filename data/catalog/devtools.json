@@ -55,10 +55,10 @@
     ],
     "Luxury": [
       {
-        "brandName": "Oakline",
+        "brandName": "Westgate Systems",
         "tagline": "Software, considered.",
-        "brandNameRationale": "Oak is the word for something built to last. Line points to discipline and clarity. Together, Oakline reads like the name of a law firm or a Swiss watchmaker. Not what you'd expect from a developer tools brand. That's the point.",
-        "story": "Oakline began with a question. What would a developer tools company look like if it took itself as seriously as the customer takes their work? The answer was a slower roadmap, a tighter team, and a brand that doesn't shout.",
+        "brandNameRationale": "Westgate sounds like a firm that has been around. It could be a London office building, a Boston law partnership, a Swiss watch atelier. Systems anchors it as B2B software. Not what you would expect from a developer tools brand. That is the point.",
+        "story": "Westgate began with a question. What would a developer tools company look like if it took itself as seriously as the customer takes their work? The answer was a slower roadmap, a tighter team, and a brand that doesn't shout.",
         "industrySummary": "Most premium B2B software signals premium by being expensive. There's a smaller market for premium that signals premium by being restrained. Long-running, slow-roadmap, deeply documented tools. Companies that don't churn out features for the announcement.",
         "competitorLandscape": "JetBrains (jetbrains.com) is the closest peer in restraint and seriousness. Charm (charm.sh) has the right confidence at smaller scale. We position above the marketing-driven brands and beside the craft-driven ones.",
         "positioningStatement": "Developer tools for teams that buy slowly and stay long.",
@@ -160,9 +160,9 @@
     ],
     "Corporate": [
       {
-        "brandName": "Axiom Platform",
+        "brandName": "KEYSTONE SYSTEMS",
         "tagline": "Enterprise developer platform, built for scale.",
-        "brandNameRationale": "An axiom is a foundational truth. Platform names the category. The pair sounds like something a Fortune 500 already bought and forgot they bought, in a good way. Trustworthy. Permanent.",
+        "brandNameRationale": "A keystone holds the arch up. The whole structure depends on it. Systems is the procurement-friendly closer. The pair reads as something Fortune 500 already bought and forgot they bought, in a good way. Trustworthy. Permanent.",
         "industrySummary": "Enterprise development platforms are a category worth billions, dominated by a handful of legacy players. New entrants have to thread the needle between modern usability and procurement-friendly seriousness.",
         "competitorLandscape": "GitHub Enterprise (github.com/enterprise) is the standard. GitLab (gitlab.com) the open-source-leaning competitor. JetBrains Space (jetbrains.com/space) the developer-first one. CircleCI (circleci.com) and Jenkins (jenkins.io) own the CI/CD side. We compete on a unified platform story.",
         "positioningStatement": "One platform for code, builds, security, and compliance, built for companies that take all four seriously.",
@@ -193,7 +193,7 @@
           {"name": "Compliance ready", "description": "SOC 2 Type II, ISO 27001, FedRAMP authorized, HIPAA aligned. The certifications you need, on the day you need them."},
           {"name": "Predictable to operate", "description": "Per-seat pricing with documented limits. No surprise overage bills."}
         ],
-        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single solid hexagon, suggesting a foundational block. Reads cleanly in a procurement deck, on a name badge, and as a favicon.",
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single keystone shape, the trapezoid that locks an arch. Reads cleanly in a procurement deck, on a name badge, and as a favicon.",
         "colorPalette": [
           {"name": "Enterprise Navy", "hex": "#0C2240", "meaning": "Deep blue. The color of trust for B2B buyers.", "usage": "Logo, primary surfaces"},
           {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean and structured.", "usage": "Backgrounds, dashboards"},

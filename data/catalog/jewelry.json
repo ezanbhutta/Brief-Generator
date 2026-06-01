@@ -1,0 +1,283 @@
+{
+  "industry": "jewelry",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "CASE",
+        "tagline": "Made to keep.",
+        "brandNameRationale": "Case is the box jewelry lives in when you're not wearing it. We named the brand after the moment of safekeeping, not the moment of wearing. One word. Direct. Has weight.",
+        "industrySummary": "Modern fine jewelry brands have moved past Tiffany and into a smaller, more design-led market. The customer wants something they could wear daily, that doesn't broadcast price. The category is asking for restraint with personality.",
+        "competitorLandscape": "Mejuri (mejuri.com) defined the modern fine jewelry direct-to-consumer playbook. Catbird (catbirdnyc.com) holds the indie craft position. Ana Khouri (anakhouri.com) sits at the top of the design-led contemporary space. We sit closest to Catbird in tone with a sharper visual signature.",
+        "positioningStatement": "Modern fine jewelry for people who buy one piece a year and wear it every day.",
+        "targetAudience": {
+          "primary": "30 to 50. Owns five pieces of jewelry, max. Wears the same earrings for three years before adding the next. Knows the difference between gold-plated and solid gold. Will pay for solid."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Quiet", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the metal, the karat, the weight in grams",
+            "Show the piece at scale, on a wrist",
+            "Skip the muse copy"
+          ],
+          "donts": [
+            "Use the word inspired",
+            "Photograph rings floating in mid-air",
+            "Describe a stone as feminine"
+          ]
+        },
+        "logoDirection": "A wordmark only. CASE in a tight modern serif, small caps, very narrow tracking. The cross of the A subtly extended, like a hinged box. A standalone monogram of the C as a hallmark stamp on every piece.",
+        "colorPalette": [
+          {"name": "Velvet Black", "hex": "#0F0F11", "meaning": "The inside of a jewelry case.", "usage": "Wordmark, primary surface, packaging"},
+          {"name": "Bone", "hex": "#F2EEE3", "meaning": "Used as space, the paper inside the box.", "usage": "Background, paper, lining"},
+          {"name": "14k", "hex": "#A98654", "meaning": "Solid gold, not yellow gold. The real thing.", "usage": "Foil, hallmark, accent"}
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and product specs",
+          "rationale": "A high contrast serif for the brand. A composed grotesk for the technical product details. Each does its job and stays out of the other's way."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No costume jewelry. No collaborations with fashion houses. No discounts. No subscription boxes. No celebrity gifting."},
+          {"title": "Where it lives", "body": "A single retail studio with appointments only. A website that shows each piece against a flat black background. A small wooden case for every order, hand-numbered. A printed thank-you card with the piece's hallmark stamped on it."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Wentworth & Wynn",
+        "tagline": "Made for the next century.",
+        "brandNameRationale": "Two surnames, joined by an ampersand. The structure of an English family jeweler from the 1880s. Wentworth and Wynn sound like they could have founded the firm together. The pair carries the heritage the brand wants to claim, without claiming it directly.",
+        "story": "Wentworth & Wynn began in a small workshop above a London street. The two founders, who had spent decades in larger houses, wanted to make a smaller number of pieces, more carefully. The firm has stayed at the same address. The workshop has stayed at the same size.",
+        "industrySummary": "Top end jewelry is divided between the grand maisons (Cartier, Van Cleef, Boucheron) and the new design-led contemporary brands. There's a small, durable category between them. Family-run, multi-generational, English-craft jewelers who serve a few hundred clients. We belong there.",
+        "competitorLandscape": "Cartier (cartier.com) is the institution. Theo Fennell (theofennell.com) is the closest contemporary English peer. Stephen Webster (stephenwebster.com) has the personality. Bentley & Skinner (bentley-skinner.co.uk) holds the heritage corner. We are quieter than all of them.",
+        "positioningStatement": "An English jeweler that makes a small number of pieces, very carefully.",
+        "targetAudience": {
+          "primary": "Wealthy, often inherited. Already owns important pieces. Buys for milestones (births, anniversaries, retirements) and expects the piece to be passed on. Values the relationship with the jeweler as much as the piece."
+        },
+        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Speak in the language of craft, not marketing",
+            "Send a paper invitation to every private viewing"
+          ],
+          "donts": [
+            "Discount, ever",
+            "Sell online without a viewing",
+            "Run a brand collaboration"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark. Wentworth & Wynn set with elegant ligatures and a hand-drawn ampersand that becomes the firm's hallmark. The W-and-W monogram stamps the inside of every piece, the back of the case, and the wax seal on every paper letter.",
+        "colorPalette": [
+          {"name": "Boardroom Green", "hex": "#1B3328", "meaning": "Members' rooms, hunting estates, leather library chairs.", "usage": "Primary brand color, signage, letterhead"},
+          {"name": "Heritage Gold", "hex": "#A38454", "meaning": "Aged metal. The real gold on every piece.", "usage": "Foil, hallmark, hardware"},
+          {"name": "Cream Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, fine cotton.", "usage": "Stationery, packaging, paper"},
+          {"name": "Onyx", "hex": "#1A1A1B", "meaning": "The case interior, the dark velvet, the formal typography.", "usage": "Body type, packaging interior"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the few digital surfaces",
+          "rationale": "A high contrast classical serif carries the heritage tone. A modern grotesk handles the website and client portal. Restraint everywhere."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No e-commerce. No fashion-jewelry collaborations. No flash sales. No social media advertising. No celebrity placements."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we serve",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "WORN",
+        "tagline": "Made to be.",
+        "brandNameRationale": "Past participle. The thing that jewelry is meant to become. We named the brand after its purpose, not its product. One word. Implies use, not display.",
+        "industrySummary": "Most jewelry brands sell occasion. We sell daily use. The customer wants a piece that comes off only at the shower and goes back on before they leave the house. The category needs a brand that says so plainly.",
+        "competitorLandscape": "Many small jewelers operate in this aesthetic space. None have claimed the language as clearly. The Ordinary did it for skincare. We do it for fine jewelry.",
+        "positioningStatement": "Fine jewelry made to be worn every day. Not saved.",
+        "targetAudience": {
+          "primary": "Adults who already own one good piece. They want a second that goes with the first and a third that goes with both. They don't take their jewelry off. They want it to age with them."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Patient", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the metal and the gauge",
+            "Show the piece on real skin, not silicone",
+            "Use plain language for product description"
+          ],
+          "donts": [
+            "Use the word delicate",
+            "Photograph rings against marble",
+            "Describe a piece as for special occasions"
+          ]
+        },
+        "logoDirection": "A wordmark only. WORN in a single weight sans, wide kerned, all caps. No icon. No second mark. Each piece carries a small W hallmark, etched not stamped.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F2EFE7", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
+          {"name": "Hallmark Gold", "hex": "#B08D52", "meaning": "The metal itself.", "usage": "Foil, hallmark on packaging"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The product specs are the brand."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No occasion marketing. No engagement-ring campaigns. No matching sets. No size charts that aren't accurate to the millimeter."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who wears this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Halcyon Jewelry Group",
+        "tagline": "Distribution and licensing for fine jewelry brands.",
+        "brandNameRationale": "Halcyon means calm, prosperous, established. The word carries seriousness without trying. Jewelry Group names the category clearly. The whole thing reads like a holding company, which is exactly what it is.",
+        "industrySummary": "Behind every visible jewelry brand sits a quiet network of distributors, licensors, and category managers. The B2B side of fine jewelry is a real category with serious players. The customers are not consumers, they are buyers at jewelry chains, department stores, and licensing partners.",
+        "competitorLandscape": "Richemont (richemont.com) holds the maison portfolio. Movado Group (movadogroup.com) sits in the watch and jewelry corporate side. LVMH Watches and Jewelry (lvmh.com) is the giant peer. We are smaller and faster, focused on the contemporary fine jewelry tier rather than the heritage maisons.",
+        "positioningStatement": "A jewelry holding company building the next generation of fine jewelry brands.",
+        "positioningRationale": "Independent jewelry brands need scale partners. Department stores need a single vendor across multiple labels. We sit in the middle, professionalizing what was previously a fragmented B2B space.",
+        "targetAudience": {
+          "primary": "Department store category managers, jewelry chain CEOs, brand founders looking for an exit, and licensing partners across watches, leather, and accessories.",
+          "motivations": [
+            "Reliable supply across multiple labels",
+            "Single contract for category coverage",
+            "Wholesale terms that hold across seasons"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the portfolio",
+            "Show the wholesale terms",
+            "Speak to the buyer, not the consumer"
+          ],
+          "donts": [
+            "Use consumer marketing language",
+            "Show retail prices",
+            "Run social campaigns"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "A portfolio approach", "description": "Multiple brands under one contract, covering the contemporary fine jewelry tier."},
+          {"name": "Reliable wholesale terms", "description": "Consistent margins, predictable delivery, and a single account team across labels."},
+          {"name": "A trusted brand-building partner", "description": "Operating expertise behind the scenes so the visible brands can stay focused on design."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a faceted diamond reduced to two intersecting strokes. Reads clean on a contract, a name badge, and a B2B trade show booth.",
+        "colorPalette": [
+          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, finance, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Pearl", "hex": "#F2EFE8", "meaning": "Clean, calm.", "usage": "Backgrounds, paper"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure.", "usage": "Body text, dividers"},
+          {"name": "Heritage Gold", "hex": "#A38454", "meaning": "Category accent. Used sparingly.", "usage": "Highlights, foil on B2B documents"}
+        ],
+        "typography": {
+          "primary": "Inter for the website and digital",
+          "secondary": "Source Serif Pro for printed B2B documentation",
+          "rationale": "Inter is clean and procurement-friendly. The serif handles printed wholesale catalogs and contracts."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No direct-to-consumer brand. No retail stores. No e-commerce of finished jewelry. No celebrity partnerships. The company is the holding company, not a brand."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "TROPHY",
+        "tagline": "Wear the win.",
+        "brandNameRationale": "Trophy is what you earn and put on display. We named the brand after the act of marking a moment. The word is loud, slightly cheeky, and instantly understood. One word, all caps, looks great stamped on a velvet box.",
+        "manifesto": "Most jewelry brands ask you to think of jewelry as art or as investment or as inheritance. We think jewelry is closer to a trophy. Something you earn, something you wear, something you point at when someone asks. The piece is a mark on your timeline.",
+        "industrySummary": "Fine jewelry has been earnest and quiet. The customer who wants the piece to be loud, playful, and personal hasn't been served by a single brand cleanly. There's room for one that turns the wedding-band-and-watch occasion into a wider trophy economy.",
+        "competitorLandscape": "Catbird (catbirdnyc.com) does indie playful. Foundrae (foundrae.com) does meaning-charged pieces. Brent Neale (brentneale.com) has the candy maximalism. We are punchier than any of them and more direct about what the jewelry is for.",
+        "positioningStatement": "Jewelry for moments you actually want to remember.",
+        "targetAudience": {
+          "primary": "25 to 45. Buys jewelry for themselves to mark moments (job change, divorce, deal close, milestone birthday). Wears the piece. Tells the story when asked. Doesn't wait for someone else to gift it."
+        },
+        "brandPersonalityTraits": ["Bold", "Warm", "Confident", "Playful", "Sharp"],
+        "voiceAndTone": {
+          "dos": [
+            "Make the gift-to-self idea explicit",
+            "Use real customer stories",
+            "Be specific about what the piece is marking"
+          ],
+          "donts": [
+            "Sound like a wedding-industrial brand",
+            "Photograph against marble",
+            "Apologize for being a little bold"
+          ]
+        },
+        "logoDirection": "A wordmark in a bold display serif with the Y stylized as a small trophy cup outline. Standalone trophy-cup icon for hallmark stamps on jewelry, packaging seals, and Instagram avatar.",
+        "colorPalette": [
+          {"name": "Trophy Red", "hex": "#D72638", "meaning": "Hot, confident, hard to ignore.", "usage": "Primary brand color, packaging, hero surfaces"},
+          {"name": "Trophy Gold", "hex": "#C8A24A", "meaning": "Aged, won, mounted.", "usage": "Foil, hallmark, accents"},
+          {"name": "Velvet Black", "hex": "#0F0F11", "meaning": "Box interior, anchor.", "usage": "Packaging interior, body type"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm space.", "usage": "Backgrounds, paper, web body"},
+          {"name": "Hot Pink", "hex": "#FF4D8D", "meaning": "Punctuation. Used like an exclamation point.", "usage": "Accents, hero highlights, social"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and labels",
+          "rationale": "Migra has personality and craft. Neue Montreal handles the product specs and web body. The pair feels expensive and warm at once."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a wedding brand. Not a bridal brand. Not afraid of red. Not earnest about meaning."},
+          {"title": "Where it lives", "body": "Boxes that feel like trophies. Engraved hallmarks with the customer's milestone. Pop-ups at moments (Q4 bonus season, milestone weeks). A members' wall in the store, with customer notes about what each piece marked. Hoodies that have the wordmark on them."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who wears this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "industry": "restaurants",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "LINE",
+        "tagline": "From the pass.",
+        "brandNameRationale": "Line is the kitchen word for where the food gets plated, called, and sent. The cooks stand on the line. The brand sits at the moment of finish. Short. Direct. Reads like a working kitchen.",
+        "industrySummary": "Modern restaurants are competing on more than the food. The menu, the room, the booking flow, the social presence all carry weight. Brand is doing work it didn't do ten years ago. The clean modern restaurants stand out by saying less.",
+        "competitorLandscape": "Misi (misinewyork.com) showed how restraint reads as confidence. King (kingrestaurant.nyc) earns trust by being clear about everything. Atomix (atomixnyc.com) carries a strong design language across plate and menu. We borrow the discipline from these and the openness of a neighborhood place.",
+        "positioningStatement": "Modern dining for people who pick the restaurant before they pick the menu.",
+        "targetAudience": {
+          "primary": "28 to 45. Lives in a city. Eats out twice a week. Reads the menu before they arrive. Tips well. Books for two but invites a third when the room is right."
+        },
+        "brandPersonalityTraits": ["Direct", "Modern", "Confident", "Warm"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the dish clearly",
+            "Show the price next to it",
+            "Skip the chef's life story"
+          ],
+          "donts": [
+            "Use the word elevated",
+            "Describe a dish as a journey",
+            "Photograph the chef plating"
+          ]
+        },
+        "logoDirection": "A wordmark only. LINE in a tight grotesk, all caps, set with a single thin horizontal rule running through it. The rule is the line. The mark works on a menu, a window, and a takeaway box.",
+        "colorPalette": [
+          {"name": "Service Black", "hex": "#111111", "meaning": "Apron color. The dark of a closed kitchen at midnight.", "usage": "Wordmark, type, primary surfaces"},
+          {"name": "Plate White", "hex": "#F4F1EA", "meaning": "Bone china. Used as space.", "usage": "Background, menu paper, takeaway boxes"},
+          {"name": "Citrus", "hex": "#E8B23A", "meaning": "Lemon zest. The single bright accent in a quiet plate.", "usage": "Accents, sale signage, web headlines"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and menu headlines",
+          "secondary": "GT America Mono for prices and dish numbers",
+          "rationale": "One family. The regular weight names the food. The mono carries the facts. The customer reads both clearly."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No tasting menu prose. No farm-to-table copy. No chalkboard daily specials in cursive. No emoji on the menu."},
+          {"title": "Where it lives", "body": "A single printed menu, reprinted weekly. A two-line confirmation email. A web page that loads in under a second. A line out the door, kept moving."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who shows up",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Long Table",
+        "tagline": "Dinner is the room.",
+        "brandNameRationale": "The Long Table is a piece of furniture, an idea, and a tradition. A single table where the meal lasts as long as the conversation. The definite article makes it singular. The name sets the expectation before the first course.",
+        "story": "We built The Long Table because we missed the kind of dinner that ran long. The kind that ends with the kitchen lights off and the staff sitting down to eat with you. So we built a room with one table that seats fourteen, and a kitchen that cooks for that table only.",
+        "industrySummary": "Top end dining has gotten faster, more turn-driven, more producer-led. There's a thin market at the other end. Slow rooms. One seating. People who book three months out for an evening that runs four hours.",
+        "competitorLandscape": "Frenchette (frenchettenewyork.com) carries the classical New York room. Le Bernardin (le-bernardin.com) is the institution we admire from a distance. Estela (estelanyc.com) has the warmth. None of them are this small.",
+        "positioningStatement": "A restaurant for one table of fourteen, one seating, four nights a week.",
+        "targetAudience": {
+          "primary": "40 to 70. Has eaten everywhere. Looking for somewhere new only if it's not actually new. Pays for the room and the time, not the prestige."
+        },
+        "brandPersonalityTraits": ["Refined", "Warm", "Patient", "Discreet", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Speak softly",
+            "Address the guest by name in writing",
+            "Send the menu the day before, in print"
+          ],
+          "donts": [
+            "Promote on social media",
+            "Use the word luxury",
+            "Run a private events business"
+          ]
+        },
+        "logoDirection": "A wordmark in a classical serif with thin caps and elegant ligatures. A small horizontal line beneath the words, the long table itself, reduced. Used on the front door, on the printed menu, and in a single embossed corner of every linen napkin.",
+        "colorPalette": [
+          {"name": "Tablecloth Cream", "hex": "#F3EBD7", "meaning": "Heavy cotton, hand-laundered, slightly creased.", "usage": "Backgrounds, menus, napkins"},
+          {"name": "Wine Dark", "hex": "#3A1F2A", "meaning": "The color of the third glass.", "usage": "Wordmark, body type, room palette"},
+          {"name": "Brass", "hex": "#A38454", "meaning": "Cutlery, candleholders, the small lamp on the table.", "usage": "Foil, hardware, accents"},
+          {"name": "Olive Black", "hex": "#2A2A22", "meaning": "Aged wood, cured leather, the menu cover.", "usage": "Secondary type, leather details"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed menu",
+          "secondary": "Söhne for guest correspondence and reservation pages",
+          "rationale": "A high contrast serif carries the room. A modern grotesk handles the few digital surfaces. Nothing decorative."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No à la carte. No private buyouts. No social media presence. No second location. No press."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who comes in",
+          "personality": "How the room feels",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "SHARED",
+        "tagline": "Eat together.",
+        "brandNameRationale": "One word. Single idea. The restaurant is built around a menu meant to be passed around the table. The brand says what the meal is, in one word, before anyone reads the menu.",
+        "industrySummary": "Sharing plates is the way most people prefer to eat in cities. The format has become standard. The category has not had a brand that puts the idea front and center.",
+        "competitorLandscape": "Brutalisten (brutalisten.com) takes the philosophy further than we will. Sqirl (sqirlla.com) built a different cult around the same idea. Most sharing-plate places hide the concept under generic names. We don't.",
+        "positioningStatement": "A neighborhood restaurant where every dish is meant for the middle of the table.",
+        "targetAudience": {
+          "primary": "Couples, friend groups, people who eat out as a way to spend time, not just to eat. They order too much and they take the leftovers home."
+        },
+        "brandPersonalityTraits": ["Plain", "Warm", "Honest", "Quiet"],
+        "voiceAndTone": {
+          "dos": [
+            "Name the dish, name the price",
+            "Say what's in it",
+            "Recommend three plates for two people"
+          ],
+          "donts": [
+            "Tell food stories",
+            "Use the word artisanal",
+            "Photograph plates from above with a single sprig of dill"
+          ]
+        },
+        "logoDirection": "A wordmark only. SHARED in a single weight grotesk, wide kerned, all caps. No icon. The wordmark on the door, the menu, the takeaway box.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type, structure, the wordmark.", "usage": "All type and the wordmark"},
+          {"name": "Paper", "hex": "#F2EFE7", "meaning": "Used as space.", "usage": "Backgrounds, menus, signage"},
+          {"name": "Olive", "hex": "#7E835A", "meaning": "Single warm accent. The color of one good ingredient.", "usage": "Secondary surfaces, occasional accent"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. One job. Nothing decorative."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No tasting menu. No reservations longer than two hours. No private dining. No music after the second course."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who eats here",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Boardman & Co.",
+        "tagline": "Corporate dining, taken seriously.",
+        "brandNameRationale": "Boardman sounds like a person who has been doing this since the 1950s. The & Co. closes it like a real, established firm. The name reads as something a Fortune 500 already has under contract.",
+        "industrySummary": "Corporate dining is a category most people don't think about until they're the buyer. Companies want clean food, predictable service, and a vendor who can handle multiple offices on one contract. The market is mostly served by older institutional caterers and a few new white-label players.",
+        "competitorLandscape": "Compass Group (compass-group.com) is the giant. Restaurant Associates (restaurantassociatesinc.com) is the premium-leaning operator. Bon Appetit Management (bamco.com) sits in the middle. We are smaller, more design-led, and more flexible than any of them.",
+        "positioningStatement": "Corporate dining services for companies that consider the lunch hour part of the workplace.",
+        "positioningRationale": "Most buyers haven't thought about their cafeteria provider in five years. We win by showing up better than the incumbent on day one, with data, with consistency, and with food employees actually like.",
+        "targetAudience": {
+          "primary": "Heads of facilities, real estate, and people operations at companies of 500 to 25000 employees. They sign the contract and they catch the complaints.",
+          "motivations": [
+            "One vendor across multiple sites",
+            "Predictable monthly billing",
+            "Real participation, not just sign-ups"
+          ]
+        },
+        "brandPersonalityTraits": ["Reliable", "Professional", "Direct", "Steady", "Capable"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the deliverable",
+            "Show participation numbers",
+            "Speak to the buyer, not the diner"
+          ],
+          "donts": [
+            "Sound like a hospitality brand",
+            "Use chef-driven language",
+            "Photograph the food on a kitchen counter"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "One vendor across sites", "description": "We run the cafeteria, the catering, the conference dining, and the reporting under one contract."},
+          {"name": "Real participation", "description": "We measure who actually eats with us, not who signed up. The number that matters is the daily count."},
+          {"name": "Procurement-ready reporting", "description": "Monthly utilization, allergen reports, ESG-aligned sourcing data. Formatted the way procurement uses it."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single olive branch reduced to two strokes, suggesting nourishment without being literal. Reads cleanly on uniforms, vans, and procurement decks.",
+        "colorPalette": [
+          {"name": "Service Navy", "hex": "#0F2238", "meaning": "Trust, stability, the reliable vendor.", "usage": "Logo, primary surfaces, uniforms"},
+          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean and unfussy.", "usage": "Backgrounds, menus, paper"},
+          {"name": "Slate", "hex": "#5C6A78", "meaning": "Structure. For text and dividers.", "usage": "Body text, charts, dividers"},
+          {"name": "Olive", "hex": "#6E7A4C", "meaning": "A quiet accent. The color of a good ingredient.", "usage": "Highlights, secondary signage"}
+        ],
+        "typography": {
+          "primary": "Inter",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital and operational signage. Serif reserved for printed B2B documents."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No retail restaurants. No D2C meal kits. No celebrity chef partnerships. No flashy openings."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "APPETITE",
+        "tagline": "Stay hungry. We'll handle the rest.",
+        "brandNameRationale": "One word. Loud. It names the thing the customer brings in and the thing the restaurant returns. The word works on a sign, a totebag, a neon, a menu cover. Says everything before you read the menu.",
+        "manifesto": "We started Appetite because most restaurants are too quiet about being restaurants. They whisper their names. They hide their menus. They photograph their dishes like museum pieces. We wanted a place that's loud about being fun and quiet about being good, instead of the other way around.",
+        "industrySummary": "Modern restaurants got serious. Concept-driven, minimal, quiet. There's room for one that's loud, warm, full of personality, and still puts out food that holds up under criticism.",
+        "competitorLandscape": "Carbone (mainecarbone.com) figured out maximalist done right. Bavette (bavettesteakhouse.com) sells the room as much as the steak. Major Food Group's restaurants have the playbook. We're smaller and weirder.",
+        "positioningStatement": "A restaurant with the personality of a bar and the food of a kitchen that means it.",
+        "targetAudience": {
+          "primary": "25 to 40. Eats out four nights a week. Brings friends. Drinks more than they should. Posts the menu cover, not the plate. Buys the merch."
+        },
+        "brandPersonalityTraits": ["Loud", "Warm", "Confident", "Playful", "Direct"],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes on the menu",
+            "Name the dish something memorable",
+            "Talk like the host who's already had a drink"
+          ],
+          "donts": [
+            "Use the word elevated",
+            "Sound apologetic about the food",
+            "Photograph plates on slate"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy serif with the second P stylized as a fork tine. A standalone fork-tine icon for stickers, totebags, and Instagram profile pictures. The mark looks great in neon on a wall.",
+        "colorPalette": [
+          {"name": "Appetite Red", "hex": "#D7263D", "meaning": "Hunger. Heat. The check at the end of the night.", "usage": "Primary brand color, neon, totebags"},
+          {"name": "Butter", "hex": "#FFD773", "meaning": "Pure warmth. The pat on the bread plate.", "usage": "Accent, menu cover variants"},
+          {"name": "Plate Cream", "hex": "#F3EBD7", "meaning": "Used as warm background.", "usage": "Menus, paper, light surfaces"},
+          {"name": "Wine Dark", "hex": "#3A1F2A", "meaning": "Anchoring deep red. The third glass.", "usage": "Body type, accents"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Body, headlines, structure"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and signage",
+          "rationale": "Migra carries the personality. Neue Montreal handles the menu and the website. The pair feels expensive and a little weird."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not minimal. Not concept driven. Not a chef brand. Not photographed in natural light."},
+          {"title": "Where it lives", "body": "Totebags people actually wear. Stickers on phone cases. A printed menu that the host hands you, never on a tablet. Neon on the wall. A merch wall in the bathroom hallway."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who shows up",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
