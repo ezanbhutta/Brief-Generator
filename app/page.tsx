@@ -171,10 +171,7 @@ export default function HomePage() {
           </p>
         )}
 
-        <div className="mt-5 flex flex-col-reverse gap-3 sm:flex-row sm:items-center sm:justify-between">
-          <p className="text-xs text-zinc-500">
-            Briefs are served from a curated catalog. Instant — no API call.
-          </p>
+        <div className="mt-5 flex flex-col-reverse gap-3 sm:flex-row sm:items-center sm:justify-end">
           <div className="flex items-center gap-2">
             {response && !loading && (
               <button
@@ -219,10 +216,6 @@ export default function HomePage() {
           style={submitted.style}
         />
       )}
-
-      <footer className="pt-6 text-center text-xs text-zinc-500">
-        Built with Next.js · Briefs served from a curated catalog.
-      </footer>
     </main>
   );
 }
