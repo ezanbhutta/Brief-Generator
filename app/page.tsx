@@ -163,14 +163,6 @@ export default function HomePage() {
             <span>Brand Briefs Co.</span>
             <span className="hidden sm:inline text-ink/30">— Est. 2026</span>
           </div>
-          <div className="hidden sm:flex items-center gap-5">
-            <span>250 briefs</span>
-            <span className="text-ink/30">·</span>
-            <span>50 industries</span>
-            <span className="text-ink/30">·</span>
-            <span>5 styles</span>
-          </div>
-          <div className="sm:hidden">250 / 50 / 5</div>
         </div>
       </div>
 
