@@ -52,6 +52,23 @@
           "typography": "The fonts"
         }
       }
+      ,
+      {
+        "brandName": "OFFCUT",
+        "tagline": "From what was left.",
+        "brandNameRationale": "Single word. Offcut is the industry term for the fabric scraps left over after a pattern is cut. The brand sits on the part of fashion that usually gets thrown away. Modern, slightly self-aware, immediately legible to anyone who has been near a sewing room.",
+        "industrySummary": "Modern fashion has been moving toward circularity and material honesty. Customers are tired of the over-production cycle. The opening is for a brand that puts material reuse in the brand position, not as a marketing claim but as the actual product.",
+        "competitorLandscape": "Christy Dawn (christydawn.com) holds the dead-stock peer position. Reformation (thereformation.com) sits in the sustainable scale tier. Stella McCartney (stellamccartney.com) does the institutional sustainability middle. We sit smaller and more honest than any of them.",
+        "positioningStatement": "A modern fashion brand made from what other brands cut and threw away.",
+        "targetAudience": {"primary": "28 to 45. Reads about fashion sustainability. Pays a premium for clothing made from reused materials. Owns fewer pieces and wears them longer."},
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Quiet"],
+        "voiceAndTone": {"dos": ["Name the source fabric and where it came from", "Show the original off-cut next to the finished garment", "Skip the lifestyle copy"], "donts": ["Use the word sustainable as a marketing word", "Photograph empty rooms", "Run a 'conscious shopper' campaign"]},
+        "logoDirection": "A wordmark only. OFFCUT in a precise grotesk, all caps. A small geometric mark, two thin angled lines suggesting fabric scissors, used as the hangtag stamp and the favicon.",
+        "colorPalette": [{"name": "Calico", "hex": "#F4F0E6", "meaning": "Unbleached muslin, the cutting table.", "usage": "Backgrounds, packaging body, paper"}, {"name": "Marker", "hex": "#101012", "meaning": "Fabric pen on muslin.", "usage": "Wordmark, body type, primary"}, {"name": "Thread Red", "hex": "#D72638", "meaning": "Stitch thread on calico.", "usage": "Hangtag accent, web headlines"}],
+        "typography": {"primary": "GT America for the wordmark", "secondary": "GT America Mono for size charts and material specs", "rationale": "One family. Mono carries the fabric data."},
+        "customSections": [{"title": "What it doesn't do", "body": "No seasonal collections. No virgin materials. No 'conscious' marketing campaigns. No celebrity-stylist collaborations."}, {"title": "Where it lives", "body": "A studio store open three days a week. A printed catalogue twice a year. Each garment ships with a hangtag listing the source fabric and the original brand."}],
+        "sectionLabels": {"industrySummary": "The market", "competitorLandscape": "Who else is around", "positioning": "The pitch", "targetAudience": "Who wears this", "personality": "The feel", "voiceAndTone": "How it talks", "logoDirection": "The logo", "colorPalette": "The colors", "typography": "The fonts"}
+      }
     ],
     "Luxury": [
       {
@@ -106,6 +123,24 @@
           "typography": "Type"
         }
       }
+      ,
+      {
+        "brandName": "Stoneham & Vail",
+        "tagline": "Tailored since 1953.",
+        "brandNameRationale": "Two distinctive surnames joined by an ampersand. Stoneham is a heritage English-American name; Vail is short, sharp, and slightly American. The uneven rhythm makes the pair feel like a real partnership rather than a typed-up heritage name.",
+        "story": "Stoneham & Vail began with two principals who had spent decades inside larger tailoring houses and wanted to take fewer clients, more carefully. The house takes a limited number of clients each year. Some clients have been with the house since the 1960s.",
+        "industrySummary": "Top end tailoring has been chasing brand at the expense of craft. There's a smaller market for old tailoring done well. Bespoke garments, made by hand, sold by relationship.",
+        "competitorLandscape": "Anderson & Sheppard (anderson-sheppard.co.uk) is the institutional reference. Henry Poole (henrypoole.com) holds the Savile Row tradition. Huntsman (huntsmansavilerow.com) is the closest peer. We belong in their company on the smaller, more discreet side.",
+        "positioningStatement": "A small tailoring house for clients who measure their wardrobes in decades.",
+        "targetAudience": {"primary": "Wealthy, often inherited. Owns at least one piece of bespoke clothing. Buys for milestones. Expects the garment to last a lifetime."},
+        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Precise"],
+        "voiceAndTone": {"dos": ["Address the client by surname", "Speak in the language of cloth and cut", "Send a paper card for every fitting"], "donts": ["Run a sale", "Use the word luxury", "Sell ready-to-wear"]},
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the house's hallmark, stamped on the inside lining of every garment, the order book, and the brass plaque outside the showroom.",
+        "colorPalette": [{"name": "House Green", "hex": "#1E3A30", "meaning": "Tailoring chalk on wool.", "usage": "Primary brand color, signage, letterhead"}, {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the hardware.", "usage": "Foil, hallmark, accents"}, {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the order book.", "usage": "Stationery, paper, packaging"}, {"name": "Wool Charcoal", "hex": "#2A2D2E", "meaning": "The Saturday suit.", "usage": "Body type, swatches"}],
+        "typography": {"primary": "Canela for the wordmark and order book", "secondary": "Söhne for the few digital surfaces", "rationale": "A high contrast classical serif sets the heritage tone."},
+        "customSections": [{"title": "What it doesn't do", "body": "No ready-to-wear. No e-commerce. No collaborations. No celebrity dressing."}],
+        "sectionLabels": {"story": "How this began", "industrySummary": "The category", "competitorLandscape": "The neighborhood", "positioning": "The promise", "targetAudience": "Who we dress", "personality": "How it carries itself", "voiceAndTone": "Voice", "logoDirection": "The mark", "colorPalette": "Palette", "typography": "Type"}
+      }
     ],
     "Minimal": [
       {
@@ -153,6 +188,41 @@
           "personality": "The feel",
           "voiceAndTone": "Voice",
           "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+      ,
+      {
+        "id": "fashion-minimal-2",
+        "brandName": "WEAR",
+        "tagline": "Clothes. Worn.",
+        "brandNameRationale": "One word. The verb every fashion brand dances around. We picked the action and stopped there. No suffix, no city, no founder name. The label inside the shirt says WEAR. That is the whole instruction.",
+        "manifesto": "Most fashion brands write a paragraph where one word would do. They name a feeling, a place, a season, a mood. We make clothes you wear. The brand is the thing in your hand. Hold it up. If you would wear it, take it home. That is the brief.",
+        "industrySummary": "Quiet luxury is a crowded shelf now. The opening underneath it is louder and simpler: a brand that strips the language back further than COS or Uniqlo and lets the garment do the talking. The customer is tired of being sold to.",
+        "competitorLandscape": "COS (cos.com) is the reference for plain modern dressing. Uniqlo (uniqlo.com) holds the everyday slot. Asket (asket.com) owns the permanent collection idea. We sit a step further out than Asket, with even less language around the product.",
+        "positioning": "WEAR is a clothing brand for people who are done reading about clothes. The collection is small, the names are descriptive, and the only marketing is the garment itself. Buy the shirt. Wear the shirt.",
+        "targetAudience": "Adults 28 to 50 who have bought their last trend piece. They know their measurements, they re-buy what works, and they read the label more than the campaign. Most of them got here after a few expensive mistakes.",
+        "personality": "Plainspoken. Patient. Unbothered by what is happening on the other side of the shop window. Says one thing and lets it sit.",
+        "voiceAndTone": "Captions are the product. 'White shirt. Cotton. Made in Portugal.' That is the post. No setup, no story, no hashtag.",
+        "messagingPillars": [
+          {"title": "The garment is the message", "body": "We do not write around the product. We label it. Shirt. Trousers. Coat. The photograph shows it on a person. The page says what it is made of and where."},
+          {"title": "Small collection, kept", "body": "Twelve pieces, always available. We add one a season and only if it earns its space. Nothing is retired to make room for novelty."},
+          {"title": "No campaign", "body": "We do not run seasonal campaigns. We re-shoot the same twelve pieces every year on different people. That is the marketing."}
+        ],
+        "logoDirection": "Wordmark only. WEAR set in a plain grotesque, slightly wide, all caps. Printed small on a woven label inside the collar. Nothing on the outside of the garment.",
+        "colorPalette": "Paper white #FAFAFA for the site. Ink #0E0E0E for type. The clothes themselves are the color story.",
+        "typography": "One typeface throughout. A neutral grotesque, regular weight only. Body 16px, headlines 28px. No italics, no bold.",
+        "sectionLabels": {
+          "manifesto": "Why",
+          "industrySummary": "The room",
+          "competitorLandscape": "Around us",
+          "positioning": "What it is",
+          "targetAudience": "Who buys",
+          "personality": "How it feels",
+          "voiceAndTone": "How we write",
+          "messagingPillars": "What we say",
+          "logoDirection": "Mark",
           "colorPalette": "Color",
           "typography": "Type"
         }
@@ -221,6 +291,41 @@
           "typography": "Typography"
         }
       }
+      ,
+      {
+        "id": "fashion-corporate-2",
+        "brandName": "Burlow Apparel Group",
+        "tagline": "Garment manufacturing, sourcing, and distribution for North American brands.",
+        "brandNameRationale": "Burlow is a surname pulled from a 1940s pattern-maker who never got famous. Apparel Group is what the entity is. Together it sounds like a holding company that has been around longer than it has, which is the point. The name signals trade buyer, not consumer.",
+        "manifesto": "We do not run a fashion brand. We run the factory floor, the sourcing trips, the QA lines, and the freight schedules that brands depend on. Our customer is the merchandiser, the production lead, the founder who needs a partner that picks up the phone in February and is still on the line in November.",
+        "industrySummary": "Apparel sourcing is fragmented and increasingly nearshore. Buyers want shorter lead times, smaller MOQs, and a partner who can absorb the operational load. The vendors who win are the ones who feel less like factories and more like extensions of the brand team.",
+        "competitorLandscape": "Li & Fung (lifung.com) remains the global reference. Suuchi (suuchi.com) has built the tech-forward story. Indigenous Designs (indigenousdesigns.com) holds the ethical mid-market. We sit in the practical middle: serious operations, North American footprint, no PR theater.",
+        "positioning": "Burlow Apparel Group is a manufacturing and distribution partner for emerging and mid-market apparel brands. We handle sourcing, production, QA, and warehousing so brand teams can focus on design and customer.",
+        "targetAudience": "Founders and production leads at apparel brands doing $2M to $50M in annual revenue. They have outgrown their first factory and need a partner who can scale with them without losing the craft conversation.",
+        "personality": "Senior. Operational. Speaks in production calendars and landed cost. Comfortable in the back of house. Does not need to be in the campaign.",
+        "voiceAndTone": "Direct, specific, and unembellished. We talk about CMT pricing, fabric mills, and shipping windows. Decks have numbers, not adjectives.",
+        "messagingPillars": [
+          {"title": "Sourcing", "body": "Vetted mill and trim relationships across Portugal, Peru, and the U.S. Southeast. Fabric library and sample turnaround inside 14 days. Tariff and origin documentation handled in-house."},
+          {"title": "Production", "body": "MOQs from 250 units. In-line QA on every run. Production planning shared with brand teams in a working document, not a black box."},
+          {"title": "Distribution", "body": "3PL partners in Atlanta and Reno. Direct-to-retail and direct-to-consumer fulfillment under one purchase order. Returns processing and refurb included."}
+        ],
+        "logoDirection": "Burlow set in a serif with a small caps Apparel Group beneath it on a single rule. A trade-buyer mark, not a consumer mark. Used on invoices, contracts, and trade-show booths.",
+        "colorPalette": "Charcoal #2A2A2A primary, oat #E8E1D2 secondary, factory red #B23A2D as a single accent. Restrained, industrial, slightly American.",
+        "typography": "A traditional serif for the wordmark, a clean grotesque for documents and tables. Numbers tabular, hierarchy disciplined.",
+        "sectionLabels": {
+          "manifesto": "What we do",
+          "industrySummary": "Market context",
+          "competitorLandscape": "Competitive set",
+          "positioning": "Positioning",
+          "targetAudience": "Buyer profile",
+          "personality": "Posture",
+          "voiceAndTone": "Voice",
+          "messagingPillars": "Service pillars",
+          "logoDirection": "Identity",
+          "colorPalette": "Palette",
+          "typography": "Typography"
+        }
+      }
     ],
     "Creative": [
       {
@@ -277,6 +382,41 @@
           "typography": "Type"
         },
         "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+      ,
+      {
+        "id": "fashion-creative-2",
+        "brandName": "DRESS BETTER",
+        "tagline": "An instruction, not a slogan.",
+        "brandNameRationale": "Two words that read like a note your sharper friend would write you. DRESS BETTER is bossy on purpose. The brand assumes the customer already knows they could be doing better and just needed someone to say it. The name is the entire pitch.",
+        "manifesto": "We started because everyone we know dresses worse than they could. Not for lack of taste, for lack of nerve. They own one good shirt and wear the bad one. They have a great coat at the back of the closet because they are saving it. We made DRESS BETTER to take the saving-it out. Wear the coat. Wear the shirt. The occasion is Tuesday.",
+        "industrySummary": "Fashion content is full of inspiration and empty of instruction. Customers do not need another mood board. They need a brand that points at one piece and says wear this, today, with what you already own. There is a real opening for a brand built around the imperative.",
+        "competitorLandscape": "Permanent Style (permanentstyle.com) holds the menswear instructional position with a heavier tone. Blackbird Spyplane (blackbirdspyplane.com) owns the recommendation voice. Throwing Fits (the podcast) does the loud opinion. We sit between the instructional and the loud, with our own clothes attached.",
+        "positioning": "DRESS BETTER is a clothing brand that talks like a friend with stronger opinions than you. We sell a small collection of upgrade pieces and a weekly note telling you which one to put on.",
+        "targetAudience": "Adults 25 to 45 who have an okay wardrobe and a quiet suspicion they could do better. They have the budget, they do not have the time to figure it out, and they want someone to just tell them.",
+        "personality": "Bossy in a kind way. Confident. A little impatient. The friend who reorganizes your closet uninvited and is mostly right about it.",
+        "voiceAndTone": "Instructions, not invitations. 'Wear this shirt with the trousers you wore yesterday.' 'Roll the sleeves once, not twice.' 'Throw out the brown belt.' Short. Specific. Read like a text.",
+        "messagingPillars": [
+          {"title": "The note", "body": "A weekly email called 'Wear this on Wednesday.' One piece, one outfit, one instruction. No story, no scroll. People forward it. That is the only growth channel."},
+          {"title": "The upgrade", "body": "Twelve pieces a year. Each one replaces something most people already own a worse version of. We say what it replaces on the product page."},
+          {"title": "The clinic", "body": "Once a month we open the inbox and answer outfit questions with one-line replies. Screenshots get posted with the customer's permission. The clinic is the brand."}
+        ],
+        "logoDirection": "DRESS BETTER set in a chunky display sans, all caps, slightly condensed, almost looking like a road sign. Used at large scale on packaging and email headers. The mark is a command.",
+        "colorPalette": "Marker red #E11A1A as the headline color. Notebook cream #F4EFE3 as the page. Ink #181818 for type. Reads like a handwritten note someone slapped on the fridge.",
+        "typography": "One display sans for the instructions. One quiet serif for the product names. Body type left-aligned and short. Never centered.",
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Around us",
+          "positioning": "What this is",
+          "targetAudience": "Who it is for",
+          "personality": "The vibe",
+          "voiceAndTone": "How we talk",
+          "messagingPillars": "What we do",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        }
       }
     ]
   }
