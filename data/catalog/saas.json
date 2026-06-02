@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "25 to 45. Engineering managers, product managers, designers at companies of 20 to 500 people. Already use three SaaS tools and want the fourth to consolidate two of them."
         },
-        "brandPersonalityTraits": ["Direct", "Modern", "Precise", "Confident"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Precise",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show real screenshots, not stylized hero illustrations",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. SHIP in a tight modern grotesk, all caps, four letters with tight kerning. A small geometric mark, a thin arrow pointing right, used as the favicon and in deploy-status indicators.",
         "colorPalette": [
-          {"name": "Editor Black", "hex": "#0F1014", "meaning": "Dark theme. The native editor.", "usage": "Primary surface, marketing site, app body"},
-          {"name": "Off Paper", "hex": "#F3F1EC", "meaning": "Used as space, light theme.", "usage": "Light mode, paper, secondary"},
-          {"name": "Deploy Green", "hex": "#3E8E5A", "meaning": "Build passed. The green status dot.", "usage": "Status, CTAs, success states"}
+          {
+            "name": "Editor Black",
+            "hex": "#0F1014",
+            "meaning": "Dark theme. The native editor.",
+            "usage": "Primary surface, marketing site, app body"
+          },
+          {
+            "name": "Off Paper",
+            "hex": "#F3F1EC",
+            "meaning": "Used as space, light theme.",
+            "usage": "Light mode, paper, secondary"
+          },
+          {
+            "name": "Deploy Green",
+            "hex": "#3E8E5A",
+            "meaning": "Build passed. The green status dot.",
+            "usage": "Status, CTAs, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for the marketing site and product",
@@ -37,8 +57,14 @@
           "rationale": "Inter handles the marketing pages and UI. JetBrains Mono carries the technical content."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No 'velocity transformation' marketing. No glowing-figure hero illustrations. No founder LinkedIn posts about the company values."},
-          {"title": "Where it lives", "body": "A landing page that loads real screenshots in the first scroll. A changelog written like a developer talking to other developers. Keyboard shortcuts documented next to every button."}
+          {
+            "title": "What it doesn't do",
+            "body": "No 'velocity transformation' marketing. No glowing-figure hero illustrations. No founder LinkedIn posts about the company values."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A landing page that loads real screenshots in the first scroll. A changelog written like a developer talking to other developers. Keyboard shortcuts documented next to every button."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -50,6 +76,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "saas-modern-2",
+        "brandName": "SHIP",
+        "tagline": "The plain verb. The whole product.",
+        "brandNameRationale": "One word. Ship is what every product team is trying to do and most days fail to. We named the product after the verb on the whiteboard so the name itself is a small reminder. It is also unowned in SaaS — the obvious word nobody has taken.",
+        "manifesto": "Most product tools ask you to set up the tool before you can use it. Boards, fields, automations, integrations, a quarter of onboarding. We made SHIP because the only question that matters on a Tuesday is what is going out this week. Type the work, mark it shipped. That is the loop. Everything else is decoration.",
+        "industrySummary": "Project tooling for product teams is bloated. Linear opened a lane for taste and speed; everyone else added more surface. There is a smaller, quieter market underneath Linear for a tool that does one thing — track what is shipping this week — and refuses to grow.",
+        "competitorLandscape": "Linear (linear.app) holds the speed and craft slot. Height (height.app) and Shortcut (shortcut.com) fill the middle. Trello (trello.com) is the floor. We sit underneath Linear with a deliberately smaller surface — a single weekly view, a single keyboard, and almost no settings.",
+        "positioningStatement": "SHIP is a one-screen product tracker for teams that just want to know what is going out this week.",
+        "positioningRationale": "We compete on what we left out. The product is a list, a status, a keyboard. The pricing is one tier. The marketing is the changelog.",
+        "targetAudience": {
+          "primary": "Product managers, engineers and founders at 5–50 person teams who have outgrown a Notion doc but find Jira a punishment.",
+          "behaviors": [
+            "Live in the keyboard, not the mouse.",
+            "Read changelogs.",
+            "Pick tools by trying them, not by booking a demo.",
+            "Re-evaluate their stack every 6 months."
+          ],
+          "motivations": [
+            "Want fewer settings, not more.",
+            "Want to ship more, not plan more.",
+            "Want a tool the whole team will actually open every day."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Confident",
+          "Restrained"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use plain verbs.",
+            "Show the keyboard shortcut next to the action.",
+            "Write product copy in the imperative — 'Mark shipped.'",
+            "Lead with screenshots, not adjectives."
+          ],
+          "donts": [
+            "No vague benefit copy ('Unlock velocity').",
+            "No buzzwords (AI-powered, end-to-end, seamless).",
+            "No fake customer quotes.",
+            "No long-form landing-page essays."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One screen",
+            "description": "The whole product is a single list. No projects, no portfolios, no nested workspaces. If it does not ship this week it does not belong here."
+          },
+          {
+            "name": "Keyboard-first",
+            "description": "Every action has a one-key shortcut. The mouse is optional. You can run the entire week without leaving the keyboard."
+          },
+          {
+            "name": "Changelog as marketing",
+            "description": "We ship every week and publish the diff. The changelog is the only marketing channel. If a week is quiet, the changelog says so."
+          }
+        ],
+        "logoDirection": "A flat wordmark — SHIP set in a tight grotesque, all caps, with a single anchor-shaped notch in the P. The mark reads as a verb, not a brand.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#0B0B10",
+            "meaning": "The product chrome and type — quiet, almost black.",
+            "usage": "All UI text and frame."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F7F7F4",
+            "meaning": "The canvas — a touch warmer than white so the screen does not feel sterile.",
+            "usage": "App background, marketing pages."
+          },
+          {
+            "name": "Signal",
+            "hex": "#3D5BFF",
+            "meaning": "A working blue used only for shipped status and primary actions.",
+            "usage": "Active states, shipped chips, single-CTA buttons."
+          }
+        ],
+        "typography": {
+          "primary": "Inter (UI) for product chrome at 14/20.",
+          "secondary": "JetBrains Mono for IDs, hotkeys, and code.",
+          "rationale": "Two type families. Inter does the talking. Mono signals 'this is system.' No display serif anywhere — the product is not a magazine."
         }
       }
     ],
@@ -65,7 +176,13 @@
         "targetAudience": {
           "primary": "Senior engineering and product leaders at companies of 200 to 5000 engineers. They sign three-year contracts. They expect us to still be here in ten."
         },
-        "brandPersonalityTraits": ["Considered", "Steady", "Refined", "Precise", "Patient"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Steady",
+          "Refined",
+          "Precise",
+          "Patient"
+        ],
         "voiceAndTone": {
           "dos": [
             "Write fewer, longer paragraphs",
@@ -80,10 +197,30 @@
         },
         "logoDirection": "A serif wordmark with deliberate spacing. A small geometric mark, two perpendicular lines forming a quiet right angle, used as a hallmark on documentation, hardware, and the IDE plugin marketplace.",
         "colorPalette": [
-          {"name": "Oak", "hex": "#3E2B1A", "meaning": "The color of an old desk in a serious room.", "usage": "Wordmark, primary brand color, foiled documents"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Paper. Spreadsheet pages.", "usage": "Background, paper, secondary"},
-          {"name": "Slate", "hex": "#2A2D30", "meaning": "Body text. Steady.", "usage": "Type, dividers"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Aged hardware accent.", "usage": "Foil, page numbers, accents"}
+          {
+            "name": "Oak",
+            "hex": "#3E2B1A",
+            "meaning": "The color of an old desk in a serious room.",
+            "usage": "Wordmark, primary brand color, foiled documents"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Paper. Spreadsheet pages.",
+            "usage": "Background, paper, secondary"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D30",
+            "meaning": "Body text. Steady.",
+            "usage": "Type, dividers"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Aged hardware accent.",
+            "usage": "Foil, page numbers, accents"
+          }
         ],
         "typography": {
           "primary": "Tiempos Text for the wordmark and major type",
@@ -91,7 +228,10 @@
           "rationale": "A classical serif for the brand surface. A modern grotesk for the product surface. Each does its job and gets out of the way."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No quarterly feature announcements. No conference circuit. No social media presence for the company. No founder personal brand on Twitter."}
+          {
+            "title": "What it doesn't do",
+            "body": "No quarterly feature announcements. No conference circuit. No social media presence for the company. No founder personal brand on Twitter."
+          }
         ],
         "sectionLabels": {
           "story": "Where this began",
@@ -104,6 +244,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "saas-luxury-2",
+        "brandName": "Pemberton Software Co.",
+        "tagline": "One major release a year. Built to outlive your laptop.",
+        "brandNameRationale": "A surname with a small-firm register, plus the plain category word. The 'Co.' signals an older species of company — a partnership, not a venture-funded sprint. The customer reading the name should picture a workshop, not a product launch.",
+        "story": "Pemberton was founded by two engineers who left a large platform company to make smaller, more durable software. The first product took three years to ship. It is on version 7 and the original buyers are still on it.",
+        "industrySummary": "Premium B2B software has become synonymous with high pricing and high churn. There is a quieter market for software priced like furniture: bought once, kept for a decade, deepened slowly with one annual release.",
+        "competitorLandscape": "JetBrains (jetbrains.com) sets the bar for serious indie tooling. Panic (panic.com) holds the craft slot. Tinderbox (eastgate.com) and OmniGroup (omnigroup.com) are the heritage indie peers. We belong with them, not with the VC-backed cohort.",
+        "positioningStatement": "Pemberton makes software the way good firms make furniture: one piece at a time, slowly, and for a long life.",
+        "positioningRationale": "We ship one major version per year. We do not chase feature parity. We keep customers across decades by being worth keeping, not by switching costs.",
+        "targetAudience": {
+          "primary": "Senior engineers, architects, and small studio founders who have outgrown SaaS rentals and want software they own.",
+          "behaviors": [
+            "Buy fewer, better tools.",
+            "Keep computers and software for years.",
+            "Notice typography and keyboard latency.",
+            "Read release notes carefully."
+          ],
+          "motivations": [
+            "Tired of subscription fatigue.",
+            "Tired of products being acquired and shuttered.",
+            "Want a tool that respects their time and attention."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Patient",
+          "Quietly confident",
+          "Senior"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write like an annual letter, not a launch post.",
+            "Describe trade-offs honestly.",
+            "Credit the engineers by name in release notes.",
+            "Use specific numbers — latency in ms, file sizes, version dates."
+          ],
+          "donts": [
+            "No marketing superlatives ('best-in-class', 'world-class').",
+            "No urgency tactics.",
+            "No social-media-first launches.",
+            "No press-release cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One major release per year",
+            "description": "We ship version N every November. Minor maintenance arrives quietly throughout the year. There is no roadmap tweet thread."
+          },
+          {
+            "name": "Buy once, own forever",
+            "description": "Perpetual licenses, optional annual upgrades. Your version keeps working when our company eventually does not."
+          },
+          {
+            "name": "Worth keeping",
+            "description": "We do not lock you in. We earn the next renewal by being the tool you reach for, year after year."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Pemberton in a quiet old-style serif, with 'Software Co.' set in tracked-out small caps beneath. Reads as a small firm's letterhead, not a logo.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFEAE0",
+            "meaning": "The page — an unbleached paper tone.",
+            "usage": "All marketing surfaces and documentation."
+          },
+          {
+            "name": "Walnut",
+            "hex": "#3D2A1C",
+            "meaning": "Type and frame — a warm dark for body and chrome.",
+            "usage": "Body type, rules, navigation."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "A single warm accent — used the way a brass nameplate is used.",
+            "usage": "Section markers, drop caps, single highlights."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional text serif for body and headings.",
+          "secondary": "A grotesque for the product UI and small marks.",
+          "rationale": "The marketing material reads like a printed manual. The product itself uses a calmer sans so the words on screen do not compete with the work."
         }
       }
     ],
@@ -118,7 +343,12 @@
         "targetAudience": {
           "primary": "Adults who write daily and want a tool that gets out of the way. They distrust products that add features."
         },
-        "brandPersonalityTraits": ["Plain", "Technical", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Technical",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the cursor and the page",
@@ -133,9 +363,24 @@
         },
         "logoDirection": "A wordmark only. DOCS in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The app icon is the wordmark on a soft grey background. The website is the product.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, app, all light surfaces"},
-          {"name": "Cursor Grey", "hex": "#9C9A93", "meaning": "Quiet anchor.", "usage": "Secondary surfaces, dividers"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, app, all light surfaces"
+          },
+          {
+            "name": "Cursor Grey",
+            "hex": "#9C9A93",
+            "meaning": "Quiet anchor.",
+            "usage": "Secondary surfaces, dividers"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,7 +388,10 @@
           "rationale": "One face. The product is the cursor, the page, and the wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No AI features. No mood tracker. No collaboration sidebar. No newsletter. No notifications."}
+          {
+            "title": "Not this",
+            "body": "No AI features. No mood tracker. No collaboration sidebar. No newsletter. No notifications."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -155,6 +403,89 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "saas-minimal-2",
+        "brandName": "USE",
+        "tagline": "An instruction, not a product name.",
+        "brandNameRationale": "One word. The verb that completes the sentence the customer is already inside: 'I should just use…' We picked the verb and stopped. The label inside the app says USE. The browser tab says USE. The brand is the instruction.",
+        "manifesto": "Software brands work very hard to convince you to start. Onboarding tours, sample data, badges, streaks. We made USE because the customer already knows they need this. The whole job of the brand is to get out of the way so the using can begin.",
+        "industrySummary": "Most SaaS adds onboarding to make activation metrics look healthy. The minimal-tool market — Notion in early days, Bear, iA Writer — proves the opposite works. There is room for a brand that takes the minimal premise further than anyone.",
+        "competitorLandscape": "iA Writer (ia.net/writer) is the closest peer in restraint. Bear (bear.app) holds the friendly minimal slot. Linear (linear.app) is the maximal version of taste. We sit further out than Writer — fewer features, less branding, no marketing site to speak of.",
+        "positioningStatement": "USE is the tool you reach for when you do not want to think about the tool.",
+        "positioningRationale": "We strip every product element that asks for the user's attention. No streaks. No empty states with art. No feature releases. The tool opens, the work begins.",
+        "targetAudience": {
+          "primary": "Writers, designers, and operators who have a long history of trying tools and abandoning them.",
+          "behaviors": [
+            "Try a new tool and quit within a week.",
+            "Disable notifications on day one.",
+            "Keep one app open all day.",
+            "Read no documentation."
+          ],
+          "motivations": [
+            "Want to start, not to set up.",
+            "Want a tool that ages well.",
+            "Want fewer choices, not more."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Patient",
+          "Unbothered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use one-sentence descriptions.",
+            "Name buttons with verbs.",
+            "Skip onboarding copy entirely — show the cursor."
+          ],
+          "donts": [
+            "No emoji.",
+            "No empty-state illustrations.",
+            "No streaks, badges, or gamification.",
+            "No marketing emails after signup."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Open and begin",
+            "description": "The product opens to a cursor. No tour, no checklist, no sample file. The first thing you see is the work."
+          },
+          {
+            "name": "One job",
+            "description": "USE does one thing per surface. We add the second feature only when the first is older than the customer's tenure."
+          },
+          {
+            "name": "No notifications",
+            "description": "We do not email you. We do not push you. The tool sits where you left it and waits."
+          }
+        ],
+        "logoDirection": "USE set in a plain grotesque, all caps, at very small scale. Only appears in the favicon and the about screen. The product itself is unlabeled.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "The canvas — almost white.",
+            "usage": "Everything."
+          },
+          {
+            "name": "Graphite",
+            "hex": "#1A1A1A",
+            "meaning": "Type — almost black.",
+            "usage": "All text and chrome."
+          },
+          {
+            "name": "Cursor",
+            "hex": "#3D5BFF",
+            "meaning": "A single working blue — only the cursor and selection.",
+            "usage": "Selection state only."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular weight only.",
+          "secondary": "Same family for code and UI — no second family.",
+          "rationale": "One typeface, one weight. The text is the interface."
         }
       }
     ],
@@ -175,7 +506,13 @@
             "One platform across multiple operational needs"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the operating model",
@@ -189,16 +526,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Operator-grade design", "description": "Built for the team that runs the business, not the procurement department."},
-          {"name": "One platform across needs", "description": "Operations, scheduling, reporting, and analytics under one contract."},
-          {"name": "Reporting that connects to revenue", "description": "Operational metrics measured against revenue impact, formatted for the CFO and COO together."}
+          {
+            "name": "Operator-grade design",
+            "description": "Built for the team that runs the business, not the procurement department."
+          },
+          {
+            "name": "One platform across needs",
+            "description": "Operations, scheduling, reporting, and analytics under one contract."
+          },
+          {
+            "name": "Reporting that connects to revenue",
+            "description": "Operational metrics measured against revenue impact, formatted for the CFO and COO together."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is two thin parallel lines suggesting a horizon. Reads cleanly on a procurement deck, name badge, and the trust center.",
         "colorPalette": [
-          {"name": "Operator Navy", "hex": "#0F2238", "meaning": "Trust, steadiness, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Status Green", "hex": "#3E8E5A", "meaning": "Performance accent.", "usage": "Charts, status indicators"}
+          {
+            "name": "Operator Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, steadiness, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Status Green",
+            "hex": "#3E8E5A",
+            "meaning": "Performance accent.",
+            "usage": "Charts, status indicators"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and product UI",
@@ -206,7 +572,10 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C consumer features. No free tier marketed to consumers. No celebrity-CEO podcast. The firm sells through enterprise procurement."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C consumer features. No free tier marketed to consumers. No celebrity-CEO podcast. The firm sells through enterprise procurement."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -219,6 +588,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "saas-corporate-2",
+        "brandName": "Lattimer Systems Group",
+        "tagline": "Enterprise workflow software for regulated industries.",
+        "brandNameRationale": "Lattimer is a surname pulled from a 1960s engineering firm that built control systems. Systems Group is the category. The pair signals a serious vendor — the kind a procurement team enters into a master agreement with, not a tool a developer signs up to with a credit card.",
+        "manifesto": "We build software for the part of the enterprise where downtime has a number attached. The buyer is a director of operations, not a head of growth. The contract is three years, not three months. We ship slowly and predictably because the customer's calendar runs on slow, predictable cycles.",
+        "industrySummary": "Regulated industries — healthcare, financial services, energy, defense — are mid-cycle on a workflow software refresh. The legacy vendors are tired. The cloud-native vendors are not enterprise-ready. The opening is for a serious, deliberate mid-vendor with the discipline of the incumbents and the architecture of the cloud-native cohort.",
+        "competitorLandscape": "ServiceNow (servicenow.com) is the incumbent. Pegasystems (pega.com) holds the workflow-platform middle. Appian (appian.com) is the modern alternative. We sit underneath them, narrower and deeper, focused only on regulated workflow.",
+        "positioningStatement": "Lattimer Systems Group provides workflow software for regulated industries — built for audit, change-control, and procurement realities.",
+        "positioningRationale": "Our differentiator is the parts of enterprise software the customer never sees in a demo: audit trails, role separation, environment promotion, vendor security review. We ship those first and the workflow surface second.",
+        "targetAudience": {
+          "primary": "Directors and VPs of operations, IT, and compliance at organizations of 1,000+ employees in regulated industries.",
+          "behaviors": [
+            "Run multi-vendor procurement processes.",
+            "Sit through quarterly business reviews.",
+            "Care more about uptime than features.",
+            "Read SOC 2 reports."
+          ],
+          "motivations": [
+            "Need a vendor their auditor will accept.",
+            "Need to reduce concurrent vendor count.",
+            "Need a partner who will be alive in 7 years."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Predictable",
+          "Deliberate",
+          "Trustworthy"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with specifics — uptime percentages, certifications, contract terms.",
+            "Speak the language of procurement and compliance.",
+            "Reference real customer titles in case studies.",
+            "Publish a quarterly product roadmap."
+          ],
+          "donts": [
+            "No startup phrases ('disrupting', 'reimagining').",
+            "No surprise pricing changes.",
+            "No marketing animations on the home page.",
+            "No product launches without a 90-day notice."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Audit-ready by default",
+            "description": "Every action is logged, signed, and retrievable. SOC 2 Type II, HIPAA, FedRAMP-Moderate in scope. Reports are exportable for your auditor on day one."
+          },
+          {
+            "name": "Procurement-friendly",
+            "description": "MSA, DPA, BAA templates available pre-sale. Annual and triennial pricing. Single point of contact through implementation and renewal."
+          },
+          {
+            "name": "Predictable cadence",
+            "description": "Quarterly releases. 90-day notice on breaking changes. End-of-life policy that gives customers 24 months from announcement."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Lattimer set tight, with 'Systems Group' in tracked small caps beneath, separated by a single horizontal rule. Reads as a long-established systems integrator's mark.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary — the navy-slate of considered enterprise brands.",
+            "usage": "Wordmark, navigation, headings."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page — a warm neutral that reads as paper.",
+            "usage": "Documentation, marketing pages."
+          },
+          {
+            "name": "Signal",
+            "hex": "#9C3D1F",
+            "meaning": "Single accent — a rust-red used sparingly for marks and emphasis.",
+            "usage": "Section markers, status indicators."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for marketing and documentation.",
+          "secondary": "A clean enterprise grotesque for product UI and tables.",
+          "rationale": "Two-family system. Serif signals seriousness. Sans signals function. Tables and numbers are tabular and disciplined."
         }
       }
     ],
@@ -234,7 +688,13 @@
         "targetAudience": {
           "primary": "25 to 45. Engineers, engineering managers, technical founders. Already use four SaaS tools. Pick tools based on whether the brand feels like the team that built it would actually use it."
         },
-        "brandPersonalityTraits": ["Sharp", "Warm", "Confident", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Sharp",
+          "Warm",
+          "Confident",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Quote the worst pull request title from the week",
@@ -249,11 +709,36 @@
         },
         "logoDirection": "A wordmark in a punchy display sans with the O of ONE stylized as a small subscript pointer, suggesting an array index. Standalone array-index icon for stickers, social profiles, and conference name badges.",
         "colorPalette": [
-          {"name": "Error Red", "hex": "#D72638", "meaning": "Loud, warm, the assertion failure.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Editor Black", "hex": "#0E0E10", "meaning": "Dark IDE.", "usage": "Body type, secondary surfaces, dark mode"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note, the highlighted line.", "usage": "Highlights, social, swag"},
-          {"name": "Deploy Green", "hex": "#3E8E5A", "meaning": "Build passed.", "usage": "Status indicators, charts, success"}
+          {
+            "name": "Error Red",
+            "hex": "#D72638",
+            "meaning": "Loud, warm, the assertion failure.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Editor Black",
+            "hex": "#0E0E10",
+            "meaning": "Dark IDE.",
+            "usage": "Body type, secondary surfaces, dark mode"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Margin note, the highlighted line.",
+            "usage": "Highlights, social, swag"
+          },
+          {
+            "name": "Deploy Green",
+            "hex": "#3E8E5A",
+            "meaning": "Build passed.",
+            "usage": "Status indicators, charts, success"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,8 +746,14 @@
           "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and a little weird."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not an enterprise platform. Not a transformation brand. Not afraid of red. Not too cool to celebrate fixing a typo."},
-          {"title": "Where it lives", "body": "A weekly newsletter that's mostly funny PR titles from the team. Stickers in every welcome envelope. Conference name badges that quote the worst customer-support ticket of the month. A merch line of two tees that say OFF BY ONE across the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not an enterprise platform. Not a transformation brand. Not afraid of red. Not too cool to celebrate fixing a typo."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A weekly newsletter that's mostly funny PR titles from the team. Stickers in every welcome envelope. Conference name badges that quote the worst customer-support ticket of the month. A merch line of two tees that say OFF BY ONE across the back."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -276,7 +767,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "saas-creative-2",
+        "brandName": "SLOW SOFTWARE",
+        "tagline": "We ship when it's ready. We are mostly not ready.",
+        "brandNameRationale": "Two words that say no to the whole genre. Slow Software is the opposite of every value SaaS markets on — fast, real-time, instant, AI-powered. We made the opposing case the name of the company. Reads as a quiet provocation.",
+        "manifesto": "Every software company markets the same way: we are fast, we are getting faster, we are using AI to be even faster. We started Slow Software because the work we want to do — and the work our customers want to do — is not actually faster when the tool is faster. The work is slower. The tool should match.",
+        "industrySummary": "Productivity software has confused speed with quality. The customer who notices the difference is rare, but real, and currently underserved. There is room for a brand that takes the opposite side of every SaaS argument and treats slowness as a feature.",
+        "competitorLandscape": "Cortado (cortado.app), Daylight (daylightcomputer.com), and the Reflect (reflect.app) cohort touch the slow-tech edge. We are louder and more opinionated than any of them — the name is the position.",
+        "positioningStatement": "Slow Software is a workshop building deliberately slow productivity tools — for people who think the speed is the problem.",
+        "positioningRationale": "We make the case for slowness explicit in everything: the name, the manifesto, the release cadence, the support hours. Customers self-select.",
+        "targetAudience": {
+          "primary": "Writers, researchers, designers, and small-team founders who have a complicated relationship with their tools.",
+          "behaviors": [
+            "Read essays about attention.",
+            "Delete apps and re-install them.",
+            "Use paper alongside software.",
+            "Quietly resent their stack."
+          ],
+          "motivations": [
+            "Want a tool that is on their side, not the platform's.",
+            "Want fewer notifications, not more.",
+            "Want to think slower on purpose."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Opinionated",
+          "Patient",
+          "A little contrarian",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Argue the slow case explicitly in copy.",
+            "Publish long essays alongside product updates.",
+            "Email customers a quarterly letter, not a weekly digest.",
+            "Refuse to comp the holidays with a sale."
+          ],
+          "donts": [
+            "No urgency copy.",
+            "No 'AI-powered' anything.",
+            "No livechat support — write longer emails instead.",
+            "No Black Friday."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The case for slowness",
+            "description": "We publish a quarterly essay arguing why slowness is the right answer for the work the customer is trying to do. The essay is the marketing."
+          },
+          {
+            "name": "Quiet releases",
+            "description": "We ship when we are ready. There is no Q3 plan. The changelog is short and arrives without fanfare."
+          },
+          {
+            "name": "Letters, not posts",
+            "description": "Customers get a printed quarterly letter, not a marketing email. The newsletter is on paper. Yes, really."
+          }
+        ],
+        "logoDirection": "A wordmark in a slow-feeling serif — SLOW SOFTWARE set in spaced small caps, with a single horizontal rule beneath, like a chapter heading.",
+        "colorPalette": [
+          {
+            "name": "Manila",
+            "hex": "#E8DFC7",
+            "meaning": "Page — the color of a manila folder.",
+            "usage": "Marketing surfaces, packaging."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type — almost black.",
+            "usage": "All body type and chrome."
+          },
+          {
+            "name": "Stamp",
+            "hex": "#7E2B1F",
+            "meaning": "A single accent — the color of a rubber-stamp ink.",
+            "usage": "Logos, section marks, dropcaps."
+          }
+        ],
+        "typography": {
+          "primary": "A book serif for body, with a slightly old-school texture.",
+          "secondary": "A typewriter mono for chapter headings and product UI.",
+          "rationale": "The brand reads like a slim journal someone has been working on for years. The mono signals a small, hand-built feeling."
+        }
       }
     ]
   }

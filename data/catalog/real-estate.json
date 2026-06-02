@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "30 to 55. Buying their first or second home. Has done the research. Wants an agent who will tell them when a house is wrong for them."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Warm"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the agent, the price, the room count, the year built",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. AT HOME in a soft modern grotesk, all caps, two words on one line. A small geometric mark, a simple door silhouette reduced to two parallel lines, used as the favicon and on every yard sign.",
         "colorPalette": [
-          {"name": "Door Black", "hex": "#101012", "meaning": "Front door at dusk.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Cream", "hex": "#F4F0E6", "meaning": "Used as space. The hall light.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Brick Red", "hex": "#A8313F", "meaning": "Warm anchor, the brick.", "usage": "Accent, web headlines, yard sign accent"}
+          {
+            "name": "Door Black",
+            "hex": "#101012",
+            "meaning": "Front door at dusk.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space. The hall light.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Brick Red",
+            "hex": "#A8313F",
+            "meaning": "Warm anchor, the brick.",
+            "usage": "Accent, web headlines, yard sign accent"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark and headlines",
@@ -37,8 +57,14 @@
           "rationale": "One family. The mono carries the listing data. The regular carries the brand."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No 'dream home' marketing. No staged lifestyle photography. No celebrity-agent partnerships. No 'lifestyle community' branding."},
-          {"title": "Where it lives", "body": "A site that shows the agent's actual face and name on every listing. A yard sign that's quiet. A printed listing book that's the same size as a paperback. No social media beyond a single archive."}
+          {
+            "title": "What it doesn't do",
+            "body": "No 'dream home' marketing. No staged lifestyle photography. No celebrity-agent partnerships. No 'lifestyle community' branding."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A site that shows the agent's actual face and name on every listing. A yard sign that's quiet. A printed listing book that's the same size as a paperback. No social media beyond a single archive."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -50,6 +76,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "real-estate-modern-2",
+        "brandName": "HOME LATER",
+        "tagline": "A brokerage for the long calendar.",
+        "brandNameRationale": "Two words that say the quiet part out loud — most clients are not buying now, they are buying later. We made the timeline the name. It signals patience, slow research, no pressure. The opposite of every brokerage's URGENT/HOT/NEW vocabulary.",
+        "manifesto": "Real estate runs on urgency. New listing! Just hit market! Three offers already! We started Home Later because the urgency is mostly manufactured and the decision is mostly not. The right house is rarely the one you can see today. Most of our work is the year before the purchase. We are happy to be the friend you talk to for twelve months before you actually buy anything.",
+        "industrySummary": "Brokerages compete on listings and speed. There is a smaller opening on the buyer side — a brand that markets to the eighteen months before the purchase and treats long research as the product. Compass-style premium broke ground here; nobody has taken it further.",
+        "competitorLandscape": "Compass (compass.com) defines the upscale modern brokerage. Side (side.com) holds the agent-platform position. The Agency (theagencyre.com) sits in the boutique premium slot. We compete on time horizon, not transaction speed — a different axis entirely.",
+        "positioningStatement": "Home Later is a brokerage that works on the eighteen-month timeline most buyers actually live on.",
+        "positioningRationale": "We bill our patience instead of hiding it. The pre-purchase year is the product: market notes, neighborhood walks, financing prep, off-market intros.",
+        "targetAudience": {
+          "primary": "Buyers 30–55 who have decided they will move within two years but do not feel rushed.",
+          "behaviors": [
+            "Save listings they will not act on for months.",
+            "Walk neighborhoods on weekends.",
+            "Read the local newsletter and zoning notes.",
+            "Have a number in mind and ignore it."
+          ],
+          "motivations": [
+            "Want to learn the market before they move.",
+            "Want an agent who is not pushing them.",
+            "Want to be ready when the right house appears."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Patient",
+          "Considered",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk about time first — 'in about eighteen months'.",
+            "Write monthly neighborhood notes.",
+            "Lead with no-pressure phrases.",
+            "Reference the customer's stated timeline back to them."
+          ],
+          "donts": [
+            "No 'urgency' copy.",
+            "No 'just listed' alerts unless requested.",
+            "No countdown timers on the site.",
+            "No surprise calls about a 'hot new listing'."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The eighteen-month plan",
+            "description": "We start with a written plan for the year-and-a-half before you buy: financing, neighborhoods to walk, market triggers to wait for, sellers to keep an eye on."
+          },
+          {
+            "name": "Neighborhood notes",
+            "description": "Monthly note per neighborhood you are tracking — price moves, what sold, what is sitting, what is coming. Plain numbers, no spin."
+          },
+          {
+            "name": "The right house, not the next house",
+            "description": "We are happy to tell you to wait. Our incentive is the right transaction, not the next one. If we do not have the right house this quarter, the answer is to keep walking."
+          }
+        ],
+        "logoDirection": "A wordmark — HOME LATER set in a clean modern grotesque, slightly wide, with the two words separated by a single dot mark, not stacked. Calm and quiet on a sign or a card.",
+        "colorPalette": [
+          {
+            "name": "Sand",
+            "hex": "#E8DFD0",
+            "meaning": "The page — a warm putty tone.",
+            "usage": "Marketing surfaces, signage."
+          },
+          {
+            "name": "Slate",
+            "hex": "#2B3340",
+            "meaning": "Type and frame.",
+            "usage": "Body type, headings, navigation."
+          },
+          {
+            "name": "Olive",
+            "hex": "#6B7547",
+            "meaning": "A patient accent — the color of a slow-walked neighborhood.",
+            "usage": "Section marks, single CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A modern grotesque, regular weight, slightly wide.",
+          "secondary": "A book serif for the monthly notes and any letter-style content.",
+          "rationale": "The grotesque is the brand. The serif appears only when we are writing to the customer."
         }
       }
     ],
@@ -65,7 +176,13 @@
         "targetAudience": {
           "primary": "Wealthy, often inherited. Owns multiple residences. Values the long advisory relationship more than the brokerage commission. Books decades ahead."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +197,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn doorway hallmark, two vertical lines suggesting a portico, used on letterhead, the brass plaque outside the office, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the office interior.", "usage": "Primary brand color, letterhead, signage"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the plaque outside.", "usage": "Foil, hallmark, accents"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+          {
+            "name": "Library Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, library walls, the office interior.",
+            "usage": "Primary brand color, letterhead, signage"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal, the plaque outside.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body, dividers"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,7 +228,10 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public listings. No website beyond a single address card. No social media presence. No press strategy."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public listings. No website beyond a single address card. No social media presence. No press strategy."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -104,6 +244,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "real-estate-luxury-2",
+        "brandName": "Westbrook & Hale",
+        "tagline": "Private brokerage. Specific houses.",
+        "brandNameRationale": "Two surnames with different rhythms — Westbrook and Hale read as a partnership, not a franchise. We chose uneven syllable lengths so the pair sounds handed-down. Avoids the standard '[Initial] [Initial] Properties' luxury formula.",
+        "story": "Westbrook & Hale was founded as a two-person brokerage handling no more than fourteen transactions a year. The partners walk every listing themselves. The roster is small and grows by referral only. Three of our current sellers were our first sellers.",
+        "industrySummary": "Premium brokerages compete on volume and signage. There is a quieter market for very small firms that take on a deliberately small caseload — fewer than twenty homes a year, handled by the principals.",
+        "competitorLandscape": "Sotheby's International Realty (sothebysrealty.com) is the brand. Christie's International Real Estate (christiesrealestate.com) is the peer. Aaron Kirman Group (aaronkirman.com) holds the LA principal slot. We are smaller than all of them by intention — a partnership, not a brand.",
+        "positioningStatement": "A two-partner brokerage that handles a small number of significant homes per year — personally, slowly, and quietly.",
+        "positioningRationale": "We do not advertise our listings. We do not run an Instagram account. The work is the marketing.",
+        "targetAudience": {
+          "primary": "Owners and buyers of significant primary or secondary residences who value discretion and personal handling.",
+          "behaviors": [
+            "Buy and sell two or three homes in their lifetime.",
+            "Choose brokers by referral.",
+            "Avoid public listings.",
+            "Care about who is in the room at the offer table."
+          ],
+          "motivations": [
+            "Want a principal at the table, not a junior agent.",
+            "Want their transaction handled in private.",
+            "Want a long relationship, not a one-time deal."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign letters by hand.",
+            "Reference specific addresses by year — '37 Linden, sold 2019'.",
+            "Speak in the partners' voice, not in agency voice.",
+            "Send printed correspondence."
+          ],
+          "donts": [
+            "No social media presence.",
+            "No public listing announcements.",
+            "No urgency copy of any kind.",
+            "No team page with twenty headshots."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Fewer than twenty per year",
+            "description": "We accept a small number of mandates and walk every property ourselves. If we are full, we say so."
+          },
+          {
+            "name": "Private listings",
+            "description": "Most of our inventory does not appear publicly. We match buyers and sellers from a held list, by introduction."
+          },
+          {
+            "name": "The partners at the table",
+            "description": "On every transaction, one of the two principals is at the inspection, the offer, the closing. There is no hand-off to a junior agent."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Westbrook & Hale set with a long ampersand in a classical book serif, with no tagline beneath. Reads as a partnership's letterhead.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "The page — a slow off-white.",
+            "usage": "Letters, contracts, the website."
+          },
+          {
+            "name": "Oxblood",
+            "hex": "#5C1F1F",
+            "meaning": "Primary mark — a deep, restrained red.",
+            "usage": "The wordmark, signature elements."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type — dark slate for body.",
+            "usage": "All correspondence type."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and all letterhead.",
+          "secondary": "An old-style serif for body type at a generous size.",
+          "rationale": "Letterpress register. No sans-serif anywhere — the partnership predates them."
         }
       }
     ],
@@ -118,7 +343,12 @@
         "targetAudience": {
           "primary": "Adults who know what they want and want the transaction handled. They don't want a relationship with the brokerage. They want the listing, the offer, the close."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the listing data",
@@ -133,9 +363,24 @@
         },
         "logoDirection": "A wordmark only. DEED in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The yard sign, the website, and the closing folder all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,7 +388,10 @@
           "rationale": "One face. The yard sign, the listing, and the closing folder all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No newsletter. No social media. No celebrity-agent partnerships. No 'lifestyle community' branding. No drone footage."}
+          {
+            "title": "Not this",
+            "body": "No newsletter. No social media. No celebrity-agent partnerships. No 'lifestyle community' branding. No drone footage."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -155,6 +403,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "real-estate-minimal-2",
+        "brandName": "HOUSE",
+        "tagline": "The category, not a brand.",
+        "brandNameRationale": "One word. The category. We named the company after the thing being bought and stopped. The sign on the listing simply says HOUSE. The customer reads it as honest, not blank.",
+        "manifesto": "Real estate brand vocabulary has run away from the thing. Estates, residences, properties, dwellings, opportunities. We made House because the customer is buying a house. The word does the work. The brokerage does the rest.",
+        "industrySummary": "Brokerages compete on adjectives. There is room for a brand that takes the noun and lets the photographs and price do the rest. A minimal brokerage that sounds like a small sign, not a marketing campaign.",
+        "competitorLandscape": "Side (side.com) holds the modern minimal brokerage platform slot. Atelier (atelierproperties.com.au) is a peer in tone. Compass (compass.com) is the upscale-modern reference. We sit below all of them with less language and a smaller surface.",
+        "positioningStatement": "HOUSE is a brokerage that lists houses, plainly.",
+        "positioningRationale": "We strip the brokerage surface to its working parts: a photograph, the address, the price, the agent's number. That is the listing.",
+        "targetAudience": {
+          "primary": "Buyers and sellers who have done this before and are not interested in being courted.",
+          "behaviors": [
+            "Skim the listing photos and read the disclosures.",
+            "Ignore agency tagline copy.",
+            "Pick the agent who answers the call.",
+            "Already have a number in mind."
+          ],
+          "motivations": [
+            "Want the facts, the photos, and the number.",
+            "Want a broker who does not pad the timeline.",
+            "Want a fast, plain process."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Confident",
+          "Unsentimental"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with address, price, square footage.",
+            "Skip flowery property descriptions.",
+            "Use one photograph on the listing card.",
+            "Sign emails with the agent's first name."
+          ],
+          "donts": [
+            "No marketing copy ('charming', 'tucked away', 'must see').",
+            "No virtual tours with music.",
+            "No agent bios.",
+            "No agency mission statement."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Address, price, photo",
+            "description": "Every listing leads with three pieces of information: the address, the asking price, and a single primary photograph. Everything else is below."
+          },
+          {
+            "name": "Plain language",
+            "description": "We describe houses the way an inspector would: bedrooms, bath count, square footage, year, lot size, recent work. No adjectives."
+          },
+          {
+            "name": "One number",
+            "description": "Every listing has one agent and one phone number. The number is on the sign. You call it."
+          }
+        ],
+        "logoDirection": "HOUSE set in a neutral grotesque, all caps, at small scale. Appears the same on the sign as on the contract. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Bone",
+            "hex": "#F3EFE6",
+            "meaning": "Page — an unbleached neutral.",
+            "usage": "Signage, marketing, web."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Brick",
+            "hex": "#7E2B1F",
+            "meaning": "A single accent reserved for the address marker.",
+            "usage": "Address chip on the listing card."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium weights only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface across the sign, the listing, and the contract. The discipline is the brand."
         }
       }
     ],
@@ -175,7 +507,13 @@
             "Reporting that satisfies the board and the audit committee"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the advisory and the execution model",
@@ -189,16 +527,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Advisory across services", "description": "Leasing, capital markets, valuation, and property management under one engagement."},
-          {"name": "Execution discipline", "description": "Transactions delivered against scoped milestones with documented reporting."},
-          {"name": "Reporting that satisfies the board", "description": "Transaction reporting and property performance formatted for institutional investors."}
+          {
+            "name": "Advisory across services",
+            "description": "Leasing, capital markets, valuation, and property management under one engagement."
+          },
+          {
+            "name": "Execution discipline",
+            "description": "Transactions delivered against scoped milestones with documented reporting."
+          },
+          {
+            "name": "Reporting that satisfies the board",
+            "description": "Transaction reporting and property performance formatted for institutional investors."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single rectangular outline with a small horizontal line inside, suggesting a building section. Reads cleanly on a procurement deck, name badge, and quiet investor pitch.",
         "colorPalette": [
-          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, slides"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Heritage accent.", "usage": "Foil on B2B documents, accent"}
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Heritage accent.",
+            "usage": "Foil on B2B documents, accent"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -206,7 +573,10 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and printed property reports."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No residential brokerage. No retail listings. No celebrity-agent partnerships. The firm sells through institutional and corporate procurement."}
+          {
+            "title": "What it doesn't do",
+            "body": "No residential brokerage. No retail listings. No celebrity-agent partnerships. The firm sells through institutional and corporate procurement."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -219,6 +589,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "real-estate-corporate-2",
+        "brandName": "Brennan Realty Partners",
+        "tagline": "Full-service brokerage and property management.",
+        "brandNameRationale": "A common Irish surname plus the established category and a partner structure. Brennan reads as principal-led. Partners signals shared accountability. The pair feels like a regional brokerage with thirty years of records on file.",
+        "manifesto": "Brennan Realty Partners is a regional, full-service brokerage that handles residential and small-commercial transactions, plus ongoing property management. The work is unglamorous and steady. The team is mostly people who grew up here. The relationship outlasts the transaction.",
+        "industrySummary": "Mid-market regional brokerages are losing share to national platforms on the marketing side but holding on the management side. The opening is for a serious regional brand that competes on relationship and operational depth.",
+        "competitorLandscape": "Coldwell Banker (coldwellbanker.com) is the national legacy reference. Berkshire Hathaway HomeServices (bhhs.com) is the peer. Local independents make up the floor. We sit in the regional principal-led slot with operational depth on management.",
+        "positioningStatement": "A principal-led regional brokerage with full-service property management — residential and small-commercial.",
+        "positioningRationale": "We compete on tenure, local knowledge, and the depth of our management practice. The brokerage is the front door; the management practice is the building.",
+        "targetAudience": {
+          "primary": "Homeowners, small landlords, and small-commercial owners in our region — typically with a multi-decade horizon.",
+          "behaviors": [
+            "Own two to twelve units.",
+            "Have an accountant they keep on retainer.",
+            "Renew with the same vendors for years.",
+            "Read the local paper."
+          ],
+          "motivations": [
+            "Want one broker for the long arc — buying, leasing, managing, selling.",
+            "Want a name on the door.",
+            "Want their broker to know the building, not just the listing."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Reliable",
+          "Local",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the principal's name in correspondence.",
+            "Reference the year the firm was established.",
+            "Use straight, plain documentation.",
+            "Send annual portfolio reviews."
+          ],
+          "donts": [
+            "No franchise-style boilerplate.",
+            "No national-network logos on local materials.",
+            "No social-media-first listings.",
+            "No team page with twenty smiling headshots."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Brokerage",
+            "description": "Residential and small-commercial listings across the region. Listed under the principal's name, with one agent assigned through close."
+          },
+          {
+            "name": "Property management",
+            "description": "Full-service management on owner-held buildings: leasing, maintenance, accounting, capital planning. Monthly statement, annual review."
+          },
+          {
+            "name": "The long view",
+            "description": "We do not chase the transaction. Owners stay with us for fifteen, twenty, thirty years. The brokerage is the front door to the relationship."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Brennan set in a traditional book serif, with 'Realty Partners' beneath in tracked small caps. Reads as a regional firm's letterhead.",
+        "colorPalette": [
+          {
+            "name": "Navy",
+            "hex": "#1F2A40",
+            "meaning": "Primary — the navy of established regional firms.",
+            "usage": "Wordmark, headings, signage."
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documentation, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Accent — used the way a brass nameplate is used.",
+            "usage": "Section marks, signatures."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for letterhead and marketing.",
+          "secondary": "A clean enterprise grotesque for documents and statements.",
+          "rationale": "Two-family system. Serif on the door. Sans on the spreadsheet."
         }
       }
     ],
@@ -234,7 +689,13 @@
         "targetAudience": {
           "primary": "30 to 55. Looking for a first or second home. Has watched a renovation show. Wants the house with character, not the new build with a kitchen island."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Direct", "Playful", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Direct",
+          "Playful",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Tell the truth about the work",
@@ -249,11 +710,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the O of BONES stylized as a small filled circle (suggesting a doorknob or a keyhole). Standalone door-knob icon for yard signs, stickers, and social profiles.",
         "colorPalette": [
-          {"name": "Brick Red", "hex": "#A8313F", "meaning": "Old brick, the warm structure.", "usage": "Primary brand color, hero surfaces, yard signs"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background, the original plaster.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Oak Brown", "hex": "#5A3E20", "meaning": "Old wood floors.", "usage": "Secondary surfaces, accents"},
-          {"name": "Sage", "hex": "#A6B49A", "meaning": "Vintage paint color, the kitchen cabinet.", "usage": "Accent, swag, social"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"}
+          {
+            "name": "Brick Red",
+            "hex": "#A8313F",
+            "meaning": "Old brick, the warm structure.",
+            "usage": "Primary brand color, hero surfaces, yard signs"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background, the original plaster.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Oak Brown",
+            "hex": "#5A3E20",
+            "meaning": "Old wood floors.",
+            "usage": "Secondary surfaces, accents"
+          },
+          {
+            "name": "Sage",
+            "hex": "#A6B49A",
+            "meaning": "Vintage paint color, the kitchen cabinet.",
+            "usage": "Accent, swag, social"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,8 +747,14 @@
           "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a new-build brokerage. Not a luxury brand. Not afraid of carpet that needs to come up. Not too cool to celebrate the original windows."},
-          {"title": "Where it lives", "body": "Listings that show every honest flaw. Yard signs that look like real signs. A monthly newsletter with one renovation story from a real buyer. A merch line of two tees that say GOOD BONES across the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not a new-build brokerage. Not a luxury brand. Not afraid of carpet that needs to come up. Not too cool to celebrate the original windows."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Listings that show every honest flaw. Yard signs that look like real signs. A monthly newsletter with one renovation story from a real buyer. A merch line of two tees that say GOOD BONES across the back."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -276,7 +768,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "real-estate-creative-2",
+        "brandName": "NEW KEYS",
+        "tagline": "The moment, not the listing.",
+        "brandNameRationale": "Two words that name the small moment everyone in real estate is actually working toward — the keys handed over on the doorstep. We picked the end of the process instead of the beginning. Reads as warm and slightly cinematic.",
+        "manifesto": "Most brokerages name themselves after grand things — estates, premier, prestige, summit. We made New Keys because the actual best part of the job is the day the buyer steps inside the empty house and the new keys are in their hand. That is the moment. We named the brand after it.",
+        "industrySummary": "Real estate marketing trades in adjectives and aspiration. There is room for a brand that trades in the specific moment of the transaction — the doorstep, the keys, the first night. A brokerage that feels more like a documentary crew than a sales team.",
+        "competitorLandscape": "@properties (atproperties.com) holds the modern-brand brokerage slot. Engel & Völkers (engelvoelkers.com) is the European-modern peer. Block Three Sixty (block360.com.au) plays in the warm-creative space. We are sharper and more specific — the moment, not the lifestyle.",
+        "positioningStatement": "New Keys is a brokerage that documents the moment a house becomes a home — and works backwards from there.",
+        "positioningRationale": "The brand is the moment of the handover. Every other piece of the practice — marketing, photography, listing copy — is reverse-engineered from that frame.",
+        "targetAudience": {
+          "primary": "First and second-time buyers 28–45 who are buying a primary residence and want the process to feel human.",
+          "behaviors": [
+            "Save photos of empty rooms with light coming in.",
+            "Read first-night-in-a-new-house essays.",
+            "Want a story to tell about how they bought it.",
+            "Care about the small ritual."
+          ],
+          "motivations": [
+            "Want a brokerage that treats the purchase as personal.",
+            "Want photographs of the empty house, not the staged one.",
+            "Want the day to feel like something they will remember."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Cinematic",
+          "Patient",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write in scenes — 'the kettle on the counter, the keys on the windowsill'.",
+            "Photograph the empty house at handover.",
+            "Send a small ritual gift on the move-in day.",
+            "Use first names throughout."
+          ],
+          "donts": [
+            "No 'luxury' or 'estate' language.",
+            "No drone footage.",
+            "No exclamation points in listings.",
+            "No corporate sign-off."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The handover frame",
+            "description": "Every closed sale ends with a photograph of the keys on the kitchen counter of the empty house, taken by the agent. The image lives on the listing forever."
+          },
+          {
+            "name": "The first night",
+            "description": "We send a small box on move-in day: a candle, a kettle, a folded note from the agent. It is the only marketing we do."
+          },
+          {
+            "name": "Slow listings",
+            "description": "Every listing has a long-form scene-set written by the agent — what the house feels like at 7am, where the light comes from, what the kitchen smells like in winter."
+          }
+        ],
+        "logoDirection": "A small key symbol made from two simple geometric strokes, set beside the wordmark NEW KEYS in a quiet display serif. The key is just suggested, not drawn.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#F0EADC",
+            "meaning": "Page — a doorstep-light off-white.",
+            "usage": "Marketing, packaging."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Primary accent — the color of a new key.",
+            "usage": "Wordmark, key icon, single CTAs."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headlines."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for headlines and scene-sets.",
+          "secondary": "A modern grotesque for working type.",
+          "rationale": "The serif tells the story. The sans does the work."
+        }
       }
     ]
   }

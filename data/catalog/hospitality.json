@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "30 to 50. Travels for work and pleasure. Already books boutique hotels by default. Reads the reviews. Will pay more for a hotel with a real bar and a single page menu."
         },
-        "brandPersonalityTraits": ["Considered", "Warm", "Modern", "Confident"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Warm",
+          "Modern",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Name the rooms by number, not by theme",
@@ -27,10 +32,30 @@
         },
         "logoDirection": "A wordmark only. NIGHT & DAY in a tight modern grotesk, all caps, three short marks on one line. A standalone moon-and-sun monogram, reduced to two thin crescents, for app icons, key cards, and signage.",
         "colorPalette": [
-          {"name": "Night Blue", "hex": "#162236", "meaning": "Hotel bar at midnight. The deep half of the day.", "usage": "Primary surface, signage, dark mode"},
-          {"name": "Day Cream", "hex": "#F4EFE2", "meaning": "Breakfast linen. Used as space.", "usage": "Backgrounds, paper, light surfaces"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Lamp, key, the door number.", "usage": "Hardware, foil, accents"},
-          {"name": "Lobby Red", "hex": "#A8313F", "meaning": "Carpet, banquette, a single warm note.", "usage": "Secondary brand, hospitality accents"}
+          {
+            "name": "Night Blue",
+            "hex": "#162236",
+            "meaning": "Hotel bar at midnight. The deep half of the day.",
+            "usage": "Primary surface, signage, dark mode"
+          },
+          {
+            "name": "Day Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Breakfast linen. Used as space.",
+            "usage": "Backgrounds, paper, light surfaces"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Lamp, key, the door number.",
+            "usage": "Hardware, foil, accents"
+          },
+          {
+            "name": "Lobby Red",
+            "hex": "#A8313F",
+            "meaning": "Carpet, banquette, a single warm note.",
+            "usage": "Secondary brand, hospitality accents"
+          }
         ],
         "typography": {
           "primary": "Tiempos Headline for the wordmark and major signage",
@@ -38,8 +63,14 @@
           "rationale": "A high contrast serif sets the heritage register modern hotels lean on. A modern grotesk handles operational signage and the booking site."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No themed rooms. No lobby muzak. No turndown chocolates. No 'wellness experiences' bolted onto the spa. No loyalty programs."},
-          {"title": "Where it lives", "body": "A small bar that's open to the public. A breakfast menu on a single sheet of paper. A bookable site that loads in under a second. Room cards printed letterpress with the room number and the Wi-Fi password."}
+          {
+            "title": "What it doesn't do",
+            "body": "No themed rooms. No lobby muzak. No turndown chocolates. No 'wellness experiences' bolted onto the spa. No loyalty programs."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A small bar that's open to the public. A breakfast menu on a single sheet of paper. A bookable site that loads in under a second. Room cards printed letterpress with the room number and the Wi-Fi password."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -51,6 +82,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "hospitality-modern-2",
+        "brandName": "STAY OVER",
+        "tagline": "A hotel, not a concept.",
+        "brandNameRationale": "Two words spoken in the voice of an old friend with a guest room. Stay Over is a phrase, not a property name. It tells the guest what they are doing here and what the relationship is. Reads more like a text message than a marketing line.",
+        "manifesto": "Modern hotels have started to feel like apartments designed by a committee. Stay Over is a small group of properties run on the opposite premise — the room is set up the way an experienced host's guest room would be set up, with the things you forgot and the things you wished for. The brand is the guest room, not the lobby.",
+        "industrySummary": "Modern boutique hotels have converged on a single aesthetic — soft modernism, plant, low lighting. The market is over-served on style and under-served on warmth. There is room for a brand that competes on hosting craft, not interior design.",
+        "competitorLandscape": "ACE Hotel (acehotel.com) defined the modern boutique. Standard (standardhotels.com) holds the playful slot. Citizen M (citizenm.com) sits in the modern-functional position. We compete on hosting feel — closer to a friend's guest room than a designer's lobby.",
+        "positioningStatement": "Stay Over is a small group of modern hotels run with the warmth of a well-prepared guest room.",
+        "positioningRationale": "We invest in the room and the welcome, not the lobby. The product is the night, not the public space.",
+        "targetAudience": {
+          "primary": "Travelers 28–50 visiting friends, family, or working a few days in town.",
+          "behaviors": [
+            "Book direct, not through aggregators.",
+            "Send a screenshot of the room to a friend on arrival.",
+            "Re-book the same hotel in different cities.",
+            "Avoid lobbies."
+          ],
+          "motivations": [
+            "Want a room that feels like a friend prepared it.",
+            "Want to feel known, not processed.",
+            "Want to leave the lobby behind."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Modern",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use plain, hosting language — 'the kettle is by the window'.",
+            "Email a short, written welcome the day before arrival.",
+            "Mention the small things — the lamp, the towels, the coffee.",
+            "Sign messages with the manager's first name."
+          ],
+          "donts": [
+            "No 'experience' or 'destination' language.",
+            "No lobby-led marketing.",
+            "No corporate sign-off on welcome notes.",
+            "No price banners on the home page."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The room is the product",
+            "description": "Every room has the things a thoughtful host would put out: a kettle, a small lamp, a folded blanket, a paper note about the neighborhood, the number of the manager."
+          },
+          {
+            "name": "Hosted, not staffed",
+            "description": "Each property has a small permanent team that lives nearby. The same names are on the welcome note all year."
+          },
+          {
+            "name": "Direct only",
+            "description": "We do not list on aggregators. The site is the booking. The site is honest about which rooms are good and which are quiet."
+          }
+        ],
+        "logoDirection": "A wordmark — STAY OVER set in a calm modern grotesque, all caps, with a small bracket mark wrapped around it like quotation. Reads as a phrase, not a name.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page and rooms — a warm putty.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Lamp",
+            "hex": "#C7944A",
+            "meaning": "Accent — the color of a warm bedside lamp.",
+            "usage": "Wordmark, single CTAs."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and signage."
+          }
+        ],
+        "typography": {
+          "primary": "A modern grotesque for the wordmark and signage.",
+          "secondary": "A small-caps serif for room numbers and welcome notes.",
+          "rationale": "The sans does the building. The serif does the welcome."
         }
       }
     ],
@@ -66,7 +182,13 @@
         "targetAudience": {
           "primary": "Wealthy. Often inherited. Spends weekends in the country. Books the same house every year. Values the staff knowing the family's names without being told."
         },
-        "brandPersonalityTraits": ["Refined", "Quiet", "Patient", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Quiet",
+          "Patient",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the guest by surname",
@@ -81,10 +203,30 @@
         },
         "logoDirection": "A classical serif wordmark. Stonebridge Hall set with elegant ligatures and wide tracking. A small estate-crest hallmark, two horizontal lines suggesting a heraldic chief, used on letterhead, the wax seal of every paper letter, and the brass plaque outside the gatehouse.",
         "colorPalette": [
-          {"name": "Estate Green", "hex": "#1E3A30", "meaning": "Old growth woodland, the avenue of trees up to the house.", "usage": "Primary brand color, signage, livery"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "The walls of the house. The gravel drive.", "usage": "Backgrounds, paper, secondary surfaces"},
-          {"name": "Cream", "hex": "#EFE9DB", "meaning": "Linen napkins, hand-laid paper.", "usage": "Stationery, packaging, paper"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The hardware on every door.", "usage": "Foil, hardware, accents"}
+          {
+            "name": "Estate Green",
+            "hex": "#1E3A30",
+            "meaning": "Old growth woodland, the avenue of trees up to the house.",
+            "usage": "Primary brand color, signage, livery"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "The walls of the house. The gravel drive.",
+            "usage": "Backgrounds, paper, secondary surfaces"
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Linen napkins, hand-laid paper.",
+            "usage": "Stationery, packaging, paper"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The hardware on every door.",
+            "usage": "Foil, hardware, accents"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -92,7 +234,10 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few necessary digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No third-party booking platforms. No public price list. No press tour. No spa packages. No event bookings."}
+          {
+            "title": "What it doesn't do",
+            "body": "No third-party booking platforms. No public price list. No press tour. No spa packages. No event bookings."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -105,6 +250,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "hospitality-luxury-2",
+        "brandName": "The Calder",
+        "tagline": "A house, not a hotel.",
+        "brandNameRationale": "Single proper name with the definite article — the classic naming convention for a small significant property. Calder is a slightly literary surname that sounds like it belongs on a brass plate. The 'The' does the work of signaling singular property, not chain.",
+        "story": "The Calder is a fourteen-room property in a converted nineteenth-century house, run by a small permanent team. The same family has owned it for three generations. Most guests are repeat guests. The house is closed for two weeks every January for maintenance.",
+        "industrySummary": "Premium hotel groups have grown into recognizable cohorts. There is a quieter market for single-property houses — fourteen to thirty rooms, single ownership, no signage, run with the discretion of a private residence.",
+        "competitorLandscape": "The Connaught (the-connaught.co.uk) sets the bar for old-house luxury. Aman (aman.com) holds the modern peer position. The Newt (thenewtinsomerset.com) is the country-house reference. We belong with single-property houses, not with collections.",
+        "positioningStatement": "The Calder is a single property, run as a house — fourteen rooms, one team, one family.",
+        "positioningRationale": "We do not expand. The product is the singular building. The renewal is the relationship with the staff, not the visit to a brand.",
+        "targetAudience": {
+          "primary": "Returning guests and small-circle travelers who choose hotels by reputation, not category.",
+          "behaviors": [
+            "Book direct by phone.",
+            "Know the name of the manager.",
+            "Choose the same room each visit.",
+            "Travel with a small bag."
+          ],
+          "motivations": [
+            "Want a property that does not market itself.",
+            "Want a relationship with the staff.",
+            "Want a single, well-kept building."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign correspondence by hand.",
+            "Refer to the rooms by name, not number.",
+            "Speak in the staff's voice, not in marketing voice.",
+            "Send a printed annual newsletter to past guests."
+          ],
+          "donts": [
+            "No social-media presence.",
+            "No promotional pricing.",
+            "No 'experience' or 'collection' language.",
+            "No website carousel of stock photographs."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One building",
+            "description": "We are one property. We will not expand. The fourteen rooms are the product, indefinitely."
+          },
+          {
+            "name": "The permanent staff",
+            "description": "The same team has been at the house for years. Guests know the names. The staff knows the guests."
+          },
+          {
+            "name": "Closed in January",
+            "description": "We close for two weeks each January to do the work properly. The closing dates are published a year ahead."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Calder set in a classical book serif, with the property's coat-of-arms-style mark beside it. The mark appears in brass on the front door and in ink on the letterhead.",
+        "colorPalette": [
+          {
+            "name": "Oxblood",
+            "hex": "#5C1F1F",
+            "meaning": "Primary — a deep, considered red.",
+            "usage": "Wordmark, signature elements."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page — a slow off-white.",
+            "usage": "Stationery, marketing."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type — dark slate for body.",
+            "usage": "All correspondence type."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and all letterhead.",
+          "secondary": "An old-style serif for body, set at a generous size.",
+          "rationale": "Letterpress register throughout. No sans-serif in any guest-facing material."
         }
       }
     ],
@@ -119,7 +349,12 @@
         "targetAudience": {
           "primary": "Adults who travel and don't want a relationship with the hotel. They want to sleep, shower, and leave. They will pay fairly for the room and resent paying for anything else."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Quiet", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Quiet",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the room and the price",
@@ -134,9 +369,24 @@
         },
         "logoDirection": "A wordmark only. ROOM & KEY in a single weight grotesk, wide kerned, all caps. No icon. The room card has the wordmark, the room number, and the Wi-Fi. The receipt has the date and the price. That is the whole system.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, room cards, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Hardware, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, room cards, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Hardware, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -144,7 +394,10 @@
           "rationale": "One face. The room card and the website have the same wordmark, the same type, the same nothing."
         },
         "customSections": [
-          {"title": "Not this", "body": "No spa. No restaurant. No bar. No gym. No loyalty program. No newsletter. No app."}
+          {
+            "title": "Not this",
+            "body": "No spa. No restaurant. No bar. No gym. No loyalty program. No newsletter. No app."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -156,6 +409,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "hospitality-minimal-2",
+        "brandName": "ROOM",
+        "tagline": "The thing you are booking.",
+        "brandNameRationale": "One word. The unit of the transaction. The guest is not booking an experience, a stay, a getaway — they are booking a room. We named the brand after the actual thing. Reads as honest, slightly dry.",
+        "manifesto": "Hotel marketing has confused itself. Stays, experiences, escapes, retreats. Room is a hotel brand for people who just want to book a room. The site shows the room. The price is the price. The booking confirmation is one line.",
+        "industrySummary": "The minimal-functional hotel category — Yotel, Citizen M — has been built around airports and city stops. Nobody has built a minimal hotel brand at a leisure scale. There is room for that.",
+        "competitorLandscape": "Citizen M (citizenm.com) holds the modern minimal slot. Pod Hotels (podhotels.com) is the urban peer. Muji Hotel (hotel.muji.com) is the design reference. We sit further out — flatter, more literal, no design vocabulary.",
+        "positioningStatement": "ROOM is a hotel chain that books rooms — plainly, at a fair price, with no marketing in between.",
+        "positioningRationale": "We strip the booking process and the public-area surface. The room is the product. The price is the only number that matters.",
+        "targetAudience": {
+          "primary": "Travelers who book a hotel the way they book a flight — for the night.",
+          "behaviors": [
+            "Compare price and location.",
+            "Skip the photo carousel.",
+            "Want the booking process under two minutes.",
+            "Do not eat in the hotel restaurant."
+          ],
+          "motivations": [
+            "Want a clean, fair room at a known price.",
+            "Want no upsells.",
+            "Want to skip the marketing and book."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the room. Show the price. Show the address. That is the listing.",
+            "Use one photograph per room type.",
+            "Confirm bookings in one line.",
+            "Sign emails with the property's name only."
+          ],
+          "donts": [
+            "No 'experience' copy.",
+            "No carousel of staged shots.",
+            "No upsell to a bigger room at checkout.",
+            "No 'loyalty program'."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One room type per property",
+            "description": "Each property has one or two room types. We do not offer ten tiers. The choice is the room or the bigger room."
+          },
+          {
+            "name": "One price",
+            "description": "Published, fixed. No dynamic pricing. The price you see today is the price next Tuesday."
+          },
+          {
+            "name": "One photograph",
+            "description": "Each room is shown in one daylight photograph. That is the room. The site is honest."
+          }
+        ],
+        "logoDirection": "ROOM set in a neutral grotesque, all caps, at small scale. Appears the same on the door, the key card, and the receipt. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Bone",
+            "hex": "#F3EFE6",
+            "meaning": "Page and rooms — an unbleached neutral.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and chrome.",
+            "usage": "All copy and signage."
+          },
+          {
+            "name": "Tag",
+            "hex": "#3D5BFF",
+            "meaning": "A single accent for the price marker.",
+            "usage": "Booking price chip, primary action."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium weights only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface across the booking, the receipt, and the door sign."
         }
       }
     ],
@@ -176,7 +513,13 @@
             "Reporting that holds up under investor scrutiny"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with operating discipline",
@@ -190,16 +533,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Operations at scale", "description": "Centralized procurement, finance, technology, and HR across a portfolio of independent properties."},
-          {"name": "Property-level branding", "description": "Each property keeps its own identity. We operate behind the scenes."},
-          {"name": "Owner-aligned reporting", "description": "Monthly P&L, quarterly portfolio reviews, and ESG reporting formatted for investor diligence."}
+          {
+            "name": "Operations at scale",
+            "description": "Centralized procurement, finance, technology, and HR across a portfolio of independent properties."
+          },
+          {
+            "name": "Property-level branding",
+            "description": "Each property keeps its own identity. We operate behind the scenes."
+          },
+          {
+            "name": "Owner-aligned reporting",
+            "description": "Monthly P&L, quarterly portfolio reviews, and ESG reporting formatted for investor diligence."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single cliff silhouette reduced to two horizontal strokes at different elevations. Reads cleanly on a procurement deck, name badge, and investor pitch book.",
         "colorPalette": [
-          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, capital, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Hospitality accent. Used sparingly.", "usage": "Highlights, foil on B2B documents"}
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, capital, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Hospitality accent. Used sparingly.",
+            "usage": "Highlights, foil on B2B documents"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -207,7 +579,10 @@
           "rationale": "Inter scales clean across digital. The serif handles formal investor reports and printed property portfolios."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No consumer-facing brand. No loyalty programs. No celebrity hotel partnerships. The firm sells through hotel owners and institutional investors, not Instagram travel."}
+          {
+            "title": "What it doesn't do",
+            "body": "No consumer-facing brand. No loyalty programs. No celebrity hotel partnerships. The firm sells through hotel owners and institutional investors, not Instagram travel."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -220,6 +595,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "hospitality-corporate-2",
+        "brandName": "Lockhart Hospitality Group",
+        "tagline": "Hotel and serviced apartment operations, mid-market.",
+        "brandNameRationale": "Lockhart is a surname with an operational, slightly Scottish register. Hospitality Group signals the category and the holding structure. Reads as a portfolio operator with several properties under management, not a single brand.",
+        "manifesto": "Lockhart operates a portfolio of mid-market hotels and serviced apartments. The buyer is an institutional owner or a family office holding the real estate. We run the front-of-house and the operations under a single management contract. The properties keep their own names; we keep them full.",
+        "industrySummary": "Hotel ownership and operation are increasingly separated. Owners hold the real estate; operators run the property. The mid-market has consolidated around a few large brand operators; the opening is for a serious mid-vendor with operational depth and discretion.",
+        "competitorLandscape": "Aimbridge Hospitality (aimbridgehospitality.com) is the U.S. reference. Interstate (interstatehotels.com) is the peer. HighGate (highgate.com) sits in the institutional-operator slot. We belong in the regional mid-market operator category.",
+        "positioningStatement": "Lockhart Hospitality Group is a regional management company operating mid-market hotels and serviced apartments under owner-held brands.",
+        "positioningRationale": "Owners outsource operations to us; the property keeps its identity. We compete on operational metrics — RevPAR, GOP, payroll efficiency — not on brand glamor.",
+        "targetAudience": {
+          "primary": "Institutional owners, family offices, and small REITs holding 1–20 mid-market hospitality properties.",
+          "behaviors": [
+            "Review monthly P&L by property.",
+            "Sit on quarterly owner committees.",
+            "Care about RevPAR index and payroll percentage.",
+            "Renew operating contracts on five-year cycles."
+          ],
+          "motivations": [
+            "Want an operator with deep mid-market experience.",
+            "Want monthly reporting they can defend to their LPs.",
+            "Want to keep the property's brand and identity intact."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Discreet",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with operating numbers.",
+            "Speak in the language of asset management.",
+            "Publish quarterly performance updates to owners.",
+            "Refer to properties by name, not by Lockhart brand."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No brand presence at the properties.",
+            "No public commentary on owner relationships.",
+            "No social media."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Operations under contract",
+            "description": "We take on management of existing properties — front office, housekeeping, F&B, maintenance, finance — under a single contract. Owners keep the real estate and the brand."
+          },
+          {
+            "name": "Reporting owners can defend",
+            "description": "Monthly P&L with variance analysis, quarterly owner reviews, annual capital planning. Reports designed for investment committees, not for staff."
+          },
+          {
+            "name": "Quiet portfolio",
+            "description": "We do not publicize our property list. The owner's brand is on the door. Our name is in the contract."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Lockhart set in a traditional book serif, with 'Hospitality Group' beneath in tracked small caps. Only used on contracts, owner reports, and the management office door.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary — a deep navy-slate.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing collateral."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Accent — sparingly, on the wordmark mark.",
+            "usage": "Signature elements only."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and owner-facing letters.",
+          "secondary": "A clean enterprise grotesque for reports, tables, and financials.",
+          "rationale": "Tables are tabular and disciplined. Numbers are larger than adjectives."
         }
       }
     ],
@@ -235,7 +695,13 @@
         "targetAudience": {
           "primary": "25 to 40. Travels frequently for work and music and culture. Books boutique hotels. Stays up late. Drinks at the bar. Doesn't use the gym."
         },
-        "brandPersonalityTraits": ["Loud", "Warm", "Confident", "Sharp", "Friendly"],
+        "brandPersonalityTraits": [
+          "Loud",
+          "Warm",
+          "Confident",
+          "Sharp",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about hotel weirdness",
@@ -250,11 +716,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the M of MANAGER stylized as a small flame or candle, suggesting late-hour wakefulness. Standalone candle-flame icon for key cards, social profiles, and hotel matchbooks.",
         "colorPalette": [
-          {"name": "Night Red", "hex": "#D72638", "meaning": "Loud, warm, the EXIT sign.", "usage": "Primary brand color, key cards, signage"},
-          {"name": "Lamp Yellow", "hex": "#FFD23F", "meaning": "The desk lamp at 3 a.m.", "usage": "Accent, social, swag"},
-          {"name": "Night Black", "hex": "#0E0E10", "meaning": "Anchor. The corridor.", "usage": "Body type, secondary surfaces"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm space.", "usage": "Backgrounds, paper, room cards"},
-          {"name": "Lobby Pink", "hex": "#FF4D8D", "meaning": "Neon. The bar sign.", "usage": "Highlights, social hero"}
+          {
+            "name": "Night Red",
+            "hex": "#D72638",
+            "meaning": "Loud, warm, the EXIT sign.",
+            "usage": "Primary brand color, key cards, signage"
+          },
+          {
+            "name": "Lamp Yellow",
+            "hex": "#FFD23F",
+            "meaning": "The desk lamp at 3 a.m.",
+            "usage": "Accent, social, swag"
+          },
+          {
+            "name": "Night Black",
+            "hex": "#0E0E10",
+            "meaning": "Anchor. The corridor.",
+            "usage": "Body type, secondary surfaces"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm space.",
+            "usage": "Backgrounds, paper, room cards"
+          },
+          {
+            "name": "Lobby Pink",
+            "hex": "#FF4D8D",
+            "meaning": "Neon. The bar sign.",
+            "usage": "Highlights, social hero"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -262,8 +753,14 @@
           "rationale": "Migra has personality and warmth. Neue Montreal handles the room cards and operational text. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a luxury hotel brand. Not a hostel. Not a wellness retreat. Not afraid of red. Not too cool to keep a real bar."},
-          {"title": "Where it lives", "body": "Matchbooks at the front desk. Key cards with the worst guest request as the design. A printed in-room magazine that's mostly funny essays. A bar that's open later than every other bar in the neighborhood."}
+          {
+            "title": "What it isn't",
+            "body": "Not a luxury hotel brand. Not a hostel. Not a wellness retreat. Not afraid of red. Not too cool to keep a real bar."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Matchbooks at the front desk. Key cards with the worst guest request as the design. A printed in-room magazine that's mostly funny essays. A bar that's open later than every other bar in the neighborhood."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -277,7 +774,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "hospitality-creative-2",
+        "brandName": "GOOD NIGHT",
+        "tagline": "Two words. One promise.",
+        "brandNameRationale": "Two words said at the door of every hotel room since hotels have existed. We made the line the name. Reads as warm, slightly cinematic, with built-in instructions for the staff.",
+        "manifesto": "We started Good Night because the entire job of a hotel is the night. The lobby is decoration. The brand is decoration. The night is the product. Every room is set up around one promise — that the guest sleeps well. The pillow, the blackout, the temperature, the silence. The rest is window dressing.",
+        "industrySummary": "Hotel brands have over-invested in lobbies, daytime amenities, and rooftop bars. Sleep, the actual product, is treated as a baseline. There is a real opening for a brand that takes the opposite view and competes on night quality.",
+        "competitorLandscape": "Equinox Hotels (equinox-hotels.com) touches the wellness-sleep narrative. Six Senses (sixsenses.com) holds the high-end wellness slot. Westin Heavenly Bed marketing was the first to claim the sleep position. We are sharper and more singular — the sleep is the brand, not the amenity.",
+        "positioningStatement": "Good Night is a hotel brand built entirely around the night — the pillow, the silence, the temperature.",
+        "positioningRationale": "Every decision in every property is measured against one metric: did the guest sleep well? The lobby exists to support the night. The brand voice exists to support the night.",
+        "targetAudience": {
+          "primary": "Travelers 30–55 who are tired and notice the difference a good night makes.",
+          "behaviors": [
+            "Pack their own pillow.",
+            "Read reviews for noise and blackout.",
+            "Travel for work more than they want to.",
+            "Wake early."
+          ],
+          "motivations": [
+            "Want a hotel that takes sleep seriously.",
+            "Want a dark, quiet room and good bedding.",
+            "Want to wake feeling like they slept."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk about pillows, blackout, temperature, by spec.",
+            "Write the welcome note as a goodnight note.",
+            "Send a thank-you email the morning after, not a survey.",
+            "Use the brand line — 'Good night' — wherever a sign-off is needed."
+          ],
+          "donts": [
+            "No lobby-led marketing.",
+            "No 'lifestyle' photography.",
+            "No daytime-amenity messaging in the brand voice.",
+            "No social-media-first launches."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Engineered for night",
+            "description": "Triple-glazed windows, blackout to 99.5%, room temperature held within half a degree, mattress and pillow specified per room. Published specs."
+          },
+          {
+            "name": "The goodnight note",
+            "description": "Every guest gets a handwritten goodnight note on the pillow with the manager's first name. The morning email asks one question: did you sleep?"
+          },
+          {
+            "name": "Day is secondary",
+            "description": "We do not run a destination restaurant. The lobby is a corridor. The hotel exists for the night and is honest about that."
+          }
+        ],
+        "logoDirection": "A wordmark — GOOD NIGHT set in a quiet display serif, with a tiny crescent mark instead of an apostrophe. Reads as a sign-off, not a brand.",
+        "colorPalette": [
+          {
+            "name": "Night",
+            "hex": "#1B2030",
+            "meaning": "Primary — a deep, quiet navy.",
+            "usage": "Wordmark, signage, bedding."
+          },
+          {
+            "name": "Lamp",
+            "hex": "#C7944A",
+            "meaning": "Accent — the color of the bedside lamp left on.",
+            "usage": "Single details, the crescent mark."
+          },
+          {
+            "name": "Linen",
+            "hex": "#F2EDDF",
+            "meaning": "Page and sheets — an honest off-white.",
+            "usage": "Stationery, marketing."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and welcome notes.",
+          "secondary": "A modern grotesque for working type and signage.",
+          "rationale": "The serif speaks. The sans labels. Most of the brand surface is unlit."
+        }
       }
     ]
   }
