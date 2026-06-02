@@ -13,7 +13,13 @@
         "targetAudience": {
           "primary": "28 to 50. Has insurance but doesn't trust it to be transparent. Already pays for at least one premium consumer health app. Wants the doctor visit to feel like booking a flight, not like applying for a mortgage."
         },
-        "brandPersonalityTraits": ["Direct", "Modern", "Honest", "Trustworthy", "Calm"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Honest",
+          "Trustworthy",
+          "Calm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the price next to the service",
@@ -28,9 +34,24 @@
         },
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is an open square, three sides of a rectangle suggesting an open door. The mark and the wordmark work together on the front of the clinic, in the app, and on the prescription label.",
         "colorPalette": [
-          {"name": "Open Navy", "hex": "#102236", "meaning": "Trust without sterility.", "usage": "Wordmark, primary surface"},
-          {"name": "Bone", "hex": "#F4F1EA", "meaning": "Clean and warm.", "usage": "Background, paper, app body"},
-          {"name": "Care Teal", "hex": "#2A8B82", "meaning": "Health accent. Used like a small green check.", "usage": "Status, accent, CTA buttons"}
+          {
+            "name": "Open Navy",
+            "hex": "#102236",
+            "meaning": "Trust without sterility.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F1EA",
+            "meaning": "Clean and warm.",
+            "usage": "Background, paper, app body"
+          },
+          {
+            "name": "Care Teal",
+            "hex": "#2A8B82",
+            "meaning": "Health accent. Used like a small green check.",
+            "usage": "Status, accent, CTA buttons"
+          }
         ],
         "typography": {
           "primary": "Inter for product UI and headlines",
@@ -38,8 +59,14 @@
           "rationale": "Inter is the trusted default for clean modern healthcare apps. The serif handles printed patient brochures and the few formal forms."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No surprise billing. No referral lock-in. No upsells in the app. No celebrity-endorsed wellness add-ons. No 'concierge tier' with hidden access."},
-          {"title": "Where it lives", "body": "An app that books, charges, and confirms in three taps. A clinic that looks like a small library, not a hospital. A printed visit summary at the door. A WhatsApp number for the team that responds within four hours."}
+          {
+            "title": "What it doesn't do",
+            "body": "No surprise billing. No referral lock-in. No upsells in the app. No celebrity-endorsed wellness add-ons. No 'concierge tier' with hidden access."
+          },
+          {
+            "title": "Where it lives",
+            "body": "An app that books, charges, and confirms in three taps. A clinic that looks like a small library, not a hospital. A printed visit summary at the door. A WhatsApp number for the team that responds within four hours."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -51,6 +78,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "healthcare-modern-2",
+        "brandName": "SAME DAY",
+        "tagline": "A clinic, today.",
+        "brandNameRationale": "Two words that name the only thing patients actually want from primary care — to be seen today. We made the differentiator the name. Reads as both honest and slightly miraculous given what most clinics offer.",
+        "manifesto": "Primary care has stopped offering primary care. The average new-patient wait in most cities is now measured in months. We made Same Day because the entire job of primary care is to be available when something small goes wrong. The clinic is built around availability, not appointments.",
+        "industrySummary": "Modern primary care has fragmented into urgent care chains and direct-primary-care membership models. The shared customer problem is access. There is a real opening for a brand that competes on time-to-appointment first and everything else second.",
+        "competitorLandscape": "One Medical (onemedical.com) holds the membership-primary slot. Forward (goforward.com) sits in the tech-forward middle. Carbon Health (carbonhealth.com) is the urgent-modern peer. We sit further out — same-day-only by policy.",
+        "positioningStatement": "Same Day is a primary care clinic that holds half its appointments for today.",
+        "positioningRationale": "Half of every day's appointment slots are released that morning. Members and patients book by phone or app for that day. No scheduling six weeks out.",
+        "targetAudience": {
+          "primary": "Working adults 25–55 in cities, mostly without a regular doctor.",
+          "behaviors": [
+            "Avoid making appointments because they cannot find a slot.",
+            "Use urgent care for primary issues.",
+            "Have insurance but rarely use it.",
+            "Want to be seen the day the issue starts."
+          ],
+          "motivations": [
+            "Want a clinic that opens today.",
+            "Want a real doctor, not a video call.",
+            "Want to skip the six-week wait."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Practical",
+          "Warm",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with today's availability.",
+            "Use plain language about the visit.",
+            "Reply to inquiries in minutes.",
+            "Publish the next-available slot on the home page."
+          ],
+          "donts": [
+            "No medical-marketing buzzwords ('holistic', 'integrative').",
+            "No long onboarding for new patients.",
+            "No surprise billing.",
+            "No 'we'll get back to you in 2–3 business days'."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Half held for today",
+            "description": "Half of every day's slots are released the morning of. The home page shows how many are left."
+          },
+          {
+            "name": "Real doctor, real room",
+            "description": "Every visit is in-person with a doctor or nurse practitioner. We use telehealth only when the patient asks."
+          },
+          {
+            "name": "One price, posted",
+            "description": "Each visit type has a posted price. Insurance is welcome but optional. Members pay one monthly fee for unlimited visits."
+          }
+        ],
+        "logoDirection": "A wordmark — SAME DAY set in a calm modern grotesque, all caps, with a small dot indicating availability. Reads as a clinic sign, not a medical brand.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page and clinic surfaces.",
+            "usage": "All marketing and interior."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type and chrome.",
+            "usage": "All copy and signage."
+          },
+          {
+            "name": "Signal",
+            "hex": "#3D8B5A",
+            "meaning": "Accent — a calm clinical green for availability.",
+            "usage": "Today's-slots chip, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern grotesque for the wordmark and signage.",
+          "secondary": "A neutral sans for working type and patient materials.",
+          "rationale": "Two weights, plain register. The clinic does not over-design."
         }
       }
     ],
@@ -66,7 +178,13 @@
         "targetAudience": {
           "primary": "Wealthy. Often inherited. Values the relationship with the physician. Travels for consultations. Will pay annually for the access, even when nothing is wrong."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the patient by surname",
@@ -81,10 +199,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn caduceus reduced to two crossed lines, used as a hallmark on letterhead, the brass plaque outside the practice, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Practice Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the waiting room.", "usage": "Primary brand color, signage, letterhead"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque and the hardware.", "usage": "Foil, hallmark, accents"},
-          {"name": "Cream Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the records.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, reports, structural elements"}
+          {
+            "name": "Practice Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, library walls, the waiting room.",
+            "usage": "Primary brand color, signage, letterhead"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque and the hardware.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Cream Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper, the records.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body, reports, structural elements"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -92,7 +230,10 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the secure portal and the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public marketing. No social media presence. No press. No celebrity patients on the website. No client logos."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public marketing. No social media presence. No press. No celebrity patients on the website. No client logos."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -105,6 +246,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "healthcare-luxury-2",
+        "brandName": "The Ashford Clinic",
+        "tagline": "A private practice, one location.",
+        "brandNameRationale": "Single proper name with the definite article — the naming convention for a single significant practice. Ashford is a quiet English surname-and-place register that reads as established and slightly Old World. The 'The' signals singular practice, not chain.",
+        "story": "The Ashford Clinic is a private primary care and concierge medicine practice at one location. The roster is capped. The physicians have been at the clinic for over a decade. The practice has no signage on the street.",
+        "industrySummary": "Concierge medicine has grown into a recognizable category but is mostly built around platform models. There is a quieter market for the single-physician-group practice — capped roster, no signage, multi-decade tenure.",
+        "competitorLandscape": "MDVIP (mdvip.com) is the concierge-platform reference. Sollis Health (sollishealth.com) holds the premium concierge slot. Castle Connolly (castleconnolly.com) is the credentialing peer. We sit further out — single building, capped roster, no platform.",
+        "positioningStatement": "The Ashford Clinic is a single-location concierge primary care practice with a capped roster and long-tenure physicians.",
+        "positioningRationale": "We do not expand. The roster is capped. New patients are accepted by referral. The relationship is the practice.",
+        "targetAudience": {
+          "primary": "Adults 40–70 with a long-term relationship with their physician, often family-spanning.",
+          "behaviors": [
+            "Have a single primary physician they have seen for years.",
+            "Bring their children to the same practice.",
+            "Make decisions about their care in person.",
+            "Travel internationally with their medical records."
+          ],
+          "motivations": [
+            "Want a practice that knows them across decades.",
+            "Want their family in the same practice.",
+            "Want a clinic without signage."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Refer to patients by surname.",
+            "Sign correspondence by hand.",
+            "Mention the physician by name.",
+            "Send printed annual health reviews."
+          ],
+          "donts": [
+            "No social media.",
+            "No promotional pricing.",
+            "No 'experience' or 'wellness' language.",
+            "No press."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Capped roster",
+            "description": "The practice has a fixed cap. New patients are accepted by referral when others move on. The waiting list is real."
+          },
+          {
+            "name": "Long-tenure physicians",
+            "description": "Our senior physicians have been at the clinic for over a decade. Patients see the same doctor across years."
+          },
+          {
+            "name": "One building, no signage",
+            "description": "We do not advertise. The address is on the website for patients only. Outside, the building looks like any other."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Ashford Clinic set in a classical book serif, with a small crest of a single laurel branch. The mark appears in brass on the front door and ink on the letterhead.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and stationery.",
+            "usage": "All correspondence and marketing."
+          },
+          {
+            "name": "Oxblood",
+            "hex": "#5C1F1F",
+            "meaning": "Primary mark.",
+            "usage": "Wordmark, signature elements."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and letterhead.",
+          "secondary": "An old-style serif for body, generously set.",
+          "rationale": "Letterpress register throughout. The clinic's communications are mostly printed."
         }
       }
     ],
@@ -119,7 +345,12 @@
         "targetAudience": {
           "primary": "Adults who don't have a primary care doctor and don't want one. They want to come in, get checked, and leave. They will pay fairly for that and resent paying for anything else."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the appointment slot",
@@ -134,9 +365,24 @@
         },
         "logoDirection": "A wordmark only. CHECK UP in a single weight grotesk, wide kerned, all caps, two words on a single line. No icon. The signage uses the wordmark and the appointment number. That's the whole system.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, signage, all neutrals"},
-          {"name": "Mint", "hex": "#A6D4C0", "meaning": "Quiet health accent.", "usage": "Status, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, signage, all neutrals"
+          },
+          {
+            "name": "Mint",
+            "hex": "#A6D4C0",
+            "meaning": "Quiet health accent.",
+            "usage": "Status, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -144,7 +390,10 @@
           "rationale": "One face. The reception, the SMS confirmation, and the printed receipt all use the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No subscription. No app. No newsletter. No wellness programs. No referrals to specialists we partner with."}
+          {
+            "title": "Not this",
+            "body": "No subscription. No app. No newsletter. No wellness programs. No referrals to specialists we partner with."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -156,6 +405,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "healthcare-minimal-2",
+        "brandName": "VISIT",
+        "tagline": "The verb. The clinic.",
+        "brandNameRationale": "One word. The action the patient takes. We named the clinic after the visit and stopped. Reads as plain, slightly clinical in a good way — the building exists for the visit.",
+        "manifesto": "Healthcare brand vocabulary has run away from the room. Wellness, vitality, journey, partnership, optimization. We made Visit because the only thing a clinic is for is the visit. Come in. We see you. You leave.",
+        "industrySummary": "Primary care marketing has drifted into wellness vocabulary. There is room for a clinic that names the actual unit — the visit — and does it plainly.",
+        "competitorLandscape": "Forward (goforward.com) holds the modern-minimal middle. Parsley Health (parsleyhealth.com) sits in the wellness-minimal slot. One Medical (onemedical.com) is the broad peer. We sit further out — the clinic surface is shorter than any of theirs.",
+        "positioningStatement": "VISIT is a clinic that books visits, plainly, at posted prices.",
+        "positioningRationale": "We strip the clinic surface. The site is a list of visit types, a list of prices, and a button. The visit is the product.",
+        "targetAudience": {
+          "primary": "Adults who use healthcare occasionally and want the path short.",
+          "behaviors": [
+            "See a doctor once or twice a year.",
+            "Skip the patient portal.",
+            "Want one bill, not three.",
+            "Compare price and proximity."
+          ],
+          "motivations": [
+            "Want a clean clinic, a quick visit, a single bill.",
+            "Want to skip the wellness marketing.",
+            "Want a list of visit types and prices."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "List the visits. List the prices.",
+            "Confirm bookings in one line.",
+            "Send aftercare instructions as a short note.",
+            "Sign emails with the clinic's name only."
+          ],
+          "donts": [
+            "No wellness vocabulary.",
+            "No newsletters.",
+            "No surprise billing.",
+            "No 'partnership' language."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Posted prices",
+            "description": "Every visit type has a posted price. The page is a list of visits and prices and a button. Insurance optional."
+          },
+          {
+            "name": "One visit, one bill",
+            "description": "Each visit produces one bill. We do not separate facility and physician fees."
+          },
+          {
+            "name": "Aftercare as a note",
+            "description": "Aftercare instructions are a short, plain note. No portal login. The note arrives by email and on paper."
+          }
+        ],
+        "logoDirection": "VISIT set in a neutral grotesque, all caps, at small scale on the door, the bill, and nowhere else. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Clinic surfaces and page.",
+            "usage": "All interior and marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy and signage."
+          },
+          {
+            "name": "Mark",
+            "hex": "#3D8B5A",
+            "meaning": "A single calm accent.",
+            "usage": "The visit-type chip and primary action."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for tables and bills.",
+          "rationale": "One typeface across the door, the bill, and the aftercare note."
         }
       }
     ],
@@ -176,7 +509,13 @@
             "One partner across employee health, occupational, and clinical services"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with reporting and outcomes",
@@ -190,16 +529,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Operations at scale", "description": "Care delivered consistently across multiple employer sites and regional health systems."},
-          {"name": "Reporting that meets the standard", "description": "Outcomes, utilization, and ROI reports formatted to the standard the chief medical officer and CFO both need."},
-          {"name": "One partner across services", "description": "Onsite clinics, virtual care, occupational health, and population health under one contract."}
+          {
+            "name": "Operations at scale",
+            "description": "Care delivered consistently across multiple employer sites and regional health systems."
+          },
+          {
+            "name": "Reporting that meets the standard",
+            "description": "Outcomes, utilization, and ROI reports formatted to the standard the chief medical officer and CFO both need."
+          },
+          {
+            "name": "One partner across services",
+            "description": "Onsite clinics, virtual care, occupational health, and population health under one contract."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single shield silhouette with a horizontal divider, suggesting protection and structure. Reads cleanly on uniforms, vans, badges, and procurement decks.",
         "colorPalette": [
-          {"name": "Clinical Navy", "hex": "#102238", "meaning": "Trust, clinical seriousness.", "usage": "Logo, primary surfaces"},
-          {"name": "Lab White", "hex": "#FAFAF8", "meaning": "Clean and clinical.", "usage": "Packaging, paper, web"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body text, dividers"},
-          {"name": "Compliance Green", "hex": "#2A8B82", "meaning": "Status accent.", "usage": "Charts, certifications, success states"}
+          {
+            "name": "Clinical Navy",
+            "hex": "#102238",
+            "meaning": "Trust, clinical seriousness.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Lab White",
+            "hex": "#FAFAF8",
+            "meaning": "Clean and clinical.",
+            "usage": "Packaging, paper, web"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body text, dividers"
+          },
+          {
+            "name": "Compliance Green",
+            "hex": "#2A8B82",
+            "meaning": "Status accent.",
+            "usage": "Charts, certifications, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and product UI",
@@ -207,7 +575,10 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly health reports and clinical documentation."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C app. No retail clinics. No celebrity health endorsements. The firm sells through enterprise procurement, not Instagram health content."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C app. No retail clinics. No celebrity health endorsements. The firm sells through enterprise procurement, not Instagram health content."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -220,6 +591,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "healthcare-corporate-2",
+        "brandName": "Coombe Medical Partners",
+        "tagline": "Multi-specialty primary care and ambulatory services.",
+        "brandNameRationale": "Coombe is a surname pulled from older medical practice naming — quiet, slightly Anglo-Irish, professional. Medical Partners signals the partner-led organizational structure. The pair reads as a long-standing physician group, not a venture-funded clinic chain.",
+        "manifesto": "Coombe Medical Partners is a physician-owned multi-specialty group serving primary care, internal medicine, and ambulatory services across multiple sites. The buyer is a health system, an employer benefits team, or a regional payer. The relationship is the multi-year contract. The metric is patient outcomes and operational reliability.",
+        "industrySummary": "Multi-specialty physician groups face consolidation pressure from health systems and private equity. The opening is for a physician-owned group with operational depth, integrated billing, and quality metrics that hold up to payer scrutiny.",
+        "competitorLandscape": "Privia Health (priviahealth.com) is the platform reference. Iora Health (iorahealth.com) holds the value-based peer slot. ChenMed (chenmed.com) plays in the senior-care middle. We sit in the regional physician-owned multi-specialty category.",
+        "positioningStatement": "Coombe Medical Partners is a physician-owned multi-specialty group operating primary care and ambulatory services across a regional footprint.",
+        "positioningRationale": "We compete on quality metrics, payer contract performance, and physician retention. The group is owned by the physicians, not by a platform.",
+        "targetAudience": {
+          "primary": "Health systems, employer benefits teams, regional payers, and physician groups considering joining a larger partnership.",
+          "behaviors": [
+            "Review quality metrics across multi-specialty groups.",
+            "Contract on value-based and capitated arrangements.",
+            "Care about HEDIS scores and readmission rates.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Want a physician-owned partner with measured quality.",
+            "Want operational reliability across sites.",
+            "Want a partner whose physicians stay long-term."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Reliable",
+          "Discreet",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with quality metrics, payer mix, and physician tenure.",
+            "Speak the language of health-system administrators and payers.",
+            "Publish a quarterly group performance review.",
+            "Refer to the physicians by name in correspondence."
+          ],
+          "donts": [
+            "No consumer marketing in the group voice.",
+            "No social-media-led announcements.",
+            "No private-equity acquisition narrative.",
+            "No quarterly hype releases."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Physician-owned",
+            "description": "The group is owned and governed by the practicing physicians. Decisions are made at the partner level, not by external investors."
+          },
+          {
+            "name": "Quality on paper",
+            "description": "We publish HEDIS, MIPS, and readmission performance annually. Payers receive quarterly performance reports tied to contract terms."
+          },
+          {
+            "name": "Multi-specialty, one site footprint",
+            "description": "Primary care, internal medicine, women's health, behavioral health, and ambulatory services across a coordinated regional footprint."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Coombe set in a traditional book serif, with 'Medical Partners' beneath in tracked small caps and a small caduceus mark. Letterhead register.",
+        "colorPalette": [
+          {
+            "name": "Navy",
+            "hex": "#1F2A40",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, signage."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "The caduceus mark, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and letterhead.",
+          "secondary": "A clean enterprise grotesque for documents, forms, and reports.",
+          "rationale": "Tables and numbers tabular and disciplined."
         }
       }
     ],
@@ -235,7 +691,13 @@
         "targetAudience": {
           "primary": "30 to 55. Has insurance, doesn't trust it. Already pays out of pocket for at least one health service. Wants the doctor to actually know them. Will pay for the relationship."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Direct", "Friendly", "Sharp"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Direct",
+          "Friendly",
+          "Sharp"
+        ],
         "voiceAndTone": {
           "dos": [
             "Talk like the family doctor who would call you back",
@@ -250,11 +712,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the C of CALL stylized as a small doorbell or knocker. Standalone doorbell icon for app icons, social profiles, and the front door of the clinic. The mark reads warm and a little old-fashioned, which is the point.",
         "colorPalette": [
-          {"name": "House Red", "hex": "#D72638", "meaning": "Warm, loud, the front door of a clinic.", "usage": "Primary brand color, signage, social"},
-          {"name": "Doctor Cream", "hex": "#F4EFE2", "meaning": "Warm space.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Anchor Navy", "hex": "#102238", "meaning": "Clinical trust, used as a counter to the warm tone.", "usage": "Body, secondary, structural"},
-          {"name": "Sun Yellow", "hex": "#FFD23F", "meaning": "Highlight, joy, the porch light.", "usage": "Accents, swag, social hero"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Type.", "usage": "Body type, structure"}
+          {
+            "name": "House Red",
+            "hex": "#D72638",
+            "meaning": "Warm, loud, the front door of a clinic.",
+            "usage": "Primary brand color, signage, social"
+          },
+          {
+            "name": "Doctor Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm space.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Anchor Navy",
+            "hex": "#102238",
+            "meaning": "Clinical trust, used as a counter to the warm tone.",
+            "usage": "Body, secondary, structural"
+          },
+          {
+            "name": "Sun Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Highlight, joy, the porch light.",
+            "usage": "Accents, swag, social hero"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body type, structure"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and headlines",
@@ -262,8 +749,14 @@
           "rationale": "Migra has warmth and character. Neue Montreal handles the practical patient information. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a wellness brand. Not a tech-first telehealth brand. Not afraid of red. Not too cool to call you back."},
-          {"title": "Where it lives", "body": "A clinic that feels like a kitchen. A printed visit summary mailed in a real envelope. Text messages from the doctor, written by the doctor. A monthly newsletter that's actually written by a person on the team."}
+          {
+            "title": "What it isn't",
+            "body": "Not a wellness brand. Not a tech-first telehealth brand. Not afraid of red. Not too cool to call you back."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A clinic that feels like a kitchen. A printed visit summary mailed in a real envelope. Text messages from the doctor, written by the doctor. A monthly newsletter that's actually written by a person on the team."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -277,7 +770,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "healthcare-creative-2",
+        "brandName": "NO WAITING",
+        "tagline": "The promise, on the door.",
+        "brandNameRationale": "Two words that pick a fight with the entire industry. No Waiting is what every waiting room sign should say and never does. We made the contrarian promise the name. Sets the expectation before the patient walks in.",
+        "manifesto": "We made No Waiting because waiting rooms are the lie at the heart of healthcare. You arrive at the appointment time. You wait forty minutes. The visit lasts twelve minutes. We started a clinic that flips the math. The waiting room has six chairs and is mostly empty. If we are running late, we say so before you arrive and we credit the visit fee.",
+        "industrySummary": "Patient satisfaction surveys consistently identify wait time as the largest source of clinic frustration. No clinic brand has chosen wait time as its primary positioning. There is a real opening for a brand that competes on the waiting-room metric.",
+        "competitorLandscape": "Forward (goforward.com) touches operational efficiency. One Medical (onemedical.com) holds the modern-experience slot. Crossover Health (crossoverhealth.com) is the employer-onsite peer. We sit further out — the brand is the clock.",
+        "positioningStatement": "No Waiting is a clinic that runs to time and credits the visit fee when it does not.",
+        "positioningRationale": "The brand makes a public promise about wait time and stakes the visit fee on it. The clinic is operationally built around the promise.",
+        "targetAudience": {
+          "primary": "Working adults who have stopped going to the doctor because of how long it takes.",
+          "behaviors": [
+            "Schedule visits around their work calendar.",
+            "Resent waiting rooms.",
+            "Avoid annual physicals.",
+            "Use urgent care because primary care is unreachable."
+          ],
+          "motivations": [
+            "Want a clinic that respects their calendar.",
+            "Want a visit that starts on time.",
+            "Want a clinic willing to bet on its own promise."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Confident",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the promise plainly.",
+            "Publish wait-time data weekly.",
+            "Notify patients in advance if running late.",
+            "Use the brand line — 'no waiting' — on every door."
+          ],
+          "donts": [
+            "No 'patient experience' vocabulary.",
+            "No vague benefit copy.",
+            "No surprise wait times.",
+            "No magazines in the waiting room — there is no waiting room to fill."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The promise",
+            "description": "Your visit starts within 5 minutes of your scheduled time. If it does not, we credit the visit fee that day."
+          },
+          {
+            "name": "Six-chair waiting room",
+            "description": "We build the schedule, the staffing, and the rooms around the promise. The waiting room has six chairs and is mostly empty."
+          },
+          {
+            "name": "Weekly wait-time report",
+            "description": "We publish actual median and 95th-percentile wait times by week on the website. Members get the report by email."
+          }
+        ],
+        "logoDirection": "A wordmark — NO WAITING set in a wide modern grotesque with a small clock mark beside it. The clock hands point to the next available slot.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Clinic surfaces and page.",
+            "usage": "All interior and marketing."
+          },
+          {
+            "name": "Signal",
+            "hex": "#FF3D00",
+            "meaning": "Accent — used for the clock and the timer.",
+            "usage": "The wordmark mark, the wait-time chip."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body and signage."
+          }
+        ],
+        "typography": {
+          "primary": "A wide modern grotesque for the wordmark and the clinic signage.",
+          "secondary": "A neutral sans for working type.",
+          "rationale": "The wordmark is the promise. The body type is the schedule."
+        }
       }
     ]
   }

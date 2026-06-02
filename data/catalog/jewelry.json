@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "30 to 50. Owns five pieces of jewelry, max. Wears the same earrings for three years before adding the next. Knows the difference between gold-plated and solid gold. Will pay for solid."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Quiet", "Confident"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Quiet",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Name the metal, the karat, the weight in grams",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. CASE in a tight modern serif, small caps, very narrow tracking. The cross of the A subtly extended, like a hinged box. A standalone monogram of the C as a hallmark stamp on every piece.",
         "colorPalette": [
-          {"name": "Velvet Black", "hex": "#0F0F11", "meaning": "The inside of a jewelry case.", "usage": "Wordmark, primary surface, packaging"},
-          {"name": "Bone", "hex": "#F2EEE3", "meaning": "Used as space, the paper inside the box.", "usage": "Background, paper, lining"},
-          {"name": "14k", "hex": "#A98654", "meaning": "Solid gold, not yellow gold. The real thing.", "usage": "Foil, hallmark, accent"}
+          {
+            "name": "Velvet Black",
+            "hex": "#0F0F11",
+            "meaning": "The inside of a jewelry case.",
+            "usage": "Wordmark, primary surface, packaging"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EEE3",
+            "meaning": "Used as space, the paper inside the box.",
+            "usage": "Background, paper, lining"
+          },
+          {
+            "name": "14k",
+            "hex": "#A98654",
+            "meaning": "Solid gold, not yellow gold. The real thing.",
+            "usage": "Foil, hallmark, accent"
+          }
         ],
         "typography": {
           "primary": "Tiempos Headline for the wordmark and headlines",
@@ -37,8 +57,14 @@
           "rationale": "A high contrast serif for the brand. A composed grotesk for the technical product details. Each does its job and stays out of the other's way."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No costume jewelry. No collaborations with fashion houses. No discounts. No subscription boxes. No celebrity gifting."},
-          {"title": "Where it lives", "body": "A single retail studio with appointments only. A website that shows each piece against a flat black background. A small wooden case for every order, hand-numbered. A printed thank-you card with the piece's hallmark stamped on it."}
+          {
+            "title": "What it doesn't do",
+            "body": "No costume jewelry. No collaborations with fashion houses. No discounts. No subscription boxes. No celebrity gifting."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A single retail studio with appointments only. A website that shows each piece against a flat black background. A small wooden case for every order, hand-numbered. A printed thank-you card with the piece's hallmark stamped on it."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -50,6 +76,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "jewelry-modern-2",
+        "brandName": "WORN",
+        "tagline": "Jewelry that is the past tense.",
+        "brandNameRationale": "One word, past tense — a small linguistic move that says 'lived in, kept, on the body'. Worn signals that the piece is meant to be used, not displayed. Reads as quiet and slightly considered.",
+        "manifesto": "Most fine jewelry brands sell objects for the safe. We made Worn because the right piece is on the body every day for the next forty years. The brand is the wear, not the unboxing. Pieces are designed to thicken, dull, scratch — to look like something that has been somewhere.",
+        "industrySummary": "DTC fine jewelry has consolidated around a polished, pristine, photogenic aesthetic. There is a real opening for a brand that designs for wear rather than against it — patina, scratch, body warmth.",
+        "competitorLandscape": "Mejuri (mejuri.com) defined the modern DTC jewelry brand. Catbird (catbirdnyc.com) holds the considered indie slot. Aurate (auratenewyork.com) sits in the polished middle. We sit further out — the wear is the design.",
+        "positioningStatement": "Worn is a fine jewelry brand designed for forty years of daily wear, not for the photograph.",
+        "positioningRationale": "We design with the patina in mind. The brand documents pieces years into wear, not just on day one. The customer is buying the piece five years from now.",
+        "targetAudience": {
+          "primary": "Buyers 28–50 buying for themselves, expecting the piece to live on the body.",
+          "behaviors": [
+            "Wear the same ring every day.",
+            "Re-buy from a brand they trust.",
+            "Care about gold tone and how it ages.",
+            "Read reviews from buyers years into wear."
+          ],
+          "motivations": [
+            "Want a piece that ages well.",
+            "Want a brand that designs for wear, not for unboxing.",
+            "Want to keep the piece a long time."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Quiet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the piece worn.",
+            "Document patina over time.",
+            "Talk about gold weight and tone.",
+            "Sign emails with the maker's first name."
+          ],
+          "donts": [
+            "No 'sparkle' marketing.",
+            "No staged unboxing.",
+            "No social-media-first photoshoots.",
+            "No countdown promotions."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Designed for wear",
+            "description": "Every piece is designed assuming forty years on the body — solid weights, no plating over silver, no fragile settings."
+          },
+          {
+            "name": "Patina diary",
+            "description": "We photograph customer pieces at one, three, and five years and publish the diary on the product page. The piece changes; the brand stays."
+          },
+          {
+            "name": "Repair, not replace",
+            "description": "We repair every piece we sell, indefinitely. Repairs are a flat fee, published."
+          }
+        ],
+        "logoDirection": "A wordmark — WORN set in a modern grotesque, all caps, with a very small dot beneath the O. The dot is the only embellishment.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page and packaging.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Primary accent — a yellow-gold tone.",
+            "usage": "Wordmark, single highlights."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          }
+        ],
+        "typography": {
+          "primary": "A modern grotesque for the wordmark and signage.",
+          "secondary": "A book serif for the patina diary captions.",
+          "rationale": "The sans is the brand. The serif is the story."
         }
       }
     ],
@@ -65,7 +176,13 @@
         "targetAudience": {
           "primary": "Wealthy, often inherited. Already owns important pieces. Buys for milestones (births, anniversaries, retirements) and expects the piece to be passed on. Values the relationship with the jeweler as much as the piece."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Confident"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Heritage",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +197,30 @@
         },
         "logoDirection": "A classical serif wordmark. Wentworth & Wynn set with elegant ligatures and a hand-drawn ampersand that becomes the firm's hallmark. The W-and-W monogram stamps the inside of every piece, the back of the case, and the wax seal on every paper letter.",
         "colorPalette": [
-          {"name": "Boardroom Green", "hex": "#1B3328", "meaning": "Members' rooms, hunting estates, leather library chairs.", "usage": "Primary brand color, signage, letterhead"},
-          {"name": "Heritage Gold", "hex": "#A38454", "meaning": "Aged metal. The real gold on every piece.", "usage": "Foil, hallmark, hardware"},
-          {"name": "Cream Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, fine cotton.", "usage": "Stationery, packaging, paper"},
-          {"name": "Onyx", "hex": "#1A1A1B", "meaning": "The case interior, the dark velvet, the formal typography.", "usage": "Body type, packaging interior"}
+          {
+            "name": "Boardroom Green",
+            "hex": "#1B3328",
+            "meaning": "Members' rooms, hunting estates, leather library chairs.",
+            "usage": "Primary brand color, signage, letterhead"
+          },
+          {
+            "name": "Heritage Gold",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The real gold on every piece.",
+            "usage": "Foil, hallmark, hardware"
+          },
+          {
+            "name": "Cream Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper, fine cotton.",
+            "usage": "Stationery, packaging, paper"
+          },
+          {
+            "name": "Onyx",
+            "hex": "#1A1A1B",
+            "meaning": "The case interior, the dark velvet, the formal typography.",
+            "usage": "Body type, packaging interior"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,7 +228,10 @@
           "rationale": "A high contrast classical serif carries the heritage tone. A modern grotesk handles the website and client portal. Restraint everywhere."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No e-commerce. No fashion-jewelry collaborations. No flash sales. No social media advertising. No celebrity placements."}
+          {
+            "title": "What it doesn't do",
+            "body": "No e-commerce. No fashion-jewelry collaborations. No flash sales. No social media advertising. No celebrity placements."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -104,6 +244,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "jewelry-luxury-2",
+        "brandName": "House of Marlbrough",
+        "tagline": "A workshop, three generations.",
+        "brandNameRationale": "Single proper name with the 'House of' prefix — the heritage-jewelry naming convention. Marlbrough is a slightly older English variant spelling that reads as established and slightly archaic. The 'House of' signals workshop, not factory.",
+        "story": "The House of Marlbrough is a single workshop founded in 1934, now run by the founder's granddaughter. The workshop produces fewer than four hundred pieces a year. Each piece is signed and dated by the maker. Most pieces sold today are commissioned, not in catalog.",
+        "industrySummary": "Heritage fine jewelry brands have largely been absorbed into LVMH and Richemont. There is a quieter market for the single-workshop house — small annual production, signed pieces, multi-generational ownership.",
+        "competitorLandscape": "Hemmerle (hemmerle.com) is the closest peer in workshop scale and seriousness. JAR (no public site) holds the legendary atelier slot. Cartier (cartier.com) and Van Cleef (vancleefarpels.com) are the conglomerate references. We sit with the single-workshop houses.",
+        "positioningStatement": "A single-workshop fine jewelry house producing fewer than four hundred signed pieces per year, now in its third generation.",
+        "positioningRationale": "We do not scale. The workshop is the limit. Pieces are signed, dated, and recorded. The customer is buying a piece from a specific maker in a specific year.",
+        "targetAudience": {
+          "primary": "Buyers of significant fine jewelry who buy by commission and reference.",
+          "behaviors": [
+            "Commission pieces over the course of years.",
+            "Hold pieces across generations.",
+            "Care about the maker's signature.",
+            "Visit the workshop in person."
+          ],
+          "motivations": [
+            "Want a piece from a named maker.",
+            "Want a workshop, not a brand counter.",
+            "Want a record that outlives the piece."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Refer to the maker by name.",
+            "Date pieces by year of completion.",
+            "Sign correspondence by hand.",
+            "Send printed annual workshop letters."
+          ],
+          "donts": [
+            "No social-media presence.",
+            "No promotional pricing.",
+            "No 'collection' marketing.",
+            "No staff-of-thirty hero shot."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Fewer than four hundred per year",
+            "description": "The workshop produces a limited annual count. We do not extend production to meet demand."
+          },
+          {
+            "name": "Signed and dated",
+            "description": "Every piece is signed by the maker and dated by year. The signature is registered in the workshop ledger."
+          },
+          {
+            "name": "Three generations",
+            "description": "The workshop has been in continuous family operation since 1934. The current maker is the founder's granddaughter."
+          }
+        ],
+        "logoDirection": "A serif wordmark — House of Marlbrough set in a classical book serif, with a small workshop crest beside it. The crest depicts crossed pliers and a single stone. Hand-engraved register.",
+        "colorPalette": [
+          {
+            "name": "Oxblood",
+            "hex": "#5C1F1F",
+            "meaning": "Primary.",
+            "usage": "Wordmark, signature elements."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and packaging.",
+            "usage": "Letters, stationery."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Accent — the workshop's signature yellow-gold.",
+            "usage": "Crest, signature stamps."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and letterhead.",
+          "secondary": "An engraver's italic for the maker's signature.",
+          "rationale": "Letterpress register. Pieces ship with a printed and signed certificate."
         }
       }
     ],
@@ -118,7 +343,12 @@
         "targetAudience": {
           "primary": "Adults who already own one good piece. They want a second that goes with the first and a third that goes with both. They don't take their jewelry off. They want it to age with them."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Patient", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Patient",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Name the metal and the gauge",
@@ -133,9 +363,24 @@
         },
         "logoDirection": "A wordmark only. WORN in a single weight sans, wide kerned, all caps. No icon. No second mark. Each piece carries a small W hallmark, etched not stamped.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F2EFE7", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
-          {"name": "Hallmark Gold", "hex": "#B08D52", "meaning": "The metal itself.", "usage": "Foil, hallmark on packaging"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F2EFE7",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, packaging, all neutrals"
+          },
+          {
+            "name": "Hallmark Gold",
+            "hex": "#B08D52",
+            "meaning": "The metal itself.",
+            "usage": "Foil, hallmark on packaging"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,7 +388,10 @@
           "rationale": "One face. The product specs are the brand."
         },
         "customSections": [
-          {"title": "Not this", "body": "No occasion marketing. No engagement-ring campaigns. No matching sets. No size charts that aren't accurate to the millimeter."}
+          {
+            "title": "Not this",
+            "body": "No occasion marketing. No engagement-ring campaigns. No matching sets. No size charts that aren't accurate to the millimeter."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -155,6 +403,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "jewelry-minimal-2",
+        "brandName": "PIECE",
+        "tagline": "The word the customer uses.",
+        "brandNameRationale": "One word. The word every jewelry buyer uses for what they own: 'this piece, that piece'. We named the brand after the unit and stopped. Plain, slightly anonymous, completely honest.",
+        "manifesto": "Jewelry brand vocabulary has run away from the object. Collection, line, edit, drop. We made Piece because the customer already calls it a piece. The product page shows the piece. The price is the price. The packaging says PIECE.",
+        "industrySummary": "DTC fine jewelry has converged on photography-led, story-heavy product pages. There is a quieter market for a brand that strips the product page to the piece itself — one image, one weight, one price.",
+        "competitorLandscape": "Catbird (catbirdnyc.com) plays in the considered indie space. Otiumberg (otiumberg.com) holds the modern-minimal slot. Sophie Bille Brahe (sophiebillebrahe.com) sits in the design-led peer position. We sit further out — fewer words on the page, the piece on its own.",
+        "positioningStatement": "PIECE is a fine jewelry brand that shows the piece — weight, dimension, price — and nothing else.",
+        "positioningRationale": "We strip the product page. One photograph. One line of specs. One price. The piece earns it.",
+        "targetAudience": {
+          "primary": "Buyers who know what they want and do not need to be educated.",
+          "behaviors": [
+            "Know their finger and chain sizes by heart.",
+            "Skip product-page copy.",
+            "Trust weight and gold tone over marketing.",
+            "Re-buy from brands they trust."
+          ],
+          "motivations": [
+            "Want the piece, the spec, the price.",
+            "Want to skip the story.",
+            "Want a brand that lets the piece speak."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Confident",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show one photograph of the piece.",
+            "List weight in grams, metal, dimension, price.",
+            "Skip the lookbook.",
+            "Sign emails with the brand name only."
+          ],
+          "donts": [
+            "No 'sparkle' or 'glow' copy.",
+            "No collection narrative.",
+            "No lookbook.",
+            "No promotional pricing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One photograph",
+            "description": "Every piece has one studio photograph at natural scale, on a plain ground. No model. No lifestyle."
+          },
+          {
+            "name": "Weight and dimension",
+            "description": "Every product page lists weight in grams, metal grade, and dimensions. That is the specification."
+          },
+          {
+            "name": "One price",
+            "description": "Published, fixed, no promotional cycle. The price holds."
+          }
+        ],
+        "logoDirection": "PIECE set in a neutral grotesque, all caps, at small scale. Same on the website, the receipt, and the box. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page and packaging.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The piece tag on the page."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface across the box, the receipt, and the website."
         }
       }
     ],
@@ -175,7 +507,13 @@
             "Wholesale terms that hold across seasons"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the portfolio",
@@ -189,16 +527,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "A portfolio approach", "description": "Multiple brands under one contract, covering the contemporary fine jewelry tier."},
-          {"name": "Reliable wholesale terms", "description": "Consistent margins, predictable delivery, and a single account team across labels."},
-          {"name": "A trusted brand-building partner", "description": "Operating expertise behind the scenes so the visible brands can stay focused on design."}
+          {
+            "name": "A portfolio approach",
+            "description": "Multiple brands under one contract, covering the contemporary fine jewelry tier."
+          },
+          {
+            "name": "Reliable wholesale terms",
+            "description": "Consistent margins, predictable delivery, and a single account team across labels."
+          },
+          {
+            "name": "A trusted brand-building partner",
+            "description": "Operating expertise behind the scenes so the visible brands can stay focused on design."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a faceted diamond reduced to two intersecting strokes. Reads clean on a contract, a name badge, and a B2B trade show booth.",
         "colorPalette": [
-          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, finance, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Pearl", "hex": "#F2EFE8", "meaning": "Clean, calm.", "usage": "Backgrounds, paper"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure.", "usage": "Body text, dividers"},
-          {"name": "Heritage Gold", "hex": "#A38454", "meaning": "Category accent. Used sparingly.", "usage": "Highlights, foil on B2B documents"}
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, finance, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Pearl",
+            "hex": "#F2EFE8",
+            "meaning": "Clean, calm.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure.",
+            "usage": "Body text, dividers"
+          },
+          {
+            "name": "Heritage Gold",
+            "hex": "#A38454",
+            "meaning": "Category accent. Used sparingly.",
+            "usage": "Highlights, foil on B2B documents"
+          }
         ],
         "typography": {
           "primary": "Inter for the website and digital",
@@ -206,7 +573,10 @@
           "rationale": "Inter is clean and procurement-friendly. The serif handles printed wholesale catalogs and contracts."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No direct-to-consumer brand. No retail stores. No e-commerce of finished jewelry. No celebrity partnerships. The company is the holding company, not a brand."}
+          {
+            "title": "What it doesn't do",
+            "body": "No direct-to-consumer brand. No retail stores. No e-commerce of finished jewelry. No celebrity partnerships. The company is the holding company, not a brand."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -219,6 +589,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "jewelry-corporate-2",
+        "brandName": "Renwick Goldsmith Ltd.",
+        "tagline": "Wholesale and trade fine jewelry, established 1968.",
+        "brandNameRationale": "Renwick is a Scottish surname with a goldsmithing register. Goldsmith Ltd. is the trade name and corporate form. The pair reads as an established jewelry trade firm — the kind that supplies retailers and corporate clients, not consumers.",
+        "manifesto": "Renwick Goldsmith Ltd. is a wholesale and trade jewelry firm supplying retail jewelers, corporate gifting programs, and bespoke trade orders since 1968. The buyer is a retail buyer, a corporate gifting director, or a jewelry house seeking white-label production. The relationship is the multi-year contract.",
+        "industrySummary": "Trade jewelry supply has consolidated under a small number of integrated suppliers. The opening is for a long-standing trade firm with deep workshop capacity, transparent pricing, and the operational reliability buyers and corporate gifting teams demand.",
+        "competitorLandscape": "Stuller (stuller.com) is the U.S. trade supply reference. Cooksongold (cooksongold.com) is the European peer. Quality Gold (qgold.com) sits in the broad trade middle. We sit in the heritage trade supplier category with workshop production.",
+        "positioningStatement": "Renwick Goldsmith Ltd. is a trade fine jewelry supplier with in-house workshop capacity, serving retail jewelers and corporate gifting programs since 1968.",
+        "positioningRationale": "We compete on workshop depth, trade pricing transparency, and the consistent operational performance long-standing trade buyers rely on.",
+        "targetAudience": {
+          "primary": "Retail jewelry buyers, corporate gifting program directors, and bespoke trade-order clients.",
+          "behaviors": [
+            "Place quarterly trade orders.",
+            "Manage corporate gifting catalogs of 50–500 SKUs.",
+            "Care about lead time, hallmark compliance, and pricing transparency.",
+            "Renew supplier contracts on multi-year terms."
+          ],
+          "motivations": [
+            "Want a trade supplier with workshop depth.",
+            "Want consistent lead times and quality control.",
+            "Want a partner who has been around longer than most of their customers."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Reliable",
+          "Discreet",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with capacity, lead time, and hallmark compliance.",
+            "Speak the language of trade buyers and procurement.",
+            "Publish quarterly trade pricing updates.",
+            "Reference long-tenure trade clients in case material."
+          ],
+          "donts": [
+            "No consumer marketing.",
+            "No social-media presence beyond trade channels.",
+            "No promotional pricing for retailers.",
+            "No surprise price changes."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Workshop capacity",
+            "description": "In-house goldsmithing, setting, and finishing. Trade orders from 50 to 5,000 pieces with published lead times by SKU."
+          },
+          {
+            "name": "Hallmark and compliance",
+            "description": "Every piece is hallmarked per jurisdiction. Compliance documentation is included with every shipment."
+          },
+          {
+            "name": "Multi-year trade contracts",
+            "description": "Long-term supply agreements with annual pricing schedules and quarterly capacity planning."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Renwick set in a traditional book serif, with 'Goldsmith Ltd.' beneath in tracked small caps and a small hallmark-style mark. Trade-house letterhead register.",
+        "colorPalette": [
+          {
+            "name": "Navy",
+            "hex": "#1F2A40",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, trade documents."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, catalogs."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The hallmark, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and trade catalogs.",
+          "secondary": "A clean enterprise grotesque for tables, pricing schedules, and shipping documents.",
+          "rationale": "Tabular and disciplined. The catalog reads like an established trade reference."
         }
       }
     ],
@@ -234,7 +689,13 @@
         "targetAudience": {
           "primary": "25 to 45. Buys jewelry for themselves to mark moments (job change, divorce, deal close, milestone birthday). Wears the piece. Tells the story when asked. Doesn't wait for someone else to gift it."
         },
-        "brandPersonalityTraits": ["Bold", "Warm", "Confident", "Playful", "Sharp"],
+        "brandPersonalityTraits": [
+          "Bold",
+          "Warm",
+          "Confident",
+          "Playful",
+          "Sharp"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make the gift-to-self idea explicit",
@@ -249,11 +710,36 @@
         },
         "logoDirection": "A wordmark in a bold display serif with the Y stylized as a small trophy cup outline. Standalone trophy-cup icon for hallmark stamps on jewelry, packaging seals, and Instagram avatar.",
         "colorPalette": [
-          {"name": "Trophy Red", "hex": "#D72638", "meaning": "Hot, confident, hard to ignore.", "usage": "Primary brand color, packaging, hero surfaces"},
-          {"name": "Trophy Gold", "hex": "#C8A24A", "meaning": "Aged, won, mounted.", "usage": "Foil, hallmark, accents"},
-          {"name": "Velvet Black", "hex": "#0F0F11", "meaning": "Box interior, anchor.", "usage": "Packaging interior, body type"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm space.", "usage": "Backgrounds, paper, web body"},
-          {"name": "Hot Pink", "hex": "#FF4D8D", "meaning": "Punctuation. Used like an exclamation point.", "usage": "Accents, hero highlights, social"}
+          {
+            "name": "Trophy Red",
+            "hex": "#D72638",
+            "meaning": "Hot, confident, hard to ignore.",
+            "usage": "Primary brand color, packaging, hero surfaces"
+          },
+          {
+            "name": "Trophy Gold",
+            "hex": "#C8A24A",
+            "meaning": "Aged, won, mounted.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Velvet Black",
+            "hex": "#0F0F11",
+            "meaning": "Box interior, anchor.",
+            "usage": "Packaging interior, body type"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm space.",
+            "usage": "Backgrounds, paper, web body"
+          },
+          {
+            "name": "Hot Pink",
+            "hex": "#FF4D8D",
+            "meaning": "Punctuation. Used like an exclamation point.",
+            "usage": "Accents, hero highlights, social"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,8 +747,14 @@
           "rationale": "Migra has personality and craft. Neue Montreal handles the product specs and web body. The pair feels expensive and warm at once."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a wedding brand. Not a bridal brand. Not afraid of red. Not earnest about meaning."},
-          {"title": "Where it lives", "body": "Boxes that feel like trophies. Engraved hallmarks with the customer's milestone. Pop-ups at moments (Q4 bonus season, milestone weeks). A members' wall in the store, with customer notes about what each piece marked. Hoodies that have the wordmark on them."}
+          {
+            "title": "What it isn't",
+            "body": "Not a wedding brand. Not a bridal brand. Not afraid of red. Not earnest about meaning."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Boxes that feel like trophies. Engraved hallmarks with the customer's milestone. Pop-ups at moments (Q4 bonus season, milestone weeks). A members' wall in the store, with customer notes about what each piece marked. Hoodies that have the wordmark on them."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -276,7 +768,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "jewelry-creative-2",
+        "brandName": "KEEP THIS",
+        "tagline": "An instruction, on the box.",
+        "brandNameRationale": "Two words said in the voice of someone passing down something good. Keep This is an instruction, a small command, a hand-off. It names what the customer should do with the piece for the rest of their life. Warm, slightly cinematic, slightly insistent.",
+        "manifesto": "Most fine jewelry brands sell aspiration. We made Keep This because the actual value of a piece of jewelry is in being kept — passed down, worn into the metal, brought back to a granddaughter forty years from now. The whole brand is built around that arc. We engrave the instruction on the box.",
+        "industrySummary": "DTC jewelry markets on novelty and aspirational lifestyle. There is room for a brand that markets on permanence — the piece kept across generations, the box engraved with the recipient's name.",
+        "competitorLandscape": "Catbird (catbirdnyc.com) plays in the considered indie space. Anna Sheffield (annasheffield.com) holds the heirloom-minded slot. Otiumberg (otiumberg.com) sits in the modern-minimal peer position. We sit further out — every piece of the brand surface argues for keeping.",
+        "positioningStatement": "Keep This is a fine jewelry brand built around the act of keeping — engraved boxes, named recipients, generational records.",
+        "positioningRationale": "Every piece ships engraved with a name. The brand maintains a generational register of where pieces end up. The brand is the keeping, not the buying.",
+        "targetAudience": {
+          "primary": "Buyers 30–55 buying for themselves with a long horizon, and gift buyers buying for life events.",
+          "behaviors": [
+            "Buy jewelry for milestones — birth, marriage, anniversary.",
+            "Hold onto family pieces.",
+            "Care about the box and the engraving.",
+            "Tell the story of the piece every time they wear it."
+          ],
+          "motivations": [
+            "Want a piece that will be kept.",
+            "Want the box to be part of the gift.",
+            "Want a brand that knows about keeping."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Slightly cinematic"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write product copy in second person — 'you will keep this'.",
+            "Talk about the recipient by name.",
+            "Reference the year on the engraving.",
+            "Send a printed certificate with every piece."
+          ],
+          "donts": [
+            "No promotional marketing.",
+            "No 'collection drop' language.",
+            "No social-media-first launches.",
+            "No anonymous packaging."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Engraved boxes",
+            "description": "Every box ships with the recipient's name and the year engraved into the wood. The instruction — KEEP THIS — is engraved beneath."
+          },
+          {
+            "name": "Generational register",
+            "description": "We maintain a record of every piece and its current keeper. If the piece is passed down, the register is updated. The brand follows the piece."
+          },
+          {
+            "name": "Repair forever",
+            "description": "We repair every piece we have ever sold, for as long as the workshop exists. Repair is a flat fee, published."
+          }
+        ],
+        "logoDirection": "A wordmark — KEEP THIS engraved in a quiet display serif, paired with a small etched line beneath, like a signature. Used directly on the wooden box at small scale.",
+        "colorPalette": [
+          {
+            "name": "Wood",
+            "hex": "#7C5A3D",
+            "meaning": "The engraved box and packaging.",
+            "usage": "Box, packaging."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and stationery.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent — the engraved year mark.",
+            "usage": "The year mark on the box and certificate."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and engraving.",
+          "secondary": "A book serif for the certificate and printed register.",
+          "rationale": "Engraver's register. The brand is meant to be read as something old, even on day one."
+        }
       }
     ]
   }
