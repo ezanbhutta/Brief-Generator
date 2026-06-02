@@ -1,0 +1,283 @@
+{
+  "industry": "real-estate",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "AT HOME",
+        "tagline": "When you find the one.",
+        "brandNameRationale": "Two words. At Home is the state every buyer is trying to reach, named in the simplest English available. The brand sits on the destination, not the transaction. Plain, warm, immediately legible.",
+        "industrySummary": "Modern real estate has been moving from agent-led to platform-led, with the customer doing more of the discovery work themselves. The opening is for a brand that respects the buyer as a design-literate adult and treats the agent as a real, accountable person.",
+        "competitorLandscape": "Compass (compass.com) holds the modern tech-led peer position. Side (side.com) sits in the agent-platform tier. Zillow (zillow.com) does the consumer marketplace middle. We sit closer to Side in posture, with a sharper consumer brand.",
+        "positioningStatement": "A modern brokerage with named agents, clean listings, and no broker speak.",
+        "targetAudience": {
+          "primary": "30 to 55. Buying their first or second home. Has done the research. Wants an agent who will tell them when a house is wrong for them."
+        },
+        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Warm"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the agent, the price, the room count, the year built",
+            "Photograph the actual house, not the lifestyle",
+            "Speak to the buyer as an adult"
+          ],
+          "donts": [
+            "Use the word 'dream home'",
+            "Photograph empty rooms with golden hour light",
+            "Run an open-house drama campaign"
+          ]
+        },
+        "logoDirection": "A wordmark only. AT HOME in a soft modern grotesk, all caps, two words on one line. A small geometric mark, a simple door silhouette reduced to two parallel lines, used as the favicon and on every yard sign.",
+        "colorPalette": [
+          {"name": "Door Black", "hex": "#101012", "meaning": "Front door at dusk.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Cream", "hex": "#F4F0E6", "meaning": "Used as space. The hall light.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Brick Red", "hex": "#A8313F", "meaning": "Warm anchor, the brick.", "usage": "Accent, web headlines, yard sign accent"}
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for prices and square footage",
+          "rationale": "One family. The mono carries the listing data. The regular carries the brand."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'dream home' marketing. No staged lifestyle photography. No celebrity-agent partnerships. No 'lifestyle community' branding."},
+          {"title": "Where it lives", "body": "A site that shows the agent's actual face and name on every listing. A yard sign that's quiet. A printed listing book that's the same size as a paperback. No social media beyond a single archive."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys with us",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Harkness House",
+        "tagline": "Property advisory since 1903.",
+        "brandNameRationale": "Two words. Harkness is a distinctive surname with quiet weight; House is the older word for the residential category. The pair reads as a heritage advisory house that has been handling significant residential transactions for over a century.",
+        "story": "Harkness House began as a small advisory above a residential brokerage. The current generation has stayed at the same address. The client list has stayed close to the same size. Some clients have been with the house for three generations of homes.",
+        "industrySummary": "Top end residential real estate has been moving toward larger brokerages and bigger marketing. There's a parallel market for small heritage advisory houses serving a few hundred families across generations. Few clients, long relationships, sensitive transactions handled by a single principal.",
+        "competitorLandscape": "Knight Frank (knightfrank.com) holds the institutional London peer position. Sotheby's International Realty (sothebysrealty.com) sits at the global tier. The Agency (theagencyre.com) does the design-led luxury middle. We sit smaller and quieter than all of them.",
+        "positioningStatement": "A small property advisory house representing fewer than a hundred families.",
+        "targetAudience": {
+          "primary": "Wealthy, often inherited. Owns multiple residences. Values the long advisory relationship more than the brokerage commission. Books decades ahead."
+        },
+        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Send paper updates between viewings",
+            "Speak in the language of property, not real estate"
+          ],
+          "donts": [
+            "Run public auctions",
+            "Promote on Instagram",
+            "Photograph properties for press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn doorway hallmark, two vertical lines suggesting a portico, used on letterhead, the brass plaque outside the office, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the office interior.", "usage": "Primary brand color, letterhead, signage"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the plaque outside.", "usage": "Foil, hallmark, accents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
+          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No public listings. No website beyond a single address card. No social media presence. No press strategy."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we represent",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "DEED",
+        "tagline": "Closed.",
+        "brandNameRationale": "Single word. Deed is the legal foundation of property ownership. The brand sits on the document, not the marketing, not the lifestyle. Plain, direct, slightly archaic in a way that feels honest.",
+        "industrySummary": "Most real estate brands have elaborate names and lifestyle promises. There's an opening for one that strips it back to the legal document at the center of every transaction.",
+        "competitorLandscape": "Most brokerages fail this purity test. The closest peers in spirit are some Japanese property practices and certain Scandinavian real estate firms that put the title document forward.",
+        "positioningStatement": "A real estate firm named after the document, not the dream.",
+        "targetAudience": {
+          "primary": "Adults who know what they want and want the transaction handled. They don't want a relationship with the brokerage. They want the listing, the offer, the close."
+        },
+        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the listing data",
+            "Confirm the offer in one short letter",
+            "Use plain English"
+          ],
+          "donts": [
+            "Run a 'dream home' campaign",
+            "Photograph empty rooms for press",
+            "Use the word 'lifestyle'"
+          ]
+        },
+        "logoDirection": "A wordmark only. DEED in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The yard sign, the website, and the closing folder all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
+          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The yard sign, the listing, and the closing folder all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No newsletter. No social media. No celebrity-agent partnerships. No 'lifestyle community' branding. No drone footage."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who buys with us",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Halifax & Co.",
+        "tagline": "Commercial property advisory.",
+        "brandNameRationale": "Three words. Halifax is a heritage place name with property associations (the Halifax Building Society in the UK). & Co. closes it as a small heritage firm. The whole name reads as a real, established commercial property advisor with quiet institutional weight.",
+        "industrySummary": "Commercial real estate advisory is a serious B2B category serving corporate occupiers, institutional investors, and large landlords. The category is dominated by the major brokerages (CBRE, JLL, Cushman) and a few specialist firms. Brand and discipline differentiate.",
+        "competitorLandscape": "CBRE (cbre.com) is the institutional giant. JLL (jll.com) holds the same tier. Cushman & Wakefield (cushmanwakefield.com) is the third major. Newmark (nmrk.com) sits closer in scale. We sit smaller and more focused on the mid-market commercial client.",
+        "positioningStatement": "Commercial property advisory for mid-market corporate occupiers and institutional investors.",
+        "positioningRationale": "Mid-market occupiers and investors are too small for the giants' attention and too sophisticated for boutique brokerages. We sit between them with operating depth and modern delivery.",
+        "targetAudience": {
+          "primary": "Heads of Corporate Real Estate, Investment Directors, and CFOs at companies of 500 to 25000 employees, and at institutional property investors. They sign multi-year advisory contracts.",
+          "motivations": [
+            "Advisory depth across leasing, capital markets, and management",
+            "Reliable execution without the brokerage drag",
+            "Reporting that satisfies the board and the audit committee"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the advisory and the execution model",
+            "Show case studies with transaction and operating outcomes",
+            "Speak to the principal, not the consumer"
+          ],
+          "donts": [
+            "Use consumer real estate language",
+            "Promote individual properties on consumer social",
+            "Run a content strategy aimed at the public"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Advisory across services", "description": "Leasing, capital markets, valuation, and property management under one engagement."},
+          {"name": "Execution discipline", "description": "Transactions delivered against scoped milestones with documented reporting."},
+          {"name": "Reporting that satisfies the board", "description": "Transaction reporting and property performance formatted for institutional investors."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single rectangular outline with a small horizontal line inside, suggesting a building section. Reads cleanly on a procurement deck, name badge, and quiet investor pitch.",
+        "colorPalette": [
+          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, slides"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Brass", "hex": "#A38454", "meaning": "Heritage accent.", "usage": "Foil on B2B documents, accent"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and printed property reports."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No residential brokerage. No retail listings. No celebrity-agent partnerships. The firm sells through institutional and corporate procurement."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who we represent",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "GOOD BONES",
+        "tagline": "Worth the work.",
+        "brandNameRationale": "Two words. Good Bones is the universal real estate phrase for a property worth restoring: the structure is right, the rest is fixable. The brand names what every honest buyer is actually looking for. Warm, immediately legible, and slightly self-aware.",
+        "manifesto": "Most real estate brands sell move-in ready. The staged perfection. The finished surface. We made Good Bones because the most interesting homes aren't the polished ones. They are the houses with the original windows, the unfortunate kitchen, the staircase that creaks. The brand is for the buyers who can see what the house wants to be.",
+        "industrySummary": "Real estate branding has been polished, staged, and slightly aspirational. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about the imperfect houses that reward the patient buyer.",
+        "competitorLandscape": "Cottages & Bungalows (cottagesandbungalowsmag.com) holds the heritage-home appreciation peer position. Curbed (curbed.com) does the design-led discovery middle. The Houseblog community sits in the restoration-led peer position. We sit warmer and more honest about the work.",
+        "positioningStatement": "A real estate brand for buyers who can see past the carpet.",
+        "targetAudience": {
+          "primary": "30 to 55. Looking for a first or second home. Has watched a renovation show. Wants the house with character, not the new build with a kitchen island."
+        },
+        "brandPersonalityTraits": ["Warm", "Confident", "Direct", "Playful", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the truth about the work",
+            "Photograph the house as it is, not staged",
+            "Talk like the friend who has restored a kitchen"
+          ],
+          "donts": [
+            "Use the word 'dream home'",
+            "Stage the photography",
+            "Promote a move-in-ready marketing strategy"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with the O of BONES stylized as a small filled circle (suggesting a doorknob or a keyhole). Standalone door-knob icon for yard signs, stickers, and social profiles.",
+        "colorPalette": [
+          {"name": "Brick Red", "hex": "#A8313F", "meaning": "Old brick, the warm structure.", "usage": "Primary brand color, hero surfaces, yard signs"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background, the original plaster.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Oak Brown", "hex": "#5A3E20", "meaning": "Old wood floors.", "usage": "Secondary surfaces, accents"},
+          {"name": "Sage", "hex": "#A6B49A", "meaning": "Vintage paint color, the kitchen cabinet.", "usage": "Accent, swag, social"},
+          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and listings",
+          "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and human."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not a new-build brokerage. Not a luxury brand. Not afraid of carpet that needs to come up. Not too cool to celebrate the original windows."},
+          {"title": "Where it lives", "body": "Listings that show every honest flaw. Yard signs that look like real signs. A monthly newsletter with one renovation story from a real buyer. A merch line of two tees that say GOOD BONES across the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who buys with us",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

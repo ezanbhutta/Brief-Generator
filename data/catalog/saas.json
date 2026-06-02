@@ -1,0 +1,283 @@
+{
+  "industry": "saas",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "SHIP",
+        "tagline": "Push to main.",
+        "brandNameRationale": "Single word. Ship is the verb every modern product team lives by. The brand sits on the daily action of getting work in front of users. Plain, modern, immediately legible to anyone who has worked in software.",
+        "industrySummary": "Modern SaaS has matured into a category with strong design conventions and a few dominant patterns. The customer is design-literate and impatient with anything that feels enterprise-stale. The opening is for a small product brand that talks like a product team and ships like one.",
+        "competitorLandscape": "Linear (linear.app) holds the design-led product peer position. Notion (notion.so) sits in the workspace tier. Vercel (vercel.com) holds the developer-platform peer. Height (height.app) does the modern issue-tracking middle. We sit closest to Linear in posture.",
+        "positioningStatement": "A product tool for teams that already ship and want a tool that doesn't slow them down.",
+        "targetAudience": {
+          "primary": "25 to 45. Engineering managers, product managers, designers at companies of 20 to 500 people. Already use three SaaS tools and want the fourth to consolidate two of them."
+        },
+        "brandPersonalityTraits": ["Direct", "Modern", "Precise", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Show real screenshots, not stylized hero illustrations",
+            "Speak to the engineer who'd use the tool",
+            "Document the shortcuts on the page they appear"
+          ],
+          "donts": [
+            "Use the word seamless",
+            "Promise to transform team velocity",
+            "Photograph people pointing at screens"
+          ]
+        },
+        "logoDirection": "A wordmark only. SHIP in a tight modern grotesk, all caps, four letters with tight kerning. A small geometric mark, a thin arrow pointing right, used as the favicon and in deploy-status indicators.",
+        "colorPalette": [
+          {"name": "Editor Black", "hex": "#0F1014", "meaning": "Dark theme. The native editor.", "usage": "Primary surface, marketing site, app body"},
+          {"name": "Off Paper", "hex": "#F3F1EC", "meaning": "Used as space, light theme.", "usage": "Light mode, paper, secondary"},
+          {"name": "Deploy Green", "hex": "#3E8E5A", "meaning": "Build passed. The green status dot.", "usage": "Status, CTAs, success states"}
+        ],
+        "typography": {
+          "primary": "Inter for the marketing site and product",
+          "secondary": "JetBrains Mono for code samples and shortcuts",
+          "rationale": "Inter handles the marketing pages and UI. JetBrains Mono carries the technical content."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No 'velocity transformation' marketing. No glowing-figure hero illustrations. No founder LinkedIn posts about the company values."},
+          {"title": "Where it lives", "body": "A landing page that loads real screenshots in the first scroll. A changelog written like a developer talking to other developers. Keyboard shortcuts documented next to every button."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "The reference shelf",
+          "positioning": "The pitch",
+          "targetAudience": "Who uses this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Hartshorn Software",
+        "tagline": "Considered tools.",
+        "brandNameRationale": "Two words. Hartshorn is an old English place and surname with a quiet, slightly archaic register — the opposite of every modern SaaS naming convention. Software is the plain category word. The pair feels like a small firm that decided to opt out of the tech-naming arms race, and that decision is the brand.",
+        "story": "Hartshorn Software was founded by three engineers who had spent years inside larger software companies and wanted to build a smaller catalog of tools, more carefully. The company ships one major version per year. The team is intentionally small. The customers are loyal across decades.",
+        "industrySummary": "Most premium B2B software signals premium by being expensive. There's a smaller market for software that signals premium by being restrained, slow-roadmap, deeply documented, and built to last a decade. We belong there.",
+        "competitorLandscape": "JetBrains (jetbrains.com) holds the closest peer in seriousness and restraint. Panic (panic.com) sits in the craft-led peer position. Tinderbox (eastgate.com) does the heritage indie-software middle. We sit in their company.",
+        "positioningStatement": "A small software house for teams that buy slowly and stay long.",
+        "targetAudience": {
+          "primary": "Senior engineering and product leaders at companies of 200 to 5000 engineers. They sign three-year contracts. They expect us to still be here in ten."
+        },
+        "brandPersonalityTraits": ["Considered", "Steady", "Refined", "Precise", "Patient"],
+        "voiceAndTone": {
+          "dos": [
+            "Write fewer, longer paragraphs",
+            "Use accurate technical language",
+            "Speak to the leader, not the analyst"
+          ],
+          "donts": [
+            "Run promotions",
+            "Announce features for the announcement",
+            "Use the word amazing"
+          ]
+        },
+        "logoDirection": "A serif wordmark with deliberate spacing. A small geometric mark, two perpendicular lines forming a quiet right angle, used as a hallmark on documentation, hardware, and the IDE plugin marketplace.",
+        "colorPalette": [
+          {"name": "Oak", "hex": "#3E2B1A", "meaning": "The color of an old desk in a serious room.", "usage": "Wordmark, primary brand color, foiled documents"},
+          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Paper. Spreadsheet pages.", "usage": "Background, paper, secondary"},
+          {"name": "Slate", "hex": "#2A2D30", "meaning": "Body text. Steady.", "usage": "Type, dividers"},
+          {"name": "Brass", "hex": "#A38454", "meaning": "Aged hardware accent.", "usage": "Foil, page numbers, accents"}
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and major type",
+          "secondary": "Söhne for product UI and docs",
+          "rationale": "A classical serif for the brand surface. A modern grotesk for the product surface. Each does its job and gets out of the way."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No quarterly feature announcements. No conference circuit. No social media presence for the company. No founder personal brand on Twitter."}
+        ],
+        "sectionLabels": {
+          "story": "Where this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who buys this",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "DOCS",
+        "tagline": "Write. Save. Done.",
+        "brandNameRationale": "Single word. Docs is the most basic word for what a great deal of software is actually about: the document. The brand sits on the smallest unit of work, plain and unadorned.",
+        "industrySummary": "Most document and writing software is feature-heavy and slightly bloated. There's an opening for one that strips it back to the document, the cursor, and the page.",
+        "competitorLandscape": "Most writing tools fail this purity test. The closest peers in spirit are some Japanese text-editor traditions and certain minimalist editors like iA Writer (ia.net) and Bear (bear.app).",
+        "positioningStatement": "A writing tool that does writing. That is the entire product.",
+        "targetAudience": {
+          "primary": "Adults who write daily and want a tool that gets out of the way. They distrust products that add features."
+        },
+        "brandPersonalityTraits": ["Plain", "Technical", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the cursor and the page",
+            "Document every keyboard shortcut",
+            "Use plain language"
+          ],
+          "donts": [
+            "Add an AI feature",
+            "Run a content marketing blog",
+            "Promote a 'productivity ecosystem'"
+          ]
+        },
+        "logoDirection": "A wordmark only. DOCS in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The app icon is the wordmark on a soft grey background. The website is the product.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, app, all light surfaces"},
+          {"name": "Cursor Grey", "hex": "#9C9A93", "meaning": "Quiet anchor.", "usage": "Secondary surfaces, dividers"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The product is the cursor, the page, and the wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No AI features. No mood tracker. No collaboration sidebar. No newsletter. No notifications."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The shelf",
+          "positioning": "The line",
+          "targetAudience": "Who uses this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Bayfield Software",
+        "tagline": "Enterprise software for the modern operator.",
+        "brandNameRationale": "Two words. Bayfield is a real place name with a quiet weight; it sounds like the headquarters of a firm that has been around. Software closes it plainly. The pair avoids the 'Platform Group' and 'Systems Partners' templates and reads as a real, established enterprise software firm.",
+        "industrySummary": "Mid-market enterprise software is dominated by the giant legacy vendors at the top and a long tail of point solutions at the bottom. The opening is for a structured mid-size firm focused on the operator-grade product work.",
+        "competitorLandscape": "Workday (workday.com) holds the enterprise platform peer position. ServiceNow (servicenow.com) sits at the institutional tier. Procore (procore.com) does the vertical-specific middle. Atlassian (atlassian.com) holds the developer-team peer. We sit smaller, focused on the operator middle.",
+        "positioningStatement": "Enterprise software for mid-market operators that have outgrown spreadsheets and aren't ready for Workday.",
+        "positioningRationale": "Mid-market operators are too small for the giants' attention and too sophisticated for point solutions. We sit between them with operating depth and modern usability.",
+        "targetAudience": {
+          "primary": "COOs, CIOs, and Heads of Operations at companies of 500 to 5000 employees. They sign multi-year contracts.",
+          "motivations": [
+            "Operator-grade software without legacy bloat",
+            "Reporting that connects operations to revenue",
+            "One platform across multiple operational needs"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the operating model",
+            "Show case studies with operational outcomes",
+            "Speak to the operator buyer"
+          ],
+          "donts": [
+            "Use 'digital transformation' language",
+            "Photograph models in suits pointing at screens",
+            "Run a thought-leadership podcast"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Operator-grade design", "description": "Built for the team that runs the business, not the procurement department."},
+          {"name": "One platform across needs", "description": "Operations, scheduling, reporting, and analytics under one contract."},
+          {"name": "Reporting that connects to revenue", "description": "Operational metrics measured against revenue impact, formatted for the CFO and COO together."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is two thin parallel lines suggesting a horizon. Reads cleanly on a procurement deck, name badge, and the trust center.",
+        "colorPalette": [
+          {"name": "Operator Navy", "hex": "#0F2238", "meaning": "Trust, steadiness, the boardroom.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Status Green", "hex": "#3E8E5A", "meaning": "Performance accent.", "usage": "Charts, status indicators"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and product UI",
+          "secondary": "Source Serif Pro for printed quarterly reports",
+          "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No D2C consumer features. No free tier marketed to consumers. No celebrity-CEO podcast. The firm sells through enterprise procurement."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "OFF BY ONE",
+        "tagline": "We caught it in code review.",
+        "brandNameRationale": "Three words. Off By One is the classic programming bug: the loop that runs one too many or one too few times. The brand puts the smallest, most universal engineering mistake in the brand position. Loud, self-aware, and immediately legible to any developer.",
+        "manifesto": "Most software brands sell perfection: the seamless workflow, the zero-bug release, the magical transformation. We made Off By One because the actual experience of software is debugging the small mistake nobody caught. The brand is for the engineers who know that the work is mostly in the corrections, the version increments, the patches that nobody announces.",
+        "industrySummary": "SaaS branding has been polished, transformation-led, and slightly anxious. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about the actual quiet work of building good software.",
+        "competitorLandscape": "Linear (linear.app) holds the design-led restraint peer. Vercel (vercel.com) sits at the modern monochrome tier. Cursor (cursor.com) does the modern dev-tool middle. Tailscale (tailscale.com) holds the warm-technical peer. We sit warmer than all of them, with a clearer point of view.",
+        "positioningStatement": "A SaaS brand for engineers who know the work is mostly in the corrections.",
+        "targetAudience": {
+          "primary": "25 to 45. Engineers, engineering managers, technical founders. Already use four SaaS tools. Pick tools based on whether the brand feels like the team that built it would actually use it."
+        },
+        "brandPersonalityTraits": ["Sharp", "Warm", "Confident", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Quote the worst pull request title from the week",
+            "Make jokes about engineering",
+            "Talk like the engineer who has been on call this week"
+          ],
+          "donts": [
+            "Use the word democratize",
+            "Promise to replace human work",
+            "Photograph abstract glowing figures"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display sans with the O of ONE stylized as a small subscript pointer, suggesting an array index. Standalone array-index icon for stickers, social profiles, and conference name badges.",
+        "colorPalette": [
+          {"name": "Error Red", "hex": "#D72638", "meaning": "Loud, warm, the assertion failure.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Editor Black", "hex": "#0E0E10", "meaning": "Dark IDE.", "usage": "Body type, secondary surfaces, dark mode"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note, the highlighted line.", "usage": "Highlights, social, swag"},
+          {"name": "Deploy Green", "hex": "#3E8E5A", "meaning": "Build passed.", "usage": "Status indicators, charts, success"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and product UI",
+          "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and a little weird."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not an enterprise platform. Not a transformation brand. Not afraid of red. Not too cool to celebrate fixing a typo."},
+          {"title": "Where it lives", "body": "A weekly newsletter that's mostly funny PR titles from the team. Stickers in every welcome envelope. Conference name badges that quote the worst customer-support ticket of the month. A merch line of two tees that say OFF BY ONE across the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who uses this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "industry": "robotics",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "ARM",
+        "tagline": "Built to pick.",
+        "brandNameRationale": "Single word. Arm is the most basic robotic element: the manipulator that picks, holds, and places. The brand sits on the fundamental component, plain and unadorned. Modern, technical, immediately legible to anyone in the field.",
+        "industrySummary": "Modern robotics has split between the giant industrial manufacturers (ABB, Fanuc, KUKA) and the venture-backed humanoid and software-robotics startups. The opening is for a brand that talks about robots the way a modern product company talks about products: with clarity, real demos, and concrete deployments.",
+        "competitorLandscape": "Boston Dynamics (bostondynamics.com) holds the cultural-research peer position. Covariant (covariant.ai) sits in the AI-led peer tier. Berkshire Grey (berkshiregrey.com) does the warehouse-robotics middle. We sit closest to Covariant in posture.",
+        "positioningStatement": "A robotics company that ships robots customers actually deploy.",
+        "targetAudience": {
+          "primary": "Heads of Operations, VPs of Logistics, and Plant Managers at companies of 200 to 5000 employees in manufacturing, warehousing, and fulfillment."
+        },
+        "brandPersonalityTraits": ["Direct", "Modern", "Precise", "Confident"],
+        "voiceAndTone": {
+          "dos": [
+            "Show real deployments with real customers",
+            "Lead with cycle times and uptime",
+            "Speak to the plant manager who'll deploy it"
+          ],
+          "donts": [
+            "Use the word transformative",
+            "Photograph robots against neutral backdrops",
+            "Promise general intelligence"
+          ]
+        },
+        "logoDirection": "A wordmark only. ARM in a tight modern grotesk, all caps, three letters with wide kerning. A small geometric mark, two thin angled lines suggesting a joint, used as the favicon and on every product capsule.",
+        "colorPalette": [
+          {"name": "Steel Black", "hex": "#101012", "meaning": "Powder-coated chassis.", "usage": "Wordmark, body type, primary surface"},
+          {"name": "Off Paper", "hex": "#F3F1EC", "meaning": "Used as space.", "usage": "Light mode, paper, secondary"},
+          {"name": "Safety Yellow", "hex": "#FFD23F", "meaning": "Robot-safety zone color.", "usage": "Status indicators, key callouts"}
+        ],
+        "typography": {
+          "primary": "Inter for the marketing site and product",
+          "secondary": "IBM Plex Mono for cycle times and technical specs",
+          "rationale": "Inter handles the marketing pages and product UI. The mono carries the technical specs."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No general-purpose humanoid marketing. No glowing-robot hero illustration. No 'replace workers' framing. No celebrity-CEO podcast."},
+          {"title": "Where it lives", "body": "A landing page that shows real deployments in the first scroll. A product capsule that shows cycle time, payload, and reach. A technical documentation site that's actually documentation."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The market",
+          "competitorLandscape": "The reference shelf",
+          "positioning": "The pitch",
+          "targetAudience": "Who deploys this",
+          "personality": "The feel",
+          "voiceAndTone": "How it talks",
+          "logoDirection": "The logo",
+          "colorPalette": "The colors",
+          "typography": "The fonts"
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Mowbray Robotics",
+        "tagline": "Engineered, slowly.",
+        "brandNameRationale": "Two words. Mowbray is an old English surname with industrial-heritage associations (Mowbray was an early manufacturing region in Yorkshire). Robotics is the plain category word. The pair reads as a small heritage engineering firm that has been building machines for longer than most of its customers.",
+        "story": "Mowbray Robotics began as a small engineering practice attached to a heritage industrial workshop. The current generation has stayed at the same address. Each robot is hand-finished. Each customer is recorded in the same ledger started in 1974.",
+        "industrySummary": "Top end robotics has been chasing scale and AI hype. There's a parallel market for small heritage engineering firms building hand-tuned robots for specific, high-precision applications. The customer is paying for the engineers, the build quality, and the next decade of support.",
+        "competitorLandscape": "Stäubli Robotics (staubli.com) holds the heritage Swiss engineering peer position. Universal Robots (universal-robots.com) sits at the modern collaborative-robot tier. Yaskawa (yaskawa.com) does the institutional Japanese peer middle. We sit smaller and more discreet than all of them.",
+        "positioningStatement": "A small heritage engineering firm building hand-tuned robots for specific high-precision applications.",
+        "targetAudience": {
+          "primary": "Heads of Engineering, Plant Managers, and Operations Directors at specialty manufacturers and high-precision applications. They sign multi-year contracts and value the engineering relationship across decades."
+        },
+        "brandPersonalityTraits": ["Refined", "Patient", "Precise", "Heritage", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Address the engineer by surname",
+            "Name the tolerances, the materials, the maker",
+            "Send paper service letters"
+          ],
+          "donts": [
+            "Discount",
+            "Use the word transformative",
+            "Photograph robots for press"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn gear hallmark, two intersecting curves suggesting precision engineering, used on the robot's nameplate, the printed service book, and the brass plaque outside the workshop.",
+        "colorPalette": [
+          {"name": "Workshop Green", "hex": "#1E3A30", "meaning": "Old workshop walls.", "usage": "Primary brand color, signage, paper"},
+          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the nameplate.", "usage": "Foil, hallmark, accents"},
+          {"name": "Cream", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
+          {"name": "Steel", "hex": "#3A3F44", "meaning": "Polished metal, the robot itself.", "usage": "Body type, secondary surfaces"}
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the technical specifications",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the technical specifications."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No general-purpose robots. No press tour. No celebrity-CEO podcast. No social media presence."}
+        ],
+        "sectionLabels": {
+          "story": "How this began",
+          "industrySummary": "The category",
+          "competitorLandscape": "The neighborhood",
+          "positioning": "The promise",
+          "targetAudience": "Who we build for",
+          "personality": "How it carries itself",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Palette",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "MOTION",
+        "tagline": "Programmable.",
+        "brandNameRationale": "Single word. Motion is what robotics is fundamentally about: programmable physical movement. The brand sits on the discipline's core idea, plain and direct.",
+        "industrySummary": "Most robotics brands have elaborate names suggesting intelligence, autonomy, or transformation. There's an opening for one that strips it back to the fundamental concept: programmable motion.",
+        "competitorLandscape": "Most robotics brands fail this purity test. The closest peers in spirit are some Japanese industrial-robotics traditions and certain Scandinavian engineering aesthetics.",
+        "positioningStatement": "A robotics company named after what robots actually do.",
+        "targetAudience": {
+          "primary": "Engineers, plant managers, and operations leaders who buy on technical specs and don't need a brand story. They want the cycle time, the payload, the price."
+        },
+        "brandPersonalityTraits": ["Plain", "Technical", "Direct", "Considered"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the cycle time, payload, reach, repeatability",
+            "Document every API call",
+            "Use plain English where plain English will do"
+          ],
+          "donts": [
+            "Use the word intelligence",
+            "Run hype-led marketing",
+            "Photograph robots against neutral backdrops"
+          ]
+        },
+        "logoDirection": "A wordmark only. MOTION in a single weight grotesk, wide kerned, all caps, six letters with generous space. No icon. The robot nameplate, the documentation, and the invoice all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
+          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, documentation, all neutrals"},
+          {"name": "Steel", "hex": "#9C9A93", "meaning": "Quiet anchor.", "usage": "Secondary surfaces, dividers"}
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The nameplate, the documentation, and the invoice all carry the same wordmark."
+        },
+        "customSections": [
+          {"title": "Not this", "body": "No general-purpose humanoid marketing. No founder podcast. No conference circuit. No social media presence."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "Where we are",
+          "competitorLandscape": "The reference",
+          "positioning": "The line",
+          "targetAudience": "Who deploys this",
+          "personality": "The feel",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "Color",
+          "typography": "Type"
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Caldwell Robotics Co.",
+        "tagline": "Industrial automation services.",
+        "brandNameRationale": "Three words. Caldwell is a distinctive heritage surname with industrial associations. Robotics names the category. Co. closes it as a real, established firm. The whole name reads like an actual mid-size industrial automation firm already on the procurement panel at manufacturers.",
+        "industrySummary": "Industrial automation services is a multi-billion-dollar B2B category. Manufacturers, warehouse operators, and logistics companies need partners who can deliver automation deployments at scale with operational discipline. The category is dominated by the giants and a few specialist integrators.",
+        "competitorLandscape": "ABB Robotics (new.abb.com/products/robotics) holds the institutional giant peer position. KUKA (kuka.com) sits at the same tier. Fanuc (fanuc.com) is the Japanese peer. We sit smaller and more focused on the contemporary mid-market manufacturer side.",
+        "positioningStatement": "Industrial automation services for mid-market manufacturers and warehouse operators.",
+        "positioningRationale": "Mid-market manufacturers want automation partners with the engineering depth of the giants and the responsiveness of a smaller firm. We sit between them.",
+        "targetAudience": {
+          "primary": "Plant Directors, VPs of Operations, and Heads of Manufacturing at companies of 200 to 5000 employees. They sign multi-year automation deployment contracts.",
+          "motivations": [
+            "Automation deployment with engineering depth",
+            "Multi-year service support and parts availability",
+            "One partner across design, installation, and operations"
+          ]
+        },
+        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with deployment outcomes",
+            "Show case studies with throughput and uptime data",
+            "Speak to the plant director"
+          ],
+          "donts": [
+            "Use 'general intelligence' language",
+            "Promote individual customer deployments on consumer social",
+            "Run a celebrity-CEO podcast"
+          ]
+        },
+        "messagingPillars": [
+          {"name": "Engineering depth", "description": "In-house engineering team with deep experience across major robotics platforms."},
+          {"name": "Multi-year service support", "description": "Long-term service agreements with documented uptime and parts availability."},
+          {"name": "One partner across phases", "description": "Design, installation, integration, and operations under one contract."}
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single rotational arrow, suggesting a robotic joint axis. Reads cleanly on a procurement deck, name badge, and B2B trade show booth.",
+        "colorPalette": [
+          {"name": "Plant Navy", "hex": "#0F2238", "meaning": "Trust, scale, the engineering room.", "usage": "Logo, primary surfaces"},
+          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
+          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
+          {"name": "Uptime Green", "hex": "#3E8E5A", "meaning": "Status accent.", "usage": "Charts, status indicators, success states"}
+        ],
+        "typography": {
+          "primary": "Inter for marketing and product UI",
+          "secondary": "Source Serif Pro for printed engineering documentation",
+          "rationale": "Inter scales clean across digital. The serif handles formal engineering documentation and printed proposals."
+        },
+        "customSections": [
+          {"title": "What it doesn't do", "body": "No consumer robot. No D2C product. No celebrity-CEO press strategy. The firm sells through enterprise industrial procurement."}
+        ],
+        "sectionLabels": {
+          "industrySummary": "The category",
+          "competitorLandscape": "The competitive set",
+          "positioning": "Our positioning",
+          "targetAudience": "Who buys this",
+          "personality": "Brand personality",
+          "voiceAndTone": "Voice and tone",
+          "messagingPillars": "What we say",
+          "logoDirection": "Logo",
+          "colorPalette": "Color system",
+          "typography": "Typography"
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "HARD STOP",
+        "tagline": "Engineered to know when to stop.",
+        "brandNameRationale": "Two words. Hard Stop is the robotics-safety term for the mechanical end-of-travel limit that prevents a robot from going further than it should. The brand names the discipline of knowing when not to move. Loud, sharp, and immediately legible to engineers and operators.",
+        "manifesto": "Most robotics brands sell autonomy, intelligence, and motion. We made Hard Stop because the most important engineering decision in any robot is when not to move. The brand is for the engineers who know that safety, discipline, and known limits are what make a robot worth deploying. We are anti-hype, pro-engineering.",
+        "industrySummary": "Robotics branding has been polished, AI-hyped, and slightly grandiose. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about the actual engineering work of building robots that customers will trust.",
+        "competitorLandscape": "Universal Robots (universal-robots.com) holds the modern collaborative-robot peer position. Realtime Robotics (rtr.ai) sits in the modern motion-planning tier. ANYbotics (anybotics.com) does the design-led legged-robot middle. We sit warmer than all of them and clearer about safety.",
+        "positioningStatement": "A robotics brand for engineers who know that knowing when to stop is the harder problem.",
+        "targetAudience": {
+          "primary": "30 to 55. Engineers, plant managers, and robotics integrators. Has seen one robot fail in a way that shouldn't have happened. Buys the brand because the marketing made them feel like the team thinks about safety the way they do."
+        },
+        "brandPersonalityTraits": ["Sharp", "Warm", "Confident", "Direct", "Friendly"],
+        "voiceAndTone": {
+          "dos": [
+            "Show the safety envelope, the limits, the documentation",
+            "Make jokes about robotics hype",
+            "Talk like the engineer who has done the safety review"
+          ],
+          "donts": [
+            "Use the word autonomy without qualifying it",
+            "Photograph robots in dramatic poses",
+            "Promote a 'general intelligence' roadmap"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display sans with the O of STOP stylized as a small mechanical stop pin. Standalone stop-pin icon for stickers, social profiles, and the back of every safety manual.",
+        "colorPalette": [
+          {"name": "Stop Red", "hex": "#D72638", "meaning": "Loud, the emergency-stop button.", "usage": "Primary brand color, hero surfaces, stickers"},
+          {"name": "Safety Yellow", "hex": "#FFD23F", "meaning": "Robot-safety zone.", "usage": "Accents, swag, social"},
+          {"name": "Steel Black", "hex": "#0E0E10", "meaning": "Anchor, the chassis.", "usage": "Body type, secondary surfaces"},
+          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
+          {"name": "Indigo", "hex": "#3870FF", "meaning": "Software accent.", "usage": "Highlights, status indicators"}
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and technical documentation",
+          "rationale": "Migra has personality and warmth. Neue Montreal handles the technical bits. The pair feels designed and honest."
+        },
+        "customSections": [
+          {"title": "What it isn't", "body": "Not an AI-hype brand. Not a general-purpose humanoid pitch. Not afraid of red. Not too cool to celebrate a safety review."},
+          {"title": "Where it lives", "body": "Safety manuals that are actually well-written. Stickers in every robot box. A small in-person meetup for robotics engineers every quarter. A merch line of two tees that say HARD STOP across the back."}
+        ],
+        "sectionLabels": {
+          "manifesto": "Why we exist",
+          "industrySummary": "The room",
+          "competitorLandscape": "Who else is around",
+          "positioning": "The pitch",
+          "targetAudience": "Who deploys this",
+          "personality": "The vibe",
+          "voiceAndTone": "Voice",
+          "logoDirection": "The mark",
+          "colorPalette": "The colors",
+          "typography": "Type"
+        },
+        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+      }
+    ]
+  }
+}
