@@ -18,7 +18,12 @@
             "Members who put the weights back"
           ]
         },
-        "brandPersonalityTraits": ["Direct", "Quiet", "Confident", "Modern"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Quiet",
+          "Confident",
+          "Modern"
+        ],
         "voiceAndTone": {
           "dos": [
             "Say what you mean",
@@ -33,9 +38,24 @@
         },
         "logoDirection": "A bold sans wordmark. REPS in extra heavy weight, slightly condensed. The S can be slightly stylized like a barbell collar but never made into an icon. The mark alone is enough.",
         "colorPalette": [
-          {"name": "Pure Black", "hex": "#0A0A0A", "meaning": "The color of an unused barbell.", "usage": "Wordmark, signage, primary surface"},
-          {"name": "Chalk White", "hex": "#F7F5F0", "meaning": "Used as space. The color on the rack at 6 in the morning.", "usage": "Background, secondary surfaces"},
-          {"name": "Hi-Vis Lime", "hex": "#C8FF00", "meaning": "One bright accent. Used like a timer on the wall.", "usage": "Class times, signage, hover states"}
+          {
+            "name": "Pure Black",
+            "hex": "#0A0A0A",
+            "meaning": "The color of an unused barbell.",
+            "usage": "Wordmark, signage, primary surface"
+          },
+          {
+            "name": "Chalk White",
+            "hex": "#F7F5F0",
+            "meaning": "Used as space. The color on the rack at 6 in the morning.",
+            "usage": "Background, secondary surfaces"
+          },
+          {
+            "name": "Hi-Vis Lime",
+            "hex": "#C8FF00",
+            "meaning": "One bright accent. Used like a timer on the wall.",
+            "usage": "Class times, signage, hover states"
+          }
         ],
         "typography": {
           "primary": "GT America Condensed for the wordmark",
@@ -43,7 +63,10 @@
           "rationale": "Condensed sans for the headline. A clean grotesk for the schedule, the website, the digital. No serifs anywhere."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No transformation programs. No challenges. No coach photos. No before-and-after content. No motivational quotes on the wall."}
+          {
+            "title": "What it doesn't do",
+            "body": "No transformation programs. No challenges. No coach photos. No before-and-after content. No motivational quotes on the wall."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -55,6 +78,91 @@
           "logoDirection": "The mark",
           "colorPalette": "The colors",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "fitness-modern-2",
+        "brandName": "TODAY",
+        "tagline": "The only word that gets you to the gym.",
+        "brandNameRationale": "One word. The argument every member has with themselves on the way out the door. We made the answer the name. The sign on the door says TODAY. Reads as both a challenge and a permission.",
+        "manifesto": "Most gyms market on transformation — the body, the year, the program. We started Today because the only fight that matters is the one happening at 6:42am, when you decide whether to come in or not. The brand exists to close that argument in your favor. Show up today. The rest takes care of itself.",
+        "industrySummary": "Boutique fitness has matured into known categories: cycling, lifting, pilates, recovery. The shared problem across all of them is consistency. A brand built around showing up, not around a methodology, is missing from the market.",
+        "competitorLandscape": "Equinox (equinox.com) holds the premium boutique slot. Barry's (barrys.com) defines the format-led HIIT studio. F45 (f45training.com) sits in the franchise-functional middle. We sit underneath all of them with a brand built around attendance, not methodology.",
+        "positioningStatement": "Today is a gym built around showing up — daily, simple, on time.",
+        "positioningRationale": "The product is a 45-minute session, daily, designed around a member walking through the door. We compete on consistency, not on programming.",
+        "targetAudience": {
+          "primary": "Working adults 25–45 who have a gym membership and use it irregularly.",
+          "behaviors": [
+            "Have an active membership but a sub-3x week attendance.",
+            "Pack a bag the night before and don't unpack it.",
+            "Quit and rejoin once a year.",
+            "Read habit books."
+          ],
+          "motivations": [
+            "Want to be a person who works out today.",
+            "Want a session that does not require planning.",
+            "Want a gym that makes attendance the win."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Warm",
+          "Modern",
+          "Practical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the day, not the program.",
+            "Use the imperative — 'come in today'.",
+            "Celebrate attendance streaks in plain copy.",
+            "Write the schedule as a daily promise."
+          ],
+          "donts": [
+            "No transformation marketing.",
+            "No before-and-after photography.",
+            "No body-shaming copy.",
+            "No 'no excuses' tone."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One session a day",
+            "description": "Every day has one published session at one published time. No browsing the schedule. You show up at 7."
+          },
+          {
+            "name": "The attendance streak",
+            "description": "We track and celebrate attendance, not weight. Streaks are private to the member. We send a paper card on milestones."
+          },
+          {
+            "name": "Open the door early",
+            "description": "The door opens fifteen minutes before the session, every day. The barrier is not the workout — it is the building."
+          }
+        ],
+        "logoDirection": "A wordmark — TODAY set in a wide modern grotesque, all caps, with a small dot under the Y like a period. Reads as a complete sentence.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "The walls and the page — a calm off-white.",
+            "usage": "Studio surfaces and marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type and chrome.",
+            "usage": "All body and signage."
+          },
+          {
+            "name": "Signal",
+            "hex": "#FF6B3D",
+            "meaning": "A working orange — used for the day's session marker.",
+            "usage": "Today's class chip, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A modern grotesque, wide and confident, for the wordmark and signage.",
+          "secondary": "A neutral sans for working type.",
+          "rationale": "The wordmark sets the tone. Everything else is functional."
         }
       }
     ],
@@ -70,7 +178,13 @@
         "targetAudience": {
           "primary": "40 to 65. Successful. Time-poor. Has tried the big clubs and didn't love the noise. Trains four times a week. Pays for things to be done well, not done loudly."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Considered", "Steady", "Confident"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Considered",
+          "Steady",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Speak softly",
@@ -85,10 +199,30 @@
         },
         "logoDirection": "A serif wordmark. THE RESERVE set in a high contrast classical face, wide kerned, all caps. A standalone R monogram with a small leaf detail for towels, key fobs, and members' stationery. The mark is small everywhere except on the front door.",
         "colorPalette": [
-          {"name": "Court Green", "hex": "#1E3A30", "meaning": "Deep forest, old library, members' room.", "usage": "Walls, primary brand color, signage"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Aged hardware. The number on the door.", "usage": "Foil, accents, hardware"},
-          {"name": "Ivory", "hex": "#EFE9DB", "meaning": "Linen towels, cream walls, hand-laid paper.", "usage": "Background, paper, towels"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious, restrained.", "usage": "Body type, flooring photography"}
+          {
+            "name": "Court Green",
+            "hex": "#1E3A30",
+            "meaning": "Deep forest, old library, members' room.",
+            "usage": "Walls, primary brand color, signage"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Aged hardware. The number on the door.",
+            "usage": "Foil, accents, hardware"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#EFE9DB",
+            "meaning": "Linen towels, cream walls, hand-laid paper.",
+            "usage": "Background, paper, towels"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious, restrained.",
+            "usage": "Body type, flooring photography"
+          }
         ],
         "typography": {
           "primary": "Tiempos Headline for the wordmark and primary type",
@@ -96,7 +230,10 @@
           "rationale": "A high contrast serif for the brand. A composed grotesk for everything functional. Nothing decorative."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public membership. No flash sales. No filming. No social media presence. No celebrity partnerships, ever."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public membership. No flash sales. No filming. No social media presence. No celebrity partnerships, ever."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -109,6 +246,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "fitness-luxury-2",
+        "brandName": "Marlbrook Athletic Club",
+        "tagline": "A private club, not a gym.",
+        "brandNameRationale": "Marlbrook is a quiet, slightly English-sounding place-name. Athletic Club is the old-fashioned category — older than gym, older than fitness. The pair reads as members-only, with brass plaques and a long-standing roster.",
+        "story": "Marlbrook is a single-location athletic club with a capped membership. The club is closed on Sundays. The same coaches have been on the floor for over a decade. The annual dinner has a dress code.",
+        "industrySummary": "Premium fitness has fragmented into boutique formats. There is a quieter, older market for the single-location athletic club — capped membership, multiple disciplines under one roof, long-tenure staff, no franchise.",
+        "competitorLandscape": "The Aman Spa (aman.com/spa) sets the resort-wellness reference. Equinox (equinox.com) is the premium chain peer. Reignwood Pine Valley (rwpv.cn) is the private-club international peer. We sit in the single-location athletic-club tradition — closer to a 19th-century gentlemen's-club register, refreshed for now.",
+        "positioningStatement": "A capped-membership athletic club at one location, with multiple disciplines and long-tenure coaches.",
+        "positioningRationale": "Membership is by referral and is capped. We do not expand. The product is the building and the people in it.",
+        "targetAudience": {
+          "primary": "Adults 35–60 with a long-term relationship with their own training.",
+          "behaviors": [
+            "Train five mornings a week.",
+            "Choose coaches by referral.",
+            "Care about who else is in the room.",
+            "Renew memberships indefinitely."
+          ],
+          "motivations": [
+            "Want a club, not a gym chain.",
+            "Want to know the coaching staff personally.",
+            "Want the room to be full of people they respect."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Refer to members by surname in correspondence.",
+            "Publish the annual schedule on printed cards.",
+            "Mention coaches by name.",
+            "Send a written welcome on enrollment."
+          ],
+          "donts": [
+            "No social-media presence beyond a single member-only feed.",
+            "No promotional pricing.",
+            "No 'transformation' marketing.",
+            "No before-and-after photography."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Capped membership",
+            "description": "The club has a fixed cap. New members join when others leave, by referral. The waiting list is real."
+          },
+          {
+            "name": "One building, many disciplines",
+            "description": "Boxing, rowing, lifting, pilates, recovery, all under one roof, scheduled around each other. Members move between rooms without thinking."
+          },
+          {
+            "name": "Coaches who stay",
+            "description": "The senior coaches have been on the floor for over a decade. Members train with the same person for years."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Marlbrook set in a classical book serif, with 'Athletic Club' in tracked small caps beneath, and a small crest of two crossed oars to the left. Brass-plaque register.",
+        "colorPalette": [
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Primary — a deep, club-feeling green.",
+            "usage": "Wordmark, signage, member cards."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and stationery.",
+            "usage": "Letterhead, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Accent — the brass-plaque tone.",
+            "usage": "Crest, signature details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and letterhead.",
+          "secondary": "An old-style serif for body type.",
+          "rationale": "Letterpress register. The club's communications are printed where possible."
         }
       }
     ],
@@ -123,7 +345,12 @@
         "targetAudience": {
           "primary": "Adults who train and don't need it to be exciting. They want one good gym, one good coach, one good plan. They will pay for that, and not for anything else."
         },
-        "brandPersonalityTraits": ["Calm", "Considered", "Honest", "Patient"],
+        "brandPersonalityTraits": [
+          "Calm",
+          "Considered",
+          "Honest",
+          "Patient"
+        ],
         "voiceAndTone": {
           "dos": [
             "Use plain words",
@@ -138,9 +365,24 @@
         },
         "logoDirection": "A wordmark only. FORM set in a precise grotesk, all caps, light weight. No icon. No second mark. Wide kerning so the four letters earn their space.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#161616", "meaning": "Type and structure.", "usage": "Wordmark, body type"},
-          {"name": "Paper", "hex": "#F0EDE6", "meaning": "Used as space.", "usage": "Background, all neutral surfaces"},
-          {"name": "Mid Grey", "hex": "#9C9A93", "meaning": "Quiet anchor. Walls between rooms.", "usage": "Secondary, dividers"}
+          {
+            "name": "Ink",
+            "hex": "#161616",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F0EDE6",
+            "meaning": "Used as space.",
+            "usage": "Background, all neutral surfaces"
+          },
+          {
+            "name": "Mid Grey",
+            "hex": "#9C9A93",
+            "meaning": "Quiet anchor. Walls between rooms.",
+            "usage": "Secondary, dividers"
+          }
         ],
         "typography": {
           "primary": "ABC Diatype",
@@ -148,7 +390,10 @@
           "rationale": "One family. Two weights. Nothing else."
         },
         "customSections": [
-          {"title": "Not this", "body": "No transformation. No challenges. No before-and-after. No supplements. No merch."}
+          {
+            "title": "Not this",
+            "body": "No transformation. No challenges. No before-and-after. No supplements. No merch."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -160,6 +405,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "fitness-minimal-2",
+        "brandName": "LIFT",
+        "tagline": "The verb. The gym.",
+        "brandNameRationale": "One word. The verb that describes 90% of what happens here. We named the studio after the action and stopped. The sign on the door says LIFT. Members understand what the room is.",
+        "manifesto": "Gym marketing has run away from the work. Sculpt, tone, transform, become. We made Lift because the work is just lifting heavy things and putting them down. The room has barbells, a few racks, chalk, and a clock. That is the gym. The brand is honest about that.",
+        "industrySummary": "Strength-only studios have grown as a category but most are wrapped in extra programming, recovery branding, and lifestyle copy. There is room for a brand that strips the surface to the bar itself.",
+        "competitorLandscape": "Barbell Logic (barbell-logic.com) holds the strength-coaching slot. Starting Strength (startingstrength.com) is the methodology reference. The Strength House (thestrengthhouse.com) is a peer in tone. We sit further out — less methodology, fewer words, just the bar.",
+        "positioningStatement": "LIFT is a strength studio with barbells, racks, and a clock. Nothing else.",
+        "positioningRationale": "We strip the studio surface. No music programming, no class formats, no recovery-room theatre. Open hours, plates, racks, the clock.",
+        "targetAudience": {
+          "primary": "Lifters who know their numbers and just need a quiet room with good equipment.",
+          "behaviors": [
+            "Have been training for two-plus years.",
+            "Track their lifts in a notebook.",
+            "Skip the cardio room.",
+            "Prefer the gym at 6am or 9pm."
+          ],
+          "motivations": [
+            "Want a quiet room with serious equipment.",
+            "Want to skip the class schedule.",
+            "Want a low monthly price."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with hours and equipment.",
+            "Skip programming language.",
+            "Write the website like a small posted notice.",
+            "Use one photograph of the room."
+          ],
+          "donts": [
+            "No transformation marketing.",
+            "No coach-of-the-month features.",
+            "No methodology brand.",
+            "No music playlists."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Just the bar",
+            "description": "Eight platforms, twelve racks, a full set of plates, dumbbells to 50kg, chalk, a clock. That is the studio."
+          },
+          {
+            "name": "Open hours",
+            "description": "We post the open hours. We do not run classes. You come when you come."
+          },
+          {
+            "name": "Quiet room",
+            "description": "The room is quiet by policy. No piped-in playlist. No coaches yelling. Members train."
+          }
+        ],
+        "logoDirection": "LIFT set in a heavy grotesque, all caps, slightly compressed. Appears on the door, the chalk bowl, and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Concrete",
+            "hex": "#A8A29E",
+            "meaning": "The walls — a working grey.",
+            "usage": "Studio surface and marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#0B0B10",
+            "meaning": "Type and equipment.",
+            "usage": "All copy and most of the room."
+          },
+          {
+            "name": "Chalk",
+            "hex": "#F2EFE6",
+            "meaning": "Accent — the color of the chalk on the bar.",
+            "usage": "Wordmark on the door."
+          }
+        ],
+        "typography": {
+          "primary": "A heavy grotesque, all caps, for the wordmark and signage.",
+          "secondary": "A neutral sans for working type.",
+          "rationale": "Two weights, two uses. The brand is concrete and chalk."
         }
       }
     ],
@@ -180,7 +509,13 @@
             "Clean monthly reporting"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the deliverable",
@@ -194,16 +529,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "One partner across sites", "description": "We run the gym, the programs, the events, and the reporting under one contract."},
-          {"name": "Real engagement", "description": "We measure attendance, not memberships sold. The number that matters is who came back."},
-          {"name": "Reporting that procurement uses", "description": "Quarterly utilization reports, ROI summaries, and renewal-ready data."}
+          {
+            "name": "One partner across sites",
+            "description": "We run the gym, the programs, the events, and the reporting under one contract."
+          },
+          {
+            "name": "Real engagement",
+            "description": "We measure attendance, not memberships sold. The number that matters is who came back."
+          },
+          {
+            "name": "Reporting that procurement uses",
+            "description": "Quarterly utilization reports, ROI summaries, and renewal-ready data."
+          }
         ],
         "logoDirection": "A wordmark with a small structural mark to the left. The mark is a stack of three short bars, ascending. Reads as progress, not motion. Works on uniforms, vans, signage, and a procurement deck.",
         "colorPalette": [
-          {"name": "Trust Navy", "hex": "#0E2238", "meaning": "Deep blue, steady, conservative.", "usage": "Logo, primary surfaces"},
-          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean and unfussy.", "usage": "Backgrounds, paper"},
-          {"name": "Steel", "hex": "#5E6A75", "meaning": "Structure and balance.", "usage": "Secondary text, dividers"},
-          {"name": "Signal Green", "hex": "#3E8E5A", "meaning": "Positive metric. Used as a small accent.", "usage": "Charts, hover, success states"}
+          {
+            "name": "Trust Navy",
+            "hex": "#0E2238",
+            "meaning": "Deep blue, steady, conservative.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5E6A75",
+            "meaning": "Structure and balance.",
+            "usage": "Secondary text, dividers"
+          },
+          {
+            "name": "Signal Green",
+            "hex": "#3E8E5A",
+            "meaning": "Positive metric. Used as a small accent.",
+            "usage": "Charts, hover, success states"
+          }
         ],
         "typography": {
           "primary": "Inter",
@@ -211,7 +575,10 @@
           "rationale": "Inter scales clean across digital and print. Reserve the serif for the few documents that get printed and read at a desk."
         },
         "customSections": [
-          {"title": "What it doesn't sell", "body": "No D2C app. No wearables. No supplements. No personal training to the public. No celebrity coaches."}
+          {
+            "title": "What it doesn't sell",
+            "body": "No D2C app. No wearables. No supplements. No personal training to the public. No celebrity coaches."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -224,6 +591,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "fitness-corporate-2",
+        "brandName": "Whitcomb Fitness Holdings",
+        "tagline": "Multi-format fitness operator across North America.",
+        "brandNameRationale": "Whitcomb is a surname that reads as a holding-company founder. Fitness Holdings signals a portfolio operator with several brands under management. The pair tells investors and franchisees what this entity is — not a gym, an operator.",
+        "manifesto": "Whitcomb operates a portfolio of fitness brands across multiple formats — strength, group HIIT, recovery, pilates. The brands keep their identities. We provide the operational platform: payroll, scheduling, billing, real-estate, supplier contracts, finance, compliance. The studios get to focus on coaching.",
+        "industrySummary": "Fitness has consolidated under a small number of large operators (Xponential, F45, etc). The opening is for a serious mid-market multi-brand operator with a real-estate and operations focus, not a marketing-led franchisor.",
+        "competitorLandscape": "Xponential Fitness (xponential.com) is the multi-brand reference. Self Esteem Brands (selfesteembrands.com) is the peer. Goodlife Fitness (goodlifefitness.com) holds the Canadian operator slot. We sit in the regional multi-brand operator category.",
+        "positioningStatement": "Whitcomb Fitness Holdings is a multi-format fitness operator running studios under their own brands across North America.",
+        "positioningRationale": "We compete on operational depth, real-estate footprint, and a unified back office. The studio brands keep their voice; the operations live with us.",
+        "targetAudience": {
+          "primary": "Studio owners considering acquisition, real-estate landlords seeking strong tenants, and institutional investors holding fitness assets.",
+          "behaviors": [
+            "Review unit economics across multiple brands.",
+            "Sit on franchisor and franchisee boards.",
+            "Care about EBITDA per studio.",
+            "Negotiate multi-year lease packages."
+          ],
+          "motivations": [
+            "Want an operator with a proven multi-brand platform.",
+            "Want a partner who can take operational load off the studio owner.",
+            "Want predictable reporting and lease cooperation."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with unit economics, lease portfolio, and brand mix.",
+            "Speak the language of franchise operators and asset managers.",
+            "Publish a quarterly operator letter.",
+            "Refer to studios by name, not by Whitcomb branding."
+          ],
+          "donts": [
+            "No consumer marketing in the holding-company voice.",
+            "No social-media presence at the holding level.",
+            "No surprise brand consolidation moves.",
+            "No quarterly hype releases."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We hold and operate four to seven studio brands across strength, HIIT, recovery, and pilates. Each keeps its identity."
+          },
+          {
+            "name": "One back office",
+            "description": "Studios run on a single unified back office — payroll, billing, scheduling, finance, compliance, real estate. Operators focus on coaching."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with studio operators looking for an operational platform without losing the brand they built."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Whitcomb set in a traditional book serif, with 'Fitness Holdings' beneath in tracked small caps. Used in board decks, investor materials, and the holding-company office. Not used in studios.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary — a serious, holding-company navy.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Accent — sparingly.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and letters.",
+          "secondary": "A clean enterprise grotesque for reports and financials.",
+          "rationale": "Tables and numbers are tabular and disciplined."
         }
       }
     ],
@@ -239,7 +691,13 @@
         "targetAudience": {
           "primary": "25 to 40. Working hard at something. A founder, a creative, a freelancer, a person juggling. Walks into the gym to clear their head, not to lose weight. Pays for the gym because it makes the rest of their work better."
         },
-        "brandPersonalityTraits": ["Sharp", "Funny", "Warm", "Confident", "Honest"],
+        "brandPersonalityTraits": [
+          "Sharp",
+          "Funny",
+          "Warm",
+          "Confident",
+          "Honest"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make a joke at our own expense",
@@ -254,10 +712,30 @@
         },
         "logoDirection": "A wordmark with a small dollar sign worked into the E of Equity. Subtle enough that you have to look twice. Works on a tee, a totebag, and the front door. Standalone $ mark for stickers and Instagram avatar.",
         "colorPalette": [
-          {"name": "Cash Green", "hex": "#0E6E4F", "meaning": "The color of a checkbook from 1995. Money green.", "usage": "Logo, primary surface, hoodies"},
-          {"name": "Receipt Pink", "hex": "#FFB7B7", "meaning": "Quiet warmth. The opposite of harsh.", "usage": "Accent, social, hover"},
-          {"name": "Paper Cream", "hex": "#F4EFE2", "meaning": "Used as space.", "usage": "Backgrounds, paper"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Text, structure, the wordmark on light.", "usage": "Body, headlines, structure"}
+          {
+            "name": "Cash Green",
+            "hex": "#0E6E4F",
+            "meaning": "The color of a checkbook from 1995. Money green.",
+            "usage": "Logo, primary surface, hoodies"
+          },
+          {
+            "name": "Receipt Pink",
+            "hex": "#FFB7B7",
+            "meaning": "Quiet warmth. The opposite of harsh.",
+            "usage": "Accent, social, hover"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Text, structure, the wordmark on light.",
+            "usage": "Body, headlines, structure"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big headlines",
@@ -265,8 +743,14 @@
           "rationale": "Migra carries the personality. Neue Montreal handles the work. The combo feels expensive and a little weird, in a good way."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a wellness brand. Not a transformation brand. Not a cult. Not silent. Not for everyone."},
-          {"title": "Where it lives", "body": "Hoodies and totes you actually want to wear out. The gym has one wall of past member photos taken by a film camera at the front desk. Social is text-on-green, full of inside jokes that always land."}
+          {
+            "title": "What it isn't",
+            "body": "Not a wellness brand. Not a transformation brand. Not a cult. Not silent. Not for everyone."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Hoodies and totes you actually want to wear out. The gym has one wall of past member photos taken by a film camera at the front desk. Social is text-on-green, full of inside jokes that always land."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why this exists",
@@ -280,7 +764,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "fitness-creative-2",
+        "brandName": "SWEAT MORE",
+        "tagline": "Two words. No methodology.",
+        "brandNameRationale": "Two words that are slightly rude and slightly right. Sweat More is the only instruction the studio gives. It refuses to argue methodology, format, or programming. It just names the outcome.",
+        "manifesto": "Fitness brands have become methodology cults. Pilates is the answer. HIIT is the answer. Strength is the answer. We made Sweat More because the only honest answer is the obvious one — you are not sweating enough. Pick anything. Show up. Sweat. The methodology is downstream of the effort.",
+        "industrySummary": "Studios compete on methodology. The customer is methodology-fatigued. There is a real opening for a brand that takes a step back, names the outcome, and lets the customer pick from a rotating menu of disciplines.",
+        "competitorLandscape": "ClassPass (classpass.com) plays the multi-discipline aggregator role. Equinox (equinox.com) holds the premium multi-format position. Barry's (barrys.com) is the format-purist peer. We sit between aggregation and format with a single, opinionated message.",
+        "positioningStatement": "Sweat More is a studio that rotates disciplines weekly — and refuses to argue which one is best.",
+        "positioningRationale": "Members come for the effort, not the method. The schedule rotates. The marketing is the effort itself.",
+        "targetAudience": {
+          "primary": "Working adults 25–40 who have done three different fitness things in the last two years and are still in the market.",
+          "behaviors": [
+            "Cycle between formats every six months.",
+            "Read program comparisons.",
+            "Resent methodology debates.",
+            "Want a sweat-soaked t-shirt at the end."
+          ],
+          "motivations": [
+            "Want effort, not theory.",
+            "Want a varied week.",
+            "Want to skip the format wars."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Loud",
+          "Opinionated",
+          "Warm",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use the imperative.",
+            "Refuse methodology debates in copy.",
+            "Celebrate effort, not numbers.",
+            "Print 'SWEAT MORE' on every wall."
+          ],
+          "donts": [
+            "No methodology marketing.",
+            "No format-purist content.",
+            "No 'science-backed' claims.",
+            "No transformation photography."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Rotating week",
+            "description": "Strength, conditioning, mobility, sprint, and one wild card per week. The schedule rotates. Members pick effort, not format."
+          },
+          {
+            "name": "The shirt",
+            "description": "Members get a plain cotton t-shirt with SWEAT MORE printed on the back. It is the only piece of merch. It is the only marketing."
+          },
+          {
+            "name": "Effort, not numbers",
+            "description": "We do not track weights, calories, or PRs. We track attendance and effort. The wall shows the streaks."
+          }
+        ],
+        "logoDirection": "A wordmark — SWEAT MORE set in a heavy condensed grotesque, all caps, almost shouting. Used at huge scale on the walls and the t-shirts.",
+        "colorPalette": [
+          {
+            "name": "Concrete",
+            "hex": "#1F1F1F",
+            "meaning": "Walls — the room is dark on purpose.",
+            "usage": "Studio interiors and marketing."
+          },
+          {
+            "name": "Signal",
+            "hex": "#FF3D00",
+            "meaning": "Primary accent — a hot orange used loudly.",
+            "usage": "Wordmark, t-shirts, signage."
+          },
+          {
+            "name": "Chalk",
+            "hex": "#F2EFE6",
+            "meaning": "Type and detail.",
+            "usage": "All body copy."
+          }
+        ],
+        "typography": {
+          "primary": "A heavy condensed grotesque for the wordmark and signage.",
+          "secondary": "A neutral sans for working type.",
+          "rationale": "Two faces, two volumes. The brand is loud where it matters and quiet everywhere else."
+        }
       }
     ]
   }
