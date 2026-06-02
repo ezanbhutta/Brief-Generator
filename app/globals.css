@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --background: #fafafa;
-  --foreground: #0a0a0a;
+  --background: #f5f2ec;
+  --foreground: #160a33;
 }
 
 html,
@@ -13,17 +13,32 @@ body {
   color: var(--foreground);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
-/* Subtle scrollbar */
+body {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 220 220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.06 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+
+::selection {
+  background: #7229ff;
+  color: #fbf9f4;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
   height: 10px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #d4d4d8;
+  background: #c9bcff;
   border-radius: 8px;
 }
 ::-webkit-scrollbar-track {
   background: transparent;
+}
+
+/* Display headings: tighten leading for editorial feel */
+.font-display {
+  letter-spacing: -0.015em;
+  line-height: 0.95;
 }
