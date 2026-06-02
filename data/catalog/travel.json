@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "30 to 50. Travels for work and pleasure. Has a frequent flyer status they don't talk about. Books their own trips usually, hires us for the ones that matter."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Quiet"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Quiet"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the price",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. PASSAGE in a tight modern serif, all caps, narrow tracking. The two A's set with a subtly shared crossbar, suggesting a connecting route. A standalone arrow-style mark, a simple chevron, for app and social use.",
         "colorPalette": [
-          {"name": "Passage Black", "hex": "#101012", "meaning": "The color of a passport cover.", "usage": "Wordmark, primary type, dark mode"},
-          {"name": "Map Cream", "hex": "#F4F1EA", "meaning": "Old paper, the printed map.", "usage": "Backgrounds, paper, light surfaces"},
-          {"name": "Stamp Red", "hex": "#D72638", "meaning": "Visa stamp. The single accent.", "usage": "CTAs, key callouts, web headlines"}
+          {
+            "name": "Passage Black",
+            "hex": "#101012",
+            "meaning": "The color of a passport cover.",
+            "usage": "Wordmark, primary type, dark mode"
+          },
+          {
+            "name": "Map Cream",
+            "hex": "#F4F1EA",
+            "meaning": "Old paper, the printed map.",
+            "usage": "Backgrounds, paper, light surfaces"
+          },
+          {
+            "name": "Stamp Red",
+            "hex": "#D72638",
+            "meaning": "Visa stamp. The single accent.",
+            "usage": "CTAs, key callouts, web headlines"
+          }
         ],
         "typography": {
           "primary": "Tiempos Headline for the wordmark and large type",
@@ -37,8 +57,14 @@
           "rationale": "A high contrast serif carries the brand. A composed grotesk handles the itinerary days and product surfaces. Two voices, one trip."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No inspirational mood boards. No flash sales. No 'lifetime experience' copy. No influencer trips."},
-          {"title": "Where it lives", "body": "A web app that books in under ten clicks. A printed itinerary mailed the week before departure. A WhatsApp number for the duration of the trip. No mid-trip marketing emails."}
+          {
+            "title": "What it doesn't do",
+            "body": "No inspirational mood boards. No flash sales. No 'lifetime experience' copy. No influencer trips."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A web app that books in under ten clicks. A printed itinerary mailed the week before departure. A WhatsApp number for the duration of the trip. No mid-trip marketing emails."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -50,6 +76,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "travel-modern-2",
+        "brandName": "GO LATER",
+        "tagline": "Slow travel by booking, not by marketing.",
+        "brandNameRationale": "Two words that read like a quiet rebuttal of every travel brand's URGENT/NOW vocabulary. Go Later names the timeline most travelers actually live on — the trip is twelve months away, not next week. The patience is the brand.",
+        "manifesto": "Travel brands sell urgency. Last-minute deals, flash sales, weekend escapes, book today. We started Go Later because the good trips are mostly planned a year out. The research is the trip. We help you plan slowly, book ahead, and arrive somewhere you actually wanted to be — not somewhere a banner ad told you to be.",
+        "industrySummary": "Travel marketing competes on urgency and price. There is a quieter market for slow planners — travelers who pick a destination twelve to eighteen months ahead and want a brand that supports the long planning arc.",
+        "competitorLandscape": "Black Tomato (blacktomato.com) holds the premium considered slot. Original Travel (originaltravel.com) sits in the curated middle. Kuoni (kuoni.com) is the legacy peer. We compete on time horizon, not transaction speed.",
+        "positioningStatement": "Go Later is a travel planner for trips you are taking a year from now.",
+        "positioningRationale": "We compete on planning depth. The site is a research surface — destination notes, seasonal calendars, lodging shortlists — designed for the months before the trip.",
+        "targetAudience": {
+          "primary": "Travelers 30–55 who plan major trips one to two years out.",
+          "behaviors": [
+            "Save destination ideas for months before acting.",
+            "Care about season and shoulder timing.",
+            "Avoid last-minute deals.",
+            "Use a notebook or doc to plan the trip."
+          ],
+          "motivations": [
+            "Want a planner that supports a year of research.",
+            "Want to skip the urgency marketing.",
+            "Want a trip that is right, not soon."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Patient",
+          "Considered",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the season and the year, not the price.",
+            "Send a quarterly destination letter, not a weekly deal email.",
+            "Reference specific months by name.",
+            "Recommend off-shoulder timing first."
+          ],
+          "donts": [
+            "No urgency copy.",
+            "No countdown banners.",
+            "No 'last seats' marketing.",
+            "No flash sales."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The eighteen-month plan",
+            "description": "We start with a written destination plan for the eighteen months before you go: season, route, lodging shortlist, what to book early."
+          },
+          {
+            "name": "Quarterly letters",
+            "description": "We send a printed quarterly letter to subscribers featuring one destination per season, written in long form."
+          },
+          {
+            "name": "Off-shoulder first",
+            "description": "We recommend off-shoulder timing first by default. The right season is more important than the right deal."
+          }
+        ],
+        "logoDirection": "A wordmark — GO LATER in a calm modern grotesque, all caps, with a small dot for a period. Reads as a typed instruction.",
+        "colorPalette": [
+          {
+            "name": "Sand",
+            "hex": "#E8DFD0",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Olive",
+            "hex": "#6B7547",
+            "meaning": "Accent — a patient natural green.",
+            "usage": "Section marks, single CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A modern grotesque for the wordmark and signage.",
+          "secondary": "A book serif for the quarterly destination letter.",
+          "rationale": "The sans is the working surface. The serif is the letter that arrives in the post."
         }
       }
     ],
@@ -65,7 +176,13 @@
         "targetAudience": {
           "primary": "Wealthy. Often inherited. Travels six to twelve weeks a year. Has a primary residence and a secondary one. Wants a single trusted travel office with a single principal who knows the family's preferences without being told."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Trusted", "Confident"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Trusted",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +197,30 @@
         },
         "logoDirection": "A classical serif wordmark, set with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark, used on letterhead, embossed business cards, and a brass plaque outside the office. The mark stays small in every application.",
         "colorPalette": [
-          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Aged leather, hunting estates, the gentleman's club bar.", "usage": "Primary brand color, letterhead, signage"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the plaque outside.", "usage": "Foil, hallmark, hardware"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, fine cotton.", "usage": "Stationery, backgrounds, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, reports, structural elements"}
+          {
+            "name": "Library Green",
+            "hex": "#1E3A30",
+            "meaning": "Aged leather, hunting estates, the gentleman's club bar.",
+            "usage": "Primary brand color, letterhead, signage"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal, the plaque outside.",
+            "usage": "Foil, hallmark, hardware"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper, fine cotton.",
+            "usage": "Stationery, backgrounds, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body, reports, structural elements"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,7 +228,10 @@
           "rationale": "A high contrast classical serif carries the heritage tone. A modern grotesk handles correspondence and the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public price list. No website beyond a single-page address card. No social media. No press. No client logo wall. No advertising of any kind."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public price list. No website beyond a single-page address card. No social media. No press. No client logo wall. No advertising of any kind."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -104,6 +244,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "travel-luxury-2",
+        "brandName": "Wren & Albright",
+        "tagline": "Private travel planning, by referral.",
+        "brandNameRationale": "Two surnames with uneven rhythms — Wren is short and quiet, Albright is wider and slightly older. The pair reads as a partnership planning trips for people they already know. Avoids the standard '[X] Bespoke' luxury formula.",
+        "story": "Wren & Albright is a two-partner travel planning firm taking thirty client households per year. The partners have personally visited every property they recommend. New clients are accepted by referral only. Most clients return for ten or more years.",
+        "industrySummary": "Premium travel planning has industrialized — large concierge teams, advisor networks, platform-driven recommendations. There is a quieter market for the very small partner-led firm — thirty households a year, planned in person.",
+        "competitorLandscape": "Indagare (indagare.com) holds the premium curated slot. Brownell (brownelltravel.com) is the long-standing peer. Embark Beyond (embarkbeyond.com) sits in the modern-luxury middle. We sit further out — capped roster, partner-led.",
+        "positioningStatement": "A two-partner travel planning firm taking thirty households per year, by referral.",
+        "positioningRationale": "We do not scale. The partners have visited every property. The relationship is the work.",
+        "targetAudience": {
+          "primary": "Households who travel four to eight times a year and have stopped researching trips themselves.",
+          "behaviors": [
+            "Repeat the same lodging for years before changing.",
+            "Travel with the same partner across decades.",
+            "Care about who else is at the property.",
+            "Pick advisors by referral."
+          ],
+          "motivations": [
+            "Want a planner who knows them across years.",
+            "Want recommendations from someone who has stayed in the room.",
+            "Want a small, discreet firm."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign correspondence in the partners' names.",
+            "Reference past trips by destination and year.",
+            "Speak from personal experience of every property.",
+            "Send a printed annual newsletter to clients."
+          ],
+          "donts": [
+            "No social-media presence.",
+            "No published partner lists or promotional fees.",
+            "No 'experience' or 'curated' language.",
+            "No press."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Thirty households",
+            "description": "We take thirty client households per year. If we are full, we say so. New clients enter by referral only."
+          },
+          {
+            "name": "Visited in person",
+            "description": "The partners have personally stayed at every property we recommend. The notes are written from the room."
+          },
+          {
+            "name": "Ten-year relationships",
+            "description": "Most of our clients have been with us for ten or more years. The annual planning conversation is one of the things they look forward to."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Wren & Albright set with a long ampersand in a classical book serif. Letterhead register. No tagline.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "All correspondence and marketing."
+          },
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Primary mark.",
+            "usage": "Wordmark, signature elements."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The ampersand, signature details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and letterhead.",
+          "secondary": "An old-style serif for body, generously spaced.",
+          "rationale": "Letterpress register throughout. Most correspondence is printed and signed."
         }
       }
     ],
@@ -118,7 +343,12 @@
         "targetAudience": {
           "primary": "Adults who already know where they want to go. They want help with the booking, the logistics, the on-trip support. They do not want the inspiration."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the dates",
@@ -133,9 +363,24 @@
         },
         "logoDirection": "A wordmark only. AWAY in a single weight grotesk, wide kerned, all caps. No icon. No flag. No silhouette. The wordmark appears on confirmation emails and itinerary headers. That's where the brand lives.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, transaction rows"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, transaction rows"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,7 +388,10 @@
           "rationale": "One face. The app is the wordmark, the dates, the price, the itinerary. Nothing decorative."
         },
         "customSections": [
-          {"title": "Not this", "body": "No destination guides. No mood boards. No newsletter. No referral codes. No flash sales."}
+          {
+            "title": "Not this",
+            "body": "No destination guides. No mood boards. No newsletter. No referral codes. No flash sales."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -155,6 +403,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "travel-minimal-2",
+        "brandName": "GO",
+        "tagline": "The verb. The trip.",
+        "brandNameRationale": "One word. The verb. We named the trip planner after the action and stopped. The label on the email is GO. The brand is the impulse.",
+        "manifesto": "Travel sites have grown into walls of advertising. We made GO because the customer already knows where they want to go. The site asks two questions — where, and when — and shows the trip. No carousel, no inspiration grid, no banner ads.",
+        "industrySummary": "Travel booking has become an optimization game. There is room for a brand that takes the minimal premise to its conclusion — two inputs, one result, no decoration.",
+        "competitorLandscape": "Kayak (kayak.com) holds the broad aggregator slot. Hopper (hopper.com) is the price-prediction peer. Going (going.com) sits in the deal-alert middle. We sit further out — fewer inputs, one screen.",
+        "positioningStatement": "GO is a trip planner with two inputs: where, when. One result.",
+        "positioningRationale": "We strip the booking surface to two questions. The result is a single recommended itinerary. No comparison grid, no filters.",
+        "targetAudience": {
+          "primary": "Travelers who know where they are going and just need the trip booked.",
+          "behaviors": [
+            "Skip booking-site filters.",
+            "Take the same trip twice in different years.",
+            "Trust a single recommendation.",
+            "Book in under five minutes."
+          ],
+          "motivations": [
+            "Want fewer choices, faster.",
+            "Want one good itinerary, not twenty.",
+            "Want the booking to take five minutes."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Two inputs. One screen.",
+            "Confirm bookings in one line.",
+            "Skip recommendations the user did not ask for.",
+            "Sign emails with the brand name only."
+          ],
+          "donts": [
+            "No carousel of inspiration.",
+            "No newsletter.",
+            "No banner ads.",
+            "No 'people also booked'."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Two inputs",
+            "description": "Where. When. That is the form. The result is a single recommended trip with flight, lodging, and ground transport."
+          },
+          {
+            "name": "One itinerary",
+            "description": "We do not show a comparison grid. We show the trip we would book. You confirm or you change one input."
+          },
+          {
+            "name": "Short confirmation",
+            "description": "The confirmation email is one line. The full itinerary is one PDF."
+          }
+        ],
+        "logoDirection": "GO set in a neutral grotesque, all caps, at small scale. Same on the website, the boarding pass envelope, and the receipt. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Mark",
+            "hex": "#3D5BFF",
+            "meaning": "Single accent.",
+            "usage": "The 'go' button."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface across the booking, the receipt, and the airport envelope."
         }
       }
     ],
@@ -175,7 +507,13 @@
             "Traveler experience that doesn't get complaints"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Modern", "Steady"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Modern",
+          "Steady"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with cost and policy compliance",
@@ -189,16 +527,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Real-time spend visibility", "description": "Every booking, every traveler, every entity, in a single view, updated continuously."},
-          {"name": "Policy compliance built in", "description": "Policies enforced at booking time, not flagged after the fact."},
-          {"name": "Traveler experience that doesn't generate complaints", "description": "Mobile-first booking, 24/7 support, and rebooking that doesn't require three calls."}
+          {
+            "name": "Real-time spend visibility",
+            "description": "Every booking, every traveler, every entity, in a single view, updated continuously."
+          },
+          {
+            "name": "Policy compliance built in",
+            "description": "Policies enforced at booking time, not flagged after the fact."
+          },
+          {
+            "name": "Traveler experience that doesn't generate complaints",
+            "description": "Mobile-first booking, 24/7 support, and rebooking that doesn't require three calls."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single bridge silhouette reduced to two arches. Reads cleanly on a procurement deck, name badges, and the trust center.",
         "colorPalette": [
-          {"name": "Enterprise Navy", "hex": "#0C2240", "meaning": "Trust, finance, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Approval Green", "hex": "#2E7D5B", "meaning": "Policy compliant. Cleared trip.", "usage": "Status indicators, charts, success states"}
+          {
+            "name": "Enterprise Navy",
+            "hex": "#0C2240",
+            "meaning": "Trust, finance, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Approval Green",
+            "hex": "#2E7D5B",
+            "meaning": "Policy compliant. Cleared trip.",
+            "usage": "Status indicators, charts, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for product UI and marketing",
@@ -206,7 +573,10 @@
           "rationale": "Inter scales clean across digital. The serif handles printed quarterly reports and trust center documents."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No consumer leisure travel. No free tier. No celebrity ambassadors. The product sells through enterprise procurement, not Instagram travel content."}
+          {
+            "title": "What it doesn't do",
+            "body": "No consumer leisure travel. No free tier. No celebrity ambassadors. The product sells through enterprise procurement, not Instagram travel content."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -219,6 +589,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "travel-corporate-2",
+        "brandName": "Hartwell Travel Holdings",
+        "tagline": "Travel management and booking technology for mid-market enterprises.",
+        "brandNameRationale": "Hartwell is a surname with a quiet establishment register. Travel Holdings signals the holding-company structure with multiple operating brands underneath. The pair reads as an institutional travel management group, not a consumer brand.",
+        "manifesto": "Hartwell Travel Holdings operates corporate travel management and a connected booking technology platform across mid-market enterprises. The buyer is a head of procurement or a CFO. The contract is the year. The metric is travel policy compliance, spend reduction, and traveler satisfaction.",
+        "industrySummary": "Corporate travel management has consolidated under a small number of global TMCs. The mid-market is under-served by both the global TMCs (too expensive, too slow) and the SMB tools (too thin). The opening is for a serious mid-market TMC with proprietary booking technology and policy enforcement.",
+        "competitorLandscape": "CWT (mycwt.com) is the global TMC reference. American Express GBT (amexglobalbusinesstravel.com) is the peer at the top. TripActions / Navan (navan.com) holds the tech-forward middle. We sit in the regional mid-market TMC category.",
+        "positioningStatement": "Hartwell Travel Holdings is a mid-market corporate travel management group with proprietary booking technology and full policy administration.",
+        "positioningRationale": "We compete on the combination of TMC service depth and modern booking technology. The CFO sees the spend reduction; the traveler sees a tool that works.",
+        "targetAudience": {
+          "primary": "Heads of procurement, CFOs, and travel managers at companies with $100M–$2B in revenue.",
+          "behaviors": [
+            "Manage annual travel spend of $1M–$25M.",
+            "Negotiate corporate rates with hotel chains and airlines.",
+            "Report travel KPIs to the CFO quarterly.",
+            "Run RFPs for TMC services every three to five years."
+          ],
+          "motivations": [
+            "Want a TMC with both service depth and modern booking tech.",
+            "Want measured spend reduction.",
+            "Want policy enforcement that travelers do not hate."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with spend metrics, compliance rates, and policy outcomes.",
+            "Speak the language of CFOs and travel managers.",
+            "Publish a quarterly mid-market corporate travel benchmark.",
+            "Reference actual customer titles in case studies."
+          ],
+          "donts": [
+            "No consumer travel marketing.",
+            "No 'wanderlust' vocabulary.",
+            "No social-media-first launches.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Service and technology",
+            "description": "Full TMC service — RFP support, contracted rates, account management — combined with a modern booking tool travelers actually use."
+          },
+          {
+            "name": "Policy enforcement that works",
+            "description": "Policy rules are built into the booking flow. The traveler sees the in-policy options first; the out-of-policy options require a one-line reason."
+          },
+          {
+            "name": "Spend reduction in writing",
+            "description": "Each engagement begins with a written savings target. The quarterly review shows actual against target by spend category."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Hartwell set in a traditional book serif, with 'Travel Holdings' beneath in tracked small caps. Used in proposals, contracts, and on the office door. Not used on the consumer-facing booking tool.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and proposals.",
+          "secondary": "A clean enterprise grotesque for reports, dashboards, and the booking tool.",
+          "rationale": "Tables and numbers tabular and disciplined."
         }
       }
     ],
@@ -234,7 +689,13 @@
         "targetAudience": {
           "primary": "25 to 45. Travels often, alone or in twos. Reads the niche city blog over the major travel magazine. Eats at the place with no English menu. Tells friends about the trip and never about the brand."
         },
-        "brandPersonalityTraits": ["Curious", "Warm", "Confident", "Playful", "Sharp"],
+        "brandPersonalityTraits": [
+          "Curious",
+          "Warm",
+          "Confident",
+          "Playful",
+          "Sharp"
+        ],
         "voiceAndTone": {
           "dos": [
             "Tell the rumor",
@@ -249,11 +710,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif, with the E of ELSEWHERE stylized as a small compass-rose section. Standalone compass-fragment icon for stickers, social profiles, and the back of every printed guide.",
         "colorPalette": [
-          {"name": "Elsewhere Orange", "hex": "#E07A2C", "meaning": "Sunset on a town you can't find on the map.", "usage": "Primary brand color, hero surfaces, totebags"},
-          {"name": "Map Cream", "hex": "#F4EFE2", "meaning": "Old printed map.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Compass Blue", "hex": "#1B4A8B", "meaning": "Anchor. The water on the map.", "usage": "Secondary surfaces, body type"},
-          {"name": "Stamp Red", "hex": "#D72638", "meaning": "Passport stamp. The accent.", "usage": "Highlights, social, key callouts"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Type.", "usage": "Body, headlines, structure"}
+          {
+            "name": "Elsewhere Orange",
+            "hex": "#E07A2C",
+            "meaning": "Sunset on a town you can't find on the map.",
+            "usage": "Primary brand color, hero surfaces, totebags"
+          },
+          {
+            "name": "Map Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Old printed map.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Compass Blue",
+            "hex": "#1B4A8B",
+            "meaning": "Anchor. The water on the map.",
+            "usage": "Secondary surfaces, body type"
+          },
+          {
+            "name": "Stamp Red",
+            "hex": "#D72638",
+            "meaning": "Passport stamp. The accent.",
+            "usage": "Highlights, social, key callouts"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines, structure"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,8 +747,14 @@
           "rationale": "Migra has character and warmth. Neue Montreal keeps the practical details readable. The pair feels designed and curious."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a luxury travel brand. Not a list-of-ten-things brand. Not afraid of orange. Not too cool to tell you about the bus."},
-          {"title": "Where it lives", "body": "Printed guides for specific small cities. Totebags people actually use abroad. A monthly newsletter that's mostly customer notes. A pop-up travel office twice a year in a different city each time. Stickers in every order."}
+          {
+            "title": "What it isn't",
+            "body": "Not a luxury travel brand. Not a list-of-ten-things brand. Not afraid of orange. Not too cool to tell you about the bus."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Printed guides for specific small cities. Totebags people actually use abroad. A monthly newsletter that's mostly customer notes. A pop-up travel office twice a year in a different city each time. Stickers in every order."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -276,7 +768,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "travel-creative-2",
+        "brandName": "NOT TODAY",
+        "tagline": "A travel brand against tourism.",
+        "brandNameRationale": "Two words said by every traveler trying to skip the tourist version of a place. We made the resistance the brand. Reads as warm and slightly conspiratorial — we are on your side, not the brochure's.",
+        "manifesto": "Travel marketing sells the cathedral, the viewpoint, the rooftop bar. We started Not Today because the actual good day in a city is mostly the things the brochure left out. The neighborhood breakfast place, the bus to the suburb, the bookshop that closes at four. We make trips out of the rest of the city — the parts the camera tour does not stop at.",
+        "industrySummary": "Travel content has become identical. Every blog, every video, every brand recommends the same dozen things per city. There is real space for a brand that builds trips around what the guidebooks left out.",
+        "competitorLandscape": "Atlas Obscura (atlasobscura.com) plays the unusual-corner content slot. Culture Trip (theculturetrip.com) sits in the listicle middle. Wallpaper City Guides (wallpaper.com) is the design-led peer. We sit further out — a brand built around an opinion, not a list.",
+        "positioningStatement": "Not Today is a trip-planning brand that builds itineraries around the city the guidebook left out.",
+        "positioningRationale": "Every itinerary starts by removing the obvious sites. The brand stakes its credibility on the suburbs, the side streets, the closing-time bookshops.",
+        "targetAudience": {
+          "primary": "Travelers 28–50 who have already done the obvious and want the next layer.",
+          "behaviors": [
+            "Skip the museum and find the café across from it.",
+            "Read the local newspaper before arriving.",
+            "Avoid named tourist neighborhoods.",
+            "Look up where locals eat on Tuesday."
+          ],
+          "motivations": [
+            "Want a trip that feels like staying with a friend.",
+            "Want the city without the brochure.",
+            "Want a brand with an opinion."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Opinionated",
+          "Warm",
+          "Specific",
+          "Cheeky"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the customer what to skip first.",
+            "Write itineraries in a city-friend voice.",
+            "Use neighborhood names, not landmark names.",
+            "Sign each itinerary by the planner's first name."
+          ],
+          "donts": [
+            "No 'top 10' lists.",
+            "No drone footage of skylines.",
+            "No '#wanderlust'.",
+            "No recommendations the customer has seen before."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Skip list first",
+            "description": "Every itinerary opens with a skip list — the obvious sites we are not sending you to and why."
+          },
+          {
+            "name": "Suburb day",
+            "description": "Every multi-day trip includes one full day outside the central district. The suburb day is often the best day."
+          },
+          {
+            "name": "Local newspaper",
+            "description": "We send a short briefing of the local newspaper the week before the trip. What is opening, what is on, what is closed."
+          }
+        ],
+        "logoDirection": "A wordmark — NOT TODAY in a quiet display serif, with a small strike-through indicating refusal. The strike-through is the brand mark.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Stamp",
+            "hex": "#7E2B1F",
+            "meaning": "Primary accent — the strike-through and the wordmark.",
+            "usage": "Wordmark, section marks."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark.",
+          "secondary": "A modern grotesque for itineraries and working type.",
+          "rationale": "The serif declares the opinion. The sans tells you what to do with it."
+        }
       }
     ]
   }
