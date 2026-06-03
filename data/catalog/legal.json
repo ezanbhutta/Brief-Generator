@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "Founders, in-house counsel at growth-stage companies, and senior executives. They have used at least one big-firm lawyer and were unhappy with the responsiveness."
         },
-        "brandPersonalityTraits": ["Direct", "Modern", "Confident", "Quiet"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Confident",
+          "Quiet"
+        ],
         "voiceAndTone": {
           "dos": [
             "Write in plain English on the website",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. CASE LAW in a precise modern serif, all caps, two words on one line. A small geometric mark, a single thin underline beneath the wordmark, used as the favicon and as the email signature stamp.",
         "colorPalette": [
-          {"name": "Counsel Black", "hex": "#101012", "meaning": "The color of a closed legal binder.", "usage": "Wordmark, body type, signage"},
-          {"name": "Bone", "hex": "#F4F1EA", "meaning": "Old casebook paper.", "usage": "Backgrounds, paper, web body"},
-          {"name": "Counsel Red", "hex": "#A8313F", "meaning": "Quiet authority. The single accent.", "usage": "Highlights, web headlines, key terms"}
+          {
+            "name": "Counsel Black",
+            "hex": "#101012",
+            "meaning": "The color of a closed legal binder.",
+            "usage": "Wordmark, body type, signage"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F1EA",
+            "meaning": "Old casebook paper.",
+            "usage": "Backgrounds, paper, web body"
+          },
+          {
+            "name": "Counsel Red",
+            "hex": "#A8313F",
+            "meaning": "Quiet authority. The single accent.",
+            "usage": "Highlights, web headlines, key terms"
+          }
         ],
         "typography": {
           "primary": "Tiempos Text for the wordmark and major type",
@@ -37,8 +57,14 @@
           "rationale": "A high contrast serif sets the legal register. A composed grotesk handles the digital surfaces. Both confident."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No client-acquisition newsletters. No 'thought leadership' posts on LinkedIn. No partner photos against bookshelves. No 'family of firms' brand architecture."},
-          {"title": "Where it lives", "body": "A website that loads the practice areas first. A client portal that shows the matter status in plain English. A printed engagement letter, hand signed. No content marketing strategy."}
+          {
+            "title": "What it doesn't do",
+            "body": "No client-acquisition newsletters. No 'thought leadership' posts on LinkedIn. No partner photos against bookshelves. No 'family of firms' brand architecture."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A website that loads the practice areas first. A client portal that shows the matter status in plain English. A printed engagement letter, hand signed. No content marketing strategy."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -50,6 +76,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "legal-modern-2",
+        "brandName": "Counsel",
+        "tagline": "A law firm built for one decision at a time.",
+        "brandNameRationale": "Counsel is the archaic word for legal advice and for the lawyer who delivers it — uncommon outside the legal trade, immediately understood inside it. The single-word naming convention follows the modern-trade brand school (Notion, Linear, Verge, Folio) but with a register specific to the legal profession. Stands as a quiet alternative to the standard [Surname] & [Surname] LLP convention.",
+        "manifesto": "Most law firms are built around the long retainer — a generalist relationship spanning years of small questions and occasional large ones. We made Counsel because the more interesting legal work is the discrete decision: the venture round, the carve-out, the patent objection, the difficult termination. The firm takes those decisions, one at a time, on a published fee. No retainer, no minimum hours, no fishing-around discovery.",
+        "industrySummary": "Modern legal services has split between the platform model (LegalZoom, Ironclad, Rocket Lawyer) and the boutique-firm model (Cooley, WilmerHale alumni firms). The opening underneath is for a modern boutique that takes individual high-stakes decisions on fixed fees — closer in operating model to a strategy boutique than a generalist law firm.",
+        "competitorLandscape": "Atrium (founded by Justin Kan, closed) was the closest modern attempt. Cooley GO (cooleygo.com) plays in the platform-content peer space. Ramp Legal (no public site) sits in the modern boutique slot. Goodwin (goodwinlaw.com) is the established peer at scale. We sit underneath all of them — single-decision focus, fixed fees, no retainer.",
+        "positioningStatement": "Counsel is a modern law firm that takes single high-stakes decisions on a fixed fee, without a retainer.",
+        "positioningRationale": "We compete on fee model and engagement structure. Each engagement is a defined decision with a fixed fee, a written scope, and a delivery date. The client either renews for a next decision or does not.",
+        "targetAudience": {
+          "primary": "Founders, CEOs, GCs, and operating partners facing a discrete high-stakes decision — a financing, a carve-out, a hiring exposure, a regulatory question.",
+          "behaviors": [
+            "Have used boutique law firms for previous decisions.",
+            "Compare quotes from two or three firms per engagement.",
+            "Care about partner availability over firm prestige.",
+            "Prefer fixed fees to hourly billing."
+          ],
+          "motivations": [
+            "Want a clear scope and a clear fee.",
+            "Want a senior lawyer on the work, not associates.",
+            "Want to skip the retainer dance."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Senior",
+          "Modern",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the decision and the fee.",
+            "Write engagement memos as one-page letters.",
+            "Quote actual fees on the website by engagement type.",
+            "Sign engagements by the senior lawyer on the work."
+          ],
+          "donts": [
+            "No 'practice areas' page sprawl.",
+            "No 'thought leadership' that says nothing.",
+            "No hourly billing.",
+            "No staff-of-fifty hero shot."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Decision, scope, fee, date",
+            "description": "Every engagement has four published things: the decision being taken, the scope of work, the fixed fee, and the delivery date. They appear on the engagement letter and on the website."
+          },
+          {
+            "name": "No retainer",
+            "description": "We do not take retainers. We do not bill hourly. The next engagement is the next discrete decision, on a new fixed fee."
+          },
+          {
+            "name": "Senior on the work",
+            "description": "Every engagement is led by a partner with at least 15 years' practice. Associates support; they do not lead."
+          }
+        ],
+        "logoDirection": "A wordmark — Counsel set in a precise modern serif, all caps and lowercase together, with a small horizontal rule beneath. The mark sits on the engagement letter and the website header.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces, letters."
+          },
+          {
+            "name": "Ink",
+            "hex": "#0B0B10",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Mark",
+            "hex": "#5B1FD9",
+            "meaning": "Single accent.",
+            "usage": "Section marks, primary actions, fee figures."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern serif for the wordmark and engagement letters.",
+          "secondary": "A neutral grotesque for the website and fee tables.",
+          "rationale": "The serif speaks. The sans labels. Documents read like a one-page partner letter."
         }
       }
     ],
@@ -65,7 +176,13 @@
         "targetAudience": {
           "primary": "Family offices, private trustees, owners of significant private companies, and individuals with multi-generational counsel needs. Often inherited the relationship from a parent."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Confident"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Heritage",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +197,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures and a hand-drawn ampersand. The ampersand becomes the firm's hallmark, used on letterhead, the brass plaque outside the office, and the wax seal on every paper letter.",
         "colorPalette": [
-          {"name": "Counsel Green", "hex": "#1E3A30", "meaning": "Old library walls, leather bindings.", "usage": "Primary brand color, letterhead, signage"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hallmark, accents"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, reports, structural elements"}
+          {
+            "name": "Counsel Green",
+            "hex": "#1E3A30",
+            "meaning": "Old library walls, leather bindings.",
+            "usage": "Primary brand color, letterhead, signage"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque outside.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body, reports, structural elements"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,7 +228,10 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few necessary digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public client list. No press releases. No social media presence. No content marketing. No conference appearances by the partners."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public client list. No press releases. No social media presence. No content marketing. No conference appearances by the partners."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -104,6 +244,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "legal-luxury-2",
+        "brandName": "Calderwood & Vance LLP",
+        "tagline": "A partnership. Two practices. One door.",
+        "brandNameRationale": "Calderwood is a Scottish surname; Vance is an Old English surname. The uneven syllable count and the differing national registers make the partnership read as a real two-name firm rather than a stock-photo brand. The LLP suffix signals the formal legal partnership structure used by the highest-end law firms (Slaughter and May, Cravath, Sullivan & Cromwell), distinct from the PC or LLC of smaller firms. The pair sits firmly in the establishment private-practice tradition.",
+        "story": "Calderwood & Vance LLP is a two-partner law firm with two practice areas — private wealth and family-owned business. The firm has been in continuous operation under the same partnership name since 1968. New matters are accepted by referral only. Most engagements are multi-year.",
+        "industrySummary": "Premium private legal practice has consolidated under the global elite firms but a quieter market remains for the very small specialist partnership — private wealth, family-owned business, art law, philanthropy. These firms operate by referral with capped client rosters and multi-decade tenure.",
+        "competitorLandscape": "Maurice Turnor Gardner (mtgllp.com) holds the closest peer slot in private wealth specialism. Forsters (forsters.co.uk) plays in the private-client peer position. Withersworldwide (withersworldwide.com) sits in the broader private-client middle. We belong with Maurice Turnor Gardner in the small specialist partnership category.",
+        "positioningStatement": "A two-partner law firm specializing in private wealth and family-owned business, in continuous operation since 1968.",
+        "positioningRationale": "We do not extend the practice areas. The partnership is the limit. Clients are accepted by referral. Most engagements run across decades and across generations of the client family.",
+        "targetAudience": {
+          "primary": "Private wealth holders, multi-generational family businesses, and trust principals managing significant cross-border interests.",
+          "behaviors": [
+            "Engage counsel by personal referral from a trusted advisor.",
+            "Maintain decade-spanning relationships with a single firm.",
+            "Sit in person at all material meetings.",
+            "Pay full hourly rates without complaint."
+          ],
+          "motivations": [
+            "Need a firm that knows the family across generations.",
+            "Need discretion as a default.",
+            "Need a partner physically present, not an associate."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname.",
+            "Sign correspondence by the named partner.",
+            "Print all communications.",
+            "Reference the founding year on letterhead."
+          ],
+          "donts": [
+            "No website beyond a single-page directory of partners and addresses.",
+            "No marketing material.",
+            "No social-media presence.",
+            "No press."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Two practices",
+            "description": "Private wealth and family-owned business. We do not take litigation, regulatory, or general commercial work. Referrals to peer firms are routine."
+          },
+          {
+            "name": "Referral-only intake",
+            "description": "New matters are accepted by referral from existing clients, peer firms, or trusted private advisors. There is no business-development team."
+          },
+          {
+            "name": "Generational continuity",
+            "description": "Most client relationships span three generations of the client family. Partner succession at the firm is planned across decades, not months."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Calderwood & Vance LLP set in a classical book serif on letterhead and brass plate only. No website logo; no marketing identity beyond the partnership stationery.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Letterhead.",
+            "usage": "All correspondence."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body of letters."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The office brass plate only."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif on letterhead, ledgers, and signage.",
+          "secondary": "An engraver's italic for the partnership name on the brass plate.",
+          "rationale": "Letterpress and engraver's register only. The firm communicates almost entirely in print."
         }
       }
     ],
@@ -118,7 +343,12 @@
         "targetAudience": {
           "primary": "Adults and small business owners who need legal advice occasionally and don't want to be on a firm's monthly retainer. They want to pay for the hour and walk away."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the hourly rate",
@@ -133,9 +363,24 @@
         },
         "logoDirection": "A wordmark only. COUNSEL in a single weight grotesk, wide kerned, all caps. No icon. The engagement letter, the bill, and the website all carry the same wordmark in the same place.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,7 +388,10 @@
           "rationale": "One face. The bill, the letter, and the website all carry the same wordmark and the same type."
         },
         "customSections": [
-          {"title": "Not this", "body": "No retainers. No subscriptions. No legal-tech app. No 'free initial consultation' marketing. No content marketing."}
+          {
+            "title": "Not this",
+            "body": "No retainers. No subscriptions. No legal-tech app. No 'free initial consultation' marketing. No content marketing."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -155,6 +403,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "legal-minimal-2",
+        "brandName": "Recital",
+        "tagline": "Plain contracts. Fewer pages.",
+        "brandNameRationale": "Recital is a real legal-vocabulary word — the prefatory clauses in a contract that state context and intent before the operative terms. Uncommon outside the trade, immediately understood inside it. The single-word naming follows the modern boutique school (Counsel, Folio, Verge) but specifically picks a contract-drafting term to signal the firm's drafting-led practice.",
+        "manifesto": "Most law firms write contracts the way previous law firms wrote contracts. Eighty pages of inherited boilerplate, recitals that nobody reads, defined terms in a glossary that nobody opens. We made Recital because the actual best contract is short, plain, and ends with two signatures. The firm specializes in drafting — for founders, small businesses, and operating teams — contracts that fit on twelve pages and protect what they need to protect.",
+        "industrySummary": "Plain-language contract drafting is a small but growing specialism, popularized by writers like Ken Adams and the Plain Language Foundation. There is real space for a boutique law firm that takes this practice further — short-form contracts as the deliverable, drafting as the brand.",
+        "competitorLandscape": "Plain Language (no public firm site) writes about the practice. Cooley GO (cooleygo.com) publishes templates. Ironclad (ironcladapp.com) plays in the contract-platform space. Goodwin (goodwinlaw.com) is the conventional peer at scale. We sit further out — short-form contracts as the deliverable, no boilerplate.",
+        "positioningStatement": "Recital is a boutique law firm that drafts plain-language contracts. The deliverable is twelve pages and a signature block.",
+        "positioningRationale": "We compete on the length, clarity, and durability of the contract. Engagements are scoped to specific contracts at fixed fees.",
+        "targetAudience": {
+          "primary": "Founders, small businesses, and operating teams hiring counsel to draft specific contracts — supplier agreements, employment offers, customer terms, NDAs.",
+          "behaviors": [
+            "Read the contracts they sign.",
+            "Resent inherited boilerplate.",
+            "Want one document, not a document plus six exhibits.",
+            "Care about the contract's everyday usability."
+          ],
+          "motivations": [
+            "Want a short, plain contract.",
+            "Want a firm that respects the reader.",
+            "Want a fixed fee per contract."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Send the engagement letter as a single page.",
+            "Publish sample contracts on the website with redacted parties.",
+            "Quote fees per contract type, on the website.",
+            "Sign engagements by the drafting lawyer."
+          ],
+          "donts": [
+            "No boilerplate.",
+            "No defined-term glossaries longer than five terms.",
+            "No multi-document closing binders for routine engagements.",
+            "No 'best efforts' or other circular language."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Twelve pages",
+            "description": "Our contracts target twelve pages or fewer for routine commercial engagements. We publish before-and-after page counts for engagements we've taken over."
+          },
+          {
+            "name": "Defined terms, kept short",
+            "description": "Defined terms are kept to ten or fewer where possible. Each defined term has a single function. We do not define words the contract does not need."
+          },
+          {
+            "name": "Sample contracts published",
+            "description": "The website publishes the firm's sample contracts — supplier, employment, customer terms, NDA — with parties redacted, so clients can see the drafting before engaging."
+          }
+        ],
+        "logoDirection": "Recital set in a precise grotesque, all lowercase, at small scale on the engagement letter and the website. The contracts themselves carry the firm name in small type at the foot of each page only.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Contract paper.",
+            "usage": "All documents."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Mark",
+            "hex": "#3D5BFF",
+            "meaning": "Single accent.",
+            "usage": "Section markers in sample contracts."
+          }
+        ],
+        "typography": {
+          "primary": "A book serif for contract body — generously spaced.",
+          "secondary": "A neutral grotesque for headings, captions, and labels.",
+          "rationale": "Two faces. The serif is for reading at length. The sans handles structure."
         }
       }
     ],
@@ -175,7 +507,13 @@
             "One firm across corporate, employment, and regulatory needs"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the practice areas",
@@ -189,16 +527,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Mid-market specialists", "description": "Built for companies between in-house counsel only and big-firm engagement."},
-          {"name": "Clear billing structure", "description": "Most matters delivered on flat fee or capped hourly. No surprise invoices."},
-          {"name": "One firm across practice areas", "description": "Corporate, employment, regulatory, and transactional under one engagement."}
+          {
+            "name": "Mid-market specialists",
+            "description": "Built for companies between in-house counsel only and big-firm engagement."
+          },
+          {
+            "name": "Clear billing structure",
+            "description": "Most matters delivered on flat fee or capped hourly. No surprise invoices."
+          },
+          {
+            "name": "One firm across practice areas",
+            "description": "Corporate, employment, regulatory, and transactional under one engagement."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single vertical bar with a horizontal line crossing it near the top, suggesting a column or scales reduced to their structure. Reads cleanly on a proposal, a name badge, and a procurement deck.",
         "colorPalette": [
-          {"name": "Counsel Navy", "hex": "#0F2238", "meaning": "Trust, finance, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean, unfussy.", "usage": "Backgrounds, paper"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Counsel Red", "hex": "#A8313F", "meaning": "Quiet authority accent.", "usage": "Highlights, charts, key callouts"}
+          {
+            "name": "Counsel Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, finance, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean, unfussy.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Counsel Red",
+            "hex": "#A8313F",
+            "meaning": "Quiet authority accent.",
+            "usage": "Highlights, charts, key callouts"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -206,7 +573,10 @@
           "rationale": "Inter scales clean across digital. The serif handles formal engagement letters, opinion letters, and printed quarterly reports."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No consumer legal services. No 'free initial consultation' marketing. No celebrity legal commentary. The firm sells through procurement and direct relationships with General Counsels."}
+          {
+            "title": "What it doesn't do",
+            "body": "No consumer legal services. No 'free initial consultation' marketing. No celebrity legal commentary. The firm sells through procurement and direct relationships with General Counsels."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -219,6 +589,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "legal-corporate-2",
+        "brandName": "Carrick Tindall & Ingle LLP",
+        "tagline": "A full-service law firm, six practice groups, four offices.",
+        "brandNameRationale": "Carrick is a Scottish-origin surname; Tindall is an English surname; Ingle is an Old Norse surname. The three-name partnership format is the standard convention of established full-service mid-tier firms (Cravath Swaine & Moore, Sullivan & Cromwell, Slaughter and May where the conjunction replaces the third name). The unbalanced syllable counts make the firm read as a real historical partnership rather than a fictional brand. The LLP suffix places the firm in the formal corporate-law partnership structure.",
+        "manifesto": "Carrick Tindall & Ingle LLP is a full-service law firm with six practice groups — corporate, finance, real estate, employment, litigation, and tax — across four offices. The firm has been in continuous operation since 1957. The buyer is a general counsel, a CEO, a CFO, or a private-equity general partner. The relationship is the multi-year master engagement; the matters are inside it.",
+        "industrySummary": "Mid-tier full-service law firms compete against the top-tier global firms above and the boutiques below. The opening is for an established multi-office partnership with serious practice depth across the matters mid-market and lower-mid-market enterprise clients actually have — and the procurement readiness corporate clients require.",
+        "competitorLandscape": "Morgan, Lewis & Bockius (morganlewis.com) is the multi-office mid-tier reference. Reed Smith (reedsmith.com) holds the international mid-tier peer slot. K&L Gates (klgates.com) sits in the broad-practice middle. We belong in the regional mid-tier full-service partnership category.",
+        "positioningStatement": "Carrick Tindall & Ingle LLP is a full-service mid-tier law firm with six practice groups across corporate, finance, real estate, employment, litigation, and tax.",
+        "positioningRationale": "We compete on practice depth, partner continuity, and the procurement-readiness corporate counsel offices require for multi-matter relationships.",
+        "targetAudience": {
+          "primary": "General counsel, CFOs, and CEOs at companies with $100M–$5B revenue managing multi-matter legal relationships.",
+          "behaviors": [
+            "Maintain panel arrangements with three to seven firms.",
+            "Run RFPs for new panel firms every three to five years.",
+            "Manage billing through e-billing systems with rate controls.",
+            "Care about partner-to-associate ratio and matter-level continuity."
+          ],
+          "motivations": [
+            "Need a firm with serious depth across the practice areas they touch monthly.",
+            "Need predictable rate structures and budgeted matters.",
+            "Need partner continuity across multi-year programmes."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with practice-group depth, partner record, and matter type.",
+            "Speak the language of general counsel and procurement.",
+            "Publish quarterly practice-group updates for clients.",
+            "Reference completed matters by type, jurisdiction, and year."
+          ],
+          "donts": [
+            "No 'big-law' hyperbole.",
+            "No press-release-led matter announcements.",
+            "No social-media-first commentary.",
+            "No marketing materials that read as junior."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Six practice groups",
+            "description": "Corporate, finance, real estate, employment, litigation, and tax — each led by senior partners with a minimum of 20 years' practice."
+          },
+          {
+            "name": "Four offices, one firm",
+            "description": "Offices share matters, leverage, and partner availability. There is no inter-office competition for client work. Matters cross offices fluidly."
+          },
+          {
+            "name": "Multi-year panel relationships",
+            "description": "Most of our institutional clients are on multi-year panel arrangements with annual scope review and predictable rate structures."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Carrick Tindall & Ingle LLP set in a traditional book serif with a small horizontal rule beneath. Used in proposals, letterhead, and on the partnership's office signage.",
+        "colorPalette": [
+          {
+            "name": "Navy",
+            "hex": "#1F2A40",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, proposals."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Section marks, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, proposals, and letterhead.",
+          "secondary": "A clean enterprise grotesque for billing statements, schedules, and tables.",
+          "rationale": "The serif is the firm. The sans handles the operational documents. Tables are tabular and disciplined."
         }
       }
     ],
@@ -234,7 +689,13 @@
         "targetAudience": {
           "primary": "30 to 50. Founders, freelancers, small business owners. They have legal needs they understand and legal language they don't. They want a firm that translates."
         },
-        "brandPersonalityTraits": ["Warm", "Sharp", "Confident", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Sharp",
+          "Confident",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about legal jargon",
@@ -249,11 +710,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the I of PRINT stylized as a small magnifying glass detail. Standalone magnifier-I icon for stickers, social profiles, and the back of every engagement letter.",
         "colorPalette": [
-          {"name": "Contract Red", "hex": "#D72638", "meaning": "Loud, warm, the editor's mark on the contract.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background, the contract paper.", "usage": "Backgrounds, paper, engagement letters"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note.", "usage": "Highlights, social, swag"},
-          {"name": "Carbon Blue", "hex": "#1B4A8B", "meaning": "Pen ink. Secondary accent.", "usage": "Secondary surfaces, signatures"}
+          {
+            "name": "Contract Red",
+            "hex": "#D72638",
+            "meaning": "Loud, warm, the editor's mark on the contract.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background, the contract paper.",
+            "usage": "Backgrounds, paper, engagement letters"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Margin note.",
+            "usage": "Highlights, social, swag"
+          },
+          {
+            "name": "Carbon Blue",
+            "hex": "#1B4A8B",
+            "meaning": "Pen ink. Secondary accent.",
+            "usage": "Secondary surfaces, signatures"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,8 +747,14 @@
           "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a big firm. Not a legal tech app. Not afraid of red. Not too cool to read the contract twice."},
-          {"title": "Where it lives", "body": "Engagement letters that read like a friend explaining the situation. A printed plain-English guide to the most common contracts, mailed to every new client. Stickers in every welcome envelope. A monthly newsletter that's mostly funny legal news."}
+          {
+            "title": "What it isn't",
+            "body": "Not a big firm. Not a legal tech app. Not afraid of red. Not too cool to read the contract twice."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Engagement letters that read like a friend explaining the situation. A printed plain-English guide to the most common contracts, mailed to every new client. Stickers in every welcome envelope. A monthly newsletter that's mostly funny legal news."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -276,7 +768,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "legal-creative-2",
+        "brandName": "The Reasonable Person",
+        "tagline": "A law firm named after the doctrine.",
+        "brandNameRationale": "The Reasonable Person is a foundational legal doctrine — the hypothetical objective standard used to assess negligence, contract performance, and a hundred other questions. Naming a firm after the doctrine is a declarative move that signals point of view: this firm thinks about cases the way a reasonable person would. The definite article gives the name a proper-noun, almost institutional register. Stands in the tradition of declarative legal names (Office of the Public Defender, The Innocence Project) translated to private practice.",
+        "manifesto": "Most law firms argue for whatever their client wants. We started The Reasonable Person because the more interesting practice is to brief the client on what a reasonable person would actually do — to give honest advice about settlement, about exposure, about how a judge will read the situation. The firm is named after the test we apply to every memo. If the reasonable person would settle, we say so.",
+        "industrySummary": "Legal advice quality varies less by jurisdiction and more by the willingness of counsel to give honest assessments of risk and likely outcome. There is real space for a firm that positions on the candour of its advice — closer in spirit to a senior consultant relationship than to a litigator's posture.",
+        "competitorLandscape": "Most plaintiff-side and defense-side firms position on advocacy. The Innocence Project (innocenceproject.org) sits in the declarative-name public-interest space. Public Citizen Litigation Group (citizen.org) holds the doctrinal-name peer. Boies Schiller Flexner (bsfllp.com) is the named-litigator peer. We sit further out, with a name that argues for posture rather than for a person.",
+        "positioningStatement": "The Reasonable Person is a law firm whose engagement letter begins with what a reasonable person would do.",
+        "positioningRationale": "Every engagement memo opens with a single section called 'What a Reasonable Person Would Do'. The client knows what the firm thinks before knowing what their options are. The firm's voice is candid by structure.",
+        "targetAudience": {
+          "primary": "Founders, executives, and individuals facing a legal situation where they want an honest read more than they want a litigator.",
+          "behaviors": [
+            "Have received advice from previous lawyers that turned out to be wrong.",
+            "Want to know the likely outcome before they commit.",
+            "Prefer settlement to litigation when settlement is reasonable.",
+            "Read court documents themselves."
+          ],
+          "motivations": [
+            "Want a firm that will tell them when they are wrong.",
+            "Want a candid read on likely outcomes.",
+            "Want the engagement to be about the situation, not the lawyer."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Considered",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Open every engagement memo with the firm's reasonable-person assessment.",
+            "Recommend settlement when settlement is the right call.",
+            "Speak in plain English about likely outcomes.",
+            "Sign engagements by the lawyer who wrote the assessment."
+          ],
+          "donts": [
+            "No advocacy posturing.",
+            "No 'we'll fight for you' marketing.",
+            "No suppression of inconvenient assessments.",
+            "No hourly clocking through obvious matters."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The opening assessment",
+            "description": "Every engagement memo opens with a single section — 'What a Reasonable Person Would Do' — written before the analysis of options. The assessment is candid."
+          },
+          {
+            "name": "Settle when settling is right",
+            "description": "When the reasonable-person reading is to settle, we recommend it in writing. We do not extend litigation for fee purposes."
+          },
+          {
+            "name": "Plain memos",
+            "description": "All memos are written in plain English. No Latin maxims, no 'inter alia', no defined-term glossaries unless the document is a contract."
+          }
+        ],
+        "logoDirection": "A wordmark — The Reasonable Person set in a quiet display serif with a small handwritten check mark above. The check is the brand's identity mark.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces, memos."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Check",
+            "hex": "#3D8B5A",
+            "meaning": "Single accent — the colour of the check mark.",
+            "usage": "The mark, agreed-recommendations sections in memos."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and memo headings.",
+          "secondary": "A book serif for memo body — generously set.",
+          "rationale": "Two related serifs. The brand reads like a careful written assessment, because that is what the firm sells."
+        }
       }
     ]
   }

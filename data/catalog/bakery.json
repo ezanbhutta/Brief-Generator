@@ -12,7 +12,13 @@
         "targetAudience": {
           "primary": "30 to 50. Eats out three nights a week. Cooks the other four. Knows which bakery a chef uses. Will drive across town for a good loaf. Doesn't need the loaf wrapped in butcher paper to know it's good."
         },
-        "brandPersonalityTraits": ["Precise", "Modern", "Considered", "Warm", "Direct"],
+        "brandPersonalityTraits": [
+          "Precise",
+          "Modern",
+          "Considered",
+          "Warm",
+          "Direct"
+        ],
         "voiceAndTone": {
           "dos": [
             "Use bread terms accurately",
@@ -27,9 +33,24 @@
         },
         "logoDirection": "A wordmark only. MILL set in a precise grotesk, wide kerned, all caps. A small secondary mark, a single grain of wheat reduced to its silhouette, used as the app icon and on the take-home box stamp.",
         "colorPalette": [
-          {"name": "Crust", "hex": "#A65A2A", "meaning": "The color of a well-baked loaf at minute thirty-eight.", "usage": "Wordmark, accent, signage"},
-          {"name": "Flour", "hex": "#F4EFE3", "meaning": "Used as space. The dust on the counter.", "usage": "Background, paper, take-home bags"},
-          {"name": "Ink", "hex": "#1B1B1B", "meaning": "Type and structure.", "usage": "Body type, labels, web"}
+          {
+            "name": "Crust",
+            "hex": "#A65A2A",
+            "meaning": "The color of a well-baked loaf at minute thirty-eight.",
+            "usage": "Wordmark, accent, signage"
+          },
+          {
+            "name": "Flour",
+            "hex": "#F4EFE3",
+            "meaning": "Used as space. The dust on the counter.",
+            "usage": "Background, paper, take-home bags"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1B1B1B",
+            "meaning": "Type and structure.",
+            "usage": "Body type, labels, web"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark and headlines",
@@ -37,8 +58,14 @@
           "rationale": "One typeface family. The mono is for facts. The regular is for the brand. Two voices, one shelf."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No flour-on-the-apron photography. No founder origin story on the bag. No Friday market van with wooden crates."},
-          {"title": "Where it lives", "body": "A clean shop with a glass case, a board listing today's three breads, and one chalkboard with tomorrow's pastry list. Web ordering opens at 5 a.m. and closes when the day's loaves are claimed."}
+          {
+            "title": "What it doesn't do",
+            "body": "No flour-on-the-apron photography. No founder origin story on the bag. No Friday market van with wooden crates."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A clean shop with a glass case, a board listing today's three breads, and one chalkboard with tomorrow's pastry list. Web ordering opens at 5 a.m. and closes when the day's loaves are claimed."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -50,6 +77,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "bakery-modern-2",
+        "brandName": "Loaf Atelier",
+        "tagline": "A working bakery, six loaves a day.",
+        "brandNameRationale": "Loaf is the plain trade noun; Atelier is the French studio-and-workshop suffix that's been borrowed by modern bakeries to signal craft (Lune Croissanterie, Apollonia Bakehouse, Hart Bageri). Together the name reads as a small working bakery with a craftshop register, in the lineage of Tartine, Sullivan St, and Hart Bageri — a step elevated from 'Bakery' without going aspirational.",
+        "manifesto": "Most neighbourhood bakeries try to be everything at once — twelve breads, fifteen pastries, sandwiches, coffee, cakes for order. We started Loaf Atelier because a working bakery is more honest as a small daily list. Six loaves, four pastries, one cake. Baked through the night. Sold from the counter from seven. When they're gone the door says SOLD OUT.",
+        "industrySummary": "Modern neighbourhood bakeries have matured into a category dominated by the Tartine model (broad menu, broad day) and the croissanterie model (single product, deep). The opening is for a small daily-quantity bakery — fewer items, baked once, sold until gone, no afternoon restock.",
+        "competitorLandscape": "Tartine (tartinebakery.com) is the broad-menu reference. Hart Bageri (hartbageri.com) plays in the small-list Copenhagen peer slot. Sullivan St Bakery (sullivanstreetbakery.com) holds the New York peer position. Lune Croissanterie (lunecroissanterie.com) is the single-product reference. We sit alongside Hart Bageri with a daily-quantity model.",
+        "positioningStatement": "Loaf Atelier is a small working bakery selling a fixed daily list — six loaves, four pastries, one cake — and closing when it's gone.",
+        "positioningRationale": "We compete on daily discipline. The list does not grow. The shop sells until the list runs out, and then the door closes. Morning queue is the marketing.",
+        "targetAudience": {
+          "primary": "Bread buyers 28–55 in walking distance of the shop who plan around the bakery's hours.",
+          "behaviors": [
+            "Walk to the bakery before 9am on weekends.",
+            "Buy bread for the week's dinners.",
+            "Photograph the daily list.",
+            "Know the baker's name."
+          ],
+          "motivations": [
+            "Want bread baked overnight and sold in the morning.",
+            "Want a bakery they can know completely.",
+            "Want to plan their week around the bake."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Post the daily list at 6am.",
+            "Photograph the crumb, not the counter.",
+            "Name the baker on the menu card.",
+            "Mark SOLD OUT loudly when it sells through."
+          ],
+          "donts": [
+            "No 'fresh-baked' marketing.",
+            "No afternoon restock theatre.",
+            "No menu sprawl.",
+            "No 'bestseller' designations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Six loaves a day",
+            "description": "The daily list is six loaves, four pastries, one cake. The list is posted by 6am. The list does not change to chase a slow day."
+          },
+          {
+            "name": "Sold until gone",
+            "description": "We bake the daily quantity. When it sells through, the shop closes. No afternoon restock. The door says SOLD OUT."
+          },
+          {
+            "name": "Baked overnight",
+            "description": "The team bakes through the night. Loaves come out of the oven between 4am and 6am. The crumb is photographed every morning before the doors open."
+          }
+        ],
+        "logoDirection": "A wordmark — Loaf Atelier set in a calm modern serif, with a small horizontal rule beneath. A printed daily list sits next to the wordmark on the shop window each morning, hand-set.",
+        "colorPalette": [
+          {
+            "name": "Flour",
+            "hex": "#EFE9DD",
+            "meaning": "Page and packaging.",
+            "usage": "Bread bags, shop signage."
+          },
+          {
+            "name": "Crust",
+            "hex": "#7C5A3D",
+            "meaning": "Primary — the colour of a deep crust.",
+            "usage": "Wordmark, headings."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body, the daily list."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark.",
+          "secondary": "A traditional book serif for the daily list and menu cards.",
+          "rationale": "Two related serifs. The wordmark is steady. The daily list looks hand-set every morning."
         }
       }
     ],
@@ -65,7 +177,13 @@
         "targetAudience": {
           "primary": "40 to 70. Wealthy. Has a chef at home or knows the chef at the restaurant. Eats bread the way it was meant to be eaten, with salted butter and silence. Will pay twelve dollars for the right loaf."
         },
-        "brandPersonalityTraits": ["Patient", "Refined", "Quiet", "Steady", "Confident"],
+        "brandPersonalityTraits": [
+          "Patient",
+          "Refined",
+          "Quiet",
+          "Steady",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Speak slowly",
@@ -80,10 +198,30 @@
         },
         "logoDirection": "A serif wordmark with a small wheat sheaf as a hallmark, not a logo. The sheaf goes on wax paper, on the back of the price tag, on the door handle. The wordmark goes on the awning, the box, and the bag. The ampersand is hand drawn and shows up in every application.",
         "colorPalette": [
-          {"name": "Stone", "hex": "#C7BBA3", "meaning": "The color of an old miller's wall.", "usage": "Bags, paper, awning"},
-          {"name": "Burnt Crust", "hex": "#5A2E16", "meaning": "Deep, controlled brown. The color of a long fermentation.", "usage": "Wordmark, signage, type"},
-          {"name": "Linen", "hex": "#EFE7D5", "meaning": "Tablecloths, napkins, packaging.", "usage": "Background, paper, secondary"},
-          {"name": "Brass", "hex": "#A98B52", "meaning": "Foil, hardware, the brass scoop in the flour bin.", "usage": "Foil applications, signage details"}
+          {
+            "name": "Stone",
+            "hex": "#C7BBA3",
+            "meaning": "The color of an old miller's wall.",
+            "usage": "Bags, paper, awning"
+          },
+          {
+            "name": "Burnt Crust",
+            "hex": "#5A2E16",
+            "meaning": "Deep, controlled brown. The color of a long fermentation.",
+            "usage": "Wordmark, signage, type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE7D5",
+            "meaning": "Tablecloths, napkins, packaging.",
+            "usage": "Background, paper, secondary"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A98B52",
+            "meaning": "Foil, hardware, the brass scoop in the flour bin.",
+            "usage": "Foil applications, signage details"
+          }
         ],
         "typography": {
           "primary": "Tiempos Headline for the wordmark and major type",
@@ -91,7 +229,10 @@
           "rationale": "A classical serif sets the heritage tone. A modern grotesk handles the legibility for the menu and the website."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No franchise. No second location for now. No grocery store distribution. No collabs. No app."}
+          {
+            "title": "What it doesn't do",
+            "body": "No franchise. No second location for now. No grocery store distribution. No collabs. No app."
+          }
         ],
         "sectionLabels": {
           "story": "Where this began",
@@ -104,6 +245,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "bakery-luxury-2",
+        "brandName": "Boulangerie Vérin",
+        "tagline": "A Paris bakery. Two breads. Three pastries.",
+        "brandNameRationale": "Boulangerie is the French word for bakery — instantly placing the brand in the Parisian artisan tradition. Vérin is a plausible French surname (the founders' family name) following the convention of single-surname boulangeries: Poilâne, Du Pain et des Idées, Maison Kayser. The 'Boulangerie [Surname]' format is the gold-standard convention for serious French bakeries — heritage, family-owned, intentionally narrow catalog.",
+        "story": "Boulangerie Vérin is a Paris bakery founded in 1947, now run by the founder's grandchildren. The catalog runs to two breads and three pastries. The shop has been at the same address for seventy-eight years. The current head baker trained under the founder's son for twelve years before taking the lead.",
+        "industrySummary": "Paris artisan bakeries dominate the global premium reference set. There is space for a small, heritage, family-owned boulangerie with a deliberately narrow catalog — closer to Poilâne or Du Pain et des Idées than to Maison Kayser's multi-city operation.",
+        "competitorLandscape": "Poilâne (poilane.com) is the family-heritage reference. Du Pain et des Idées (dupainetdesidees.com) holds the small-catalog peer slot. Maison Kayser (maison-kayser.com) sits in the multi-shop heritage peer. Tartine (tartinebakery.com) is the American premium reference. We belong with Poilâne and Du Pain et des Idées with a more narrowly held catalog.",
+        "positioningStatement": "A 1947 Paris boulangerie in third-generation family operation, with two breads and three pastries, baked the same way since the founder.",
+        "positioningRationale": "We do not extend the catalog. The bakery is the limit. The two breads and three pastries have remained the same across three generations, with continuity of recipe, of staff, and of address.",
+        "targetAudience": {
+          "primary": "Bread buyers who have a long relationship with their bakery — typically in walking distance, often across generations.",
+          "behaviors": [
+            "Visit the same bakery three to five times a week.",
+            "Order specific bread by phone.",
+            "Travel home with the bread when they leave the city.",
+            "Bring children and grandchildren."
+          ],
+          "motivations": [
+            "Want a bakery whose bread has not changed.",
+            "Want continuity of recipe and family.",
+            "Want to belong to a regular customer list."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Warm",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address regular customers by name.",
+            "Reference the founding year and the family.",
+            "Speak about the head baker by name.",
+            "Print all signage, menus, and correspondence."
+          ],
+          "donts": [
+            "No promotional pricing.",
+            "No new-product launches.",
+            "No franchise extensions.",
+            "No press tours."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Two breads, three pastries",
+            "description": "The catalog has held at two breads and three pastries for three generations. We have not added a fourth pastry. We will not."
+          },
+          {
+            "name": "Third generation",
+            "description": "The bakery is in continuous family operation since 1947. The current owners are the founder's grandchildren. The head baker trained under the founder's son for twelve years."
+          },
+          {
+            "name": "One address",
+            "description": "The shop has been at the same Paris address for seventy-eight years. We do not expand. We do not franchise."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Boulangerie Vérin set in a classical book serif with a small embossed bread-and-wheat crest. The signage above the shop is gilded letterpress on dark wood.",
+        "colorPalette": [
+          {
+            "name": "Crust",
+            "hex": "#5C3F2A",
+            "meaning": "Primary — the colour of the bread crust and the shop wood.",
+            "usage": "Wordmark, signage."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Letterhead, bread paper."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The crest, signage details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and signage.",
+          "secondary": "An engraver's italic for the founding year.",
+          "rationale": "Letterpress register. The shop sign, the bread paper, and the printed price list share the same typography."
         }
       }
     ],
@@ -118,7 +344,12 @@
         "targetAudience": {
           "primary": "Adults who buy bread once or twice a week and don't need a story to go with it. They have a regular order. They don't want to talk."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Quiet", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Quiet",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Say less",
@@ -133,9 +364,24 @@
         },
         "logoDirection": "A wordmark only. CRUMB set in a single weight grotesk, all caps, wide spacing. No icon. The bag has the wordmark and the price. The receipt has the date.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type, structure, the wordmark.", "usage": "All type and the wordmark"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Bags, web, paper, walls"},
-          {"name": "Stone", "hex": "#C7C0B0", "meaning": "Quiet, almost not there.", "usage": "Secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type, structure, the wordmark.",
+            "usage": "All type and the wordmark"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Bags, web, paper, walls"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C7C0B0",
+            "meaning": "Quiet, almost not there.",
+            "usage": "Secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,7 +389,10 @@
           "rationale": "One face. One job."
         },
         "customSections": [
-          {"title": "Not this", "body": "No bag art. No founder story. No social campaigns. No paper price tags written by hand. Plain printing, plain paper."}
+          {
+            "title": "Not this",
+            "body": "No bag art. No founder story. No social campaigns. No paper price tags written by hand. Plain printing, plain paper."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -155,6 +404,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "bakery-minimal-2",
+        "brandName": "Crumb",
+        "tagline": "One word. One bakery. One bread a day.",
+        "brandNameRationale": "Crumb is the baker's trade term for the inside of a loaf — the texture, the open structure, the air. It's a real bakery-vocabulary word, single-syllable, archaic in everyday English. Reads as honest, slightly nerdy in the way bakers are nerdy. Stands in the lineage of single-word trade-specific bakery names — closer to Tartine's botanical naming than to anything literal.",
+        "manifesto": "Bakeries advertise variety. Eighteen breads, twenty-five pastries, sandwiches, soups, cakes for order. We made Crumb because the only thing the shop sells is the daily bread — one variety, baked overnight, sold from the counter until it's gone. The shop is one room. The menu is one line. The customer comes for the bread.",
+        "industrySummary": "Single-product bakeries (the croissanterie, the sourdough-only) have proved that minimal catalogs work in the premium bread category. There is real space for a single-bread bakery that takes the minimal premise even further — one bread, one counter, one page on the site.",
+        "competitorLandscape": "Lune Croissanterie (lunecroissanterie.com) holds the single-product reference. Hart Bageri (hartbageri.com) plays in the small-catalog Copenhagen middle. Bread Ahead (breadahead.com) sits in the bakery-school peer position. Tartine (tartinebakery.com) is the broader premium reference. We sit further out — one bread, posted daily.",
+        "positioningStatement": "Crumb is a one-bread bakery selling a single overnight-baked loaf, from the counter, until it sells through.",
+        "positioningRationale": "We strip the catalog to one item. The bread is posted daily. The shop closes when the bread runs out.",
+        "targetAudience": {
+          "primary": "Bread buyers who want the bakery's daily loaf and nothing else.",
+          "behaviors": [
+            "Come in for bread, not for pastries.",
+            "Plan dinners around bread.",
+            "Skip menu choice.",
+            "Know what time the bread is ready."
+          ],
+          "motivations": [
+            "Want one good loaf a day.",
+            "Want a bakery that does not sprawl.",
+            "Want to keep the shop trip under two minutes."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Post the day's bread and the time it comes out.",
+            "Show one photograph of the crumb.",
+            "Skip menu copy.",
+            "Sign emails with the brand name only."
+          ],
+          "donts": [
+            "No second product on offer.",
+            "No menu sprawl.",
+            "No social-media-led marketing.",
+            "No 'bestseller' theater."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One bread",
+            "description": "The shop sells one bread. The bread changes — today's might be a country loaf, tomorrow's a rye, the day after a baguette — but the shop sells one variety per day."
+          },
+          {
+            "name": "Posted by 6am",
+            "description": "The day's bread and the time it comes out of the oven are posted on the door and the website by 6am. When the bread sells, the door says SOLD."
+          },
+          {
+            "name": "One photograph",
+            "description": "The website is one photograph of the day's crumb. Updated daily. No second image, no second page."
+          }
+        ],
+        "logoDirection": "Crumb set in a neutral grotesque, all lowercase, at small scale on the door, the bread paper, and nowhere else. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Flour",
+            "hex": "#EFE9DD",
+            "meaning": "Page and paper.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Crust",
+            "hex": "#7C5A3D",
+            "meaning": "Single accent.",
+            "usage": "The daily bread chip."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface across the door, the paper, and the website."
         }
       }
     ],
@@ -175,7 +508,13 @@
             "One invoice, one contact"
           ]
         },
-        "brandPersonalityTraits": ["Reliable", "Direct", "Professional", "Calm", "Honest"],
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Direct",
+          "Professional",
+          "Calm",
+          "Honest"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the delivery window",
@@ -189,16 +528,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "On time, every time", "description": "We deliver between 5 and 7 a.m., seven days a week, including holidays."},
-          {"name": "The same bread, every time", "description": "Standardized recipes, calibrated ovens, single mill source. No batch variation."},
-          {"name": "One contact, one invoice", "description": "One account manager per restaurant. One invoice per month."}
+          {
+            "name": "On time, every time",
+            "description": "We deliver between 5 and 7 a.m., seven days a week, including holidays."
+          },
+          {
+            "name": "The same bread, every time",
+            "description": "Standardized recipes, calibrated ovens, single mill source. No batch variation."
+          },
+          {
+            "name": "One contact, one invoice",
+            "description": "One account manager per restaurant. One invoice per month."
+          }
         ],
         "logoDirection": "A wordmark with a small wheat icon to the left. The icon is geometric, almost industrial. Reads cleanly on a delivery van, an invoice, and a tray label.",
         "colorPalette": [
-          {"name": "Mill Brown", "hex": "#5A3E20", "meaning": "Trust, tradition, the floor of an old bakery.", "usage": "Logo, primary surfaces"},
-          {"name": "Bone", "hex": "#F0EBDD", "meaning": "Clean and unfussy.", "usage": "Backgrounds, paper, vans"},
-          {"name": "Steel", "hex": "#5C6770", "meaning": "Structure and balance.", "usage": "Secondary text, dividers"},
-          {"name": "Wheat", "hex": "#D7A85F", "meaning": "Accent, used sparingly.", "usage": "Highlights, key info on print"}
+          {
+            "name": "Mill Brown",
+            "hex": "#5A3E20",
+            "meaning": "Trust, tradition, the floor of an old bakery.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F0EBDD",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper, vans"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5C6770",
+            "meaning": "Structure and balance.",
+            "usage": "Secondary text, dividers"
+          },
+          {
+            "name": "Wheat",
+            "hex": "#D7A85F",
+            "meaning": "Accent, used sparingly.",
+            "usage": "Highlights, key info on print"
+          }
         ],
         "typography": {
           "primary": "Inter",
@@ -206,7 +574,10 @@
           "rationale": "Inter scales clean across digital and operational signage. Serif reserved for printed B2B documents."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No retail shop. No D2C. No specialty croissants. No seasonal limited editions. Bread, on time, at scale."}
+          {
+            "title": "What it doesn't do",
+            "body": "No retail shop. No D2C. No specialty croissants. No seasonal limited editions. Bread, on time, at scale."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -219,6 +590,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "bakery-corporate-2",
+        "brandName": "Halverson Baking Co.",
+        "tagline": "Wholesale and retail bakery, four generations.",
+        "brandNameRationale": "Halverson is a Scandinavian surname common across the American upper Midwest and Pacific Northwest, where wholesale baking has a strong heritage. Baking Co. is the long-standing trade-name suffix used by regional commercial bakers — the structure that signals 'we supply your supermarket bread aisle' more than 'we sell single croissants'. The pair places the brand in the regional wholesale baking tradition (Franz Bakery, Dave's Killer Bread before its acquisition, Nature's Own).",
+        "manifesto": "Halverson Baking Co. is a fourth-generation wholesale and retail bakery supplying grocery chains, foodservice operators, and a small number of company-owned retail bakeries. The buyer is a grocery retail buyer, a foodservice procurement officer, or a private-label client. The contract is multi-year. The metric is consistency, lead time, and shelf life.",
+        "industrySummary": "Wholesale bakery is consolidating under a small number of regional operators (Bimbo, Franz, Flowers Foods). The opening is for a serious mid-tier wholesale bakery with strong retail relationships, modern food-safety operations, and the family-owned continuity grocery buyers increasingly value over private-equity-owned competitors.",
+        "competitorLandscape": "Franz Bakery (franzbakery.com) is the Pacific Northwest regional peer. Flowers Foods (flowersfoods.com) holds the multi-brand reference. Pepperidge Farm (pepperidgefarm.com) sits in the premium retail-brand middle. Dave's Killer Bread (daveskillerbread.com) is the modern peer at scale. We belong with Franz Bakery in the regional family-owned wholesale category.",
+        "positioningStatement": "Halverson Baking Co. is a fourth-generation regional wholesale bakery supplying grocery, foodservice, and company-owned retail across the upper Midwest.",
+        "positioningRationale": "We compete on production capacity, lead-time reliability, and the multi-generational family ownership grocery buyers prefer when consolidating supplier relationships.",
+        "targetAudience": {
+          "primary": "Grocery retail buyers, foodservice procurement officers, and private-label clients managing bread and baked-goods categories across multi-store operations.",
+          "behaviors": [
+            "Negotiate annual supply agreements.",
+            "Specify products to category-specific shelf-life, allergen, and certification standards.",
+            "Manage multi-vendor supplier rosters with quarterly performance reviews.",
+            "Renew on three to five-year terms."
+          ],
+          "motivations": [
+            "Want a wholesale partner with consistent capacity.",
+            "Want family ownership for relationship stability.",
+            "Want a supplier with documented food-safety and traceability."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Reliable",
+          "Discreet",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with production capacity, certifications, and category coverage.",
+            "Speak the language of grocery and foodservice buyers.",
+            "Publish quarterly category trends for buyer planning.",
+            "Reference long-tenure retail clients in trade material."
+          ],
+          "donts": [
+            "No consumer-facing marketing in the holding-company voice.",
+            "No social-media presence at the parent level.",
+            "No surprise price changes.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Family-owned, four generations",
+            "description": "The bakery has been in continuous family ownership since 1934. Three of the company's seven board members are family members. We have not been acquired."
+          },
+          {
+            "name": "Production capacity",
+            "description": "Two regional bakery plants with combined output of over 4 million units per week. Certified to SQF Level 3. Allergen control programs across both facilities."
+          },
+          {
+            "name": "Multi-year supply",
+            "description": "Standard contracts run three to five years. Pricing schedules are published annually. Capacity planning is shared with major retail customers quarterly."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Halverson set in a traditional book serif, with 'Baking Co.' beneath in tracked small caps and a small wheat-sheaf mark. Trade-house letterhead register.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, trade documents."
+          },
+          {
+            "name": "Wheat",
+            "hex": "#D8C68E",
+            "meaning": "Single accent.",
+            "usage": "The wheat-sheaf mark, signature elements."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, catalogs."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and trade letters.",
+          "secondary": "A clean enterprise grotesque for production sheets, shipping documents, and reports.",
+          "rationale": "Tabular and disciplined. The trade catalog reads like a long-standing wholesale reference."
         }
       }
     ],
@@ -234,7 +690,13 @@
         "targetAudience": {
           "primary": "20s and 30s. Lives in a city. Has a friend group they post photos with. Joins things. Wears the merch. Buys a loaf and a totebag in the same trip."
         },
-        "brandPersonalityTraits": ["Fun", "Warm", "Loud", "Confident", "Friendly"],
+        "brandPersonalityTraits": [
+          "Fun",
+          "Warm",
+          "Loud",
+          "Confident",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Be playful",
@@ -249,11 +711,36 @@
         },
         "logoDirection": "A wordmark in a punchy serif with a wheat sheaf where the I in CLUB should be. A standalone wheat-as-I mark for stickers, totes, and Instagram avatar.",
         "colorPalette": [
-          {"name": "Crust Orange", "hex": "#E07A2C", "meaning": "Loud, warm, the color of an actual crust.", "usage": "Primary brand color, hoodies, signage"},
-          {"name": "Butter", "hex": "#FFD773", "meaning": "Pure joy. The pat on the plate.", "usage": "Accent, social headers, swag"},
-          {"name": "Sourdough", "hex": "#F0E6CB", "meaning": "Warm cream, the inside of the loaf.", "usage": "Backgrounds, paper, bag color"},
-          {"name": "Cocoa", "hex": "#3D2C1A", "meaning": "Deep, anchoring brown. The chocolate chip.", "usage": "Body type, secondary surfaces"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Used for the wordmark on light backgrounds.", "usage": "Type, hard structure"}
+          {
+            "name": "Crust Orange",
+            "hex": "#E07A2C",
+            "meaning": "Loud, warm, the color of an actual crust.",
+            "usage": "Primary brand color, hoodies, signage"
+          },
+          {
+            "name": "Butter",
+            "hex": "#FFD773",
+            "meaning": "Pure joy. The pat on the plate.",
+            "usage": "Accent, social headers, swag"
+          },
+          {
+            "name": "Sourdough",
+            "hex": "#F0E6CB",
+            "meaning": "Warm cream, the inside of the loaf.",
+            "usage": "Backgrounds, paper, bag color"
+          },
+          {
+            "name": "Cocoa",
+            "hex": "#3D2C1A",
+            "meaning": "Deep, anchoring brown. The chocolate chip.",
+            "usage": "Body type, secondary surfaces"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Used for the wordmark on light backgrounds.",
+            "usage": "Type, hard structure"
+          }
         ],
         "typography": {
           "primary": "Editorial New for the wordmark and large display",
@@ -261,8 +748,14 @@
           "rationale": "A characterful serif up top. A modern sans beneath. Plenty of room for personality."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not minimal. Not silent. Not a temple to sourdough. Not a place to be photographed at."},
-          {"title": "Where it lives", "body": "Tote bags people actually use. Stickers on laptops. A bread-of-the-month club with a printed newsletter. Events at the shop on Sunday mornings. Hoodies in the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not minimal. Not silent. Not a temple to sourdough. Not a place to be photographed at."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Tote bags people actually use. Stickers on laptops. A bread-of-the-month club with a printed newsletter. Events at the shop on Sunday mornings. Hoodies in the back."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why this exists",
@@ -276,7 +769,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "bakery-creative-2",
+        "brandName": "Wild Yeast Bakery",
+        "tagline": "Baked with whatever the air gave us.",
+        "brandNameRationale": "Wild Yeast names the airborne natural starter that distinguishes serious sourdough from commercial bread. The name reads as bakery-nerdy in a way that the right customer immediately recognizes and the wrong customer just hears as warm — both effects are useful. The 'Wild [trade element] Bakery' format borrows from the wild-fermentation school of craft brewing (Jester King, The Rare Barrel) translated into the bakery context.",
+        "manifesto": "Most craft bakeries try to sound mid-century. The wheat sheaf, the typography, the Parisian inflection. We started Wild Yeast because the actual interesting thing in modern baking is fermentation — the starter that lives in a jar in the kitchen, the slow rise, the airborne natural yeast that gives each batch its particular crumb. The bakery is named after the thing that does the work. The brand is honest about being a science project that became a shop.",
+        "industrySummary": "Sourdough and wild-fermentation baking have become well-known to bread enthusiasts but most bakeries don't put fermentation at the center of their brand. There is real space for a creative-led bakery that brands itself around the starter — its age, its provenance, its quirks — and treats the customer as someone interested in the science.",
+        "competitorLandscape": "Tartine (tartinebakery.com) holds the broad-market reference for sourdough. Acme Bread (acmebread.com) is the long-tradition peer. Apollonia Bakehouse (apolloniabakery.com) plays in the considered-modern middle. The Sourdough School (sourdough.co.uk) sits in the educational-brand position. We belong alongside Tartine with a louder, more fermentation-forward voice.",
+        "positioningStatement": "Wild Yeast Bakery is a sourdough-and-wild-fermentation bakery that puts the starter at the centre of the brand.",
+        "positioningRationale": "The starter is the brand. Every loaf is labeled with the starter generation, the bulk-ferment time, and the bake number. The site has a page for the starter — when it was first cultivated, what flours it's been fed, where it lives.",
+        "targetAudience": {
+          "primary": "Bread enthusiasts 28–50 who follow bakers on Instagram and have tried to keep a starter at home.",
+          "behaviors": [
+            "Have a starter in the fridge.",
+            "Read books about sourdough.",
+            "Travel to specific bakeries.",
+            "Photograph crumb structure."
+          ],
+          "motivations": [
+            "Want to buy bread from someone whose starter they trust.",
+            "Want a bakery with a personality.",
+            "Want to know the science behind the loaf."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Nerdy",
+          "Warm",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the starter by name and age.",
+            "Publish the fermentation schedule on the daily list.",
+            "Photograph the starter, not the counter.",
+            "Write product cards in the head baker's voice."
+          ],
+          "donts": [
+            "No wheat-sheaf nostalgia.",
+            "No 'rustic' or 'artisan' adjectives.",
+            "No mid-century shop affectations.",
+            "No commercial yeast in any product."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The starter is the brand",
+            "description": "The starter has a name and a date of first cultivation. The website's About page is mostly the starter's biography. The starter is photographed weekly."
+          },
+          {
+            "name": "Labeled bake",
+            "description": "Every loaf gets a small tag with the starter generation, bulk-ferment time, and bake number for the day. Customers compare crumb across bake numbers."
+          },
+          {
+            "name": "Wild fermentation only",
+            "description": "No commercial yeast in any product. Pastries are leavened with the starter. The slow-fermentation argument is the recipe."
+          }
+        ],
+        "logoDirection": "A wordmark — Wild Yeast Bakery set in a hand-drawn display serif, with a small illustration of a bubbling jar of starter beside it. The starter illustration is updated occasionally to reflect the actual jar.",
+        "colorPalette": [
+          {
+            "name": "Sour",
+            "hex": "#D4C68E",
+            "meaning": "Primary — the warm yellow of a healthy starter.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Crust",
+            "hex": "#7C5A3D",
+            "meaning": "Secondary — the colour of the bake.",
+            "usage": "Body type, label borders."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "A hand-drawn display serif for the wordmark.",
+          "secondary": "A neutral grotesque for body, daily list, and field data.",
+          "rationale": "The display serif sets the warm-nerdy tone. The grotesque carries the working data on the loaf tags."
+        }
       }
     ]
   }
