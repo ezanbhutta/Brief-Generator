@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "28 to 50. Has insurance, also pays out of pocket for one premium consumer health service. Wants the visit to feel like booking a flight, not navigating bureaucracy."
         },
-        "brandPersonalityTraits": ["Direct", "Modern", "Honest", "Trustworthy"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Honest",
+          "Trustworthy"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the doctor's actual name and credentials",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is two concentric circles, suggesting a remote signal or a video frame, used as the favicon, the app icon, and the visit confirmation seal.",
         "colorPalette": [
-          {"name": "Care Navy", "hex": "#102236", "meaning": "Trust without sterility.", "usage": "Wordmark, primary surface"},
-          {"name": "Bone", "hex": "#F4F1EA", "meaning": "Clean, warm.", "usage": "Background, paper, app body"},
-          {"name": "Signal Green", "hex": "#3E8E5A", "meaning": "Connected, ready, the green-dot of availability.", "usage": "Status, CTAs, success states"}
+          {
+            "name": "Care Navy",
+            "hex": "#102236",
+            "meaning": "Trust without sterility.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F1EA",
+            "meaning": "Clean, warm.",
+            "usage": "Background, paper, app body"
+          },
+          {
+            "name": "Signal Green",
+            "hex": "#3E8E5A",
+            "meaning": "Connected, ready, the green-dot of availability.",
+            "usage": "Status, CTAs, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for product UI and headlines",
@@ -37,20 +57,25 @@
           "rationale": "Inter is the trusted default for clean modern healthcare apps. The serif handles printed visit summaries and the few formal forms."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No upsells in the app. No subscription pressure. No 'mental wellness journey' content. No celebrity-endorsed wellness add-ons."},
-          {"title": "Where it lives", "body": "An app that books a visit in three taps. The doctor's actual photo and credentials shown before the visit. A printed visit summary delivered by email. SMS confirmation for follow-ups."}
+          {
+            "title": "What it doesn't do",
+            "body": "No upsells in the app. No subscription pressure. No 'mental wellness journey' content. No celebrity-endorsed wellness add-ons."
+          },
+          {
+            "title": "Where it lives",
+            "body": "An app that books a visit in three taps. The doctor's actual photo and credentials shown before the visit. A printed visit summary delivered by email. SMS confirmation for follow-ups."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "The reference shelf",
-          "positioning": "The pitch",
-          "targetAudience": "Who we treat",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "Primary care delivered remotely, with the same standards as the clinic.",
+        "mission": "To build primary care delivered remotely, with the same standards as the clinic.",
+        "vision": "Modern entrants are competing on app quality, clinical depth, and brand clarity.",
+        "coreValues": [
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Trustworthy — a core principle the brand operates by."
+        ],
+        "scope": "REMOTE CARE delivers by:\n• Show the doctor's actual name and credentials\n• Confirm next steps in writing\n• Speak to the patient as an adult"
       }
     ],
     "Luxury": [
@@ -65,7 +90,13 @@
         "targetAudience": {
           "primary": "Wealthy. Often inherited. Travels. Has multiple homes. Values discretion and continuity of care with a single physician across geography and time."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Considered", "Heritage"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Considered",
+          "Heritage"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the patient by surname",
@@ -80,10 +111,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn caduceus reduced to two crossed lines, used as a hallmark on letterhead, the brass plaque outside the practice, and the printed visit summaries.",
         "colorPalette": [
-          {"name": "Practice Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the waiting room.", "usage": "Primary brand color, signage, letterhead"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque and the hardware.", "usage": "Foil, hallmark, accents"},
-          {"name": "Cream Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body type, dividers"}
+          {
+            "name": "Practice Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, library walls, the waiting room.",
+            "usage": "Primary brand color, signage, letterhead"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque and the hardware.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Cream Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body type, dividers"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,20 +142,22 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the patient portal."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public marketing. No D2C subscription. No social media. No press. No celebrity patient testimonials."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public marketing. No D2C subscription. No social media. No press. No celebrity patient testimonials."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who we treat",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A small concierge practice with telehealth as part of the relationship.",
+        "mission": "To build a small concierge practice with telehealth as part of the relationship.",
+        "vision": "The customer is paying for the physician, the access, and the discretion.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully.",
+          "Heritage — a core principle the brand operates by."
+        ],
+        "scope": "Concord Medical delivers by:\n• Address the patient by surname\n• Speak in the language of medicine, not wellness\n• Send paper letters between visits"
       }
     ],
     "Minimal": [
@@ -118,7 +171,12 @@
         "targetAudience": {
           "primary": "Adults who have a single medical question and don't want to schedule a visit. They want the answer, the next step, and a clear price."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the question, the doctor, the answer",
@@ -133,9 +191,24 @@
         },
         "logoDirection": "A wordmark only. ASK in a single weight grotesk, wide kerned, all caps, three letters with generous space. No icon. The app icon is the wordmark on a soft grey background.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, app, all light surfaces"},
-          {"name": "Care Sage", "hex": "#A6B49A", "meaning": "Quiet accent.", "usage": "Status, secondary"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, app, all light surfaces"
+          },
+          {
+            "name": "Care Sage",
+            "hex": "#A6B49A",
+            "meaning": "Quiet accent.",
+            "usage": "Status, secondary"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,19 +216,21 @@
           "rationale": "One face. The app is the wordmark, the question, the answer. Nothing else."
         },
         "customSections": [
-          {"title": "Not this", "body": "No subscription model. No prescription renewals as a feature. No mental health tools bundled. No newsletter. No notifications."}
+          {
+            "title": "Not this",
+            "body": "No subscription model. No prescription renewals as a feature. No mental health tools bundled. No newsletter. No notifications."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who uses this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "Ask a doctor a question. Get a real answer in writing.",
+        "mission": "To build ask a doctor a question. Get a real answer in writing.",
+        "vision": "There's an opening for one that strips it back to the basic act: ask a doctor a question, get a real answer.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "ASK delivers by:\n• Show the question, the doctor, the answer\n• Show the response time clearly\n• Use plain language"
       }
     ],
     "Corporate": [
@@ -175,7 +250,13 @@
             "Reporting that satisfies the CFO and the CMO together"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with clinical network and integration",
@@ -189,16 +270,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Clinical network depth", "description": "Primary care, urgent care, mental health, and specialty providers under one platform."},
-          {"name": "Integration with existing systems", "description": "Connects to existing EHR, benefits, and HRIS infrastructure under a single contract."},
-          {"name": "Reporting that satisfies the board", "description": "Utilization, outcomes, and ROI reports formatted for the CMO and the CFO together."}
+          {
+            "name": "Clinical network depth",
+            "description": "Primary care, urgent care, mental health, and specialty providers under one platform."
+          },
+          {
+            "name": "Integration with existing systems",
+            "description": "Connects to existing EHR, benefits, and HRIS infrastructure under a single contract."
+          },
+          {
+            "name": "Reporting that satisfies the board",
+            "description": "Utilization, outcomes, and ROI reports formatted for the CMO and the CFO together."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single signal-arc, two thin curves crossing at a point, suggesting connection across distance. Reads cleanly on procurement decks, name badges, and the trust center.",
         "colorPalette": [
-          {"name": "Clinical Navy", "hex": "#102238", "meaning": "Trust, clinical seriousness.", "usage": "Logo, primary surfaces"},
-          {"name": "Lab White", "hex": "#FAFAF8", "meaning": "Clean and clinical.", "usage": "Packaging, paper, web"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Care Teal", "hex": "#2A8B82", "meaning": "Care accent.", "usage": "Charts, certifications, status"}
+          {
+            "name": "Clinical Navy",
+            "hex": "#102238",
+            "meaning": "Trust, clinical seriousness.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Lab White",
+            "hex": "#FAFAF8",
+            "meaning": "Clean and clinical.",
+            "usage": "Packaging, paper, web"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Care Teal",
+            "hex": "#2A8B82",
+            "meaning": "Care accent.",
+            "usage": "Charts, certifications, status"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and product UI",
@@ -206,20 +316,22 @@
           "rationale": "Inter scales clean across digital. The serif handles formal clinical reports and trust-center documentation."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C app. No celebrity-doctor partnerships. No retail health clinics. The firm sells through enterprise procurement, not Instagram health content."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C app. No celebrity-doctor partnerships. No retail health clinics. The firm sells through enterprise procurement, not Instagram health content."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Telehealth infrastructure for health plans and self-insured employers.",
+        "mission": "Health plans and large employers need telehealth partners with clinical depth and integration discipline. The category incumbents are big and slow. We sit between them, with the operating model the modern enterprise buyer needs.",
+        "vision": "Health plans, self-insured employers, and integrated health systems need partners who can deliver telehealth at scale with regulatory-grade reporting.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Strategic — a core principle the brand operates by."
+        ],
+        "scope": "Pioneer Telehealth Group works across:\n• Clinical network depth\n• Integration with existing systems\n• Reporting that satisfies the board"
       }
     ],
     "Creative": [
@@ -234,7 +346,13 @@
         "targetAudience": {
           "primary": "25 to 45. Has insurance, doesn't trust it. Already pays out of pocket for some health services. Wants telehealth that feels like talking to a friend who happens to be a doctor."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Direct", "Friendly", "Sharp"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Direct",
+          "Friendly",
+          "Sharp"
+        ],
         "voiceAndTone": {
           "dos": [
             "Talk like the doctor you already know",
@@ -249,11 +367,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the H of HEY stylized as a small speech-bubble flourish. Standalone speech-bubble icon for app icons, social profiles, and the visit confirmation seal.",
         "colorPalette": [
-          {"name": "Hey Yellow", "hex": "#FFD23F", "meaning": "Loud, warm, the front door painted bright on purpose.", "usage": "Primary brand color, hero surfaces, social"},
-          {"name": "Trust Navy", "hex": "#102238", "meaning": "Clinical anchor, used as counter to the warm yellow.", "usage": "Body type, secondary surfaces"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm space.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Soft Pink", "hex": "#FFB7B7", "meaning": "Warmth, the cheek when the doctor laughs.", "usage": "Accents, swag, social"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Type.", "usage": "Body type, structure"}
+          {
+            "name": "Hey Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Loud, warm, the front door painted bright on purpose.",
+            "usage": "Primary brand color, hero surfaces, social"
+          },
+          {
+            "name": "Trust Navy",
+            "hex": "#102238",
+            "meaning": "Clinical anchor, used as counter to the warm yellow.",
+            "usage": "Body type, secondary surfaces"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm space.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Soft Pink",
+            "hex": "#FFB7B7",
+            "meaning": "Warmth, the cheek when the doctor laughs.",
+            "usage": "Accents, swag, social"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body type, structure"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,22 +404,26 @@
           "rationale": "Migra has warmth. Neue Montreal handles the medical clarity. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a wellness brand. Not a tech-first telehealth brand. Not afraid of yellow. Not too cool to call the patient back."},
-          {"title": "Where it lives", "body": "An app that opens to a single friendly message. Visit confirmations written like a friend texting. Stickers in every welcome envelope. A monthly newsletter written by the doctors on staff."}
+          {
+            "title": "What it isn't",
+            "body": "Not a wellness brand. Not a tech-first telehealth brand. Not afraid of yellow. Not too cool to call the patient back."
+          },
+          {
+            "title": "Where it lives",
+            "body": "An app that opens to a single friendly message. Visit confirmations written like a friend texting. Stickers in every welcome envelope. A monthly newsletter written by the doctors on staff."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who we treat",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A telehealth brand that sounds like a real friend, not an insurance company.",
+        "mission": "To build a telehealth brand that sounds like a real friend, not an insurance company.",
+        "vision": "The brand is the casual front door of medicine.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Direct — we say what we mean without softening it.",
+          "Friendly — a core principle the brand operates by.",
+          "Sharp — precision is a form of kindness."
+        ],
+        "scope": "HEY DOC delivers by:\n• Talk like the doctor you already know\n• Make warm jokes about the system\n• Tell the truth about what telehealth can and can't do"
       }
     ]
   }

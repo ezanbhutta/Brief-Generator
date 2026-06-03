@@ -66,17 +66,16 @@
             "body": "A site that shows the agent's actual face and name on every listing. A yard sign that's quiet. A printed listing book that's the same size as a paperback. No social media beyond a single archive."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who buys with us",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "A modern brokerage with named agents, clean listings, and no broker speak.",
+        "mission": "To build a modern brokerage with named agents, clean listings, and no broker speak.",
+        "vision": "The opening is for a brand that respects the buyer as a design-literate adult and treats the agent as a real, accountable person.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Direct — we say what we mean without softening it.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "AT HOME delivers by:\n• Show the agent, the price, the room count, the year built\n• Photograph the actual house, not the lifestyle\n• Speak to the buyer as an adult"
       },
       {
         "id": "real-estate-modern-2",
@@ -161,7 +160,17 @@
           "primary": "A modern grotesque, regular weight, slightly wide.",
           "secondary": "A book serif for the monthly notes and any letter-style content.",
           "rationale": "The grotesque is the brand. The serif appears only when we are writing to the customer."
-        }
+        },
+        "brandDescription": "Home Later is a brokerage that works on the eighteen-month timeline most buyers actually live on.",
+        "mission": "We bill our patience instead of hiding it. The pre-purchase year is the product: market notes, neighborhood walks, financing prep, off-market intros.",
+        "vision": "We are happy to be the friend you talk to for twelve months before you actually buy anything.",
+        "coreValues": [
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "HOME LATER works across:\n• The eighteen-month plan\n• Neighborhood notes\n• The right house, not the next house"
       }
     ],
     "Luxury": [
@@ -233,18 +242,17 @@
             "body": "No public listings. No website beyond a single address card. No social media presence. No press strategy."
           }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who we represent",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A small property advisory house representing fewer than a hundred families.",
+        "mission": "To build a small property advisory house representing fewer than a hundred families.",
+        "vision": "Few clients, long relationships, sensitive transactions handled by a single principal.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones.",
+          "Heritage — a core principle the brand operates by.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "Harkness House delivers by:\n• Address the client by surname\n• Send paper updates between viewings\n• Speak in the language of property, not real estate"
       },
       {
         "id": "real-estate-luxury-2",
@@ -329,7 +337,17 @@
           "primary": "A traditional book serif for the wordmark and all letterhead.",
           "secondary": "An old-style serif for body type at a generous size.",
           "rationale": "Letterpress register. No sans-serif anywhere — the partnership predates them."
-        }
+        },
+        "brandDescription": "A two-partner brokerage that handles a small number of significant homes per year — personally, slowly, and quietly.",
+        "mission": "We do not advertise our listings. We do not run an Instagram account. The work is the marketing.",
+        "vision": "There is a quieter market for very small firms that take on a deliberately small caseload — fewer than twenty homes a year, handled by the principals.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Discreet — what happens in the room stays in the room.",
+          "Considered — we choose fewer things, more carefully.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "Westbrook & Hale works across:\n• Fewer than twenty per year\n• Private listings\n• The partners at the table"
       }
     ],
     "Minimal": [
@@ -393,17 +411,16 @@
             "body": "No newsletter. No social media. No celebrity-agent partnerships. No 'lifestyle community' branding. No drone footage."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who buys with us",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A real estate firm named after the document, not the dream.",
+        "mission": "To build a real estate firm named after the document, not the dream.",
+        "vision": "There's an opening for one that strips it back to the legal document at the center of every transaction.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "DEED delivers by:\n• Show the listing data\n• Confirm the offer in one short letter\n• Use plain English"
       },
       {
         "id": "real-estate-minimal-2",
@@ -487,7 +504,16 @@
           "primary": "One neutral grotesque, regular and medium weights only.",
           "secondary": "No second face.",
           "rationale": "One typeface across the sign, the listing, and the contract. The discipline is the brand."
-        }
+        },
+        "brandDescription": "HOUSE is a brokerage that lists houses, plainly.",
+        "mission": "We strip the brokerage surface to its working parts: a photograph, the address, the price, the agent's number. That is the listing.",
+        "vision": "The brokerage does the rest.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Unsentimental — a core principle the brand operates by."
+        ],
+        "scope": "HOUSE works across:\n• Address, price, photo\n• Plain language\n• One number"
       }
     ],
     "Corporate": [
@@ -578,18 +604,17 @@
             "body": "No residential brokerage. No retail listings. No celebrity-agent partnerships. The firm sells through institutional and corporate procurement."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who we represent",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Commercial property advisory for mid-market corporate occupiers and institutional investors.",
+        "mission": "Mid-market occupiers and investors are too small for the giants' attention and too sophisticated for boutique brokerages. We sit between them with operating depth and modern delivery.",
+        "vision": "Brand and discipline differentiate.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Strategic — a core principle the brand operates by."
+        ],
+        "scope": "Halifax & Co. works across:\n• Advisory across services\n• Execution discipline\n• Reporting that satisfies the board"
       },
       {
         "id": "real-estate-corporate-2",
@@ -674,7 +699,17 @@
           "primary": "A traditional book serif for letterhead and marketing.",
           "secondary": "A clean enterprise grotesque for documents and statements.",
           "rationale": "Two-family system. Serif on the door. Sans on the spreadsheet."
-        }
+        },
+        "brandDescription": "A principal-led regional brokerage with full-service property management — residential and small-commercial.",
+        "mission": "We compete on tenure, local knowledge, and the depth of our management practice. The brokerage is the front door; the management practice is the building.",
+        "vision": "The relationship outlasts the transaction.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Reliable — the same answer this Tuesday and next.",
+          "Local — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "Brennan Realty Partners works across:\n• Brokerage\n• Property management\n• The long view"
       }
     ],
     "Creative": [
@@ -756,30 +791,17 @@
             "body": "Listings that show every honest flaw. Yard signs that look like real signs. A monthly newsletter with one renovation story from a real buyer. A merch line of two tees that say GOOD BONES across the back."
           }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who buys with us",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": [
-          "manifesto",
-          "industrySummary",
-          "competitorLandscape",
-          "positioning",
-          "targetAudience",
-          "personality",
-          "voiceAndTone",
-          "logoDirection",
-          "colorPalette",
-          "typography"
-        ]
+        "brandDescription": "A real estate brand for buyers who can see past the carpet.",
+        "mission": "To build a real estate brand for buyers who can see past the carpet.",
+        "vision": "The brand is for the buyers who can see what the house wants to be.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Direct — we say what we mean without softening it.",
+          "Playful — seriousness is overrated.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "GOOD BONES delivers by:\n• Tell the truth about the work\n• Photograph the house as it is, not staged\n• Talk like the friend who has restored a kitchen"
       },
       {
         "id": "real-estate-creative-2",
@@ -864,7 +886,17 @@
           "primary": "A quiet display serif for headlines and scene-sets.",
           "secondary": "A modern grotesque for working type.",
           "rationale": "The serif tells the story. The sans does the work."
-        }
+        },
+        "brandDescription": "New Keys is a brokerage that documents the moment a house becomes a home — and works backwards from there.",
+        "mission": "The brand is the moment of the handover. Every other piece of the practice — marketing, photography, listing copy — is reverse-engineered from that frame.",
+        "vision": "We named the brand after it.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Cinematic — the room sets the mood.",
+          "Patient — we play long games, not loud ones.",
+          "Specific — generalities are how people avoid commitment."
+        ],
+        "scope": "NEW KEYS works across:\n• The handover frame\n• The first night\n• Slow listings"
       }
     ]
   }

@@ -39,6 +39,12 @@ export interface CustomSection {
 export type BriefFormat = "structured" | "editorial" | "compact" | "story";
 
 export type SectionKey =
+  | "brandDescription"
+  | "scope"
+  | "mission"
+  | "vision"
+  | "coreValues"
+  | "personality"
   | "brandNameRationale"
   | "story"
   | "manifesto"
@@ -46,7 +52,6 @@ export type SectionKey =
   | "competitorLandscape"
   | "positioning"
   | "targetAudience"
-  | "personality"
   | "voiceAndTone"
   | "messagingPillars"
   | "logoDirection"
@@ -57,6 +62,12 @@ export type SectionKey =
 export type SectionLabels = Partial<Record<SectionKey, string>>;
 
 export const DEFAULT_SECTION_ORDER: SectionKey[] = [
+  "brandDescription",
+  "scope",
+  "mission",
+  "vision",
+  "coreValues",
+  "personality",
   "brandNameRationale",
   "story",
   "manifesto",
@@ -64,7 +75,6 @@ export const DEFAULT_SECTION_ORDER: SectionKey[] = [
   "competitorLandscape",
   "positioning",
   "targetAudience",
-  "personality",
   "voiceAndTone",
   "messagingPillars",
   "logoDirection",
@@ -74,19 +84,24 @@ export const DEFAULT_SECTION_ORDER: SectionKey[] = [
 ];
 
 export const DEFAULT_SECTION_TITLES: Record<SectionKey, string> = {
-  brandNameRationale: "Why this name",
-  story: "Story",
+  brandDescription: "Brand Description",
+  scope: "Scope of the Project",
+  mission: "Mission",
+  vision: "Vision",
+  coreValues: "Core Values",
+  personality: "Brand Personality",
+  brandNameRationale: "Why This Name",
+  story: "Brand Story",
   manifesto: "Manifesto",
   industrySummary: "Industry Summary",
   competitorLandscape: "Competitive Landscape",
   positioning: "Brand Positioning",
   targetAudience: "Target Audience",
-  personality: "Brand Personality",
   voiceAndTone: "Voice & Tone",
   messagingPillars: "Messaging Pillars",
   logoDirection: "Logo Direction",
   colorPalette: "Color Palette",
-  typography: "Typography Direction",
+  typography: "Typography",
   visualIdentityIdeas: "Visual Identity Ideas",
 };
 
@@ -94,6 +109,12 @@ export interface Brief {
   brandName: string;
 
   tagline?: string;
+  brandDescription?: string;
+  scope?: string;
+  mission?: string;
+  vision?: string;
+  coreValues?: string[];
+
   brandNameRationale?: string;
   story?: string;
   manifesto?: string;
@@ -151,9 +172,26 @@ export function briefToPlainText(b: Brief, industry: string, style: Style): stri
   lines.push(b.brandName);
   if (b.tagline) lines.push(`Tagline: ${b.tagline}`);
   lines.push("");
-  pushIf(lines, "Why this name:", b.brandNameRationale);
 
-  pushIf(lines, "STORY", b.story);
+  pushIf(lines, "BRAND DESCRIPTION", b.brandDescription);
+  pushIf(lines, "SCOPE OF THE PROJECT", b.scope);
+  pushIf(lines, "MISSION", b.mission);
+  pushIf(lines, "VISION", b.vision);
+
+  if (b.coreValues && b.coreValues.length > 0) {
+    lines.push("CORE VALUES");
+    for (const v of b.coreValues) lines.push(`• ${v}`);
+    lines.push("");
+  }
+
+  if (b.brandPersonalityTraits && b.brandPersonalityTraits.length > 0) {
+    lines.push("BRAND PERSONALITY");
+    lines.push(b.brandPersonalityTraits.join(" · "));
+    lines.push("");
+  }
+
+  pushIf(lines, "WHY THIS NAME", b.brandNameRationale);
+  pushIf(lines, "BRAND STORY", b.story);
   pushIf(lines, "MANIFESTO", b.manifesto);
 
   pushIf(lines, "INDUSTRY SUMMARY", b.industrySummary);
@@ -172,12 +210,6 @@ export function briefToPlainText(b: Brief, industry: string, style: Style): stri
     lines.push("");
     pushBullets(lines, "Behaviors:", b.targetAudience.behaviors);
     pushBullets(lines, "Motivations:", b.targetAudience.motivations);
-  }
-
-  if (b.brandPersonalityTraits && b.brandPersonalityTraits.length > 0) {
-    lines.push("BRAND PERSONALITY");
-    lines.push(b.brandPersonalityTraits.join(" · "));
-    lines.push("");
   }
 
   if (b.voiceAndTone) {

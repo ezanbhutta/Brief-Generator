@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "28 to 45. Orders food two or three times a week. Already pays for one premium delivery service. Will switch the moment one of them ships a soggy order."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Warm"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the delivery time and the temperature on the package",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. STILL HOT in a tight modern grotesk, all caps, two words on one line. A small geometric mark, two thin curves suggesting rising steam, used as the favicon and on every delivery bag seal.",
         "colorPalette": [
-          {"name": "Bag Black", "hex": "#101012", "meaning": "Insulated delivery bag.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Receipt Cream", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Heat Red", "hex": "#D72638", "meaning": "The temperature indicator.", "usage": "Accent, CTAs, key callouts"}
+          {
+            "name": "Bag Black",
+            "hex": "#101012",
+            "meaning": "Insulated delivery bag.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Receipt Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Heat Red",
+            "hex": "#D72638",
+            "meaning": "The temperature indicator.",
+            "usage": "Accent, CTAs, key callouts"
+          }
         ],
         "typography": {
           "primary": "Inter for product UI and headlines",
@@ -37,20 +57,25 @@
           "rationale": "Inter handles the marketing and app. The mono carries the times and prices."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No loyalty-tier upsell screens. No 'extra delivery insurance' add-on. No celebrity-restaurant marketing. No 'wellness meal' bundles."},
-          {"title": "Where it lives", "body": "An app that books in three taps. Each order ships with a temperature-checked seal. A monthly email if the customer hasn't ordered in a while, written like a friend asking what they're eating."}
+          {
+            "title": "What it doesn't do",
+            "body": "No loyalty-tier upsell screens. No 'extra delivery insurance' add-on. No celebrity-restaurant marketing. No 'wellness meal' bundles."
+          },
+          {
+            "title": "Where it lives",
+            "body": "An app that books in three taps. Each order ships with a temperature-checked seal. A monthly email if the customer hasn't ordered in a while, written like a friend asking what they're eating."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who orders this",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "A food delivery brand that competes on whether the food arrives intact.",
+        "mission": "To build a food delivery brand that competes on whether the food arrives intact.",
+        "vision": "The customer is design-literate, increasingly tired of the platform-aesthetic sameness, and willing to pay more for a service that actually delivers the food intact.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Direct — we say what we mean without softening it.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "STILL HOT delivers by:\n• Show the delivery time and the temperature on the package\n• Speak to the customer as a person who just paid for food\n• Confirm orders in one short note"
       }
     ],
     "Luxury": [
@@ -65,7 +90,13 @@
         "targetAudience": {
           "primary": "Wealthy. Often hosts Saturday dinners. Has a regular catering arrangement they're tired of. Wants a single service that handles the food, the wine, and the timing."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +111,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn clock-hand hallmark, pointing to a notional Saturday afternoon, used on the order book, the delivery boxes, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Drawing Room Green", "hex": "#1E3A30", "meaning": "Old leather, the dining room.", "usage": "Primary brand color, signage, letterhead"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the door knocker.", "usage": "Foil, hallmark, accents"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the order card.", "usage": "Stationery, packaging, paper"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body type, dividers"}
+          {
+            "name": "Drawing Room Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, the dining room.",
+            "usage": "Primary brand color, signage, letterhead"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal, the door knocker.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper, the order card.",
+            "usage": "Stationery, packaging, paper"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body type, dividers"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,20 +142,22 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No weeknight delivery. No third-party platforms. No marketing emails. No social media. No public price list."}
+          {
+            "title": "What it doesn't do",
+            "body": "No weeknight delivery. No third-party platforms. No marketing emails. No social media. No public price list."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who orders from us",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A weekly private delivery service for households that host properly.",
+        "mission": "To build a weekly private delivery service for households that host properly.",
+        "vision": "Once-a-week service, small client list, real chefs and real ingredients delivered to a household that knows how to receive them.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones.",
+          "Discreet — what happens in the room stays in the room.",
+          "Heritage — a core principle the brand operates by.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "Saturday Delivery delivers by:\n• Address the client by surname\n• Confirm orders in writing\n• Send a paper card the week before"
       }
     ],
     "Minimal": [
@@ -118,7 +171,12 @@
         "targetAudience": {
           "primary": "Adults who want food delivered and don't need a relationship with the platform. They want the order, the time, the receipt."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the time, the restaurant, the price",
@@ -133,9 +191,24 @@
         },
         "logoDirection": "A wordmark only. DROP in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The bag, the receipt, and the app all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, app, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, app, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,19 +216,21 @@
           "rationale": "One face. The app, the bag, and the receipt all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No loyalty tiers. No subscription. No marketing emails. No social media presence. No 'meal kits' on the side."}
+          {
+            "title": "Not this",
+            "body": "No loyalty tiers. No subscription. No marketing emails. No social media presence. No 'meal kits' on the side."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who orders this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A food delivery service named after the moment it works.",
+        "mission": "To build a food delivery service named after the moment it works.",
+        "vision": "There's an opening for one that strips it back to the moment the food arrives.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "DROP delivers by:\n• Show the time, the restaurant, the price\n• Confirm in one line\n• Send a single SMS at delivery"
       }
     ],
     "Corporate": [
@@ -175,7 +250,13 @@
             "Cost predictability across volume tiers"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with delivery reliability metrics",
@@ -189,16 +270,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Operations reliability", "description": "Documented delivery times across dense urban markets."},
-          {"name": "System integration", "description": "Native connectors to the POS and inventory systems your operations already use."},
-          {"name": "Predictable economics", "description": "Volume-tier pricing with no surprise surcharges."}
+          {
+            "name": "Operations reliability",
+            "description": "Documented delivery times across dense urban markets."
+          },
+          {
+            "name": "System integration",
+            "description": "Native connectors to the POS and inventory systems your operations already use."
+          },
+          {
+            "name": "Predictable economics",
+            "description": "Volume-tier pricing with no surprise surcharges."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single arrow crossing a vertical line, suggesting cross-town movement. Reads cleanly on uniforms, vans, and procurement decks.",
         "colorPalette": [
-          {"name": "Operations Navy", "hex": "#0F2238", "meaning": "Trust, scale, the operations center.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "On-Time Green", "hex": "#3E8E5A", "meaning": "Performance accent.", "usage": "Charts, status indicators"}
+          {
+            "name": "Operations Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the operations center.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "On-Time Green",
+            "hex": "#3E8E5A",
+            "meaning": "Performance accent.",
+            "usage": "Charts, status indicators"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and product UI",
@@ -206,20 +316,22 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C consumer delivery brand. No restaurant marketplace. No celebrity-chef partnerships. The firm sells through B2B operations procurement."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C consumer delivery brand. No restaurant marketplace. No celebrity-chef partnerships. The firm sells through B2B operations procurement."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Last-mile food logistics for restaurant groups and grocery chains in dense urban markets.",
+        "mission": "Urban restaurant groups want delivery partners with operational discipline and clean technology. The platform giants don't integrate well. We sit between them.",
+        "vision": "Buyers are operations directors who want a reliable delivery partner that integrates with their existing systems.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Professional — a core principle the brand operates by."
+        ],
+        "scope": "Crosstown Co. works across:\n• Operations reliability\n• System integration\n• Predictable economics"
       }
     ],
     "Creative": [
@@ -234,7 +346,13 @@
         "targetAudience": {
           "primary": "25 to 45. Orders food three nights a week. Most of those orders are after 9 p.m. Lives in an apartment. Buys the brand because the marketing made them feel seen rather than upsold."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Quiet", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Quiet",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Speak softly",
@@ -249,11 +367,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the L of LATE stylized as a small lamp curl. Standalone lamp-icon for stickers, social profiles, and the back of every receipt.",
         "colorPalette": [
-          {"name": "Night Navy", "hex": "#162236", "meaning": "The apartment after 9 p.m.", "usage": "Primary brand color, hero surfaces, packaging"},
-          {"name": "Lamp Yellow", "hex": "#FFD23F", "meaning": "The light in the kitchen at 10 p.m.", "usage": "Accent, social, swag"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging body"},
-          {"name": "Soft Pink", "hex": "#FFB7B7", "meaning": "Warmth.", "usage": "Secondary, social"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"}
+          {
+            "name": "Night Navy",
+            "hex": "#162236",
+            "meaning": "The apartment after 9 p.m.",
+            "usage": "Primary brand color, hero surfaces, packaging"
+          },
+          {
+            "name": "Lamp Yellow",
+            "hex": "#FFD23F",
+            "meaning": "The light in the kitchen at 10 p.m.",
+            "usage": "Accent, social, swag"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging body"
+          },
+          {
+            "name": "Soft Pink",
+            "hex": "#FFB7B7",
+            "meaning": "Warmth.",
+            "usage": "Secondary, social"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,22 +404,26 @@
           "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a family-meal brand. Not a wellness brand. Not a speed-led brand. Not too cool to admit ordering food at 10 p.m."},
-          {"title": "Where it lives", "body": "An app that opens to a warmer welcome at night. A small printed thank-you card in every bag. A weekly newsletter that's mostly photos of customer dinners. A merch line of two hoodies that say LATE DINNER across the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not a family-meal brand. Not a wellness brand. Not a speed-led brand. Not too cool to admit ordering food at 10 p.m."
+          },
+          {
+            "title": "Where it lives",
+            "body": "An app that opens to a warmer welcome at night. A small printed thank-you card in every bag. A weekly newsletter that's mostly photos of customer dinners. A merch line of two hoodies that say LATE DINNER across the back."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who orders this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A food delivery brand for the small private meal at the end of the day.",
+        "mission": "To build a food delivery brand for the small private meal at the end of the day.",
+        "vision": "We are the brand for the meal that nobody else made, at the hour nobody else is awake.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Direct — we say what we mean without softening it.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "LATE DINNER delivers by:\n• Speak softly\n• Tell the truth about the hour\n• Talk to the customer as a person who just ate alone"
       }
     ]
   }

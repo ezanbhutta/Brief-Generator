@@ -67,17 +67,16 @@
             "body": "An app-first listening surface. Each show has its own micro-brand inside the network. Cover art follows a single grid. Episode descriptions are limited to 60 words."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "The reference shelf",
-          "positioning": "The pitch",
-          "targetAudience": "Who tunes in",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "A podcast network for shows that are good enough to charge for.",
+        "mission": "The market is full of mediocre podcasts. The opening is a network that only takes shows it would pay to subscribe to. The bar is the curatorial promise.",
+        "vision": "New networks need to look like media companies on day one.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Direct — we say what we mean without softening it.",
+          "Quiet — restraint is the loudest thing in a noisy room."
+        ],
+        "scope": "OPEN AIR delivers by:\n• Lead with the show, not the host\n• Show the run time clearly\n• Skip the show-notes wall of text"
       },
       {
         "id": "podcast-modern-2",
@@ -162,7 +161,17 @@
           "primary": "A confident modern grotesque for the wordmark and show titles.",
           "secondary": "A book serif for the editor's notes and weekly email.",
           "rationale": "The grotesque is the network. The serif is the curator's voice."
-        }
+        },
+        "brandDescription": "Outloud is a curated editorial podcast network of twelve shows, picked for point of view, not for genre.",
+        "mission": "We compete on curation discipline. Twelve shows on the network at a time. New shows are added rarely; existing shows are renewed annually based on the network's editorial fit, not download numbers.",
+        "vision": "The shows are picked the way a small bookshop picks its front table.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Specific — generalities are how people avoid commitment.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "Outloud works across:\n• Twelve shows\n• Editor's note\n• One weekly email"
       }
     ],
     "Luxury": [
@@ -234,18 +243,17 @@
             "body": "No celebrity-host shows added for traffic. No mid-roll programmatic ads. No clip strategy on social media. No promotional discount codes."
           }
         ],
-        "sectionLabels": {
-          "story": "Where this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who listens",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A podcast network for listeners who would have subscribed to a magazine.",
+        "mission": "To build a podcast network for listeners who would have subscribed to a magazine.",
+        "vision": "Long form, narrative, considered, hosted by people who would have been magazine writers in another era.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones.",
+          "Literary — we write more than we shout.",
+          "Considered — we choose fewer things, more carefully.",
+          "Quiet — restraint is the loudest thing in a noisy room."
+        ],
+        "scope": "Atticus delivers by:\n• Address the listener as a reader\n• Run episodes long when they need to be\n• Send a quarterly printed program guide"
       },
       {
         "id": "podcast-luxury-2",
@@ -330,7 +338,17 @@
           "primary": "A traditional book serif for the wordmark, companion volumes, and marketing.",
           "secondary": "An engraver's italic for series and episode titles.",
           "rationale": "Letterpress register throughout. The audio brand and the printed companion share typography."
-        }
+        },
+        "brandDescription": "Lyceum Audio publishes six long-form lecture series per year, each from a single serious speaker, sold individually.",
+        "mission": "We do not run a subscription. We do not run a network. Each series is a discrete published work, like a book — researched, recorded, mastered, and released with a printed companion volume.",
+        "vision": "There is space for a small audio publisher producing long-form lectures from serious speakers.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Considered — we choose fewer things, more carefully.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "Lyceum Audio works across:\n• Six series a year\n• Single speaker, treated room\n• Printed companion"
       }
     ],
     "Minimal": [
@@ -394,17 +412,16 @@
             "body": "No video. No clips. No transcripts beyond what the show provides. No newsletter. No social media presence."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who listens",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A podcast network for the listener who only wants the audio.",
+        "mission": "To build a podcast network for the listener who only wants the audio.",
+        "vision": "Just the audio.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "TAPE delivers by:\n• Use the smallest number of words\n• Show the run time and the date\n• Write episode descriptions in three sentences"
       },
       {
         "id": "podcast-minimal-2",
@@ -488,7 +505,16 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "No second face.",
           "rationale": "One typeface across the show cover, the episode page, and the support page."
-        }
+        },
+        "brandDescription": "Volume is an interview podcast that opens with the conversation and ends when it ends.",
+        "mission": "We strip the format. No intro music, no host welcome, no advertising, no closing pitch. The episode is the conversation, mastered once.",
+        "vision": "The whole episode is the volume.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "Volume works across:\n• No format\n• Listener-funded\n• One episode a week"
       }
     ],
     "Corporate": [
@@ -579,18 +605,17 @@
             "body": "No consumer podcasts. No celebrity-hosted shows. No public Spotify charts. No content marketing strategy. The firm sells through enterprise procurement, not social media."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "A branded audio firm for enterprise clients that take audio seriously.",
+        "mission": "Most agencies treat audio as a tactic. Most podcast studios treat it as a service. We treat it as a strategic channel with measurable outcomes, formatted for procurement.",
+        "vision": "The opening is a structured firm in the middle.",
+        "coreValues": [
+          "Professional — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Strategic — a core principle the brand operates by."
+        ],
+        "scope": "Capital Audio Partners works across:\n• Strategy first\n• Measurable outcomes\n• One partner across the audio stack"
       },
       {
         "id": "podcast-corporate-2",
@@ -675,7 +700,17 @@
           "primary": "A traditional book serif for the wordmark and proposals.",
           "secondary": "A clean enterprise grotesque for reports, dashboards, and operational documents.",
           "rationale": "Tabular and disciplined. Numbers louder than adjectives."
-        }
+        },
+        "brandDescription": "Sterling Audio Group is a full-service branded podcast production company serving corporate clients with strategy, production, distribution, and measurement.",
+        "mission": "We compete on narrative-production craft, distribution capability, and the operational reliability corporate clients require for sustained programmes.",
+        "vision": "The deliverable is a fully produced, distributed, measured podcast programme.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Operational — the metric is what shipped, not what got pitched.",
+          "Reliable — the same answer this Tuesday and next.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "Sterling Audio Group works across:\n• Strategy and production\n• Measured outcomes\n• Multi-year programmes"
       }
     ],
     "Creative": [
@@ -757,30 +792,17 @@
             "body": "Stickers on every laptop. Live recording nights at small bars in distribution cities. Hoodies that have the worst quote from the show on them. A weekly newsletter that's mostly listener emails."
           }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who listens",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": [
-          "manifesto",
-          "industrySummary",
-          "competitorLandscape",
-          "positioning",
-          "targetAudience",
-          "personality",
-          "voiceAndTone",
-          "logoDirection",
-          "colorPalette",
-          "typography"
-        ]
+        "brandDescription": "A podcast network for shows that aren't afraid to be wrong on tape.",
+        "mission": "To build a podcast network for shows that aren't afraid to be wrong on tape.",
+        "vision": "Big Talk is the network for shows whose hosts have something to say and aren't going to soften it for a sponsor.",
+        "coreValues": [
+          "Loud — a core principle the brand operates by.",
+          "Sharp — precision is a form of kindness.",
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Direct — we say what we mean without softening it."
+        ],
+        "scope": "BIG TALK delivers by:\n• Make jokes\n• Quote the worst lines from the hosts\n• Promote with real reactions from listeners"
       },
       {
         "id": "podcast-creative-2",
@@ -865,7 +887,17 @@
           "primary": "A quiet display serif for the wordmark and show titles.",
           "secondary": "A book serif for show descriptions and the weekly letter.",
           "rationale": "Two serifs. The brand reads like a small printed magazine of conversations."
-        }
+        },
+        "brandDescription": "Earshot Podcast Co. is a small editorial network producing warm, conversational shows with clear hosts and unhurried pacing.",
+        "mission": "The network competes on tone. Every show on the roster is selected for warmth, specificity, and host personality — not for category fit or download projections.",
+        "vision": "The conversations stay specific.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Specific — generalities are how people avoid commitment.",
+          "Considered — we choose fewer things, more carefully.",
+          "Conversational — we'd rather talk than present."
+        ],
+        "scope": "Earshot Podcast Co. works across:\n• Eight shows, all warm\n• Hosts as the brand\n• Weekly letter"
       }
     ]
   }

@@ -68,17 +68,16 @@
             "body": "No transformation programs. No challenges. No coach photos. No before-and-after content. No motivational quotes on the wall."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who shows up",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        }
+        "brandDescription": "A gym for people who already know what they're doing.",
+        "mission": "Too many fitness brands sell motivation as a service. Reps assumes the customer has motivation. We just provide the room.",
+        "vision": "A room with weights, a clock on the wall, and people who know what they're there for.",
+        "coreValues": [
+          "Direct — we say what we mean without softening it.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Modern — we build for the customer reading this on a phone."
+        ],
+        "scope": "REPS delivers by:\n• Say what you mean\n• Show the schedule clearly\n• Speak to the experienced lifter"
       },
       {
         "id": "fitness-modern-2",
@@ -163,7 +162,17 @@
           "primary": "A modern grotesque, wide and confident, for the wordmark and signage.",
           "secondary": "A neutral sans for working type.",
           "rationale": "The wordmark sets the tone. Everything else is functional."
-        }
+        },
+        "brandDescription": "Today is a gym built around showing up — daily, simple, on time.",
+        "mission": "The product is a 45-minute session, daily, designed around a member walking through the door. We compete on consistency, not on programming.",
+        "vision": "The rest takes care of itself.",
+        "coreValues": [
+          "Direct — we say what we mean without softening it.",
+          "Warm — we are friendly, not formal.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Practical — we build for the workweek, not the demo."
+        ],
+        "scope": "TODAY works across:\n• One session a day\n• The attendance streak\n• Open the door early"
       }
     ],
     "Luxury": [
@@ -235,18 +244,17 @@
             "body": "No public membership. No flash sales. No filming. No social media presence. No celebrity partnerships, ever."
           }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who is a member",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A private gym, not a club. Membership by invitation, training by appointment.",
+        "mission": "To build a private gym, not a club. Membership by invitation, training by appointment.",
+        "vision": "A waiting list.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Considered — we choose fewer things, more carefully.",
+          "Steady — a core principle the brand operates by.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "THE RESERVE delivers by:\n• Speak softly\n• Use the member's name\n• Send a paper letter for renewals"
       },
       {
         "id": "fitness-luxury-2",
@@ -331,7 +339,17 @@
           "primary": "A traditional book serif for the wordmark and letterhead.",
           "secondary": "An old-style serif for body type.",
           "rationale": "Letterpress register. The club's communications are printed where possible."
-        }
+        },
+        "brandDescription": "A capped-membership athletic club at one location, with multiple disciplines and long-tenure coaches.",
+        "mission": "Membership is by referral and is capped. We do not expand. The product is the building and the people in it.",
+        "vision": "There is a quieter, older market for the single-location athletic club — capped membership, multiple disciplines under one roof, long-tenure staff, no franchise.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Considered — we choose fewer things, more carefully.",
+          "Discreet — what happens in the room stays in the room.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "Marlbrook Athletic Club works across:\n• Capped membership\n• One building, many disciplines\n• Coaches who stay"
       }
     ],
     "Minimal": [
@@ -395,17 +413,16 @@
             "body": "No transformation. No challenges. No before-and-after. No supplements. No merch."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who shows up",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "The fitness brand for people who know that less, done well, is more.",
+        "mission": "To build the fitness brand for people who know that less, done well, is more.",
+        "vision": "There is space for one that subtracts.",
+        "coreValues": [
+          "Calm — a core principle the brand operates by.",
+          "Considered — we choose fewer things, more carefully.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "FORM delivers by:\n• Use plain words\n• Show, don't promise\n• Leave white space"
       },
       {
         "id": "fitness-minimal-2",
@@ -489,7 +506,16 @@
           "primary": "A heavy grotesque, all caps, for the wordmark and signage.",
           "secondary": "A neutral sans for working type.",
           "rationale": "Two weights, two uses. The brand is concrete and chalk."
-        }
+        },
+        "brandDescription": "LIFT is a strength studio with barbells, racks, and a clock. Nothing else.",
+        "mission": "We strip the studio surface. No music programming, no class formats, no recovery-room theatre. Open hours, plates, racks, the clock.",
+        "vision": "The brand is honest about that.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Direct — we say what we mean without softening it.",
+          "Quiet — restraint is the loudest thing in a noisy room."
+        ],
+        "scope": "LIFT works across:\n• Just the bar\n• Open hours\n• Quiet room"
       }
     ],
     "Corporate": [
@@ -580,18 +606,17 @@
             "body": "No D2C app. No wearables. No supplements. No personal training to the public. No celebrity coaches."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Full-service corporate fitness, run by people who used to run real gyms.",
+        "mission": "HR teams don't need another app. They need a partner who shows up, runs the room, files the reports, and renews the contract because the employees liked it.",
+        "vision": "Buyers want a single vendor who can stand up a gym, run the programs, and report on attendance.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Professional — a core principle the brand operates by."
+        ],
+        "scope": "Stride Workplace works across:\n• One partner across sites\n• Real engagement\n• Reporting that procurement uses"
       },
       {
         "id": "fitness-corporate-2",
@@ -676,7 +701,17 @@
           "primary": "A traditional book serif for the wordmark and letters.",
           "secondary": "A clean enterprise grotesque for reports and financials.",
           "rationale": "Tables and numbers are tabular and disciplined."
-        }
+        },
+        "brandDescription": "Whitcomb Fitness Holdings is a multi-format fitness operator running studios under their own brands across North America.",
+        "mission": "We compete on operational depth, real-estate footprint, and a unified back office. The studio brands keep their voice; the operations live with us.",
+        "vision": "The studios get to focus on coaching.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Operational — the metric is what shipped, not what got pitched.",
+          "Reliable — the same answer this Tuesday and next.",
+          "Discreet — what happens in the room stays in the room."
+        ],
+        "scope": "Whitcomb Fitness Holdings works across:\n• Multi-brand operator\n• One back office\n• Acquisition and partnership"
       }
     ],
     "Creative": [
@@ -752,30 +787,17 @@
             "body": "Hoodies and totes you actually want to wear out. The gym has one wall of past member photos taken by a film camera at the front desk. Social is text-on-green, full of inside jokes that always land."
           }
         ],
-        "sectionLabels": {
-          "manifesto": "Why this exists",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who walks in",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": [
-          "manifesto",
-          "industrySummary",
-          "competitorLandscape",
-          "positioning",
-          "targetAudience",
-          "personality",
-          "voiceAndTone",
-          "logoDirection",
-          "colorPalette",
-          "typography"
-        ]
+        "brandDescription": "The gym that treats your hour like an investment, not a punishment.",
+        "mission": "To build the gym that treats your hour like an investment, not a punishment.",
+        "vision": "The gym is a place to build something only you can build.",
+        "coreValues": [
+          "Sharp — precision is a form of kindness.",
+          "Funny — a core principle the brand operates by.",
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Honest — including when the answer is one we'd rather not give."
+        ],
+        "scope": "Sweat Equity delivers by:\n• Make a joke at our own expense\n• Use real language, not gym jargon\n• Talk to the member as a peer"
       },
       {
         "id": "fitness-creative-2",
@@ -860,7 +882,17 @@
           "primary": "A heavy condensed grotesque for the wordmark and signage.",
           "secondary": "A neutral sans for working type.",
           "rationale": "Two faces, two volumes. The brand is loud where it matters and quiet everywhere else."
-        }
+        },
+        "brandDescription": "Sweat More is a studio that rotates disciplines weekly — and refuses to argue which one is best.",
+        "mission": "Members come for the effort, not the method. The schedule rotates. The marketing is the effort itself.",
+        "vision": "The methodology is downstream of the effort.",
+        "coreValues": [
+          "Loud — a core principle the brand operates by.",
+          "Opinionated — a clear point of view is the point.",
+          "Warm — we are friendly, not formal.",
+          "Direct — we say what we mean without softening it."
+        ],
+        "scope": "SWEAT MORE works across:\n• Rotating week\n• The shirt\n• Effort, not numbers"
       }
     ]
   }

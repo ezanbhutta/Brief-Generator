@@ -66,17 +66,16 @@
             "body": "A single retail studio with appointments only. A website that shows each piece against a flat black background. A small wooden case for every order, hand-numbered. A printed thank-you card with the piece's hallmark stamped on it."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who buys this",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "Modern fine jewelry for people who buy one piece a year and wear it every day.",
+        "mission": "To build modern fine jewelry for people who buy one piece a year and wear it every day.",
+        "vision": "The category is asking for restraint with personality.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "CASE delivers by:\n• Name the metal, the karat, the weight in grams\n• Show the piece at scale, on a wrist\n• Skip the muse copy"
       },
       {
         "id": "jewelry-modern-2",
@@ -161,7 +160,17 @@
           "primary": "A modern grotesque for the wordmark and signage.",
           "secondary": "A book serif for the patina diary captions.",
           "rationale": "The sans is the brand. The serif is the story."
-        }
+        },
+        "brandDescription": "Worn is a fine jewelry brand designed for forty years of daily wear, not for the photograph.",
+        "mission": "We design with the patina in mind. The brand documents pieces years into wear, not just on day one. The customer is buying the piece five years from now.",
+        "vision": "Pieces are designed to thicken, dull, scratch — to look like something that has been somewhere.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "WORN works across:\n• Designed for wear\n• Patina diary\n• Repair, not replace"
       }
     ],
     "Luxury": [
@@ -233,18 +242,17 @@
             "body": "No e-commerce. No fashion-jewelry collaborations. No flash sales. No social media advertising. No celebrity placements."
           }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who we serve",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "An English jeweler that makes a small number of pieces, very carefully.",
+        "mission": "To build an English jeweler that makes a small number of pieces, very carefully.",
+        "vision": "We belong there.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones.",
+          "Heritage — a core principle the brand operates by.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "Wentworth & Wynn delivers by:\n• Address the client by surname\n• Speak in the language of craft, not marketing\n• Send a paper invitation to every private viewing"
       },
       {
         "id": "jewelry-luxury-2",
@@ -329,7 +337,17 @@
           "primary": "A traditional book serif for the wordmark and letterhead.",
           "secondary": "An engraver's italic for the maker's signature.",
           "rationale": "Letterpress register. Pieces ship with a printed and signed certificate."
-        }
+        },
+        "brandDescription": "A single-workshop fine jewelry house producing fewer than four hundred signed pieces per year, now in its third generation.",
+        "mission": "We do not scale. The workshop is the limit. Pieces are signed, dated, and recorded. The customer is buying a piece from a specific maker in a specific year.",
+        "vision": "There is a quieter market for the single-workshop house — small annual production, signed pieces, multi-generational ownership.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Considered — we choose fewer things, more carefully.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "House of Marlbrough works across:\n• Fewer than four hundred per year\n• Signed and dated\n• Three generations"
       }
     ],
     "Minimal": [
@@ -393,17 +411,16 @@
             "body": "No occasion marketing. No engagement-ring campaigns. No matching sets. No size charts that aren't accurate to the millimeter."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who wears this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "Fine jewelry made to be worn every day. Not saved.",
+        "mission": "To build fine jewelry made to be worn every day. Not saved.",
+        "vision": "The category needs a brand that says so plainly.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "WORN delivers by:\n• Name the metal and the gauge\n• Show the piece on real skin, not silicone\n• Use plain language for product description"
       },
       {
         "id": "jewelry-minimal-2",
@@ -487,7 +504,16 @@
           "primary": "One neutral grotesque, regular only.",
           "secondary": "No second face.",
           "rationale": "One typeface across the box, the receipt, and the website."
-        }
+        },
+        "brandDescription": "PIECE is a fine jewelry brand that shows the piece — weight, dimension, price — and nothing else.",
+        "mission": "We strip the product page. One photograph. One line of specs. One price. The piece earns it.",
+        "vision": "There is a quieter market for a brand that strips the product page to the piece itself — one image, one weight, one price.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "PIECE works across:\n• One photograph\n• Weight and dimension\n• One price"
       }
     ],
     "Corporate": [
@@ -578,18 +604,17 @@
             "body": "No direct-to-consumer brand. No retail stores. No e-commerce of finished jewelry. No celebrity partnerships. The company is the holding company, not a brand."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "A jewelry holding company building the next generation of fine jewelry brands.",
+        "mission": "Independent jewelry brands need scale partners. Department stores need a single vendor across multiple labels. We sit in the middle, professionalizing what was previously a fragmented B2B space.",
+        "vision": "The customers are not consumers, they are buyers at jewelry chains, department stores, and licensing partners.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Professional — a core principle the brand operates by."
+        ],
+        "scope": "Halcyon Jewelry Group works across:\n• A portfolio approach\n• Reliable wholesale terms\n• A trusted brand-building partner"
       },
       {
         "id": "jewelry-corporate-2",
@@ -674,7 +699,17 @@
           "primary": "A traditional book serif for the wordmark and trade catalogs.",
           "secondary": "A clean enterprise grotesque for tables, pricing schedules, and shipping documents.",
           "rationale": "Tabular and disciplined. The catalog reads like an established trade reference."
-        }
+        },
+        "brandDescription": "Renwick Goldsmith Ltd. is a trade fine jewelry supplier with in-house workshop capacity, serving retail jewelers and corporate gifting programs since 1968.",
+        "mission": "We compete on workshop depth, trade pricing transparency, and the consistent operational performance long-standing trade buyers rely on.",
+        "vision": "The relationship is the multi-year contract.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Reliable — the same answer this Tuesday and next.",
+          "Discreet — what happens in the room stays in the room.",
+          "Operational — the metric is what shipped, not what got pitched."
+        ],
+        "scope": "Renwick Goldsmith Ltd. works across:\n• Workshop capacity\n• Hallmark and compliance\n• Multi-year trade contracts"
       }
     ],
     "Creative": [
@@ -756,30 +791,17 @@
             "body": "Boxes that feel like trophies. Engraved hallmarks with the customer's milestone. Pop-ups at moments (Q4 bonus season, milestone weeks). A members' wall in the store, with customer notes about what each piece marked. Hoodies that have the wordmark on them."
           }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who wears this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": [
-          "manifesto",
-          "industrySummary",
-          "competitorLandscape",
-          "positioning",
-          "targetAudience",
-          "personality",
-          "voiceAndTone",
-          "logoDirection",
-          "colorPalette",
-          "typography"
-        ]
+        "brandDescription": "Jewelry for moments you actually want to remember.",
+        "mission": "To build jewelry for moments you actually want to remember.",
+        "vision": "The piece is a mark on your timeline.",
+        "coreValues": [
+          "Bold — a core principle the brand operates by.",
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Playful — seriousness is overrated.",
+          "Sharp — precision is a form of kindness."
+        ],
+        "scope": "TROPHY delivers by:\n• Make the gift-to-self idea explicit\n• Use real customer stories\n• Be specific about what the piece is marking"
       },
       {
         "id": "jewelry-creative-2",
@@ -864,7 +886,17 @@
           "primary": "A quiet display serif for the wordmark and engraving.",
           "secondary": "A book serif for the certificate and printed register.",
           "rationale": "Engraver's register. The brand is meant to be read as something old, even on day one."
-        }
+        },
+        "brandDescription": "Keep This is a fine jewelry brand built around the act of keeping — engraved boxes, named recipients, generational records.",
+        "mission": "Every piece ships engraved with a name. The brand maintains a generational register of where pieces end up. The brand is the keeping, not the buying.",
+        "vision": "We engrave the instruction on the box.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Specific — generalities are how people avoid commitment.",
+          "Considered — we choose fewer things, more carefully.",
+          "Slightly cinematic — a core principle the brand operates by."
+        ],
+        "scope": "KEEP THIS works across:\n• Engraved boxes\n• Generational register\n• Repair forever"
       }
     ]
   }

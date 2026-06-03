@@ -12,7 +12,13 @@
         "targetAudience": {
           "primary": "30 to 55. Rides three or four times a week. Owns one nice bike, not five. Has a job that requires showing up. Doesn't want to look like a billboard on the weekend ride."
         },
-        "brandPersonalityTraits": ["Composed", "Modern", "Precise", "Quiet", "Confident"],
+        "brandPersonalityTraits": [
+          "Composed",
+          "Modern",
+          "Precise",
+          "Quiet",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Talk about the ride, not the gear",
@@ -27,9 +33,24 @@
         },
         "logoDirection": "A wordmark in a custom italic grotesk, slanted at six degrees, suggesting motion. A small icon of a chainring used at small scales. Both marks read clean on a jersey at twenty meters.",
         "colorPalette": [
-          {"name": "Tarmac", "hex": "#1A1B1E", "meaning": "Wet road at dawn. The color of seriousness.", "usage": "Primary jerseys, body type, signage"},
-          {"name": "Chalk", "hex": "#EEEAE0", "meaning": "Used as space. Stripe on the shoulder.", "usage": "Background, paper, light jersey"},
-          {"name": "Signal Red", "hex": "#D7263D", "meaning": "Brake light, taillight, the one warm color.", "usage": "Accents, season highlights, single jersey color"}
+          {
+            "name": "Tarmac",
+            "hex": "#1A1B1E",
+            "meaning": "Wet road at dawn. The color of seriousness.",
+            "usage": "Primary jerseys, body type, signage"
+          },
+          {
+            "name": "Chalk",
+            "hex": "#EEEAE0",
+            "meaning": "Used as space. Stripe on the shoulder.",
+            "usage": "Background, paper, light jersey"
+          },
+          {
+            "name": "Signal Red",
+            "hex": "#D7263D",
+            "meaning": "Brake light, taillight, the one warm color.",
+            "usage": "Accents, season highlights, single jersey color"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark",
@@ -37,19 +58,22 @@
           "rationale": "One typeface family. The mono carries the data, the regular carries the brand."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No race team kits. No flag-waving country jerseys. No oversized logos. No collaboration with non-cycling fashion houses."}
+          {
+            "title": "What it doesn't do",
+            "body": "No race team kits. No flag-waving country jerseys. No oversized logos. No collaboration with non-cycling fashion houses."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who rides this",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        }
+        "brandDescription": "Cycling gear for people who ride seriously and dress quietly.",
+        "mission": "To build cycling gear for people who ride seriously and dress quietly.",
+        "vision": "Modern, clean, performance-credible, but not screaming at you in carbon fiber.",
+        "coreValues": [
+          "Composed — a core principle the brand operates by.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Precise — accuracy is the brand.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "CADENCE delivers by:\n• Talk about the ride, not the gear\n• Use technical terms when they matter\n• Speak to the rider, not the spectator"
       }
     ],
     "Luxury": [
@@ -64,7 +88,13 @@
         "targetAudience": {
           "primary": "45 and up. Has had several bikes. Knows what a good frame feels like. Travels with the bike. Will pay for a frame the way they would pay for a piano."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Steady", "Discreet", "Confident"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Steady",
+          "Discreet",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Speak rarely",
@@ -79,10 +109,30 @@
         },
         "logoDirection": "A serif wordmark, narrow, set with restraint. A small compass rose used as a hallmark on head tubes, frame badges, and catalog covers. The mark is small. The bike is the thing.",
         "colorPalette": [
-          {"name": "Ink Blue", "hex": "#1B2438", "meaning": "Deep, cold, the sky before sunrise on a long ride.", "usage": "Wordmark, primary surface, frame catalog"},
-          {"name": "Burnished Brass", "hex": "#A38454", "meaning": "Aged metal. The headtube badge. The bell.", "usage": "Hardware, accent foil, badge"},
-          {"name": "Stone", "hex": "#D6CFC2", "meaning": "Old paper. Hand-folded maps.", "usage": "Catalog paper, packaging, secondary surfaces"},
-          {"name": "Slate", "hex": "#3A3F44", "meaning": "Quiet anchor. The shadow on the frame.", "usage": "Body text, secondary type"}
+          {
+            "name": "Ink Blue",
+            "hex": "#1B2438",
+            "meaning": "Deep, cold, the sky before sunrise on a long ride.",
+            "usage": "Wordmark, primary surface, frame catalog"
+          },
+          {
+            "name": "Burnished Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The headtube badge. The bell.",
+            "usage": "Hardware, accent foil, badge"
+          },
+          {
+            "name": "Stone",
+            "hex": "#D6CFC2",
+            "meaning": "Old paper. Hand-folded maps.",
+            "usage": "Catalog paper, packaging, secondary surfaces"
+          },
+          {
+            "name": "Slate",
+            "hex": "#3A3F44",
+            "meaning": "Quiet anchor. The shadow on the frame.",
+            "usage": "Body text, secondary type"
+          }
         ],
         "typography": {
           "primary": "Canela Text for the wordmark and large type",
@@ -90,20 +140,22 @@
           "rationale": "A high contrast serif with the kind of softness that befits an heirloom. A composed grotesk for legibility wherever the serif would be too much."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No e-commerce. No quick ship. No size charts online. No partnerships with race teams or apparel brands. No social ads."}
+          {
+            "title": "What it doesn't do",
+            "body": "No e-commerce. No quick ship. No size charts online. No partnerships with race teams or apparel brands. No social ads."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who rides this",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A bicycle house for riders who want one bike for the next thirty years.",
+        "mission": "To build a bicycle house for riders who want one bike for the next thirty years.",
+        "vision": "Something heirloom.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones.",
+          "Steady — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "Northerly delivers by:\n• Speak rarely\n• Name the framebuilder\n• Send a paper catalog once a year"
       }
     ],
     "Minimal": [
@@ -117,7 +169,12 @@
         "targetAudience": {
           "primary": "Experienced riders who already have a bike they like and a kit they trust. They buy by spec. They don't read the lookbook."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Considered", "Direct"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Considered",
+          "Direct"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the spec",
@@ -132,9 +189,24 @@
         },
         "logoDirection": "A wordmark only. RIDE in a single weight sans, wide kerned, all caps. No icon. No second mark. The wordmark on a jersey, on a box, on a sticker. Same wordmark everywhere.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#161616", "meaning": "The wordmark, the structure.", "usage": "Wordmark, type, hard surfaces"},
-          {"name": "Paper", "hex": "#F2EEE5", "meaning": "Used as space.", "usage": "Background, packaging, all neutral surfaces"},
-          {"name": "Steel", "hex": "#9C9A93", "meaning": "Quiet anchor.", "usage": "Secondary type, dividers"}
+          {
+            "name": "Ink",
+            "hex": "#161616",
+            "meaning": "The wordmark, the structure.",
+            "usage": "Wordmark, type, hard surfaces"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F2EEE5",
+            "meaning": "Used as space.",
+            "usage": "Background, packaging, all neutral surfaces"
+          },
+          {
+            "name": "Steel",
+            "hex": "#9C9A93",
+            "meaning": "Quiet anchor.",
+            "usage": "Secondary type, dividers"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -142,19 +214,21 @@
           "rationale": "One family. Minimum variation."
         },
         "customSections": [
-          {"title": "Not this", "body": "No team kits. No collaborations. No coffee table books. No social campaigns. No influencer riders."}
+          {
+            "title": "Not this",
+            "body": "No team kits. No collaborations. No coffee table books. No social campaigns. No influencer riders."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who buys this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "Cycling gear that doesn't sell you anything other than the gear.",
+        "mission": "To build cycling gear that doesn't sell you anything other than the gear.",
+        "vision": "One that puts the parts in a box and trusts the rider to know what to do with them.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Considered — we choose fewer things, more carefully.",
+          "Direct — we say what we mean without softening it."
+        ],
+        "scope": "RIDE delivers by:\n• Show the spec\n• Show the price\n• Use plain English for the product description"
       }
     ],
     "Corporate": [
@@ -174,7 +248,13 @@
             "Usage reports for sustainability disclosures"
           ]
         },
-        "brandPersonalityTraits": ["Reliable", "Direct", "Professional", "Calm", "Steady"],
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Direct",
+          "Professional",
+          "Calm",
+          "Steady"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with uptime",
@@ -188,16 +268,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "One vendor across sites", "description": "We provide the bikes, the maintenance, the replacement, and the reporting under one contract."},
-          {"name": "Uptime guaranteed", "description": "Service-level agreements on availability, with monthly reporting against them."},
-          {"name": "Sustainability reporting", "description": "Usage data and carbon-offset reports formatted for your ESG disclosure."}
+          {
+            "name": "One vendor across sites",
+            "description": "We provide the bikes, the maintenance, the replacement, and the reporting under one contract."
+          },
+          {
+            "name": "Uptime guaranteed",
+            "description": "Service-level agreements on availability, with monthly reporting against them."
+          },
+          {
+            "name": "Sustainability reporting",
+            "description": "Usage data and carbon-offset reports formatted for your ESG disclosure."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is two parallel curved lines, suggesting handlebars from above. Reads cleanly on uniforms, vans, side panels, and email signatures.",
         "colorPalette": [
-          {"name": "Industrial Navy", "hex": "#0F2235", "meaning": "Trust and steadiness.", "usage": "Logo, primary surfaces"},
-          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean and neutral.", "usage": "Backgrounds, paper"},
-          {"name": "Steel", "hex": "#5E6A75", "meaning": "Structure.", "usage": "Body text, dividers"},
-          {"name": "Signal Green", "hex": "#3E8E5A", "meaning": "Sustainability accent.", "usage": "Charts, success states, ESG report covers"}
+          {
+            "name": "Industrial Navy",
+            "hex": "#0F2235",
+            "meaning": "Trust and steadiness.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and neutral.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5E6A75",
+            "meaning": "Structure.",
+            "usage": "Body text, dividers"
+          },
+          {
+            "name": "Signal Green",
+            "hex": "#3E8E5A",
+            "meaning": "Sustainability accent.",
+            "usage": "Charts, success states, ESG report covers"
+          }
         ],
         "typography": {
           "primary": "Inter",
@@ -205,20 +314,22 @@
           "rationale": "Inter scales clean. The serif handles quarterly business reviews and ESG documentation."
         },
         "customSections": [
-          {"title": "What it doesn't sell", "body": "No retail. No race bikes. No direct-to-consumer apparel. No lifestyle photography. We deliver fleets and reports."}
+          {
+            "title": "What it doesn't sell",
+            "body": "No retail. No race bikes. No direct-to-consumer apparel. No lifestyle photography. We deliver fleets and reports."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Managed bicycle fleets for corporate campuses, hotels, and cities.",
+        "mission": "Procurement wants one vendor who can deliver bikes, maintain them, replace them, and report on usage. Most cycling brands aren't structured to win those contracts. We are.",
+        "vision": "The vendors are mostly small shops not built for procurement.",
+        "coreValues": [
+          "Reliable — the same answer this Tuesday and next.",
+          "Direct — we say what we mean without softening it.",
+          "Professional — a core principle the brand operates by.",
+          "Calm — a core principle the brand operates by.",
+          "Steady — a core principle the brand operates by."
+        ],
+        "scope": "Wheelhouse Mobility works across:\n• One vendor across sites\n• Uptime guaranteed\n• Sustainability reporting"
       }
     ],
     "Creative": [
@@ -233,7 +344,13 @@
         "targetAudience": {
           "primary": "20s and 30s. Lives somewhere with bike lanes. Rides to coffee, dinner, work, parties. Owns a single-speed or a steel road frame. Wears the brand without thinking about it."
         },
-        "brandPersonalityTraits": ["Loud", "Playful", "Warm", "Confident", "Friendly"],
+        "brandPersonalityTraits": [
+          "Loud",
+          "Playful",
+          "Warm",
+          "Confident",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Be funny",
@@ -248,11 +365,36 @@
         },
         "logoDirection": "A wordmark with a spoke-style sunburst behind it, used sparingly. Standalone sunburst icon for stickers, profile pictures, helmet decals. The wordmark stands alone on jerseys and packaging.",
         "colorPalette": [
-          {"name": "Spoke Orange", "hex": "#FF6E1B", "meaning": "Hi-vis cousin. The color of being seen on a road.", "usage": "Primary brand color, jerseys, packaging"},
-          {"name": "Pavement", "hex": "#2C2C2E", "meaning": "Anchor. The road.", "usage": "Body type, secondary jersey color"},
-          {"name": "Chalk", "hex": "#F1ECDE", "meaning": "Lane lines, warm white.", "usage": "Background, paper, accent jersey"},
-          {"name": "Bottle Green", "hex": "#1F4D3B", "meaning": "Old British steel frames. Heritage but warm.", "usage": "Secondary kit color, accents"},
-          {"name": "Pink", "hex": "#E95FA8", "meaning": "Loud and friendly. The neon panel.", "usage": "Sale signs, stickers, special editions"}
+          {
+            "name": "Spoke Orange",
+            "hex": "#FF6E1B",
+            "meaning": "Hi-vis cousin. The color of being seen on a road.",
+            "usage": "Primary brand color, jerseys, packaging"
+          },
+          {
+            "name": "Pavement",
+            "hex": "#2C2C2E",
+            "meaning": "Anchor. The road.",
+            "usage": "Body type, secondary jersey color"
+          },
+          {
+            "name": "Chalk",
+            "hex": "#F1ECDE",
+            "meaning": "Lane lines, warm white.",
+            "usage": "Background, paper, accent jersey"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#1F4D3B",
+            "meaning": "Old British steel frames. Heritage but warm.",
+            "usage": "Secondary kit color, accents"
+          },
+          {
+            "name": "Pink",
+            "hex": "#E95FA8",
+            "meaning": "Loud and friendly. The neon panel.",
+            "usage": "Sale signs, stickers, special editions"
+          }
         ],
         "typography": {
           "primary": "Migra for headlines and the wordmark",
@@ -260,22 +402,26 @@
           "rationale": "Migra has the personality. Neue Montreal keeps things readable. The pair feels expensive and fun."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a performance brand. Not a peloton brand. Not a power-meter brand. Not afraid of sequins on a jersey."},
-          {"title": "Where it lives", "body": "Stickers on every messenger bag in the city. Hoodies that get worn off the bike. A monthly meetup ride that ends at a bar. A small zine printed twice a year."}
+          {
+            "title": "What it isn't",
+            "body": "Not a performance brand. Not a peloton brand. Not a power-meter brand. Not afraid of sequins on a jersey."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Stickers on every messenger bag in the city. Hoodies that get worn off the bike. A monthly meetup ride that ends at a bar. A small zine printed twice a year."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who rides this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A bike brand for people who ride for fun and dress like it.",
+        "mission": "To build a bike brand for people who ride for fun and dress like it.",
+        "vision": "Spoke is the brand for that rider.",
+        "coreValues": [
+          "Loud — a core principle the brand operates by.",
+          "Playful — seriousness is overrated.",
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "SPOKE delivers by:\n• Be funny\n• Use slang where it fits\n• Treat the customer like a friend"
       }
     ]
   }

@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "28 to 50. Already pays for two or three newsletters. Reads The Atlantic, The New Yorker, or the equivalent. Wants writing, not 'content'."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Quiet"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Quiet"
+        ],
         "voiceAndTone": {
           "dos": [
             "Write like a writer, not a content marketer",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. THE WEEKLY in a tight modern serif, all caps, two words on one line. A small geometric mark, a single thin underline beneath, used as the favicon and in section dividers within the newsletter.",
         "colorPalette": [
-          {"name": "Ink Black", "hex": "#101012", "meaning": "Type, the page.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Newsprint Cream", "hex": "#F4F0E6", "meaning": "Old paper.", "usage": "Backgrounds, paper, email body"},
-          {"name": "Margin Red", "hex": "#A8313F", "meaning": "The editorial mark.", "usage": "Accent, key callouts, section flags"}
+          {
+            "name": "Ink Black",
+            "hex": "#101012",
+            "meaning": "Type, the page.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Newsprint Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Old paper.",
+            "usage": "Backgrounds, paper, email body"
+          },
+          {
+            "name": "Margin Red",
+            "hex": "#A8313F",
+            "meaning": "The editorial mark.",
+            "usage": "Accent, key callouts, section flags"
+          }
         ],
         "typography": {
           "primary": "Tiempos Text for the wordmark and body type",
@@ -37,20 +57,25 @@
           "rationale": "A classical serif for the reading body. A modern grotesk for the operational signage. The pair feels like an editorial publication, not a content product."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No referral programs. No growth-hacker subject-line testing. No 'mega-thread' content. No celebrity-author marketing."},
-          {"title": "Where it lives", "body": "An email that arrives at 8 a.m. Sunday. A simple web archive. A monthly podcast recorded by the author, in long form, no edits. No social media presence beyond a single archive."}
+          {
+            "title": "What it doesn't do",
+            "body": "No referral programs. No growth-hacker subject-line testing. No 'mega-thread' content. No celebrity-author marketing."
+          },
+          {
+            "title": "Where it lives",
+            "body": "An email that arrives at 8 a.m. Sunday. A simple web archive. A monthly podcast recorded by the author, in long form, no edits. No social media presence beyond a single archive."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who reads this",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "An independent newsletter for the one good read on Sunday morning.",
+        "mission": "To build an independent newsletter for the one good read on Sunday morning.",
+        "vision": "The customer is design-literate and willing to pay a small monthly fee for one or two writers they trust.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Direct — we say what we mean without softening it.",
+          "Quiet — restraint is the loudest thing in a noisy room."
+        ],
+        "scope": "THE WEEKLY delivers by:\n• Write like a writer, not a content marketer\n• Show the publishing schedule and the unsubscribe link clearly\n• Speak to the reader as a reader"
       }
     ],
     "Luxury": [
@@ -65,7 +90,13 @@
         "targetAudience": {
           "primary": "Wealthy, often inherited. Reads The Atlantic, The New Yorker, Harper's. Pays for a small number of cultural subscriptions. Values the editor's voice."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Literary", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Literary",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the subscriber by surname",
@@ -80,10 +111,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn pen-nib hallmark, used on the email masthead, the printed annual supplement, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Editorial Green", "hex": "#1E3A30", "meaning": "Old leather, the editor's office.", "usage": "Primary brand color, masthead, signage"},
-          {"name": "Cream", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the page.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Aged metal.", "usage": "Foil, hallmark, accents"},
-          {"name": "Ink", "hex": "#1A1A1B", "meaning": "Type.", "usage": "Body, headlines, structure"}
+          {
+            "name": "Editorial Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, the editor's office.",
+            "usage": "Primary brand color, masthead, signage"
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper, the page.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1B",
+            "meaning": "Type.",
+            "usage": "Body, headlines, structure"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,20 +142,22 @@
           "rationale": "A high contrast classical serif sets the editorial tone. A modern grotesk handles the few operational surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No referral programs. No social media presence. No content-marketing strategy. No celebrity-author marketing."}
+          {
+            "title": "What it doesn't do",
+            "body": "No referral programs. No social media presence. No content-marketing strategy. No celebrity-author marketing."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who reads us",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A small heritage publication with a limited subscription and a long editorial calendar.",
+        "mission": "To build a small heritage publication with a limited subscription and a long editorial calendar.",
+        "vision": "Few readers, long-form essays, decades-long subscriptions.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones.",
+          "Discreet — what happens in the room stays in the room.",
+          "Literary — we write more than we shout.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "The Despatch delivers by:\n• Address the subscriber by surname\n• Write long-form essays without web-style headlines\n• Send a paper supplement once a year"
       }
     ],
     "Minimal": [
@@ -118,7 +171,12 @@
         "targetAudience": {
           "primary": "Adults who already read two newsletters a week. They want a third that's plainer than the rest. They will not click a referral link."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Considered", "Patient"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Considered",
+          "Patient"
+        ],
         "voiceAndTone": {
           "dos": [
             "Send one letter a week",
@@ -133,9 +191,24 @@
         },
         "logoDirection": "A wordmark only. LETTER in a single weight grotesk, wide kerned, all caps, six letters with generous space. No icon. The email masthead, the web archive, and the unsubscribe page all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, email body, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, email body, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,19 +216,21 @@
           "rationale": "One face. The email, the archive, and the unsubscribe page all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No referral program. No welcome series. No growth-hacker subject lines. No social media presence."}
+          {
+            "title": "Not this",
+            "body": "No referral program. No welcome series. No growth-hacker subject lines. No social media presence."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who reads this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A weekly letter. No branded archive, no welcome series, no growth strategy.",
+        "mission": "To build a weekly letter. No branded archive, no welcome series, no growth strategy.",
+        "vision": "There's an opening for one that strips it back to the form: a letter, sent weekly, read at leisure.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Considered — we choose fewer things, more carefully.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "LETTER delivers by:\n• Send one letter a week\n• Use plain English\n• Show the unsubscribe link clearly"
       }
     ],
     "Corporate": [
@@ -175,7 +250,13 @@
             "Single partner across editorial, design, and distribution"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with editorial discipline",
@@ -189,16 +270,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Editorial discipline", "description": "Newsletters built like real publications, with editors, calendars, and standards."},
-          {"name": "Owned audience growth", "description": "Audience growth measured against retention and engagement, not just subscriber counts."},
-          {"name": "One partner across editorial and operations", "description": "Strategy, editorial, design, distribution, and reporting under one engagement."}
+          {
+            "name": "Editorial discipline",
+            "description": "Newsletters built like real publications, with editors, calendars, and standards."
+          },
+          {
+            "name": "Owned audience growth",
+            "description": "Audience growth measured against retention and engagement, not just subscriber counts."
+          },
+          {
+            "name": "One partner across editorial and operations",
+            "description": "Strategy, editorial, design, distribution, and reporting under one engagement."
+          }
         ],
         "logoDirection": "A wordmark with a small hand-drawn ampersand becoming the firm's hallmark. The mark appears on letterhead, the masthead of each client newsletter, and the wax seal of every printed engagement letter.",
         "colorPalette": [
-          {"name": "Editorial Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Newsprint", "hex": "#F4F1EA", "meaning": "Cream paper.", "usage": "Backgrounds, paper, slides"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Margin Red", "hex": "#A8313F", "meaning": "The editorial mark.", "usage": "Highlights, charts, key callouts"}
+          {
+            "name": "Editorial Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Newsprint",
+            "hex": "#F4F1EA",
+            "meaning": "Cream paper.",
+            "usage": "Backgrounds, paper, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Margin Red",
+            "hex": "#A8313F",
+            "meaning": "The editorial mark.",
+            "usage": "Highlights, charts, key callouts"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -206,20 +316,22 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and printed editorial portfolios."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C newsletter under our own brand. No celebrity-author partnerships. No content-marketing-by-the-page services. The firm sells through enterprise editorial procurement."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C newsletter under our own brand. No celebrity-author partnerships. No content-marketing-by-the-page services. The firm sells through enterprise editorial procurement."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who hires us",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Editorial newsletter operations for enterprise brands that take owned audiences seriously.",
+        "mission": "Enterprise brands want editorial newsletter operations with the discipline of a real publication. The category incumbents are content marketers. We position on editorial depth and brand discipline.",
+        "vision": "The category is mostly served by content marketing agencies and a few specialists.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Strategic — a core principle the brand operates by."
+        ],
+        "scope": "Editor & Co. works across:\n• Editorial discipline\n• Owned audience growth\n• One partner across editorial and operations"
       }
     ],
     "Creative": [
@@ -234,7 +346,13 @@
         "targetAudience": {
           "primary": "30 to 50. Already runs a small newsletter or wants to. Has watched the open rate slip. Wants a brand that sees them rather than sells them growth tactics."
         },
-        "brandPersonalityTraits": ["Warm", "Sharp", "Confident", "Direct", "Witty"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Sharp",
+          "Confident",
+          "Direct",
+          "Witty"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about the open rate",
@@ -249,11 +367,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the O of OPEN stylized as a small envelope opening. Standalone envelope-O icon for stickers, social profiles, and the back of every welcome email.",
         "colorPalette": [
-          {"name": "Inbox Red", "hex": "#D72638", "meaning": "Loud, warm, the unopened badge.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note.", "usage": "Highlights, social, swag"},
-          {"name": "Email Blue", "hex": "#3870FF", "meaning": "The classic email-blue accent.", "usage": "Secondary surfaces, accents"}
+          {
+            "name": "Inbox Red",
+            "hex": "#D72638",
+            "meaning": "Loud, warm, the unopened badge.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Margin note.",
+            "usage": "Highlights, social, swag"
+          },
+          {
+            "name": "Email Blue",
+            "hex": "#3870FF",
+            "meaning": "The classic email-blue accent.",
+            "usage": "Secondary surfaces, accents"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,22 +404,26 @@
           "rationale": "Migra has warmth. Neue Montreal handles the readable bits. The pair feels designed and a little defiant."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a platform. Not a growth-hacker tool. Not afraid of red. Not too cool to admit the open rate is hard."},
-          {"title": "Where it lives", "body": "A weekly newsletter that's mostly funny subject lines from the community. Stickers in every welcome envelope. A small annual meetup for newsletter writers. A merch line of two tees that say OPEN RATE across the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not a platform. Not a growth-hacker tool. Not afraid of red. Not too cool to admit the open rate is hard."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A weekly newsletter that's mostly funny subject lines from the community. Stickers in every welcome envelope. A small annual meetup for newsletter writers. A merch line of two tees that say OPEN RATE across the back."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who reads this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A small publication brand for writers who keep sending the newsletter anyway.",
+        "mission": "To build a small publication brand for writers who keep sending the newsletter anyway.",
+        "vision": "We are for the writers who keep sending anyway.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Sharp — precision is a form of kindness.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Direct — we say what we mean without softening it.",
+          "Witty — a core principle the brand operates by."
+        ],
+        "scope": "OPEN RATE delivers by:\n• Make jokes about the open rate\n• Quote real subject lines that worked\n• Talk like the writer who has the dashboard open"
       }
     ]
   }

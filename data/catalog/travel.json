@@ -66,17 +66,16 @@
             "body": "A web app that books in under ten clicks. A printed itinerary mailed the week before departure. A WhatsApp number for the duration of the trip. No mid-trip marketing emails."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who books with us",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "Curated travel for people who already know how to book a flight.",
+        "mission": "To build curated travel for people who already know how to book a flight.",
+        "vision": "They want a real itinerary, real prices, and an interface that books in fewer than ten clicks.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Direct — we say what we mean without softening it.",
+          "Quiet — restraint is the loudest thing in a noisy room."
+        ],
+        "scope": "PASSAGE delivers by:\n• Show the price\n• Show the day-by-day\n• Speak to one traveler at a time"
       },
       {
         "id": "travel-modern-2",
@@ -161,7 +160,17 @@
           "primary": "A modern grotesque for the wordmark and signage.",
           "secondary": "A book serif for the quarterly destination letter.",
           "rationale": "The sans is the working surface. The serif is the letter that arrives in the post."
-        }
+        },
+        "brandDescription": "Go Later is a travel planner for trips you are taking a year from now.",
+        "mission": "We compete on planning depth. The site is a research surface — destination notes, seasonal calendars, lodging shortlists — designed for the months before the trip.",
+        "vision": "We help you plan slowly, book ahead, and arrive somewhere you actually wanted to be — not somewhere a banner ad told you to be.",
+        "coreValues": [
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "GO LATER works across:\n• The eighteen-month plan\n• Quarterly letters\n• Off-shoulder first"
       }
     ],
     "Luxury": [
@@ -233,18 +242,17 @@
             "body": "No public price list. No website beyond a single-page address card. No social media. No press. No client logo wall. No advertising of any kind."
           }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who we serve",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A private travel office for forty client families. No more.",
+        "mission": "To build a private travel office for forty client families. No more.",
+        "vision": "Private offices with a single principal, a handful of clients, and an address book that takes a lifetime to build.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones.",
+          "Trusted — a core principle the brand operates by.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "Allard & Co. delivers by:\n• Address the client by surname\n• Send paper letters\n• Confirm arrangements in writing"
       },
       {
         "id": "travel-luxury-2",
@@ -329,7 +337,17 @@
           "primary": "A traditional book serif for the wordmark and letterhead.",
           "secondary": "An old-style serif for body, generously spaced.",
           "rationale": "Letterpress register throughout. Most correspondence is printed and signed."
-        }
+        },
+        "brandDescription": "A two-partner travel planning firm taking thirty households per year, by referral.",
+        "mission": "We do not scale. The partners have visited every property. The relationship is the work.",
+        "vision": "There is a quieter market for the very small partner-led firm — thirty households a year, planned in person.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Discreet — what happens in the room stays in the room.",
+          "Considered — we choose fewer things, more carefully.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "Wren & Albright works across:\n• Thirty households\n• Visited in person\n• Ten-year relationships"
       }
     ],
     "Minimal": [
@@ -393,17 +411,16 @@
             "body": "No destination guides. No mood boards. No newsletter. No referral codes. No flash sales."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who books this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "Travel planning that doesn't try to sell you the destination.",
+        "mission": "To build travel planning that doesn't try to sell you the destination.",
+        "vision": "The where matters second.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "AWAY delivers by:\n• Show the dates\n• Show the price\n• Send the confirmation in one short email"
       },
       {
         "id": "travel-minimal-2",
@@ -487,7 +504,16 @@
           "primary": "One neutral grotesque, regular only.",
           "secondary": "No second face.",
           "rationale": "One typeface across the booking, the receipt, and the airport envelope."
-        }
+        },
+        "brandDescription": "GO is a trip planner with two inputs: where, when. One result.",
+        "mission": "We strip the booking surface to two questions. The result is a single recommended itinerary. No comparison grid, no filters.",
+        "vision": "No carousel, no inspiration grid, no banner ads.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Direct — we say what we mean without softening it.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "GO works across:\n• Two inputs\n• One itinerary\n• Short confirmation"
       }
     ],
     "Corporate": [
@@ -578,18 +604,17 @@
             "body": "No consumer leisure travel. No free tier. No celebrity ambassadors. The product sells through enterprise procurement, not Instagram travel content."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Corporate travel management for finance and people teams that have moved on from legacy platforms.",
+        "mission": "Finance teams are tired of legacy booking platforms. People teams want better traveler experience. We win when we can address both audiences in one buying cycle.",
+        "vision": "There's a clear opening for a modern operator that wins the procurement cycle on platform quality and reporting depth.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Steady — a core principle the brand operates by."
+        ],
+        "scope": "Bridger Corporate Travel works across:\n• Real-time spend visibility\n• Policy compliance built in\n• Traveler experience that doesn't generate complaints"
       },
       {
         "id": "travel-corporate-2",
@@ -674,7 +699,17 @@
           "primary": "A traditional book serif for the wordmark and proposals.",
           "secondary": "A clean enterprise grotesque for reports, dashboards, and the booking tool.",
           "rationale": "Tables and numbers tabular and disciplined."
-        }
+        },
+        "brandDescription": "Hartwell Travel Holdings is a mid-market corporate travel management group with proprietary booking technology and full policy administration.",
+        "mission": "We compete on the combination of TMC service depth and modern booking technology. The CFO sees the spend reduction; the traveler sees a tool that works.",
+        "vision": "The metric is travel policy compliance, spend reduction, and traveler satisfaction.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Operational — the metric is what shipped, not what got pitched.",
+          "Reliable — the same answer this Tuesday and next.",
+          "Direct — we say what we mean without softening it."
+        ],
+        "scope": "Hartwell Travel Holdings works across:\n• Service and technology\n• Policy enforcement that works\n• Spend reduction in writing"
       }
     ],
     "Creative": [
@@ -756,30 +791,17 @@
             "body": "Printed guides for specific small cities. Totebags people actually use abroad. A monthly newsletter that's mostly customer notes. A pop-up travel office twice a year in a different city each time. Stickers in every order."
           }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who travels with us",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": [
-          "manifesto",
-          "industrySummary",
-          "competitorLandscape",
-          "positioning",
-          "targetAudience",
-          "personality",
-          "voiceAndTone",
-          "logoDirection",
-          "colorPalette",
-          "typography"
-        ]
+        "brandDescription": "A travel brand for people who pick the destination based on the rumor, not the brochure.",
+        "mission": "To build a travel brand for people who pick the destination based on the rumor, not the brochure.",
+        "vision": "The brand exists to send people somewhere else.",
+        "coreValues": [
+          "Curious — a core principle the brand operates by.",
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Playful — seriousness is overrated.",
+          "Sharp — precision is a form of kindness."
+        ],
+        "scope": "ELSEWHERE delivers by:\n• Tell the rumor\n• Name the strange place by its real name\n• Use real customer notes in the guide"
       },
       {
         "id": "travel-creative-2",
@@ -864,7 +886,17 @@
           "primary": "A quiet display serif for the wordmark.",
           "secondary": "A modern grotesque for itineraries and working type.",
           "rationale": "The serif declares the opinion. The sans tells you what to do with it."
-        }
+        },
+        "brandDescription": "Not Today is a trip-planning brand that builds itineraries around the city the guidebook left out.",
+        "mission": "Every itinerary starts by removing the obvious sites. The brand stakes its credibility on the suburbs, the side streets, the closing-time bookshops.",
+        "vision": "We make trips out of the rest of the city — the parts the camera tour does not stop at.",
+        "coreValues": [
+          "Opinionated — a clear point of view is the point.",
+          "Warm — we are friendly, not formal.",
+          "Specific — generalities are how people avoid commitment.",
+          "Cheeky — a core principle the brand operates by."
+        ],
+        "scope": "NOT TODAY works across:\n• Skip list first\n• Suburb day\n• Local newspaper"
       }
     ]
   }

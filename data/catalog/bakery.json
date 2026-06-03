@@ -67,17 +67,17 @@
             "body": "A clean shop with a glass case, a board listing today's three breads, and one chalkboard with tomorrow's pastry list. Web ordering opens at 5 a.m. and closes when the day's loaves are claimed."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who buys this",
-          "personality": "The vibe",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "A bakery for people who care about the bread and don't need the wood-and-flour story.",
+        "mission": "To build a bakery for people who care about the bread and don't need the wood-and-flour story.",
+        "vision": "Something that respects the bread but doesn't worship it.",
+        "coreValues": [
+          "Precise — accuracy is the brand.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Considered — we choose fewer things, more carefully.",
+          "Warm — we are friendly, not formal.",
+          "Direct — we say what we mean without softening it."
+        ],
+        "scope": "MILL delivers by:\n• Use bread terms accurately\n• List what's in the loaf\n• Update the menu like a software changelog"
       },
       {
         "id": "bakery-modern-2",
@@ -162,7 +162,17 @@
           "primary": "A calm modern serif for the wordmark.",
           "secondary": "A traditional book serif for the daily list and menu cards.",
           "rationale": "Two related serifs. The wordmark is steady. The daily list looks hand-set every morning."
-        }
+        },
+        "brandDescription": "Loaf Atelier is a small working bakery selling a fixed daily list — six loaves, four pastries, one cake — and closing when it's gone.",
+        "mission": "We compete on daily discipline. The list does not grow. The shop sells until the list runs out, and then the door closes. Morning queue is the marketing.",
+        "vision": "When they're gone the door says SOLD OUT.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Warm — we are friendly, not formal.",
+          "Specific — generalities are how people avoid commitment."
+        ],
+        "scope": "Loaf Atelier works across:\n• Six loaves a day\n• Sold until gone\n• Baked overnight"
       }
     ],
     "Luxury": [
@@ -234,18 +244,17 @@
             "body": "No franchise. No second location for now. No grocery store distribution. No collabs. No app."
           }
         ],
-        "sectionLabels": {
-          "story": "Where this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who comes to us",
-          "personality": "How it feels",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "The bread house for people who treat bread the way other people treat wine.",
+        "mission": "To build the bread house for people who treat bread the way other people treat wine.",
+        "vision": "We think that's the opportunity.",
+        "coreValues": [
+          "Patient — we play long games, not loud ones.",
+          "Refined — a core principle the brand operates by.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Steady — a core principle the brand operates by.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "Hawkins & Daughters delivers by:\n• Speak slowly\n• Use accurate French where it fits\n• Name the flour, the mill, and the miller"
       },
       {
         "id": "bakery-luxury-2",
@@ -330,7 +339,17 @@
           "primary": "A traditional book serif for the wordmark and signage.",
           "secondary": "An engraver's italic for the founding year.",
           "rationale": "Letterpress register. The shop sign, the bread paper, and the printed price list share the same typography."
-        }
+        },
+        "brandDescription": "A 1947 Paris boulangerie in third-generation family operation, with two breads and three pastries, baked the same way since the founder.",
+        "mission": "We do not extend the catalog. The bakery is the limit. The two breads and three pastries have remained the same across three generations, with continuity of recipe, of staff, and of address.",
+        "vision": "There is space for a small, heritage, family-owned boulangerie with a deliberately narrow catalog — closer to Poilâne or Du Pain et des Idées than to Maison Kayser's multi-city operation.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Considered — we choose fewer things, more carefully.",
+          "Warm — we are friendly, not formal.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "Boulangerie Vérin works across:\n• Two breads, three pastries\n• Third generation\n• One address"
       }
     ],
     "Minimal": [
@@ -394,17 +413,16 @@
             "body": "No bag art. No founder story. No social campaigns. No paper price tags written by hand. Plain printing, plain paper."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who buys this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "The bakery that doesn't make a fuss about being a bakery.",
+        "mission": "To build the bakery that doesn't make a fuss about being a bakery.",
+        "vision": "Almost none of them are quiet.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "CRUMB delivers by:\n• Say less\n• Show the price\n• Name what's in the bread"
       },
       {
         "id": "bakery-minimal-2",
@@ -488,7 +506,16 @@
           "primary": "One neutral grotesque, regular only.",
           "secondary": "No second face.",
           "rationale": "One typeface across the door, the paper, and the website."
-        }
+        },
+        "brandDescription": "Crumb is a one-bread bakery selling a single overnight-baked loaf, from the counter, until it sells through.",
+        "mission": "We strip the catalog to one item. The bread is posted daily. The shop closes when the bread runs out.",
+        "vision": "The customer comes for the bread.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Considered — we choose fewer things, more carefully.",
+          "Quiet — restraint is the loudest thing in a noisy room."
+        ],
+        "scope": "Crumb works across:\n• One bread\n• Posted by 6am\n• One photograph"
       }
     ],
     "Corporate": [
@@ -579,18 +606,17 @@
             "body": "No retail shop. No D2C. No specialty croissants. No seasonal limited editions. Bread, on time, at scale."
           }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Wholesale bread that arrives at six, every day, and tastes like it was baked in a real oven.",
+        "mission": "Restaurant operations live and die on delivery reliability. We compete on showing up first, with bread that the head chef approves the first time.",
+        "vision": "Few players sit in the middle.",
+        "coreValues": [
+          "Reliable — the same answer this Tuesday and next.",
+          "Direct — we say what we mean without softening it.",
+          "Professional — a core principle the brand operates by.",
+          "Calm — a core principle the brand operates by.",
+          "Honest — including when the answer is one we'd rather not give."
+        ],
+        "scope": "Atlas Bakehouse Co. works across:\n• On time, every time\n• The same bread, every time\n• One contact, one invoice"
       },
       {
         "id": "bakery-corporate-2",
@@ -675,7 +701,17 @@
           "primary": "A traditional book serif for the wordmark and trade letters.",
           "secondary": "A clean enterprise grotesque for production sheets, shipping documents, and reports.",
           "rationale": "Tabular and disciplined. The trade catalog reads like a long-standing wholesale reference."
-        }
+        },
+        "brandDescription": "Halverson Baking Co. is a fourth-generation regional wholesale bakery supplying grocery, foodservice, and company-owned retail across the upper Midwest.",
+        "mission": "We compete on production capacity, lead-time reliability, and the multi-generational family ownership grocery buyers prefer when consolidating supplier relationships.",
+        "vision": "The metric is consistency, lead time, and shelf life.",
+        "coreValues": [
+          "Senior — judgment over process, every time.",
+          "Reliable — the same answer this Tuesday and next.",
+          "Discreet — what happens in the room stays in the room.",
+          "Operational — the metric is what shipped, not what got pitched."
+        ],
+        "scope": "Halverson Baking Co. works across:\n• Family-owned, four generations\n• Production capacity\n• Multi-year supply"
       }
     ],
     "Creative": [
@@ -757,30 +793,17 @@
             "body": "Tote bags people actually use. Stickers on laptops. A bread-of-the-month club with a printed newsletter. Events at the shop on Sunday mornings. Hoodies in the back."
           }
         ],
-        "sectionLabels": {
-          "manifesto": "Why this exists",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who shows up",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": [
-          "manifesto",
-          "industrySummary",
-          "competitorLandscape",
-          "positioning",
-          "targetAudience",
-          "personality",
-          "voiceAndTone",
-          "logoDirection",
-          "colorPalette",
-          "typography"
-        ]
+        "brandDescription": "The bakery that throws the party and makes the bread.",
+        "mission": "To build the bakery that throws the party and makes the bread.",
+        "vision": "A real bakery with a sticky door handle and a sticker wall and bread that ruins other bread for you.",
+        "coreValues": [
+          "Fun — a core principle the brand operates by.",
+          "Warm — we are friendly, not formal.",
+          "Loud — a core principle the brand operates by.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "Crust Club delivers by:\n• Be playful\n• Name the bread something memorable\n• Make jokes the customer can repeat"
       },
       {
         "id": "bakery-creative-2",
@@ -865,7 +888,17 @@
           "primary": "A hand-drawn display serif for the wordmark.",
           "secondary": "A neutral grotesque for body, daily list, and field data.",
           "rationale": "The display serif sets the warm-nerdy tone. The grotesque carries the working data on the loaf tags."
-        }
+        },
+        "brandDescription": "Wild Yeast Bakery is a sourdough-and-wild-fermentation bakery that puts the starter at the centre of the brand.",
+        "mission": "The starter is the brand. Every loaf is labeled with the starter generation, the bulk-ferment time, and the bake number. The site has a page for the starter — when it was first cultivated, what flours it's been fed, where it lives.",
+        "vision": "The brand is honest about being a science project that became a shop.",
+        "coreValues": [
+          "Specific — generalities are how people avoid commitment.",
+          "Nerdy — depth is what makes the difference.",
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "Wild Yeast Bakery works across:\n• The starter is the brand\n• Labeled bake\n• Wild fermentation only"
       }
     ]
   }

@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "30 to 55. Owns a home, cares about how it's furnished. Buys two or three pieces a year. Will pay a premium for hand-made. Reads the maker's bio before buying."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Warm"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Name the maker on every product page",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. MAKERS in a precise modern grotesk, all caps, wide kerned. A small geometric mark, two thin horizontal lines suggesting a workbench, used as the hangtag stamp and the favicon.",
         "colorPalette": [
-          {"name": "Workshop Black", "hex": "#101012", "meaning": "Marker on muslin, the workbench color.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Workshop Cream", "hex": "#F4F0E6", "meaning": "Unbleached canvas. Used as space.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Stamp Red", "hex": "#A8313F", "meaning": "Maker's mark stamp. The single accent.", "usage": "Hangtags, sale signs, web headlines"}
+          {
+            "name": "Workshop Black",
+            "hex": "#101012",
+            "meaning": "Marker on muslin, the workbench color.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Workshop Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Unbleached canvas. Used as space.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Stamp Red",
+            "hex": "#A8313F",
+            "meaning": "Maker's mark stamp. The single accent.",
+            "usage": "Hangtags, sale signs, web headlines"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark and headlines",
@@ -37,20 +57,25 @@
           "rationale": "One family. The mono carries the material data and dimensions. The regular carries the brand and the editorial copy."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No mass-market lines. No 'inspired by' language. No flash sales. No celebrity collaborations. No 'shop the look' bundles."},
-          {"title": "Where it lives", "body": "A small retail shop open three days a week. A printed catalog twice a year. Each piece ships with a hangtag listing the maker, the material, and the make time. The website loads the workshop before the lookbook."}
+          {
+            "title": "What it doesn't do",
+            "body": "No mass-market lines. No 'inspired by' language. No flash sales. No celebrity collaborations. No 'shop the look' bundles."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A small retail shop open three days a week. A printed catalog twice a year. Each piece ships with a hangtag listing the maker, the material, and the make time. The website loads the workshop before the lookbook."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who buys this",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "A home goods brand where every piece is signed by the person who made it.",
+        "mission": "To build a home goods brand where every piece is signed by the person who made it.",
+        "vision": "The opening is a brand that puts the maker first, treats every piece as a small relationship, and skips the mass-market playbook.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Direct — we say what we mean without softening it.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "MAKERS delivers by:\n• Name the maker on every product page\n• Show the workshop, not the studio\n• Skip the lifestyle copy"
       }
     ],
     "Luxury": [
@@ -65,7 +90,13 @@
         "targetAudience": {
           "primary": "Wealthy. Often inherited. Furnishes a house slowly. Buys for milestones. Expects every piece to outlast its purchase. Values the relationship with the editor over the catalog itself."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +111,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the house's hallmark, used on hangtags, the catalog cover, the brass plaque outside the showroom, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "House Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the showroom interior.", "usage": "Primary brand color, signage, letterhead"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hallmark, hardware"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper. Fine cotton.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, reports, structural elements"}
+          {
+            "name": "House Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, library walls, the showroom interior.",
+            "usage": "Primary brand color, signage, letterhead"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque outside.",
+            "usage": "Foil, hallmark, hardware"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper. Fine cotton.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body, reports, structural elements"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,20 +142,22 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces. Both restrained."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No mass distribution. No collaborations with fashion houses. No flash sales. No celebrity endorsements. No marketplace listings."}
+          {
+            "title": "What it doesn't do",
+            "body": "No mass distribution. No collaborations with fashion houses. No flash sales. No celebrity endorsements. No marketplace listings."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who buys from us",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A heritage homewares house with a small catalog and a long client list.",
+        "mission": "To build a heritage homewares house with a small catalog and a long client list.",
+        "vision": "The customer is paying for the house, the catalog, and the long relationship.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones.",
+          "Discreet — what happens in the room stays in the room.",
+          "Heritage — a core principle the brand operates by.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "Brunton & Hall delivers by:\n• Address the client by surname\n• Name the maker, the material, and the maker's town\n• Send paper cards for every order"
       }
     ],
     "Minimal": [
@@ -118,7 +171,12 @@
         "targetAudience": {
           "primary": "Adults who buy household items and don't need a story. They want the right object, the right price, and a fair return policy."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Patient"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Patient"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the product, the material, the price",
@@ -133,9 +191,24 @@
         },
         "logoDirection": "A wordmark only. GOODS in a single weight grotesk, wide kerned, all caps. No icon. The hangtag, the bag, the receipt all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, packaging, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,19 +216,21 @@
           "rationale": "One face. The hangtag, the website, and the receipt all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No collaborations. No newsletter. No loyalty program. No styled lifestyle imagery. No 'shop the look'."}
+          {
+            "title": "Not this",
+            "body": "No collaborations. No newsletter. No loyalty program. No styled lifestyle imagery. No 'shop the look'."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who shops here",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A home goods shop with a small catalog and no brand world.",
+        "mission": "To build a home goods shop with a small catalog and no brand world.",
+        "vision": "Nothing else.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "GOODS delivers by:\n• Show the product, the material, the price\n• Use plain English\n• Confirm orders in two lines"
       }
     ],
     "Corporate": [
@@ -175,7 +250,13 @@
             "Single partner across home, kitchen, and accessories"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the catalog and the delivery model",
@@ -189,16 +270,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Wholesale at scale", "description": "Reliable supply across home, kitchen, and accessories under one contract."},
-          {"name": "Design-led category development", "description": "New product introduced on a multi-season calendar with editorial discipline, not chasing weekly trends."},
-          {"name": "Single partner across categories", "description": "Furniture, decor, kitchen, and accessories under one engagement."}
+          {
+            "name": "Wholesale at scale",
+            "description": "Reliable supply across home, kitchen, and accessories under one contract."
+          },
+          {
+            "name": "Design-led category development",
+            "description": "New product introduced on a multi-season calendar with editorial discipline, not chasing weekly trends."
+          },
+          {
+            "name": "Single partner across categories",
+            "description": "Furniture, decor, kitchen, and accessories under one engagement."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single inverted triangle pointing up, suggesting a peak. Reads cleanly on a sourcing deck, a name badge, and a B2B trade show banner.",
         "colorPalette": [
-          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, slides"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Category accent.", "usage": "Foil on B2B documents, accent"}
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Category accent.",
+            "usage": "Foil on B2B documents, accent"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -206,20 +316,22 @@
           "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs and licensing contracts."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C brand of our own. No retail stores. No celebrity endorsements. The firm sells through wholesale and brand licensing channels, not consumer social media."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C brand of our own. No retail stores. No celebrity endorsements. The firm sells through wholesale and brand licensing channels, not consumer social media."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys from us",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Wholesale home goods distribution and brand licensing for retailers at scale.",
+        "mission": "Retailers want partners who can deliver consistent product across categories with design discipline. The category incumbents are designed for legacy retail. We are designed for the contemporary home retailer who needs an operator that thinks like a brand.",
+        "vision": "The category is mostly served by giant distributors and a few specialist firms.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Professional — a core principle the brand operates by."
+        ],
+        "scope": "Cresta Home Group works across:\n• Wholesale at scale\n• Design-led category development\n• Single partner across categories"
       }
     ],
     "Creative": [
@@ -234,7 +346,13 @@
         "targetAudience": {
           "primary": "25 to 40. Lives in an apartment. Buys for one room at a time. Reads home Instagram but knows they don't have the budget for it. Wants pieces that work in a 600-square-foot apartment, not a Brooklyn brownstone."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Playful",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the products in real small apartments",
@@ -249,11 +367,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the O of HOME stylized as a small open square, suggesting a window. Standalone window-icon for stickers, social profiles, and packaging seals.",
         "colorPalette": [
-          {"name": "Apartment Red", "hex": "#D72638", "meaning": "Loud, warm, the front door painted that way on purpose.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Apartment Cream", "hex": "#F4EFE2", "meaning": "Warm wall, the place you actually live.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Sage", "hex": "#A6B49A", "meaning": "The one plant on the windowsill.", "usage": "Accent, secondary surfaces"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
-          {"name": "Sun Yellow", "hex": "#FFD23F", "meaning": "The lamp in the corner.", "usage": "Highlights, swag, social"}
+          {
+            "name": "Apartment Red",
+            "hex": "#D72638",
+            "meaning": "Loud, warm, the front door painted that way on purpose.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Apartment Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm wall, the place you actually live.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Sage",
+            "hex": "#A6B49A",
+            "meaning": "The one plant on the windowsill.",
+            "usage": "Accent, secondary surfaces"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          },
+          {
+            "name": "Sun Yellow",
+            "hex": "#FFD23F",
+            "meaning": "The lamp in the corner.",
+            "usage": "Highlights, swag, social"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,22 +404,26 @@
           "rationale": "Migra has warmth and personality. Neue Montreal handles the practical bits. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a luxury brand. Not a magazine-shoot brand. Not afraid of red. Not too cool to admit the apartment is small."},
-          {"title": "Where it lives", "body": "Real photos from real customer apartments. Stickers in every order. A printed apartment-living guide mailed once a year. A weekly newsletter written like a friend texting from across the hallway."}
+          {
+            "title": "What it isn't",
+            "body": "Not a luxury brand. Not a magazine-shoot brand. Not afraid of red. Not too cool to admit the apartment is small."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Real photos from real customer apartments. Stickers in every order. A printed apartment-living guide mailed once a year. A weekly newsletter written like a friend texting from across the hallway."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who buys this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A home goods brand for people who actually live in small spaces.",
+        "mission": "To build a home goods brand for people who actually live in small spaces.",
+        "vision": "Home Body is the brand for the home you actually have.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Playful — seriousness is overrated.",
+          "Direct — we say what we mean without softening it.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "HOME BODY delivers by:\n• Show the products in real small apartments\n• Make jokes about apartment life\n• Talk like a friend who already lives in the building"
       }
     ]
   }

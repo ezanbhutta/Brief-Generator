@@ -13,7 +13,13 @@
         "targetAudience": {
           "primary": "25 to 45. Already uses three products in their routine. Reads the back of the bottle before they buy. Trusts science, not influencers. Asks questions when something doesn't work."
         },
-        "brandPersonalityTraits": ["Direct", "Modern", "Honest", "Precise", "Quiet"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Honest",
+          "Precise",
+          "Quiet"
+        ],
         "voiceAndTone": {
           "dos": [
             "Name the active ingredient and the percentage",
@@ -28,9 +34,24 @@
         },
         "logoDirection": "A wordmark only. PROOF in a precise modern grotesk, slightly compressed, all caps. The two O's set tightly together, almost touching. The mark works at every size, from a 6mm seal on a bottle to a window display.",
         "colorPalette": [
-          {"name": "Clinical White", "hex": "#FAFAF7", "meaning": "The color of a lab notebook on a clean desk.", "usage": "Bottles, packaging body, web background"},
-          {"name": "Lab Black", "hex": "#161618", "meaning": "Ink. The wordmark. The serial number.", "usage": "Wordmark, body type, structure"},
-          {"name": "Test Strip Blue", "hex": "#2B5BCB", "meaning": "Lab test paper. The single accent.", "usage": "Active ingredient flags, percentages on label"}
+          {
+            "name": "Clinical White",
+            "hex": "#FAFAF7",
+            "meaning": "The color of a lab notebook on a clean desk.",
+            "usage": "Bottles, packaging body, web background"
+          },
+          {
+            "name": "Lab Black",
+            "hex": "#161618",
+            "meaning": "Ink. The wordmark. The serial number.",
+            "usage": "Wordmark, body type, structure"
+          },
+          {
+            "name": "Test Strip Blue",
+            "hex": "#2B5BCB",
+            "meaning": "Lab test paper. The single accent.",
+            "usage": "Active ingredient flags, percentages on label"
+          }
         ],
         "typography": {
           "primary": "GT America Mono for label data and percentages",
@@ -38,22 +59,27 @@
           "rationale": "The mono carries the facts (ingredient percentages, batch numbers, pH). The regular carries the brand. One family, two jobs."
         },
         "customSections": [
-          {"title": "What it doesn't say", "body": "No miracle claims. No before-and-after photos. No celebrity endorsements. No 'natural' or 'clean beauty' language."},
-          {"title": "Where it lives", "body": "Bottles are clinical white with a small black wordmark. The label is a single column of data: active ingredient, percentage, pH, batch, expiry. The website shows the trial data above the buy button."}
+          {
+            "title": "What it doesn't say",
+            "body": "No miracle claims. No before-and-after photos. No celebrity endorsements. No 'natural' or 'clean beauty' language."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Bottles are clinical white with a small black wordmark. The label is a single column of data: active ingredient, percentage, pH, batch, expiry. The website shows the trial data above the buy button."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "The reference shelf",
-          "positioning": "The pitch",
-          "targetAudience": "Who buys this",
-          "personality": "The vibe",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
-      }
-      ,
+        "brandDescription": "Skincare that shows its work.",
+        "mission": "Most brands sell results without showing how they got there. We publish the clinical data, the ingredient percentages, and the price reasoning on every bottle. Customers who care about skincare care about this.",
+        "vision": "The category is asking for honesty more than novelty.",
+        "coreValues": [
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Precise — accuracy is the brand.",
+          "Quiet — restraint is the loudest thing in a noisy room."
+        ],
+        "scope": "PROOF delivers by:\n• Name the active ingredient and the percentage\n• Show the trial data\n• Skip the marketing copy"
+      },
       {
         "brandName": "CLEAR DAY",
         "tagline": "What good skin looks like.",
@@ -61,14 +87,73 @@
         "industrySummary": "Skincare is loud. Every brand promises clinical, glass-skin results. Customers are smart now. They read ingredient lists. They check trial data. The category is asking for honesty more than novelty.",
         "competitorLandscape": "The Ordinary (theordinary.com) set the modern transparent template. Versed (versedskin.com) holds the design-led peer. Drunk Elephant (drunkelephant.com) sits at the science-meets-design tier. We sit closer to Versed in posture.",
         "positioningStatement": "Skincare named after the day, not the substance.",
-        "targetAudience": {"primary": "25 to 45. Uses three products in the routine. Reads the back of the bottle. Trusts evidence, not influencers."},
-        "brandPersonalityTraits": ["Direct", "Modern", "Honest", "Warm"],
-        "voiceAndTone": {"dos": ["Show the actives and the percentages", "Show the trial data", "Skip the marketing copy"], "donts": ["Use the word miracle", "Promise overnight results", "Photograph the founder with the bottle"]},
+        "targetAudience": {
+          "primary": "25 to 45. Uses three products in the routine. Reads the back of the bottle. Trusts evidence, not influencers."
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Honest",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the actives and the percentages",
+            "Show the trial data",
+            "Skip the marketing copy"
+          ],
+          "donts": [
+            "Use the word miracle",
+            "Promise overnight results",
+            "Photograph the founder with the bottle"
+          ]
+        },
         "logoDirection": "A wordmark only. CLEAR DAY in a soft modern grotesk, all caps, two words on one line. A small geometric mark, a thin sun-arc, used as the favicon and on the package seal.",
-        "colorPalette": [{"name": "Clinical White", "hex": "#FAFAF7", "meaning": "Lab notebook on a clean desk.", "usage": "Bottles, packaging body, web background"}, {"name": "Day Sky", "hex": "#7BB8FF", "meaning": "First clear morning of the week.", "usage": "Accent, status, headlines"}, {"name": "Ink", "hex": "#161618", "meaning": "Type.", "usage": "Wordmark, body, structure"}],
-        "typography": {"primary": "GT America for the wordmark", "secondary": "GT America Mono for percentages and pH", "rationale": "Mono carries the facts. Regular carries the brand."},
-        "customSections": [{"title": "What it doesn't say", "body": "No miracle claims. No before-and-after photos. No celebrity endorsements."}, {"title": "Where it lives", "body": "Bottles in clinical white with a small wordmark. The label is a single column of data. The website shows the trial data above the buy button."}],
-        "sectionLabels": {"industrySummary": "The market", "competitorLandscape": "The reference shelf", "positioning": "The pitch", "targetAudience": "Who buys this", "personality": "The feel", "voiceAndTone": "How it talks", "logoDirection": "The logo", "colorPalette": "The colors", "typography": "The fonts"}
+        "colorPalette": [
+          {
+            "name": "Clinical White",
+            "hex": "#FAFAF7",
+            "meaning": "Lab notebook on a clean desk.",
+            "usage": "Bottles, packaging body, web background"
+          },
+          {
+            "name": "Day Sky",
+            "hex": "#7BB8FF",
+            "meaning": "First clear morning of the week.",
+            "usage": "Accent, status, headlines"
+          },
+          {
+            "name": "Ink",
+            "hex": "#161618",
+            "meaning": "Type.",
+            "usage": "Wordmark, body, structure"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for percentages and pH",
+          "rationale": "Mono carries the facts. Regular carries the brand."
+        },
+        "customSections": [
+          {
+            "title": "What it doesn't say",
+            "body": "No miracle claims. No before-and-after photos. No celebrity endorsements."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Bottles in clinical white with a small wordmark. The label is a single column of data. The website shows the trial data above the buy button."
+          }
+        ],
+        "brandDescription": "Skincare named after the day, not the substance.",
+        "mission": "To build skincare named after the day, not the substance.",
+        "vision": "The category is asking for honesty more than novelty.",
+        "coreValues": [
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "CLEAR DAY delivers by:\n• Show the actives and the percentages\n• Show the trial data\n• Skip the marketing copy"
       }
     ],
     "Luxury": [
@@ -83,7 +168,13 @@
         "targetAudience": {
           "primary": "40 and up. Disposable income. Travels often. Owns three creams and uses one. Pays for things made slowly. Doesn't post the bottle online."
         },
-        "brandPersonalityTraits": ["Refined", "Quiet", "Patient", "Considered", "Warm"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Quiet",
+          "Patient",
+          "Considered",
+          "Warm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Use fewer words",
@@ -98,10 +189,30 @@
         },
         "logoDirection": "A serif wordmark, set wide, in a high contrast classical face. A small sun-rising hallmark, two concentric arcs, used as a watermark on the bottle's back label and on paper inserts.",
         "colorPalette": [
-          {"name": "Provence Ivory", "hex": "#EFE5D1", "meaning": "Linen at dawn. Hand-laid paper. The color of restraint.", "usage": "Bottles, packaging, paper"},
-          {"name": "Morning Gold", "hex": "#B89253", "meaning": "First light on stone. Aged brass.", "usage": "Foil applications, wordmark on light surfaces"},
-          {"name": "Night Indigo", "hex": "#1F2A4A", "meaning": "The blue just before dawn. Anchor.", "usage": "Body type, accents"},
-          {"name": "Field Sage", "hex": "#A8B49B", "meaning": "The garden the oil came from.", "usage": "Secondary, packaging seal"}
+          {
+            "name": "Provence Ivory",
+            "hex": "#EFE5D1",
+            "meaning": "Linen at dawn. Hand-laid paper. The color of restraint.",
+            "usage": "Bottles, packaging, paper"
+          },
+          {
+            "name": "Morning Gold",
+            "hex": "#B89253",
+            "meaning": "First light on stone. Aged brass.",
+            "usage": "Foil applications, wordmark on light surfaces"
+          },
+          {
+            "name": "Night Indigo",
+            "hex": "#1F2A4A",
+            "meaning": "The blue just before dawn. Anchor.",
+            "usage": "Body type, accents"
+          },
+          {
+            "name": "Field Sage",
+            "hex": "#A8B49B",
+            "meaning": "The garden the oil came from.",
+            "usage": "Secondary, packaging seal"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and primary type",
@@ -109,22 +220,23 @@
           "rationale": "A high contrast serif carries the brand. A modern grotesk handles the digital surfaces. Each does its job and stays quiet."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No celebrity endorsements. No influencer seeding. No mass retail. No subscription model. No app."}
+          {
+            "title": "What it doesn't do",
+            "body": "No celebrity endorsements. No influencer seeding. No mass retail. No subscription model. No app."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who uses this",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
-      }
-      ,
+        "brandDescription": "A skincare house for people who treat their morning as the most important hour.",
+        "mission": "To build a skincare house for people who treat their morning as the most important hour.",
+        "vision": "The customer wants story, ritual, and the sense that someone made this by hand.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "Aubade delivers by:\n• Use fewer words\n• Name the ingredients in their botanical Latin\n• Send a paper card with every order"
+      },
       {
         "brandName": "Salt & Almond",
         "tagline": "Made from what you can name.",
@@ -133,14 +245,77 @@
         "industrySummary": "Top end skincare has been chasing science theatre and celebrity acquisitions. There's a parallel market for European craft brands operating like small ateliers with ingredient-led formulas. The customer wants story, simplicity, and the sense that someone made this by hand.",
         "competitorLandscape": "Aesop (aesop.com) holds the institutional ingredient-led peer. Le Labo for the Body (lelabofragrances.com) sits in the craft-led tier. Costa Brazil (costabrazil.com) does the regional-craft middle. We sit closer to Aesop in posture.",
         "positioningStatement": "A skincare house using fewer ingredients, all of which you can name.",
-        "targetAudience": {"primary": "40 and up. Owns three creams and uses one. Pays for things made slowly. Doesn't post the bottle online."},
-        "brandPersonalityTraits": ["Refined", "Quiet", "Patient", "Considered", "Warm"],
-        "voiceAndTone": {"dos": ["Use fewer words", "Name ingredients in plain English", "Send a paper card with every order"], "donts": ["Discount, ever", "Use the word luxury", "Run influencer campaigns"]},
+        "targetAudience": {
+          "primary": "40 and up. Owns three creams and uses one. Pays for things made slowly. Doesn't post the bottle online."
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Quiet",
+          "Patient",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use fewer words",
+            "Name ingredients in plain English",
+            "Send a paper card with every order"
+          ],
+          "donts": [
+            "Discount, ever",
+            "Use the word luxury",
+            "Run influencer campaigns"
+          ]
+        },
         "logoDirection": "A serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the brand's hallmark, used on bottle labels, the paper insert, and the wax seal of every letter.",
-        "colorPalette": [{"name": "Salt White", "hex": "#F4F1EA", "meaning": "Sea salt, hand-laid paper.", "usage": "Bottles, packaging, paper"}, {"name": "Almond Brown", "hex": "#A88B6A", "meaning": "Roasted almond skin.", "usage": "Wordmark, primary surfaces"}, {"name": "Olive Green", "hex": "#6E7A4C", "meaning": "Wild olive grove.", "usage": "Secondary, accents"}, {"name": "Night Indigo", "hex": "#1F2A4A", "meaning": "Mediterranean midnight.", "usage": "Body type, dark surfaces"}],
-        "typography": {"primary": "Canela for the wordmark and major type", "secondary": "Söhne for the website body", "rationale": "A high contrast serif carries the brand. A modern grotesk for digital surfaces."},
-        "customSections": [{"title": "What it doesn't do", "body": "No celebrity endorsements. No influencer seeding. No mass retail. No subscription."}],
-        "sectionLabels": {"story": "How this began", "industrySummary": "The category", "competitorLandscape": "The neighborhood", "positioning": "The promise", "targetAudience": "Who uses this", "personality": "How it carries itself", "voiceAndTone": "Voice", "logoDirection": "The mark", "colorPalette": "Palette", "typography": "Type"}
+        "colorPalette": [
+          {
+            "name": "Salt White",
+            "hex": "#F4F1EA",
+            "meaning": "Sea salt, hand-laid paper.",
+            "usage": "Bottles, packaging, paper"
+          },
+          {
+            "name": "Almond Brown",
+            "hex": "#A88B6A",
+            "meaning": "Roasted almond skin.",
+            "usage": "Wordmark, primary surfaces"
+          },
+          {
+            "name": "Olive Green",
+            "hex": "#6E7A4C",
+            "meaning": "Wild olive grove.",
+            "usage": "Secondary, accents"
+          },
+          {
+            "name": "Night Indigo",
+            "hex": "#1F2A4A",
+            "meaning": "Mediterranean midnight.",
+            "usage": "Body type, dark surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and major type",
+          "secondary": "Söhne for the website body",
+          "rationale": "A high contrast serif carries the brand. A modern grotesk for digital surfaces."
+        },
+        "customSections": [
+          {
+            "title": "What it doesn't do",
+            "body": "No celebrity endorsements. No influencer seeding. No mass retail. No subscription."
+          }
+        ],
+        "brandDescription": "A skincare house using fewer ingredients, all of which you can name.",
+        "mission": "To build a skincare house using fewer ingredients, all of which you can name.",
+        "vision": "The customer wants story, simplicity, and the sense that someone made this by hand.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "Salt & Almond delivers by:\n• Use fewer words\n• Name ingredients in plain English\n• Send a paper card with every order"
       }
     ],
     "Minimal": [
@@ -154,7 +329,12 @@
         "targetAudience": {
           "primary": "Adults who don't want to think about skincare. They want it to work, to be affordable, and to never change. They buy a refill, not an upgrade."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Patient", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Patient",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Use plain English",
@@ -169,9 +349,24 @@
         },
         "logoDirection": "A wordmark only. EVERY MORNING set in a single weight grotesk, wide kerned, all caps, two words stacked on bottles, one line on the website. The three products carry the wordmark and nothing else. Each bottle differs only by the step number: 01, 02, 03.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, labels, type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Bottles, background, packaging"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "A quieter anchor.", "usage": "Secondary surfaces, refill packaging"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, labels, type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Bottles, background, packaging"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "A quieter anchor.",
+            "usage": "Secondary surfaces, refill packaging"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -179,21 +374,22 @@
           "rationale": "One face. The label has the wordmark, the step number, the function, and the ingredients. Nothing else."
         },
         "customSections": [
-          {"title": "Not this", "body": "No serums. No masks. No oils. No limited editions. No seasonal launches. Three steps, forever."}
+          {
+            "title": "Not this",
+            "body": "No serums. No masks. No oils. No limited editions. No seasonal launches. Three steps, forever."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who uses this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
-      }
-      ,
+        "brandDescription": "Three products. One routine. Replaced only when something stops working.",
+        "mission": "To build three products. One routine. Replaced only when something stops working.",
+        "vision": "There's an opening for a brand that sells the same three things forever, and gets them right.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "EVERY MORNING delivers by:\n• Use plain English\n• Name the function, not the ingredient\n• Tell customers when to stop using it"
+      },
       {
         "brandName": "APPLY",
         "tagline": "That's it.",
@@ -201,14 +397,69 @@
         "industrySummary": "Most skincare brands have elaborate names and origin stories. There's an opening for one that names the action and stops there.",
         "competitorLandscape": "Most skincare brands fail this purity test. The closest peer in spirit is some Japanese skincare traditions and the no-name aesthetic of certain pharmacy lines.",
         "positioningStatement": "Skincare named after the only action the customer takes.",
-        "targetAudience": {"primary": "Adults who don't want a brand world for their skincare. They want the bottle, the function, the instruction."},
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
-        "voiceAndTone": {"dos": ["Show the bottle, the function, the price", "Confirm orders in one line", "Use plain English"], "donts": ["Run a subscription", "Send marketing emails", "Promote a wellness ecosystem"]},
+        "targetAudience": {
+          "primary": "Adults who don't want a brand world for their skincare. They want the bottle, the function, the instruction."
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the bottle, the function, the price",
+            "Confirm orders in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Run a subscription",
+            "Send marketing emails",
+            "Promote a wellness ecosystem"
+          ]
+        },
         "logoDirection": "A wordmark only. APPLY in a single weight grotesk, wide kerned, all caps, five letters with generous space. No icon. The bottle, the website, the receipt all carry the wordmark and nothing else.",
-        "colorPalette": [{"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"}, {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, bottles, packaging"}, {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}],
-        "typography": {"primary": "Neue Haas Grotesk", "secondary": "Same family, different weight", "rationale": "One face. The bottle, the website, the receipt all carry the same wordmark."},
-        "customSections": [{"title": "Not this", "body": "No serums. No masks. No oils. No limited editions. No seasonal launches."}],
-        "sectionLabels": {"industrySummary": "Where we are", "competitorLandscape": "The shelf", "positioning": "The line", "targetAudience": "Who uses this", "personality": "The feel", "voiceAndTone": "Voice", "logoDirection": "The mark", "colorPalette": "Color", "typography": "Type"}
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, bottles, packaging"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The bottle, the website, the receipt all carry the same wordmark."
+        },
+        "customSections": [
+          {
+            "title": "Not this",
+            "body": "No serums. No masks. No oils. No limited editions. No seasonal launches."
+          }
+        ],
+        "brandDescription": "Skincare named after the only action the customer takes.",
+        "mission": "To build skincare named after the only action the customer takes.",
+        "vision": "There's an opening for one that names the action and stops there.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "APPLY delivers by:\n• Show the bottle, the function, the price\n• Confirm orders in one line\n• Use plain English"
       }
     ],
     "Corporate": [
@@ -228,7 +479,13 @@
             "A brand patients trust on a doctor's shelf"
           ]
         },
-        "brandPersonalityTraits": ["Clinical", "Direct", "Reliable", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Clinical",
+          "Direct",
+          "Reliable",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the active and the percentage",
@@ -242,16 +499,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Clinical documentation", "description": "Every product launched with peer-reviewed trial data and complete ingredient transparency."},
-          {"name": "Reliable distribution", "description": "Practitioner accounts get next-day reordering and dedicated account management."},
-          {"name": "Practitioner exclusive", "description": "Never sold to consumers without a provider relationship."}
+          {
+            "name": "Clinical documentation",
+            "description": "Every product launched with peer-reviewed trial data and complete ingredient transparency."
+          },
+          {
+            "name": "Reliable distribution",
+            "description": "Practitioner accounts get next-day reordering and dedicated account management."
+          },
+          {
+            "name": "Practitioner exclusive",
+            "description": "Never sold to consumers without a provider relationship."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single helix pattern reduced to two crossing strokes. Reads as scientific without being cartoonish. Works on practitioner packaging, professional samples, and clinical literature.",
         "colorPalette": [
-          {"name": "Clinical Navy", "hex": "#102238", "meaning": "Trust, clinical seriousness.", "usage": "Logo, primary surfaces"},
-          {"name": "Lab White", "hex": "#FAFAF8", "meaning": "Clean and clinical.", "usage": "Packaging, paper, web"},
-          {"name": "Slate", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body text, dividers"},
-          {"name": "Test Strip Teal", "hex": "#2A8B82", "meaning": "Clinical accent. Reliability.", "usage": "Highlights, charts, certifications"}
+          {
+            "name": "Clinical Navy",
+            "hex": "#102238",
+            "meaning": "Trust, clinical seriousness.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Lab White",
+            "hex": "#FAFAF8",
+            "meaning": "Clean and clinical.",
+            "usage": "Packaging, paper, web"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body text, dividers"
+          },
+          {
+            "name": "Test Strip Teal",
+            "hex": "#2A8B82",
+            "meaning": "Clinical accent. Reliability.",
+            "usage": "Highlights, charts, certifications"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and product UI",
@@ -259,22 +545,23 @@
           "rationale": "Inter scales clean across digital and practitioner communications. The serif handles printed clinical documentation."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C website. No celebrity partnerships. No influencer seeding. No retail availability. Practitioner channel only."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C website. No celebrity partnerships. No influencer seeding. No retail availability. Practitioner channel only."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
-      }
-      ,
+        "brandDescription": "Clinical-grade skincare distributed exclusively through licensed providers.",
+        "mission": "Practitioners need brands that hold up to dermatology questions and reorder cleanly. Helix Dermal is built around the practitioner relationship, not the consumer one.",
+        "vision": "Brand has been an afterthought for most players.",
+        "coreValues": [
+          "Clinical — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Reliable — the same answer this Tuesday and next.",
+          "Steady — a core principle the brand operates by.",
+          "Professional — a core principle the brand operates by."
+        ],
+        "scope": "Helix Dermal works across:\n• Clinical documentation\n• Reliable distribution\n• Practitioner exclusive"
+      },
       {
         "brandName": "Tideline Dermal Co.",
         "tagline": "Clinical skincare for professional use.",
@@ -283,15 +570,96 @@
         "competitorLandscape": "SkinCeuticals (skinceuticals.com) is the institutional standard. Obagi (obagi.com) sits beside it. ZO Skin Health (zoskinhealth.com) is the clinical-prestige peer. We sit smaller and more focused on the modern boutique-clinical channel.",
         "positioningStatement": "Clinical-grade skincare distributed exclusively through licensed providers.",
         "positioningRationale": "Practitioners need brands that hold up to dermatology questions and reorder cleanly. We are built around the practitioner relationship, not the consumer one.",
-        "targetAudience": {"primary": "Dermatologists, plastic surgeons, med spa owners, licensed estheticians. They buy on documentation, reorder on reliability.", "motivations": ["Clinical documentation that holds up", "Reliable reordering", "A brand patients trust on a doctor's shelf"]},
-        "brandPersonalityTraits": ["Clinical", "Direct", "Reliable", "Steady", "Professional"],
-        "voiceAndTone": {"dos": ["Lead with the active and the percentage", "Cite the trial", "Speak to the practitioner, not the patient"], "donts": ["Use consumer marketing language", "Show influencer testimonials", "Sell direct to public"]},
-        "messagingPillars": [{"name": "Clinical documentation", "description": "Every product launched with peer-reviewed trial data."}, {"name": "Reliable distribution", "description": "Practitioner accounts get next-day reordering."}, {"name": "Practitioner exclusive", "description": "Never sold to consumers without a provider relationship."}],
+        "targetAudience": {
+          "primary": "Dermatologists, plastic surgeons, med spa owners, licensed estheticians. They buy on documentation, reorder on reliability.",
+          "motivations": [
+            "Clinical documentation that holds up",
+            "Reliable reordering",
+            "A brand patients trust on a doctor's shelf"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Clinical",
+          "Direct",
+          "Reliable",
+          "Steady",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the active and the percentage",
+            "Cite the trial",
+            "Speak to the practitioner, not the patient"
+          ],
+          "donts": [
+            "Use consumer marketing language",
+            "Show influencer testimonials",
+            "Sell direct to public"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Clinical documentation",
+            "description": "Every product launched with peer-reviewed trial data."
+          },
+          {
+            "name": "Reliable distribution",
+            "description": "Practitioner accounts get next-day reordering."
+          },
+          {
+            "name": "Practitioner exclusive",
+            "description": "Never sold to consumers without a provider relationship."
+          }
+        ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single thin horizontal wave-line. Reads cleanly on practitioner packaging and clinical literature.",
-        "colorPalette": [{"name": "Clinical Navy", "hex": "#102238", "meaning": "Trust, clinical seriousness.", "usage": "Logo, primary surfaces"}, {"name": "Lab White", "hex": "#FAFAF8", "meaning": "Clean and clinical.", "usage": "Packaging, paper, web"}, {"name": "Slate", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body text, dividers"}, {"name": "Test Teal", "hex": "#2A8B82", "meaning": "Clinical accent.", "usage": "Highlights, charts, certifications"}],
-        "typography": {"primary": "Inter for marketing and product UI", "secondary": "Source Serif Pro for printed clinical literature", "rationale": "Inter scales clean across digital. The serif handles printed clinical documentation."},
-        "customSections": [{"title": "What it doesn't do", "body": "No D2C website. No celebrity partnerships. No influencer seeding. No retail availability."}],
-        "sectionLabels": {"industrySummary": "The category", "competitorLandscape": "The competitive set", "positioning": "Our positioning", "targetAudience": "Who buys this", "personality": "Brand personality", "voiceAndTone": "Voice and tone", "messagingPillars": "What we say", "logoDirection": "Logo", "colorPalette": "Color system", "typography": "Typography"}
+        "colorPalette": [
+          {
+            "name": "Clinical Navy",
+            "hex": "#102238",
+            "meaning": "Trust, clinical seriousness.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Lab White",
+            "hex": "#FAFAF8",
+            "meaning": "Clean and clinical.",
+            "usage": "Packaging, paper, web"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body text, dividers"
+          },
+          {
+            "name": "Test Teal",
+            "hex": "#2A8B82",
+            "meaning": "Clinical accent.",
+            "usage": "Highlights, charts, certifications"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and product UI",
+          "secondary": "Source Serif Pro for printed clinical literature",
+          "rationale": "Inter scales clean across digital. The serif handles printed clinical documentation."
+        },
+        "customSections": [
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C website. No celebrity partnerships. No influencer seeding. No retail availability."
+          }
+        ],
+        "brandDescription": "Clinical-grade skincare distributed exclusively through licensed providers.",
+        "mission": "Practitioners need brands that hold up to dermatology questions and reorder cleanly. We are built around the practitioner relationship, not the consumer one.",
+        "vision": "The buyers care about clinical efficacy, regulatory documentation, and reliable supply.",
+        "coreValues": [
+          "Clinical — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Reliable — the same answer this Tuesday and next.",
+          "Steady — a core principle the brand operates by.",
+          "Professional — a core principle the brand operates by."
+        ],
+        "scope": "Tideline Dermal Co. works across:\n• Clinical documentation\n• Reliable distribution\n• Practitioner exclusive"
       }
     ],
     "Creative": [
@@ -306,7 +674,13 @@
         "targetAudience": {
           "primary": "20s and early 30s. Lives online. Owns more than five tubes. Buys based on packaging. Posts to close friends only. Wants the formula to work but won't read the back of the bottle."
         },
-        "brandPersonalityTraits": ["Playful", "Confident", "Warm", "Friendly", "Sharp"],
+        "brandPersonalityTraits": [
+          "Playful",
+          "Confident",
+          "Warm",
+          "Friendly",
+          "Sharp"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes",
@@ -321,11 +695,36 @@
         },
         "logoDirection": "A wordmark in a bold display sans with a slight upward angle, like the words are rising. The U in UP can extend a curve into a smile. Standalone smile-curve icon for stickers, social profiles, and packaging seals.",
         "colorPalette": [
-          {"name": "Glow Pink", "hex": "#FF5C8A", "meaning": "Hot, friendly, the loud one.", "usage": "Primary brand color, tubes, social"},
-          {"name": "Highlighter Yellow", "hex": "#FFE93C", "meaning": "Joy. The marker color.", "usage": "Accent, highlights, swag"},
-          {"name": "Cream", "hex": "#FBF6E9", "meaning": "Warm space.", "usage": "Backgrounds, paper, packaging body"},
-          {"name": "Mint", "hex": "#7BE0B2", "meaning": "Fresh accent, the after-feel.", "usage": "Secondary tubes, hover, fresh products"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Body, headlines, structure"}
+          {
+            "name": "Glow Pink",
+            "hex": "#FF5C8A",
+            "meaning": "Hot, friendly, the loud one.",
+            "usage": "Primary brand color, tubes, social"
+          },
+          {
+            "name": "Highlighter Yellow",
+            "hex": "#FFE93C",
+            "meaning": "Joy. The marker color.",
+            "usage": "Accent, highlights, swag"
+          },
+          {
+            "name": "Cream",
+            "hex": "#FBF6E9",
+            "meaning": "Warm space.",
+            "usage": "Backgrounds, paper, packaging body"
+          },
+          {
+            "name": "Mint",
+            "hex": "#7BE0B2",
+            "meaning": "Fresh accent, the after-feel.",
+            "usage": "Secondary tubes, hover, fresh products"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Body, headlines, structure"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -333,24 +732,27 @@
           "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and fun."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not clinical. Not minimal. Not afraid of pink. Not too cool to make a joke about itself."},
-          {"title": "Where it lives", "body": "Tubes that look great in a fridge or a flatlay. Stickers in every order. A monthly email written like a group text. Pop-up shops with mirror selfies as the marketing. A merch line that's actually good."}
+          {
+            "title": "What it isn't",
+            "body": "Not clinical. Not minimal. Not afraid of pink. Not too cool to make a joke about itself."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Tubes that look great in a fridge or a flatlay. Stickers in every order. A monthly email written like a group text. Pop-up shops with mirror selfies as the marketing. A merch line that's actually good."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who buys this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
-      }
-      ,
+        "brandDescription": "Skincare for people who want results and don't want to be bored about it.",
+        "mission": "To build skincare for people who want results and don't want to be bored about it.",
+        "vision": "There's room for one that's loud, playful, fun to buy, and still backed by real formulation work.",
+        "coreValues": [
+          "Playful — seriousness is overrated.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Warm — we are friendly, not formal.",
+          "Friendly — a core principle the brand operates by.",
+          "Sharp — precision is a form of kindness."
+        ],
+        "scope": "GLOW UP delivers by:\n• Make jokes\n• Talk to the customer like a friend\n• Use slang where it fits"
+      },
       {
         "brandName": "GOOD SKIN DAY",
         "tagline": "Tell a friend.",
@@ -359,15 +761,87 @@
         "industrySummary": "Skincare branding has been clinical, cool-toned, and slightly preachy. There's room for one that's warm, character-driven, sticker-friendly, and serious about celebrating the actual moments customers care about.",
         "competitorLandscape": "Glossier (glossier.com) was loud and got quiet. Topicals (topicals.com) is the closest in voice. Bubble (bubbleskincare.com) goes younger and brighter. Saie (saiehello.com) sits in the warm middle. We sit warmer than all of them with a clearer point of view.",
         "positioningStatement": "A skincare brand named after the moment customers actually celebrate.",
-        "targetAudience": {"primary": "20s and early 30s. Lives online. Owns more than five tubes. Buys based on packaging. Posts a selfie when the skin is good."},
-        "brandPersonalityTraits": ["Playful", "Confident", "Warm", "Friendly", "Sharp"],
-        "voiceAndTone": {"dos": ["Show real customer mirror selfies", "Make warm jokes about skin days", "Talk to the customer like a friend who noticed"], "donts": ["Sound like a chemist", "Use the word journey", "Apologize for being fun"]},
+        "targetAudience": {
+          "primary": "20s and early 30s. Lives online. Owns more than five tubes. Buys based on packaging. Posts a selfie when the skin is good."
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Confident",
+          "Warm",
+          "Friendly",
+          "Sharp"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show real customer mirror selfies",
+            "Make warm jokes about skin days",
+            "Talk to the customer like a friend who noticed"
+          ],
+          "donts": [
+            "Sound like a chemist",
+            "Use the word journey",
+            "Apologize for being fun"
+          ]
+        },
         "logoDirection": "A wordmark in a bold display sans with a slight upward curve, like a smile. Standalone smile-curve icon for stickers, social profiles, and packaging seals.",
-        "colorPalette": [{"name": "Day Pink", "hex": "#FF5C8A", "meaning": "Cheek color, the good day.", "usage": "Primary brand color, tubes, social"}, {"name": "Highlight Yellow", "hex": "#FFE93C", "meaning": "Joy.", "usage": "Accent, highlights, swag"}, {"name": "Cream", "hex": "#FBF6E9", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"}, {"name": "Mint", "hex": "#7BE0B2", "meaning": "Fresh accent.", "usage": "Secondary tubes, hover"}, {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body, headlines"}],
-        "typography": {"primary": "Migra for the wordmark and big display", "secondary": "PP Neue Montreal for body and labels", "rationale": "Migra has personality. Neue Montreal handles the readable bits."},
-        "customSections": [{"title": "What it isn't", "body": "Not clinical. Not minimal. Not afraid of pink. Not too cool to make a joke about itself."}, {"title": "Where it lives", "body": "Tubes that look great in a fridge or flatlay. Stickers in every order. A monthly email written like a group text. A merch line that's actually good."}],
-        "sectionLabels": {"manifesto": "Why we exist", "industrySummary": "The room", "competitorLandscape": "Who else is around", "positioning": "The pitch", "targetAudience": "Who buys this", "personality": "The vibe", "voiceAndTone": "Voice", "logoDirection": "The mark", "colorPalette": "The colors", "typography": "Type"},
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "colorPalette": [
+          {
+            "name": "Day Pink",
+            "hex": "#FF5C8A",
+            "meaning": "Cheek color, the good day.",
+            "usage": "Primary brand color, tubes, social"
+          },
+          {
+            "name": "Highlight Yellow",
+            "hex": "#FFE93C",
+            "meaning": "Joy.",
+            "usage": "Accent, highlights, swag"
+          },
+          {
+            "name": "Cream",
+            "hex": "#FBF6E9",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Mint",
+            "hex": "#7BE0B2",
+            "meaning": "Fresh accent.",
+            "usage": "Secondary tubes, hover"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body, headlines"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and labels",
+          "rationale": "Migra has personality. Neue Montreal handles the readable bits."
+        },
+        "customSections": [
+          {
+            "title": "What it isn't",
+            "body": "Not clinical. Not minimal. Not afraid of pink. Not too cool to make a joke about itself."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Tubes that look great in a fridge or flatlay. Stickers in every order. A monthly email written like a group text. A merch line that's actually good."
+          }
+        ],
+        "brandDescription": "A skincare brand named after the moment customers actually celebrate.",
+        "mission": "To build a skincare brand named after the moment customers actually celebrate.",
+        "vision": "We are the brand for the moment, not the journey.",
+        "coreValues": [
+          "Playful — seriousness is overrated.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Warm — we are friendly, not formal.",
+          "Friendly — a core principle the brand operates by.",
+          "Sharp — precision is a form of kindness."
+        ],
+        "scope": "GOOD SKIN DAY delivers by:\n• Show real customer mirror selfies\n• Make warm jokes about skin days\n• Talk to the customer like a friend who noticed"
       }
     ]
   }

@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "28 to 50. Lives in a city. Goes to a spa once a month. Tired of the candles-and-music aesthetic. Wants real saunas, real cold plunges, and a real attendant."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Warm"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the temperatures and times clearly",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. STEAM & CO. in a soft modern grotesk, all caps, three words on one line. A small geometric mark, three thin vertical lines suggesting rising steam, used as the favicon and on the locker key.",
         "colorPalette": [
-          {"name": "Sauna Cedar", "hex": "#8B5A2A", "meaning": "Cedar walls of the sauna.", "usage": "Primary brand color, signage, packaging"},
-          {"name": "Steam White", "hex": "#F4F1EA", "meaning": "Steam in the room.", "usage": "Backgrounds, paper, web body"},
-          {"name": "Plunge Blue", "hex": "#1B4A8B", "meaning": "Cold plunge, the contrast.", "usage": "Accent, status indicators, key callouts"}
+          {
+            "name": "Sauna Cedar",
+            "hex": "#8B5A2A",
+            "meaning": "Cedar walls of the sauna.",
+            "usage": "Primary brand color, signage, packaging"
+          },
+          {
+            "name": "Steam White",
+            "hex": "#F4F1EA",
+            "meaning": "Steam in the room.",
+            "usage": "Backgrounds, paper, web body"
+          },
+          {
+            "name": "Plunge Blue",
+            "hex": "#1B4A8B",
+            "meaning": "Cold plunge, the contrast.",
+            "usage": "Accent, status indicators, key callouts"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark and headlines",
@@ -37,20 +57,25 @@
           "rationale": "One family. The mono carries the temperatures, times, and prices. The regular carries the brand."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No candles. No piped music. No essential oil diffusers. No celebrity wellness partnerships. No 'mind-body journey' copy."},
-          {"title": "Where it lives", "body": "A bathhouse with the sauna temperature posted on the door. A printed bathing protocol card given to every first-timer. A monthly newsletter with bathing notes from the staff. No social media beyond a single archive."}
+          {
+            "title": "What it doesn't do",
+            "body": "No candles. No piped music. No essential oil diffusers. No celebrity wellness partnerships. No 'mind-body journey' copy."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A bathhouse with the sauna temperature posted on the door. A printed bathing protocol card given to every first-timer. A monthly newsletter with bathing notes from the staff. No social media beyond a single archive."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who bathes here",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "A modern bathhouse with real heat and no wellness theatre.",
+        "mission": "To build a modern bathhouse with real heat and no wellness theatre.",
+        "vision": "The opening is a spa brand that looks like a hotel, operates like a clinic, and feels like a public bath.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Direct — we say what we mean without softening it.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "STEAM & CO. delivers by:\n• Show the temperatures and times clearly\n• Talk to the customer as an adult\n• Skip the wellness-journey copy"
       }
     ],
     "Luxury": [
@@ -65,7 +90,13 @@
         "targetAudience": {
           "primary": "Wealthy. Often inherited. Travels to bathe. Books the same destination annually. Values the protocol and the silence more than the amenities."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +111,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn wave-line hallmark, two thin curves suggesting steam over water, used on the locker key, the printed protocol card, and the brass plaque outside the bath.",
         "colorPalette": [
-          {"name": "Stone Grey", "hex": "#86837C", "meaning": "Bathing-room stone, the column of an old thermal.", "usage": "Primary brand color, signage, paper"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Heavy linen towel, hand-laid paper.", "usage": "Stationery, paper, packaging"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the locker hardware.", "usage": "Foil, hallmark, hardware"},
-          {"name": "Thermal Green", "hex": "#1E3A30", "meaning": "Deep mineral pool, the moss on the rocks.", "usage": "Body type, secondary surfaces"}
+          {
+            "name": "Stone Grey",
+            "hex": "#86837C",
+            "meaning": "Bathing-room stone, the column of an old thermal.",
+            "usage": "Primary brand color, signage, paper"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Heavy linen towel, hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal, the locker hardware.",
+            "usage": "Foil, hallmark, hardware"
+          },
+          {
+            "name": "Thermal Green",
+            "hex": "#1E3A30",
+            "meaning": "Deep mineral pool, the moss on the rocks.",
+            "usage": "Body type, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,20 +142,22 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public day-passes. No third-party booking platforms. No press tour. No social media presence. No spa packages."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public day-passes. No third-party booking platforms. No press tour. No social media presence. No spa packages."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who bathes with us",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A small heritage thermal bath with a fixed protocol and a long client book.",
+        "mission": "To build a small heritage thermal bath with a fixed protocol and a long client book.",
+        "vision": "The customer is paying for the spring, the protocol, and the next visit in a year.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones.",
+          "Discreet — what happens in the room stays in the room.",
+          "Heritage — a core principle the brand operates by.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "The Thermal delivers by:\n• Address the client by surname\n• Speak in the language of bathing tradition\n• Send paper booking confirmations"
       }
     ],
     "Minimal": [
@@ -118,7 +171,12 @@
         "targetAudience": {
           "primary": "Adults who want to soak in hot water and don't need a relationship with the spa. They want the water, the silence, the towel."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the bath, the temperature, the price",
@@ -133,9 +191,24 @@
         },
         "logoDirection": "A wordmark only. SOAK in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The booking confirmation, the locker key, and the towel tag all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, signage, all neutrals"},
-          {"name": "Plunge Blue", "hex": "#1B4A8B", "meaning": "The water itself.", "usage": "Single accent, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, signage, all neutrals"
+          },
+          {
+            "name": "Plunge Blue",
+            "hex": "#1B4A8B",
+            "meaning": "The water itself.",
+            "usage": "Single accent, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,19 +216,21 @@
           "rationale": "One face. The booking, the locker key, and the receipt all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No spa packages. No subscription model. No retail products. No newsletter. No social media presence."}
+          {
+            "title": "Not this",
+            "body": "No spa packages. No subscription model. No retail products. No newsletter. No social media presence."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who bathes here",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A bathhouse with a soaking tub and an hour. Nothing else.",
+        "mission": "To build a bathhouse with a soaking tub and an hour. Nothing else.",
+        "vision": "There's an opening for one that strips it back to the verb itself.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "SOAK delivers by:\n• Show the bath, the temperature, the price\n• Confirm the booking in one line\n• Use plain English"
       }
     ],
     "Corporate": [
@@ -175,7 +250,13 @@
             "Reporting that holds up under investor scrutiny"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with operating discipline",
@@ -189,16 +270,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Property-level operations", "description": "Each spa keeps its own identity. We operate behind the scenes."},
-          {"name": "Service standards that travel", "description": "Centralized training and standards across properties without a chain feel."},
-          {"name": "Owner-aligned reporting", "description": "Monthly P&L, quarterly performance reviews, and ESG-aligned reporting for hospitality investors."}
+          {
+            "name": "Property-level operations",
+            "description": "Each spa keeps its own identity. We operate behind the scenes."
+          },
+          {
+            "name": "Service standards that travel",
+            "description": "Centralized training and standards across properties without a chain feel."
+          },
+          {
+            "name": "Owner-aligned reporting",
+            "description": "Monthly P&L, quarterly performance reviews, and ESG-aligned reporting for hospitality investors."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single horizontal wave reduced to two parallel curves. Reads cleanly on a procurement deck, name badge, and investor pitch book.",
         "colorPalette": [
-          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, slides"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Spa Sage", "hex": "#A6B49A", "meaning": "Hospitality accent, used sparingly.", "usage": "Highlights, charts, success states"}
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Spa Sage",
+            "hex": "#A6B49A",
+            "meaning": "Hospitality accent, used sparingly.",
+            "usage": "Highlights, charts, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -206,20 +316,22 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and printed property portfolios."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No consumer-facing spa brand. No loyalty programs. No celebrity spa partnerships. The firm sells through hotel owner and investor channels, not consumer wellness."}
+          {
+            "title": "What it doesn't do",
+            "body": "No consumer-facing spa brand. No loyalty programs. No celebrity spa partnerships. The firm sells through hotel owner and investor channels, not consumer wellness."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who we work with",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Spa operations and management for boutique hotels and destination resorts.",
+        "mission": "Boutique hotel owners want spa partners who can deliver consistent service standards without the brand baggage of the major hotel-spa groups. We sit between the major chains and the in-house operations.",
+        "vision": "The category is dominated by the major hotel groups' in-house operations and a few specialist firms.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Strategic — a core principle the brand operates by."
+        ],
+        "scope": "Lakeside Spa Group works across:\n• Property-level operations\n• Service standards that travel\n• Owner-aligned reporting"
       }
     ],
     "Creative": [
@@ -234,7 +346,13 @@
         "targetAudience": {
           "primary": "25 to 45. Goes to a bathhouse monthly. Values the heat and the cold and the physical extreme. Wants the spa to be honest about being a wet room."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Playful",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about the cold plunge",
@@ -249,11 +367,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the O of ROOM stylized as a small steam circle, suggesting heat. Standalone steam-O icon for locker keys, stickers, and social profiles.",
         "colorPalette": [
-          {"name": "Steam Pink", "hex": "#FF5C8A", "meaning": "The skin after a hot soak.", "usage": "Primary brand color, hero surfaces, social"},
-          {"name": "Plunge Blue", "hex": "#1B4A8B", "meaning": "The cold water.", "usage": "Accent, secondary surfaces"},
-          {"name": "Towel Cream", "hex": "#F4EFE2", "meaning": "Warm background, the heavy towel.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Cedar", "hex": "#8B5A2A", "meaning": "Sauna walls.", "usage": "Secondary brand surface"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"}
+          {
+            "name": "Steam Pink",
+            "hex": "#FF5C8A",
+            "meaning": "The skin after a hot soak.",
+            "usage": "Primary brand color, hero surfaces, social"
+          },
+          {
+            "name": "Plunge Blue",
+            "hex": "#1B4A8B",
+            "meaning": "The cold water.",
+            "usage": "Accent, secondary surfaces"
+          },
+          {
+            "name": "Towel Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background, the heavy towel.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Cedar",
+            "hex": "#8B5A2A",
+            "meaning": "Sauna walls.",
+            "usage": "Secondary brand surface"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,22 +404,26 @@
           "rationale": "Migra has warmth. Neue Montreal handles the practical bits. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a candle-and-music spa. Not a wellness journey. Not afraid of pink. Not too cool to celebrate the gasp from the cold plunge."},
-          {"title": "Where it lives", "body": "A bathhouse with the temperature posted on the door. A printed protocol card given to first-timers, written like a friend explaining the rules. Stickers in the lockers. A merch line of two robes and one tee that says WET ROOM across the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not a candle-and-music spa. Not a wellness journey. Not afraid of pink. Not too cool to celebrate the gasp from the cold plunge."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A bathhouse with the temperature posted on the door. A printed protocol card given to first-timers, written like a friend explaining the rules. Stickers in the lockers. A merch line of two robes and one tee that says WET ROOM across the back."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who bathes here",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A bathhouse for people who would rather sweat than meditate.",
+        "mission": "To build a bathhouse for people who would rather sweat than meditate.",
+        "vision": "The brand is for the people who actually want to bathe, not to be calmed at.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Playful — seriousness is overrated.",
+          "Direct — we say what we mean without softening it.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "WET ROOM delivers by:\n• Make jokes about the cold plunge\n• Photograph customers dripping in robes\n• Talk like the friend who is already in the sauna"
       }
     ]
   }
