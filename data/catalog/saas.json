@@ -3,9 +3,9 @@
   "briefs": {
     "Modern": [
       {
-        "brandName": "SHIP",
-        "tagline": "Push to main.",
-        "brandNameRationale": "Single word. Ship is the verb every modern product team lives by. The brand sits on the daily action of getting work in front of users. Plain, modern, immediately legible to anyone who has worked in software.",
+        "brandName": "Throughline",
+        "tagline": "Project software for product teams.",
+        "brandNameRationale": "Throughline is the real word for the connecting thread that runs through a story or production — single screenwriting-rooted word, archaic in everyday business speech. Single-word naming follows the modern SaaS school (Linear, Notion, Plaid, Stripe).",
         "industrySummary": "Modern SaaS has matured into a category with strong design conventions and a few dominant patterns. The customer is design-literate and impatient with anything that feels enterprise-stale. The opening is for a small product brand that talks like a product team and ships like one.",
         "competitorLandscape": "Linear (linear.app) holds the design-led product peer position. Notion (notion.so) sits in the workspace tier. Vercel (vercel.com) holds the developer-platform peer. Height (height.app) does the modern issue-tracking middle. We sit closest to Linear in posture.",
         "positioningStatement": "A product tool for teams that already ship and want a tool that doesn't slow them down.",
@@ -30,7 +30,7 @@
             "Photograph people pointing at screens"
           ]
         },
-        "logoDirection": "A wordmark only. SHIP in a tight modern grotesk, all caps, four letters with tight kerning. A small geometric mark, a thin arrow pointing right, used as the favicon and in deploy-status indicators.",
+        "logoDirection": "A wordmark only. Throughline in a tight modern grotesk, all caps, four letters with tight kerning. A small geometric mark, a thin arrow pointing right, used as the favicon and in deploy-status indicators.",
         "colorPalette": [
           {
             "name": "Editor Black",
@@ -75,17 +75,17 @@
           "Precise — accuracy is the brand.",
           "Confident — we stand behind the work, not the marketing."
         ],
-        "scope": "SHIP delivers by:\n• Show real screenshots, not stylized hero illustrations\n• Speak to the engineer who'd use the tool\n• Document the shortcuts on the page they appear"
+        "scope": "Throughline delivers by:\n• Show real screenshots, not stylized hero illustrations\n• Speak to the engineer who'd use the tool\n• Document the shortcuts on the page they appear"
       },
       {
         "id": "saas-modern-2",
-        "brandName": "SHIP",
-        "tagline": "The plain verb. The whole product.",
-        "brandNameRationale": "One word. Ship is what every product team is trying to do and most days fail to. We named the product after the verb on the whiteboard so the name itself is a small reminder. It is also unowned in SaaS — the obvious word nobody has taken.",
-        "manifesto": "Most product tools ask you to set up the tool before you can use it. Boards, fields, automations, integrations, a quarter of onboarding. We made SHIP because the only question that matters on a Tuesday is what is going out this week. Type the work, mark it shipped. That is the loop. Everything else is decoration.",
+        "brandName": "Cadence",
+        "tagline": "Product tracking that runs on a real schedule.",
+        "brandNameRationale": "Cadence is the rhythm at which something repeats — single Latin-rooted word, real product-team vocabulary. Single-word naming follows the modern SaaS school.",
+        "manifesto": "Most product tools ask you to set up the tool before you can use it. Boards, fields, automations, integrations, a quarter of onboarding. We made Cadence because the only question that matters on a Tuesday is what is going out this week. Type the work, mark it shipped. That is the loop. Everything else is decoration.",
         "industrySummary": "Project tooling for product teams is bloated. Linear opened a lane for taste and speed; everyone else added more surface. There is a smaller, quieter market underneath Linear for a tool that does one thing — track what is shipping this week — and refuses to grow.",
         "competitorLandscape": "Linear (linear.app) holds the speed and craft slot. Height (height.app) and Shortcut (shortcut.com) fill the middle. Trello (trello.com) is the floor. We sit underneath Linear with a deliberately smaller surface — a single weekly view, a single keyboard, and almost no settings.",
-        "positioningStatement": "SHIP is a one-screen product tracker for teams that just want to know what is going out this week.",
+        "positioningStatement": "Cadence is a one-screen product tracker for teams that just want to know what is going out this week.",
         "positioningRationale": "We compete on what we left out. The product is a list, a status, a keyboard. The pricing is one tier. The marketing is the changelog.",
         "targetAudience": {
           "primary": "Product managers, engineers and founders at 5–50 person teams who have outgrown a Notion doc but find Jira a punishment.",
@@ -135,7 +135,7 @@
             "description": "We ship every week and publish the diff. The changelog is the only marketing channel. If a week is quiet, the changelog says so."
           }
         ],
-        "logoDirection": "A flat wordmark — SHIP set in a tight grotesque, all caps, with a single anchor-shaped notch in the P. The mark reads as a verb, not a brand.",
+        "logoDirection": "A flat wordmark — Cadence set in a tight grotesque, all caps, with a single anchor-shaped notch in the P. The mark reads as a verb, not a brand.",
         "colorPalette": [
           {
             "name": "Ink",
@@ -161,7 +161,7 @@
           "secondary": "JetBrains Mono for IDs, hotkeys, and code.",
           "rationale": "Two type families. Inter does the talking. Mono signals 'this is system.' No display serif anywhere — the product is not a magazine."
         },
-        "brandDescription": "SHIP is a one-screen product tracker for teams that just want to know what is going out this week.",
+        "brandDescription": "Cadence is a one-screen product tracker for teams that just want to know what is going out this week.",
         "mission": "We compete on what we left out. The product is a list, a status, a keyboard. The pricing is one tier. The marketing is the changelog.",
         "vision": "Everything else is decoration.",
         "coreValues": [
@@ -170,7 +170,7 @@
           "Confident — we stand behind the work, not the marketing.",
           "Restrained — every element earns its place."
         ],
-        "scope": "SHIP works across:\n• One screen\n• Keyboard-first\n• Changelog as marketing"
+        "scope": "Cadence works across:\n• One screen\n• Keyboard-first\n• Changelog as marketing"
       }
     ],
     "Luxury": [
@@ -424,13 +424,13 @@
       },
       {
         "id": "saas-minimal-2",
-        "brandName": "USE",
-        "tagline": "An instruction, not a product name.",
-        "brandNameRationale": "One word. The verb that completes the sentence the customer is already inside: 'I should just use…' We picked the verb and stopped. The label inside the app says USE. The browser tab says USE. The brand is the instruction.",
-        "manifesto": "Software brands work very hard to convince you to start. Onboarding tours, sample data, badges, streaks. We made USE because the customer already knows they need this. The whole job of the brand is to get out of the way so the using can begin.",
+        "brandName": "Linen",
+        "tagline": "Software you can read.",
+        "brandNameRationale": "Linen is a real textile word — single archaic noun. As a software brand name it signals the quietness of paper-and-cloth tools. Single-word naming follows the considered-minimal SaaS school (Notion, Bear).",
+        "manifesto": "Software brands work very hard to convince you to start. Onboarding tours, sample data, badges, streaks. We made Linen because the customer already knows they need this. The whole job of the brand is to get out of the way so the using can begin.",
         "industrySummary": "Most SaaS adds onboarding to make activation metrics look healthy. The minimal-tool market — Notion in early days, Bear, iA Writer — proves the opposite works. There is room for a brand that takes the minimal premise further than anyone.",
         "competitorLandscape": "iA Writer (ia.net/writer) is the closest peer in restraint. Bear (bear.app) holds the friendly minimal slot. Linear (linear.app) is the maximal version of taste. We sit further out than Writer — fewer features, less branding, no marketing site to speak of.",
-        "positioningStatement": "USE is the tool you reach for when you do not want to think about the tool.",
+        "positioningStatement": "Linen is the tool you reach for when you do not want to think about the tool.",
         "positioningRationale": "We strip every product element that asks for the user's attention. No streaks. No empty states with art. No feature releases. The tool opens, the work begins.",
         "targetAudience": {
           "primary": "Writers, designers, and operators who have a long history of trying tools and abandoning them.",
@@ -471,14 +471,14 @@
           },
           {
             "name": "One job",
-            "description": "USE does one thing per surface. We add the second feature only when the first is older than the customer's tenure."
+            "description": "Linen does one thing per surface. We add the second feature only when the first is older than the customer's tenure."
           },
           {
             "name": "No notifications",
             "description": "We do not email you. We do not push you. The tool sits where you left it and waits."
           }
         ],
-        "logoDirection": "USE set in a plain grotesque, all caps, at very small scale. Only appears in the favicon and the about screen. The product itself is unlabeled.",
+        "logoDirection": "Linen set in a plain grotesque, all caps, at very small scale. Only appears in the favicon and the about screen. The product itself is unlabeled.",
         "colorPalette": [
           {
             "name": "Paper",
@@ -504,7 +504,7 @@
           "secondary": "Same family for code and UI — no second family.",
           "rationale": "One typeface, one weight. The text is the interface."
         },
-        "brandDescription": "USE is the tool you reach for when you do not want to think about the tool.",
+        "brandDescription": "Linen is the tool you reach for when you do not want to think about the tool.",
         "mission": "We strip every product element that asks for the user's attention. No streaks. No empty states with art. No feature releases. The tool opens, the work begins.",
         "vision": "The whole job of the brand is to get out of the way so the using can begin.",
         "coreValues": [
@@ -512,7 +512,7 @@
           "Patient — we play long games, not loud ones.",
           "Unbothered — a core principle the brand operates by."
         ],
-        "scope": "USE works across:\n• Open and begin\n• One job\n• No notifications"
+        "scope": "Linen works across:\n• Open and begin\n• One job\n• No notifications"
       }
     ],
     "Corporate": [
@@ -713,9 +713,9 @@
     ],
     "Creative": [
       {
-        "brandName": "OFF BY ONE",
-        "tagline": "We caught it in code review.",
-        "brandNameRationale": "Three words. Off By One is the classic programming bug: the loop that runs one too many or one too few times. The brand puts the smallest, most universal engineering mistake in the brand position. Loud, self-aware, and immediately legible to any developer.",
+        "brandName": "Modulo Software",
+        "tagline": "Software for the part of the work that isn't shipping.",
+        "brandNameRationale": "Modulo is the mathematical operator for the remainder after division — single uncommon technical word. Software is the plain category suffix.",
         "manifesto": "Most software brands sell perfection: the seamless workflow, the zero-bug release, the magical transformation. We made Off By One because the actual experience of software is debugging the small mistake nobody caught. The brand is for the engineers who know that the work is mostly in the corrections, the version increments, the patches that nobody announces.",
         "industrySummary": "SaaS branding has been polished, transformation-led, and slightly anxious. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about the actual quiet work of building good software.",
         "competitorLandscape": "Linear (linear.app) holds the design-led restraint peer. Vercel (vercel.com) sits at the modern monochrome tier. Cursor (cursor.com) does the modern dev-tool middle. Tailscale (tailscale.com) holds the warm-technical peer. We sit warmer than all of them, with a clearer point of view.",
@@ -787,7 +787,7 @@
           },
           {
             "title": "Where it lives",
-            "body": "A weekly newsletter that's mostly funny PR titles from the team. Stickers in every welcome envelope. Conference name badges that quote the worst customer-support ticket of the month. A merch line of two tees that say OFF BY ONE across the back."
+            "body": "A weekly newsletter that's mostly funny PR titles from the team. Stickers in every welcome envelope. Conference name badges that quote the worst customer-support ticket of the month. A merch line of two tees that say Modulo Software across the back."
           }
         ],
         "brandDescription": "A SaaS brand for engineers who know the work is mostly in the corrections.",
@@ -800,13 +800,13 @@
           "Direct — we say what we mean without softening it.",
           "Friendly — a core principle the brand operates by."
         ],
-        "scope": "OFF BY ONE delivers by:\n• Quote the worst pull request title from the week\n• Make jokes about engineering\n• Talk like the engineer who has been on call this week"
+        "scope": "Modulo Software delivers by:\n• Quote the worst pull request title from the week\n• Make jokes about engineering\n• Talk like the engineer who has been on call this week"
       },
       {
         "id": "saas-creative-2",
-        "brandName": "SLOW SOFTWARE",
-        "tagline": "We ship when it's ready. We are mostly not ready.",
-        "brandNameRationale": "Two words that say no to the whole genre. Slow Software is the opposite of every value SaaS markets on — fast, real-time, instant, AI-powered. We made the opposing case the name of the company. Reads as a quiet provocation.",
+        "brandName": "Margin Software",
+        "tagline": "Software that argues for slowness.",
+        "brandNameRationale": "Margin is the real word for the space outside the main column — and the real word for the time outside main production. As a software brand name it stakes a position on the non-output parts of work.",
         "manifesto": "Every software company markets the same way: we are fast, we are getting faster, we are using AI to be even faster. We started Slow Software because the work we want to do — and the work our customers want to do — is not actually faster when the tool is faster. The work is slower. The tool should match.",
         "industrySummary": "Productivity software has confused speed with quality. The customer who notices the difference is rare, but real, and currently underserved. There is room for a brand that takes the opposite side of every SaaS argument and treats slowness as a feature.",
         "competitorLandscape": "Cortado (cortado.app), Daylight (daylightcomputer.com), and the Reflect (reflect.app) cohort touch the slow-tech edge. We are louder and more opinionated than any of them — the name is the position.",
@@ -860,7 +860,7 @@
             "description": "Customers get a printed quarterly letter, not a marketing email. The newsletter is on paper. Yes, really."
           }
         ],
-        "logoDirection": "A wordmark in a slow-feeling serif — SLOW SOFTWARE set in spaced small caps, with a single horizontal rule beneath, like a chapter heading.",
+        "logoDirection": "A wordmark in a slow-feeling serif — Margin Software set in spaced small caps, with a single horizontal rule beneath, like a chapter heading.",
         "colorPalette": [
           {
             "name": "Manila",
@@ -895,7 +895,7 @@
           "A little contrarian — a core principle the brand operates by.",
           "Warm — we are friendly, not formal."
         ],
-        "scope": "SLOW SOFTWARE works across:\n• The case for slowness\n• Quiet releases\n• Letters, not posts"
+        "scope": "Margin Software works across:\n• The case for slowness\n• Quiet releases\n• Letters, not posts"
       }
     ]
   }

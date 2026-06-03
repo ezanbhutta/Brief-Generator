@@ -3,9 +3,9 @@
   "briefs": {
     "Modern": [
       {
-        "brandName": "SHELF SPACE",
-        "tagline": "Curated, then sold.",
-        "brandNameRationale": "Two words. Shelf Space is the retail-industry term for the most valuable real estate in any store. Curation. Limited slots. Editorial discipline. The brand names the constraint that makes a good shop a good shop.",
+        "brandName": "Halverson Goods",
+        "tagline": "A modern store of considered things.",
+        "brandNameRationale": "Halverson is a Scandinavian-rooted surname common across the American upper Midwest with a goods-and-trade register. Goods is the archaic plain category suffix used by 19th-century general stores. Stands in the lineage of heritage-modern DTC (Stutterheim, Fjällräven).",
         "industrySummary": "DTC ecommerce has been a category for a decade. The customer is tired of the playbook: linen ad copy, pastel boxes, founder origin stories. The next wave is curation-led marketplaces and design-forward retailers with editorial discipline.",
         "competitorLandscape": "Goop (goop.com) holds the celebrity-led curation peak. Need Supply Co. (now closed) was the design-led template. Verishop (verishop.com) sits in the contemporary tier. The Pop Up Grocer (popupgrocer.com) holds the discovery-shop position. We sit closest to Pop Up Grocer in posture, with sharper brand work.",
         "positioningStatement": "An online shop with limited shelves and editorial taste.",
@@ -30,7 +30,7 @@
             "Photograph products on white"
           ]
         },
-        "logoDirection": "A wordmark only. SHELF SPACE in a tight modern grotesk, all caps, two words on one line. A small geometric mark, three thin horizontal lines stacked at irregular spacing to suggest a real shelf, used as the favicon and on the order tag.",
+        "logoDirection": "A wordmark only. Halverson Goods in a tight modern grotesk, all caps, two words on one line. A small geometric mark, three thin horizontal lines stacked at irregular spacing to suggest a real shelf, used as the favicon and on the order tag.",
         "colorPalette": [
           {
             "name": "Shop Black",
@@ -75,13 +75,13 @@
           "Direct — we say what we mean without softening it.",
           "Confident — we stand behind the work, not the marketing."
         ],
-        "scope": "SHELF SPACE delivers by:\n• Name the maker, the materials, and the reason it's on the shelf\n• Show why we picked it\n• Speak to the curator's reader, not the bargain hunter"
+        "scope": "Halverson Goods delivers by:\n• Name the maker, the materials, and the reason it's on the shelf\n• Show why we picked it\n• Speak to the curator's reader, not the bargain hunter"
       },
       {
         "id": "ecommerce-modern-2",
-        "brandName": "SHOP NOW",
-        "tagline": "The button. The brand.",
-        "brandNameRationale": "Two words that appear on every e-commerce site as the call-to-action. We made the CTA the brand. Slightly meta, slightly direct — the customer reads the name and already knows what to do.",
+        "brandName": "Cart & Crate Co",
+        "tagline": "A shop you'd actually send to a friend.",
+        "brandNameRationale": "Cart is the retail action object; Crate is the warehouse object. Paired they ground the brand in honest retail logistics. Two-noun & paired naming follows considered DTC brand convention (Crate & Barrel, Stella & Chewy's).",
         "manifesto": "DTC brands have spent a decade trying to look like magazines. Long scroll pages, mood-board hero, founder story, materials breakdown, slow reveal. We made Shop Now because the customer is not here for the magazine. They are here to buy something. The site is short. The path is one click. The brand is the verb.",
         "industrySummary": "DTC e-commerce has converged on a soft-modern, story-led aesthetic. Conversion has dropped as the story has grown. There is a real opening for a brand that competes on speed-to-purchase and honesty about what it is.",
         "competitorLandscape": "Quince (onequince.com) holds the modern direct slot. Italic (italic.com) plays the membership-driven version. Brandless before its closure tried this lane. We sit further out — louder, less product-essay, more storefront.",
@@ -135,7 +135,7 @@
             "description": "Each product page is a single image, a price, a paragraph of specs, and the button. The founder story is on the about page if you want it."
           }
         ],
-        "logoDirection": "A wordmark — SHOP NOW set in a precise grotesque, all caps, with a small arrow appended to the W. Reads as a button at rest.",
+        "logoDirection": "A wordmark — Cart & Crate Co set in a precise grotesque, all caps, with a small arrow appended to the W. Reads as a button at rest.",
         "colorPalette": [
           {
             "name": "Paper",
@@ -170,7 +170,7 @@
           "Practical — we build for the workweek, not the demo.",
           "Confident — we stand behind the work, not the marketing."
         ],
-        "scope": "SHOP NOW works across:\n• One-click buy\n• Re-order at the top\n• Plain product pages"
+        "scope": "Cart & Crate Co works across:\n• One-click buy\n• Re-order at the top\n• Plain product pages"
       }
     ],
     "Luxury": [
@@ -424,13 +424,13 @@
       },
       {
         "id": "ecommerce-minimal-2",
-        "brandName": "BUY",
-        "tagline": "The verb. The shop.",
-        "brandNameRationale": "One word. The transaction. We named the shop after the action and stopped. The label inside every product page just says BUY. The brand is the button.",
-        "manifesto": "Online shopping has become a long scroll. Hero image, founder story, materials story, reviews carousel, recommendations, related items, recently viewed, finally the button. We made BUY because the customer already decided. The site shows the product. The button is at the top. The end.",
+        "brandName": "Carton",
+        "tagline": "A small online store of plain things.",
+        "brandNameRationale": "Carton is the real packaging word — single trade noun, archaic in casual speech, immediately readable in retail context. Single-word naming follows the minimal DTC school (Italic, Quince).",
+        "manifesto": "Online shopping has become a long scroll. Hero image, founder story, materials story, reviews carousel, recommendations, related items, recently viewed, finally the button. We made Carton because the customer already decided. The site shows the product. The button is at the top. The end.",
         "industrySummary": "DTC has over-engineered the product page. There is room for a brand that strips the page to a photograph, a price, and a button — and trusts the customer to know what they came for.",
         "competitorLandscape": "Italic (italic.com) plays the minimal-direct slot at scale. Quince (onequince.com) holds the basics-direct middle. Brandless attempted this position. We sit further out — fewer products, less language, the button at the top.",
-        "positioningStatement": "BUY is a one-button shop. The photograph, the price, the button.",
+        "positioningStatement": "Carton is a one-button shop. The photograph, the price, the button.",
         "positioningRationale": "We strip the product page. No reviews carousel, no related items, no scroll-driven essay. One product, one button.",
         "targetAudience": {
           "primary": "Returning buyers who have already decided.",
@@ -479,7 +479,7 @@
             "description": "Each product has one studio photograph at natural scale. No lifestyle, no detail, no carousel."
           }
         ],
-        "logoDirection": "BUY set in a neutral grotesque, all caps, at small scale. Appears in the favicon, the receipt, and on the front of the box. No emblem.",
+        "logoDirection": "Carton set in a neutral grotesque, all caps, at small scale. Appears in the favicon, the receipt, and on the front of the box. No emblem.",
         "colorPalette": [
           {
             "name": "Paper",
@@ -505,7 +505,7 @@
           "secondary": "No second face.",
           "rationale": "One typeface, one weight. The shop is the typography."
         },
-        "brandDescription": "BUY is a one-button shop. The photograph, the price, the button.",
+        "brandDescription": "Carton is a one-button shop. The photograph, the price, the button.",
         "mission": "We strip the product page. No reviews carousel, no related items, no scroll-driven essay. One product, one button.",
         "vision": "There is room for a brand that strips the page to a photograph, a price, and a button — and trusts the customer to know what they came for.",
         "coreValues": [
@@ -513,7 +513,7 @@
           "Confident — we stand behind the work, not the marketing.",
           "Direct — we say what we mean without softening it."
         ],
-        "scope": "BUY works across:\n• One product, one page, one button\n• No promotions\n• One photograph"
+        "scope": "Carton works across:\n• One product, one page, one button\n• No promotions\n• One photograph"
       }
     ],
     "Corporate": [
@@ -714,9 +714,9 @@
     ],
     "Creative": [
       {
-        "brandName": "SOLD OUT",
-        "tagline": "Be quick.",
-        "brandNameRationale": "Two words. Sold Out is the most aspirational phrase in retail. It says the products are in demand without saying it. The brand sits on the customer's deepest retail desire: to buy the thing before it's gone. Loud, playful, and slightly self-aware.",
+        "brandName": "The Storefront Co",
+        "tagline": "A shop with a sense of humor about being a shop.",
+        "brandNameRationale": "Storefront is the trade word for the public-facing surface of a retail business. The definite article + Co suffix follows the considered-creative trade naming school.",
         "manifesto": "Most ecommerce brands lead with abundance: infinite inventory, infinite scrolls, infinite emails. We lead with scarcity. The drop ends. The shelf empties. The customer is part of the moment, not the campaign. Sold Out is the brand for people who want to be there when it happens.",
         "industrySummary": "Ecommerce branding has been clean, polished, and slightly cold. There's room for a brand that treats every drop as an event, brings personality back to the product page, and makes the buying itself feel like a story.",
         "competitorLandscape": "Supreme (supremenewyork.com) holds the drop-culture peak. Aimé Leon Dore (aimeleondore.com) has the cultural-product hybrid position. Off-White (off---white.com) sits in the fashion-meets-drops tier. We are smaller, more playful, and category-agnostic.",
@@ -801,13 +801,13 @@
           "Warm — we are friendly, not formal.",
           "Sharp — precision is a form of kindness."
         ],
-        "scope": "SOLD OUT delivers by:\n• Make jokes about scarcity\n• Show the count down\n• Tell the customer the truth about what's left"
+        "scope": "The Storefront Co delivers by:\n• Make jokes about scarcity\n• Show the count down\n• Tell the customer the truth about what's left"
       },
       {
         "id": "ecommerce-creative-2",
-        "brandName": "ADD TO CART",
-        "tagline": "The action. The brand.",
-        "brandNameRationale": "Three words that name the click that started the whole industry. We made the click the brand. Reads as both meta and slightly cheeky — every other shop is trying to get the customer to do exactly this; we put it on the front of the box.",
+        "brandName": "Reorder & Co",
+        "tagline": "An online store built around the second time.",
+        "brandNameRationale": "Reorder is the proper retail trade word for placing a follow-on purchase. & Co follows the small-shop trade-name convention. The brand stakes a position on customer retention rather than acquisition.",
         "manifesto": "DTC marketing has been pretending shopping is anything other than what it is. Wellness, lifestyle, community, identity. We made Add To Cart because shopping is fun in a small specific way — finding a thing, deciding to buy it, watching it arrive. We named the brand after the click and kept the rest of the experience honest about what it is.",
         "industrySummary": "DTC marketing has drifted into identity work. Customers are noticing. There is a real opening for a brand that calls the activity what it is and trades on the small specific pleasures of shopping itself.",
         "competitorLandscape": "Glossier (glossier.com) defined community-led DTC. Parade (yourparade.com) holds the playful-identity slot. Brandless tried the opposite extreme. We sit further out — meta about the act of shopping itself.",
@@ -838,7 +838,7 @@
             "Celebrate the click.",
             "Talk about the box.",
             "Send a confirmation email that sounds like a friend texting.",
-            "Print 'ADD TO CART' on every shipping label."
+            "Print 'Reorder & Co' on every shipping label."
           ],
           "donts": [
             "No 'wellness' or 'community' language.",
@@ -861,7 +861,7 @@
             "description": "The confirmation email reads like a friend congratulating the customer. The shipping email tracks the box like an event."
           }
         ],
-        "logoDirection": "A wordmark — ADD TO CART set in a wide modern grotesque, all caps, with a small cart icon at the end. Used at huge scale on the box.",
+        "logoDirection": "A wordmark — Reorder & Co set in a wide modern grotesque, all caps, with a small cart icon at the end. Used at huge scale on the box.",
         "colorPalette": [
           {
             "name": "Paper",
@@ -896,7 +896,7 @@
           "Modern — we build for the customer reading this on a phone.",
           "Specific — generalities are how people avoid commitment."
         ],
-        "scope": "ADD TO CART works across:\n• The box matters\n• The wishlist is the marketing\n• Confirmation as celebration"
+        "scope": "Reorder & Co works across:\n• The box matters\n• The wishlist is the marketing\n• Confirmation as celebration"
       }
     ]
   }

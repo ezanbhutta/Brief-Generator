@@ -336,9 +336,9 @@
     ],
     "Creative": [
       {
-        "brandName": "HARD STOP",
-        "tagline": "Engineered to know when to stop.",
-        "brandNameRationale": "Two words. Hard Stop is the robotics-safety term for the mechanical end-of-travel limit that prevents a robot from going further than it should. The brand names the discipline of knowing when not to move. Loud, sharp, and immediately legible to engineers and operators.",
+        "brandName": "Joint & Pivot",
+        "tagline": "A robotics studio for the moving parts.",
+        "brandNameRationale": "Joint and Pivot are the foundational mechanical concepts in robot design. Paired they reference the moving connections that make robots possible. Two-noun & paired naming follows the considered-creative technical brand school.",
         "manifesto": "Most robotics brands sell autonomy, intelligence, and motion. We made Hard Stop because the most important engineering decision in any robot is when not to move. The brand is for the engineers who know that safety, discipline, and known limits are what make a robot worth deploying. We are anti-hype, pro-engineering.",
         "industrySummary": "Robotics branding has been polished, AI-hyped, and slightly grandiose. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about the actual engineering work of building robots that customers will trust.",
         "competitorLandscape": "Universal Robots (universal-robots.com) holds the modern collaborative-robot peer position. Realtime Robotics (rtr.ai) sits in the modern motion-planning tier. ANYbotics (anybotics.com) does the design-led legged-robot middle. We sit warmer than all of them and clearer about safety.",
@@ -410,7 +410,7 @@
           },
           {
             "title": "Where it lives",
-            "body": "Safety manuals that are actually well-written. Stickers in every robot box. A small in-person meetup for robotics engineers every quarter. A merch line of two tees that say HARD STOP across the back."
+            "body": "Safety manuals that are actually well-written. Stickers in every robot box. A small in-person meetup for robotics engineers every quarter. A merch line of two tees that say Joint & Pivot across the back."
           }
         ],
         "brandDescription": "A robotics brand for engineers who know that knowing when to stop is the harder problem.",
@@ -423,7 +423,7 @@
           "Direct — we say what we mean without softening it.",
           "Friendly — a core principle the brand operates by."
         ],
-        "scope": "HARD STOP delivers by:\n• Show the safety envelope, the limits, the documentation\n• Make jokes about robotics hype\n• Talk like the engineer who has done the safety review"
+        "scope": "Joint & Pivot delivers by:\n• Show the safety envelope, the limits, the documentation\n• Make jokes about robotics hype\n• Talk like the engineer who has done the safety review"
       }
     ]
   }
