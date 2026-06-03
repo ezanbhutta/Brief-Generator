@@ -77,6 +77,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Threadline Security delivers by:\n• Show the finding and the fix side by side\n• Lead with what the product ships\n• Speak to the security engineer who'd use the tool"
+      },
+      {
+        "id": "cybersecurity-modern-2",
+        "brandName": "Lockstep Security",
+        "tagline": "A small security firm that moves in time with your team.",
+        "brandDescription": "Lockstep Security is a modern boutique security firm that runs alongside engineering teams — embedded, scheduled, in writing.",
+        "scope": "Lockstep works across:\n• Embedded engagements with engineering teams\n• Threat modeling on a published schedule\n• Quarterly red-team exercises with written reports\n• Incident response retainer (one-hour callback SLA)\n• Annual penetration testing tied to release cycles",
+        "mission": "To make security work like a discipline of engineering rather than a quarterly audit.",
+        "vision": "A practice where every shipping team has a named security counterpart who reads their PRs.",
+        "coreValues": [
+          "Embedded — we work where the work happens.",
+          "Specific — findings are tied to commits and tickets.",
+          "Reliable — the same lead consultant, this quarter and next.",
+          "Plain — reports written for the engineer who has to fix it."
+        ],
+        "brandNameRationale": "Lockstep is a real compound noun meaning marching in unison — it signals synchronized response without naming a tool or a threat. Stands in the lineage of single-word security firm names (Sentinel, Bastion, Crowdstrike) with a more team-oriented register.",
+        "manifesto": "Most security firms arrive after an incident, drop a 90-page report, and leave. We started Lockstep because the actual best security is embedded — a named consultant who attends sprint reviews, reads the PRs, and is in the channel when something breaks. Security as an engineering discipline, not a quarterly exam.",
+        "industrySummary": "Modern application security has split between the platform-product cohort (Wiz, Snyk, Datadog Security) and the boutique-consulting cohort (Bishop Fox, NCC Group). The opening is for a smaller embedded firm that operates like an engineering team rather than an audit team.",
+        "competitorLandscape": "Bishop Fox (bishopfox.com) is the closest peer in research-led security consulting. NCC Group (nccgroup.com) holds the global research firm slot. Latacora (latacora.com) plays in the embedded-security-as-a-service middle. Trail of Bits (trailofbits.com) sits in the elite-research peer position. We belong with Latacora — embedded, scheduled, engineering-team-aligned.",
+        "positioningStatement": "Lockstep Security is an embedded security practice that runs alongside engineering teams on a published schedule.",
+        "positioningRationale": "We compete on integration with the engineering team rather than on the depth of the final report. Each client has a named lead consultant who attends standups and reads code in the open PR queue.",
+        "targetAudience": {
+          "primary": "CTOs, VPs of engineering, and heads of security at companies of 50-500 engineers shipping software customers depend on.",
+          "behaviors": [
+            "Have hired audit-style firms before and felt the report didn't reflect what shipped.",
+            "Want a security consultant who is in the Slack channel.",
+            "Care about how findings get prioritized against the product backlog.",
+            "Renew on annual engagements."
+          ],
+          "motivations": [
+            "Want security that operates at the cadence of engineering.",
+            "Want a named consultant, not a rotating team.",
+            "Want findings in pull requests, not in a PDF."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Specific",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the engagement model and the cadence.",
+            "File findings as PR comments where possible.",
+            "Publish quarterly summary reports for engineering leadership.",
+            "Quote published lead-consultant hours per client."
+          ],
+          "donts": [
+            "No 'shift left' marketing.",
+            "No threat-of-the-week emails.",
+            "No surprise pricing on incident-response work.",
+            "No security-by-fear positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Embedded model",
+            "description": "Each engagement assigns a named lead consultant who attends standups, reads PRs, and is in the team's incident channel. The consultant is the product."
+          },
+          {
+            "name": "Published cadence",
+            "description": "Threat modeling, red-team exercises, and pen testing run on a published quarterly schedule. The schedule is set at engagement kickoff and held."
+          },
+          {
+            "name": "One-hour incident SLA",
+            "description": "Retainer customers get a one-hour callback during an incident. The on-call rotation is published; the customer knows who they're getting."
+          }
+        ],
+        "logoDirection": "A wordmark — Lockstep Security set in a precise modern grotesque, all lowercase, with a small horizontal connector between 'Lockstep' and 'Security'. The connector signals the embedded relationship.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#0B0B10",
+            "meaning": "Primary — the colour of a deep terminal background.",
+            "usage": "Wordmark, headings, navigation."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent — the green of a healthy system check.",
+            "usage": "Status indicators, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark and UI chrome.",
+          "secondary": "JetBrains Mono for code snippets and SLA timings.",
+          "rationale": "The grotesque signals operations. The mono signals engineering. Reports are typeset like a careful technical document."
+        }
       }
     ],
     "Luxury": [
@@ -159,6 +254,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Wellesley & Co. delivers by:\n• Address the client by surname\n• Speak in the language of the discipline\n• Send paper letters where appropriate"
+      },
+      {
+        "id": "cybersecurity-luxury-2",
+        "brandName": "Ashworth Cipher Partners",
+        "tagline": "A private security partnership. Twelve clients a year.",
+        "brandDescription": "Ashworth Cipher Partners is a small private cybersecurity partnership advising significant institutions, foundations, and family offices on cryptographic, network, and personal security.",
+        "scope": "Ashworth Cipher Partners works across:\n• Cryptographic architecture review\n• Network and infrastructure security audits\n• Executive and family personal security consulting\n• Incident response and forensic investigation\n• Cross-border data residency advice",
+        "mission": "To advise a small number of significant institutions and households on the security questions that should never appear in a press release.",
+        "vision": "A partnership that holds the same twelve clients across decades and is never the source of their headlines.",
+        "coreValues": [
+          "Senior — the partners do the work.",
+          "Discreet — what happens in the room stays in the room.",
+          "Considered — slow advice, given carefully.",
+          "Patient — we play decades, not quarters."
+        ],
+        "brandNameRationale": "Ashworth is a real English surname with a long-established register in the City of London professional services tradition. Cipher is the cryptographic-trade word, archaic in everyday speech. Partners signals the partnership structure used by the most senior advisory firms. The combination places the brand in the lineage of small senior partnerships (Wachtell, Lipton, Rosen & Katz spirit translated to security).",
+        "manifesto": "Most large cybersecurity firms produce reports for boards. We are a small partnership producing recommendations for the principals themselves. The roster is capped at twelve client households per year. The partners have known most of them for over a decade. No new business team.",
+        "industrySummary": "Premium cybersecurity has consolidated under a small number of global firms (Mandiant, Kroll, Stroz Friedberg). There is a quieter market for the very small private partnership advising significant institutions, foundations, and family offices on long-arc security questions.",
+        "competitorLandscape": "Stroz Friedberg (now Aon) holds the heritage forensic-and-security peer slot. Kroll (kroll.com) plays the broader risk-firm position. Krebs Stamos Group (krebsstamosgroup.com) is the elite-boutique peer reference. K2 Integrity (k2integrity.com) sits in the high-end strategic risk middle. We belong with Krebs Stamos Group in the small senior-partnership category.",
+        "positioningStatement": "A small private cybersecurity partnership taking twelve client households per year, by referral, with the partners on every engagement.",
+        "positioningRationale": "We do not extend the practice. The partnership is the limit. Engagements are accepted by referral; the partners attend every material meeting.",
+        "targetAudience": {
+          "primary": "Principals of significant institutions, foundations, family offices, and individuals managing cross-border interests with security implications.",
+          "behaviors": [
+            "Maintain decade-spanning relationships with a single trusted firm.",
+            "Make security decisions in person, not by deck review.",
+            "Care about discretion as a default.",
+            "Pay full hourly rates without complaint."
+          ],
+          "motivations": [
+            "Need advice from named senior partners, not associates.",
+            "Need a firm whose discretion has been tested.",
+            "Need a relationship that survives changes in the family's principal advisors."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address principals by surname.",
+            "Sign correspondence by named partners.",
+            "Print all material communications.",
+            "Reference engagements by year, never by client name."
+          ],
+          "donts": [
+            "No website beyond a single directory page.",
+            "No press commentary on cases.",
+            "No marketing material.",
+            "No social-media presence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Twelve households",
+            "description": "New engagements are accepted only when an existing engagement closes. The waiting list is real and quiet."
+          },
+          {
+            "name": "Partners on every engagement",
+            "description": "Both partners are involved in every engagement; one is the lead. There is no hand-off to a junior."
+          },
+          {
+            "name": "Multi-decade relationships",
+            "description": "The current senior client roster has been with the partnership for over a decade. Most engagements span generations of the client family."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Ashworth Cipher Partners set in a classical book serif on letterhead and brass plate only. No website logo; no marketing identity beyond the partnership stationery.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Letterhead.",
+            "usage": "All correspondence."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body of letters."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The office brass plate only."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif on letterhead, ledgers, and signage.",
+          "secondary": "An engraver's italic for the partnership name on the brass plate.",
+          "rationale": "Letterpress and engraver's register only. The firm communicates almost entirely in print."
+        }
       }
     ],
     "Minimal": [
@@ -232,6 +422,99 @@
           "Direct — we say what we mean without softening it."
         ],
         "scope": "LOCK delivers by:\n• Show the product, the technical specs, the price\n• Confirm orders in one short line\n• Use plain language"
+      },
+      {
+        "id": "cybersecurity-minimal-2",
+        "brandName": "Patch",
+        "tagline": "A security firm. Findings as pull requests.",
+        "brandDescription": "Patch is a minimal security boutique whose deliverable is the pull request that fixes the vulnerability.",
+        "scope": "Patch works across:\n• Application security review\n• Vulnerability assessment\n• Findings delivered as pull requests, not reports\n• Quarterly engagement model on a fixed fee\n• Read-only repository access for the duration",
+        "mission": "To make the fix the deliverable, not the report about the fix.",
+        "vision": "A practice where every finding lands as code that ships, not as a slide that gets filed.",
+        "coreValues": [
+          "Plain — the description reads like the change.",
+          "Direct — the finding is the fix.",
+          "Considered — every PR has a clear rationale."
+        ],
+        "brandNameRationale": "Patch is the real software-engineering trade word for a code fix — single archaic noun and verb, immediately readable inside engineering. Single-word naming follows the modern minimal SaaS school (Notion, Linear, Stripe) translated to security.",
+        "manifesto": "Security audits end with a PDF nobody reads. We made Patch because the actual product the customer wants is the fix. The engagement begins with read-only repo access. The deliverable is a series of pull requests that close the findings. The PDF is optional and free.",
+        "industrySummary": "Security boutiques deliver findings; engineering teams deliver fixes. The gap between the two is where vulnerabilities live for months. There is real space for a firm that closes the gap by delivering the fix itself.",
+        "competitorLandscape": "Latacora (latacora.com) is the closest peer in embedded security thinking. Doyensec (doyensec.com) holds the application-security audit slot. Trail of Bits (trailofbits.com) sits in the elite-research peer position. We sit further out — the PR is the deliverable.",
+        "positioningStatement": "Patch is a security firm whose deliverable is the pull request, not the report.",
+        "positioningRationale": "We compete on the form of the deliverable. Findings are filed as PRs against the customer's repository, with a clear description of the vulnerability and the fix. The customer reviews and merges as if a teammate filed them.",
+        "targetAudience": {
+          "primary": "Engineering leaders at companies of 20-200 engineers who have outgrown ad-hoc security and are not ready for a full audit firm.",
+          "behaviors": [
+            "Review pull requests as the unit of work.",
+            "Have skipped security audits because the reports are too long.",
+            "Want fixes, not findings.",
+            "Want a fixed fee per engagement."
+          ],
+          "motivations": [
+            "Want the security work to land as code.",
+            "Want a firm small enough to know.",
+            "Want a path from finding to production fix."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "File findings as PRs.",
+            "Write PR descriptions in plain English.",
+            "Skip the PDF unless the customer asks.",
+            "Sign engagements by the lead engineer."
+          ],
+          "donts": [
+            "No fear-of-the-week marketing.",
+            "No 'we found 47 issues' boasts.",
+            "No long-form report as the deliverable.",
+            "No CVSS scores in marketing copy."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "PRs, not PDFs",
+            "description": "Every finding is filed as a pull request with the proposed fix. The customer reviews and merges. The engagement ends when the PRs are merged or rejected with reason."
+          },
+          {
+            "name": "Read-only access",
+            "description": "The engagement begins with a single read-only access grant. We never need write or admin access. We file PRs through the customer's normal contributor flow."
+          },
+          {
+            "name": "Fixed fee",
+            "description": "Engagements are scoped to a defined repository and a fixed fee. No hourly billing. No scope creep."
+          }
+        ],
+        "logoDirection": "Patch set in a neutral grotesque, all lowercase, at small scale on the website, the engagement letter, and nowhere else. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Diff",
+            "hex": "#22C55E",
+            "meaning": "Single accent — the green of an additive diff.",
+            "usage": "PR-status indicators, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "JetBrains Mono for code snippets in PR descriptions.",
+          "rationale": "Two faces. The grotesque is the working surface. The mono signals 'this is code.'"
+        }
       }
     ],
     "Corporate": [
@@ -333,6 +616,101 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Aegis Cyber Group works across:\n• 24/7 detection and response\n• Compliance-grade documentation\n• One partner across the security stack"
+      },
+      {
+        "id": "cybersecurity-corporate-2",
+        "brandName": "Tunbridge Cybersecurity Holdings",
+        "tagline": "Managed security services and SOC operations for mid-market enterprises.",
+        "brandDescription": "Tunbridge Cybersecurity Holdings operates a portfolio of managed security service brands across SOC, MDR, vCISO, and compliance consulting.",
+        "scope": "Tunbridge operates across:\n• 24/7 SOC and MDR services\n• vCISO engagements for mid-market enterprises\n• Compliance and audit-readiness consulting (SOC 2, ISO 27001, HIPAA, PCI)\n• Incident response retainer programs\n• Multi-brand operations under a unified ticketing and SOC platform",
+        "mission": "To provide enterprise-grade managed security operations to mid-market customers under a single multi-brand operator.",
+        "vision": "A managed security operator whose mid-market customers receive the same quality of SOC service Fortune 500 customers expect from the global firms.",
+        "coreValues": [
+          "Senior — partners are accountable on every engagement.",
+          "Operational — the SOC runs around the clock.",
+          "Reliable — the same SLA this Tuesday and next.",
+          "Discreet — customer relationships and incidents stay private."
+        ],
+        "brandNameRationale": "Tunbridge is a real English town name (Royal Tunbridge Wells in Kent), used here in the holding-company convention of named-place + category + Holdings (Compass Diversified, Constellation Software, Vista Outdoor). The single-place + Cybersecurity + Holdings format reads as an institutional operator with a regional headquarters and multi-brand portfolio.",
+        "manifesto": "Tunbridge Cybersecurity Holdings owns and operates a portfolio of managed security service brands. Each brand retains its identity, customer base, and SOC analysts; we operate the shared platform, threat intelligence, on-call rotation, and back-office. The buyer is an MSSP founder considering sale, a mid-market enterprise consolidating vendor relationships, or an institutional investor holding security-services assets.",
+        "industrySummary": "Managed security services has consolidated under a small number of global firms (Secureworks, Trustwave, BAE Applied Intelligence) and the cloud-platform vendors (Microsoft Defender, AWS Security Hub). The opening underneath is for a serious mid-tier multi-brand operator with deep SOC operations and the procurement reliability mid-market enterprise customers require.",
+        "competitorLandscape": "Arctic Wolf (arcticwolf.com) is the modern MDR reference. Secureworks (secureworks.com) holds the legacy MSSP peer slot. eSentire (esentire.com) sits in the MDR mid-market middle. Expel (expel.com) plays in the modern transparent-SOC position. We belong in the regional mid-tier multi-brand MSSP category.",
+        "positioningStatement": "Tunbridge Cybersecurity Holdings is a regional multi-brand managed security operator running SOC, MDR, vCISO, and compliance services for mid-market enterprises.",
+        "positioningRationale": "We compete on SOC operations depth, threat-intelligence breadth across the portfolio, and the procurement-grade reliability mid-market enterprises require for multi-year managed-security relationships.",
+        "targetAudience": {
+          "primary": "MSSP founders considering sale, CISOs and CIOs at mid-market enterprises consolidating security vendors, and institutional investors holding security-services assets.",
+          "behaviors": [
+            "Manage three to seven security vendor relationships at any time.",
+            "Run RFPs for managed security every three to five years.",
+            "Care about analyst-to-customer ratio, MTTR, and on-call coverage.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared SOC and threat intelligence across multiple brands.",
+            "Need to keep brand identity post-acquisition.",
+            "Need 24/7 operations with documented SLAs."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with SOC capacity, analyst headcount, and SLA metrics.",
+            "Speak the language of CISOs and procurement.",
+            "Publish quarterly operator letters.",
+            "Reference brand portfolio by name, not by Tunbridge tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No fear-of-the-week threat marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and operate four to seven MSSP brands across SOC, MDR, vCISO, and compliance categories. Each retains its identity and customer base."
+          },
+          {
+            "name": "Shared SOC platform",
+            "description": "Owned 24/7 SOC infrastructure across multiple geographies. Brands share threat intelligence, on-call rotation, and ticketing under a single operations team."
+          },
+          {
+            "name": "Mid-market focus",
+            "description": "Single-vendor managed security arrangements with mid-market enterprises across the portfolio. Compliance, reporting, and audit-readiness handled in-house."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Tunbridge set in a traditional book serif, with 'Cybersecurity Holdings' beneath in tracked small caps. Used in contracts, board documentation, and the corporate office. Not used on consumer-facing MSSP brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for SOC dashboards, reports, and operational tables.",
+          "rationale": "Tabular and disciplined. Numbers louder than adjectives."
+        }
       }
     ],
     "Creative": [
@@ -425,6 +803,101 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "The Changelog Co delivers by:\n• Show the patch and what it fixed\n• Make jokes about the security industry\n• Talk like the engineer who'd be implementing the fix"
+      },
+      {
+        "id": "cybersecurity-creative-2",
+        "brandName": "The Honeypot Project",
+        "tagline": "A security firm built around what attackers actually try.",
+        "brandDescription": "The Honeypot Project is a creative-led security boutique that runs deliberate decoy systems and publishes what it learns from the attacks that land on them.",
+        "scope": "The Honeypot Project works across:\n• Deception-engineering and honeypot deployment\n• Threat-intelligence research from observed attacks\n• Quarterly published reports on attacker behaviour\n• Custom honeypot design for enterprise customers\n• Open-source tooling for the security research community",
+        "mission": "To learn what attackers actually do by letting them try, in places where it doesn't matter.",
+        "vision": "A security firm whose quarterly attacker-behaviour report is the most-read research in the industry.",
+        "coreValues": [
+          "Specific — every claim is tied to observed data.",
+          "Research-led — the report is the brand.",
+          "Direct — published methodology, not closed-source claims.",
+          "Slightly wry — security is serious; we don't have to be solemn."
+        ],
+        "brandNameRationale": "Honeypot is the real cybersecurity trade term for a decoy system deliberately exposed to attract attackers and study their methods. Project frames the brand as ongoing and research-led. The definite article gives the proper-noun register of a research initiative. Stands in the lineage of declarative research-led security brands (Project Zero, The Shadowserver Foundation register).",
+        "manifesto": "Most cybersecurity marketing argues by analogy — 'imagine if an attacker tried X'. We started The Honeypot Project to argue from observation. We run honeypots, watch what real attackers actually try, and publish the data. The brand is the research output. The firm sells what the research enables.",
+        "industrySummary": "Threat intelligence has matured into a recognized category but most firms produce intelligence from internal telemetry, not from deception-engineering research. There is real space for a creative-led firm whose primary output is published research from deliberately-exposed decoy systems.",
+        "competitorLandscape": "GreyNoise (greynoise.io) holds the closest peer slot in deliberate-exposure research. Shadowserver Foundation (shadowserver.org) sits in the foundation-research middle. Recorded Future (recordedfuture.com) plays the threat-intelligence platform reference. Mandiant (mandiant.com) is the elite incident-response peer. We belong alongside GreyNoise with a stronger published-research register.",
+        "positioningStatement": "The Honeypot Project is a security firm that runs decoy systems and publishes a quarterly report on what real attackers actually do.",
+        "positioningRationale": "The brand competes on the published research. The quarterly Honeypot Report is the marketing artefact and the proof of expertise. Custom engagements are downstream of the research reputation.",
+        "targetAudience": {
+          "primary": "CISOs, threat-intelligence analysts, and security researchers at large enterprises and government bodies.",
+          "behaviors": [
+            "Read security research as part of weekly work.",
+            "Subscribe to threat-intelligence feeds.",
+            "Run internal honeypots or want to.",
+            "Care about the methodology behind a finding."
+          ],
+          "motivations": [
+            "Want intelligence grounded in observation, not modeling.",
+            "Want a firm with a clear research voice.",
+            "Want to know how the attackers are actually thinking this quarter."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Research-led",
+          "Direct",
+          "A little wry"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the quarterly report on a published date.",
+            "Show the actual logs in research material.",
+            "Name the attacker techniques by their MITRE ATT&CK ID.",
+            "Reference observed attempts by date and decoy environment."
+          ],
+          "donts": [
+            "No 'experts predict' phrasing.",
+            "No fear-based marketing.",
+            "No press-release-led threat announcements.",
+            "No anonymous research."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The quarterly report",
+            "description": "Every quarter we publish the Honeypot Report — observations from our deliberately-exposed decoy environments, with attacker techniques, source patterns, and methodology notes. It's free."
+          },
+          {
+            "name": "Honeypots as research",
+            "description": "We design and deploy honeypots tuned to specific industries and threat models. Customers buy bespoke deception infrastructure plus the research that comes off it."
+          },
+          {
+            "name": "Open-source tooling",
+            "description": "We publish the deception-engineering tools we build internally. The research community uses them; the firm earns reputation."
+          }
+        ],
+        "logoDirection": "A wordmark — The Honeypot Project set in a quiet display serif with a small illustration of a honeycomb cell beside it. The mark reads as printed on a research journal cover.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Primary — the colour of printed text.",
+            "usage": "Wordmark, body type."
+          },
+          {
+            "name": "Honey",
+            "hex": "#D89B3D",
+            "meaning": "Secondary — the honeycomb amber.",
+            "usage": "Accent details, the mark."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the Honeypot Report.",
+          "secondary": "A neutral grotesque for technical body and code references.",
+          "rationale": "The serif reads like a research journal. The grotesque handles the technical detail."
+        }
       }
     ]
   }

@@ -76,6 +76,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Spritewell Studios delivers by:\n• Show the game, not the trailer\n• Talk about the design choices\n• Skip the hype copy"
+      },
+      {
+        "id": "gaming-modern-2",
+        "brandName": "Tilemaker Games",
+        "tagline": "A small game studio. Tile by tile.",
+        "brandDescription": "Tilemaker Games is a modern indie game studio building small, hand-tuned games where every screen is composed by hand.",
+        "scope": "Tilemaker Games works across:\n• Single-game projects, fully released before the next begins\n• Pixel-art and tile-based visual systems\n• Original soundtracks composed in-house\n• Direct-to-player distribution alongside Steam and console releases\n• Annual playable prototypes shared with the community",
+        "mission": "To make small games carefully, the way furniture makers build chairs.",
+        "vision": "A studio whose third game is on a desk in a museum next to its first.",
+        "coreValues": [
+          "Considered — every screen is composed by hand.",
+          "Patient — one game at a time, no shortcuts.",
+          "Specific — the art system is the studio's continuing project.",
+          "Credit — every team member is named on every release."
+        ],
+        "brandNameRationale": "Tilemaker is a compound noun combining 'tile' (the foundational unit of 2D game graphics) and the trade suffix 'maker' (used by 19th-century artisan trades — shoemaker, watchmaker, tilemaker). Games is the heritage category suffix. Stands in the lineage of considered modern indie studios (Supergiant, Studio MDHR, ConcernedApe, Annapurna Interactive).",
+        "manifesto": "Most modern game studios pitch the slate — five games, three platforms, four cinematic universes. We started Tilemaker because the small game made with care still matters more than the big game made by committee. One project at a time. Done when it's done. Shipped when it ships.",
+        "industrySummary": "Indie game development has matured into a recognized cohort with platform support (Steam, Switch eShop, itch.io) and acquisition pathways. The opening is for a small studio with a strong craft register and a clear release discipline — one game at a time, not a slate.",
+        "competitorLandscape": "Supergiant Games (supergiantgames.com) is the closest peer in small-team craft. Studio MDHR (studiomdhr.com) holds the hand-crafted aesthetic slot. ConcernedApe (concernedape.com) plays the solo-developer reference. Annapurna Interactive (annapurnainteractive.com) is the publishing peer for considered indie work. We belong alongside Supergiant and Studio MDHR with a tile-based visual signature.",
+        "positioningStatement": "Tilemaker Games is a small indie studio releasing one carefully-built game at a time, with hand-composed tile-based art.",
+        "positioningRationale": "We compete on craft and release discipline. One project in active development at a time. The previous project must ship before the next begins. The art system is the studio signature.",
+        "targetAudience": {
+          "primary": "Players 25-45 who buy two to six premium indie games per year and care about how they're made.",
+          "behaviors": [
+            "Follow indie studios on social media and read postmortems.",
+            "Buy directly from developers when given the option.",
+            "Care about soundtracks as part of the work.",
+            "Replay games rather than chase a backlog."
+          ],
+          "motivations": [
+            "Want games with a clear authorial voice.",
+            "Want a studio whose third game they'll buy because of the first.",
+            "Want art that doesn't look like every other indie release."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish development screenshots regularly.",
+            "Credit the team by name on every project.",
+            "Write devlogs in the principal's voice.",
+            "Release on a published 'when it's ready' policy."
+          ],
+          "donts": [
+            "No release-date pressure marketing.",
+            "No DLC roadmap before the base game ships.",
+            "No publisher-led trailer cuts.",
+            "No 'AAA' positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One game at a time",
+            "description": "Active development on a single project at a time. The next project doesn't begin until the current one ships. No slate, no roadmap of unannounced titles."
+          },
+          {
+            "name": "Tile-based art system",
+            "description": "Every game is built on a custom tile and pixel system maintained across projects. The art system is the studio's continuing work."
+          },
+          {
+            "name": "Soundtrack in-house",
+            "description": "Every game's soundtrack is composed by the studio's resident composer. The soundtrack ships alongside the game and is sold separately."
+          }
+        ],
+        "logoDirection": "A wordmark — Tilemaker Games set in a precise modern grotesque, with a small 8x8 pixel mark beside it. The pixel mark changes per game to reference the current project's protagonist.",
+        "colorPalette": [
+          {
+            "name": "Pixel",
+            "hex": "#1F1F1F",
+            "meaning": "Primary — the dark of a CRT screen.",
+            "usage": "Wordmark, page chrome."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Signal",
+            "hex": "#FF3D7F",
+            "meaning": "Accent — the hot pink of a CRT highlight.",
+            "usage": "The pixel mark, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark and headings.",
+          "secondary": "JetBrains Mono for credits, version numbers, and changelog.",
+          "rationale": "The grotesque is the studio. The mono is the build."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Quiet — restraint is the loudest thing in a noisy room."
         ],
         "scope": "The Salon delivers by:\n• Speak as a designer, not a publisher\n• Reference literature and film where it fits\n• Send a paper note to players who buy at full price"
+      },
+      {
+        "id": "gaming-luxury-2",
+        "brandName": "The Holloway Studios",
+        "tagline": "A small studio building one long game at a time.",
+        "brandDescription": "The Holloway Studios is a heritage indie game studio in continuous operation since 2003, producing a single game release every five to seven years.",
+        "scope": "The Holloway Studios works across:\n• Single major game release every five to seven years\n• Long-arc narrative design and authored worldbuilding\n• Original orchestral scores recorded with live ensembles\n• Limited edition physical releases through the studio shop\n• Long-form retrospectives published in print",
+        "mission": "To make games the way novelists write novels — over years, with a single author, for an audience that waits.",
+        "vision": "A studio whose fifth game arrives in 2040 and finds the same readers who bought its first.",
+        "coreValues": [
+          "Senior — the founder works on every release.",
+          "Patient — we build for the cycle, not the quarter.",
+          "Considered — every screen is authored, not generated.",
+          "Warm — we know our audience by name."
+        ],
+        "brandNameRationale": "The Holloway Studios uses the definite-article + surname + Studios convention common to heritage independent film and theatre houses (The Almeida Theatre, The Donmar Warehouse). Holloway is a real English surname with a slightly literary register. The format places the brand firmly in the heritage-craft tradition rather than the venture-funded studio model.",
+        "manifesto": "Most game studios race the calendar. We started The Holloway Studios in 2003 with a different premise: one game every five to seven years, designed by the founder, scored by the studio's resident composer, played by people who will wait. Two games shipped so far. The third is in year four.",
+        "industrySummary": "Premium long-arc game development has been claimed by AAA studios with seven-year cycles but rarely by small studios. There is a quieter market for the small heritage studio with multi-year cycles and a long-arc audience.",
+        "competitorLandscape": "thatgamecompany (thatgamecompany.com) is the closest peer in long-cycle considered work. Fumito Ueda's genDESIGN (gen-design.com) holds the heritage Japanese-auteur slot. Naughty Dog (naughtydog.com) sits in the long-arc AAA position. The Chinese Room (thechineseroom.co.uk) plays in the authored-narrative middle. We belong alongside thatgamecompany and genDESIGN in the small heritage authored-studio category.",
+        "positioningStatement": "A heritage indie game studio producing one major release every five to seven years, with the founding director on every project from concept to ship.",
+        "positioningRationale": "We do not extend the slate. The founder is the lead designer on every release. Cycles are long; audiences are patient.",
+        "targetAudience": {
+          "primary": "Long-arc game players 30-60 who keep their first console and replay the studios they trust.",
+          "behaviors": [
+            "Keep physical copies of games they love.",
+            "Subscribe to studio newsletters that update once a year.",
+            "Replay games every few years.",
+            "Pay full price for limited editions."
+          ],
+          "motivations": [
+            "Want games that take time and reward it.",
+            "Want a studio they can follow across decades.",
+            "Want a physical artefact alongside the digital game."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Patient",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish an annual letter to subscribers.",
+            "Reference the studio's previous releases by year.",
+            "Sign correspondence by the founding director.",
+            "Print physical artefacts alongside digital releases."
+          ],
+          "donts": [
+            "No 'next title' tease marketing.",
+            "No live-service positioning.",
+            "No DLC roadmap.",
+            "No early-access releases."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Five to seven year cycles",
+            "description": "Each major release takes five to seven years. The cycles are not negotiable. The annual letter updates subscribers on progress and the cycle's expected close date."
+          },
+          {
+            "name": "Founder as lead designer",
+            "description": "The founding director is the lead designer on every release. The studio does not work without her."
+          },
+          {
+            "name": "Physical artefact",
+            "description": "Every release is accompanied by a limited physical edition — a hardcover artbook, a vinyl soundtrack, a small commissioned print. The artefact ships with first-edition copies."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Holloway Studios set in a classical book serif with a small embossed mark. The mark is a single illuminated letter from the current release's title.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the studio's printed work.",
+            "usage": "Marketing, packaging, letterhead."
+          },
+          {
+            "name": "Indigo",
+            "hex": "#1F2A40",
+            "meaning": "Secondary — the colour of the studio's flagship visual identity.",
+            "usage": "Body type, headings, the mark."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Foil-blocked details, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, the annual letter, and all printed material.",
+          "secondary": "An old-style serif for the artbook body.",
+          "rationale": "Letterpress register. The brand reads like an established publishing house."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "Cartridge delivers by:\n• Show the game\n• Show the price\n• Show the platform"
+      },
+      {
+        "id": "gaming-minimal-2",
+        "brandName": "Pixel",
+        "tagline": "A small game studio. One game.",
+        "brandDescription": "Pixel is a minimal one-game game studio whose entire output is a single, indefinitely-supported title.",
+        "scope": "Pixel works across:\n• Continued development of one ongoing game\n• Free monthly updates with new content\n• Public roadmap, updated quarterly\n• Modding tools and community-server hosting\n• Annual single-page studio report",
+        "mission": "To make one good game and keep making it good.",
+        "vision": "A studio whose tenth-anniversary release of its one game is more played than its first.",
+        "coreValues": [
+          "Plain — one game, one website, one developer.",
+          "Direct — the roadmap is the marketing.",
+          "Patient — we are building this game for the next decade."
+        ],
+        "brandNameRationale": "Pixel is the foundational unit of digital graphics — single trade word, deeply specific to games, immediately readable to any player. Single-word naming follows the modern minimal SaaS school (Notion, Linear, Stripe) translated to games. Stands in the lineage of one-word indie studios (Squid, Squad, Klei).",
+        "manifesto": "Most studios chase the next title. We made Pixel because the more interesting work is the single game made better over years. One title. Free monthly updates. No sequels. No spin-offs. The studio is the game.",
+        "industrySummary": "The 'games as a service' category is dominated by large publishers but the small-studio single-title model has proven viable for considered indie work (Stardew Valley, Dwarf Fortress, RimWorld). There is room for a studio that takes the single-title premise even further — one game, indefinitely supported, no second title.",
+        "competitorLandscape": "ConcernedApe (concernedape.com) is the spiritual reference for single-title indie. Bay 12 Games (bay12games.com) holds the indefinite-development slot. Ludeon Studios (ludeon.com) plays the long-tail single-title position. Re-Logic (re-logic.com) sits in the multi-platform single-title peer. We sit alongside ConcernedApe and Bay 12 with a more visible roadmap.",
+        "positioningStatement": "Pixel is a one-game studio whose entire work is the continued development of a single title.",
+        "positioningRationale": "We strip the studio surface. One game. One website. One Discord. One founder. No second title.",
+        "targetAudience": {
+          "primary": "Players who have spent more than 200 hours in a single game and value continued investment in it.",
+          "behaviors": [
+            "Track the patch notes of the games they play.",
+            "Run mods and community servers.",
+            "Buy supporter editions of games they love.",
+            "Replay favourites instead of chasing releases."
+          ],
+          "motivations": [
+            "Want a studio fully committed to one game.",
+            "Want monthly updates over annual sequels.",
+            "Want to know the developers and the roadmap."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the monthly update on a published date.",
+            "Maintain the public quarterly roadmap.",
+            "Reply to community feedback in plain English.",
+            "Sign updates by the lead developer."
+          ],
+          "donts": [
+            "No second-title announcements.",
+            "No 'season pass' marketing.",
+            "No early-access models for new content.",
+            "No paid DLC."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One game",
+            "description": "The studio works on one game. Forever. No sequels. No spin-offs. No second title."
+          },
+          {
+            "name": "Monthly updates",
+            "description": "Every month brings new free content — a new biome, a new system, a new system, a new tool. Published on a regular cadence."
+          },
+          {
+            "name": "Public roadmap",
+            "description": "The studio's quarterly roadmap is published and held. Players know what's coming for the next six months."
+          }
+        ],
+        "logoDirection": "Pixel set in a neutral grotesque, all lowercase, at small scale on the website header and the game's title screen. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Pixel",
+            "hex": "#1F1F1F",
+            "meaning": "Primary.",
+            "usage": "Wordmark, page chrome."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Save",
+            "hex": "#22C55E",
+            "meaning": "Single accent — the green of a save-confirmed indicator.",
+            "usage": "Patch notes, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for code.",
+          "rationale": "One typeface across the game UI and the website."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Tessera Gaming Group works across:\n• A portfolio approach\n• Long-term capital\n• Operational discipline"
+      },
+      {
+        "id": "gaming-corporate-2",
+        "brandName": "Highridge Gaming Group",
+        "tagline": "Multi-studio game operator, mid-market.",
+        "brandDescription": "Highridge Gaming Group operates a portfolio of game studio brands with shared publishing, distribution, and back-office infrastructure.",
+        "scope": "Highridge Gaming Group works across:\n• Studio acquisition and partnership\n• Multi-platform game publishing\n• Shared marketing, distribution, and player support\n• Live-services infrastructure across the portfolio\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier studios that want to keep their identity and outsource the operations.",
+        "vision": "A multi-brand gaming operator where every studio's third game ships better than its first because the operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — the publishing stack runs around the clock.",
+          "Reliable — predictable terms, year over year.",
+          "Discreet — studio relationships stay between us and the studio."
+        ],
+        "brandNameRationale": "Highridge is a real American place-name with a holding-company register, paired with Gaming + Group following the multi-brand operator naming convention (Activision Blizzard, EA, Take-Two Interactive's structure). The pair reads as an institutional operator with regional roots and multi-brand portfolio.",
+        "manifesto": "Highridge Gaming Group owns and operates a portfolio of game studio brands. Each studio retains its identity, leadership, and creative direction; we operate the shared publishing infrastructure, distribution relationships, and back office. The buyer is a studio founder considering sale, a platform partner seeking single-vendor publishing relationships, or an institutional investor holding gaming assets.",
+        "industrySummary": "Game publishing has consolidated under a small number of large operators (EA, Activision Blizzard now within Microsoft, Take-Two, Embracer). The opening is for a regional mid-tier multi-brand gaming operator with strong studio relationships, modern publishing infrastructure, and the procurement-grade reliability platform partners and institutional investors require.",
+        "competitorLandscape": "Embracer Group (embracer.com) is the multi-brand reference at scale. Devolver Digital (devolverdigital.com) holds the indie publisher peer slot. Annapurna Interactive (annapurnainteractive.com) sits in the considered-indie publisher middle. tinyBuild (tinybuild.com) plays in the multi-brand mid-market position. We belong in the regional mid-tier multi-studio operator category.",
+        "positioningStatement": "Highridge Gaming Group is a regional multi-brand gaming operator running publishing, distribution, and shared operations across a portfolio of independent studios.",
+        "positioningRationale": "We compete on shared publishing infrastructure, platform relationships, and the operational reliability studio founders need without giving up creative direction.",
+        "targetAudience": {
+          "primary": "Game studio founders considering sale or publisher partnerships, platform business-development leads, and institutional investors holding gaming assets.",
+          "behaviors": [
+            "Review studio unit economics and game-platform velocity.",
+            "Negotiate multi-year publishing agreements.",
+            "Care about live-services capacity, marketing reach, and platform certifications.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Want a publisher who handles operations without touching creative direction.",
+            "Want to keep studio identity post-acquisition.",
+            "Want shared marketing and platform relationships."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with studio portfolio, platform footprint, and publishing record.",
+            "Speak the language of studio founders and platform partners.",
+            "Publish quarterly operator letters.",
+            "Refer to studios by name, not by Highridge tagging."
+          ],
+          "donts": [
+            "No consumer marketing in the holding voice.",
+            "No social-media presence at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-studio operator",
+            "description": "We own and partner with four to eight independent game studios. Each retains its creative direction, leadership, and brand identity."
+          },
+          {
+            "name": "Shared publishing",
+            "description": "Single publishing operation across the portfolio — marketing, distribution, platform certification, player support. Studios focus on making games."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with studios looking for publishing scale without losing creative direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Highridge set in a traditional book serif, with 'Gaming Group' beneath in tracked small caps. Used in contracts, platform agreements, and the corporate office.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and platform documents.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Direct — we say what we mean without softening it."
         ],
         "scope": "The Speedrun Co delivers by:\n• Be honest about how hard the game is\n• Quote real player frustrations in marketing\n• Make the merch feel earned"
+      },
+      {
+        "id": "gaming-creative-2",
+        "brandName": "The NPC Studio",
+        "tagline": "A game studio for the characters nobody plays.",
+        "brandDescription": "The NPC Studio is a creative-led game studio building games entirely around the non-player characters — the shopkeepers, the side-quest givers, the people who watch the player walk past.",
+        "scope": "The NPC Studio works across:\n• Single-game projects centred on non-player characters\n• Procedurally-authored NPC dialog and behaviour systems\n• Companion books published with each release\n• Public devlogs documenting the design philosophy\n• A weekly newsletter on game-narrative craft",
+        "mission": "To make games whose most interesting characters are the ones the player never controls.",
+        "vision": "A studio whose third game is taught in narrative-design classes for what it does with characters who never get a line.",
+        "coreValues": [
+          "Literary — the writing is the work.",
+          "Specific — every NPC has a full interior life.",
+          "Warm — we treat the side cast with the dignity the player character usually gets.",
+          "Considered — we ship when the dialog is ready."
+        ],
+        "brandNameRationale": "NPC is the universally-understood game acronym for Non-Player Character. Naming the studio after the secondary cast — the characters games usually deprioritize — stakes a clear creative position. The definite article + acronym + Studio format reads as a small declarative outfit (The Chinese Room spirit, Failbetter Games tone).",
+        "manifesto": "Every game centres the player character. The merchant, the guard, the bartender, the farmer — the people the player walks past — are usually decoration. We started The NPC Studio because the more interesting question is what those characters do when the player isn't looking. The studio makes games where the side cast is the main story.",
+        "industrySummary": "Narrative-led indie games have a recognized audience but most centre the player character. There is real space for a creative-led studio that explicitly inverts the focus — games structured around NPC interiority, with the player as the witness rather than the protagonist.",
+        "competitorLandscape": "The Chinese Room (thechineseroom.co.uk) is the closest peer in narrative-led indie work. Failbetter Games (failbettergames.com) holds the dense-text peer slot. Inkle Studios (inklestudios.com) plays in the choice-based narrative middle. Telltale Games (telltale.com) is the legacy narrative-game reference. We sit alongside Inkle and Failbetter with a sharper NPC-focused premise.",
+        "positioningStatement": "The NPC Studio is an indie game studio whose games centre the non-player characters and treat the player as a witness.",
+        "positioningRationale": "The brand competes on the inversion. Every game we ship has a player character who is mostly an observer; the merchants, guards, and side-quest givers have full interior lives. The premise is the marketing.",
+        "targetAudience": {
+          "primary": "Narrative game players 25-45 who finish games for the side stories, not the main quest.",
+          "behaviors": [
+            "Read every NPC dialog tree.",
+            "Finish side quests before the main quest.",
+            "Discuss games on narrative-craft forums.",
+            "Buy companion books and lore artefacts."
+          ],
+          "motivations": [
+            "Want games that take the secondary cast seriously.",
+            "Want a studio with a clear narrative philosophy.",
+            "Want to read after they finish playing."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Specific",
+          "Warm",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write devlogs in the lead writer's voice.",
+            "Publish character bios for NPCs ahead of release.",
+            "Maintain a public character-design glossary.",
+            "Send a weekly newsletter on narrative-design craft."
+          ],
+          "donts": [
+            "No 'epic adventure' positioning.",
+            "No player-as-hero marketing.",
+            "No spoilers-as-trailers.",
+            "No live-service positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The side cast is the main story",
+            "description": "Every game's central narrative arc belongs to a non-player character. The player character moves through; the NPC's story is what changes."
+          },
+          {
+            "name": "Companion book per release",
+            "description": "Every release ships with a printed companion book featuring extended NPC bios, sketched portraits, and design notes from the team."
+          },
+          {
+            "name": "Weekly newsletter",
+            "description": "A weekly letter on narrative-design craft, written by the lead writer. The newsletter is the studio's primary marketing channel."
+          }
+        ],
+        "logoDirection": "A wordmark — The NPC Studio set in a quiet display serif with a small illustration of a character profile beside it. The profile changes per release to reference the current game's most central NPC.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Primary — the colour of printed dialog.",
+            "usage": "Wordmark, body type."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Quill",
+            "hex": "#7E2B1F",
+            "meaning": "Single accent — the colour of a leather-bound book spine.",
+            "usage": "Section marks, character-profile borders."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark, headlines, and companion books.",
+          "secondary": "A book serif for NPC dialog and devlogs.",
+          "rationale": "The brand reads like a small literary press. Both faces are quiet."
+        }
       }
     ]
   }

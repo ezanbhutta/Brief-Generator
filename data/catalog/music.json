@@ -76,6 +76,101 @@
           "Quiet — restraint is the loudest thing in a noisy room."
         ],
         "scope": "Diamond Cut Records delivers by:\n• Show the catalog clearly\n• Talk about the music\n• Speak to the listener and the musician at once"
+      },
+      {
+        "id": "music-modern-2",
+        "brandName": "Stylus Records",
+        "tagline": "A modern record label. Vinyl-first.",
+        "brandDescription": "Stylus Records is a modern independent record label releasing six albums a year, vinyl-first, with full creative control retained by the artist.",
+        "scope": "Stylus Records works across:\n• Six album releases per year, vinyl-first\n• Direct-to-fan sales through label and artist sites\n• Limited physical editions through label subscription\n• Distribution to streaming platforms after a 90-day vinyl window\n• Annual print zine documenting the label's year",
+        "mission": "To release records the way records used to be released — slowly, with vinyl as the primary artefact.",
+        "vision": "A label whose 50th release will still be on the same imprint, the same vinyl spec, the same care.",
+        "coreValues": [
+          "Considered — we release on our schedule.",
+          "Specific — every release has a catalog number and a story.",
+          "Warm — artists keep their masters.",
+          "Patient — the catalog is built over years."
+        ],
+        "brandNameRationale": "Stylus is the trade name for the diamond needle that traces the groove of a vinyl record — single archaic trade word, deeply specific to recorded music. Records is the heritage label category suffix. Stands in the lineage of single-trade-word modern record labels (Stones Throw, Daptone, Numero Group).",
+        "manifesto": "Most modern labels release directly to streaming and treat vinyl as merchandise. We started Stylus because the actual best record is still the physical artefact — the sleeve, the inner sleeve, the liner notes, the moment of dropping the needle. Vinyl first. Streaming second.",
+        "industrySummary": "Independent record labels have matured into recognized cohorts around genre and era. The opening is for a smaller, considered label that treats vinyl as the primary release format rather than a secondary collector's edition, with a deliberate release cadence.",
+        "competitorLandscape": "Stones Throw Records (stonesthrowrecords.com) is the modern-indie peer reference. Daptone Records (daptonerecords.com) holds the heritage-soul peer slot. Numero Group (numerogroup.com) plays the reissue-as-craft middle. Sub Pop (subpop.com) is the legacy independent reference. We sit alongside Stones Throw with a wider release range and a stronger vinyl-first discipline.",
+        "positioningStatement": "Stylus Records is a vinyl-first modern indie label releasing six albums a year with a 90-day physical-only window.",
+        "positioningRationale": "We compete on release discipline and physical-format priority. Every release is pressed and shipped before any streaming distribution begins.",
+        "targetAudience": {
+          "primary": "Music buyers 28-55 who own a turntable and buy two to twelve records per year.",
+          "behaviors": [
+            "Subscribe to label-of-the-month services.",
+            "Travel to record stores in unfamiliar cities.",
+            "Read liner notes and label discographies.",
+            "Re-buy classic albums on new pressings."
+          ],
+          "motivations": [
+            "Want a label they can follow for the imprint.",
+            "Want vinyl as the primary format.",
+            "Want records that arrive on a published schedule."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the year's release calendar at the start of the year.",
+            "Print physical artefacts alongside every release.",
+            "Write artist features in the label-newsletter voice.",
+            "Reference catalog numbers (STY001, STY002) as the work."
+          ],
+          "donts": [
+            "No streaming-first releases.",
+            "No 'streaming numbers' marketing.",
+            "No social-media-led launches.",
+            "No vinyl-as-merch sales positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Vinyl-first 90 days",
+            "description": "Every release ships on vinyl 90 days before streaming. The 90 days is the window for the physical artefact to land with the audience."
+          },
+          {
+            "name": "Catalog numbers",
+            "description": "Every release has a catalog number (STY001, STY002, etc.) printed on the sleeve. The catalog is the work."
+          },
+          {
+            "name": "Annual zine",
+            "description": "Once a year the label publishes a printed zine — artist features, liner-note extensions, label retrospectives — sent to subscribers."
+          }
+        ],
+        "logoDirection": "A wordmark — Stylus Records set in a calm modern serif with a small illustration of a stylus tracking a groove. The mark appears on every sleeve at small scale.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Primary — the colour of vinyl.",
+            "usage": "Wordmark, body type, sleeve printing."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Label",
+            "hex": "#D85C3D",
+            "meaning": "Single accent — the colour of the centre-label paper.",
+            "usage": "The stylus mark, section accents."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and album titles.",
+          "secondary": "A neutral grotesque for catalog numbers and liner-note body.",
+          "rationale": "The serif speaks. The grotesque labels."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Heritage — a core principle the brand operates by."
         ],
         "scope": "Atrium Records delivers by:\n• Write release notes like editorial essays\n• Print the credits with care\n• Speak in the language of the music"
+      },
+      {
+        "id": "music-luxury-2",
+        "brandName": "Beaufort Music House",
+        "tagline": "A music publisher and label. Established 1959.",
+        "brandDescription": "Beaufort Music House is a heritage independent music publisher and record label in continuous family operation since 1959, with a roster of 24 living artists and a deep catalog of classical and jazz works.",
+        "scope": "Beaufort Music House works across:\n• Music publishing and rights management for living artists\n• Heritage classical and jazz catalog stewardship\n• Limited deluxe physical editions of catalog works\n• Annual private salon concerts for subscribers\n• Multi-decade artist relationships and estate management",
+        "mission": "To steward serious music — published, recorded, and remembered — across generations of artists and listeners.",
+        "vision": "A house whose 100th anniversary in 2059 is celebrated by the descendants of its founding artists.",
+        "coreValues": [
+          "Senior — publishing decisions are made by the director, in person.",
+          "Discreet — artist relationships and royalty terms stay private.",
+          "Considered — we publish what we believe in, and only that.",
+          "Patient — the catalog is built across generations."
+        ],
+        "brandNameRationale": "Beaufort is a real English surname with a long-established register in publishing and the arts (Beaufort family, ducal English aristocracy). Music House follows the heritage publishing convention (Boosey & Hawkes, Schirmer, Universal Edition tradition). The pair places the brand firmly in the serious-music heritage publisher tradition.",
+        "manifesto": "Most modern record labels are content companies. Beaufort Music House is a publisher first — the rights, the catalog, the artist's interests across decades. We were founded in 1959 and we are still owned by the founding family. The roster grows by referral and is capped at twenty-four living artists. The catalog grows by stewardship.",
+        "industrySummary": "Heritage classical and jazz publishers have consolidated under a small number of global firms (Universal Music Publishing, Sony Music Publishing, Boosey & Hawkes within Concord). There is a quieter market for the small independent music house in continuous family ownership with a long-arc roster.",
+        "competitorLandscape": "Boosey & Hawkes (boosey.com) holds the heritage classical-publishing reference. Verve Records (vervelabelgroup.com) sits in the heritage jazz peer slot. ECM Records (ecmrecords.com) plays the considered-modern peer position. Edition Peters (editionpeters.com) is the heritage publishing reference. We belong alongside ECM with a stronger publishing-house register.",
+        "positioningStatement": "Beaufort Music House is a heritage independent music publisher and label in continuous family operation since 1959, with twenty-four living artists and a deep classical and jazz catalog.",
+        "positioningRationale": "We do not extend the roster. The house is the limit. Artists are accepted by referral; the publishing relationship is the long arc.",
+        "targetAudience": {
+          "primary": "Serious classical and jazz listeners 35-75 who buy deluxe physical editions and read program notes.",
+          "behaviors": [
+            "Attend live performances and read the printed program in advance.",
+            "Subscribe to record clubs and music society memberships.",
+            "Collect first editions and limited pressings.",
+            "Pass record collections to children."
+          ],
+          "motivations": [
+            "Want a music house that takes the work seriously.",
+            "Want artist stewardship across decades.",
+            "Want artefacts that read like a private library."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address subscribers by surname.",
+            "Sign correspondence by the publishing director.",
+            "Reference the year the house was founded and the founding family.",
+            "Print all marketing communications."
+          ],
+          "donts": [
+            "No streaming-first marketing.",
+            "No social-media presence beyond a quiet archive.",
+            "No promotional pricing.",
+            "No co-branded releases."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Twenty-four living artists",
+            "description": "The house's roster of living artists is capped at twenty-four. New artists are added by referral when others retire or move on. The waiting list is real."
+          },
+          {
+            "name": "Heritage catalog stewardship",
+            "description": "The house's classical and jazz catalog is the long-arc asset. We re-release, re-master, and re-publish across decades, with care."
+          },
+          {
+            "name": "Annual salon concerts",
+            "description": "Once a year the house hosts a series of private salon concerts in London, New York, and Vienna for subscribers and patrons. The concerts are not commercial."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Beaufort Music House set in a classical book serif with a small embossed coat-of-arms-style mark depicting an open book and a treble clef. The mark appears blind-embossed on the publishing house's letterhead.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the printed catalog.",
+            "usage": "Marketing, letterhead, publishing material."
+          },
+          {
+            "name": "Walnut",
+            "hex": "#3D2A1C",
+            "meaning": "Secondary — the colour of a heritage publishing house's bookbinding.",
+            "usage": "Body type, headings."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The coat-of-arms, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, the printed catalog, and letterhead.",
+          "secondary": "An engraver's italic for catalog numbers and artist names.",
+          "rationale": "Letterpress register throughout. The publishing house communicates in print, in the tradition of heritage music publishing."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "RECORD delivers by:\n• Show the pressing details\n• Show the catalog number\n• Confirm orders with one short message"
+      },
+      {
+        "id": "music-minimal-2",
+        "brandName": "Track",
+        "tagline": "A label. One track at a time.",
+        "brandDescription": "Track is a minimal modern music label releasing one single per month, on streaming, with no full albums and no merchandise.",
+        "scope": "Track works across:\n• One single release per month, year-round\n• Distribution to streaming platforms only\n• No album bundling, no EP collections, no merchandise\n• Direct artist payouts published quarterly\n• Annual single-page label report",
+        "mission": "To release one good song per month, plainly, with the artist paid fairly.",
+        "vision": "A label whose 100th single is as well-considered as its first, with the same artist payment terms.",
+        "coreValues": [
+          "Plain — one track, one website, one number.",
+          "Direct — the calendar is the product.",
+          "Considered — every track earns its month."
+        ],
+        "brandNameRationale": "Track is the universal modern music vocabulary word for a single recorded piece — single common-trade word, deeply specific to music. Single-word naming follows the modern minimal label school (Pony Recordings, Squad register).",
+        "manifesto": "Most labels release albums on streaming and treat singles as marketing. We made Track because the modern music object is the single, and the label should be honest about that. One track per month. On streaming. Paid plainly.",
+        "industrySummary": "Streaming-era music has reshaped around the single. Most labels still package singles into albums and EPs. There is real space for a label that takes the modern format premise to its conclusion — one track at a time, no album bundling.",
+        "competitorLandscape": "Soundcloud (soundcloud.com) plays the discovery-platform reference. Bandcamp (bandcamp.com) holds the direct-to-fan peer slot. Sub Pop's singles club (subpop.com) sits in the single-focus middle. Numero Group (numerogroup.com) plays the curation reference. We sit further out — no albums, single-tracks only, monthly cadence.",
+        "positioningStatement": "Track is a modern label releasing one single per month with no albums and transparent artist payouts.",
+        "positioningRationale": "We strip the label surface. One single per month. Streaming only. No merchandise. The track is the work.",
+        "targetAudience": {
+          "primary": "Streaming-first music listeners 22-40 who follow labels for curation and artists for the songs.",
+          "behaviors": [
+            "Save individual tracks rather than full albums.",
+            "Follow labels on streaming platforms.",
+            "Skip merchandise.",
+            "Pay artists directly through tipping services."
+          ],
+          "motivations": [
+            "Want one curated track per month.",
+            "Want labels that don't bundle.",
+            "Want artist payments to be visible."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the monthly release on a published date.",
+            "Show the track number (TRK001, TRK002, etc.) as the artwork.",
+            "Publish quarterly artist payouts.",
+            "Sign release notes by the curator."
+          ],
+          "donts": [
+            "No album bundling.",
+            "No merchandise sales.",
+            "No 'breaking' artist marketing.",
+            "No live-event positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One track a month",
+            "description": "Twelve tracks a year. Released on the first of each month. The release schedule is the calendar."
+          },
+          {
+            "name": "Streaming only",
+            "description": "We distribute to streaming platforms only. No vinyl, no CD, no merchandise. The work is the track."
+          },
+          {
+            "name": "Published payouts",
+            "description": "Quarterly artist payouts are published on the label website. The artist's share is transparent."
+          }
+        ],
+        "logoDirection": "Track set in a neutral grotesque, all lowercase, at small scale on the website and the track artwork. The track number is the only other identifying mark.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Number",
+            "hex": "#3D5BFF",
+            "meaning": "Single accent — the track-number colour.",
+            "usage": "The track number on artwork."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "Same family for track numbers.",
+          "rationale": "One typeface across the website, artwork, and release notes."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Aria Music Group works across:\n• Portfolio approach\n• Long-term capital\n• Operational depth"
+      },
+      {
+        "id": "music-corporate-2",
+        "brandName": "Pennington Music Group",
+        "tagline": "Multi-label music operator, mid-market.",
+        "brandDescription": "Pennington Music Group operates a portfolio of independent music label brands with shared distribution, rights management, and back-office infrastructure.",
+        "scope": "Pennington Music Group works across:\n• Label acquisition and partnership\n• Distribution to streaming and physical formats\n• Rights management and royalty administration\n• Shared marketing and artist services\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier independent labels that want to keep their identity and outsource the operations.",
+        "vision": "A multi-label music operator where every label's roster grows under its own brand and the artists get paid on time.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — royalties run on time.",
+          "Reliable — predictable terms.",
+          "Discreet — label relationships stay between us and the label."
+        ],
+        "brandNameRationale": "Pennington is a real American place-name with a holding-company register. Music + Group follows the multi-brand operator naming convention (Concord Music Group, Warner Music Group structure). The pair reads as an institutional operator with regional roots and multi-label portfolio.",
+        "manifesto": "Pennington Music Group owns and operates a portfolio of independent music label brands. Each label retains its identity, A&R direction, and artist relationships; we operate the shared distribution, rights administration, and back office. The buyer is a label founder considering sale, a platform partner seeking single-vendor relationships, or an institutional investor holding music-rights assets.",
+        "industrySummary": "Independent music label operations have consolidated under a small number of multi-brand groups (Concord, BMG, Reservoir). The opening is for a regional mid-tier multi-label operator with strong artist relationships, modern rights infrastructure, and the procurement-grade reliability platform partners and institutional investors require.",
+        "competitorLandscape": "Concord Music Group (concord.com) is the multi-brand mid-tier reference. BMG (bmg.com) holds the global multi-brand peer slot. Reservoir Media (reservoir-media.com) sits in the modern rights-aggregator middle. Mom + Pop Music (momandpopmusic.com) plays in the indie-multi peer position. We belong in the regional mid-tier multi-label operator category.",
+        "positioningStatement": "Pennington Music Group is a regional multi-label operator running distribution, rights administration, and shared operations across a portfolio of independent labels.",
+        "positioningRationale": "We compete on shared operations, platform relationships, and the reliability label founders need without giving up A&R direction.",
+        "targetAudience": {
+          "primary": "Label founders considering sale, platform business-development leads, and institutional investors holding music-rights assets.",
+          "behaviors": [
+            "Review label unit economics and catalog velocity.",
+            "Negotiate multi-year distribution agreements.",
+            "Care about royalty processing speed, catalog completeness, and rights-management accuracy.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Want an operator who handles operations without touching A&R.",
+            "Want to keep label identity post-acquisition.",
+            "Want shared platform relationships."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with label portfolio, platform footprint, and catalog scale.",
+            "Speak the language of label founders and platform partners.",
+            "Publish quarterly operator letters.",
+            "Refer to labels by name, not by Pennington tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social-media presence at the parent level.",
+            "No label consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-label operator",
+            "description": "We own and partner with four to eight independent labels across genres. Each retains its identity and A&R direction."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Single distribution, rights, and royalty operation across the portfolio. Labels focus on artists; we run the back office."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with labels looking for operations scale without losing creative direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Pennington set in a traditional book serif, with 'Music Group' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing labels.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for royalty reports and operational tables.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Opinionated — a clear point of view is the point."
         ],
         "scope": "Liner Notes Records delivers by:\n• Promote the deep cut\n• Make jokes about the music industry\n• Quote real listener responses"
+      },
+      {
+        "id": "music-creative-2",
+        "brandName": "The Tape Hiss Co",
+        "tagline": "A label for the records made on actual tape.",
+        "brandDescription": "The Tape Hiss Co is a creative-led music label specializing in analog-recorded music — tape-tracked, mixed on console, mastered to vinyl — with no digital intervention in the signal chain.",
+        "scope": "The Tape Hiss Co works across:\n• Single albums recorded entirely on tape\n• In-house analog recording studio operations\n• Vinyl and cassette releases (no streaming for the first year)\n• Studio rental for analog-only productions\n• Annual print zine on analog craft",
+        "mission": "To make records the way the records we love were made — analog from input to vinyl groove.",
+        "vision": "A label whose tenth-anniversary box set is still pressed from the original tape masters in 2035.",
+        "coreValues": [
+          "Specific — the signal chain is part of the record.",
+          "Considered — every session is documented.",
+          "Warm — analog sounds are an aesthetic choice, not a flaw.",
+          "Slightly nerdy — depth in the craft is the point."
+        ],
+        "brandNameRationale": "Tape Hiss is the audible artefact of analog magnetic tape recording — a real engineering trade phrase. As a label name it stakes a position against digital-first production. The definite article + Co suffix follows the considered-creative trade-name school (Stones Throw, Daptone register).",
+        "manifesto": "Most modern music is digital from microphone to ear. We started The Tape Hiss Co because the actual best records were tracked on tape, mixed on a console, mastered to vinyl, and the audible signature of that chain — the small noise floor, the tape compression, the warmth — is the work, not a flaw. The label exists to make those records.",
+        "industrySummary": "Analog music production has become a recognized craft niche with dedicated studios and engineers. There is real space for a label that specializes entirely in analog-tracked work and positions around the technical chain as the creative argument.",
+        "competitorLandscape": "Third Man Records (thirdmanrecords.com) is the closest peer in analog-craft positioning. Daptone Records (daptonerecords.com) holds the heritage-analog peer slot. Numero Group (numerogroup.com) sits in the reissue-craft middle. Mexican Summer (mexicansummer.com) plays in the considered-modern indie position. We sit alongside Third Man with a stricter analog-only signal chain.",
+        "positioningStatement": "The Tape Hiss Co is a music label releasing only records recorded, mixed, and mastered entirely on analog equipment.",
+        "positioningRationale": "The brand competes on the technical chain. Every record on the label is documented with its full signal chain — tape stock, console model, monitor pair, mastering chain — printed on the sleeve.",
+        "targetAudience": {
+          "primary": "Music listeners 28-55 who care about how records sound and how they're made.",
+          "behaviors": [
+            "Buy records for the recording quality.",
+            "Read engineering credits.",
+            "Own audio equipment they've maintained for years.",
+            "Re-buy classic records on new analog masters."
+          ],
+          "motivations": [
+            "Want records made the old way, on purpose.",
+            "Want a label whose technical decisions they trust.",
+            "Want the signal chain documented."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Considered",
+          "Warm",
+          "A little nerdy"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the signal chain on every sleeve.",
+            "Photograph the studio gear, not the artist.",
+            "Write liner notes about the recording session.",
+            "Reference engineers by name."
+          ],
+          "donts": [
+            "No 'mastered for streaming' marketing.",
+            "No digital-first release planning.",
+            "No social-media-led launches.",
+            "No remastering of analog originals through digital processing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Analog signal chain",
+            "description": "Every record on the label is tracked, mixed, and mastered on analog equipment. The full signal chain is printed on the sleeve."
+          },
+          {
+            "name": "Studio operations",
+            "description": "The label operates its own analog recording studio. Outside artists can rent the studio for analog-only sessions."
+          },
+          {
+            "name": "First year on vinyl and cassette only",
+            "description": "Every release ships first on vinyl and cassette. Streaming distribution begins 12 months after the physical release."
+          }
+        ],
+        "logoDirection": "A wordmark — The Tape Hiss Co set in a hand-drawn display serif with a small illustration of a reel-to-reel tape machine beside it. The mark feels printed on a vintage recording-studio matchbook.",
+        "colorPalette": [
+          {
+            "name": "Tape",
+            "hex": "#7C5A3D",
+            "meaning": "Primary — the colour of magnetic tape oxide.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Reel",
+            "hex": "#1F2530",
+            "meaning": "Secondary — the colour of a console face.",
+            "usage": "Body type, sleeve borders."
+          }
+        ],
+        "typography": {
+          "primary": "A hand-drawn display serif for the wordmark and album titles.",
+          "secondary": "A typewriter mono for the signal-chain credits on sleeves.",
+          "rationale": "The serif sets the warm-craft tone. The mono signals 'this is engineering.'"
+        }
       }
     ]
   }
