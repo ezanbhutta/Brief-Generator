@@ -77,6 +77,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "CIRCULAR delivers by:\n• Name the material and the percentage\n• Show the take-back path\n• Skip the nature photography"
+      },
+      {
+        "id": "sustainability-modern-2",
+        "brandName": "Soil & Carbon",
+        "tagline": "A modern sustainability consultancy.",
+        "brandDescription": "Soil & Carbon is a modern sustainability consultancy specializing in regenerative agriculture, carbon accounting, and supply-chain transparency for food and consumer-goods companies.",
+        "scope": "Soil & Carbon works across:\n• Regenerative agriculture transition consulting\n• Carbon accounting and reporting (Scope 1, 2, 3)\n• Supply-chain transparency and provenance tracking\n• Annual sustainability report writing for client companies\n• Published case studies of completed transitions",
+        "mission": "To move food and consumer-goods companies from sustainability claims to sustainability operations.",
+        "vision": "A consultancy whose published case studies are taught in supply-chain management programs.",
+        "coreValues": [
+          "Direct — the engagement ends when the operations change.",
+          "Modern — sustainability as operations, not as marketing.",
+          "Operational — the deliverable is the change, not the recommendation.",
+          "Specific — every claim is documented and verifiable."
+        ],
+        "brandNameRationale": "Soil names the foundational substrate of agriculture; Carbon names the foundational accounting unit of climate impact. Paired they reference both the source and the measurement of regenerative practice. Two-noun & paired naming follows the considered-modern sustainability school.",
+        "manifesto": "Most sustainability consulting produces glossy reports. We started Soil & Carbon to produce operational change — regenerative agriculture transitions, carbon accounting that withstands audit, supply-chain transparency that customers can verify. The reports we write document what changed; we don't write reports that recommend change for someone else to do later.",
+        "industrySummary": "Sustainability consulting has matured into a recognized category but most engagements end with a report, not with operational change. The opening is for a consultancy that takes engagements through to documented operational implementation.",
+        "competitorLandscape": "South Pole (southpole.com) holds the closest peer slot in modern carbon-and-supply-chain consulting. ERM (erm.com) plays the heritage-environmental peer position. Anthesis Group (anthesisgroup.com) sits in the considered-modern peer middle. Climeworks Solutions (climeworks.com) plays the carbon-implementation peer reference. We belong alongside South Pole with a stronger regenerative-agriculture focus.",
+        "positioningStatement": "Soil & Carbon is a sustainability consultancy specializing in regenerative agriculture transitions, carbon accounting, and supply-chain transparency.",
+        "positioningRationale": "We compete on operational implementation rather than report production. Engagements end when the client operates differently, not when the report is delivered.",
+        "targetAudience": {
+          "primary": "Heads of sustainability, supply chain, and operations at food and consumer-goods companies of $100M-$5B revenue.",
+          "behaviors": [
+            "Manage annual sustainability budgets and reporting cycles.",
+            "Sit through quarterly sustainability committee meetings.",
+            "Care about Scope 3 emissions, regenerative-agriculture transitions, and supplier audits.",
+            "Renew on multi-year engagement terms."
+          ],
+          "motivations": [
+            "Need a consultancy that takes engagements through to operational implementation.",
+            "Need carbon accounting that withstands audit.",
+            "Need supply-chain transparency that customers can verify."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Operational",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the operational change rather than the framework.",
+            "Publish case studies with actual transition data.",
+            "Reference specific farms, suppliers, and audit firms by name where the client permits.",
+            "Sign engagement letters by the lead consultant."
+          ],
+          "donts": [
+            "No greenwashing-adjacent marketing.",
+            "No vague benefit copy.",
+            "No 'thought leadership' that says nothing.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Regenerative agriculture transitions",
+            "description": "We design and implement on-farm transitions to regenerative practices for the client's supply chain, working directly with growers and suppliers."
+          },
+          {
+            "name": "Carbon accounting that withstands audit",
+            "description": "Scope 1, 2, and 3 accounting documented to standards that third-party auditors accept. The accounting is the deliverable, not the report about the accounting."
+          },
+          {
+            "name": "Supply-chain transparency",
+            "description": "Provenance tracking and supplier audit infrastructure that makes claims verifiable to customers."
+          }
+        ],
+        "logoDirection": "A wordmark — Soil & Carbon set in a calm modern serif with a long ampersand and a small earth-and-leaf illustration beside it. The mark reads as printed on a sustainability case-study cover.",
+        "colorPalette": [
+          {
+            "name": "Soil",
+            "hex": "#5C3F2A",
+            "meaning": "Primary — the colour of fertile soil.",
+            "usage": "Wordmark, marketing surfaces."
+          },
+          {
+            "name": "Leaf",
+            "hex": "#5C6B47",
+            "meaning": "Secondary — the colour of regenerative cover crops.",
+            "usage": "Body type, the illustration."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and case studies.",
+          "secondary": "A clean grotesque for accounting tables and operational reports.",
+          "rationale": "The serif speaks. The grotesque measures."
+        }
       }
     ],
     "Luxury": [
@@ -159,6 +254,101 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Garden & Estate delivers by:\n• Address the client by surname\n• Speak in the language of land, not climate\n• Send paper reports each season"
+      },
+      {
+        "id": "sustainability-luxury-2",
+        "brandName": "The Wickwood Foundation",
+        "tagline": "A small environmental research foundation.",
+        "brandDescription": "The Wickwood Foundation is a small private environmental research foundation operating across freshwater ecology, soil science, and forest restoration, funded by an endowment and a small group of patron families.",
+        "scope": "The Wickwood Foundation works across:\n• Freshwater-ecology research and field stations\n• Soil-science research at long-term study sites\n• Forest-restoration field experiments\n• Annual scientific publications in peer-reviewed journals\n• Patron-only annual research symposium",
+        "mission": "To support long-arc environmental research at a pace and quality commercial timelines usually prevent.",
+        "vision": "A foundation whose research is cited by the field for the next century.",
+        "coreValues": [
+          "Senior — the foundation has supported research since 1971.",
+          "Discreet — research findings appear in journals, not press releases.",
+          "Considered — long-term study sites are the foundation's primary investment.",
+          "Patient — fifty-year data records are the standard."
+        ],
+        "brandNameRationale": "The Wickwood Foundation uses the definite-article + place-name + Foundation convention common to heritage environmental research foundations (The Nature Conservancy, The Wildlife Trusts, The Knepp Foundation tradition). Wickwood is a real but small English place-name with a wooded register. The Foundation suffix places the brand firmly in the small-private-research foundation tradition.",
+        "manifesto": "Most environmental work runs on grant cycles and corporate-CSR timelines. The Wickwood Foundation was endowed in 1971 to support environmental research on the long arc. We fund and operate long-term study sites in freshwater ecology, soil science, and forest restoration. The patron families have supported the foundation across generations.",
+        "industrySummary": "Premium environmental research is dominated by large universities and government bodies. There is a quieter market for the small private foundation operating long-term field stations and supporting long-arc research that university grant cycles cannot.",
+        "competitorLandscape": "The Nature Conservancy (nature.org) is the broad reference for environmental philanthropy. The Knepp Foundation (knepp.co.uk) holds the heritage rewilding peer slot. The Land Institute (landinstitute.org) sits in the long-arc agriculture-ecology peer position. The Bren School of Environmental Science & Management (bren.ucsb.edu) plays the academic environmental peer reference. We belong with The Land Institute and The Knepp Foundation in the small private-research foundation category.",
+        "positioningStatement": "A small private environmental research foundation operating long-term field stations in freshwater ecology, soil science, and forest restoration.",
+        "positioningRationale": "We do not pursue commercial projects. The foundation's mandate is basic environmental research. Funding comes from an endowment and a small group of patron families.",
+        "targetAudience": {
+          "primary": "Senior environmental scientists, patron families supporting environmental research, foundation programme officers, and academic collaborators.",
+          "behaviors": [
+            "Publish in top-tier peer-reviewed journals.",
+            "Travel to field stations and research sites.",
+            "Care about long-term study site continuity.",
+            "Recommend visiting-scientist appointments to senior colleagues."
+          ],
+          "motivations": [
+            "Want a research environment without commercial timelines.",
+            "Want long-term study sites with funding continuity.",
+            "Want a foundation that supports the long arc."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address correspondents by surname.",
+            "Sign correspondence by the foundation director.",
+            "Reference research publications by full citation.",
+            "Publish in established peer-reviewed journals only."
+          ],
+          "donts": [
+            "No press releases on research findings.",
+            "No social-media presence beyond a single publications archive.",
+            "No commercial partnership commentary.",
+            "No promotional fundraising campaigns."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Long-term field stations",
+            "description": "The foundation operates field stations at five long-term study sites, some with continuous data records of over fifty years."
+          },
+          {
+            "name": "Endowment-funded",
+            "description": "The foundation is funded by an endowment established in 1971 and a small group of patron families who contribute annually. We do not pursue corporate funding."
+          },
+          {
+            "name": "Patron-only symposium",
+            "description": "Once a year the foundation hosts a private research symposium for patrons, visiting scientists, and senior researchers. The symposium is the foundation's gathering."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Wickwood Foundation set in a classical book serif with a small embossed mark depicting a stylised oak leaf. The mark appears on publications, letterhead, and the foundation's letterhead.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of scientific publication.",
+            "usage": "Letterhead, publications, marketing."
+          },
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Secondary — the colour of the foundation's namesake woodland.",
+            "usage": "Body type, the embossed mark."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Signature elements, the embossed mark."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, letterhead, and publications.",
+          "secondary": "An old-style serif for body type in scientific papers.",
+          "rationale": "Letterpress register throughout. Publications use the foundation's heritage typography across decades."
+        }
       }
     ],
     "Minimal": [
@@ -232,6 +422,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "LESS delivers by:\n• Use plain words\n• Show what's in it\n• Tell customers when they don't need the product"
+      },
+      {
+        "id": "sustainability-minimal-2",
+        "brandName": "Compost",
+        "tagline": "A small waste-services company. One service.",
+        "brandDescription": "Compost is a minimal residential composting service operating in a defined service area, with a single service tier and a published fixed monthly fee.",
+        "scope": "Compost works across:\n• Weekly residential food-waste pickup within a defined service area\n• Single fixed monthly subscription fee\n• Return of finished compost to subscribers twice a year\n• Plain published service-area map\n• Annual single-page company report",
+        "mission": "To operate one good residential composting service indefinitely.",
+        "vision": "A composting service whose 100th week of operation is identical in form to its first.",
+        "coreValues": [
+          "Plain — one service, one fee.",
+          "Direct — the map is the marketing.",
+          "Considered — the service does one thing well."
+        ],
+        "brandNameRationale": "Compost is the real waste-services trade word for the product of decomposed organic matter — single trade word, deeply specific to the category. Single-word naming follows the modern minimal services school (Tend, Wisp, Carton register).",
+        "manifesto": "Most waste-services companies expand into multiple service categories — composting, recycling, junk removal, hauling. We made Compost because the actual best small waste service does one thing well. Residential composting pickup. One service. One fee. One service area.",
+        "industrySummary": "Residential composting services have grown in metropolitan areas but most expand into adjacent waste services. There is real space for a minimal service that strips the offering to weekly residential composting and refuses to add adjacent categories.",
+        "competitorLandscape": "CompostNow (compostnow.org) plays the closest peer in residential composting subscription. Hometown Habitat (hometownhabitat.com) holds the considered-local peer slot. Soiltech (soiltech.com) sits in the regional composting peer position. We sit further out — one service, one fee, one defined service area.",
+        "positioningStatement": "Compost is a residential composting service offering weekly food-waste pickup at a single fixed monthly fee within a defined service area.",
+        "positioningRationale": "We strip the service offering. One service. One fee. One service area. No expansion into adjacent waste categories.",
+        "targetAudience": {
+          "primary": "Residential households in the defined service area who want a simple weekly composting service with a known monthly fee.",
+          "behaviors": [
+            "Compost food waste at home or want to.",
+            "Subscribe to weekly residential services.",
+            "Want a fixed monthly fee.",
+            "Care about waste diversion outcomes."
+          ],
+          "motivations": [
+            "Want a simple weekly composting pickup.",
+            "Want a single fixed monthly fee.",
+            "Want a small local service that doesn't expand into other categories."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the service-area map and monthly fee on the home page.",
+            "Confirm pickup subscriptions in one line.",
+            "Skip marketing about adjacent services.",
+            "Sign correspondence by the local operator."
+          ],
+          "donts": [
+            "No expansion into other waste categories.",
+            "No tiered service plans.",
+            "No promotional pricing.",
+            "No 'eco-lifestyle' marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One service",
+            "description": "Weekly residential food-waste pickup. We do not add yard-waste, recycling, junk removal, or any adjacent service."
+          },
+          {
+            "name": "One fee",
+            "description": "Single fixed monthly subscription fee, published on the website. No tiers."
+          },
+          {
+            "name": "One service area",
+            "description": "The service area is published as a map. We add new areas slowly when operational capacity permits."
+          }
+        ],
+        "logoDirection": "Compost set in a neutral grotesque, all lowercase, at small scale on subscription emails, pickup bins, and the website header. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Soil",
+            "hex": "#5C3F2A",
+            "meaning": "Primary — the colour of finished compost.",
+            "usage": "Pickup bins, marketing surfaces."
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Leaf",
+            "hex": "#5C6B47",
+            "meaning": "Single accent.",
+            "usage": "Service-area markers on the map."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for the service-area map labels.",
+          "rationale": "One typeface across the website, pickup bins, and subscription emails."
+        }
       }
     ],
     "Corporate": [
@@ -333,6 +616,101 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Polaris Sustainability Partners works across:\n• Audit-ready reporting\n• Strategy that survives scrutiny\n• Cross-jurisdiction coverage"
+      },
+      {
+        "id": "sustainability-corporate-2",
+        "brandName": "Greenholt Environmental Holdings",
+        "tagline": "Multi-brand environmental services operator.",
+        "brandDescription": "Greenholt Environmental Holdings operates a portfolio of environmental services brands across waste management, soil remediation, water treatment, and ecological restoration categories.",
+        "scope": "Greenholt Environmental Holdings works across:\n• Multi-brand environmental services operations\n• Shared regulatory compliance across jurisdictions\n• Industrial and municipal contracts\n• Capital-equipment procurement and management\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier environmental services brands that want to keep their identity and outsource the operations.",
+        "vision": "An environmental services operator whose portfolio brands grow under their own names because the regulatory and capital infrastructure are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — regulatory compliance runs on schedule.",
+          "Reliable — capital-equipment capacity supports brand operations.",
+          "Discreet — brand and client relationships stay private."
+        ],
+        "brandNameRationale": "Greenholt is a constructed compound place-name (green + holt, where holt is the archaic English word for a small wood or grove) with a heritage holding-company register. Environmental Holdings follows the multi-brand operator naming convention used in environmental services (Veolia, Waste Management, Republic Services structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Greenholt Environmental Holdings owns and operates a portfolio of environmental services brands. Each brand retains its identity, technical leadership, and customer relationships; we operate the shared regulatory compliance, capital equipment, and back office. The buyer is a brand founder considering sale, a municipal procurement officer, an industrial client seeking consolidated supplier relationships, or an institutional investor holding environmental-services assets.",
+        "industrySummary": "Environmental services has consolidated under a small number of large multi-brand operators (Veolia, Waste Management, Republic Services, Clean Harbors). The opening underneath is for a regional mid-tier multi-brand operator with deep compliance operations and the procurement-grade reliability municipal and industrial clients require.",
+        "competitorLandscape": "Veolia (veolia.com) is the multi-service environmental reference at scale. Republic Services (republicservices.com) holds the multi-category peer slot. Clean Harbors (cleanharbors.com) sits in the multi-service environmental peer position. Casella Waste Systems (casella.com) plays the regional peer reference. We belong in the regional mid-tier multi-brand environmental-services operator category.",
+        "positioningStatement": "Greenholt Environmental Holdings is a regional multi-brand environmental services operator running waste management, soil remediation, water treatment, and ecological restoration across a portfolio of brands.",
+        "positioningRationale": "We compete on shared regulatory compliance, capital-equipment depth, and the procurement-grade reliability municipal and industrial clients require for multi-year operating relationships.",
+        "targetAudience": {
+          "primary": "Environmental services brand founders considering sale, municipal procurement officers, industrial clients consolidating environmental supplier relationships, and institutional investors holding environmental-services assets.",
+          "behaviors": [
+            "Manage multi-vendor environmental-services relationships.",
+            "Negotiate multi-year municipal and industrial contracts.",
+            "Care about regulatory compliance, capacity, and incident response.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared regulatory compliance.",
+            "Need to keep brand identity post-acquisition.",
+            "Need a single-vendor multi-brand environmental-services relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, regulatory record, and capital-equipment footprint.",
+            "Speak the language of brand founders, municipal procurement, and industrial CFOs.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Greenholt tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight environmental services brands across waste management, soil remediation, water treatment, and ecological restoration. Each retains its identity."
+          },
+          {
+            "name": "Shared regulatory compliance",
+            "description": "Centralized regulatory affairs across multiple jurisdictions. Brands share compliance, audit-readiness, and incident-response infrastructure."
+          },
+          {
+            "name": "Capital-equipment scale",
+            "description": "Shared capital-equipment procurement and management across the portfolio. Brands inherit equipment and operational scale."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Greenholt set in a traditional book serif, with 'Environmental Holdings' beneath in tracked small caps. Used in contracts, municipal documentation, and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for regulatory documentation, capital-equipment reports, and operational tables.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -425,6 +803,101 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "Common Ground Project delivers by:\n• Make jokes about the climate without minimizing it\n• Talk like a friend who reads the news\n• Tell the truth about what works and what doesn't"
+      },
+      {
+        "id": "sustainability-creative-2",
+        "brandName": "The Mending Co",
+        "tagline": "A sustainability brand for the things you'd rather fix than replace.",
+        "brandDescription": "The Mending Co is a creative-led sustainability brand operating a repair service for clothing, household goods, and small electronics, with a service-by-mail model and a published repair philosophy.",
+        "scope": "The Mending Co works across:\n• Repair services for clothing, household goods, and small electronics\n• Service-by-mail with prepaid return shipping\n• Published repair-or-not assessments before work begins\n• Quarterly published essays on the repair tradition\n• Annual repair-club gatherings in three cities",
+        "mission": "To make repair a normal household choice rather than a virtuous exception.",
+        "vision": "A repair service whose mailroom queue is full of household objects on their second, third, and fourth life.",
+        "coreValues": [
+          "Warm — repair is care for the things we own.",
+          "Specific — every assessment is written for the item.",
+          "Considered — some assessments recommend not repairing.",
+          "Literary — the writing about repair is part of the brand."
+        ],
+        "brandNameRationale": "The Mending Co names the foundational repair practice — mending is the archaic verb for repairing clothing and small textile goods. The definite article + Co suffix follows the considered-creative trade-name school. Stands in the lineage of declarative repair brands (Patagonia Worn Wear's spirit, iFixit's craft register, The Restory's repair tradition).",
+        "manifesto": "Most household objects are designed to be replaced, not repaired. We started The Mending Co to make repair a normal household choice. Send us the garment, the lamp, the leather bag, the small appliance. We assess it. We give you an honest repair-or-not recommendation. If we repair it, we send it back with a printed repair record.",
+        "industrySummary": "Repair services exist but are fragmented across cobblers, tailors, electronic repair shops, and small craft repair operations. There is real space for a creative-led brand that operates a multi-category repair service by mail with a clear philosophy and consistent quality.",
+        "competitorLandscape": "Patagonia Worn Wear (patagonia.com/worn-wear) plays the closest peer in considered repair operations. The Restory (the-restory.com) holds the leather-and-luxury repair peer slot. iFixit (ifixit.com) sits in the electronics repair-tooling peer position. Rejean (rejeansjeans.com) plays the denim-repair peer reference. We sit alongside Patagonia Worn Wear with a multi-category by-mail model.",
+        "positioningStatement": "The Mending Co is a multi-category repair service operating by mail, with a published repair philosophy and an honest repair-or-not assessment before any work begins.",
+        "positioningRationale": "The brand competes on the repair philosophy and on the honest assessment. Every item gets a written assessment before work begins; some assessments recommend not repairing the item.",
+        "targetAudience": {
+          "primary": "Households 30-55 with possessions they'd rather repair than replace — leather goods, well-made clothing, small electronics, household appliances.",
+          "behaviors": [
+            "Own items they've kept for years and would like to keep longer.",
+            "Care about repair as a household practice.",
+            "Send items for repair when local options aren't available.",
+            "Want honest assessments about repair feasibility."
+          ],
+          "motivations": [
+            "Want a repair service that handles multiple categories.",
+            "Want an honest assessment before paying for repair.",
+            "Want a brand that argues for repair as normal household practice."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the repair philosophy and assessment process.",
+            "Photograph repaired items before, during, and after.",
+            "Sign assessments by the lead repair specialist.",
+            "Reference completed repairs by item type and age in case studies."
+          ],
+          "donts": [
+            "No 'sustainability lifestyle' marketing.",
+            "No virtuous-shopping copy.",
+            "No social-media-first content.",
+            "No upselling of unnecessary repairs."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-category repair",
+            "description": "We repair clothing, household goods (lamps, vases, small furniture), leather (bags, shoes, belts), and small electronics. The categories are the menu."
+          },
+          {
+            "name": "Honest assessment",
+            "description": "Every item begins with a written assessment — what the repair would entail, what it would cost, whether it's worth doing. Some assessments recommend not repairing."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "Once a quarter the brand publishes an essay on the repair tradition — history, craft, philosophy. The essay is the brand's primary marketing artefact."
+          }
+        ],
+        "logoDirection": "A wordmark — The Mending Co set in a quiet display serif with a small illustration of a needle-and-thread beside it. The mark reads as printed on a heritage tailor's receipt.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the page colour of the repair record.",
+            "usage": "Marketing, packaging."
+          },
+          {
+            "name": "Thread",
+            "hex": "#7E2B1F",
+            "meaning": "Secondary — the colour of mending thread.",
+            "usage": "Body type, the mark."
+          },
+          {
+            "name": "Wax",
+            "hex": "#A6843D",
+            "meaning": "Single accent — the colour of the brand's signature wax seal.",
+            "usage": "Repair-record seals."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A book serif for repair records and assessments.",
+          "rationale": "Two related serifs. The brand reads like a heritage tailor's notebook."
+        }
       }
     ]
   }

@@ -76,6 +76,101 @@
           "Trustworthy — a core principle the brand operates by."
         ],
         "scope": "Bedside Telehealth delivers by:\n• Show the doctor's actual name and credentials\n• Confirm next steps in writing\n• Speak to the patient as an adult"
+      },
+      {
+        "id": "telehealth-modern-2",
+        "brandName": "Wayside Telehealth",
+        "tagline": "A modern telehealth practice. Drop-in.",
+        "brandDescription": "Wayside Telehealth is a modern telehealth practice offering same-day video consultations for primary care, urgent care, and minor mental-health concerns with published session pricing.",
+        "scope": "Wayside Telehealth works across:\n• Same-day video consultations for primary care concerns\n• Urgent care for non-emergency issues\n• Minor mental-health support and short-term medication consultation\n• Plain published per-session pricing\n• Annual practice update to past patients",
+        "mission": "To run a drop-in telehealth practice the way a country doctor used to run a drop-in clinic.",
+        "vision": "A telehealth practice whose third-anniversary patients return to it for their family members.",
+        "coreValues": [
+          "Direct — pricing is on the page.",
+          "Modern — same-day availability by default.",
+          "Warm — the clinician's name is on the post-visit summary.",
+          "Practical — the visit is short, useful, and over."
+        ],
+        "brandNameRationale": "Wayside is the archaic word for the side of a road — historically the location of small drop-in inns and apothecaries that travelers used. The pairing with Telehealth signals a drop-in availability register. Single archaic word + plain category suffix follows the modern minimal telehealth school (Hims, Wisp, Tend, Bedside register).",
+        "manifesto": "Most telehealth practices feel like apps. We started Wayside because the actual best primary care is more like a small drop-in inn — open today, with someone competent at the desk, who can see you for the issue you have today. The practice is small. The doctors stay. The pricing is plain.",
+        "industrySummary": "Telehealth has matured into a recognized category with platform-matching services and dedicated practices. The opening is for a modern practice that operates at a drop-in cadence with a small group of long-tenure clinicians and plain published pricing.",
+        "competitorLandscape": "Forward (goforward.com) plays the modern primary-care peer in tech-forward operations. Wisp (hellowisp.com) holds the minimal single-purpose telehealth peer slot. Hims/Hers (hims.com) sits in the broad-modern telehealth peer position. Done (donefirst.com) plays the focused-care peer reference. We belong alongside Wisp with a broader same-day primary-care offering.",
+        "positioningStatement": "Wayside Telehealth is a modern same-day telehealth practice for primary care, urgent care, and minor mental-health concerns with published per-session pricing.",
+        "positioningRationale": "We compete on same-day availability and plain pricing. The practice operates with a small group of long-tenure clinicians who handle visits across the day.",
+        "targetAudience": {
+          "primary": "Adults 28-55 who want a same-day telehealth visit for a primary-care, urgent, or minor mental-health concern.",
+          "behaviors": [
+            "Avoid scheduling primary-care visits because of long waits.",
+            "Use telehealth for specific concerns rather than ongoing relationships.",
+            "Pay session fees directly rather than billing insurance.",
+            "Want a clear price before booking."
+          ],
+          "motivations": [
+            "Want a same-day telehealth visit.",
+            "Want plain per-session pricing.",
+            "Want a small practice with long-tenure clinicians."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Warm",
+          "Practical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish per-session pricing on the home page.",
+            "Show the day's session availability in real time.",
+            "Confirm bookings in one line.",
+            "Sign post-visit summaries by the clinician."
+          ],
+          "donts": [
+            "No 'matched in minutes' marketing.",
+            "No subscription tier sprawl.",
+            "No prescription-as-funnel marketing.",
+            "No telehealth-app gamification."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Same-day availability",
+            "description": "Most appointments are available the same day. The home page shows real-time availability."
+          },
+          {
+            "name": "Published per-session pricing",
+            "description": "Every visit type has a published price. Insurance is optional; superbills available for self-filing."
+          },
+          {
+            "name": "Long-tenure clinicians",
+            "description": "The practice operates with a small group of clinicians who stay with the practice. The same names are on the schedule month after month."
+          }
+        ],
+        "logoDirection": "A wordmark — Wayside Telehealth set in a calm modern serif with a small horizontal-line mark beneath, suggesting an open road or path.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the calm off-white of a clinical setting.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent — the green of an available time slot.",
+            "usage": "Available-now indicators, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and headings.",
+          "secondary": "A neutral grotesque for the session-availability calendar and clinician schedules.",
+          "rationale": "Two faces. The serif is the practice; the grotesque is the schedule."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Heritage — a core principle the brand operates by."
         ],
         "scope": "Concord Medical delivers by:\n• Address the patient by surname\n• Speak in the language of medicine, not wellness\n• Send paper letters between visits"
+      },
+      {
+        "id": "telehealth-luxury-2",
+        "brandName": "The Cobham Clinic Network",
+        "tagline": "A heritage telehealth and in-person clinic network.",
+        "brandDescription": "The Cobham Clinic Network is a heritage hybrid telehealth and in-person primary care network operating across three small consulting rooms in London, New York, and Geneva, with a capped private membership roster.",
+        "scope": "The Cobham Clinic Network works across:\n• Capped private membership primary care\n• Hybrid telehealth and in-person consultation across three clinic locations\n• Annual comprehensive health review for members\n• Concierge specialist referrals through trusted networks\n• Long-tenure clinician relationships across decades",
+        "mission": "To provide primary care in the heritage private-practice tradition with the convenience of modern telehealth.",
+        "vision": "A network whose patient families have been with the same physicians for three generations.",
+        "coreValues": [
+          "Senior — the founding physicians' tradition is unbroken.",
+          "Discreet — member identity and health information stay private.",
+          "Considered — the three rooms are the network.",
+          "Warm — multi-generational patient relationships are the practice."
+        ],
+        "brandNameRationale": "The Cobham Clinic Network uses the definite-article + place-name + Clinic Network convention common to heritage hybrid private-practice networks. Cobham is a real English town in Surrey with a heritage register. The Clinic Network suffix places the brand firmly in the heritage private-practice tradition with a modern network structure.",
+        "manifesto": "Most telehealth is built for high-volume episodic care. The Cobham Clinic Network was founded in 1979 as a small private practice; it has since added telehealth as a complement to its three consulting rooms. Membership is capped. Most members are referred by existing members. The same physicians have practised in the network for decades.",
+        "industrySummary": "Premium concierge medicine has clustered around in-person practices. There is space for a heritage hybrid network that combines small in-person consulting rooms with modern telehealth, on a capped membership model with multi-decade physician tenure.",
+        "competitorLandscape": "MDVIP (mdvip.com) is the concierge-platform reference. Sollis Health (sollishealth.com) holds the premium concierge peer slot. Castle Connolly (castleconnolly.com) sits in the credentialing peer position. PinnacleCare (pinnaclecare.com) plays the family-office healthcare peer reference. We belong alongside Sollis Health with a heritage register and hybrid model.",
+        "positioningStatement": "The Cobham Clinic Network is a heritage hybrid telehealth and in-person primary care network with three consulting rooms and a capped private membership.",
+        "positioningRationale": "We do not extend the network. The three consulting rooms are the limit. Membership is capped; the same physicians have practised in the network across decades.",
+        "targetAudience": {
+          "primary": "Members of the existing patient roster and their family members eligible by inheritance, often with a multi-decade relationship with the network.",
+          "behaviors": [
+            "Maintain a primary-care relationship across many years.",
+            "Bring children and grandchildren into the same practice.",
+            "Travel internationally and use the network's three locations.",
+            "Pay full membership fees without complaint."
+          ],
+          "motivations": [
+            "Want a primary-care relationship that survives across decades.",
+            "Want hybrid telehealth and in-person care.",
+            "Want long-tenure physicians who know the family."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address members by surname.",
+            "Sign correspondence by the named physician.",
+            "Reference the network's founding year and the founding physicians.",
+            "Print annual health-review summaries on heavy paper."
+          ],
+          "donts": [
+            "No public marketing.",
+            "No social-media presence.",
+            "No promotional membership pricing.",
+            "No press."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Three consulting rooms",
+            "description": "The network operates three small consulting rooms in London, New York, and Geneva. Members can be seen in person at any of the three."
+          },
+          {
+            "name": "Capped membership",
+            "description": "Membership is capped. New members are accepted by referral when existing members move on. The waiting list is real."
+          },
+          {
+            "name": "Long-tenure physicians",
+            "description": "The network's senior physicians have been in practice for decades. Multi-generational patient relationships are the practice's organising principle."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Cobham Clinic Network set in a classical book serif with a small embossed crest depicting an aesculapian staff. The crest appears on letterhead, the brass clinic plates, and the printed health-review summaries.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the printed health review.",
+            "usage": "Letterhead, marketing, member correspondence."
+          },
+          {
+            "name": "Oxblood",
+            "hex": "#5C1F1F",
+            "meaning": "Secondary — the colour of the network's heritage livery.",
+            "usage": "Body type, the crest."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Signature elements, embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, letterhead, and printed health reviews.",
+          "secondary": "An engraver's italic for the network's founding year and physician names.",
+          "rationale": "Letterpress register throughout. The network communicates in printed correspondence."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "ASK delivers by:\n• Show the question, the doctor, the answer\n• Show the response time clearly\n• Use plain language"
+      },
+      {
+        "id": "telehealth-minimal-2",
+        "brandName": "Refill",
+        "tagline": "A minimal telehealth service. One thing.",
+        "brandDescription": "Refill is a minimal telehealth service offering prescription consultation and refill management for routine maintenance medications, at a single fixed per-consultation fee.",
+        "scope": "Refill works across:\n• Video consultations for prescription refill of routine maintenance medications\n• Single fixed per-consultation fee\n• Asynchronous prescription refill management between consultations\n• Direct pharmacy coordination\n• Annual single-page service report",
+        "mission": "To make the prescription refill consultation as simple as it should be.",
+        "vision": "A telehealth service that handles its 100,000th prescription refill in the same single offering it started with.",
+        "coreValues": [
+          "Plain — one service, one fee.",
+          "Direct — the offering is on the page.",
+          "Considered — the use case is well defined."
+        ],
+        "brandNameRationale": "Refill is the real pharmacy-and-telehealth trade word for the renewal of an existing prescription — single trade word, deeply specific to the use case. Single-word naming follows the modern minimal telehealth school (Wisp, Tend, Hims register).",
+        "manifesto": "Most telehealth services have grown into broad primary-care platforms with multiple visit types. We made Refill because the actual most common telehealth need is the prescription refill consultation for a stable maintenance medication. We do that. One service. One fee. No second offering.",
+        "industrySummary": "Telehealth has expanded into broad primary-care offerings. There is real space for a minimal service that strips the offering to a single use case — prescription refill consultation for stable maintenance medications.",
+        "competitorLandscape": "Wisp (hellowisp.com) plays the closest peer in single-purpose telehealth. Hims (hims.com) holds the broad-modern peer slot. Lemonaid Health (lemonaidhealth.com) sits in the medication-led peer position. Push Health (pushhealth.com) plays the prescription-focused peer reference. We sit further out — refill-only, fixed fee, no second offering.",
+        "positioningStatement": "Refill is a telehealth service offering prescription refill consultations for stable maintenance medications at a single fixed per-consultation fee.",
+        "positioningRationale": "We strip the offering to one use case. Refill consultation. One fee. No primary-care visits, no specialty care, no second offering.",
+        "targetAudience": {
+          "primary": "Adults on stable maintenance medications who need periodic refill consultations and want a simple, fixed-fee telehealth offering.",
+          "behaviors": [
+            "Take routine maintenance medications for stable conditions.",
+            "Need refill consultations every few months.",
+            "Want a fixed fee without insurance billing.",
+            "Prefer asynchronous coordination for routine refills."
+          ],
+          "motivations": [
+            "Want a single-purpose telehealth service.",
+            "Want a fixed fee for refill consultations.",
+            "Want a simple coordination with the pharmacy."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the per-consultation fee on the home page.",
+            "List the supported medication categories.",
+            "Confirm consultations in one line.",
+            "Sign post-visit summaries by the clinician."
+          ],
+          "donts": [
+            "No primary-care visit marketing.",
+            "No specialty referral upsells.",
+            "No tier sprawl.",
+            "No 'subscription wellness' positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One service",
+            "description": "Refill consultations for stable maintenance medications. We do not offer primary care, urgent care, or specialty consultations."
+          },
+          {
+            "name": "Fixed fee",
+            "description": "Single fixed per-consultation fee. No insurance billing. Superbills available for self-filing."
+          },
+          {
+            "name": "Pharmacy coordination",
+            "description": "Asynchronous coordination directly with the patient's pharmacy. Refills are sent electronically; the patient does not coordinate."
+          }
+        ],
+        "logoDirection": "Refill set in a neutral grotesque, all lowercase, at small scale on the website header and post-visit summaries. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Refill-sent indicators, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for medication category labels.",
+          "rationale": "One typeface across the website, the booking flow, and post-visit summaries."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Pioneer Telehealth Group works across:\n• Clinical network depth\n• Integration with existing systems\n• Reporting that satisfies the board"
+      },
+      {
+        "id": "telehealth-corporate-2",
+        "brandName": "Ashbury Telehealth Holdings",
+        "tagline": "Multi-brand telehealth operator, mid-market.",
+        "brandDescription": "Ashbury Telehealth Holdings operates a portfolio of telehealth practice brands across primary care, mental health, dermatology, and specialty care categories.",
+        "scope": "Ashbury Telehealth Holdings works across:\n• Multi-brand telehealth practice operations\n• Shared clinician credentialing across state licenses\n• Insurance contracting and billing infrastructure\n• Shared compliance, HIPAA, and clinical-operations infrastructure\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier telehealth practice brands that want to keep their identity and outsource the operations.",
+        "vision": "A telehealth operator whose portfolio practice brands grow under their own names because the credentialing and compliance are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — credentialing and compliance run on schedule.",
+          "Reliable — clinicians stay because the operations are stable.",
+          "Discreet — practice and payer relationships stay private."
+        ],
+        "brandNameRationale": "Ashbury is a real American place-name with a holding-company register. Telehealth Holdings follows the multi-brand operator naming convention used in healthcare (Lifestance Health, Talkspace's institutional arm, Teladoc structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Ashbury Telehealth Holdings owns and operates a portfolio of telehealth practice brands. Each practice retains its clinical leadership, clinician roster, and patient relationships; we operate the shared credentialing, compliance, insurance contracting, and back office. The buyer is a practice founder considering sale, an insurance payer seeking single-vendor contracting, or an institutional investor holding telehealth assets.",
+        "industrySummary": "Telehealth has consolidated under a small number of multi-brand operators (Lifestance Health, Talkspace, Teladoc, Hims/Hers parent). The opening is for a regional mid-tier multi-brand operator with deep credentialing operations and the procurement-grade reliability payers and institutional investors require.",
+        "competitorLandscape": "Lifestance Health (lifestance.com) is the multi-state mental-health peer reference. Teladoc Health (teladochealth.com) holds the multi-brand telehealth peer slot. Hims/Hers parent (hims.com) sits in the consumer multi-brand peer position. Talkspace (talkspace.com) plays the mental-health telehealth peer reference. We belong in the regional mid-tier multi-brand telehealth operator category.",
+        "positioningStatement": "Ashbury Telehealth Holdings is a regional multi-brand telehealth operator running practice operations, clinician credentialing, insurance contracting, and shared compliance across a portfolio of practice brands.",
+        "positioningRationale": "We compete on shared credentialing depth, insurance contracting reach, and the procurement-grade reliability payers and institutional investors require for multi-year operating relationships.",
+        "targetAudience": {
+          "primary": "Telehealth practice founders considering sale, payer contracting leads at major insurance companies, and institutional investors holding telehealth assets.",
+          "behaviors": [
+            "Manage multi-state clinician credentialing and licensing.",
+            "Negotiate multi-payer contracts and capitated arrangements.",
+            "Care about MLR, payer mix, and clinician retention.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared credentialing across states.",
+            "Need shared insurance contracting and billing.",
+            "Need to keep practice identity post-acquisition."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with practice portfolio, payer footprint, and clinician credentialing record.",
+            "Speak the language of practice founders, payers, and compliance officers.",
+            "Publish quarterly operator letters.",
+            "Refer to practices by name, not by Ashbury tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing in the holding voice.",
+            "No social-media presence at the parent level.",
+            "No practice consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and operate four to ten telehealth practices across primary care, mental health, dermatology, and specialty categories. Each retains its clinical leadership."
+          },
+          {
+            "name": "Shared credentialing",
+            "description": "Centralized clinician credentialing across all state licenses. Clinicians inherit access to all relevant state licenses through Ashbury's credentialing infrastructure."
+          },
+          {
+            "name": "Shared insurance contracting",
+            "description": "Centralized payer contracting across major commercial and Medicaid insurance companies. Practices inherit network access through Ashbury's contracts."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Ashbury set in a traditional book serif, with 'Telehealth Holdings' beneath in tracked small caps. Used in contracts, payer documentation, and the corporate office. Not used on consumer-facing practices.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for payer reports, credentialing documentation, and operational tables.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Sharp — precision is a form of kindness."
         ],
         "scope": "The Clinic Line Co delivers by:\n• Talk like the doctor you already know\n• Make warm jokes about the system\n• Tell the truth about what telehealth can and can't do"
+      },
+      {
+        "id": "telehealth-creative-2",
+        "brandName": "The After-Hours Co",
+        "tagline": "A telehealth practice for after the day is done.",
+        "brandDescription": "The After-Hours Co is a creative-led telehealth practice operating exclusively in evening and weekend hours, with clinicians who work the evening shift by choice.",
+        "scope": "The After-Hours Co works across:\n• Telehealth consultations between 6pm and midnight, weekdays and weekends\n• Clinicians who work evening shifts by choice and tenure\n• Plain published per-session pricing\n• Same-evening medication coordination with pharmacies\n• Annual practice-update letter to past patients",
+        "mission": "To run a telehealth practice for the hours when most clinics are closed.",
+        "vision": "A practice whose third-year evening patients refer their colleagues to the same evening clinicians.",
+        "coreValues": [
+          "Warm — the practice is open when patients need it.",
+          "Specific — every hour of operation is documented and published.",
+          "Considered — clinicians work the evening shift by choice.",
+          "Direct — the operating-hours position is the marketing."
+        ],
+        "brandNameRationale": "After-Hours is the real medical-trade term for the time outside standard clinic hours, when most primary-care offices are closed but illness and injury continue. The definite article + Co suffix follows the considered-creative trade-name school. The brand stakes a clear position around when it operates rather than what it operates.",
+        "manifesto": "Most telehealth practices operate during business hours and close at 5pm — the same hours when patients are at work. We started The After-Hours Co for the actual time when patients need care — the evenings, the weekends, the moments when the regular doctor isn't answering. The clinicians work the evening shift by choice. The practice is open when other practices are closed.",
+        "industrySummary": "Telehealth has not solved the after-hours care access problem — most telehealth practices operate during business hours. There is real space for a creative-led practice that operates exclusively in evening and weekend hours with clinicians who choose that schedule.",
+        "competitorLandscape": "K Health (khealth.com) plays the broader telehealth peer slot. Doctor on Demand (doctorondemand.com) holds the 24/7 telehealth peer position. Teladoc (teladoc.com) sits in the broad-availability peer reference. We sit further out — evening and weekend hours only, clinicians who choose the evening shift.",
+        "positioningStatement": "The After-Hours Co is a telehealth practice operating exclusively in evening and weekend hours with clinicians who work the evening shift by choice.",
+        "positioningRationale": "The brand competes on the time of operation. Every consultation is in the evening or weekend; clinicians are not pulled from daytime shifts.",
+        "targetAudience": {
+          "primary": "Working adults who experience illness or injury outside business hours and want a practice operating when they're available.",
+          "behaviors": [
+            "Work standard daytime hours and find primary care inaccessible.",
+            "Need care for illness or injury that arises in the evening or weekend.",
+            "Want a practice open when they're actually free.",
+            "Pay session fees directly."
+          ],
+          "motivations": [
+            "Want a practice that operates after work hours.",
+            "Want clinicians who work the evening shift by choice.",
+            "Want plain pricing for evening visits."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish operating hours prominently on the home page.",
+            "Reference 'evening' and 'weekend' in marketing material.",
+            "Sign post-visit summaries by the clinician's name and shift.",
+            "Confirm bookings in one evening-friendly line."
+          ],
+          "donts": [
+            "No 24/7 marketing.",
+            "No 'urgent' or 'emergency' positioning.",
+            "No daytime visit booking.",
+            "No 'always available' messaging."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Evening and weekend only",
+            "description": "The practice operates 6pm-midnight weekdays and Saturday-Sunday all day. There are no daytime appointments."
+          },
+          {
+            "name": "Evening-shift clinicians",
+            "description": "The practice's clinicians work the evening shift by choice and have done so for at least three years. They are not pulled from daytime rotations."
+          },
+          {
+            "name": "Same-evening pharmacy coordination",
+            "description": "Prescriptions and refills are coordinated with the patient's pharmacy the same evening. The patient does not wait until the next business day."
+          }
+        ],
+        "logoDirection": "A wordmark — The After-Hours Co set in a quiet display serif with a small illustration of a lamp shining in a window beside it. The mark feels printed on a heritage night-clinic sign.",
+        "colorPalette": [
+          {
+            "name": "Night",
+            "hex": "#1B2030",
+            "meaning": "Primary — the colour of the practice's evening sky.",
+            "usage": "Wordmark, marketing surfaces."
+          },
+          {
+            "name": "Lamp",
+            "hex": "#C7944A",
+            "meaning": "Secondary — the colour of an evening lamp.",
+            "usage": "Body type, signature elements."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and headings.",
+          "secondary": "A neutral grotesque for the session-booking calendar and post-visit summaries.",
+          "rationale": "Two faces. The serif is the practice; the grotesque is the schedule."
+        }
       }
     ]
   }

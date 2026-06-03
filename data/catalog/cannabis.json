@@ -76,6 +76,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "EVENING delivers by:\n• Talk about the evening, the room, the hour\n• Show the product on a real coffee table\n• Skip the youth-culture aesthetic"
+      },
+      {
+        "id": "cannabis-modern-2",
+        "brandName": "Field & Flora",
+        "tagline": "A modern cannabis brand. Cultivar-led.",
+        "brandDescription": "Field & Flora is a modern cannabis brand selling flower, pre-rolls, and live rosin organised by cultivar provenance and terpene profile.",
+        "scope": "Field & Flora works across:\n• Single-cultivar flower and pre-rolls\n• Live rosin and hash from selected harvests\n• Direct grower relationships with named cultivators\n• Quarterly harvest releases on a published calendar\n• Educational content on cannabis cultivar history",
+        "mission": "To organise modern cannabis the way modern wine is organised — by cultivar, by grower, by harvest.",
+        "vision": "A cannabis brand whose cultivar provenance is the standard reference for serious consumers.",
+        "coreValues": [
+          "Considered — the cultivator is credited.",
+          "Modern — cannabis organised the way wine is organised.",
+          "Specific — every product carries its provenance.",
+          "Warm — grower relationships span years."
+        ],
+        "brandNameRationale": "Field references the cultivation site; Flora is the botanical-trade word for the plant collection. Paired they ground the brand in agricultural and botanical vocabulary rather than recreational slang. Two-noun & paired naming follows the considered-modern cannabis school (Houseplant, Cookies' more recent direction, Beboe register).",
+        "manifesto": "Modern cannabis branding has settled into two camps — the recreational-cult brand and the wellness-aesthetic brand. We started Field & Flora because the actual interesting work in cannabis is on the cultivation side — the cultivar choices, the harvest timing, the grower relationships. The brand organises the catalog by what cultivators actually do.",
+        "industrySummary": "Modern cannabis has matured into a recognized category with regulated retail channels in multiple states. The opening is for a brand that organises the catalog by cultivar provenance and grower relationships — closer to a small wine merchant than to a retail cannabis brand.",
+        "competitorLandscape": "Houseplant (houseplant.com) holds the closest peer slot in considered modern cannabis. Beboe (beboe.com) plays the design-led peer position. Cookies (cookies.co) sits in the cultivar-led mainstream middle. Old Pal (oldpal.com) plays the value-conscious peer reference. We belong alongside Houseplant with a stronger cultivar-and-grower organisation.",
+        "positioningStatement": "Field & Flora is a modern cannabis brand organising its catalog by cultivar provenance, grower relationship, and harvest date.",
+        "positioningRationale": "We compete on catalog organisation and provenance documentation. Every product names the cultivator, the cultivar, and the harvest date.",
+        "targetAudience": {
+          "primary": "Considered cannabis consumers 28-50 who research strains, follow growers, and care about provenance.",
+          "behaviors": [
+            "Read terpene profiles before buying.",
+            "Follow specific cultivars across multiple growers.",
+            "Travel to dispensaries that stock specific cultivars.",
+            "Re-buy from the same grower across harvests."
+          ],
+          "motivations": [
+            "Want cannabis organised the way wine is organised.",
+            "Want grower-named products.",
+            "Want a brand that respects the agricultural side."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the cultivar, the grower, and the harvest date.",
+            "Publish the quarterly harvest calendar at the start of the quarter.",
+            "Reference terpene profiles by published numbers.",
+            "Sign correspondence by the grower-relations manager."
+          ],
+          "donts": [
+            "No 'lifestyle' marketing.",
+            "No celebrity collaborations.",
+            "No social-media-first launches.",
+            "No proprietary-strain naming theatre."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Cultivar provenance",
+            "description": "Every product names the cultivator (grower), the cultivar (strain), and the harvest date. Provenance is the catalog's organising principle."
+          },
+          {
+            "name": "Quarterly harvest releases",
+            "description": "Releases follow the cultivation calendar — four per year, on a published date. Between releases, the catalog is stable."
+          },
+          {
+            "name": "Grower relationships",
+            "description": "The brand maintains direct relationships with a small list of named growers. Growers are credited; relationships span years."
+          }
+        ],
+        "logoDirection": "A wordmark — Field & Flora set in a calm modern serif with a long ampersand. A small botanical illustration of a cannabis leaf with field grass sits beside the wordmark on packaging.",
+        "colorPalette": [
+          {
+            "name": "Field",
+            "hex": "#7C8A4F",
+            "meaning": "Primary — the colour of a cultivation field.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Resin",
+            "hex": "#A6843D",
+            "meaning": "Single accent — the amber of live rosin.",
+            "usage": "Section marks, the botanical illustration."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and product names.",
+          "secondary": "A book serif for the harvest notes and educational content.",
+          "rationale": "Two related serifs. The brand reads like a small wine merchant's catalog."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Halls & Bough delivers by:\n• Address the client by surname in writing\n• Name the botanical, the source, the maker\n• Send paper allocation letters"
+      },
+      {
+        "id": "cannabis-luxury-2",
+        "brandName": "The Lavender Estate",
+        "tagline": "A single-estate cannabis cultivator. Limited harvest.",
+        "brandDescription": "The Lavender Estate is a single-estate cannabis cultivator producing limited annual harvests on a small property, with a tightly capped customer mailing list.",
+        "scope": "The Lavender Estate works across:\n• Single-estate cannabis cultivation on owned land\n• Limited annual harvests, sold direct\n• Tightly capped customer mailing list (annual allocation)\n• Custom-blended pre-rolls and small-batch concentrates\n• Annual harvest reports posted to customers in print",
+        "mission": "To cultivate cannabis at the standard of a heritage single-estate winery.",
+        "vision": "An estate whose tenth annual harvest is recognised as the reference for considered single-estate cannabis.",
+        "coreValues": [
+          "Senior — the head cultivator oversees every harvest.",
+          "Discreet — allocations stay between us and the customer.",
+          "Considered — single estate, single annual harvest.",
+          "Patient — cultivation is a year's work."
+        ],
+        "brandNameRationale": "The Lavender Estate uses the definite-article + botanical-name + Estate convention common to heritage single-estate agriculture (lavender farms, vineyards, hop estates). Lavender references the botanical sister-flora — a real botanical that grows in similar climates to cannabis. The Estate suffix places the brand firmly in the heritage cultivation tradition.",
+        "manifesto": "Most premium cannabis is a brand decision; we are a cultivation decision. The Lavender Estate cultivates cannabis on a small owned property as the only product. Annual harvest. Limited allocation. The customer list is capped and grows by referral. The harvest report is posted in print to allocated customers each year.",
+        "industrySummary": "Premium cannabis has clustered around design-led packaging and celebrity endorsement. There is a quieter market for the single-estate cultivator operating in the agricultural heritage tradition — one estate, one annual harvest, allocated customer list.",
+        "competitorLandscape": "Aster Farms (asterfarms.com) holds the closest peer slot in heritage cultivation cannabis. Sonoma Hills Farm (sonomahillsfarm.com) plays the heritage estate-grown peer position. Henry's Original (henrysoriginal.com) sits in the heritage California peer slot. Frenchy Cannoli's legacy (frenchycannoli.com) is the heritage hashishin reference. We belong with Aster Farms in the small single-estate tradition.",
+        "positioningStatement": "A single-estate cannabis cultivator producing one annual harvest on a small owned property with a capped customer mailing list.",
+        "positioningRationale": "We do not extend the estate. The harvest is what the estate produces. The customer list grows only by referral when existing customers move on.",
+        "targetAudience": {
+          "primary": "Considered cannabis consumers 35-65 who buy by allocation from heritage cultivators and care about estate-grown provenance.",
+          "behaviors": [
+            "Maintain relationships with specific cultivators across years.",
+            "Buy by annual allocation rather than retail.",
+            "Care about cultivation practices and harvest dating.",
+            "Pay full estate pricing without complaint."
+          ],
+          "motivations": [
+            "Want a single-estate cultivator they can know.",
+            "Want allocated annual harvest.",
+            "Want documentation in the heritage agricultural tradition."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customers by surname.",
+            "Sign harvest reports by the head cultivator.",
+            "Reference the estate by its founding year.",
+            "Print harvest reports on heavy paper for posting."
+          ],
+          "donts": [
+            "No retail distribution.",
+            "No celebrity collaborations.",
+            "No social-media presence.",
+            "No promotional pricing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Single estate, single harvest",
+            "description": "The estate produces one annual harvest. There is no second product line and no second estate."
+          },
+          {
+            "name": "Allocated customer list",
+            "description": "The customer list is capped at the harvest's annual yield. New customers are accepted by referral when allocations move on."
+          },
+          {
+            "name": "Annual harvest report",
+            "description": "Each year customers receive a printed harvest report — the cultivation conditions, the harvest dates, the cultivar selections, the allocated quantities."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Lavender Estate set in a classical book serif with a small embossed mark depicting a stylised estate gate. The mark appears on the harvest report and on each allocated package.",
+        "colorPalette": [
+          {
+            "name": "Lavender",
+            "hex": "#9B7BBF",
+            "meaning": "Primary — the colour of the estate's botanical namesake.",
+            "usage": "Wordmark, signature elements."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Harvest reports, packaging, letterhead."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, harvest reports, and letterhead.",
+          "secondary": "An engraver's italic for the harvest year on each allocated package.",
+          "rationale": "Letterpress register throughout. The estate communicates in printed harvest reports."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "HERB delivers by:\n• Show the product, the strain, the price\n• Confirm orders in one line\n• Use plain English"
+      },
+      {
+        "id": "cannabis-minimal-2",
+        "brandName": "Trim",
+        "tagline": "A small cannabis company. Three products.",
+        "brandDescription": "Trim is a minimal cannabis company shipping three products — flower, pre-rolls, and a single concentrate — at a published fixed price with no variants.",
+        "scope": "Trim works across:\n• Three products: flower (eighth), pre-rolls (pack of five), and a single concentrate type\n• Plain published pricing per product\n• Quarterly batch releases\n• No flavored, infused, or specialty products\n• Annual single-page company report",
+        "mission": "To sell three good cannabis products plainly, on a fixed price.",
+        "vision": "A cannabis company whose 100th batch ships in the same three products as its first.",
+        "coreValues": [
+          "Plain — three products, three prices.",
+          "Direct — the menu is the product.",
+          "Considered — quarterly batches, not weekly drops."
+        ],
+        "brandNameRationale": "Trim is the real cannabis-trade word for the small leaves removed from flower buds during processing — single trade word, deeply specific to the industry. Single-word naming follows the modern minimal cannabis school (Houseplant's spirit, simplified further).",
+        "manifesto": "Modern cannabis menus have sprawled — gummies, mints, tinctures, sodas, lotions, suppositories, vape pens in twelve flavors. We made Trim because the actual core of cannabis is three products: flower, pre-rolls, concentrate. We ship those three. Nothing else.",
+        "industrySummary": "Cannabis product menus have expanded faster than customer attention. There is real space for a minimal company that strips the catalog to the three core forms and refuses to add a fourth.",
+        "competitorLandscape": "Old Pal (oldpal.com) plays the closest peer in value-minimal cannabis. Houseplant (houseplant.com) holds the considered-modern minimal slot. Henry's Original (henrysoriginal.com) sits in the simple-quality peer position. We sit further out — three products only, fixed published pricing.",
+        "positioningStatement": "Trim is a cannabis company shipping three products — flower, pre-rolls, and a single concentrate — at published fixed prices with no variants.",
+        "positioningRationale": "We strip the menu to the three core cannabis forms. No flavored products. No specialty SKUs. The three products are the work.",
+        "targetAudience": {
+          "primary": "Regular cannabis consumers who want a small reliable menu at predictable pricing.",
+          "behaviors": [
+            "Re-buy the same products week after week.",
+            "Skip the dispensary menu in favor of a small known catalog.",
+            "Care about consistency over novelty.",
+            "Want fixed pricing without dispensary markup variance."
+          ],
+          "motivations": [
+            "Want three good products at a known price.",
+            "Want a small menu they can know.",
+            "Want a company that doesn't expand into accessories."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the three products and prices on the home page.",
+            "Show one photograph per product.",
+            "Skip flavor descriptions.",
+            "Sign correspondence with the company name only."
+          ],
+          "donts": [
+            "No flavored products.",
+            "No edibles or beverages.",
+            "No accessory line.",
+            "No 'limited drop' marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Three products",
+            "description": "Flower (eighth), pre-rolls (pack of five), concentrate (single type). Three products. We do not add a fourth."
+          },
+          {
+            "name": "Fixed pricing",
+            "description": "Each product has a single published price. No tiers. No promotional pricing."
+          },
+          {
+            "name": "Quarterly batches",
+            "description": "Each product ships in quarterly batches. Batch numbers are printed on the packaging."
+          }
+        ],
+        "logoDirection": "Trim set in a neutral grotesque, all lowercase, at small scale on the packaging and the website header. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Leaf",
+            "hex": "#7C8A4F",
+            "meaning": "Single accent.",
+            "usage": "Batch-number chips, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for batch numbers.",
+          "rationale": "One typeface across the packaging, the website, and the batch chips."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Professional — a core principle the brand operates by."
         ],
         "scope": "Trellis & Co. works across:\n• Cultivation discipline\n• Compliance built in\n• One partner across the supply chain"
+      },
+      {
+        "id": "cannabis-corporate-2",
+        "brandName": "Wendover Cannabis Holdings",
+        "tagline": "Multi-brand cannabis operator, multi-state.",
+        "brandDescription": "Wendover Cannabis Holdings operates a portfolio of cannabis cultivation, manufacturing, and retail brands across multiple state markets.",
+        "scope": "Wendover Cannabis Holdings works across:\n• Multi-brand cultivation and manufacturing operations\n• Multi-state retail dispensary brands\n• Shared compliance and licensing across jurisdictions\n• Wholesale supply to independent dispensaries\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier cannabis brands that want to keep their identity and outsource the operations.",
+        "vision": "A multi-state cannabis operator whose portfolio brands grow under their own names because the operations and compliance are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — compliance and licensing run on schedule.",
+          "Reliable — predictable supply across states.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Wendover is a real American place-name common across the western United States, with a holding-company register. Cannabis Holdings follows the multi-state operator naming convention used in the cannabis industry (Trulieve, Curaleaf, Cresco Labs structure). The pair reads as an institutional operator with multi-brand, multi-state portfolio scale.",
+        "manifesto": "Wendover Cannabis Holdings owns and operates a portfolio of cannabis brands across cultivation, manufacturing, and retail categories. Each brand retains its identity, brand-team leadership, and customer relationships; we operate the shared compliance, licensing, supply chain, and back office. The buyer is a cannabis brand founder considering sale, a multi-state retailer seeking single-vendor supply relationships, or an institutional investor holding cannabis assets.",
+        "industrySummary": "Cannabis has consolidated under a small number of multi-state operators (Curaleaf, Trulieve, Cresco Labs, GTI). The opening underneath is for a regional mid-tier multi-brand operator with deep compliance operations and the procurement-grade reliability dispensary networks and institutional investors require.",
+        "competitorLandscape": "Curaleaf (curaleaf.com) is the multi-state cannabis operator reference. Trulieve (trulieve.com) holds the multi-state peer slot. Cresco Labs (crescolabs.com) sits in the multi-state mid-tier peer position. Green Thumb Industries (gtigrows.com) plays the multi-state peer reference. We belong in the regional mid-tier multi-state cannabis operator category.",
+        "positioningStatement": "Wendover Cannabis Holdings is a regional multi-state multi-brand cannabis operator running cultivation, manufacturing, retail, and shared compliance across a portfolio of brands.",
+        "positioningRationale": "We compete on shared compliance infrastructure, multi-state licensing reach, and the operational reliability brand founders and institutional investors need in a regulated industry.",
+        "targetAudience": {
+          "primary": "Cannabis brand founders considering sale, multi-state dispensary operators seeking single-vendor supply, and institutional investors holding cannabis assets.",
+          "behaviors": [
+            "Review brand unit economics and category velocity by state.",
+            "Negotiate multi-state supply and licensing agreements.",
+            "Care about compliance, regulatory clearances, and supply continuity.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared compliance across states.",
+            "Need to keep brand identity post-acquisition.",
+            "Need a single-vendor multi-brand supply relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, state footprint, and compliance record.",
+            "Speak the language of brand founders, dispensary operators, and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Wendover tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight cannabis brands across cultivation, manufacturing, and retail. Each retains its identity."
+          },
+          {
+            "name": "Shared compliance",
+            "description": "Centralized compliance and licensing operations across all state markets. Brands inherit access through Wendover's compliance infrastructure."
+          },
+          {
+            "name": "Multi-state operations",
+            "description": "Owned cultivation and manufacturing capacity across multiple states. Brands share supply chain and back office under a single operations team."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Wendover set in a traditional book serif, with 'Cannabis Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for compliance documentation, supply reports, and operational tables.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "Slow Sunday Co. delivers by:\n• Talk about the couch, the snack, the movie\n• Quote real customer evenings\n• Speak softly"
+      },
+      {
+        "id": "cannabis-creative-2",
+        "brandName": "The Quiet Cabinet Co",
+        "tagline": "A cannabis brand for the people who don't want to talk about it.",
+        "brandDescription": "The Quiet Cabinet Co is a creative-led cannabis brand designed for discreet domestic use — packaging that lives quietly in the medicine cabinet, products meant for the evening at home.",
+        "scope": "The Quiet Cabinet Co works across:\n• Pre-roll and tincture products in discreet packaging\n• Single-serving formats for predictable dosing\n• Domestic-aesthetic packaging that fits the medicine cabinet\n• Quarterly published essays on quiet domestic use\n• Subscription-based home delivery in select states",
+        "mission": "To make cannabis fit quietly into the household, without theatre.",
+        "vision": "A cannabis brand whose packaging looks at home next to the toothpaste, with no one noticing.",
+        "coreValues": [
+          "Considered — packaging respects the household.",
+          "Warm — products fit into evening domestic rituals.",
+          "Discreet — the brand does not shout.",
+          "Literary — the writing about quiet use is part of the brand."
+        ],
+        "brandNameRationale": "The Quiet Cabinet is a phrase about the household storage space for personal use — a small domestic position that the brand stakes for cannabis. The definite article + Co suffix follows the considered-creative trade-name school (The Pantry Project, The Reading Light Co). The brand argues for cannabis as a domestic, unremarkable household item.",
+        "manifesto": "Most cannabis branding shouts — the leaf, the green, the playful illustration, the bright packaging. We started The Quiet Cabinet Co because actual domestic use is the opposite of shouted. Customers want products that fit quietly in the cabinet beside the toothpaste, with single-serving formats and predictable dosing. The brand is the quiet.",
+        "industrySummary": "Cannabis branding has converged on either bright recreational or wellness-aesthetic packaging. There is real space for a creative-led brand that argues for cannabis as a quiet domestic product — discreet packaging, single-serving formats, predictable dosing.",
+        "competitorLandscape": "Dosist (dosist.com) plays the closest peer in dosed-format minimal cannabis. Beboe (beboe.com) holds the considered-aesthetic peer slot. Lord Jones (lordjones.com) sits in the wellness-aesthetic peer position. Mary's Medicinals (maryswellness.com) plays the dosed-medical reference. We sit alongside Dosist with a stronger domestic-quiet position.",
+        "positioningStatement": "The Quiet Cabinet Co is a cannabis brand designed for discreet domestic use, with single-serving formats and packaging that lives quietly in the household.",
+        "positioningRationale": "The brand competes on the domestic position. Packaging, products, and voice all argue for cannabis as an unremarkable household item.",
+        "targetAudience": {
+          "primary": "Adults 32-55 who use cannabis quietly at home and want products that fit into the household.",
+          "behaviors": [
+            "Use cannabis for sleep, evening unwinding, or quiet domestic moments.",
+            "Care about packaging aesthetics matching their home.",
+            "Want single-serving formats for predictable dosing.",
+            "Prefer discretion over conversation about use."
+          ],
+          "motivations": [
+            "Want cannabis that fits quietly into the household.",
+            "Want predictable single-serving dosing.",
+            "Want a brand that doesn't shout."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Warm",
+          "Discreet",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph products in domestic settings — the cabinet, the nightstand, the kitchen drawer.",
+            "Publish the quarterly essay on quiet domestic use.",
+            "Describe products by use moment, not by recreational language.",
+            "Sign correspondence by the founder."
+          ],
+          "donts": [
+            "No leaf iconography.",
+            "No bright colors.",
+            "No recreational slang.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Domestic packaging",
+            "description": "Every product is packaged to fit quietly in the household — small format, neutral palette, materials that read as personal care rather than recreational."
+          },
+          {
+            "name": "Single-serving formats",
+            "description": "Products are formatted in single servings with predictable dosing. The customer knows what they're getting every time."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "Once a quarter the brand publishes a long-form essay on quiet domestic cannabis use — context, ritual, history. The essay is the marketing."
+          }
+        ],
+        "logoDirection": "A wordmark — The Quiet Cabinet Co set in a quiet display serif with a small illustration of a cabinet door beside it. The mark feels printed on a heritage household-goods catalog.",
+        "colorPalette": [
+          {
+            "name": "Sage",
+            "hex": "#A8B8A0",
+            "meaning": "Primary — the colour of a quiet domestic interior.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Walnut",
+            "hex": "#3D2A1C",
+            "meaning": "Secondary.",
+            "usage": "Body type, the cabinet illustration."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A book serif for product descriptions and household-context writing.",
+          "rationale": "The brand reads like a small heritage household publication. Both faces are quiet."
+        }
       }
     ]
   }
