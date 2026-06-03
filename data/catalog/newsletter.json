@@ -76,6 +76,101 @@
           "Quiet — restraint is the loudest thing in a noisy room."
         ],
         "scope": "Periodical & Co delivers by:\n• Write like a writer, not a content marketer\n• Show the publishing schedule and the unsubscribe link clearly\n• Speak to the reader as a reader"
+      },
+      {
+        "id": "newsletter-modern-2",
+        "brandName": "Quarto Weekly",
+        "tagline": "A modern weekly. Four pages.",
+        "brandDescription": "Quarto Weekly is a modern subscription newsletter publishing one four-page weekly issue across general interest, current affairs, and culture.",
+        "scope": "Quarto Weekly works across:\n• A single four-page weekly issue, every Tuesday\n• Paid subscription with annual and monthly pricing\n• Limited free archive (latest issue free for 24 hours)\n• Annual print compilation for paying subscribers\n• Subscriber-only quarterly events in three cities",
+        "mission": "To publish one well-edited weekly that a subscriber can actually finish.",
+        "vision": "A newsletter whose annual print compilation in 2035 reads as a record of the decade.",
+        "coreValues": [
+          "Considered — every issue is edited to a published page count.",
+          "Modern — print discipline applied to a digital format.",
+          "Direct — the editor's note is the editor's voice.",
+          "Warm — subscribers are readers, not metrics."
+        ],
+        "brandNameRationale": "Quarto is the historical printing-and-publishing term for a book or magazine format made by folding a sheet into four leaves (eight pages) — single archaic publishing word, deeply specific to print tradition. Weekly is the cadence suffix. Stands in the lineage of trade-vocabulary newsletter naming (Periodical, Folio, Recto).",
+        "manifesto": "Most newsletters grow into platforms. Daily emails, podcasts, video, courses, communities. We started Quarto Weekly to do one thing well — a four-page weekly issue published every Tuesday morning. The newsletter is the work. The subscription is the relationship.",
+        "industrySummary": "Modern subscription newsletters have matured into a recognized category around individual writers (Substack publishers) and small editorial teams (The Information, Lenny's Newsletter). The opening is for a publication with a clear weekly format and a print-publishing register.",
+        "competitorLandscape": "The Information (theinformation.com) is the closest peer in considered weekly publishing. Stratechery (stratechery.com) holds the single-writer-weekly slot. Lenny's Newsletter (lennysnewsletter.com) plays in the considered-creator middle. Defector (defector.com) sits in the journalist-collective peer position. We belong alongside The Information with a tighter format and a print-tradition register.",
+        "positioningStatement": "Quarto Weekly is a four-page weekly subscription newsletter published every Tuesday across general interest, current affairs, and culture.",
+        "positioningRationale": "We compete on format discipline. The four-page weekly format is the product; the subscription is the relationship.",
+        "targetAudience": {
+          "primary": "Subscribers 28-55 who read substantial weekly publications and pay for editorial work.",
+          "behaviors": [
+            "Subscribe to two to five paid newsletters.",
+            "Print or save longer pieces to read away from screens.",
+            "Attend reader events when offered.",
+            "Re-subscribe annually."
+          ],
+          "motivations": [
+            "Want a weekly they can actually finish.",
+            "Want a publication with a clear editorial voice.",
+            "Want a print compilation at the end of the year."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the week's editor's note.",
+            "Publish at the same time every Tuesday.",
+            "Sign features by the writer's name.",
+            "Print the annual compilation in a heavy-paper format."
+          ],
+          "donts": [
+            "No daily emails.",
+            "No podcast spin-off.",
+            "No 'thought leadership' content.",
+            "No social-media-first publication."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Four pages, weekly",
+            "description": "Every Tuesday the newsletter publishes one issue at four pages. The format is the discipline. The page count does not grow."
+          },
+          {
+            "name": "Annual print compilation",
+            "description": "Once a year the newsletter publishes a printed compilation of the year's issues, sent to active subscribers in December."
+          },
+          {
+            "name": "Subscriber events",
+            "description": "Quarterly subscriber events in three cities — readings, conversations, and small dinners. The events are the relationship."
+          }
+        ],
+        "logoDirection": "A wordmark — Quarto Weekly set in a calm modern serif with a small horizontal rule beneath, suggesting the page's edge. The mark appears on the weekly masthead.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Primary — the colour of the issue page.",
+            "usage": "Marketing, the issue itself."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Mark",
+            "hex": "#7E2B1F",
+            "meaning": "Single accent.",
+            "usage": "Section markers, the masthead rule."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and issue headlines.",
+          "secondary": "A book serif for the issue body and features.",
+          "rationale": "Two related serifs. The newsletter reads like a careful weekly publication."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "The Despatch delivers by:\n• Address the subscriber by surname\n• Write long-form essays without web-style headlines\n• Send a paper supplement once a year"
+      },
+      {
+        "id": "newsletter-luxury-2",
+        "brandName": "The Saturday Letter",
+        "tagline": "A weekly letter to readers, posted in print.",
+        "brandDescription": "The Saturday Letter is a heritage weekly newsletter, written by the founder and posted in print to subscribers, with a small online archive available only to active subscribers.",
+        "scope": "The Saturday Letter works across:\n• A single eight-page weekly letter, posted to subscribers in print\n• A small online archive available only to active subscribers\n• Limited annual subscription with a published cap (12,000 readers)\n• Annual subscriber gathering in London and New York\n• Bound annual volumes available to long-tenure subscribers",
+        "mission": "To write one letter a week, to a small circle of readers, in the tradition of the personal weekly essay.",
+        "vision": "A letter whose 50-year volume bound set is on the shelves of the libraries it's quoted in.",
+        "coreValues": [
+          "Senior — the founder writes every letter.",
+          "Discreet — readers are not metrics.",
+          "Considered — one letter a week, written carefully.",
+          "Warm — subscribers are part of a circle, not a database."
+        ],
+        "brandNameRationale": "The Saturday Letter uses the definite-article + day + Letter convention common to long-form epistolary publications (The Saturday Review, The New York Review of Books spirit translated to a single weekly letter). The format places the brand firmly in the heritage essayist tradition rather than the modern newsletter cohort.",
+        "manifesto": "Most modern newsletters are sent by email. The Saturday Letter is posted to subscribers in print every Friday so they arrive Saturday morning. The letter is written by the founder. The circle of readers is capped at twelve thousand. The relationship is the letter; the letter is the work.",
+        "industrySummary": "Premium publishing has a quiet tradition of long-form essayist newsletters posted in print (The Spectator's Saturday Notebook, The London Letter tradition). There is space for a modern publication operating in the same heritage register — print-posted, weekly, single-author, capped subscription.",
+        "competitorLandscape": "The London Review of Books (lrb.co.uk) holds the heritage long-form essayist reference. The New York Review of Books (nybooks.com) sits in the heritage essay-publication peer slot. The Saturday Paper (thesaturdaypaper.com.au) plays the modern heritage-format peer position. Letter (letter.wiki) plays in the modern single-author peer space. We belong with The London Review of Books in the heritage essayist tradition, in a smaller scale.",
+        "positioningStatement": "The Saturday Letter is a heritage weekly essay newsletter, written by the founder, posted in print to a capped circle of twelve thousand subscribers.",
+        "positioningRationale": "We do not extend the readership beyond the cap. The subscription is closed when the cap is reached and only opens when subscribers move on.",
+        "targetAudience": {
+          "primary": "Long-form readers 40-75 who keep printed publications and read essays at length.",
+          "behaviors": [
+            "Subscribe to printed publications and weekly essays.",
+            "Attend small literary salons and gatherings.",
+            "Keep bound volumes of publications they value.",
+            "Pass subscriptions to children or trusted recipients."
+          ],
+          "motivations": [
+            "Want a printed weekly letter posted to their address.",
+            "Want a single-author voice they can follow across years.",
+            "Want a small circle of readers."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address subscribers by surname.",
+            "Sign every letter by the founder.",
+            "Reference the founder's previous letters by week and year.",
+            "Print every letter on heavy paper."
+          ],
+          "donts": [
+            "No email distribution.",
+            "No social-media presence beyond a single subscriber-only archive.",
+            "No promotional pricing.",
+            "No co-branded letters."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Posted in print",
+            "description": "Every letter is printed and posted to subscribers in print every Friday. The letter arrives Saturday morning by post."
+          },
+          {
+            "name": "Capped readership",
+            "description": "The subscription is capped at twelve thousand readers. When the cap is reached, the subscription closes until existing subscribers move on."
+          },
+          {
+            "name": "Annual gathering",
+            "description": "Once a year the founder hosts a subscriber gathering in London and New York. Attendance is by invitation; the gathering is part of the subscription."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Saturday Letter set in a classical book serif with a small embossed mark depicting a stylised letterhead. The mark appears on each printed letter and the wax seal of the envelope.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the printed letter.",
+            "usage": "Letterhead, marketing."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Wax",
+            "hex": "#5C1F1F",
+            "meaning": "Single accent.",
+            "usage": "The wax seal, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, letter body, and letterhead.",
+          "secondary": "An engraver's italic for the founder's signature on each letter.",
+          "rationale": "Letterpress register throughout. The letter reads like a private weekly publication in the heritage essayist tradition."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "LETTER delivers by:\n• Send one letter a week\n• Use plain English\n• Show the unsubscribe link clearly"
+      },
+      {
+        "id": "newsletter-minimal-2",
+        "brandName": "Recto",
+        "tagline": "A short newsletter. One page.",
+        "brandDescription": "Recto is a minimal weekly newsletter publishing one single-page issue per week, with no archive, no podcast spinoff, and no print compilation.",
+        "scope": "Recto works across:\n• One single-page weekly issue, published Tuesdays\n• No archive: previous issues are not available\n• Plain published subscription price\n• Email distribution only\n• Annual single-page summary of the year",
+        "mission": "To publish one page, one time, every week.",
+        "vision": "A newsletter that publishes its 500th issue without growing past one page.",
+        "coreValues": [
+          "Plain — one page, one issue, one price.",
+          "Direct — the writing has to stand alone.",
+          "Considered — the constraint is the discipline."
+        ],
+        "brandNameRationale": "Recto is the printing-and-publishing term for the right-hand page in an open book — the page the eye reads first. Single archaic publishing word, deeply specific to print tradition. Single-word naming follows the modern minimal newsletter school (Folio, Periodical, Quarto register).",
+        "manifesto": "Most newsletters grow. We made Recto because the actual best newsletter is short and read once. One page. One time. No archive — if you missed it, you missed it. The discipline is the product.",
+        "industrySummary": "Most subscription newsletters maintain archives and offer multiple length formats. There is real space for a minimal newsletter that explicitly publishes once and refuses to keep an archive — closer in spirit to a daily newspaper than to a content platform.",
+        "competitorLandscape": "The Sample (thesample.ai) plays the closest peer in single-issue distribution. Most paid newsletters maintain archives. Substack's standard model holds the platform peer slot. We sit further out — no archive, single page, single subscription price.",
+        "positioningStatement": "Recto is a weekly single-page newsletter with no archive and a single published subscription price.",
+        "positioningRationale": "We strip the publication surface. One page. One time. No archive. No tier system.",
+        "targetAudience": {
+          "primary": "Readers who want one short weekly piece and don't return to archives.",
+          "behaviors": [
+            "Read newsletters in the moment they arrive.",
+            "Skip publications with overwhelming archives.",
+            "Want a short piece they can finish in five minutes.",
+            "Subscribe to fewer, more focused newsletters."
+          ],
+          "motivations": [
+            "Want a short, regular newsletter.",
+            "Want no pressure to catch up on missed issues.",
+            "Want a publication that respects the reader's time."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish at the same time every Tuesday.",
+            "Keep every issue to one page.",
+            "Confirm subscriptions in one line.",
+            "Sign every issue by the writer."
+          ],
+          "donts": [
+            "No archive.",
+            "No 'best of' compilation.",
+            "No podcast or video spinoff.",
+            "No tiered subscription model."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One page",
+            "description": "Every issue is one page. The page count is the constraint that shapes the writing."
+          },
+          {
+            "name": "No archive",
+            "description": "Past issues are not available. If you missed it, you missed it. The discipline forces the writing to stand alone."
+          },
+          {
+            "name": "One price",
+            "description": "Single published subscription price. No tiers, no annual discounts, no founder editions."
+          }
+        ],
+        "logoDirection": "Recto set in a neutral grotesque, all lowercase, at small scale on the email masthead. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Mark",
+            "hex": "#3D5BFF",
+            "meaning": "Single accent.",
+            "usage": "Section indicators in the email body."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "A book serif for the issue body.",
+          "rationale": "Two faces. The grotesque is the masthead; the serif is the reading."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Editor & Co. works across:\n• Editorial discipline\n• Owned audience growth\n• One partner across editorial and operations"
+      },
+      {
+        "id": "newsletter-corporate-2",
+        "brandName": "Ashfield Media Group",
+        "tagline": "Multi-publication newsletter operator, mid-market.",
+        "brandDescription": "Ashfield Media Group operates a portfolio of subscription newsletter publications across business, finance, technology, and culture categories.",
+        "scope": "Ashfield Media Group works across:\n• Multi-publication newsletter operations\n• Shared subscription infrastructure and customer service\n• Enterprise contracting and bulk-licensing\n• Shared editorial-services backbone\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier subscription newsletter publications that want to keep their editorial identity and outsource the operations.",
+        "vision": "A multi-publication newsletter operator whose subscribers move between titles within the portfolio for different topics and reading registers.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — subscriptions, billing, and customer service run on schedule.",
+          "Reliable — predictable subscription renewals across the portfolio.",
+          "Discreet — publication relationships stay private."
+        ],
+        "brandNameRationale": "Ashfield is a real English place-name with a media-and-publishing register. Media Group follows the multi-publication operator naming convention used in publishing (DotDash Meredith, Forbes Media, Penske Media structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Ashfield Media Group owns and operates a portfolio of subscription newsletter publications. Each publication retains its editorial identity, masthead, and subscriber relationship; we operate the shared subscription infrastructure, customer service, enterprise contracting, and back office. The buyer is a publication founder considering sale, an enterprise consolidating media subscriptions, or an institutional investor holding media assets.",
+        "industrySummary": "Subscription newsletter publishing has matured into a recognized category and is consolidating under a small number of multi-publication operators (Industry Dive acquired by Informa, Workweek, Morning Brew within Business Insider). The opening is for a regional mid-tier multi-publication operator with deep subscription infrastructure and the procurement-grade reliability enterprise subscribers require.",
+        "competitorLandscape": "Industry Dive (industrydive.com) is the multi-publication B2B reference. Workweek (workweek.com) holds the multi-creator peer slot. Morning Brew (morningbrew.com) sits in the multi-newsletter consumer peer position. Defector Media (defector.com) plays the journalist-collective peer reference. We belong in the regional mid-tier multi-publication newsletter operator category.",
+        "positioningStatement": "Ashfield Media Group is a regional multi-publication newsletter operator running subscription infrastructure, enterprise contracting, and shared editorial-services across a portfolio of independent newsletter publications.",
+        "positioningRationale": "We compete on shared subscription infrastructure, enterprise contracting reach, and the operational reliability publication founders need without giving up editorial direction.",
+        "targetAudience": {
+          "primary": "Newsletter publication founders considering sale, enterprise media-procurement leads consolidating subscriptions, and institutional investors holding media assets.",
+          "behaviors": [
+            "Review publication unit economics and subscriber cohort retention.",
+            "Negotiate multi-year enterprise license and bulk-subscription agreements.",
+            "Care about subscription renewal rates, editorial-team retention, and category coverage.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with strong subscription infrastructure.",
+            "Need to keep publication identity and editorial direction post-acquisition.",
+            "Need shared enterprise contracting and customer service."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with publication portfolio, subscriber count, and renewal rates.",
+            "Speak the language of publication founders, CFOs, and enterprise procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to publications by name, not by Ashfield tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social-media presence at the parent level.",
+            "No publication consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-publication operator",
+            "description": "We own and partner with four to eight subscription newsletter publications across business, finance, technology, and culture. Each retains its editorial identity."
+          },
+          {
+            "name": "Shared subscription infrastructure",
+            "description": "Single subscription, billing, and customer-service operation across the portfolio. Publication editors focus on editorial; we run the back office."
+          },
+          {
+            "name": "Enterprise contracting",
+            "description": "Centralized enterprise license and bulk-subscription contracting across the portfolio. Enterprise subscribers inherit access across publications through a single contract."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Ashfield set in a traditional book serif, with 'Media Group' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing publications.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and subscription tables.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Witty — a core principle the brand operates by."
         ],
         "scope": "The Margins Newsletter delivers by:\n• Make jokes about the open rate\n• Quote real subject lines that worked\n• Talk like the writer who has the dashboard open"
+      },
+      {
+        "id": "newsletter-creative-2",
+        "brandName": "The Press Sheet Co",
+        "tagline": "A newsletter that ships in print, before email.",
+        "brandDescription": "The Press Sheet Co is a creative-led newsletter publication that prints a small letterpress-set broadsheet every month and posts it to subscribers, with email distribution as a secondary channel.",
+        "scope": "The Press Sheet Co works across:\n• Monthly printed letterpress broadsheet, posted to subscribers\n• Secondary email distribution of the issue 14 days after print posting\n• Subscriber-only access to the small in-house letterpress workshop\n• Annual bound volume of all twelve issues\n• Subscriber-only quarterly events at the press itself",
+        "mission": "To restore the printed press sheet as a primary publication object, set on a working letterpress.",
+        "vision": "A small press whose 100th issue in 2034 is set on the same equipment as its first.",
+        "coreValues": [
+          "Literary — the printed page is the publication.",
+          "Specific — every issue documents its type, paper, and ink.",
+          "Warm — subscribers visit the press.",
+          "Considered — letterpress is the standard, not the gimmick."
+        ],
+        "brandNameRationale": "Press Sheet is the printer's trade name for a single sheet pulled from the printing press — the foundational unit of letterpress and offset printing. The definite article + Co suffix follows the considered-creative trade-name school (The Darkroom Co, The Lavalier Co). Stands in the lineage of declarative print-tradition brands.",
+        "manifesto": "Most modern newsletters ship in email and print as an afterthought. We started The Press Sheet Co to invert the order. Every issue is set on our working letterpress, printed onto a single broadsheet sheet, and posted to subscribers. The email arrives two weeks later as a transcription, not the primary publication. The press is the product.",
+        "industrySummary": "Letterpress printing has a small but committed audience and is rarely used as the primary publication medium for a subscription newsletter. There is real space for a creative-led publication that uses letterpress as the primary medium and treats email as the secondary distribution.",
+        "competitorLandscape": "The Saturday Paper (thesaturdaypaper.com.au) plays the closest peer in printed weekly publication. The Stinging Fly (stingingfly.org) holds the small-press literary peer slot. McSweeney's Quarterly (mcsweeneys.net) sits in the heritage-design publication peer position. The Marginalian (themarginalian.org) plays the digital-essayist peer reference. We sit further out with letterpress as the primary medium.",
+        "positioningStatement": "The Press Sheet Co is a monthly letterpress-printed newsletter posted to subscribers in print, with email distribution as a secondary channel.",
+        "positioningRationale": "The brand competes on the medium. Letterpress is the primary publication; the email is the transcription. The press is the marketing.",
+        "targetAudience": {
+          "primary": "Subscribers 30-60 who collect printed publications and care about typography, printing tradition, and physical media.",
+          "behaviors": [
+            "Subscribe to small-press publications.",
+            "Visit print shops, type foundries, and binderies.",
+            "Display printed broadsheets and posters at home.",
+            "Pay full subscription rates for printed media."
+          ],
+          "motivations": [
+            "Want a printed broadsheet posted to their door.",
+            "Want a publication set on a working press.",
+            "Want access to the press as part of the subscription."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Specific",
+          "Warm",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print every issue on the press first.",
+            "Photograph the press, the type, and the working room in marketing material.",
+            "Reference the typeface and the paper stock on every issue's masthead.",
+            "Sign correspondence by the printer-editor."
+          ],
+          "donts": [
+            "No email-first publication.",
+            "No social-media-first content.",
+            "No digital-only issues.",
+            "No platform extensions."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Letterpress-printed",
+            "description": "Every issue is set, locked up, and printed on the press in the working room. The press is the publication."
+          },
+          {
+            "name": "Posted to subscribers",
+            "description": "The printed broadsheet is posted to subscribers worldwide. The email transcription arrives 14 days later."
+          },
+          {
+            "name": "Subscriber access to the press",
+            "description": "Subscribers are invited to visit the working press at quarterly events. The press is part of the subscription."
+          }
+        ],
+        "logoDirection": "A wordmark — The Press Sheet Co set in a typeface from the working press's own type cabinet, printed letterpress on every issue. The mark changes texture from issue to issue based on the type and inking.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F0EBD8",
+            "meaning": "Primary — the colour of letterpress paper.",
+            "usage": "Broadsheet, marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type — the colour of letterpress ink.",
+            "usage": "All copy on the broadsheet."
+          },
+          {
+            "name": "Stamp",
+            "hex": "#7E2B1F",
+            "meaning": "Single accent — the colour of the workshop's signature ink.",
+            "usage": "Section markers, masthead seal."
+          }
+        ],
+        "typography": {
+          "primary": "Foundry type from the working press, set by hand for every issue.",
+          "secondary": "A digital book serif for the email transcription.",
+          "rationale": "The broadsheet uses real foundry metal type; the email transcription matches the metal-type proportions as closely as possible."
+        }
       }
     ]
   }
