@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "Musicians at the small-label stage of their career. Listeners who follow labels as much as artists. Reads Pitchfork and Loud and Quiet weekly."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Quiet"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Quiet"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the catalog clearly",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. SIDE A in a tight modern grotesk, all caps, two words on one line with a small period after A. A standalone A-with-period mark used as the catalog sticker on every record sleeve.",
         "colorPalette": [
-          {"name": "Vinyl Black", "hex": "#101012", "meaning": "Record matte black.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Label White", "hex": "#F4F1EA", "meaning": "Old paper label. Used as space.", "usage": "Backgrounds, paper, web body"},
-          {"name": "Signal Orange", "hex": "#FF6A2A", "meaning": "Inner sleeve color. The single accent.", "usage": "Highlights, web headlines, sale signage"}
+          {
+            "name": "Vinyl Black",
+            "hex": "#101012",
+            "meaning": "Record matte black.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Label White",
+            "hex": "#F4F1EA",
+            "meaning": "Old paper label. Used as space.",
+            "usage": "Backgrounds, paper, web body"
+          },
+          {
+            "name": "Signal Orange",
+            "hex": "#FF6A2A",
+            "meaning": "Inner sleeve color. The single accent.",
+            "usage": "Highlights, web headlines, sale signage"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark and album titles",
@@ -37,20 +57,25 @@
           "rationale": "One family. The mono carries the track times, credits, and catalog numbers. The regular carries the brand and the album titles."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No major-label distribution deals. No Spotify-playlist gaming. No 'sync' as the primary revenue strategy. No artist-development contracts that lock the artist for ten years."},
-          {"title": "Where it lives", "body": "Physical records (vinyl, cassette) shipped with a printed insert. Digital downloads delivered with the same insert as a PDF. A bi-monthly printed catalog mailed to subscribers. A small year-end party in the label's city."}
+          {
+            "title": "What it doesn't do",
+            "body": "No major-label distribution deals. No Spotify-playlist gaming. No 'sync' as the primary revenue strategy. No artist-development contracts that lock the artist for ten years."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Physical records (vinyl, cassette) shipped with a printed insert. Digital downloads delivered with the same insert as a PDF. A bi-monthly printed catalog mailed to subscribers. A small year-end party in the label's city."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who listens to this",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "An independent label that releases the album the artist would have made anyway.",
+        "mission": "To build an independent label that releases the album the artist would have made anyway.",
+        "vision": "The successful labels look like product companies with editorial taste, releasing fewer artists more carefully.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Direct — we say what we mean without softening it.",
+          "Quiet — restraint is the loudest thing in a noisy room."
+        ],
+        "scope": "SIDE A delivers by:\n• Show the catalog clearly\n• Talk about the music\n• Speak to the listener and the musician at once"
       }
     ],
     "Luxury": [
@@ -65,7 +90,13 @@
         "targetAudience": {
           "primary": "Adults who buy music on physical formats. Subscribers to The Wire, Loud and Quiet, or Wax Poetics. Listeners who collect a label more than they collect an artist. Often work in design, architecture, or other adjacent disciplines."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Considered", "Heritage"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Considered",
+          "Heritage"
+        ],
         "voiceAndTone": {
           "dos": [
             "Write release notes like editorial essays",
@@ -80,10 +111,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn archway-shaped hallmark, used on the spine of every record sleeve, the catalog booklet, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Bookbinding leather, the spine of an old volume.", "usage": "Primary brand color, sleeves, signage"},
-          {"name": "Cream Stock", "hex": "#EFE9DB", "meaning": "Hand-laid paper. The booklet pages.", "usage": "Stationery, booklets, paper"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Aged metal, the catalog imprint.", "usage": "Foil, hallmark, accents"},
-          {"name": "Ink", "hex": "#1A1A1B", "meaning": "Type.", "usage": "Body, credits, structural elements"}
+          {
+            "name": "Library Green",
+            "hex": "#1E3A30",
+            "meaning": "Bookbinding leather, the spine of an old volume.",
+            "usage": "Primary brand color, sleeves, signage"
+          },
+          {
+            "name": "Cream Stock",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper. The booklet pages.",
+            "usage": "Stationery, booklets, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal, the catalog imprint.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1B",
+            "meaning": "Type.",
+            "usage": "Body, credits, structural elements"
+          }
         ],
         "typography": {
           "primary": "Canela Text for the wordmark and album titles",
@@ -91,20 +142,22 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the credits and the digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No catalog acquisition strategy. No sync-licensing as primary revenue. No social media manager. No streaming-playlist relationships."}
+          {
+            "title": "What it doesn't do",
+            "body": "No catalog acquisition strategy. No sync-licensing as primary revenue. No social media manager. No streaming-playlist relationships."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who listens",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A label that releases recordings as if they were books.",
+        "mission": "To build a label that releases recordings as if they were books.",
+        "vision": "The customer is paying for the recording, the pressing, the booklet, and the long relationship with the label.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones.",
+          "Discreet — what happens in the room stays in the room.",
+          "Considered — we choose fewer things, more carefully.",
+          "Heritage — a core principle the brand operates by."
+        ],
+        "scope": "Atrium Records delivers by:\n• Write release notes like editorial essays\n• Print the credits with care\n• Speak in the language of the music"
       }
     ],
     "Minimal": [
@@ -118,7 +171,12 @@
         "targetAudience": {
           "primary": "Music collectors who already own a turntable. They want to buy the record, hold it, and play it. They don't need a Spotify link."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Patient", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Patient",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the pressing details",
@@ -133,9 +191,24 @@
         },
         "logoDirection": "A wordmark only. RECORD in a single weight grotesk, wide kerned, all caps. No icon. The label on the center of every record is the wordmark, the catalog number, and the side indicator. That's the whole identity system.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, sleeves, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, sleeves, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,19 +216,21 @@
           "rationale": "One face. The record label, the sleeve, and the receipt all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No streaming releases. No social media. No newsletter. No tour announcements. No artist photos in the catalog."}
+          {
+            "title": "Not this",
+            "body": "No streaming releases. No social media. No newsletter. No tour announcements. No artist photos in the catalog."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who buys this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A label that releases only on vinyl, with no streaming presence.",
+        "mission": "To build a label that releases only on vinyl, with no streaming presence.",
+        "vision": "There's an opening for a label that releases only physical records and ignores the rest.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "RECORD delivers by:\n• Show the pressing details\n• Show the catalog number\n• Confirm orders with one short message"
       }
     ],
     "Corporate": [
@@ -175,7 +250,13 @@
             "Sync and licensing infrastructure without majors-style oversight"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the portfolio",
@@ -189,16 +270,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Portfolio approach", "description": "Multiple catalogs and artist services lines under one operating group, each maintaining its own identity."},
-          {"name": "Long-term capital", "description": "Catalogs held for decades. Founders and estate representatives retain creative and editorial authority over the catalogs they sell to us."},
-          {"name": "Operational depth", "description": "Royalty administration, sync, publishing, and rights enforcement under one organization, with technology investments that the majors are slow to make."}
+          {
+            "name": "Portfolio approach",
+            "description": "Multiple catalogs and artist services lines under one operating group, each maintaining its own identity."
+          },
+          {
+            "name": "Long-term capital",
+            "description": "Catalogs held for decades. Founders and estate representatives retain creative and editorial authority over the catalogs they sell to us."
+          },
+          {
+            "name": "Operational depth",
+            "description": "Royalty administration, sync, publishing, and rights enforcement under one organization, with technology investments that the majors are slow to make."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single fermata symbol reduced to two strokes, suggesting held music. Reads cleanly on a quarterly investor deck, a contract folder, and a B2B trade show booth.",
         "colorPalette": [
-          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, capital, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, reports, slides"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Music industry accent, the brass of a horn.", "usage": "Foil on B2B documents, accent"}
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, capital, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, reports, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Music industry accent, the brass of a horn.",
+            "usage": "Foil on B2B documents, accent"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -206,20 +316,22 @@
           "rationale": "Inter scales clean across digital. The serif handles formal annual reports and printed investor materials."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No direct-to-consumer streaming. No retail records under the parent brand. No artist-roster marketing on social media. The holding company is not a brand for listeners."}
+          {
+            "title": "What it doesn't do",
+            "body": "No direct-to-consumer streaming. No retail records under the parent brand. No artist-roster marketing on social media. The holding company is not a brand for listeners."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who we work with",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "A music rights holding company building a portfolio of contemporary catalogs and artist services.",
+        "mission": "Independent labels, songwriter estates, and artist catalogs need scale partners that won't bury them inside a major. We sit between the majors and the boutique advisors, with the operational discipline a serious investor needs.",
+        "vision": "The opening is a structured mid-size firm focused on the contemporary catalog tier.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Strategic — a core principle the brand operates by."
+        ],
+        "scope": "Aria Music Group works across:\n• Portfolio approach\n• Long-term capital\n• Operational depth"
       }
     ],
     "Creative": [
@@ -234,7 +346,13 @@
         "targetAudience": {
           "primary": "20s and 30s. Already follows three indie labels. Buys records on Bandcamp. Wears the merch. Tells friends about the B sides specifically."
         },
-        "brandPersonalityTraits": ["Loud", "Sharp", "Confident", "Warm", "Opinionated"],
+        "brandPersonalityTraits": [
+          "Loud",
+          "Sharp",
+          "Confident",
+          "Warm",
+          "Opinionated"
+        ],
         "voiceAndTone": {
           "dos": [
             "Promote the deep cut",
@@ -249,11 +367,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the B set in a slightly thicker stroke, suggesting the cult side of the record. Standalone B icon for stickers, social profiles, and the back of every record sleeve.",
         "colorPalette": [
-          {"name": "B Side Red", "hex": "#D72638", "meaning": "Loud, warm, the cult side.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Vinyl Black", "hex": "#0E0E10", "meaning": "Anchor, the record itself.", "usage": "Body type, sleeves, dark surfaces"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Sticker accent.", "usage": "Highlights, social, swag"},
-          {"name": "Cobalt", "hex": "#1B4A8B", "meaning": "Secondary accent.", "usage": "Secondary sleeves, social"}
+          {
+            "name": "B Side Red",
+            "hex": "#D72638",
+            "meaning": "Loud, warm, the cult side.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Vinyl Black",
+            "hex": "#0E0E10",
+            "meaning": "Anchor, the record itself.",
+            "usage": "Body type, sleeves, dark surfaces"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Sticker accent.",
+            "usage": "Highlights, social, swag"
+          },
+          {
+            "name": "Cobalt",
+            "hex": "#1B4A8B",
+            "meaning": "Secondary accent.",
+            "usage": "Secondary sleeves, social"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,22 +404,26 @@
           "rationale": "Migra has personality. Neue Montreal handles the credits. The pair feels designed and a little defiant."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a streaming-first label. Not a chart label. Not afraid of red. Not too cool to make a joke about itself."},
-          {"title": "Where it lives", "body": "Records shipped with a sticker, a printed insert, and a hand-numbered card. A small in-person showcase the first Friday of every month. A monthly newsletter with the artists' actual emails included. Hoodies that say B SIDE in across the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not a streaming-first label. Not a chart label. Not afraid of red. Not too cool to make a joke about itself."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Records shipped with a sticker, a printed insert, and a hand-numbered card. A small in-person showcase the first Friday of every month. A monthly newsletter with the artists' actual emails included. Hoodies that say B SIDE in across the back."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who listens to this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "An indie label for artists whose B sides outlast their singles.",
+        "mission": "To build an indie label for artists whose B sides outlast their singles.",
+        "vision": "There's room for a label that's loud, opinionated, sticker-friendly, and still releases music that holds up in twenty years.",
+        "coreValues": [
+          "Loud — a core principle the brand operates by.",
+          "Sharp — precision is a form of kindness.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Warm — we are friendly, not formal.",
+          "Opinionated — a clear point of view is the point."
+        ],
+        "scope": "B SIDE delivers by:\n• Promote the deep cut\n• Make jokes about the music industry\n• Quote real listener responses"
       }
     ]
   }

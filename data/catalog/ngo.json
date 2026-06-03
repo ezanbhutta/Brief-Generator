@@ -13,7 +13,12 @@
         "targetAudience": {
           "primary": "30 to 55. Already gives to two or three nonprofits annually. Reads charity-evaluator sites. Values transparency on overhead and program outcomes. Will become a recurring donor if the program work is visible."
         },
-        "brandPersonalityTraits": ["Direct", "Warm", "Considered", "Honest"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Warm",
+          "Considered",
+          "Honest"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the program work first",
@@ -28,9 +33,24 @@
         },
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is two thin parallel arcs suggesting open palms, used as the favicon, the donation receipt seal, and the program-report cover.",
         "colorPalette": [
-          {"name": "Open Black", "hex": "#101012", "meaning": "Ink, the work on the page.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Bone", "hex": "#F4F1EA", "meaning": "Used as space.", "usage": "Backgrounds, paper, web body"},
-          {"name": "Give Green", "hex": "#3E8E5A", "meaning": "Growth, fund delivered.", "usage": "Donation CTA, charts, accent"}
+          {
+            "name": "Open Black",
+            "hex": "#101012",
+            "meaning": "Ink, the work on the page.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F1EA",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, web body"
+          },
+          {
+            "name": "Give Green",
+            "hex": "#3E8E5A",
+            "meaning": "Growth, fund delivered.",
+            "usage": "Donation CTA, charts, accent"
+          }
         ],
         "typography": {
           "primary": "Inter for the website and donation flow",
@@ -38,20 +58,25 @@
           "rationale": "Inter handles the donation flow and digital surfaces. The serif handles the printed annual report and program documentation."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No guilt-based fundraising. No beneficiary photography that strips dignity. No overhead-shaming campaigns aimed at peers. No celebrity ambassadors."},
-          {"title": "Where it lives", "body": "A site that shows program work first. A printed annual report with the program data and the financials side by side. A quarterly email update written like a project status, not a fundraising appeal."}
+          {
+            "title": "What it doesn't do",
+            "body": "No guilt-based fundraising. No beneficiary photography that strips dignity. No overhead-shaming campaigns aimed at peers. No celebrity ambassadors."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A site that shows program work first. A printed annual report with the program data and the financials side by side. A quarterly email update written like a project status, not a fundraising appeal."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who gives",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "A nonprofit that shows the program before the appeal.",
+        "mission": "Most nonprofits lead with the donor's feeling. We lead with the program work. The brand promise is that the donor can see exactly what their gift funds before they give.",
+        "vision": "Donors are design-literate, slightly cynical about overhead, and reward organizations that show clear program work and direct outcomes.",
+        "coreValues": [
+          "Direct — we say what we mean without softening it.",
+          "Warm — we are friendly, not formal.",
+          "Considered — we choose fewer things, more carefully.",
+          "Honest — including when the answer is one we'd rather not give."
+        ],
+        "scope": "OPEN HANDS delivers by:\n• Show the program work first\n• Show the financials clearly\n• Speak to the donor as an adult"
       }
     ],
     "Luxury": [
@@ -66,7 +91,13 @@
         "targetAudience": {
           "primary": "Wealthy family principals, trustees, and foundation officers managing significant family philanthropy. They value the trustees' judgment and the long relationship with grantees over the announcement of giving."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address grantees and trustees by surname",
@@ -81,10 +112,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn family-crest hallmark, two horizontal lines suggesting a heraldic chief, used on letterhead, the grant documents, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Trust Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the trustees' room.", "usage": "Primary brand color, letterhead, signage"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside the office.", "usage": "Foil, hallmark, accents"},
-          {"name": "Cream", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body type, dividers"}
+          {
+            "name": "Trust Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, library walls, the trustees' room.",
+            "usage": "Primary brand color, letterhead, signage"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque outside the office.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body type, dividers"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -92,20 +143,22 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public fundraising. No celebrity trustees. No social media presence. No press strategy. No publicly listed grantees without their explicit consent."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public fundraising. No celebrity trustees. No social media presence. No press strategy. No publicly listed grantees without their explicit consent."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who we work with",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A small private trust making considered grants to a limited number of grantees.",
+        "mission": "To build a small private trust making considered grants to a limited number of grantees.",
+        "vision": "The donor is paying for the trustees, not the brand.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones.",
+          "Discreet — what happens in the room stays in the room.",
+          "Heritage — a core principle the brand operates by.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "The Whitcombe Trust delivers by:\n• Address grantees and trustees by surname\n• Speak in the language of the discipline\n• Send paper letters and printed reports"
       }
     ],
     "Minimal": [
@@ -119,7 +172,12 @@
         "targetAudience": {
           "primary": "Donors who already give and don't want a relationship with the nonprofit. They want to give, see the receipt, and move on."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the program, the cost, the impact",
@@ -134,9 +192,24 @@
         },
         "logoDirection": "A wordmark only. GIVE in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The donation page, the receipt, and the annual report all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -144,19 +217,21 @@
           "rationale": "One face. The donation page, the receipt, and the annual report all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No monthly fundraising appeals. No donor walls. No gala. No newsletter. No social media presence."}
+          {
+            "title": "Not this",
+            "body": "No monthly fundraising appeals. No donor walls. No gala. No newsletter. No social media presence."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who gives",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A nonprofit with one program, one financial line, and one verb.",
+        "mission": "To build a nonprofit with one program, one financial line, and one verb.",
+        "vision": "There's an opening for one that strips it back to the verb itself.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "GIVE delivers by:\n• Show the program, the cost, the impact\n• Confirm the gift in one line\n• Use plain English"
       }
     ],
     "Corporate": [
@@ -176,7 +251,13 @@
             "Outcome reporting that satisfies trustees"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with strategy and outcomes",
@@ -190,16 +271,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Strategy first", "description": "We start with the philanthropic strategy, not the grant-making mechanics."},
-          {"name": "Operating infrastructure", "description": "Grant-making operations, due diligence, and outcomes tracking built for institutional scale."},
-          {"name": "Reporting that satisfies trustees", "description": "Quarterly impact reports formatted for the board and the family principals together."}
+          {
+            "name": "Strategy first",
+            "description": "We start with the philanthropic strategy, not the grant-making mechanics."
+          },
+          {
+            "name": "Operating infrastructure",
+            "description": "Grant-making operations, due diligence, and outcomes tracking built for institutional scale."
+          },
+          {
+            "name": "Reporting that satisfies trustees",
+            "description": "Quarterly impact reports formatted for the board and the family principals together."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single solid square base with a smaller square above, suggesting layered bedrock. Reads cleanly on a procurement deck, name badge, and quiet trustee meeting.",
         "colorPalette": [
-          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, slides"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Impact Green", "hex": "#3E8E5A", "meaning": "Outcome accent.", "usage": "Charts, status, success states"}
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Impact Green",
+            "hex": "#3E8E5A",
+            "meaning": "Outcome accent.",
+            "usage": "Charts, status, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -207,20 +317,22 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly trustee reports and printed strategy documents."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public fundraising. No D2C donor product. No celebrity ambassadors. The firm sells through institutional philanthropy procurement, not public-facing campaigns."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public fundraising. No D2C donor product. No celebrity ambassadors. The firm sells through institutional philanthropy procurement, not public-facing campaigns."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who we work with",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Strategic philanthropy services for mid-size foundations, family offices, and corporate social impact teams.",
+        "mission": "Mid-size foundations and family offices are too small for the giant philanthropy advisors and too sophisticated for boutique consultants. We sit between them, with operating discipline and strategic depth.",
+        "vision": "Buyers want partners who can deliver strategy, grant-making infrastructure, and outcomes measurement at institutional scale.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Strategic — a core principle the brand operates by."
+        ],
+        "scope": "Bedrock Impact Group works across:\n• Strategy first\n• Operating infrastructure\n• Reporting that satisfies trustees"
       }
     ],
     "Creative": [
@@ -235,7 +347,13 @@
         "targetAudience": {
           "primary": "25 to 45. Already gives to one or two nonprofits. Joins things. Wears the merch. Tells friends about the program. Wants the nonprofit to be a part of their social life, not a guilt trip."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Playful",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about nonprofit clichés",
@@ -250,11 +368,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the O of GOOD stylized as a small smile curve. Standalone smile-curve icon for stickers, social profiles, and the back of every donation receipt.",
         "colorPalette": [
-          {"name": "Good Yellow", "hex": "#FFD23F", "meaning": "Loud, warm, the front-door yellow.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Soft Pink", "hex": "#FFB7B7", "meaning": "Warmth without sweetness.", "usage": "Accent, secondary, social"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
-          {"name": "Sky Blue", "hex": "#7BB8FF", "meaning": "Optimism accent.", "usage": "Secondary surfaces, social"}
+          {
+            "name": "Good Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Loud, warm, the front-door yellow.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Soft Pink",
+            "hex": "#FFB7B7",
+            "meaning": "Warmth without sweetness.",
+            "usage": "Accent, secondary, social"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          },
+          {
+            "name": "Sky Blue",
+            "hex": "#7BB8FF",
+            "meaning": "Optimism accent.",
+            "usage": "Secondary surfaces, social"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -262,22 +405,26 @@
           "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a guilt-based fundraising brand. Not a polished glossy nonprofit. Not afraid of yellow. Not too cool to put a sticker on a tote."},
-          {"title": "Where it lives", "body": "Real customer stories in every appeal. Stickers in every donation envelope. A monthly newsletter that's mostly program updates and one funny aside. Real-world events that mix volunteering and just hanging out. A merch line for the people who actually show up."}
+          {
+            "title": "What it isn't",
+            "body": "Not a guilt-based fundraising brand. Not a polished glossy nonprofit. Not afraid of yellow. Not too cool to put a sticker on a tote."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Real customer stories in every appeal. Stickers in every donation envelope. A monthly newsletter that's mostly program updates and one funny aside. Real-world events that mix volunteering and just hanging out. A merch line for the people who actually show up."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who shows up",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A nonprofit brand that treats the program work as fun.",
+        "mission": "To build a nonprofit brand that treats the program work as fun.",
+        "vision": "The brand is for the people who help and also have fun doing it.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Playful — seriousness is overrated.",
+          "Direct — we say what we mean without softening it.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "DO GOOD delivers by:\n• Make jokes about nonprofit clichés\n• Quote real program stories\n• Talk to the donor as a friend who'd help"
       }
     ]
   }

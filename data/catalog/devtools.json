@@ -13,7 +13,12 @@
         "targetAudience": {
           "primary": "Software engineers, 25 to 45. Three to fifteen years of experience. Reads Hacker News at lunch. Pays attention to brand even if they say they don't. Will switch tools the second the docs annoy them."
         },
-        "brandPersonalityTraits": ["Precise", "Modern", "Quiet", "Confident"],
+        "brandPersonalityTraits": [
+          "Precise",
+          "Modern",
+          "Quiet",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Write like a senior engineer documenting for the next one",
@@ -28,9 +33,24 @@
         },
         "logoDirection": "A clean wordmark in a custom geometric mono. PARSE in all caps, tight kerning, with a small caret symbol used as a separator in compound use (PARSE > Docs). The caret can stand alone as a favicon and app icon.",
         "colorPalette": [
-          {"name": "Editor Black", "hex": "#0F1014", "meaning": "The dark theme background. The native habitat of the customer.", "usage": "Primary surface, marketing site"},
-          {"name": "Off Paper", "hex": "#F3F1EC", "meaning": "Used as space.", "usage": "Light mode, paper docs"},
-          {"name": "Syntax Blue", "hex": "#3870FF", "meaning": "The color of a keyword in a familiar editor.", "usage": "Links, highlights, accent"}
+          {
+            "name": "Editor Black",
+            "hex": "#0F1014",
+            "meaning": "The dark theme background. The native habitat of the customer.",
+            "usage": "Primary surface, marketing site"
+          },
+          {
+            "name": "Off Paper",
+            "hex": "#F3F1EC",
+            "meaning": "Used as space.",
+            "usage": "Light mode, paper docs"
+          },
+          {
+            "name": "Syntax Blue",
+            "hex": "#3870FF",
+            "meaning": "The color of a keyword in a familiar editor.",
+            "usage": "Links, highlights, accent"
+          }
         ],
         "typography": {
           "primary": "Inter for headlines and UI",
@@ -38,19 +58,21 @@
           "rationale": "Inter is the dev-default for marketing pages. A real coding font for code samples and the wordmark. No serif anywhere."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No marketing fluff. No founder-on-stage moments on the homepage. No glassmorphism. No hero illustration of abstract figures pushing data through tubes."}
+          {
+            "title": "What it doesn't do",
+            "body": "No marketing fluff. No founder-on-stage moments on the homepage. No glassmorphism. No hero illustration of abstract figures pushing data through tubes."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "The reference shelf",
-          "positioning": "The pitch",
-          "targetAudience": "Who uses this",
-          "personality": "The vibe",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "Developer tools that explain themselves the first time.",
+        "mission": "Most devtools fail at the docs. Our brand promise is that you can read the homepage and the API reference in fifteen minutes and start shipping. The brand sounds the way the product reads.",
+        "vision": "Modern brand work is now table stakes for serious devtools.",
+        "coreValues": [
+          "Precise — accuracy is the brand.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "PARSE delivers by:\n• Write like a senior engineer documenting for the next one\n• Show code in the first paragraph\n• Be specific about what the tool does and does not do"
       }
     ],
     "Luxury": [
@@ -65,7 +87,13 @@
         "targetAudience": {
           "primary": "Senior engineering leaders at companies of 200 to 5000 engineers. They sign three-year contracts. They expect a vendor to be around in five."
         },
-        "brandPersonalityTraits": ["Considered", "Steady", "Refined", "Precise", "Patient"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Steady",
+          "Refined",
+          "Precise",
+          "Patient"
+        ],
         "voiceAndTone": {
           "dos": [
             "Write fewer, longer paragraphs",
@@ -80,10 +108,30 @@
         },
         "logoDirection": "A serif wordmark with deliberate spacing. A small geometric mark, two perpendicular lines forming a quiet right angle, used as a hallmark on documents, hardware, and the IDE plugin marketplace.",
         "colorPalette": [
-          {"name": "Oak", "hex": "#3E2B1A", "meaning": "The color of an old desk in a serious room.", "usage": "Wordmark, primary brand color, foiled documents"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Paper. Spreadsheet pages.", "usage": "Background, paper, secondary"},
-          {"name": "Slate", "hex": "#2A2D30", "meaning": "Body text. Steady.", "usage": "Type, dividers"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Aged hardware accent.", "usage": "Foil, page numbers, accents"}
+          {
+            "name": "Oak",
+            "hex": "#3E2B1A",
+            "meaning": "The color of an old desk in a serious room.",
+            "usage": "Wordmark, primary brand color, foiled documents"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Paper. Spreadsheet pages.",
+            "usage": "Background, paper, secondary"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D30",
+            "meaning": "Body text. Steady.",
+            "usage": "Type, dividers"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Aged hardware accent.",
+            "usage": "Foil, page numbers, accents"
+          }
         ],
         "typography": {
           "primary": "Tiempos Text for the wordmark and major type",
@@ -91,20 +139,22 @@
           "rationale": "A classical serif for the brand surface. A modern grotesk for the product surface. Each does its job and gets out of the way."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No quarterly feature announcements. No conference circuit. No social media presence for the company. No founder personal brand on Twitter."}
+          {
+            "title": "What it doesn't do",
+            "body": "No quarterly feature announcements. No conference circuit. No social media presence for the company. No founder personal brand on Twitter."
+          }
         ],
-        "sectionLabels": {
-          "story": "Where this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who buys this",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "Developer tools for teams that buy slowly and stay long.",
+        "mission": "To build developer tools for teams that buy slowly and stay long.",
+        "vision": "Companies that don't churn out features for the announcement.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Steady — a core principle the brand operates by.",
+          "Refined — a core principle the brand operates by.",
+          "Precise — accuracy is the brand.",
+          "Patient — we play long games, not loud ones."
+        ],
+        "scope": "Westgate Systems delivers by:\n• Write fewer, longer paragraphs\n• Use accurate technical language\n• Speak to the leader, not the user"
       }
     ],
     "Minimal": [
@@ -118,7 +168,12 @@
         "targetAudience": {
           "primary": "Engineers who live in the terminal. They use neovim or emacs by choice. They read documentation as plain text. They distrust most marketing pages by default."
         },
-        "brandPersonalityTraits": ["Plain", "Technical", "Honest", "Precise"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Technical",
+          "Honest",
+          "Precise"
+        ],
         "voiceAndTone": {
           "dos": [
             "Write in plain text",
@@ -133,9 +188,24 @@
         },
         "logoDirection": "A wordmark only. stdin in monospace, lowercase, set without decoration. No icon. No second mark. The favicon is the four letters stacked.",
         "colorPalette": [
-          {"name": "Terminal Black", "hex": "#0C0C0C", "meaning": "The default terminal background.", "usage": "Primary background"},
-          {"name": "Terminal White", "hex": "#F0F0F0", "meaning": "The default terminal text.", "usage": "Body type, headlines"},
-          {"name": "Cursor Green", "hex": "#33FF33", "meaning": "The blinking cursor.", "usage": "Single accent, links, highlights"}
+          {
+            "name": "Terminal Black",
+            "hex": "#0C0C0C",
+            "meaning": "The default terminal background.",
+            "usage": "Primary background"
+          },
+          {
+            "name": "Terminal White",
+            "hex": "#F0F0F0",
+            "meaning": "The default terminal text.",
+            "usage": "Body type, headlines"
+          },
+          {
+            "name": "Cursor Green",
+            "hex": "#33FF33",
+            "meaning": "The blinking cursor.",
+            "usage": "Single accent, links, highlights"
+          }
         ],
         "typography": {
           "primary": "JetBrains Mono",
@@ -143,19 +213,21 @@
           "rationale": "One typeface. Monospace. Nothing else."
         },
         "customSections": [
-          {"title": "Not this", "body": "No hero illustrations. No glass cards. No gradient text. No animations on scroll. No SaaS-stock photography. No sans-serif anywhere."}
+          {
+            "title": "Not this",
+            "body": "No hero illustrations. No glass cards. No gradient text. No animations on scroll. No SaaS-stock photography. No sans-serif anywhere."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The reference",
-          "positioning": "The line",
-          "targetAudience": "Who uses this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "Developer tools that look like the terminal you use them in.",
+        "mission": "To build developer tools that look like the terminal you use them in.",
+        "vision": "There's room for one that looks like a man page.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Technical — the spec is the position.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Precise — accuracy is the brand."
+        ],
+        "scope": "stdin delivers by:\n• Write in plain text\n• Show the command, then explain it\n• Use mono font everywhere"
       }
     ],
     "Corporate": [
@@ -175,7 +247,13 @@
             "Predictable cost per seat"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with compliance and scale",
@@ -189,16 +267,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "One platform", "description": "Code hosting, CI/CD, security scanning, and audit logging in one product with one contract."},
-          {"name": "Compliance ready", "description": "SOC 2 Type II, ISO 27001, FedRAMP authorized, HIPAA aligned. The certifications you need, on the day you need them."},
-          {"name": "Predictable to operate", "description": "Per-seat pricing with documented limits. No surprise overage bills."}
+          {
+            "name": "One platform",
+            "description": "Code hosting, CI/CD, security scanning, and audit logging in one product with one contract."
+          },
+          {
+            "name": "Compliance ready",
+            "description": "SOC 2 Type II, ISO 27001, FedRAMP authorized, HIPAA aligned. The certifications you need, on the day you need them."
+          },
+          {
+            "name": "Predictable to operate",
+            "description": "Per-seat pricing with documented limits. No surprise overage bills."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single keystone shape, the trapezoid that locks an arch. Reads cleanly in a procurement deck, on a name badge, and as a favicon.",
         "colorPalette": [
-          {"name": "Enterprise Navy", "hex": "#0C2240", "meaning": "Deep blue. The color of trust for B2B buyers.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean and structured.", "usage": "Backgrounds, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary information.", "usage": "Body text, dividers"},
-          {"name": "Trust Green", "hex": "#2E7D5B", "meaning": "Compliant. Success. Cleared audit.", "usage": "Status indicators, charts, security badges"}
+          {
+            "name": "Enterprise Navy",
+            "hex": "#0C2240",
+            "meaning": "Deep blue. The color of trust for B2B buyers.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean and structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary information.",
+            "usage": "Body text, dividers"
+          },
+          {
+            "name": "Trust Green",
+            "hex": "#2E7D5B",
+            "meaning": "Compliant. Success. Cleared audit.",
+            "usage": "Status indicators, charts, security badges"
+          }
         ],
         "typography": {
           "primary": "Inter for product UI and marketing",
@@ -206,20 +313,22 @@
           "rationale": "Inter scales clean across every digital surface. The serif handles printed compliance reports and trust center documentation."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No free tier marketed to consumers. No developer-conference booth swag. No founder podcast. No community Discord. The product sells through procurement, not Reddit."}
+          {
+            "title": "What it doesn't do",
+            "body": "No free tier marketed to consumers. No developer-conference booth swag. No founder podcast. No community Discord. The product sells through procurement, not Reddit."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "One platform for code, builds, security, and compliance, built for companies that take all four seriously.",
+        "mission": "Procurement at large companies wants fewer vendors. We win when we can replace four point solutions with one platform and pass the compliance audit on the first try.",
+        "vision": "New entrants have to thread the needle between modern usability and procurement-friendly seriousness.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Professional — a core principle the brand operates by."
+        ],
+        "scope": "KEYSTONE SYSTEMS works across:\n• One platform\n• Compliance ready\n• Predictable to operate"
       }
     ],
     "Creative": [
@@ -234,7 +343,13 @@
         "targetAudience": {
           "primary": "Engineers 22 to 40. Working at small to mid-size companies. Posts on Twitter and Bluesky. Buys stickers for the laptop. Picks tools based on vibes as much as features."
         },
-        "brandPersonalityTraits": ["Playful", "Confident", "Friendly", "Sharp", "Warm"],
+        "brandPersonalityTraits": [
+          "Playful",
+          "Confident",
+          "Friendly",
+          "Sharp",
+          "Warm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes that land for engineers",
@@ -249,11 +364,36 @@
         },
         "logoDirection": "A wordmark in a punchy display sans, with the second K stylized as a small keyboard key (the rounded square outline). Standalone keyboard-key icon for app icons, stickers, and avatar use.",
         "colorPalette": [
-          {"name": "Hot Pink", "hex": "#FF4D8D", "meaning": "Loud, friendly, hard to ignore.", "usage": "Primary brand color, hero buttons, social"},
-          {"name": "Editor Black", "hex": "#0E0E10", "meaning": "Anchor. The dark theme.", "usage": "Body, secondary surfaces, dark mode"},
-          {"name": "Cream", "hex": "#F4F0E6", "meaning": "Warm background, used as space.", "usage": "Light mode, paper, packaging"},
-          {"name": "Mint", "hex": "#5DDE9F", "meaning": "Success state. The green-check feeling.", "usage": "Success states, charts, hover"},
-          {"name": "Sun Yellow", "hex": "#FFD23F", "meaning": "Highlight. The sticky note color.", "usage": "Highlights, social hero, swag"}
+          {
+            "name": "Hot Pink",
+            "hex": "#FF4D8D",
+            "meaning": "Loud, friendly, hard to ignore.",
+            "usage": "Primary brand color, hero buttons, social"
+          },
+          {
+            "name": "Editor Black",
+            "hex": "#0E0E10",
+            "meaning": "Anchor. The dark theme.",
+            "usage": "Body, secondary surfaces, dark mode"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Warm background, used as space.",
+            "usage": "Light mode, paper, packaging"
+          },
+          {
+            "name": "Mint",
+            "hex": "#5DDE9F",
+            "meaning": "Success state. The green-check feeling.",
+            "usage": "Success states, charts, hover"
+          },
+          {
+            "name": "Sun Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Highlight. The sticky note color.",
+            "usage": "Highlights, social hero, swag"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,22 +401,26 @@
           "rationale": "Migra carries the personality. Neue Montreal handles UI without losing character. The pair feels designed but human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not enterprise. Not monochrome. Not afraid of stickers. Not too cool to be helpful."},
-          {"title": "Where it lives", "body": "Laptop stickers. Conference T-shirts that engineers actually want. A monthly changelog written like a friend's update. A community Discord that has rules and personality. Real screenshots in every blog post."}
+          {
+            "title": "What it isn't",
+            "body": "Not enterprise. Not monochrome. Not afraid of stickers. Not too cool to be helpful."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Laptop stickers. Conference T-shirts that engineers actually want. A monthly changelog written like a friend's update. A community Discord that has rules and personality. Real screenshots in every blog post."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who uses this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "Developer tools with personality, made by people who think work should be fun.",
+        "mission": "To build developer tools with personality, made by people who think work should be fun.",
+        "vision": "There's room for one that's loud, character-driven, sticker-friendly, and still ships a great product.",
+        "coreValues": [
+          "Playful — seriousness is overrated.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Friendly — a core principle the brand operates by.",
+          "Sharp — precision is a form of kindness.",
+          "Warm — we are friendly, not formal."
+        ],
+        "scope": "HOTKEY delivers by:\n• Make jokes that land for engineers\n• Use real screenshots, not stock illustrations\n• Talk to one developer at a time"
       }
     ]
   }

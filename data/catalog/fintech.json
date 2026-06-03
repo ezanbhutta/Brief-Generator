@@ -13,7 +13,13 @@
         "targetAudience": {
           "primary": "28 to 45. Has at least two accounts, one of which is for freelance income. Reads the fine print. Asks customer support pointed questions. Tells friends about the app if it works."
         },
-        "brandPersonalityTraits": ["Clear", "Direct", "Modern", "Trustworthy", "Quiet"],
+        "brandPersonalityTraits": [
+          "Clear",
+          "Direct",
+          "Modern",
+          "Trustworthy",
+          "Quiet"
+        ],
         "voiceAndTone": {
           "dos": [
             "Write transaction descriptions in plain English",
@@ -28,9 +34,24 @@
         },
         "logoDirection": "A wordmark only. LEDGER set in a tight, modern grotesk, all caps. The horizontal bar of the L extends slightly, like the line under a column of numbers. A small line-and-checkmark icon for app and favicon use.",
         "colorPalette": [
-          {"name": "Ledger Black", "hex": "#0F1014", "meaning": "Ink on the page. The color of a closing balance.", "usage": "Wordmark, primary type, dark mode"},
-          {"name": "Page", "hex": "#F4F1EA", "meaning": "Old accounting paper. Used as space.", "usage": "Light mode, paper, background"},
-          {"name": "Approval Green", "hex": "#2E7D5B", "meaning": "Transaction cleared. Money in.", "usage": "Status indicators, charts, success states"}
+          {
+            "name": "Ledger Black",
+            "hex": "#0F1014",
+            "meaning": "Ink on the page. The color of a closing balance.",
+            "usage": "Wordmark, primary type, dark mode"
+          },
+          {
+            "name": "Page",
+            "hex": "#F4F1EA",
+            "meaning": "Old accounting paper. Used as space.",
+            "usage": "Light mode, paper, background"
+          },
+          {
+            "name": "Approval Green",
+            "hex": "#2E7D5B",
+            "meaning": "Transaction cleared. Money in.",
+            "usage": "Status indicators, charts, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for the product",
@@ -38,22 +59,27 @@
           "rationale": "Inter is the dev-default for clean modern apps. The mono carries the financial data. The two pair without effort."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No promotional savings rate teasers. No crypto. No referral codes plastered on every screen. No founder LinkedIn posts about the company values."},
-          {"title": "Where it lives", "body": "The app first. The web exists as documentation. Push notifications written like a friend would write them. Receipts that explain themselves."}
+          {
+            "title": "What it doesn't do",
+            "body": "No promotional savings rate teasers. No crypto. No referral codes plastered on every screen. No founder LinkedIn posts about the company values."
+          },
+          {
+            "title": "Where it lives",
+            "body": "The app first. The web exists as documentation. Push notifications written like a friend would write them. Receipts that explain themselves."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "The reference shelf",
-          "positioning": "The pitch",
-          "targetAudience": "Who uses this",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
-      }
-      ,
+        "brandDescription": "Personal banking that explains every transaction the first time.",
+        "mission": "Most banks hide things in legalese. We make the receipt the brand. Every transaction, every fee, every transfer is written in plain English. The brand promise lives inside the app, not on the homepage.",
+        "vision": "The winners are the brands that read the simplest.",
+        "coreValues": [
+          "Clear — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Trustworthy — a core principle the brand operates by.",
+          "Quiet — restraint is the loudest thing in a noisy room."
+        ],
+        "scope": "LEDGER delivers by:\n• Write transaction descriptions in plain English\n• Show the fee before it's charged\n• Speak to one customer at a time"
+      },
       {
         "brandName": "MONEY OK",
         "tagline": "Things are fine.",
@@ -62,14 +88,73 @@
         "competitorLandscape": "Wise (wise.com) carries the international clarity. Mercury (mercury.com) owns the business-banking design. Monzo (monzo.com) holds the consumer European space. Cleo (meetcleo.com) does the friend-with-finances middle. We sit warmer than the platforms and more honest than the friend apps.",
         "positioningStatement": "Banking that helps you say 'money OK' more often.",
         "positioningRationale": "Most banks hide things in legalese. We make the receipt the brand. Every transaction, every fee, every transfer is written in plain English. The brand promise lives inside the app.",
-        "targetAudience": {"primary": "28 to 45. Has at least two accounts. Reads the fine print. Asks customer support pointed questions. Tells friends about the app if it works."},
-        "brandPersonalityTraits": ["Direct", "Modern", "Warm", "Trustworthy"],
-        "voiceAndTone": {"dos": ["Write transaction descriptions in plain English", "Show the fee before it's charged", "Confirm balance changes warmly"], "donts": ["Use the word seamless", "Promise to democratize anything", "Animate the homepage"]},
+        "targetAudience": {
+          "primary": "28 to 45. Has at least two accounts. Reads the fine print. Asks customer support pointed questions. Tells friends about the app if it works."
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Warm",
+          "Trustworthy"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write transaction descriptions in plain English",
+            "Show the fee before it's charged",
+            "Confirm balance changes warmly"
+          ],
+          "donts": [
+            "Use the word seamless",
+            "Promise to democratize anything",
+            "Animate the homepage"
+          ]
+        },
         "logoDirection": "A wordmark only. MONEY OK in a tight modern grotesk, all caps, two words on one line. A small geometric mark, a single check-mark, used as the favicon and on transaction confirmations.",
-        "colorPalette": [{"name": "OK Black", "hex": "#0F1014", "meaning": "Ink on the page.", "usage": "Wordmark, body type, dark mode"}, {"name": "Cream", "hex": "#F4F1EA", "meaning": "Old paper.", "usage": "Light mode, paper, background"}, {"name": "Calm Green", "hex": "#3E8E5A", "meaning": "Transaction cleared, balance positive.", "usage": "Status indicators, charts, success"}],
-        "typography": {"primary": "Inter for the product", "secondary": "IBM Plex Mono for transaction details", "rationale": "Inter is the dev default. The mono carries the financial data."},
-        "customSections": [{"title": "What it doesn't do", "body": "No promotional savings teasers. No crypto. No referral codes plastered on every screen. No founder LinkedIn posts about company values."}, {"title": "Where it lives", "body": "The app first. Push notifications written like a friend. Receipts that explain themselves."}],
-        "sectionLabels": {"industrySummary": "The market", "competitorLandscape": "The reference shelf", "positioning": "The pitch", "targetAudience": "Who uses this", "personality": "The feel", "voiceAndTone": "How it talks", "logoDirection": "The logo", "colorPalette": "The colors", "typography": "The fonts"}
+        "colorPalette": [
+          {
+            "name": "OK Black",
+            "hex": "#0F1014",
+            "meaning": "Ink on the page.",
+            "usage": "Wordmark, body type, dark mode"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4F1EA",
+            "meaning": "Old paper.",
+            "usage": "Light mode, paper, background"
+          },
+          {
+            "name": "Calm Green",
+            "hex": "#3E8E5A",
+            "meaning": "Transaction cleared, balance positive.",
+            "usage": "Status indicators, charts, success"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the product",
+          "secondary": "IBM Plex Mono for transaction details",
+          "rationale": "Inter is the dev default. The mono carries the financial data."
+        },
+        "customSections": [
+          {
+            "title": "What it doesn't do",
+            "body": "No promotional savings teasers. No crypto. No referral codes plastered on every screen. No founder LinkedIn posts about company values."
+          },
+          {
+            "title": "Where it lives",
+            "body": "The app first. Push notifications written like a friend. Receipts that explain themselves."
+          }
+        ],
+        "brandDescription": "Banking that helps you say 'money OK' more often.",
+        "mission": "Most banks hide things in legalese. We make the receipt the brand. Every transaction, every fee, every transfer is written in plain English. The brand promise lives inside the app.",
+        "vision": "The opening is for a brand that talks about money the way most people actually talk about money, not the way wealth managers and growth-hacker apps do.",
+        "coreValues": [
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Warm — we are friendly, not formal.",
+          "Trustworthy — a core principle the brand operates by."
+        ],
+        "scope": "MONEY OK delivers by:\n• Write transaction descriptions in plain English\n• Show the fee before it's charged\n• Confirm balance changes warmly"
       }
     ],
     "Luxury": [
@@ -84,7 +169,13 @@
         "targetAudience": {
           "primary": "Heads of family offices, founders post-exit, and inheritors who have outgrown their previous adviser. Looking for slow capital, considered counsel, and a relationship that lasts decades."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Conservative", "Steady"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Conservative",
+          "Steady"
+        ],
         "voiceAndTone": {
           "dos": [
             "Speak rarely",
@@ -99,10 +190,30 @@
         },
         "logoDirection": "A serif wordmark with elegant ligatures. A small hallmark, a single horizontal rule above the wordmark, used on letterhead, embossed cards, and the brass plaque outside the office. The mark is small in every application.",
         "colorPalette": [
-          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Old leather books, hunting estates, members' rooms.", "usage": "Primary brand color, signage, letterhead"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside the office.", "usage": "Foil, hallmark, hardware accents"},
-          {"name": "Cream", "hex": "#EFE9DB", "meaning": "Hand-laid paper. Cream linen.", "usage": "Stationery, background, paper"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body type, reports, structural elements"}
+          {
+            "name": "Library Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather books, hunting estates, members' rooms.",
+            "usage": "Primary brand color, signage, letterhead"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque outside the office.",
+            "usage": "Foil, hallmark, hardware accents"
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper. Cream linen.",
+            "usage": "Stationery, background, paper"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body type, reports, structural elements"
+          }
         ],
         "typography": {
           "primary": "Canela Text for the wordmark and reports",
@@ -110,22 +221,23 @@
           "rationale": "A high contrast serif sets the heritage tone. A modern grotesk handles the few digital surfaces. Restraint everywhere."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public marketing. No conference circuit. No content strategy. No client logos on the website. No website beyond a single-page placeholder."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public marketing. No conference circuit. No content strategy. No client logos on the website. No website beyond a single-page placeholder."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who we serve",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
-      }
-      ,
+        "brandDescription": "A private wealth firm for fifty families. No more.",
+        "mission": "To build a private wealth firm for fifty families. No more.",
+        "vision": "We belong in that market.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones.",
+          "Conservative — a core principle the brand operates by.",
+          "Steady — a core principle the brand operates by."
+        ],
+        "scope": "Ascot Wealth delivers by:\n• Speak rarely\n• Address the principal by surname in writing\n• Send paper quarterly reports"
+      },
       {
         "brandName": "Eastbury Trust",
         "tagline": "Private banking since 1882.",
@@ -134,14 +246,77 @@
         "industrySummary": "Top end private banking has been consolidating into larger institutions. There's a parallel market for small partner-led firms with multi-generational client relationships. Few clients, deep counsel, decades-long relationships.",
         "competitorLandscape": "C. Hoare & Co. (hoaresbank.co.uk) holds the institutional heritage peer. Coutts (coutts.com) sits at the established peer. Brown Brothers Harriman (bbh.com) is the international peer. We sit smaller and quieter than all of them.",
         "positioningStatement": "A small private bank representing fewer than two hundred families.",
-        "targetAudience": {"primary": "Wealthy, often inherited. The relationship usually predates the current generation. The bank knows the family across multiple lifetimes."},
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Confident"],
-        "voiceAndTone": {"dos": ["Address the principal by surname", "Send paper letters where appropriate", "Speak in the language of the discipline"], "donts": ["Advertise", "Use marketing language", "Publish a content calendar"]},
+        "targetAudience": {
+          "primary": "Wealthy, often inherited. The relationship usually predates the current generation. The bank knows the family across multiple lifetimes."
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Heritage",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address the principal by surname",
+            "Send paper letters where appropriate",
+            "Speak in the language of the discipline"
+          ],
+          "donts": [
+            "Advertise",
+            "Use marketing language",
+            "Publish a content calendar"
+          ]
+        },
         "logoDirection": "A serif wordmark with elegant ligatures. A small hand-drawn rosette becomes the firm's hallmark, used on letterhead, embossed cards, and the brass plaque outside the office.",
-        "colorPalette": [{"name": "Library Green", "hex": "#1E3A30", "meaning": "Old leather, library walls.", "usage": "Primary brand color, signage, letterhead"}, {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the plaque.", "usage": "Foil, hallmark, hardware"}, {"name": "Cream", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"}, {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored type.", "usage": "Body, reports, dividers"}],
-        "typography": {"primary": "Canela for the wordmark and printed material", "secondary": "Söhne for the secure portal", "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."},
-        "customSections": [{"title": "What it doesn't do", "body": "No public marketing. No social media. No press strategy. No celebrity-banker partnerships."}],
-        "sectionLabels": {"story": "How this began", "industrySummary": "The category", "competitorLandscape": "The neighborhood", "positioning": "The promise", "targetAudience": "Who we represent", "personality": "How it carries itself", "voiceAndTone": "Voice", "logoDirection": "The mark", "colorPalette": "Palette", "typography": "Type"}
+        "colorPalette": [
+          {
+            "name": "Library Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, library walls.",
+            "usage": "Primary brand color, signage, letterhead"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal, the plaque.",
+            "usage": "Foil, hallmark, hardware"
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored type.",
+            "usage": "Body, reports, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the secure portal",
+          "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
+        },
+        "customSections": [
+          {
+            "title": "What it doesn't do",
+            "body": "No public marketing. No social media. No press strategy. No celebrity-banker partnerships."
+          }
+        ],
+        "brandDescription": "A small private bank representing fewer than two hundred families.",
+        "mission": "To build a small private bank representing fewer than two hundred families.",
+        "vision": "Few clients, deep counsel, decades-long relationships.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones.",
+          "Heritage — a core principle the brand operates by.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "Eastbury Trust delivers by:\n• Address the principal by surname\n• Send paper letters where appropriate\n• Speak in the language of the discipline"
       }
     ],
     "Minimal": [
@@ -155,7 +330,12 @@
         "targetAudience": {
           "primary": "Adults who already have a primary bank and want a secondary one with no marketing in their inbox. They want to send money, hold money, and check the balance. That's all."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Quiet", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Quiet",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Use the smallest number of words",
@@ -170,9 +350,24 @@
         },
         "logoDirection": "A wordmark only. BALANCE set in a single weight grotesk, wide kerned, all caps. No icon. The app icon is the wordmark abbreviated to BAL. No second mark.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body type, all interface"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, all light surfaces"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, transaction list rows"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body type, all interface"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, all light surfaces"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, transaction list rows"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -180,21 +375,22 @@
           "rationale": "One face. One purpose. The app is the wordmark, the balance, the transactions. Nothing decorative."
         },
         "customSections": [
-          {"title": "Not this", "body": "No goals. No round-ups. No virtual cards. No referral program. No newsletter. No social media presence."}
+          {
+            "title": "Not this",
+            "body": "No goals. No round-ups. No virtual cards. No referral program. No newsletter. No social media presence."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who uses this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
-      }
-      ,
+        "brandDescription": "A bank account that does what a bank account does. Nothing else.",
+        "mission": "To build a bank account that does what a bank account does. Nothing else.",
+        "vision": "One thing it does well.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Quiet — restraint is the loudest thing in a noisy room.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "BALANCE delivers by:\n• Use the smallest number of words\n• Show the balance and the recent transactions\n• Make the support email easy to find"
+      },
       {
         "brandName": "SPEND",
         "tagline": "What money is for.",
@@ -202,14 +398,69 @@
         "industrySummary": "Most fintech brands sell saving, growing, investing. There's an opening for one that names the act that most money actually does: get spent.",
         "competitorLandscape": "Most fintech brands fail this purity test. The closest peer in spirit is some Japanese mobile payment traditions.",
         "positioningStatement": "A spending card named after the act.",
-        "targetAudience": {"primary": "Adults who already manage their savings elsewhere and want a clean card for the spending side. They want the receipt, the limit, the balance."},
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
-        "voiceAndTone": {"dos": ["Show the balance", "Show the transaction in plain English", "Confirm in one line"], "donts": ["Promote a 'wealth ecosystem'", "Send marketing emails", "Run a referral program"]},
+        "targetAudience": {
+          "primary": "Adults who already manage their savings elsewhere and want a clean card for the spending side. They want the receipt, the limit, the balance."
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the balance",
+            "Show the transaction in plain English",
+            "Confirm in one line"
+          ],
+          "donts": [
+            "Promote a 'wealth ecosystem'",
+            "Send marketing emails",
+            "Run a referral program"
+          ]
+        },
         "logoDirection": "A wordmark only. SPEND in a single weight grotesk, wide kerned, all caps, five letters with generous space. No icon. The card, the app, the receipt all carry the wordmark and nothing else.",
-        "colorPalette": [{"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"}, {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, app, neutrals"}, {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary"}],
-        "typography": {"primary": "Neue Haas Grotesk", "secondary": "Same family, different weight", "rationale": "One face. The card, the app, the receipt all carry the same wordmark."},
-        "customSections": [{"title": "Not this", "body": "No savings goals. No round-ups. No virtual cards. No referral program."}],
-        "sectionLabels": {"industrySummary": "Where we are", "competitorLandscape": "The shelf", "positioning": "The line", "targetAudience": "Who uses this", "personality": "The feel", "voiceAndTone": "Voice", "logoDirection": "The mark", "colorPalette": "Color", "typography": "Type"}
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, app, neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The card, the app, the receipt all carry the same wordmark."
+        },
+        "customSections": [
+          {
+            "title": "Not this",
+            "body": "No savings goals. No round-ups. No virtual cards. No referral program."
+          }
+        ],
+        "brandDescription": "A spending card named after the act.",
+        "mission": "To build a spending card named after the act.",
+        "vision": "There's an opening for one that names the act that most money actually does: get spent.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "SPEND delivers by:\n• Show the balance\n• Show the transaction in plain English\n• Confirm in one line"
       }
     ],
     "Corporate": [
@@ -229,7 +480,13 @@
             "Audit-ready logs and controls"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Modern", "Steady"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Modern",
+          "Steady"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with compliance and scale",
@@ -243,16 +500,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Real-time cash visibility", "description": "Every account, every entity, every currency, in a single view, updated continuously."},
-          {"name": "Audit and controls built in", "description": "SOC 2 Type II, ISO 27001, granular permission controls, full audit logs."},
-          {"name": "Integrations that already exist", "description": "Native connectors to the ERPs and banks your team already uses."}
+          {
+            "name": "Real-time cash visibility",
+            "description": "Every account, every entity, every currency, in a single view, updated continuously."
+          },
+          {
+            "name": "Audit and controls built in",
+            "description": "SOC 2 Type II, ISO 27001, granular permission controls, full audit logs."
+          },
+          {
+            "name": "Integrations that already exist",
+            "description": "Native connectors to the ERPs and banks your team already uses."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is three short horizontal bars stacked at offset, suggesting layered strata. Reads cleanly on procurement decks, name badges, and the trust center.",
         "colorPalette": [
-          {"name": "Enterprise Navy", "hex": "#0C2240", "meaning": "Trust, finance, the color of a quarterly report cover.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Background, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, dividers, secondary type.", "usage": "Body text, charts, lines"},
-          {"name": "Approval Green", "hex": "#2E7D5B", "meaning": "Status indicator. Cleared transaction.", "usage": "Success states, charts, badges"}
+          {
+            "name": "Enterprise Navy",
+            "hex": "#0C2240",
+            "meaning": "Trust, finance, the color of a quarterly report cover.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Background, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, dividers, secondary type.",
+            "usage": "Body text, charts, lines"
+          },
+          {
+            "name": "Approval Green",
+            "hex": "#2E7D5B",
+            "meaning": "Status indicator. Cleared transaction.",
+            "usage": "Success states, charts, badges"
+          }
         ],
         "typography": {
           "primary": "Inter for product UI and marketing",
@@ -260,22 +546,23 @@
           "rationale": "Inter scales clean across every digital surface. The serif handles printed trust center documents and compliance reports."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No consumer features. No free tier. No public roadmap. No developer-conference circuit. The product sells through enterprise procurement, not Hacker News."}
+          {
+            "title": "What it doesn't do",
+            "body": "No consumer features. No free tier. No public roadmap. No developer-conference circuit. The product sells through enterprise procurement, not Hacker News."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
-      }
-      ,
+        "brandDescription": "Treasury and cash management for finance teams who refuse to use software from 2008.",
+        "mission": "Finance teams at large companies are tired of legacy systems. They have budget. The buying cycle is long but rational. The brand needs to look serious enough for procurement and modern enough for the team that will actually use it.",
+        "vision": "There's a clear opening for a modern, well-built platform that wins the procurement cycle on documentation and ease of integration.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Steady — a core principle the brand operates by."
+        ],
+        "scope": "Strata Capital Systems works across:\n• Real-time cash visibility\n• Audit and controls built in\n• Integrations that already exist"
+      },
       {
         "brandName": "Strand Financial Partners",
         "tagline": "Treasury infrastructure for the enterprise.",
@@ -284,15 +571,96 @@
         "competitorLandscape": "Kyriba (kyriba.com) is the standard. GTreasury (gtreasury.com) and FIS Treasury (fisglobal.com) hold the rest. Modern Treasury (moderntreasury.com) is the design-led startup in the space. We sit between Kyriba and Modern Treasury in feature scope.",
         "positioningStatement": "Treasury and cash management for finance teams who refuse to use software from 2008.",
         "positioningRationale": "Finance teams at large companies are tired of legacy interfaces. They have budget. The buying cycle is long but rational.",
-        "targetAudience": {"primary": "VPs of Finance, Treasurers, and CFOs at companies of 500 to 50000 employees. They sign multi-year contracts after long evaluations.", "motivations": ["Replace legacy treasury platforms", "Real-time cash visibility across entities", "Audit-ready logs and controls"]},
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Modern", "Steady"],
-        "voiceAndTone": {"dos": ["Lead with compliance and scale", "Show third-party certifications", "Speak to the buyer, not the analyst"], "donts": ["Use consumer fintech language", "Use the word disrupt", "Run growth-hacking campaigns"]},
-        "messagingPillars": [{"name": "Real-time cash visibility", "description": "Every account, every entity, every currency, in a single view, updated continuously."}, {"name": "Audit and controls built in", "description": "SOC 2 Type II, ISO 27001, granular permissions, full audit logs."}, {"name": "Integrations that already exist", "description": "Native connectors to the ERPs and banks your team already uses."}],
+        "targetAudience": {
+          "primary": "VPs of Finance, Treasurers, and CFOs at companies of 500 to 50000 employees. They sign multi-year contracts after long evaluations.",
+          "motivations": [
+            "Replace legacy treasury platforms",
+            "Real-time cash visibility across entities",
+            "Audit-ready logs and controls"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Modern",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with compliance and scale",
+            "Show third-party certifications",
+            "Speak to the buyer, not the analyst"
+          ],
+          "donts": [
+            "Use consumer fintech language",
+            "Use the word disrupt",
+            "Run growth-hacking campaigns"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Real-time cash visibility",
+            "description": "Every account, every entity, every currency, in a single view, updated continuously."
+          },
+          {
+            "name": "Audit and controls built in",
+            "description": "SOC 2 Type II, ISO 27001, granular permissions, full audit logs."
+          },
+          {
+            "name": "Integrations that already exist",
+            "description": "Native connectors to the ERPs and banks your team already uses."
+          }
+        ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is three thin horizontal bars at offset, suggesting layered cash flows. Reads cleanly on procurement decks and the trust center.",
-        "colorPalette": [{"name": "Enterprise Navy", "hex": "#0C2240", "meaning": "Trust, finance, the boardroom.", "usage": "Logo, primary surfaces"}, {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"}, {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"}, {"name": "Cleared Green", "hex": "#2E7D5B", "meaning": "Status indicator.", "usage": "Charts, success states, badges"}],
-        "typography": {"primary": "Inter for product UI and marketing", "secondary": "Source Serif Pro for printed compliance documentation", "rationale": "Inter scales clean across every digital surface."},
-        "customSections": [{"title": "What it doesn't do", "body": "No consumer features. No free tier. No public roadmap. No developer-conference circuit."}],
-        "sectionLabels": {"industrySummary": "The category", "competitorLandscape": "The competitive set", "positioning": "Our positioning", "targetAudience": "Who buys this", "personality": "Brand personality", "voiceAndTone": "Voice and tone", "messagingPillars": "What we say", "logoDirection": "Logo", "colorPalette": "Color system", "typography": "Typography"}
+        "colorPalette": [
+          {
+            "name": "Enterprise Navy",
+            "hex": "#0C2240",
+            "meaning": "Trust, finance, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Cleared Green",
+            "hex": "#2E7D5B",
+            "meaning": "Status indicator.",
+            "usage": "Charts, success states, badges"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for product UI and marketing",
+          "secondary": "Source Serif Pro for printed compliance documentation",
+          "rationale": "Inter scales clean across every digital surface."
+        },
+        "customSections": [
+          {
+            "title": "What it doesn't do",
+            "body": "No consumer features. No free tier. No public roadmap. No developer-conference circuit."
+          }
+        ],
+        "brandDescription": "Treasury and cash management for finance teams who refuse to use software from 2008.",
+        "mission": "Finance teams at large companies are tired of legacy interfaces. They have budget. The buying cycle is long but rational.",
+        "vision": "The buying cycle is long but rational.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Steady — a core principle the brand operates by."
+        ],
+        "scope": "Strand Financial Partners works across:\n• Real-time cash visibility\n• Audit and controls built in\n• Integrations that already exist"
       }
     ],
     "Creative": [
@@ -307,7 +675,13 @@
         "targetAudience": {
           "primary": "25 to 40. Self-employed or salaried with side income. Already has a primary bank but wants a secondary tool that's actually nice to use. Follows two financial accounts on social and laughs at both of them."
         },
-        "brandPersonalityTraits": ["Witty", "Warm", "Confident", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Witty",
+          "Warm",
+          "Confident",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about money without minimizing it",
@@ -322,11 +696,36 @@
         },
         "logoDirection": "A wordmark with a small angled-bounce line worked into the H of SHOT. The line is the bank shot. A standalone bouncing-arrow icon for the app icon, profile pictures, and confirmation animations.",
         "colorPalette": [
-          {"name": "Court Red", "hex": "#D7263D", "meaning": "Loud, confident, the loss column.", "usage": "Primary brand color, hero buttons, social"},
-          {"name": "Felt Green", "hex": "#0E6E4F", "meaning": "Pool table felt. Money green.", "usage": "Status, charts, success states"},
-          {"name": "Chalk", "hex": "#F4EFE2", "meaning": "Warm background, used as space.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Body, headlines"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Punchline accent.", "usage": "Highlights, sale states, social"}
+          {
+            "name": "Court Red",
+            "hex": "#D7263D",
+            "meaning": "Loud, confident, the loss column.",
+            "usage": "Primary brand color, hero buttons, social"
+          },
+          {
+            "name": "Felt Green",
+            "hex": "#0E6E4F",
+            "meaning": "Pool table felt. Money green.",
+            "usage": "Status, charts, success states"
+          },
+          {
+            "name": "Chalk",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background, used as space.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Body, headlines"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Punchline accent.",
+            "usage": "Highlights, sale states, social"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -334,24 +733,27 @@
           "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and a little weird."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a wealth manager. Not a crypto wallet. Not a get-rich-quick app. Not too cool to make a joke about itself."},
-          {"title": "Where it lives", "body": "An app that's nice to open. Push notifications that feel like a friend texting. Stickers in welcome boxes. A monthly newsletter written like a group chat. Merch that people would actually wear."}
+          {
+            "title": "What it isn't",
+            "body": "Not a wealth manager. Not a crypto wallet. Not a get-rich-quick app. Not too cool to make a joke about itself."
+          },
+          {
+            "title": "Where it lives",
+            "body": "An app that's nice to open. Push notifications that feel like a friend texting. Stickers in welcome boxes. A monthly newsletter written like a group chat. Merch that people would actually wear."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who uses this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
-      }
-      ,
+        "brandDescription": "A finance app for people who want their money to be more fun to look at than to spend.",
+        "mission": "To build a finance app for people who want their money to be more fun to look at than to spend.",
+        "vision": "We made Bank Shot for them.",
+        "coreValues": [
+          "Witty — a core principle the brand operates by.",
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Direct — we say what we mean without softening it.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "BANK SHOT delivers by:\n• Make jokes about money without minimizing it\n• Talk like a friend who's good with finances\n• Use real numbers in copy, not stock figures"
+      },
       {
         "brandName": "PAYDAY",
         "tagline": "Twice a month, sometimes more.",
@@ -360,15 +762,87 @@
         "industrySummary": "Fintech branding has been polished, growth-led, and slightly cold. There's room for a brand that's warm, character-driven, and serious about the actual emotional rhythm of getting paid and spending.",
         "competitorLandscape": "Cash App (cash.app) figured out cultural relevance. Cleo (meetcleo.com) holds the friend-with-finances peer. Step (step.com) sits in the playful tone middle. Albert (albert.com) had the tone briefly. We sit warmer and more honest than any of them.",
         "positioningStatement": "A finance app for people whose lives run on payday.",
-        "targetAudience": {"primary": "22 to 40. Lives between paychecks. Has a side income that pays sometimes. Wants the app to make payday feel as good as it actually is."},
-        "brandPersonalityTraits": ["Warm", "Confident", "Direct", "Playful", "Friendly"],
-        "voiceAndTone": {"dos": ["Celebrate the deposit notification", "Show real-world spending moments", "Talk like a friend who's got their direct deposit set up"], "donts": ["Use the word wealth", "Promote investment products as the main feature", "Run a 'financial wellness journey' campaign"]},
+        "targetAudience": {
+          "primary": "22 to 40. Lives between paychecks. Has a side income that pays sometimes. Wants the app to make payday feel as good as it actually is."
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Direct",
+          "Playful",
+          "Friendly"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Celebrate the deposit notification",
+            "Show real-world spending moments",
+            "Talk like a friend who's got their direct deposit set up"
+          ],
+          "donts": [
+            "Use the word wealth",
+            "Promote investment products as the main feature",
+            "Run a 'financial wellness journey' campaign"
+          ]
+        },
         "logoDirection": "A wordmark in a punchy display serif with the Y of PAYDAY stylized as a small upward arrow, suggesting the deposit. Standalone arrow icon for stickers, push notifications, and social profiles.",
-        "colorPalette": [{"name": "Deposit Green", "hex": "#3E8E5A", "meaning": "Money in.", "usage": "Primary brand color, hero surfaces, swag"}, {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"}, {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"}, {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note, the highlighted deposit.", "usage": "Highlights, social, swag"}, {"name": "Bill Red", "hex": "#D72638", "meaning": "Rent due, the warning.", "usage": "Accent for bills, urgent states"}],
-        "typography": {"primary": "Migra for the wordmark and big display", "secondary": "PP Neue Montreal for body and UI", "rationale": "Migra has personality. Neue Montreal handles the readable bits."},
-        "customSections": [{"title": "What it isn't", "body": "Not a wealth manager. Not a crypto wallet. Not afraid of green. Not too cool to celebrate the deposit."}, {"title": "Where it lives", "body": "Push notifications that feel like a friend texting. Stickers in welcome boxes. A monthly newsletter written like a group chat. Merch people would actually wear."}],
-        "sectionLabels": {"manifesto": "Why we exist", "industrySummary": "The room", "competitorLandscape": "Who else is around", "positioning": "The pitch", "targetAudience": "Who uses this", "personality": "The vibe", "voiceAndTone": "Voice", "logoDirection": "The mark", "colorPalette": "The colors", "typography": "Type"},
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "colorPalette": [
+          {
+            "name": "Deposit Green",
+            "hex": "#3E8E5A",
+            "meaning": "Money in.",
+            "usage": "Primary brand color, hero surfaces, swag"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Margin note, the highlighted deposit.",
+            "usage": "Highlights, social, swag"
+          },
+          {
+            "name": "Bill Red",
+            "hex": "#D72638",
+            "meaning": "Rent due, the warning.",
+            "usage": "Accent for bills, urgent states"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and UI",
+          "rationale": "Migra has personality. Neue Montreal handles the readable bits."
+        },
+        "customSections": [
+          {
+            "title": "What it isn't",
+            "body": "Not a wealth manager. Not a crypto wallet. Not afraid of green. Not too cool to celebrate the deposit."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Push notifications that feel like a friend texting. Stickers in welcome boxes. A monthly newsletter written like a group chat. Merch people would actually wear."
+          }
+        ],
+        "brandDescription": "A finance app for people whose lives run on payday.",
+        "mission": "To build a finance app for people whose lives run on payday.",
+        "vision": "We are the brand for what payday actually is.",
+        "coreValues": [
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Direct — we say what we mean without softening it.",
+          "Playful — seriousness is overrated.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "PAYDAY delivers by:\n• Celebrate the deposit notification\n• Show real-world spending moments\n• Talk like a friend who's got their direct deposit set up"
       }
     ]
   }

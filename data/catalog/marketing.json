@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "Founders and CMOs at mid-stage companies. They have hired a big shop once and were unhappy with the eighty-percent that never shipped."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Confident"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the work, not the process",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. NOTICE in a tight modern grotesk, all caps, six letters with wide kerning. A small geometric mark, a single thin underline beneath, used as the favicon and as a hold-the-eye device in headlines.",
         "colorPalette": [
-          {"name": "Studio Black", "hex": "#101012", "meaning": "Marker on tracing paper.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Bone", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, web body"},
-          {"name": "Highlight Yellow", "hex": "#FFD23F", "meaning": "Marker on the brief.", "usage": "Highlights, web headlines, key callouts"}
+          {
+            "name": "Studio Black",
+            "hex": "#101012",
+            "meaning": "Marker on tracing paper.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, web body"
+          },
+          {
+            "name": "Highlight Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Marker on the brief.",
+            "usage": "Highlights, web headlines, key callouts"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark and headlines",
@@ -37,20 +57,25 @@
           "rationale": "One family. The mono carries the project credits. The regular carries the brand and the editorial."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No award-show strategy for the firm itself. No spec work. No 'partnership' decks. No founder LinkedIn posts about the company values."},
-          {"title": "Where it lives", "body": "A site that loads the work first. A printed annual review of the year's campaigns. A small studio open by appointment. A direct line to the principal on every project."}
+          {
+            "title": "What it doesn't do",
+            "body": "No award-show strategy for the firm itself. No spec work. No 'partnership' decks. No founder LinkedIn posts about the company values."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A site that loads the work first. A printed annual review of the year's campaigns. A small studio open by appointment. A direct line to the principal on every project."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who hires us",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "A small marketing studio that ships campaigns the customer remembers a week later.",
+        "mission": "To build a small marketing studio that ships campaigns the customer remembers a week later.",
+        "vision": "The opening is for a small agency that talks like a craft studio and ships like a product company.",
+        "coreValues": [
+          "Considered — we choose fewer things, more carefully.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Direct — we say what we mean without softening it.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "NOTICE delivers by:\n• Show the work, not the process\n• Speak to the founder, not the procurement team\n• Name the people on the project"
       }
     ],
     "Luxury": [
@@ -65,7 +90,13 @@
         "targetAudience": {
           "primary": "CEOs and founders at mature companies, foundations, and family-held businesses. Hiring brand counsel that will work directly with the principal for years. Not chasing case studies."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Considered", "Confident"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Considered",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +111,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark, used on letterhead, the brass plaque outside the office, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Counsel Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the partner's room.", "usage": "Primary brand color, letterhead, signage"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hallmark, hardware"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+          {
+            "name": "Counsel Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, library walls, the partner's room.",
+            "usage": "Primary brand color, letterhead, signage"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque outside.",
+            "usage": "Foil, hallmark, hardware"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body, dividers"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,20 +142,22 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public client list. No case studies on the website. No social media presence. No press."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public client list. No case studies on the website. No social media presence. No press."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who we counsel",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A small brand advisory firm with two partners and a private client list.",
+        "mission": "To build a small brand advisory firm with two partners and a private client list.",
+        "vision": "The customer is paying for the principals, not the agency machine.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones.",
+          "Considered — we choose fewer things, more carefully.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "Bow & Lyon delivers by:\n• Address the client by surname\n• Speak in the language of the principal's industry\n• Send paper letters between meetings"
       }
     ],
     "Minimal": [
@@ -118,7 +171,12 @@
         "targetAudience": {
           "primary": "Clients who care about the campaign outcome, not the agency story. They check the portfolio. They reorder when the work performs."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the work and the result",
@@ -133,9 +191,24 @@
         },
         "logoDirection": "A wordmark only. HEARD in a single weight grotesk, wide kerned, all caps, five letters with generous space. No icon. The proposal, the contract, and the final files all carry the same wordmark.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,19 +216,21 @@
           "rationale": "One face. The proposal, the deliverable, and the invoice all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No awards strategy. No conference speaking. No founder podcast. No newsletter. No social media presence."}
+          {
+            "title": "Not this",
+            "body": "No awards strategy. No conference speaking. No founder podcast. No newsletter. No social media presence."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who hires us",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A marketing studio named after the outcome, not the discipline.",
+        "mission": "To build a marketing studio named after the outcome, not the discipline.",
+        "vision": "Many campaigns.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "HEARD delivers by:\n• Show the work and the result\n• Use plain English in proposals\n• Confirm engagements in one short letter"
       }
     ],
     "Corporate": [
@@ -175,7 +250,13 @@
             "One firm across editorial, paid, and analytics"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with earned-attention outcomes",
@@ -189,16 +270,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Editorial-grade thinking", "description": "Campaigns built like a journalist would build a story, with a clear angle and a fact-checked headline."},
-          {"name": "One firm across services", "description": "Editorial, paid media, analytics, and CRM under one engagement."},
-          {"name": "Reporting that connects to revenue", "description": "Marketing investment measured against brand equity, pipeline, and revenue."}
+          {
+            "name": "Editorial-grade thinking",
+            "description": "Campaigns built like a journalist would build a story, with a clear angle and a fact-checked headline."
+          },
+          {
+            "name": "One firm across services",
+            "description": "Editorial, paid media, analytics, and CRM under one engagement."
+          },
+          {
+            "name": "Reporting that connects to revenue",
+            "description": "Marketing investment measured against brand equity, pipeline, and revenue."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single thin horizontal rule beneath a slightly heavier rule, suggesting an above-the-fold layout. Reads cleanly on a procurement deck, name badge, and the trust center.",
         "colorPalette": [
-          {"name": "Newsroom Navy", "hex": "#0F2238", "meaning": "Trust, scale, the editor's office.", "usage": "Logo, primary surfaces"},
-          {"name": "Newsprint", "hex": "#F4F1EA", "meaning": "Cream paper.", "usage": "Backgrounds, paper, slides"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Headline Red", "hex": "#A8313F", "meaning": "The masthead red.", "usage": "Highlights, charts, key callouts"}
+          {
+            "name": "Newsroom Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the editor's office.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Newsprint",
+            "hex": "#F4F1EA",
+            "meaning": "Cream paper.",
+            "usage": "Backgrounds, paper, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Headline Red",
+            "hex": "#A8313F",
+            "meaning": "The masthead red.",
+            "usage": "Highlights, charts, key callouts"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -206,20 +316,22 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and printed case study books."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No celebrity-led creative campaigns. No spec work. No award-show submissions for the firm itself. The firm sells through enterprise marketing procurement, not industry awards."}
+          {
+            "title": "What it doesn't do",
+            "body": "No celebrity-led creative campaigns. No spec work. No award-show submissions for the firm itself. The firm sells through enterprise marketing procurement, not industry awards."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Marketing services for companies that want the page-one story, not the bottom-of-the-page mention.",
+        "mission": "Mid-market companies are too small for holding-company attention and too large for boutique bandwidth. We sit between them, with the editorial discipline of a newsroom and the operating model of a modern services firm.",
+        "vision": "There's a clear opening for a mid-size firm that wins on the journalistic idea of earned attention and the operational discipline of modern delivery.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Professional — a core principle the brand operates by."
+        ],
+        "scope": "Page One works across:\n• Editorial-grade thinking\n• One firm across services\n• Reporting that connects to revenue"
       }
     ],
     "Creative": [
@@ -234,7 +346,13 @@
         "targetAudience": {
           "primary": "30 to 55. Founders and CMOs who have run marketing campaigns and watched them die in inboxes. They are looking for an agency that takes the rejection seriously enough to make work that survives it."
         },
-        "brandPersonalityTraits": ["Sharp", "Confident", "Warm", "Direct", "Witty"],
+        "brandPersonalityTraits": [
+          "Sharp",
+          "Confident",
+          "Warm",
+          "Direct",
+          "Witty"
+        ],
         "voiceAndTone": {
           "dos": [
             "Quote real customer rejections in case studies",
@@ -249,11 +367,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the L of LATER stylized as a small strike-through, suggesting the rejection. Standalone strikethrough icon for stickers, social profiles, and the back of every engagement letter.",
         "colorPalette": [
-          {"name": "Rejection Red", "hex": "#D72638", "meaning": "Loud, warm, the editor's mark.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, engagement letters"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note.", "usage": "Highlights, social, swag"},
-          {"name": "Carbon Blue", "hex": "#1B4A8B", "meaning": "Pen ink, the signed letter.", "usage": "Secondary surfaces, signatures"}
+          {
+            "name": "Rejection Red",
+            "hex": "#D72638",
+            "meaning": "Loud, warm, the editor's mark.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, engagement letters"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Margin note.",
+            "usage": "Highlights, social, swag"
+          },
+          {
+            "name": "Carbon Blue",
+            "hex": "#1B4A8B",
+            "meaning": "Pen ink, the signed letter.",
+            "usage": "Secondary surfaces, signatures"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,22 +404,26 @@
           "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and a little defiant."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a holding company. Not an awards-driven studio. Not afraid of red. Not too cool to admit campaigns die."},
-          {"title": "Where it lives", "body": "Engagement letters that quote the worst rejection from the brief. Stickers in every project box. A small studio bar that's open the first Friday of every month. A printed annual yearbook of the year's work, including the campaigns that died."}
+          {
+            "title": "What it isn't",
+            "body": "Not a holding company. Not an awards-driven studio. Not afraid of red. Not too cool to admit campaigns die."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Engagement letters that quote the worst rejection from the brief. Stickers in every project box. A small studio bar that's open the first Friday of every month. A printed annual yearbook of the year's work, including the campaigns that died."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who hires us",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A small marketing studio for clients who know how often customers say 'maybe later'.",
+        "mission": "To build a small marketing studio for clients who know how often customers say 'maybe later'.",
+        "vision": "We are the agency that knows it, names it, and builds campaigns the customer doesn't say it to.",
+        "coreValues": [
+          "Sharp — precision is a form of kindness.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Warm — we are friendly, not formal.",
+          "Direct — we say what we mean without softening it.",
+          "Witty — a core principle the brand operates by."
+        ],
+        "scope": "MAYBE LATER delivers by:\n• Quote real customer rejections in case studies\n• Make jokes about marketing's effectiveness rates\n• Talk like the strategist who has seen the campaign die"
       }
     ]
   }

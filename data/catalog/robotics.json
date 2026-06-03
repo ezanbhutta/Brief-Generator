@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "Heads of Operations, VPs of Logistics, and Plant Managers at companies of 200 to 5000 employees in manufacturing, warehousing, and fulfillment."
         },
-        "brandPersonalityTraits": ["Direct", "Modern", "Precise", "Confident"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Precise",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show real deployments with real customers",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. ARM in a tight modern grotesk, all caps, three letters with wide kerning. A small geometric mark, two thin angled lines suggesting a joint, used as the favicon and on every product capsule.",
         "colorPalette": [
-          {"name": "Steel Black", "hex": "#101012", "meaning": "Powder-coated chassis.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Off Paper", "hex": "#F3F1EC", "meaning": "Used as space.", "usage": "Light mode, paper, secondary"},
-          {"name": "Safety Yellow", "hex": "#FFD23F", "meaning": "Robot-safety zone color.", "usage": "Status indicators, key callouts"}
+          {
+            "name": "Steel Black",
+            "hex": "#101012",
+            "meaning": "Powder-coated chassis.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Off Paper",
+            "hex": "#F3F1EC",
+            "meaning": "Used as space.",
+            "usage": "Light mode, paper, secondary"
+          },
+          {
+            "name": "Safety Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Robot-safety zone color.",
+            "usage": "Status indicators, key callouts"
+          }
         ],
         "typography": {
           "primary": "Inter for the marketing site and product",
@@ -37,20 +57,25 @@
           "rationale": "Inter handles the marketing pages and product UI. The mono carries the technical specs."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No general-purpose humanoid marketing. No glowing-robot hero illustration. No 'replace workers' framing. No celebrity-CEO podcast."},
-          {"title": "Where it lives", "body": "A landing page that shows real deployments in the first scroll. A product capsule that shows cycle time, payload, and reach. A technical documentation site that's actually documentation."}
+          {
+            "title": "What it doesn't do",
+            "body": "No general-purpose humanoid marketing. No glowing-robot hero illustration. No 'replace workers' framing. No celebrity-CEO podcast."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A landing page that shows real deployments in the first scroll. A product capsule that shows cycle time, payload, and reach. A technical documentation site that's actually documentation."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "The reference shelf",
-          "positioning": "The pitch",
-          "targetAudience": "Who deploys this",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "A robotics company that ships robots customers actually deploy.",
+        "mission": "To build a robotics company that ships robots customers actually deploy.",
+        "vision": "The opening is for a brand that talks about robots the way a modern product company talks about products: with clarity, real demos, and concrete deployments.",
+        "coreValues": [
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Precise — accuracy is the brand.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "ARM delivers by:\n• Show real deployments with real customers\n• Lead with cycle times and uptime\n• Speak to the plant manager who'll deploy it"
       }
     ],
     "Luxury": [
@@ -65,7 +90,13 @@
         "targetAudience": {
           "primary": "Heads of Engineering, Plant Managers, and Operations Directors at specialty manufacturers and high-precision applications. They sign multi-year contracts and value the engineering relationship across decades."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Precise", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Precise",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the engineer by surname",
@@ -80,10 +111,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn gear hallmark, two intersecting curves suggesting precision engineering, used on the robot's nameplate, the printed service book, and the brass plaque outside the workshop.",
         "colorPalette": [
-          {"name": "Workshop Green", "hex": "#1E3A30", "meaning": "Old workshop walls.", "usage": "Primary brand color, signage, paper"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal, the nameplate.", "usage": "Foil, hallmark, accents"},
-          {"name": "Cream", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
-          {"name": "Steel", "hex": "#3A3F44", "meaning": "Polished metal, the robot itself.", "usage": "Body type, secondary surfaces"}
+          {
+            "name": "Workshop Green",
+            "hex": "#1E3A30",
+            "meaning": "Old workshop walls.",
+            "usage": "Primary brand color, signage, paper"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal, the nameplate.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Steel",
+            "hex": "#3A3F44",
+            "meaning": "Polished metal, the robot itself.",
+            "usage": "Body type, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,20 +142,22 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the technical specifications."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No general-purpose robots. No press tour. No celebrity-CEO podcast. No social media presence."}
+          {
+            "title": "What it doesn't do",
+            "body": "No general-purpose robots. No press tour. No celebrity-CEO podcast. No social media presence."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who we build for",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A small heritage engineering firm building hand-tuned robots for specific high-precision applications.",
+        "mission": "To build a small heritage engineering firm building hand-tuned robots for specific high-precision applications.",
+        "vision": "The customer is paying for the engineers, the build quality, and the next decade of support.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Patient — we play long games, not loud ones.",
+          "Precise — accuracy is the brand.",
+          "Heritage — a core principle the brand operates by.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "Mowbray Robotics delivers by:\n• Address the engineer by surname\n• Name the tolerances, the materials, the maker\n• Send paper service letters"
       }
     ],
     "Minimal": [
@@ -118,7 +171,12 @@
         "targetAudience": {
           "primary": "Engineers, plant managers, and operations leaders who buy on technical specs and don't need a brand story. They want the cycle time, the payload, the price."
         },
-        "brandPersonalityTraits": ["Plain", "Technical", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Technical",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the cycle time, payload, reach, repeatability",
@@ -133,9 +191,24 @@
         },
         "logoDirection": "A wordmark only. MOTION in a single weight grotesk, wide kerned, all caps, six letters with generous space. No icon. The robot nameplate, the documentation, and the invoice all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, documentation, all neutrals"},
-          {"name": "Steel", "hex": "#9C9A93", "meaning": "Quiet anchor.", "usage": "Secondary surfaces, dividers"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, documentation, all neutrals"
+          },
+          {
+            "name": "Steel",
+            "hex": "#9C9A93",
+            "meaning": "Quiet anchor.",
+            "usage": "Secondary surfaces, dividers"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,19 +216,21 @@
           "rationale": "One face. The nameplate, the documentation, and the invoice all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No general-purpose humanoid marketing. No founder podcast. No conference circuit. No social media presence."}
+          {
+            "title": "Not this",
+            "body": "No general-purpose humanoid marketing. No founder podcast. No conference circuit. No social media presence."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The reference",
-          "positioning": "The line",
-          "targetAudience": "Who deploys this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "A robotics company named after what robots actually do.",
+        "mission": "To build a robotics company named after what robots actually do.",
+        "vision": "There's an opening for one that strips it back to the fundamental concept: programmable motion.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Technical — the spec is the position.",
+          "Direct — we say what we mean without softening it.",
+          "Considered — we choose fewer things, more carefully."
+        ],
+        "scope": "MOTION delivers by:\n• Show the cycle time, payload, reach, repeatability\n• Document every API call\n• Use plain English where plain English will do"
       }
     ],
     "Corporate": [
@@ -175,7 +250,13 @@
             "One partner across design, installation, and operations"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with deployment outcomes",
@@ -189,16 +270,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Engineering depth", "description": "In-house engineering team with deep experience across major robotics platforms."},
-          {"name": "Multi-year service support", "description": "Long-term service agreements with documented uptime and parts availability."},
-          {"name": "One partner across phases", "description": "Design, installation, integration, and operations under one contract."}
+          {
+            "name": "Engineering depth",
+            "description": "In-house engineering team with deep experience across major robotics platforms."
+          },
+          {
+            "name": "Multi-year service support",
+            "description": "Long-term service agreements with documented uptime and parts availability."
+          },
+          {
+            "name": "One partner across phases",
+            "description": "Design, installation, integration, and operations under one contract."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single rotational arrow, suggesting a robotic joint axis. Reads cleanly on a procurement deck, name badge, and B2B trade show booth.",
         "colorPalette": [
-          {"name": "Plant Navy", "hex": "#0F2238", "meaning": "Trust, scale, the engineering room.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Uptime Green", "hex": "#3E8E5A", "meaning": "Status accent.", "usage": "Charts, status indicators, success states"}
+          {
+            "name": "Plant Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the engineering room.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Uptime Green",
+            "hex": "#3E8E5A",
+            "meaning": "Status accent.",
+            "usage": "Charts, status indicators, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and product UI",
@@ -206,20 +316,22 @@
           "rationale": "Inter scales clean across digital. The serif handles formal engineering documentation and printed proposals."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No consumer robot. No D2C product. No celebrity-CEO press strategy. The firm sells through enterprise industrial procurement."}
+          {
+            "title": "What it doesn't do",
+            "body": "No consumer robot. No D2C product. No celebrity-CEO press strategy. The firm sells through enterprise industrial procurement."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Industrial automation services for mid-market manufacturers and warehouse operators.",
+        "mission": "Mid-market manufacturers want automation partners with the engineering depth of the giants and the responsiveness of a smaller firm. We sit between them.",
+        "vision": "The category is dominated by the giants and a few specialist integrators.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Strategic — a core principle the brand operates by."
+        ],
+        "scope": "Caldwell Robotics Co. works across:\n• Engineering depth\n• Multi-year service support\n• One partner across phases"
       }
     ],
     "Creative": [
@@ -234,7 +346,13 @@
         "targetAudience": {
           "primary": "30 to 55. Engineers, plant managers, and robotics integrators. Has seen one robot fail in a way that shouldn't have happened. Buys the brand because the marketing made them feel like the team thinks about safety the way they do."
         },
-        "brandPersonalityTraits": ["Sharp", "Warm", "Confident", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Sharp",
+          "Warm",
+          "Confident",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the safety envelope, the limits, the documentation",
@@ -249,11 +367,36 @@
         },
         "logoDirection": "A wordmark in a punchy display sans with the O of STOP stylized as a small mechanical stop pin. Standalone stop-pin icon for stickers, social profiles, and the back of every safety manual.",
         "colorPalette": [
-          {"name": "Stop Red", "hex": "#D72638", "meaning": "Loud, the emergency-stop button.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Safety Yellow", "hex": "#FFD23F", "meaning": "Robot-safety zone.", "usage": "Accents, swag, social"},
-          {"name": "Steel Black", "hex": "#0E0E10", "meaning": "Anchor, the chassis.", "usage": "Body type, secondary surfaces"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Indigo", "hex": "#3870FF", "meaning": "Software accent.", "usage": "Highlights, status indicators"}
+          {
+            "name": "Stop Red",
+            "hex": "#D72638",
+            "meaning": "Loud, the emergency-stop button.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Safety Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Robot-safety zone.",
+            "usage": "Accents, swag, social"
+          },
+          {
+            "name": "Steel Black",
+            "hex": "#0E0E10",
+            "meaning": "Anchor, the chassis.",
+            "usage": "Body type, secondary surfaces"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Indigo",
+            "hex": "#3870FF",
+            "meaning": "Software accent.",
+            "usage": "Highlights, status indicators"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,22 +404,26 @@
           "rationale": "Migra has personality and warmth. Neue Montreal handles the technical bits. The pair feels designed and honest."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not an AI-hype brand. Not a general-purpose humanoid pitch. Not afraid of red. Not too cool to celebrate a safety review."},
-          {"title": "Where it lives", "body": "Safety manuals that are actually well-written. Stickers in every robot box. A small in-person meetup for robotics engineers every quarter. A merch line of two tees that say HARD STOP across the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not an AI-hype brand. Not a general-purpose humanoid pitch. Not afraid of red. Not too cool to celebrate a safety review."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Safety manuals that are actually well-written. Stickers in every robot box. A small in-person meetup for robotics engineers every quarter. A merch line of two tees that say HARD STOP across the back."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who deploys this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A robotics brand for engineers who know that knowing when to stop is the harder problem.",
+        "mission": "To build a robotics brand for engineers who know that knowing when to stop is the harder problem.",
+        "vision": "We are anti-hype, pro-engineering.",
+        "coreValues": [
+          "Sharp — precision is a form of kindness.",
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Direct — we say what we mean without softening it.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "HARD STOP delivers by:\n• Show the safety envelope, the limits, the documentation\n• Make jokes about robotics hype\n• Talk like the engineer who has done the safety review"
       }
     ]
   }

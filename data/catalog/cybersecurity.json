@@ -13,7 +13,12 @@
         "targetAudience": {
           "primary": "CISOs, Heads of Security, and Security Engineers at companies of 200 to 10000 employees. They already use three security tools and want the fourth to consolidate the stack."
         },
-        "brandPersonalityTraits": ["Direct", "Modern", "Precise", "Confident"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Precise",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the finding and the fix side by side",
@@ -28,9 +33,24 @@
         },
         "logoDirection": "A wordmark only. OPEN PORT in a tight modern grotesk, all caps, two words on one line. A small geometric mark, two opposing brackets suggesting a port closing, used as the favicon and on the security dashboard.",
         "colorPalette": [
-          {"name": "Editor Black", "hex": "#0F1014", "meaning": "Dark IDE, the security dashboard at midnight.", "usage": "Primary surface, marketing site, dashboard"},
-          {"name": "Off Paper", "hex": "#F3F1EC", "meaning": "Used as space, the light theme.", "usage": "Light mode, paper, secondary"},
-          {"name": "Closed Green", "hex": "#3E8E5A", "meaning": "Cleared, safe, the closed-port state.", "usage": "Status, success states, charts"}
+          {
+            "name": "Editor Black",
+            "hex": "#0F1014",
+            "meaning": "Dark IDE, the security dashboard at midnight.",
+            "usage": "Primary surface, marketing site, dashboard"
+          },
+          {
+            "name": "Off Paper",
+            "hex": "#F3F1EC",
+            "meaning": "Used as space, the light theme.",
+            "usage": "Light mode, paper, secondary"
+          },
+          {
+            "name": "Closed Green",
+            "hex": "#3E8E5A",
+            "meaning": "Cleared, safe, the closed-port state.",
+            "usage": "Status, success states, charts"
+          }
         ],
         "typography": {
           "primary": "Inter for the marketing site and product",
@@ -38,20 +58,25 @@
           "rationale": "Inter is the dev default for clean product marketing. JetBrains Mono carries the findings, the code, and the technical detail."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No 'nation-state threats' marketing. No glowing-figure-in-hoodie illustrations. No fear-based ad campaigns. No founder podcast about cyber warfare."},
-          {"title": "Where it lives", "body": "A landing page that shows a real finding in the first scroll. A product dashboard that prioritizes findings by exploitability. A changelog written like a developer talking to other developers."}
+          {
+            "title": "What it doesn't do",
+            "body": "No 'nation-state threats' marketing. No glowing-figure-in-hoodie illustrations. No fear-based ad campaigns. No founder podcast about cyber warfare."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A landing page that shows a real finding in the first scroll. A product dashboard that prioritizes findings by exploitability. A changelog written like a developer talking to other developers."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The market",
-          "competitorLandscape": "The reference shelf",
-          "positioning": "The pitch",
-          "targetAudience": "Who uses this",
-          "personality": "The feel",
-          "voiceAndTone": "How it talks",
-          "logoDirection": "The logo",
-          "colorPalette": "The colors",
-          "typography": "The fonts"
-        }
+        "brandDescription": "Cloud security that ships findings developers will actually fix.",
+        "mission": "Most security products ship noise. We ship findings prioritized by exploitability and fixability. The brand promise is that the security team's first list of findings can be triaged in an afternoon.",
+        "vision": "The customer is a CISO or security engineer who already evaluates five vendors a quarter and wants the sixth to be the one that actually works.",
+        "coreValues": [
+          "Direct — we say what we mean without softening it.",
+          "Modern — we build for the customer reading this on a phone.",
+          "Precise — accuracy is the brand.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "OPEN PORT delivers by:\n• Show the finding and the fix side by side\n• Lead with what the product ships\n• Speak to the security engineer who'd use the tool"
       }
     ],
     "Luxury": [
@@ -66,7 +91,13 @@
         "targetAudience": {
           "primary": "Family offices, foundations, private trustees, and institutions with multi-generational counsel needs. Often inherited the relationship. Values the discretion above all."
         },
-        "brandPersonalityTraits": ["Refined", "Discreet", "Patient", "Heritage", "Confident"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Heritage",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -81,10 +112,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark, used on letterhead, the brass plaque outside the office, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Counsel Green", "hex": "#1E3A30", "meaning": "Old library walls, the partner's room.", "usage": "Primary brand color, letterhead, signage"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hallmark, accents"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body type, dividers"}
+          {
+            "name": "Counsel Green",
+            "hex": "#1E3A30",
+            "meaning": "Old library walls, the partner's room.",
+            "usage": "Primary brand color, letterhead, signage"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque outside.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body type, dividers"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -92,20 +143,22 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the secure portal."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public client list. No press appearances. No conference speaking. No social media. No content strategy. No website beyond a single address card."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public client list. No press appearances. No conference speaking. No social media. No content strategy. No website beyond a single address card."
+          }
         ],
-        "sectionLabels": {
-          "story": "How this began",
-          "industrySummary": "The category",
-          "competitorLandscape": "The neighborhood",
-          "positioning": "The promise",
-          "targetAudience": "Who we counsel",
-          "personality": "How it carries itself",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Palette",
-          "typography": "Type"
-        }
+        "brandDescription": "A small advisory firm providing strategic security counsel to families, foundations, and institutions.",
+        "mission": "To build a small advisory firm providing strategic security counsel to families, foundations, and institutions.",
+        "vision": "The customer is paying for the principals, the discretion, and the long-term relationship.",
+        "coreValues": [
+          "Refined — a core principle the brand operates by.",
+          "Discreet — what happens in the room stays in the room.",
+          "Patient — we play long games, not loud ones.",
+          "Heritage — a core principle the brand operates by.",
+          "Confident — we stand behind the work, not the marketing."
+        ],
+        "scope": "Wellesley & Co. delivers by:\n• Address the client by surname\n• Speak in the language of the discipline\n• Send paper letters where appropriate"
       }
     ],
     "Minimal": [
@@ -119,7 +172,12 @@
         "targetAudience": {
           "primary": "Engineers and small business owners who need a network firewall or endpoint protection and don't want to read sales materials. They want the product, the price, and the documentation."
         },
-        "brandPersonalityTraits": ["Plain", "Technical", "Honest", "Direct"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Technical",
+          "Honest",
+          "Direct"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the product, the technical specs, the price",
@@ -134,9 +192,24 @@
         },
         "logoDirection": "A wordmark only. LOCK in a single weight grotesk, wide kerned, all caps, four letters with generous space. No icon. The dashboard, the documentation, and the invoice all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, documentation, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, documentation, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -144,19 +217,21 @@
           "rationale": "One face. The product, the docs, and the website all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No threat-intelligence content. No fear-based marketing. No conference circuit. No social media presence beyond a single archive page."}
+          {
+            "title": "Not this",
+            "body": "No threat-intelligence content. No fear-based marketing. No conference circuit. No social media presence beyond a single archive page."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "Where we are",
-          "competitorLandscape": "The shelf",
-          "positioning": "The line",
-          "targetAudience": "Who uses this",
-          "personality": "The feel",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "Color",
-          "typography": "Type"
-        }
+        "brandDescription": "Network security. Plain product. Clear pricing.",
+        "mission": "To build network security. Plain product. Clear pricing.",
+        "vision": "There's an opening for one that strips it back to the simplest verb.",
+        "coreValues": [
+          "Plain — plain language survives every translation.",
+          "Technical — the spec is the position.",
+          "Honest — including when the answer is one we'd rather not give.",
+          "Direct — we say what we mean without softening it."
+        ],
+        "scope": "LOCK delivers by:\n• Show the product, the technical specs, the price\n• Confirm orders in one short line\n• Use plain language"
       }
     ],
     "Corporate": [
@@ -176,7 +251,13 @@
             "One partner across detection, response, and consulting"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with detection and response capability",
@@ -190,16 +271,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "24/7 detection and response", "description": "Round-the-clock security operations center with documented response times and escalation paths."},
-          {"name": "Compliance-grade documentation", "description": "SOC 2, ISO 27001, FedRAMP, and HIPAA documentation prepared for audit on demand."},
-          {"name": "One partner across the security stack", "description": "Managed detection, incident response, vulnerability management, and consulting under one contract."}
+          {
+            "name": "24/7 detection and response",
+            "description": "Round-the-clock security operations center with documented response times and escalation paths."
+          },
+          {
+            "name": "Compliance-grade documentation",
+            "description": "SOC 2, ISO 27001, FedRAMP, and HIPAA documentation prepared for audit on demand."
+          },
+          {
+            "name": "One partner across the security stack",
+            "description": "Managed detection, incident response, vulnerability management, and consulting under one contract."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single shield silhouette with a horizontal divider, suggesting structure and protection. Reads cleanly on a procurement deck, name badge, and the trust center.",
         "colorPalette": [
-          {"name": "Aegis Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Cleared Green", "hex": "#3E8E5A", "meaning": "Status accent.", "usage": "Charts, certifications, status indicators"}
+          {
+            "name": "Aegis Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Cleared Green",
+            "hex": "#3E8E5A",
+            "meaning": "Status accent.",
+            "usage": "Charts, certifications, status indicators"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and product UI",
@@ -207,20 +317,22 @@
           "rationale": "Inter scales clean across digital. The serif handles formal compliance reports and printed trust center documentation."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C security product. No free consumer tools. No celebrity-CISO partnerships. The firm sells through enterprise procurement, not security-conference theatre."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C security product. No free consumer tools. No celebrity-CISO partnerships. The firm sells through enterprise procurement, not security-conference theatre."
+          }
         ],
-        "sectionLabels": {
-          "industrySummary": "The category",
-          "competitorLandscape": "The competitive set",
-          "positioning": "Our positioning",
-          "targetAudience": "Who buys this",
-          "personality": "Brand personality",
-          "voiceAndTone": "Voice and tone",
-          "messagingPillars": "What we say",
-          "logoDirection": "Logo",
-          "colorPalette": "Color system",
-          "typography": "Typography"
-        }
+        "brandDescription": "Cybersecurity services for mid-market and growth-stage enterprise.",
+        "mission": "Mid-market and growth-stage companies are too small for Mandiant attention and too sophisticated for boutique firms. We sit between them, with operating discipline and modern delivery.",
+        "vision": "The category is mostly served by the giant integrators and a few specialist firms.",
+        "coreValues": [
+          "Trustworthy — a core principle the brand operates by.",
+          "Capable — a core principle the brand operates by.",
+          "Direct — we say what we mean without softening it.",
+          "Steady — a core principle the brand operates by.",
+          "Strategic — a core principle the brand operates by."
+        ],
+        "scope": "Aegis Cyber Group works across:\n• 24/7 detection and response\n• Compliance-grade documentation\n• One partner across the security stack"
       }
     ],
     "Creative": [
@@ -235,7 +347,13 @@
         "targetAudience": {
           "primary": "25 to 45. Security engineers, DevOps engineers, IT operations managers. They already use three security tools and want the fourth to be the one their team actually likes."
         },
-        "brandPersonalityTraits": ["Sharp", "Warm", "Confident", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Sharp",
+          "Warm",
+          "Confident",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the patch and what it fixed",
@@ -250,11 +368,36 @@
         },
         "logoDirection": "A wordmark in a punchy display sans with the T of NOTES stylized as a small cross or fix symbol. Standalone fix-cross icon for stickers, social profiles, and the back of every release email.",
         "colorPalette": [
-          {"name": "Fix Green", "hex": "#3E8E5A", "meaning": "The color of a successful patch, the cleared status.", "usage": "Primary brand color, hero surfaces, status"},
-          {"name": "Editor Black", "hex": "#0E0E10", "meaning": "Dark IDE, anchor.", "usage": "Body type, secondary surfaces, dark mode"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note, the highlighted line.", "usage": "Highlights, social, swag"},
-          {"name": "Caution Orange", "hex": "#FF6A2A", "meaning": "Warning accent, used sparingly.", "usage": "Secondary, alert states"}
+          {
+            "name": "Fix Green",
+            "hex": "#3E8E5A",
+            "meaning": "The color of a successful patch, the cleared status.",
+            "usage": "Primary brand color, hero surfaces, status"
+          },
+          {
+            "name": "Editor Black",
+            "hex": "#0E0E10",
+            "meaning": "Dark IDE, anchor.",
+            "usage": "Body type, secondary surfaces, dark mode"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Margin note, the highlighted line.",
+            "usage": "Highlights, social, swag"
+          },
+          {
+            "name": "Caution Orange",
+            "hex": "#FF6A2A",
+            "meaning": "Warning accent, used sparingly.",
+            "usage": "Secondary, alert states"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -262,22 +405,26 @@
           "rationale": "Migra has personality. Neue Montreal handles the technical bits. The pair feels designed and honest."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a fear brand. Not a nation-state-threats brand. Not afraid of green. Not too cool to celebrate fixing a CVE."},
-          {"title": "Where it lives", "body": "A weekly newsletter that's actually patch notes from the team. Stickers in every welcome envelope. A merch line of two tees that say PATCH NOTES across the back. A small in-person meetup for security engineers every quarter."}
+          {
+            "title": "What it isn't",
+            "body": "Not a fear brand. Not a nation-state-threats brand. Not afraid of green. Not too cool to celebrate fixing a CVE."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A weekly newsletter that's actually patch notes from the team. Stickers in every welcome envelope. A merch line of two tees that say PATCH NOTES across the back. A small in-person meetup for security engineers every quarter."
+          }
         ],
-        "sectionLabels": {
-          "manifesto": "Why we exist",
-          "industrySummary": "The room",
-          "competitorLandscape": "Who else is around",
-          "positioning": "The pitch",
-          "targetAudience": "Who uses this",
-          "personality": "The vibe",
-          "voiceAndTone": "Voice",
-          "logoDirection": "The mark",
-          "colorPalette": "The colors",
-          "typography": "Type"
-        },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "brandDescription": "A security brand for the people doing the maintenance.",
+        "mission": "To build a security brand for the people doing the maintenance.",
+        "vision": "We are a maintenance brand.",
+        "coreValues": [
+          "Sharp — precision is a form of kindness.",
+          "Warm — we are friendly, not formal.",
+          "Confident — we stand behind the work, not the marketing.",
+          "Direct — we say what we mean without softening it.",
+          "Friendly — a core principle the brand operates by."
+        ],
+        "scope": "PATCH NOTES delivers by:\n• Show the patch and what it fixed\n• Make jokes about the security industry\n• Talk like the engineer who'd be implementing the fix"
       }
     ]
   }
