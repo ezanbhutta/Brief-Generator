@@ -73,6 +73,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "PARSE delivers by:\n• Write like a senior engineer documenting for the next one\n• Show code in the first paragraph\n• Be specific about what the tool does and does not do"
+      },
+      {
+        "id": "devtools-modern-2",
+        "brandName": "Lattice Devtools",
+        "tagline": "Developer tools for the parts of the stack nobody else maintains.",
+        "brandDescription": "Lattice Devtools is a modern developer tools company building observability, schema-management, and infrastructure tooling for production engineering teams.",
+        "scope": "Lattice Devtools works across:\n• Observability and tracing for production services\n• Schema-management and migration tooling for databases\n• CLI and SDK tooling in Go, Rust, Python, and TypeScript\n• Self-hosted and managed cloud deployment options\n• Open-source core with paid enterprise tier",
+        "mission": "To maintain the unglamorous parts of the stack so engineering teams don't have to.",
+        "vision": "A devtools company whose tools are still the standard in production engineering ten years after first install.",
+        "coreValues": [
+          "Direct — the documentation is the marketing.",
+          "Technical — every benchmark is published.",
+          "Considered — features ship when they're stable.",
+          "Reliable — APIs deprecate on a published schedule, not by surprise."
+        ],
+        "brandNameRationale": "Lattice is a real engineering term for a structured framework of connected points — used in physics, materials science, and software architecture. Single trade-rooted word, archaic in everyday speech, immediately readable to engineers. Devtools is the plain category suffix. Stands in the lineage of single-word modern developer tools (Linear, Stripe, Vercel, Render, Fly).",
+        "manifesto": "Most developer tools companies build the surface layer — the dashboard, the CLI, the documentation site. We started Lattice to build the parts underneath: the trace storage, the schema migrator, the connection pool, the parts that fail at 3am if they're not maintained well. Tools for the parts of the stack nobody else wants to maintain.",
+        "industrySummary": "Modern developer tools has split between the platform-as-a-service cohort (Vercel, Netlify, Fly) and the observability cohort (Datadog, Honeycomb, Grafana). The opening underneath is for a modern tools company focused on the unglamorous infrastructure layer with strong open-source roots.",
+        "competitorLandscape": "Honeycomb (honeycomb.io) is the closest peer in modern observability. Grafana Labs (grafana.com) holds the open-source observability slot. Vercel (vercel.com) sits in the modern developer-platform peer position. Linear (linear.app) plays the considered-modern devtools reference. We sit alongside Honeycomb and Grafana with a stronger schema-management focus.",
+        "positioningStatement": "Lattice Devtools builds the observability and schema-management tooling production engineering teams need to keep the unglamorous parts of the stack working.",
+        "positioningRationale": "We compete on infrastructure-layer depth rather than developer-experience polish. The customer is the engineer on call at 3am, not the engineer evaluating tools at noon.",
+        "targetAudience": {
+          "primary": "Senior platform engineers, SREs, and infrastructure leads at companies of 50–500 engineers running production services in cloud-native environments.",
+          "behaviors": [
+            "Maintain production observability and schema-migration tooling.",
+            "Read engineering blogs and contribute to open-source.",
+            "Care about tool stability over feature breadth.",
+            "Choose tools based on the open-source repo activity."
+          ],
+          "motivations": [
+            "Need tools that work in production for years.",
+            "Want strong open-source roots with sensible paid tiers.",
+            "Want a vendor whose engineers would use the same tool."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Technical",
+          "Considered",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the engineering problem, then the tool.",
+            "Publish the open-source roadmap on the website.",
+            "Reference benchmarks, latencies, and footprint by published numbers.",
+            "Sign release notes by the engineer who shipped the feature."
+          ],
+          "donts": [
+            "No 'AI-powered' marketing.",
+            "No developer-experience superlatives.",
+            "No press-release-led launches.",
+            "No feature comparison charts that aren't honest."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Open-source core",
+            "description": "Every Lattice tool ships with an open-source core under a permissive license. The OSS version is production-capable; the paid version adds enterprise needs (SSO, audit, multi-region, support)."
+          },
+          {
+            "name": "Production-first",
+            "description": "Every release goes through the same production pipeline our customers use. Benchmarks and footprint metrics are published with every release."
+          },
+          {
+            "name": "Long-lived APIs",
+            "description": "Public APIs are versioned and deprecated on a published 24-month schedule. Customers know what's stable across years."
+          }
+        ],
+        "logoDirection": "A wordmark — Lattice Devtools set in a precise modern grotesque with a small geometric mark suggesting a connected lattice structure. The mark appears in the favicon and the CLI prompt.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#0F172A",
+            "meaning": "Primary — the colour of a dark terminal.",
+            "usage": "Wordmark, headings, navigation."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "Marketing surfaces, light-mode documentation."
+          },
+          {
+            "name": "Signal",
+            "hex": "#3D5BFF",
+            "meaning": "Single accent — primary actions and active states.",
+            "usage": "Buttons, links, status indicators."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark and product chrome.",
+          "secondary": "JetBrains Mono for code, command-line examples, and benchmark tables.",
+          "rationale": "Two faces. The grotesque is the company. The mono is the working surface."
+        }
       }
     ],
     "Luxury": [
@@ -155,6 +250,101 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "Westgate Systems delivers by:\n• Write fewer, longer paragraphs\n• Use accurate technical language\n• Speak to the leader, not the user"
+      },
+      {
+        "id": "devtools-luxury-2",
+        "brandName": "Werner & Schmidt Engineering",
+        "tagline": "A small engineering firm. Six clients a year.",
+        "brandDescription": "Werner & Schmidt Engineering is a small heritage software-engineering partnership advising significant institutions on architecture, distributed-systems design, and cryptographic implementation.",
+        "scope": "Werner & Schmidt Engineering works across:\n• Architecture review for distributed systems\n• Cryptographic implementation consulting\n• Long-term engagements with capital-markets and government clients\n• Confidential code-review services for critical systems\n• Annual private engineering seminar for invited colleagues",
+        "mission": "To advise a small number of institutions on the engineering problems that should not be solved on a deadline.",
+        "vision": "A partnership whose engagement letters from 1998 are still in force in 2030.",
+        "coreValues": [
+          "Senior — the partners do the work.",
+          "Discreet — what happens in the engagement stays in the engagement.",
+          "Considered — slow advice, given carefully.",
+          "Patient — we play decades, not quarters."
+        ],
+        "brandNameRationale": "Werner and Schmidt are real German surnames common in the founding generation of European engineering firms (think Werner von Siemens, Schmidt-Bender precision engineering). Paired they signal a partnership rooted in the rigorous European engineering tradition. Engineering is the plain category suffix. Stands in the lineage of small senior engineering partnerships (Trail of Bits' founders' format, Stamos Group register).",
+        "manifesto": "Most engineering consulting firms grow. Werner & Schmidt has remained a two-partner partnership since 1998. We advise six client institutions per year on engineering problems with long timelines and high consequences. The partners write the report. The partners attend the review. No associates seeing the code in our name.",
+        "industrySummary": "Premium engineering consulting has consolidated under a small number of global firms (McKinsey Digital, BCG Platinion, Accenture Federal). There is a quieter market for the small senior engineering partnership advising critical-systems institutions on architectural and cryptographic problems.",
+        "competitorLandscape": "Stamos Group (stamos.group) is the closest peer in senior cryptographic-and-systems advisory. Trail of Bits (trailofbits.com) holds the elite research-and-engineering peer slot. Latacora (latacora.com) plays the engineering-led security middle. Praetorian (praetorian.com) sits in the senior security-engineering peer position. We belong with Stamos Group in the small senior partnership category.",
+        "positioningStatement": "A small heritage engineering partnership advising six client institutions per year on architecture, distributed systems, and cryptographic implementation.",
+        "positioningRationale": "We do not extend the partnership. The two partners are the engagement. Clients are accepted by referral; the relationships span decades.",
+        "targetAudience": {
+          "primary": "CTOs and chief architects at capital-markets firms, government bodies, and significant institutions with long-arc systems that must not fail.",
+          "behaviors": [
+            "Engage advisors by personal referral from senior peers.",
+            "Sit through architecture reviews in person.",
+            "Care about engagement quality over deck count.",
+            "Renew with the same firm across multiple system generations."
+          ],
+          "motivations": [
+            "Need advice from named senior engineers, not associates.",
+            "Need a firm whose previous work is in production for decades.",
+            "Need a relationship that survives changes in the institution's leadership."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname.",
+            "Sign correspondence by the named partner.",
+            "Reference past engagements by year and architecture type.",
+            "Print all material communications."
+          ],
+          "donts": [
+            "No published case studies.",
+            "No press commentary on engineering work.",
+            "No social-media presence beyond a single archive.",
+            "No marketing material beyond a partnership directory."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Six engagements a year",
+            "description": "New engagements are accepted only when existing engagements complete. The waiting list is real and quiet."
+          },
+          {
+            "name": "Partners on every engagement",
+            "description": "Both partners are involved on every engagement. There is no associate layer."
+          },
+          {
+            "name": "Multi-decade arcs",
+            "description": "Most client institutions have been with the partnership for over a decade. Engagements often span multiple generations of the institution's leadership."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Werner & Schmidt Engineering set in a classical book serif with a long ampersand. Letterhead register. Used on engagement letters and the office brass plate.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Letterhead.",
+            "usage": "All correspondence."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body of letters."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The office brass plate only."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif on letterhead and signage.",
+          "secondary": "An engraver's italic for the partnership name on the brass plate.",
+          "rationale": "Letterpress and engraver's register only. The firm communicates almost entirely in print."
+        }
       }
     ],
     "Minimal": [
@@ -228,6 +418,99 @@
           "Precise — accuracy is the brand."
         ],
         "scope": "stdin delivers by:\n• Write in plain text\n• Show the command, then explain it\n• Use mono font everywhere"
+      },
+      {
+        "id": "devtools-minimal-2",
+        "brandName": "Hex",
+        "tagline": "A small CLI. A small company.",
+        "brandDescription": "Hex is a minimal developer tools company shipping a small CLI plus accompanying libraries for hexadecimal-, binary-, and protocol-level work.",
+        "scope": "Hex works across:\n• A single CLI tool for binary inspection and protocol debugging\n• Companion libraries for major languages\n• Self-hosted only — no managed service\n• Free for individuals, single-fee enterprise license\n• One release per quarter, on a published date",
+        "mission": "To ship one focused CLI that engineers reach for when nothing else fits.",
+        "vision": "A CLI that's still installed on engineers' machines in 2040, on the same single-fee enterprise license.",
+        "coreValues": [
+          "Plain — one CLI, one fee.",
+          "Direct — the man page is the marketing.",
+          "Considered — every flag earns its place."
+        ],
+        "brandNameRationale": "Hex is short for hexadecimal — the base-16 representation engineers use for binary data, memory addresses, and protocol payloads. Three letters, instantly readable inside engineering. Single-word naming follows the modern minimal CLI tradition (curl, jq, ripgrep, fd, fzf).",
+        "manifesto": "Most CLI tools start small and grow into platforms. We made Hex because the actual best tools stay small. One CLI. Companion libraries in the major languages. A single fee for enterprise. We will not add a dashboard. We will not add a SaaS tier. The CLI is the work.",
+        "industrySummary": "Single-purpose CLI tools have a recognized place in the engineering toolkit (curl, jq, ripgrep, fd). There is room for a small company shipping a focused commercial CLI with a clean self-hosted business model.",
+        "competitorLandscape": "Wireshark (wireshark.org) plays the network-inspection reference. jq (stedolan.github.io/jq) holds the small-CLI tradition. tcpdump and hexdump are the legacy peers. Hopper Disassembler (hopperapp.com) sits in the single-purpose commercial CLI peer position. We sit further out — focused on binary and protocol work, single-fee commercial model.",
+        "positioningStatement": "Hex is a single-purpose CLI for binary inspection and protocol debugging, sold under a single enterprise fee with no managed service.",
+        "positioningRationale": "We strip the company surface. One CLI. One fee. No dashboard. No SaaS. The CLI is the product.",
+        "targetAudience": {
+          "primary": "Backend engineers, network engineers, and protocol implementers who work at the binary and packet layer.",
+          "behaviors": [
+            "Reach for the command line first.",
+            "Read RFCs.",
+            "Work with binary protocols, packet captures, and embedded systems.",
+            "Care about CLI ergonomics."
+          ],
+          "motivations": [
+            "Want a small focused tool.",
+            "Want a clean commercial license without SaaS.",
+            "Want a tool that doesn't expand into a platform."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the man page.",
+            "Publish the changelog as the news channel.",
+            "Show example commands, not screenshots.",
+            "Sign release notes with the engineer's first name."
+          ],
+          "donts": [
+            "No 'developer-experience' marketing.",
+            "No SaaS tier announcements.",
+            "No conference booth presence beyond a small table.",
+            "No social media beyond a release-announcement channel."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One CLI",
+            "description": "The product is a single CLI. Companion libraries in major languages mirror the CLI's flags. We will not ship a dashboard."
+          },
+          {
+            "name": "Single enterprise fee",
+            "description": "Enterprise license is a single annual fee per company, regardless of seat count. Individual use is free."
+          },
+          {
+            "name": "Quarterly releases",
+            "description": "One release per quarter, on a published date. Patch releases for security issues only."
+          }
+        ],
+        "logoDirection": "Hex set in JetBrains Mono, all lowercase, at small scale. Appears in the CLI's --help output and on the website header and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Terminal",
+            "hex": "#0F172A",
+            "meaning": "Primary — the colour of a dark terminal.",
+            "usage": "Wordmark, code blocks."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Diff",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Active states in the CLI output."
+          }
+        ],
+        "typography": {
+          "primary": "JetBrains Mono for the wordmark, CLI output, and most marketing copy.",
+          "secondary": "Inter for prose paragraphs and pricing.",
+          "rationale": "Two faces, both functional. The mono signals 'this is the tool'. The sans signals 'this is the explanation'."
+        }
       }
     ],
     "Corporate": [
@@ -329,6 +612,101 @@
           "Professional — a core principle the brand operates by."
         ],
         "scope": "KEYSTONE SYSTEMS works across:\n• One platform\n• Compliance ready\n• Predictable to operate"
+      },
+      {
+        "id": "devtools-corporate-2",
+        "brandName": "Garrick Developer Holdings",
+        "tagline": "Multi-brand developer tools operator, mid-market.",
+        "brandDescription": "Garrick Developer Holdings operates a portfolio of developer tools brands across observability, security, infrastructure, and developer-experience categories.",
+        "scope": "Garrick Developer Holdings works across:\n• Multi-brand developer tools operations\n• Shared sales and account-management infrastructure\n• Enterprise contracting across the portfolio\n• Shared platform engineering and SRE function\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier developer tools brands that want to keep their identity and outsource the operations.",
+        "vision": "A multi-brand developer tools operator where every brand's renewal rate climbs in year two because the operations stop being the brand's problem.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — enterprise sales runs on schedule.",
+          "Reliable — predictable terms across the portfolio.",
+          "Discreet — brand relationships stay between us and the brand."
+        ],
+        "brandNameRationale": "Garrick is a real English surname with a heritage trade-name register (David Garrick, the 18th-century theatre manager). Developer Holdings follows the multi-brand operator naming convention used in software (Sumo Logic, Progress Software, Open Text structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Garrick Developer Holdings owns and operates a portfolio of developer tools brands. Each brand retains its identity, engineering team, and roadmap; we operate the shared sales infrastructure, enterprise contracting, and back office. The buyer is a brand founder considering sale, an enterprise consolidating vendor relationships, or an institutional investor holding developer-tools assets.",
+        "industrySummary": "Developer tools has consolidated under a small number of multi-brand operators (Splunk, Progress Software, Sumo Logic acquired by Francisco Partners). The opening underneath is for a serious mid-tier multi-brand operator with deep engineering operations and the procurement-grade reliability enterprise developers require.",
+        "competitorLandscape": "Progress Software (progress.com) is the multi-brand devtools reference. Open Text (opentext.com) holds the broad enterprise-software peer slot. Vector Informatik (vector.com) sits in the engineering-tools peer position. Snyk-acquired brands play the modern security-devtools mid-market peer. We belong in the regional mid-tier multi-brand developer-tools operator category.",
+        "positioningStatement": "Garrick Developer Holdings is a regional multi-brand developer tools operator running sales, enterprise contracting, and shared operations across a portfolio of independent product brands.",
+        "positioningRationale": "We compete on shared sales infrastructure, enterprise contracting reach, and the operational reliability brand founders need without giving up engineering direction.",
+        "targetAudience": {
+          "primary": "Developer tools brand founders considering sale, enterprise architecture leads consolidating vendor relationships, and institutional investors holding software assets.",
+          "behaviors": [
+            "Review software unit economics and customer cohort retention.",
+            "Negotiate multi-year enterprise license agreements.",
+            "Care about renewal rates, net dollar retention, and engineering team retention.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with strong enterprise sales infrastructure.",
+            "Need to keep brand identity and engineering roadmap post-acquisition.",
+            "Need shared procurement-ready operations across brands."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with portfolio brands, enterprise customer count, and renewal rates.",
+            "Speak the language of brand founders, CFOs, and CIOs.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Garrick tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social-media presence at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight independent developer tools brands across observability, security, infrastructure, and developer-experience. Each retains its identity."
+          },
+          {
+            "name": "Shared enterprise sales",
+            "description": "Single enterprise sales and account-management organisation across the portfolio. Brand founders focus on engineering; we run the sales motion."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for enterprise sales scale without losing engineering direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Garrick set in a traditional book serif, with 'Developer Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and license tables.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -421,6 +799,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "HOTKEY delivers by:\n• Make jokes that land for engineers\n• Use real screenshots, not stock illustrations\n• Talk to one developer at a time"
+      },
+      {
+        "id": "devtools-creative-2",
+        "brandName": "The Sandbox Co",
+        "tagline": "A developer tools company for the playable parts of the stack.",
+        "brandDescription": "The Sandbox Co is a creative-led developer tools company building local-first, playable environments for system design, protocol exploration, and incident reproduction.",
+        "scope": "The Sandbox Co works across:\n• Local-first development environments for distributed systems\n• Playable simulations of protocol behaviour and failure modes\n• Educational tooling for system-design learning\n• Open-source core with paid hosted environments\n• Quarterly published essay on local-first developer experience",
+        "mission": "To make the parts of the stack engineers usually only meet in production safe to play with locally.",
+        "vision": "A developer tools company whose local sandbox becomes the standard place engineers learn distributed systems.",
+        "coreValues": [
+          "Specific — every sandbox demonstrates a real system.",
+          "Considered — the local-first premise is non-negotiable.",
+          "Warm — the documentation reads like a friend explaining.",
+          "Literary — the writing about the work is part of the work."
+        ],
+        "brandNameRationale": "Sandbox is the universal developer-trade word for an isolated playable environment where engineers can experiment without consequence. The definite article + Co suffix follows the considered-creative trade-name school (The Storefront Co, The Darkroom Co). Stands in the lineage of creative-led developer tools with a clear pedagogical or research register (Replicate, Modal, val.town).",
+        "manifesto": "Most production systems can only be understood by running them in production. We started The Sandbox to change that. We build local-first playable environments — Kubernetes clusters, distributed databases, message queues, failure modes — that engineers can run on a laptop and learn from. The brand is the sandbox; the company sells the hosted version.",
+        "industrySummary": "Developer education has split between classroom platforms (Frontend Masters, Pluralsight) and read-only documentation. The opening is for a creative-led developer tools company building playable local environments that let engineers learn by doing on their own laptop.",
+        "competitorLandscape": "Replicate (replicate.com) plays the closest peer in playable developer environments. Modal (modal.com) holds the modern serverless-sandbox peer slot. val.town (val.town) sits in the local-first scripting peer position. KodeKloud (kodekloud.com) plays the operations-education peer. We sit alongside Replicate and val.town with a stronger distributed-systems focus.",
+        "positioningStatement": "The Sandbox Co is a developer tools company building local-first playable environments for system design, protocol exploration, and incident reproduction.",
+        "positioningRationale": "The brand competes on the local-first premise and the breadth of what's playable. Every sandbox runs on a laptop; the hosted version is for when teams want to share state.",
+        "targetAudience": {
+          "primary": "Engineering managers, senior engineers, and platform engineers responsible for system reliability and onboarding new engineers.",
+          "behaviors": [
+            "Use local docker-compose setups for development.",
+            "Run incident reviews and want to reproduce failure modes.",
+            "Onboard new engineers and want them productive in a week.",
+            "Read distributed-systems papers and follow research engineering."
+          ],
+          "motivations": [
+            "Want playable local environments that match production.",
+            "Want a way for engineers to learn distributed systems by running them.",
+            "Want a tool that respects the local-first premise."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Considered",
+          "Warm",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the quarterly essay on local-first engineering.",
+            "Show the sandbox running in the documentation.",
+            "Reference distributed-systems papers explicitly.",
+            "Sign release notes by the engineer who built the sandbox."
+          ],
+          "donts": [
+            "No 'AI-powered' marketing.",
+            "No 'one-click cloud' positioning.",
+            "No press-release-led launches.",
+            "No conference-keynote hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Local-first sandboxes",
+            "description": "Every sandbox runs on a laptop with no cloud account required. The hosted tier is for shared state and team use, not for the basic functionality."
+          },
+          {
+            "name": "Playable distributed systems",
+            "description": "Each sandbox demonstrates a real distributed system — a Raft cluster, a Kafka topic, a Paxos protocol — with knobs for failure modes."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The Sandbox Co publishes a long-form essay on local-first developer experience every quarter. The essay is the company's primary marketing artefact."
+          }
+        ],
+        "logoDirection": "A wordmark — The Sandbox Co set in a quiet display serif with a small geometric mark suggesting a contained playable space. The mark appears as a favicon and on the documentation site.",
+        "colorPalette": [
+          {
+            "name": "Sand",
+            "hex": "#E8DFC7",
+            "meaning": "Primary — the warm tan of a sandbox.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Signal",
+            "hex": "#3D5BFF",
+            "meaning": "Single accent — sandbox-state indicators.",
+            "usage": "Active states, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "JetBrains Mono for code and sandbox examples.",
+          "rationale": "The serif speaks. The mono runs."
+        }
       }
     ]
   }

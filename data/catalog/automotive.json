@@ -76,6 +76,101 @@
           "Quiet — restraint is the loudest thing in a noisy room."
         ],
         "scope": "Throughline Motors delivers by:\n• Show the price clearly\n• Skip the showroom photography\n• Describe the car with specifications, not adjectives"
+      },
+      {
+        "id": "automotive-modern-2",
+        "brandName": "Coachwork Motors",
+        "tagline": "Modern motoring. Bodywork-led.",
+        "brandDescription": "Coachwork Motors is a modern automotive brand specializing in considered modern vehicle design with hand-finished bodywork and a small product line.",
+        "scope": "Coachwork Motors works across:\n• A small product line of considered modern vehicles\n• Hand-finished bodywork and panel-fit detailing\n• Direct customer relationships with documented build records\n• Annual subscriber events for owners and prospective buyers\n• Heritage restoration consulting for existing customers",
+        "mission": "To make modern cars at the bodywork standard of the heritage coachbuilders.",
+        "vision": "A modern automotive brand whose vehicles are documented in books a decade after delivery.",
+        "coreValues": [
+          "Considered — the bodywork is the work.",
+          "Modern — heritage standards applied to modern vehicles.",
+          "Specific — every build is documented.",
+          "Patient — long product cycles, slow refresh."
+        ],
+        "brandNameRationale": "Coachwork is the real automotive trade term for the hand-finished body of a vehicle — descended from the horse-drawn-coach era and used through the early automobile decades by hand-built carmakers (Bentley, Rolls-Royce coachwork tradition). Single archaic trade word + Motors heritage suffix. Stands in the lineage of trade-vocabulary modern automotive brands (Throughline Motors, Lucid, Polestar).",
+        "manifesto": "Most modern car brands optimize for production volume and supply chain. We started Coachwork Motors to maintain the bodywork tradition — hand-finished panel fit, properly aligned shut-lines, paint that holds across years. The product line is small. The bodywork is the work.",
+        "industrySummary": "Modern automotive manufacturing has converged on high-volume robotic production. There is space for a small modern brand that operates at a hand-finishing standard — closer to coachbuilt era practice than to current high-volume production.",
+        "competitorLandscape": "Polestar (polestar.com) plays the modern Scandinavian peer in design-led automotive. Lucid (lucidmotors.com) holds the modern American luxury peer slot. Lotus (lotuscars.com) sits in the heritage-modern peer position. Genesis (genesis.com) plays the considered-modern luxury reference. We sit alongside Lotus with a stronger coachbuilding tradition.",
+        "positioningStatement": "Coachwork Motors is a modern automotive brand producing a small line of considered vehicles at heritage bodywork standards.",
+        "positioningRationale": "We compete on bodywork standard rather than performance specs or technology features. The product line is small; the finish is the work.",
+        "targetAudience": {
+          "primary": "Considered automotive buyers 35-65 who own vehicles for years and care about how the car ages — paint, panel fit, interior wear.",
+          "behaviors": [
+            "Own vehicles longer than the typical lease cycle.",
+            "Care about paint quality, panel alignment, and interior materials.",
+            "Read automotive press and attend car shows.",
+            "Document their vehicles' service histories carefully."
+          ],
+          "motivations": [
+            "Want a modern vehicle made to a heritage standard.",
+            "Want a small brand they can know.",
+            "Want a vehicle that ages into character."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the bodywork and the build record.",
+            "Photograph the panel fit, the paint, the interior detail.",
+            "Reference the model designation by build year and serial.",
+            "Sign owner correspondence by the customer's named relationship manager."
+          ],
+          "donts": [
+            "No 0-to-60 marketing.",
+            "No tech-feature-led launches.",
+            "No social-media-first content.",
+            "No 'collection' marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Small product line",
+            "description": "The brand maintains a small product line of considered vehicles. New models arrive infrequently and stay in production for long runs."
+          },
+          {
+            "name": "Hand-finished bodywork",
+            "description": "Every vehicle's bodywork is hand-finished and panel-aligned to a documented standard. The build record is provided to the owner."
+          },
+          {
+            "name": "Documented build records",
+            "description": "Each vehicle ships with a printed build record documenting paint, panel fit, interior materials, and the team members who worked on the vehicle."
+          }
+        ],
+        "logoDirection": "A wordmark — Coachwork Motors set in a calm modern serif with a small coachbuilders'-style mark depicting a panel-and-rivet detail. The mark appears on the vehicle's badge and on printed materials.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary — the colour of the brand's reference panel.",
+            "usage": "Wordmark, marketing surfaces."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing material."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Badging detail, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and the build record.",
+          "secondary": "A neutral grotesque for technical specifications and dimensions.",
+          "rationale": "The serif speaks. The grotesque measures."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Precise — accuracy is the brand."
         ],
         "scope": "Marston Motor Co. delivers by:\n• Address the client by surname\n• Speak in the language of engineering and material\n• Send a paper letter at each build milestone"
+      },
+      {
+        "id": "automotive-luxury-2",
+        "brandName": "Carrosserie Bremmer",
+        "tagline": "A coachbuilder. By commission only.",
+        "brandDescription": "Carrosserie Bremmer is a heritage automotive coachbuilder producing custom-bodied vehicles for private collectors, with every vehicle built on a customer-supplied chassis or selected donor platform.",
+        "scope": "Carrosserie Bremmer works across:\n• Custom-bodied automotive coachwork on customer-supplied chassis\n• Heritage restoration on coachbuilt classics\n• Concours-level paint and panel restoration\n• Custom interior design and fitment\n• Documentation and registration support for completed vehicles",
+        "mission": "To continue the coachbuilding tradition at the standard of the original era.",
+        "vision": "A coachbuilder whose custom-bodied vehicles are at Pebble Beach concours in 2050.",
+        "coreValues": [
+          "Senior — the principal coachbuilder oversees every commission.",
+          "Discreet — completed commissions appear in monographs, not press.",
+          "Considered — every vehicle is built to a documented standard.",
+          "Patient — commissions take years."
+        ],
+        "brandNameRationale": "Carrosserie is the French automotive trade term for vehicle bodywork — used by heritage Italian and French coachbuilders (Carrosserie Pininfarina, Carrosserie Saoutchik, Carrosserie Chapron). Bremmer is a plausible Northern European surname in the coachbuilding tradition. The Carrosserie + surname format places the brand firmly in the heritage coachbuilding tradition.",
+        "manifesto": "Most automotive luxury is high-volume luxury. Carrosserie Bremmer is a coachbuilder in the original sense — custom bodies on customer-supplied chassis, designed and built to commission, one at a time, in a working atelier. The waiting list is long; the work is slow; the customer is named on the build plate.",
+        "industrySummary": "Coachbuilding is a small but enduring tradition with a few remaining houses (Touring Superleggera, Zagato, Carrosserie Saoutchik revivals). There is space for a heritage coachbuilder operating in the original tradition with a commission-only model and full documentation.",
+        "competitorLandscape": "Touring Superleggera (touringsuperleggera.eu) holds the closest peer slot in modern Italian coachbuilding. Zagato (zagato.it) plays the heritage Italian coachbuilder peer position. Coachwork Niels van Roij (coachworknielsvanroij.com) sits in the contemporary commission-coachbuilder middle. Pininfarina (pininfarina.it) is the heritage Italian peer reference. We belong with Touring Superleggera in the small heritage coachbuilding tradition.",
+        "positioningStatement": "A heritage coachbuilder producing custom-bodied vehicles by commission on customer-supplied chassis, in the original coachbuilding tradition.",
+        "positioningRationale": "We do not produce series cars. Every vehicle is a commission. The customer supplies the chassis or selects a donor platform; the coachbuilder produces the body, interior, and finished vehicle.",
+        "targetAudience": {
+          "primary": "Collectors of classic and bespoke automobiles who commission unique vehicles on supplied chassis and care about coachbuilding tradition.",
+          "behaviors": [
+            "Maintain collections of heritage automobiles.",
+            "Care about coachbuilder provenance and build records.",
+            "Visit the atelier in person multiple times during a commission.",
+            "Pay full coachbuilding rates without complaint."
+          ],
+          "motivations": [
+            "Want a vehicle built to commission in the heritage tradition.",
+            "Want a coachbuilder whose work will appear at concours.",
+            "Want a long relationship with a single atelier."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname in correspondence in French and English.",
+            "Sign correspondence by the principal coachbuilder.",
+            "Reference completed commissions by year, chassis, and original delivery client.",
+            "Print all marketing communications on heavy paper."
+          ],
+          "donts": [
+            "No mass marketing.",
+            "No social-media-led content.",
+            "No specifications published in press materials.",
+            "No commercial collaborations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Commission-only",
+            "description": "Every vehicle is a commission. There is no series production. New commissions are accepted by referral when the atelier has capacity."
+          },
+          {
+            "name": "Customer-supplied chassis",
+            "description": "The customer supplies the chassis or selects a donor platform with the coachbuilder's advice. The coachbuilder produces the body, interior, and finished vehicle."
+          },
+          {
+            "name": "Full documentation",
+            "description": "Each completed vehicle ships with a full build documentation including drawings, build photographs, materials specifications, and a printed commission monograph."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Carrosserie Bremmer set in a classical European book serif with a small embossed coachbuilders' mark. The mark appears on the build plate of completed vehicles and on the atelier's letterhead.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the printed monograph.",
+            "usage": "Letterhead, marketing, build documentation."
+          },
+          {
+            "name": "Burgundy",
+            "hex": "#5C1F1F",
+            "meaning": "Secondary — a heritage Bordeaux-tone associated with European coachbuilders.",
+            "usage": "Body type, signature elements."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The build plate, the embossed mark."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, letterhead, and printed monograph.",
+          "secondary": "An engraver's italic for chassis numbers and commission identifiers.",
+          "rationale": "Letterpress register throughout. The atelier communicates almost entirely in printed French and English."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "KEY delivers by:\n• Show the price\n• Show the warranty\n• Use plain English in the product page"
+      },
+      {
+        "id": "automotive-minimal-2",
+        "brandName": "Chassis",
+        "tagline": "A small electric vehicle company. One platform.",
+        "brandDescription": "Chassis is a minimal electric vehicle company building one platform vehicle in a small number of standard configurations, with no model variants and a published fixed price.",
+        "scope": "Chassis works across:\n• A single electric vehicle platform\n• Three standard configurations (no further variants)\n• Single published fixed price per configuration\n• Direct sales without dealers\n• Annual single-page company report",
+        "mission": "To make one good electric vehicle and sell it plainly.",
+        "vision": "A car company whose third-generation vehicle is on the same platform as its first.",
+        "coreValues": [
+          "Plain — one platform, three configurations, one price each.",
+          "Direct — the configurations are the product.",
+          "Considered — the platform investment is for the long arc."
+        ],
+        "brandNameRationale": "Chassis is the foundational automotive trade word for the structural frame of a vehicle — single archaic trade word, deeply specific to automotive engineering. Single-word naming follows the modern minimal automotive school (Polestar, Lucid, Rivian register).",
+        "manifesto": "Most car companies build a model lineup. We made Chassis because the actual best electric vehicle is one well-designed platform offered in a few honest configurations at a fixed price. The platform is the product. The configurations are the choices.",
+        "industrySummary": "Electric vehicle manufacturers have followed traditional automotive in building model lineups with trims, packages, and option sprawl. There is real space for a minimal company that strips the offering to one platform, three configurations, and a fixed price.",
+        "competitorLandscape": "Polestar (polestar.com) plays the minimal-modern peer space at scale. Rivian (rivian.com) holds the considered-modern electric peer slot. Lucid (lucidmotors.com) sits in the premium-modern peer position. Tesla (tesla.com) is the high-volume peer reference. We sit further out — one platform, three configurations, fixed price.",
+        "positioningStatement": "Chassis is an electric vehicle company building one platform vehicle in three standard configurations at a published fixed price.",
+        "positioningRationale": "We strip the product surface. One platform. Three configurations. One price per configuration. No options.",
+        "targetAudience": {
+          "primary": "Considered electric vehicle buyers who value simplicity in product, transparency in price, and durability in platform.",
+          "behaviors": [
+            "Research vehicles thoroughly before purchase.",
+            "Value transparent pricing without negotiation.",
+            "Care about platform durability over feature breadth.",
+            "Own vehicles longer than the typical lease cycle."
+          ],
+          "motivations": [
+            "Want a vehicle without option-sprawl.",
+            "Want fixed published pricing.",
+            "Want a platform that will be supported for years."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the three configurations and prices on the home page.",
+            "Show one photograph of the vehicle in each configuration.",
+            "Skip variant marketing.",
+            "Sign correspondence with the company name only."
+          ],
+          "donts": [
+            "No 'limited edition' positioning.",
+            "No package or trim sprawl.",
+            "No dealer markups.",
+            "No 'enquire for pricing'."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One platform",
+            "description": "The company builds one vehicle platform. Investment is in the platform's long-term durability and ongoing improvement."
+          },
+          {
+            "name": "Three configurations",
+            "description": "Three standard configurations cover the practical use range. We do not add a fourth."
+          },
+          {
+            "name": "Fixed published price",
+            "description": "Each configuration is sold at a single published price. No options. No dealer markups. No negotiation."
+          }
+        ],
+        "logoDirection": "Chassis set in a neutral grotesque, all lowercase, at small scale on the vehicle's badge and the website header. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Frame",
+            "hex": "#7C7B7A",
+            "meaning": "Primary — the colour of a primer-coated chassis.",
+            "usage": "Wordmark, vehicle interior trim."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Charge",
+            "hex": "#22C55E",
+            "meaning": "Single accent — the green of a charge-complete indicator.",
+            "usage": "Status indicators, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for technical specifications.",
+          "rationale": "One typeface across the vehicle UI, the website, and the bill of sale."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Continental Mobility Partners works across:\n• Fleet operations at scale\n• Built for the EV transition\n• Reporting that satisfies ESG disclosure"
+      },
+      {
+        "id": "automotive-corporate-2",
+        "brandName": "Halsten Motor Holdings",
+        "tagline": "Multi-brand automotive operator, mid-market.",
+        "brandDescription": "Halsten Motor Holdings operates a portfolio of automotive brands across electric vehicle, commercial vehicle, and aftermarket-parts categories.",
+        "scope": "Halsten Motor Holdings works across:\n• Multi-brand automotive manufacturing and assembly\n• Shared sourcing and supply-chain operations\n• Aftermarket parts distribution\n• Dealer-network management for portfolio brands\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier automotive brands that want to keep their identity and outsource the operations.",
+        "vision": "An automotive operator whose portfolio brands grow under their own names because the manufacturing and supply chain are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — manufacturing runs on schedule.",
+          "Reliable — predictable supply across the portfolio.",
+          "Discreet — brand relationships stay between us and the brand."
+        ],
+        "brandNameRationale": "Halsten is a real Scandinavian-origin surname with a heritage automotive register. Motor Holdings follows the multi-brand operator naming convention used in automotive (Stellantis structure, Volkswagen Group, Geely Holdings, Tata Motors). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Halsten Motor Holdings owns and operates a portfolio of automotive brands. Each brand retains its identity, engineering leadership, and dealer relationships; we operate the shared manufacturing, supply chain, parts distribution, and back office. The buyer is a brand founder considering sale, a dealer-network operator seeking single-vendor manufacturing relationships, or an institutional investor holding automotive assets.",
+        "industrySummary": "Automotive manufacturing has consolidated under a small number of large multi-brand operators (Stellantis, Volkswagen Group, Toyota Motor Corporation, Geely Holdings). The opening underneath is for a regional mid-tier multi-brand operator with deep manufacturing operations and the procurement-grade reliability dealer networks and institutional investors require.",
+        "competitorLandscape": "Geely Holdings (zgh.com) is the multi-brand mid-tier reference. Tata Motors (tatamotors.com) holds the international multi-brand peer slot. Mahindra Group (mahindra.com) sits in the regional multi-brand peer position. We belong in the regional mid-tier multi-brand automotive operator category.",
+        "positioningStatement": "Halsten Motor Holdings is a regional multi-brand automotive operator running manufacturing, supply chain, and dealer-network operations across a portfolio of independent brands.",
+        "positioningRationale": "We compete on shared manufacturing capacity, supply-chain depth, and the procurement-grade reliability dealer networks and institutional investors require for multi-year operating relationships.",
+        "targetAudience": {
+          "primary": "Automotive brand founders considering sale, dealer-network operators consolidating manufacturer relationships, and institutional investors holding automotive assets.",
+          "behaviors": [
+            "Manage multi-brand manufacturing and supply chain.",
+            "Negotiate multi-year supply and licensing agreements.",
+            "Care about manufacturing capacity, parts availability, and dealer-network reach.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared manufacturing.",
+            "Need to keep brand identity post-acquisition.",
+            "Need a single-vendor multi-brand manufacturing relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, manufacturing capacity, and dealer-network footprint.",
+            "Speak the language of brand founders, CFOs, and dealer-network operators.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Halsten tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight automotive brands across electric vehicle, commercial vehicle, and aftermarket categories. Each retains its identity."
+          },
+          {
+            "name": "Shared manufacturing and supply chain",
+            "description": "Owned manufacturing capacity across multiple plants. Brands share supply chain, parts distribution, and back office under a single operations team."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for manufacturing scale without losing engineering direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Halsten set in a traditional book serif, with 'Motor Holdings' beneath in tracked small caps. Used in contracts, dealer documentation, and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and dealer-network documentation.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "Sunday Run Motors delivers by:\n• Make jokes about the speed limit\n• Photograph cars in unglamorous places\n• Talk to the driver as a person, not a customer"
+      },
+      {
+        "id": "automotive-creative-2",
+        "brandName": "The Tail Light Co",
+        "tagline": "An automotive brand for the part of the drive you actually remember.",
+        "brandDescription": "The Tail Light Co is a creative-led automotive brand specializing in considered modern vehicle design with a focus on the cabin experience — the part of the drive owners actually remember.",
+        "scope": "The Tail Light Co works across:\n• A small line of considered modern vehicles\n• Cabin-experience design as the primary differentiator\n• Quarterly published essays on driving culture and design\n• Owner programs centered on the cabin (audio, materials, lighting)\n• Limited annual edition vehicles with documented build provenance",
+        "mission": "To make cars where the cabin is the work — sound, material, light, and the way the owner remembers the drive.",
+        "vision": "A small automotive brand whose owners write about their cars rather than photograph them.",
+        "coreValues": [
+          "Specific — the cabin is the work.",
+          "Considered — every cabin material is chosen.",
+          "Warm — owners remember the drive.",
+          "Literary — the writing about the drive is part of the brand."
+        ],
+        "brandNameRationale": "Tail Light references the small but identifying detail at the back of a vehicle — and metaphorically the lingering impression of a drive. The definite article + Co suffix follows the considered-creative trade-name school (The Storefront Co, The Tape Hiss Co). Stands in the lineage of declarative automotive brands with a clear creative position.",
+        "manifesto": "Most automotive marketing focuses on the front of the car — the headlights, the grille, the performance specs. We started The Tail Light Co because the part owners actually remember is the cabin and the drive home. We invest in the cabin: the audio system, the materials, the lighting, the way the cabin reads at night. Everything else is downstream.",
+        "industrySummary": "Automotive marketing emphasises performance and exterior design. There is real space for a creative-led brand that explicitly positions on the cabin experience — sound system, materials, light, the lingering impression of the drive.",
+        "competitorLandscape": "Lotus (lotuscars.com) plays the closest peer in driver-experience-focused automotive. Genesis (genesis.com) holds the cabin-quality peer slot. Mazda (mazdausa.com) sits in the considered-driver peer position. Volvo (volvocars.com) plays the Scandinavian cabin-design reference. We sit alongside Genesis with a stronger cabin-experience creative position.",
+        "positioningStatement": "The Tail Light Co is a creative-led automotive brand whose differentiator is the cabin — audio, materials, light, and the way the drive is remembered.",
+        "positioningRationale": "The brand competes on the cabin. Every vehicle is designed from the inside out. The exterior is downstream of the cabin decisions.",
+        "targetAudience": {
+          "primary": "Considered automotive buyers 32-55 who drive their vehicles regularly and care about how the cabin feels.",
+          "behaviors": [
+            "Listen to music carefully in their cars.",
+            "Care about interior materials and how they age.",
+            "Notice cabin lighting at night.",
+            "Remember specific drives and write or talk about them."
+          ],
+          "motivations": [
+            "Want a car whose cabin is the work.",
+            "Want a brand with a clear creative position.",
+            "Want a vehicle that ages into character through the cabin."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Considered",
+          "Warm",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the cabin in marketing material.",
+            "Publish the quarterly essay on driving culture and cabin design.",
+            "Reference the audio system, the materials, and the lighting in product material.",
+            "Sign owner programs by the cabin designer."
+          ],
+          "donts": [
+            "No performance-spec marketing.",
+            "No 0-to-60 numbers in headlines.",
+            "No styled photography of the exterior with the cabin closed.",
+            "No track-day content."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Cabin as the work",
+            "description": "Every vehicle is designed from the cabin outward. The audio system, the materials, the lighting, and the cabin geometry are the primary design decisions."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on driving culture and cabin design every quarter. The essay is the brand's primary marketing artefact."
+          },
+          {
+            "name": "Owner programs",
+            "description": "Owners receive an annual cabin program — audio firmware updates, material care guides, lighting calibration — through the brand's owner relations team."
+          }
+        ],
+        "logoDirection": "A wordmark — The Tail Light Co set in a quiet display serif with a small geometric mark suggesting a tail light at night. The mark appears at small scale on the rear of the vehicle and on owner correspondence.",
+        "colorPalette": [
+          {
+            "name": "Night",
+            "hex": "#1B2030",
+            "meaning": "Primary — the colour of a cabin at night.",
+            "usage": "Wordmark, cabin interior, marketing surfaces."
+          },
+          {
+            "name": "Lamp",
+            "hex": "#C7944A",
+            "meaning": "Secondary — the amber of a cabin lamp.",
+            "usage": "Section marks, signature elements."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing material."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A book serif for owner correspondence and the printed cabin manual.",
+          "rationale": "Two related serifs. The brand reads like a small printed publication about driving."
+        }
       }
     ]
   }
