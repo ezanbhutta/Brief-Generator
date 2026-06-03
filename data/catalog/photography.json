@@ -76,6 +76,101 @@
           "Quiet — restraint is the loudest thing in a noisy room."
         ],
         "scope": "Aperture Studio delivers by:\n• Show the work, then the credits\n• Name the photographer on every shoot\n• Skip the lifestyle aspiration copy"
+      },
+      {
+        "id": "photography-modern-2",
+        "brandName": "Latitude Photography",
+        "tagline": "A modern photography studio. Editorial and commercial.",
+        "brandDescription": "Latitude Photography is a modern editorial and commercial photography studio specializing in considered product, portrait, and architectural work for print and digital.",
+        "scope": "Latitude Photography works across:\n• Editorial portrait and architectural commissions\n• Commercial product and lookbook photography\n• Annual print-portfolio mailers to selected clients\n• Studio rental for outside productions\n• Custom photographic prints for collectors",
+        "mission": "To make photographs that hold up on the wall, in the catalog, and on a magazine page — at the same resolution, with the same care.",
+        "vision": "A studio whose tenth-year retrospective book is on the shelves of the magazines that hired them.",
+        "coreValues": [
+          "Considered — every frame is lit on purpose.",
+          "Specific — the brief is the work.",
+          "Modern — print-quality by default, screen-aware throughout.",
+          "Patient — we ship when the file holds up."
+        ],
+        "brandNameRationale": "Latitude is the photographic trade word for the range of light exposures film or sensor can capture — single trade-vocabulary word, deeply specific to the craft, immediately readable to photographers. Photography is the plain category suffix. Stands in the lineage of trade-vocabulary modern studios (Aperture Studio, Stockholm Light, FORMAT).",
+        "manifesto": "Most commercial photography studios chase volume. We started Latitude because the actual best work happens at low volume, with proper lighting setups, and clients who care about the difference. The studio takes a small number of commissions per quarter and ships the work as if it were going on a magazine cover.",
+        "industrySummary": "Commercial photography has split between high-volume content studios and small considered editorial practices. The opening is for a modern studio that operates at editorial standards across both commercial and editorial commissions, with a clear print-quality discipline.",
+        "competitorLandscape": "Bureau (bureau.io) holds the closest modern-editorial peer slot. Stockholm Light (stockholmlight.com) sits in the Scandinavian-modern peer position. Roto Studio (roto.studio) plays in the considered-commercial middle. FORMAT (format.com) is the broader platform reference. We sit alongside Bureau and Stockholm Light with a sharper print-quality discipline.",
+        "positioningStatement": "Latitude Photography is a small modern editorial and commercial studio that ships every commission at print-publication quality.",
+        "positioningRationale": "We compete on the quality of the final delivered file rather than the volume of frames captured. The studio takes a small number of commissions per quarter and ships at print resolution by default.",
+        "targetAudience": {
+          "primary": "Art directors, brand teams, and magazine editors commissioning serious editorial and commercial photography.",
+          "behaviors": [
+            "Compare studios from print portfolios, not from Instagram feeds.",
+            "Care about lighting setups and grade.",
+            "Commission for both commercial and editorial work.",
+            "Pay full editorial rates."
+          ],
+          "motivations": [
+            "Want a studio whose commercial work has the discipline of editorial.",
+            "Want files that hold up in print and on screen.",
+            "Want a small considered studio with strong art direction."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the brief and the final frame.",
+            "Publish the lighting diagram alongside the image.",
+            "Reference the camera and lens system used.",
+            "Sign correspondence by the principal photographer."
+          ],
+          "donts": [
+            "No volume-shoot positioning.",
+            "No 'photo of the day' marketing.",
+            "No social-media-first publication.",
+            "No filter-heavy editorial work."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Print-quality default",
+            "description": "Every commission ships at print-publication resolution and colour space. The print spec is the floor, not the upgrade."
+          },
+          {
+            "name": "Lighting documented",
+            "description": "Every project includes a published lighting diagram. The setup is part of the deliverable."
+          },
+          {
+            "name": "Small commission count",
+            "description": "The studio takes a small number of commissions per quarter. The schedule is published; the principal photographer is on every shoot."
+          }
+        ],
+        "logoDirection": "A wordmark — Latitude Photography set in a calm modern grotesque with a small horizontal-line mark beneath, suggesting the horizon line in a frame.",
+        "colorPalette": [
+          {
+            "name": "Grey Card",
+            "hex": "#7C7B7A",
+            "meaning": "Primary — the photographer's neutral grey reference.",
+            "usage": "Wordmark, page chrome."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Filter",
+            "hex": "#D85C3D",
+            "meaning": "Single accent — the warm cast of a CTO filter.",
+            "usage": "Section marks, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern grotesque for the wordmark and captions.",
+          "secondary": "A book serif for project essays and the printed portfolio.",
+          "rationale": "The grotesque is the chrome. The serif is the writing."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Atelier Norden delivers by:\n• Address the client by surname\n• Send paper sitting confirmations\n• Speak in the language of craft, not service"
+      },
+      {
+        "id": "photography-luxury-2",
+        "brandName": "The Selwyn Atelier",
+        "tagline": "A photographic atelier. By commission only.",
+        "brandDescription": "The Selwyn Atelier is a heritage photographic atelier producing fine-art and editorial commissions for private collectors, museums, and serious editorial publications.",
+        "scope": "The Selwyn Atelier works across:\n• Private portrait commissions for collectors and families\n• Editorial and book commissions for established publications\n• Museum and institutional photographic acquisitions\n• Limited-edition silver-gelatin and platinum prints\n• Multi-year monograph projects",
+        "mission": "To produce photographs that belong in collections and books, made carefully, over time.",
+        "vision": "An atelier whose prints are in the permanent collections of the museums whose photography departments commission us.",
+        "coreValues": [
+          "Senior — the principal photographer is on every commission.",
+          "Discreet — what happens in the studio stays in the studio.",
+          "Considered — every print is processed with care.",
+          "Patient — the work is built across years."
+        ],
+        "brandNameRationale": "The Selwyn Atelier uses the definite-article + surname + Atelier convention common to heritage French photographic studios (Atelier Robert Doisneau, Atelier Nadar tradition). Selwyn is a real English surname with a literary register. Atelier (the French word for workshop) places the brand firmly in the craft-tradition register rather than commercial photography.",
+        "manifesto": "Most photographers chase commissions. The Selwyn Atelier accepts commissions by referral only and produces a small number of significant projects per year. The principal photographer is in the darkroom for every print. The work is for collections, for books, for the long arc.",
+        "industrySummary": "Fine-art and serious editorial photography has consolidated around a small number of established practitioners with gallery representation. There is space for a small atelier producing commissioned work for collectors and museums at gallery-level craft.",
+        "competitorLandscape": "The Estate of Diane Arbus (no public web) is the closest spiritual reference. Magnum Photos (magnumphotos.com) holds the photojournalism-as-art peer slot. Aperture Foundation (aperture.org) sits in the publishing-and-collection peer position. ICP (icp.org) plays the institutional-collection reference. We belong with the small independent ateliers represented by serious galleries (Pace, Howard Greenberg, Fraenkel).",
+        "positioningStatement": "A small heritage photographic atelier producing commissions for private collectors, museums, and serious editorial publications, by referral only.",
+        "positioningRationale": "We do not extend the practice. The principal photographer is on every commission, in the studio and in the darkroom. Commissions are accepted by referral.",
+        "targetAudience": {
+          "primary": "Private collectors, museum photography curators, and serious editorial publications commissioning long-arc photographic work.",
+          "behaviors": [
+            "Maintain decade-long relationships with photographers.",
+            "Commission portraits and books across generations of the family.",
+            "Acquire silver-gelatin and platinum prints for collections.",
+            "Pay full commission rates without complaint."
+          ],
+          "motivations": [
+            "Want commissions executed at gallery-level craft.",
+            "Want a studio whose previous work is in major collections.",
+            "Want a long relationship across multiple commissions."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname.",
+            "Sign correspondence by the principal photographer.",
+            "Reference past commissions by year and collection.",
+            "Print all marketing and correspondence on heavy paper."
+          ],
+          "donts": [
+            "No social-media presence.",
+            "No promotional pricing.",
+            "No 'photo of the day' content.",
+            "No commercial commissions outside serious editorial."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Referral-only commissions",
+            "description": "New commissions are accepted by referral from existing clients, galleries, or museum curators. The waiting list is real."
+          },
+          {
+            "name": "The principal in the darkroom",
+            "description": "Every print produced by the atelier is processed by the principal photographer or under her direct supervision. Limited editions are signed and numbered."
+          },
+          {
+            "name": "Multi-year monographs",
+            "description": "The atelier publishes a monograph every four to six years through an established art publisher. The monograph is the long-arc work."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Selwyn Atelier set in a classical book serif with a small embossed photographer's-credit-style mark. The mark appears on prints and on letterhead.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of fine-art photographic paper.",
+            "usage": "Marketing, letterhead, monographs."
+          },
+          {
+            "name": "Silver",
+            "hex": "#3D3D3D",
+            "meaning": "Secondary — the colour of a silver-gelatin print.",
+            "usage": "Body type, prints."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The mark, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, monographs, and letterhead.",
+          "secondary": "An engraver's italic for edition numbers and signatures.",
+          "rationale": "Letterpress register throughout. The atelier communicates almost entirely in print."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "PORTRAIT delivers by:\n• Show the portfolio\n• Show the price\n• Confirm the sitting in one short message"
+      },
+      {
+        "id": "photography-minimal-2",
+        "brandName": "Grain",
+        "tagline": "A photographer. Plain commissions.",
+        "brandDescription": "Grain is a minimal photographer-led studio producing single-photographer commissions on a clear schedule, with plain pricing and direct delivery.",
+        "scope": "Grain works across:\n• Editorial, portrait, and product photography commissions\n• Published quarterly availability calendar\n• Plain published pricing by commission type\n• Direct delivery to client through a single shared folder\n• No retouching beyond colour and exposure",
+        "mission": "To make commissioned photographs plainly — clear terms, clear schedule, clear delivery.",
+        "vision": "A practice whose long-term clients re-book on the strength of the same plain process every year.",
+        "coreValues": [
+          "Plain — pricing, schedule, delivery, all published.",
+          "Direct — the photograph is the work.",
+          "Considered — the engagement model respects the photographer's time and the client's."
+        ],
+        "brandNameRationale": "Grain is the photographic trade word for the visual texture of film or sensor noise — single archaic trade word, deeply specific. Single-word naming follows the modern minimal photography studio school (FORMAT, ARTLOGIC tone).",
+        "manifesto": "Most photographers complicate the engagement. Variable pricing, hidden retouching scope, unclear deliverables. We made Grain because the actual best practice is plain: a published price per commission type, a published schedule, files delivered to a folder, no retouching beyond colour. The photographer is the work.",
+        "industrySummary": "Commissioned photography pricing varies wildly across the market. There is real space for a photographer whose practice is built on transparent pricing, transparent schedule, and transparent delivery — without sacrificing craft.",
+        "competitorLandscape": "FORMAT (format.com) plays the platform-portfolio reference. Squarespace photography portfolios fill the long tail. The Maker (themaker.com.au) holds the considered-modern peer position. We sit further out — plain pricing, plain schedule, single photographer.",
+        "positioningStatement": "Grain is a single-photographer commission practice with published prices, published schedules, and plain delivery.",
+        "positioningRationale": "We strip the engagement surface. Prices are on the site. Availability is a calendar. Delivery is a folder. The work is the photograph.",
+        "targetAudience": {
+          "primary": "Clients who commission photography quarterly or more and want a clear, repeatable engagement.",
+          "behaviors": [
+            "Compare photographers on quote sheets.",
+            "Re-book the same photographer year after year.",
+            "Receive deliverables through shared cloud folders.",
+            "Skip retouching review cycles."
+          ],
+          "motivations": [
+            "Want plain pricing and clear delivery.",
+            "Want a single photographer they can know.",
+            "Want a calendar they can book against."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish prices by commission type.",
+            "Show one photograph per project on the portfolio.",
+            "Skip the long project case study.",
+            "Sign emails with the photographer's first name."
+          ],
+          "donts": [
+            "No 'enquire for pricing' positioning.",
+            "No retouching upsell.",
+            "No exclusivity clauses.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Published pricing",
+            "description": "Every commission type has a published price. Editorial portrait, commercial product, architectural — the price is on the site."
+          },
+          {
+            "name": "Published schedule",
+            "description": "The photographer's quarterly availability calendar is on the site. Clients book against the calendar; the photographer holds the slot."
+          },
+          {
+            "name": "Folder delivery",
+            "description": "Every commission ends with a delivered folder of edited files. No portal, no proof process, no retouching upsell."
+          }
+        ],
+        "logoDirection": "Grain set in a neutral grotesque, all lowercase, at small scale on the website header and the file delivery folder. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Frame",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The portfolio frame, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for captions.",
+          "rationale": "One typeface across the portfolio, pricing page, and engagement letter."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Professional — a core principle the brand operates by."
         ],
         "scope": "Standard Image Group works across:\n• Capacity at scale\n• One vendor across the visual stack\n• Asset-usage reporting"
+      },
+      {
+        "id": "photography-corporate-2",
+        "brandName": "Halsworth Imaging Group",
+        "tagline": "Commercial photography services, multi-studio operator.",
+        "brandDescription": "Halsworth Imaging Group operates a portfolio of commercial photography studios and imaging services serving retail, hospitality, and brand clients at enterprise scale.",
+        "scope": "Halsworth Imaging Group works across:\n• Commercial photography studio operations across multiple cities\n• Product and lookbook photography at retail scale\n• Real estate and hospitality property photography\n• Post-production and retouching services\n• Multi-year enterprise photography agreements",
+        "mission": "To provide enterprise-grade commercial photography operations to mid-market and large retail, hospitality, and brand clients across a multi-studio footprint.",
+        "vision": "A multi-studio imaging operator whose enterprise clients trust the network with their entire visual asset library.",
+        "coreValues": [
+          "Senior — partners are accountable on every engagement.",
+          "Operational — the studio network runs on schedule.",
+          "Reliable — consistent retouching across the portfolio.",
+          "Discreet — enterprise client relationships stay private."
+        ],
+        "brandNameRationale": "Halsworth is a real English-origin surname with a manufacturing-trade register. Imaging Group follows the multi-brand operator naming convention used by commercial-photography networks (Hudson Hayden Image, Squareyards Imaging type). The pair reads as an institutional operator with multi-studio scale.",
+        "manifesto": "Halsworth Imaging Group operates a portfolio of commercial photography studios across multiple cities. Each studio retains its leadership and creative direction; we operate the shared post-production capacity, retouching infrastructure, and enterprise client relationships. The buyer is a retail brand, a hospitality group, a real estate operator, or a foodservice chain managing visual assets at scale.",
+        "industrySummary": "Enterprise commercial photography is consolidating under a small number of multi-studio operators (Acquia/Widen Collective, Squarespace Stock, Shutterstock Studios). The opening is for a regional multi-studio operator with strong commercial relationships, modern asset-management infrastructure, and the procurement reliability enterprise clients require.",
+        "competitorLandscape": "Squareyards Imaging (squareyardsimaging.com) is the multi-studio reference. Shutterstock Studios (shutterstock.com/studios) holds the platform-studio peer slot. Adobe Stock Studios (stock.adobe.com) sits in the platform-asset middle. We belong in the regional mid-tier multi-studio commercial-imaging operator category.",
+        "positioningStatement": "Halsworth Imaging Group is a regional multi-studio commercial photography operator serving retail, hospitality, and brand enterprise clients.",
+        "positioningRationale": "We compete on multi-studio capacity, post-production depth, and the procurement reliability enterprise clients require for ongoing visual-asset production.",
+        "targetAudience": {
+          "primary": "Heads of brand, e-commerce directors, and visual-asset leads at retail, hospitality, real estate, and foodservice enterprises.",
+          "behaviors": [
+            "Manage annual visual-asset budgets of $500K-$20M.",
+            "Negotiate multi-year photography service agreements.",
+            "Care about asset turnaround, retouching consistency, and brand-guideline adherence.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with multi-studio capacity.",
+            "Need consistent brand-guideline-aware retouching.",
+            "Need a single-vendor multi-studio supply relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with studio footprint, retouching capacity, and enterprise client record.",
+            "Speak the language of brand teams and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to studios by name, not by Halsworth tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social-media presence at the parent level.",
+            "No surprise pricing changes.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-studio operator",
+            "description": "We operate four to seven commercial photography studios across multiple cities. Each retains its leadership and local client base."
+          },
+          {
+            "name": "Shared post-production",
+            "description": "Centralized retouching and asset management across the portfolio. Brand guidelines applied consistently across studios."
+          },
+          {
+            "name": "Enterprise agreements",
+            "description": "Multi-year visual-asset agreements with retail, hospitality, real estate, and foodservice enterprise clients."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Halsworth set in a traditional book serif, with 'Imaging Group' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing studios.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational documents and asset reports.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Opinionated — a clear point of view is the point."
         ],
         "scope": "The Darkroom Co delivers by:\n• Show the unretouched image\n• Talk like the photographer in the studio at 11 p.m.\n• Quote the brief and the rejection both"
+      },
+      {
+        "id": "photography-creative-2",
+        "brandName": "The Negative Space Co",
+        "tagline": "A photography studio for the empty parts of the frame.",
+        "brandDescription": "The Negative Space Co is a creative-led photography studio building work entirely around negative space — the empty regions in the frame that the subject inhabits but does not fill.",
+        "scope": "The Negative Space Co works across:\n• Editorial commissions centred on negative-space composition\n• Brand photography for considered-minimal clients\n• Annual published photographic essay on a single subject\n• Studio rental for outside productions favouring large-format empty composition\n• Quarterly print zine on composition craft",
+        "mission": "To make photographs that argue for what's not in the frame.",
+        "vision": "A studio whose tenth-anniversary book is taught in art schools for what it does with emptiness.",
+        "coreValues": [
+          "Literary — the writing about the work is part of the work.",
+          "Specific — every composition is intentional.",
+          "Considered — the empty space is chosen.",
+          "Slightly wry — the missing thing is the point."
+        ],
+        "brandNameRationale": "Negative Space is the foundational compositional concept in visual art — the empty areas around and between the subjects of an image. Naming the studio after the principle stakes a clear creative position. The definite article + Co suffix follows the considered-creative trade-name school (The Darkroom Co, The Storefront Co).",
+        "manifesto": "Most photography studios sell density — full frames, multiple subjects, every corner used. We started The Negative Space Co because the actual best photographs often argue for emptiness. The subject in the bottom-left, the rest of the frame open. The frame is the message. The studio is named after the principle.",
+        "industrySummary": "Considered-minimal photography has a recognized audience but most studios don't position around composition theory. There is real space for a creative-led studio that explicitly markets its compositional principle — closer to a small art press than to a commercial photography studio.",
+        "competitorLandscape": "Bureau (bureau.io) holds the closest considered-modern peer slot. Roto Studio (roto.studio) plays the commercial-minimal peer position. Stockholm Light (stockholmlight.com) sits in the Scandinavian-minimal middle. We sit alongside Stockholm Light with a sharper compositional-philosophy register.",
+        "positioningStatement": "The Negative Space Co is a creative-led photography studio whose every commission uses negative-space composition as the primary visual argument.",
+        "positioningRationale": "The brand competes on the compositional principle. Every project page begins with a discussion of the negative-space choice. The studio's published essay is the marketing.",
+        "targetAudience": {
+          "primary": "Art directors and brand teams 30-50 who care about composition and want a studio with a clear visual philosophy.",
+          "behaviors": [
+            "Compare studios from compositional choices, not from subject matter.",
+            "Care about white space in design as much as in photography.",
+            "Subscribe to photo-craft publications.",
+            "Commission work for considered-modern brand publications."
+          ],
+          "motivations": [
+            "Want a studio with a clear compositional argument.",
+            "Want photographs that hold up on quiet brand pages.",
+            "Want a studio whose work reads as authored."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Specific",
+          "Considered",
+          "A little wry"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Open every project page with the compositional choice and the negative-space ratio.",
+            "Publish the quarterly print zine on composition.",
+            "Reference visual references explicitly — Hopper, Bourgeois, Sugimoto.",
+            "Sign correspondence by the principal photographer."
+          ],
+          "donts": [
+            "No filled-frame portfolio work.",
+            "No 'busy' commercial sets.",
+            "No social-media-led publication.",
+            "No subject-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Composition first",
+            "description": "Every project page begins with the compositional choice and the negative-space ratio. The frame is the argument."
+          },
+          {
+            "name": "Annual essay",
+            "description": "Once a year the studio publishes a long-form photographic essay on a single subject, treated entirely through negative-space composition. The essay is the studio's primary marketing artefact."
+          },
+          {
+            "name": "Quarterly composition zine",
+            "description": "A quarterly printed zine on composition craft, written by the principal and sent to subscribers."
+          }
+        ],
+        "logoDirection": "A wordmark — The Negative Space Co set in a quiet display serif, deliberately positioned in the lower-left corner of every page with the rest of the page intentionally empty. The composition is the mark.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#F5F2EC",
+            "meaning": "Primary — the empty area of the page.",
+            "usage": "All marketing surfaces, the page itself."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type — the only marked element.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Frame",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The mark, section markers."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and project headings.",
+          "secondary": "A book serif for project essays and the zine body.",
+          "rationale": "The brand reads like a small art press. The page is mostly empty by design."
+        }
       }
     ]
   }
