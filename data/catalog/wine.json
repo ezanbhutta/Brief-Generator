@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "28 to 45. Buys wine weekly. Already follows two natural wine accounts. Wants the shop to filter the noise. Will pay a premium for editorial taste."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Warm"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the producer, the region, the price",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. NEW POUR in a tight modern grotesk, all caps, two words on one line. A small geometric mark, a single tilted rectangle suggesting a wine glass viewed from the side, used as the favicon and on the shipping carton seal.",
         "colorPalette": [
-          {"name": "Bottle Black", "hex": "#101012", "meaning": "Dark glass.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Cork Cream", "hex": "#F4F0E6", "meaning": "Used as space. Paper label.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Pour Red", "hex": "#A8313F", "meaning": "The single accent. The color of a young red.", "usage": "Accent, web headlines, sale signage"}
+          {
+            "name": "Bottle Black",
+            "hex": "#101012",
+            "meaning": "Dark glass.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Cork Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space. Paper label.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Pour Red",
+            "hex": "#A8313F",
+            "meaning": "The single accent. The color of a young red.",
+            "usage": "Accent, web headlines, sale signage"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark and headlines",
@@ -37,8 +57,14 @@
           "rationale": "One family. The mono carries the vintage and the price. The regular carries the brand and the editorial copy."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No 'wine experiences'. No tasting-wheel marketing. No Riedel glassware partnerships. No flash sales."},
-          {"title": "Where it lives", "body": "A site that loads the weekly recommendation first. A small shop with a printed list reprinted weekly. A monthly newsletter with three bottles and what to cook with them. No app."}
+          {
+            "title": "What it doesn't do",
+            "body": "No 'wine experiences'. No tasting-wheel marketing. No Riedel glassware partnerships. No flash sales."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A site that loads the weekly recommendation first. A small shop with a printed list reprinted weekly. A monthly newsletter with three bottles and what to cook with them. No app."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -50,6 +76,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "wine-modern-2",
+        "brandName": "Verge Wine Co.",
+        "tagline": "Wines from the edge of the appellation.",
+        "brandNameRationale": "Verge is a real word for the edge of something — the road, the field, the season. It points to where the grapes are grown (the boundary between two soils, two climates, two appellations) without naming the place. Wine Co. is the plain category suffix. Reads in the lineage of modern wine brands like Day Wines, Broc Cellars, Field Recordings — evocative but never literal.",
+        "manifesto": "Most modern wine brands sell either a place or a varietal. We made Verge because the actual interesting wines are made on the boundaries — the cold side of the hill, the last picking before the rain, the parcel that nobody planted on purpose. The brand is the edge, not the center. Each bottle is from a single parcel we lease at the verge of something larger.",
+        "industrySummary": "DTC wine has matured around two camps: the heritage estate (Caymus, Silver Oak) and the natural-wine bottle-shop set (Maison Noir, Broc). The opening underneath is for a modern grower-producer brand that talks about specific parcels in plain language, ships direct, and looks more like a design studio than a cellar.",
+        "competitorLandscape": "Day Wines (daywines.com) holds the modern grower-producer slot well. Broc Cellars (broccellars.com) plays the natural-wine peer. Field Recordings (fieldrecordingswine.com) sits in the editorial-modern middle. Caymus (caymus.com) is the heritage reference we are not. We sit closer to Day and Field Recordings, with a single-parcel framing per bottle.",
+        "positioningStatement": "Verge Wine Co. is a modern grower-producer that releases small-lot wines from single parcels on the edge of their appellations.",
+        "positioningRationale": "We compete on specificity. Each label names the parcel, the elevation, the soil, the year. The customer is buying a specific patch of ground in a specific year — not a brand and not a varietal.",
+        "targetAudience": {
+          "primary": "Wine buyers 30–50 who have moved past supermarket bottles but are not chasing collector wines.",
+          "behaviors": [
+            "Read the back label first.",
+            "Follow specific winemakers, not regions.",
+            "Order direct from producers.",
+            "Talk about a wine by parcel, not by score."
+          ],
+          "motivations": [
+            "Want to drink wines they can talk about.",
+            "Want to know where the grapes come from.",
+            "Want to support producers, not distributors."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the parcel, the elevation, the year.",
+            "Write back labels like a short field note.",
+            "Use the winemaker's first name in correspondence.",
+            "Photograph the vineyard, not the bottle."
+          ],
+          "donts": [
+            "No tasting-note adjective sprays ('notes of leather and tobacco').",
+            "No 95-point score banners.",
+            "No 'reserve' or 'estate' branding.",
+            "No varietal as the headline."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One parcel per bottle",
+            "description": "Every release is from a single leased parcel — typically less than two acres. The bottle names the parcel, the soil, the elevation, the picking date."
+          },
+          {
+            "name": "The edge",
+            "description": "We seek parcels on the boundary of an appellation, on a transitional soil, or at the limit of a varietal's comfortable climate. The interesting wine is at the edge."
+          },
+          {
+            "name": "Direct only",
+            "description": "We do not distribute to retail. Allocations release twice a year by email. The list is the marketing."
+          }
+        ],
+        "logoDirection": "A wordmark — Verge set in a calm modern grotesque with a small horizontal rule beneath, almost like a topographic line. The mark sits on the label small; the parcel name is the largest type on the front.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#3A4555",
+            "meaning": "Primary — the color of cool morning rock.",
+            "usage": "Wordmark, signage."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page and label background.",
+            "usage": "All marketing, label faces."
+          },
+          {
+            "name": "Vine",
+            "hex": "#6B7547",
+            "meaning": "Accent — a cool green used sparingly.",
+            "usage": "Topographic rule, vineyard photographs."
+          }
+        ],
+        "typography": {
+          "primary": "A neutral modern grotesque for the wordmark and parcel names.",
+          "secondary": "A small-caps serif for parcel data (soil, elevation, date).",
+          "rationale": "The grotesque is the brand. The serif is the field note. Labels read like a tag, not a poster."
         }
       }
     ],
@@ -65,7 +176,13 @@
         "targetAudience": {
           "primary": "Wealthy. Often inherited. Builds a cellar over decades. Trusts a small number of merchants by name. Values the relationship with the principal."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +197,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark, used on labels, the printed allocation cards, and the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Cellar Burgundy", "hex": "#5B1A2B", "meaning": "Deep aged red, the inside of a bottle.", "usage": "Primary brand color, letterhead, signage"},
-          {"name": "Champagne Gold", "hex": "#C9A75A", "meaning": "Heritage, the foil on the bottle.", "usage": "Foil, hallmark, hardware"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the cellar book.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body type, dividers"}
+          {
+            "name": "Cellar Burgundy",
+            "hex": "#5B1A2B",
+            "meaning": "Deep aged red, the inside of a bottle.",
+            "usage": "Primary brand color, letterhead, signage"
+          },
+          {
+            "name": "Champagne Gold",
+            "hex": "#C9A75A",
+            "meaning": "Heritage, the foil on the bottle.",
+            "usage": "Foil, hallmark, hardware"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper, the cellar book.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body type, dividers"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,7 +228,10 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No public price list. No retail shop walk-ins. No press. No celebrity sommelier partnerships. No social media presence."}
+          {
+            "title": "What it doesn't do",
+            "body": "No public price list. No retail shop walk-ins. No press. No celebrity sommelier partnerships. No social media presence."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -104,6 +244,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "wine-luxury-2",
+        "brandName": "Château d'Aurigny",
+        "tagline": "A single estate. Two cuvées.",
+        "brandNameRationale": "A plausible French château name in the heritage-estate convention. Aurigny is a real but small Channel Islands place-name that reads as Old World without being a famous appellation. The 'Château d'X' format places the brand in the Bordeaux/Loire tradition without imitating any specific producer.",
+        "story": "Château d'Aurigny is a single-estate winery on twenty-three hectares, in continuous family ownership since 1873. Production is held to two cuvées — a single red and a single white — released each spring. The cellar master has been at the estate for thirty-one years.",
+        "industrySummary": "Premium Old-World wine has consolidated into well-known appellations and négociant houses. There is a quieter market for the small single-estate producer in continuous family ownership — twenty to fifty hectares, deliberately small catalog, multi-generational cellar staff.",
+        "competitorLandscape": "Domaine de la Romanée-Conti (romanee-conti.fr) is the unreachable reference. Domaine Leroy (domaineleroy.com) is the peer in restraint. Vega Sicilia (vega-sicilia.com) sits in the iconic single-estate slot. We belong with single-estate, multi-generational producers — narrower in catalog than any of them.",
+        "positioningStatement": "A single-estate Old World winery producing two cuvées per year, family-owned since 1873.",
+        "positioningRationale": "We do not extend the catalog. The estate is the limit. The two cuvées have remained the same for four generations.",
+        "targetAudience": {
+          "primary": "Wine buyers who keep cellars, drink across decades, and follow specific estates.",
+          "behaviors": [
+            "Hold mixed cases of single producers across vintages.",
+            "Buy en primeur or on allocation.",
+            "Travel to the estate.",
+            "Pass cases to children."
+          ],
+          "motivations": [
+            "Want a single estate they can know across years.",
+            "Want continuity of cellar staff and style.",
+            "Want allocations they can rely on."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign correspondence in the family's name.",
+            "Reference vintages by year and weather.",
+            "Speak in specifics about cellar work.",
+            "Print all communications."
+          ],
+          "donts": [
+            "No social-media presence.",
+            "No promotional pricing.",
+            "No 'collection' or 'reserve' marketing.",
+            "No new-cuvée launches."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Two cuvées",
+            "description": "One red, one white. The composition is published. We have not added a third in four generations and we will not."
+          },
+          {
+            "name": "The cellar master",
+            "description": "Cellar staff stay at the estate for decades. The current cellar master arrived in 1993. The transition to his successor is planned over years, not weeks."
+          },
+          {
+            "name": "Allocation by mailing list",
+            "description": "Allocations release each spring to a small mailing list. The list grows by inheritance more than by signup."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Château d'Aurigny set in a classical book serif, with a small estate crest depicting the gatehouse. The crest appears in blind-embossed gold on the label; the wordmark is small.",
+        "colorPalette": [
+          {
+            "name": "Bordeaux",
+            "hex": "#5C1F1F",
+            "meaning": "Primary — the wine itself.",
+            "usage": "Wordmark, crest."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and label.",
+            "usage": "All marketing surfaces, label faces."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The embossed crest, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, label, and letterhead.",
+          "secondary": "An engraver's italic for vintage years and signatures.",
+          "rationale": "Letterpress register throughout. Labels and letterhead share the same typography."
         }
       }
     ],
@@ -118,7 +343,12 @@
         "targetAudience": {
           "primary": "Adults who order wine by the glass and don't want to read a wine list. They want one to three good options at known prices."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the wine, the price by the glass",
@@ -133,9 +363,24 @@
         },
         "logoDirection": "A wordmark only. GLASS in a single weight grotesk, wide kerned, all caps, five letters with generous space. No icon. The bar menu, the bottle shop label, and the receipt all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, menus, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, menus, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,7 +388,10 @@
           "rationale": "One face. The menu, the website, and the receipt all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No tasting events. No wine subscription. No celebrity sommelier. No newsletter. No app."}
+          {
+            "title": "Not this",
+            "body": "No tasting events. No wine subscription. No celebrity sommelier. No newsletter. No app."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -155,6 +403,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "wine-minimal-2",
+        "brandName": "Plot Eleven",
+        "tagline": "One parcel. One wine. One year.",
+        "brandNameRationale": "Plot Eleven names the eleventh parcel on a single vineyard map. The naming convention belongs to grower-producers like Hill Farmstead's 'Civil Disobedience' series or Burgundy's lieu-dit tradition — the parcel is the brand. Reads as honest, almost industrial, with no marketing wrapper.",
+        "manifesto": "Wine branding has buried what the bottle is. We made Plot Eleven because the bottle is a single parcel, in a single year, made into a single wine. The label is the plot number, the year, and the variety. The marketing is the wine.",
+        "industrySummary": "Single-vineyard, single-parcel labeling is well-established in Burgundy and increasingly in the New World. There is room for a minimal brand that takes the parcel-as-brand premise all the way — no estate name, no producer name above the parcel, no marketing copy.",
+        "competitorLandscape": "Burlotto (burlotto.com) plays in the single-parcel Italian space. Tyler Winery (tylerwinery.com) holds the minimal-parcel-led American slot. Maison Noir is a peer in restraint. We sit further out — the parcel number is the brand.",
+        "positioningStatement": "Plot Eleven is a single-parcel wine project releasing one wine per year from one vineyard parcel.",
+        "positioningRationale": "We strip the label to the parcel number, the year, and the variety. The producer is named in small type on the back. The parcel does the work.",
+        "targetAudience": {
+          "primary": "Wine buyers who track producers, vintages, and parcels.",
+          "behaviors": [
+            "Read back labels carefully.",
+            "Buy cases of single bottlings.",
+            "Compare years across the same parcel.",
+            "Hold wines for five-plus years."
+          ],
+          "motivations": [
+            "Want a wine identified by its place, not its brand.",
+            "Want to taste the same parcel across years.",
+            "Want labeling that respects the buyer's knowledge."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Specific",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the parcel number, the year, the variety.",
+            "Write back labels as field data.",
+            "Skip tasting notes entirely.",
+            "Sign the back label by the winemaker."
+          ],
+          "donts": [
+            "No tasting-note adjectives.",
+            "No reserve or premium designations.",
+            "No varietal-led marketing.",
+            "No vintage charts."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Plot, year, variety",
+            "description": "The label is three lines: the plot number, the year, the variety. Nothing else above the back label."
+          },
+          {
+            "name": "One wine per year",
+            "description": "We make one wine per vintage. If the parcel does not deliver, we declassify and skip the vintage."
+          },
+          {
+            "name": "Field data on the back",
+            "description": "The back label is rows: soil, elevation, picking date, fermentation, élevage, bottling date. No prose."
+          }
+        ],
+        "logoDirection": "Plot Eleven set in a precise grotesque, all numerals and uppercase, at small scale on the label. The plot number is the largest type on the bottle; everything else is smaller.",
+        "colorPalette": [
+          {
+            "name": "Bone",
+            "hex": "#F3EFE6",
+            "meaning": "Label face.",
+            "usage": "Label, marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Vine",
+            "hex": "#3D4D2F",
+            "meaning": "Single accent — the parcel number color.",
+            "usage": "The plot number only."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "A small mono for the field-data table on the back.",
+          "rationale": "Two faces, both quiet. The bottle reads like a research sample."
         }
       }
     ],
@@ -175,7 +507,13 @@
             "Single distributor across multiple categories"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the catalog and the delivery model",
@@ -189,16 +527,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Wholesale at scale", "description": "Reliable supply across regions and producers under one contract."},
-          {"name": "Design-led portfolio curation", "description": "Wine portfolio curated with the editorial eye of a fine-wine merchant and the supply chain of a major distributor."},
-          {"name": "Single partner across categories", "description": "Still wine, sparkling, fortified, and spirits under one engagement."}
+          {
+            "name": "Wholesale at scale",
+            "description": "Reliable supply across regions and producers under one contract."
+          },
+          {
+            "name": "Design-led portfolio curation",
+            "description": "Wine portfolio curated with the editorial eye of a fine-wine merchant and the supply chain of a major distributor."
+          },
+          {
+            "name": "Single partner across categories",
+            "description": "Still wine, sparkling, fortified, and spirits under one engagement."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single vine-row silhouette reduced to three parallel lines at an angle. Reads cleanly on a sourcing deck, name badge, and B2B trade show booth.",
         "colorPalette": [
-          {"name": "Cellar Navy", "hex": "#0F2238", "meaning": "Trust, scale, the cellar at night.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards, slides"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Cellar Burgundy", "hex": "#5B1A2B", "meaning": "Category accent.", "usage": "Highlights, foil on B2B documents"}
+          {
+            "name": "Cellar Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the cellar at night.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Cellar Burgundy",
+            "hex": "#5B1A2B",
+            "meaning": "Category accent.",
+            "usage": "Highlights, foil on B2B documents"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -206,7 +573,10 @@
           "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs and B2B quarterly reports."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C wine sales. No retail wine shops. No celebrity sommelier partnerships. The firm sells through wholesale and on-premise distribution, not consumer social."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C wine sales. No retail wine shops. No celebrity sommelier partnerships. The firm sells through wholesale and on-premise distribution, not consumer social."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -219,6 +589,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "wine-corporate-2",
+        "brandName": "Heaton & Vail Vineyards",
+        "tagline": "Vineyard ownership and wine production at scale.",
+        "brandNameRationale": "Heaton is a Yorkshire-origin surname with an agricultural register. Vail is a short, hard-edged surname pulled from the German Veil, meaning vellum. Together the surnames read as an established vineyard partnership operating multiple estates — the kind of holding entity that supplies bulk programs and retail private label, not consumer-facing premium.",
+        "manifesto": "Heaton & Vail Vineyards is a vineyard ownership and wine production company operating across multiple AVAs and appellations. We grow grapes on owned and leased land, produce wine under contract for retail private label and restaurant programs, and operate two regional bottling facilities. The buyer is a retail wine buyer, a hospitality group, or a private-label client.",
+        "industrySummary": "Mid-tier wine production is consolidating under a small number of large operators with multi-estate footprints. The opening is for a serious vineyard-and-production company with operational depth, transparent pricing, and the capacity to handle private-label and contract production for retailers and hospitality groups.",
+        "competitorLandscape": "Constellation Brands (cbrands.com) is the global reference. Treasury Wine Estates (tweglobal.com) holds the multi-estate peer slot. Trinchero Family Estates (tfewines.com) sits in the family-owned mid-tier middle. We belong in the regional multi-estate operator category.",
+        "positioningStatement": "Heaton & Vail Vineyards is a multi-AVA vineyard ownership and wine production company serving retail private label and hospitality contract production.",
+        "positioningRationale": "We compete on production capacity, AVA breadth, and the consistency required by retail and hospitality buyers. The product is reliable wine at agreed specifications, year after year.",
+        "targetAudience": {
+          "primary": "Retail wine buyers, hospitality beverage directors, and private-label clients managing $1M–$50M annual wine spend.",
+          "behaviors": [
+            "Buy private label on annual contracts.",
+            "Spec wines to varietal, region, and style parameters.",
+            "Manage multiple producer relationships.",
+            "Care about consistency across vintages."
+          ],
+          "motivations": [
+            "Want a production partner with multi-AVA scale.",
+            "Want consistency at contracted specifications.",
+            "Want a partner who can flex with their order volume."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with production capacity, AVA footprint, and contract terms.",
+            "Speak the language of trade buyers and procurement.",
+            "Publish a quarterly trade pricing schedule.",
+            "Reference long-standing trade clients in case material."
+          ],
+          "donts": [
+            "No consumer-facing premium marketing.",
+            "No social-media presence beyond trade.",
+            "No score-led promotion.",
+            "No competitor commentary."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Vineyard ownership",
+            "description": "We own and lease vineyards across multiple AVAs and varietals, giving us direct control over grape supply for contract production."
+          },
+          {
+            "name": "Production capacity",
+            "description": "Two regional bottling facilities with combined annual capacity of over 2 million cases. Custom labels, custom blends, and full compliance handling."
+          },
+          {
+            "name": "Trade contracts",
+            "description": "Multi-year supply contracts with annual pricing schedules. Capacity planning is shared with clients quarterly."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Heaton & Vail set in a traditional book serif, with 'Vineyards' beneath in tracked small caps. Used on trade catalogs, contracts, and the corporate office door — not on consumer-facing bottles.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, trade documents."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, catalogs."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and trade letters.",
+          "secondary": "A clean enterprise grotesque for tables, pricing schedules, and shipping.",
+          "rationale": "Tabular and disciplined. The trade catalog reads like a long-standing wholesale reference."
         }
       }
     ],
@@ -234,7 +689,13 @@
         "targetAudience": {
           "primary": "25 to 45. Hosts dinners. Buys two bottles per dinner party (always). Tells friends about the bottle by tag rather than vintage. Wears the merch."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Playful",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about wine snobbery",
@@ -249,11 +710,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the second B of BOTTLE stylized as a small filled circle, like the bottom of a wine bottle viewed from above. Standalone bottle-base icon for stickers, social profiles, and the back of every box.",
         "colorPalette": [
-          {"name": "Bottle Red", "hex": "#A8313F", "meaning": "The color of the wine, the second one.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Cork", "hex": "#A65A2A", "meaning": "Warm, the natural cork.", "usage": "Accent, secondary surfaces"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Punchline accent.", "usage": "Highlights, social, swag"}
+          {
+            "name": "Bottle Red",
+            "hex": "#A8313F",
+            "meaning": "The color of the wine, the second one.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Cork",
+            "hex": "#A65A2A",
+            "meaning": "Warm, the natural cork.",
+            "usage": "Accent, secondary surfaces"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Punchline accent.",
+            "usage": "Highlights, social, swag"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,8 +747,14 @@
           "rationale": "Migra has warmth. Neue Montreal handles the practical bits. The pair feels designed and a little weird."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a wine-club brand. Not a tasting-room brand. Not afraid of red. Not too cool to put a joke on the label."},
-          {"title": "Where it lives", "body": "Bottles with labels designed to be peeled off and stuck to fridges. Stickers in every order. A monthly newsletter that's mostly customer dinner stories. A merch line of two tees that say SECOND BOTTLE across the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not a wine-club brand. Not a tasting-room brand. Not afraid of red. Not too cool to put a joke on the label."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Bottles with labels designed to be peeled off and stuck to fridges. Stickers in every order. A monthly newsletter that's mostly customer dinner stories. A merch line of two tees that say SECOND BOTTLE across the back."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -276,7 +768,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "wine-creative-2",
+        "brandName": "Marigold Wine Project",
+        "tagline": "Wines that don't take themselves seriously.",
+        "brandNameRationale": "Marigold is a real botanical name, warm and slightly sun-faded — the opposite of the somber heritage register most wine brands use. 'Wine Project' frames the brand as ongoing and experimental rather than canonical. The pairing belongs to the contemporary creative wine school (Field Recordings, Day Wines, Broc Cellars) without copying any of them.",
+        "manifesto": "Most wine brands are trying to sound like a 17th-century estate even when the winemaker is 34 and learned in a garage. We started Marigold because the actual fun of making wine right now is unfussy — co-fermenting weird varieties, releasing pet-nats with cartoon labels, putting a sticker on a bottle and seeing what happens. The brand is a project. The labels change. The wine is honest about being made by humans in a warehouse last September.",
+        "industrySummary": "Natural and low-intervention wine has matured into a fully developed market with its own canon. There is real space for a brand that takes the creative-led wine premise and pushes harder on illustration, voice, and label design — closer to a record label than a winery.",
+        "competitorLandscape": "Broc Cellars (broccellars.com) is the closest creative peer. Maison Noir (mnwines.com) holds the irreverent slot. Field Recordings (fieldrecordingswine.com) sits in the editorial-creative middle. Las Jaras (lasjaras.com) plays in the celebrity-creative position. We sit alongside Broc and Maison Noir, with a slightly louder visual register.",
+        "positioningStatement": "Marigold Wine Project is a creative-led wine label releasing small-lot experimental wines with illustrated labels and an irreverent voice.",
+        "positioningRationale": "The brand competes on personality and design as much as on the wine itself. Each release has its own commissioned label illustration. The brand voice is closer to a fanzine than a tasting room.",
+        "targetAudience": {
+          "primary": "Wine drinkers 25–40 who buy bottles for the label as much as the wine.",
+          "behaviors": [
+            "Photograph the label before opening.",
+            "Follow wine accounts that post illustrations.",
+            "Try pet-nats and orange wines.",
+            "Buy from independent bottle shops."
+          ],
+          "motivations": [
+            "Want wine that fits the dinner, not the cellar.",
+            "Want a brand with a sense of humor.",
+            "Want a label they will keep."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Specific",
+          "Warm",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Commission a new illustration for every release.",
+            "Write back labels in first person, in the winemaker's voice.",
+            "Name wines after small inside jokes.",
+            "Photograph bottles in casual settings."
+          ],
+          "donts": [
+            "No tasting-note adjective sprays.",
+            "No reserve or premium designations.",
+            "No score-led marketing.",
+            "No cellar-photograph clichés."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Illustrated labels",
+            "description": "Every release commissions a new illustration from a working artist. The label is the marketing; the label is also a keepsake."
+          },
+          {
+            "name": "Small lots, plain stories",
+            "description": "Each release is one to four barrels. The back label is the winemaker explaining what she did, in plain English."
+          },
+          {
+            "name": "The list and the shops",
+            "description": "Released to a mailing list and a small number of independent bottle shops. No supermarket distribution."
+          }
+        ],
+        "logoDirection": "A wordmark — Marigold Wine Project set in a hand-drawn display serif with a small marigold flower illustration beside it. The wordmark adapts in color per release to match the label illustration.",
+        "colorPalette": [
+          {
+            "name": "Marigold",
+            "hex": "#E8A93D",
+            "meaning": "Primary — the brand flower.",
+            "usage": "Wordmark, signature elements."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Plum",
+            "hex": "#5C2D3D",
+            "meaning": "Secondary — a wine-cellar accent.",
+            "usage": "Body type, label borders."
+          }
+        ],
+        "typography": {
+          "primary": "A hand-drawn display serif for the wordmark and label names.",
+          "secondary": "A neutral grotesque for body and field data.",
+          "rationale": "The display does the talking. The sans handles the work."
+        }
       }
     ]
   }

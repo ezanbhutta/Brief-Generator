@@ -13,7 +13,12 @@
         "targetAudience": {
           "primary": "25 to 45. Working adult. Already pays for at least one premium learning subscription. Wants the course to deliver a specific skill they can use on Monday."
         },
-        "brandPersonalityTraits": ["Direct", "Modern", "Considered", "Confident"],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Considered",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show what the learner will be able to do",
@@ -28,9 +33,24 @@
         },
         "logoDirection": "A wordmark only. DAY ONE in a tight modern grotesk, all caps, two words on one line. A small geometric mark, a single solid circle with the numeral 1 inside, used as the app icon and the course completion stamp.",
         "colorPalette": [
-          {"name": "Study Black", "hex": "#101012", "meaning": "Ink on the first page of the notebook.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Page Cream", "hex": "#F4F1EA", "meaning": "Notebook paper. Used as space.", "usage": "Backgrounds, paper, app body"},
-          {"name": "Highlight Yellow", "hex": "#FFD23F", "meaning": "Highlighter, the marked passage.", "usage": "Accent, key callouts, CTA"}
+          {
+            "name": "Study Black",
+            "hex": "#101012",
+            "meaning": "Ink on the first page of the notebook.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4F1EA",
+            "meaning": "Notebook paper. Used as space.",
+            "usage": "Backgrounds, paper, app body"
+          },
+          {
+            "name": "Highlight Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Highlighter, the marked passage.",
+            "usage": "Accent, key callouts, CTA"
+          }
         ],
         "typography": {
           "primary": "Inter for the marketing site and product",
@@ -38,8 +58,14 @@
           "rationale": "Inter handles the marketing and product. The mono handles the technical content where it appears."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No 'transform your life in 30 days' marketing. No certificate-as-marketing strategy. No celebrity-instructor content. No motivational founder quotes."},
-          {"title": "Where it lives", "body": "A site that shows the curriculum in the first scroll. A small cohort of students per course. A printed welcome packet for every cohort. A direct line to the instructor for the duration of the course."}
+          {
+            "title": "What it doesn't do",
+            "body": "No 'transform your life in 30 days' marketing. No certificate-as-marketing strategy. No celebrity-instructor content. No motivational founder quotes."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A site that shows the curriculum in the first scroll. A small cohort of students per course. A printed welcome packet for every cohort. A direct line to the instructor for the duration of the course."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -51,6 +77,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "edtech-modern-2",
+        "brandName": "Acuity Learning",
+        "tagline": "Sharper teaching, on a schedule.",
+        "brandNameRationale": "Acuity is a real Latin-rooted word meaning sharpness of thought, vision, or hearing. It signals precision and clarity without being literal about education. The pairing with 'Learning' as a category suffix follows the lineage of modern edtech naming (Brilliant, Curio, Brilliant Labs) — single evocative word plus plain suffix.",
+        "manifesto": "Most online learning platforms confuse breadth with depth. Ten thousand courses, infinite trees of topics, a recommendation engine that nobody asked for. We made Acuity because the actual best teaching is narrow, scheduled, and sharp. The platform offers a small catalog of courses, each taught on a calendar, by a named teacher. Students arrive at the same time and progress together.",
+        "industrySummary": "Online learning has split between MOOC platforms (Coursera, edX) optimizing breadth and cohort-based course providers (Maven, On Deck) optimizing community. The opening underneath is for a platform with a small, curated catalog of scheduled live courses with named teachers.",
+        "competitorLandscape": "Maven (maven.com) holds the cohort-based course platform slot. On Deck (beondeck.com) plays in the founder-focused middle. Brilliant (brilliant.org) is the well-designed self-paced reference. We sit alongside Maven with a smaller catalog and a focus on named-teacher craft.",
+        "positioningStatement": "Acuity Learning is a small-catalog online learning platform offering scheduled cohort courses taught by named teachers.",
+        "positioningRationale": "We compete on catalog discipline. Twenty courses, not ten thousand. Each runs three times a year, taught live, capped at a working cohort size.",
+        "targetAudience": {
+          "primary": "Working professionals 28–45 who want to seriously learn a single subject on a schedule.",
+          "behaviors": [
+            "Have taken online courses and not finished them.",
+            "Prefer scheduled commitments to self-paced ones.",
+            "Read the teacher's bio before enrolling.",
+            "Pay full price for instruction they will use."
+          ],
+          "motivations": [
+            "Want a teacher, not a recommendation engine.",
+            "Want to finish the course on a known date.",
+            "Want a small cohort they can know."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Sharp",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the teacher's name and a short course description.",
+            "Publish the full schedule six months ahead.",
+            "Reference the cohort by date.",
+            "Write course descriptions in the teacher's voice."
+          ],
+          "donts": [
+            "No recommendation-engine marketing.",
+            "No 'ten thousand courses' boasts.",
+            "No countdown banners.",
+            "No certificate-of-completion theater."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "A small catalog",
+            "description": "Twenty courses on the platform at any time. Each runs three times a year on a published calendar. We do not add a twenty-first lightly."
+          },
+          {
+            "name": "Named teachers",
+            "description": "Every course is associated with a named teacher who designed the curriculum and runs the live sessions. Recordings are made; the live session is the product."
+          },
+          {
+            "name": "Cohorts that finish",
+            "description": "Cohort sizes are capped to working scale (typically 40–80). The course has a start date and an end date. Students finish together."
+          }
+        ],
+        "logoDirection": "A wordmark — Acuity Learning set in a calm modern grotesque with a small horizontal rule beneath, suggesting a line of focus.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, the platform chrome."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces, the reading view."
+          },
+          {
+            "name": "Marker",
+            "hex": "#3D5BFF",
+            "meaning": "Accent.",
+            "usage": "Section marks, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A modern grotesque for the wordmark and platform UI.",
+          "secondary": "A book serif for reading content and course descriptions.",
+          "rationale": "The grotesque handles the chrome. The serif handles the reading. The platform feels like a small university press."
         }
       }
     ],
@@ -66,7 +177,13 @@
         "targetAudience": {
           "primary": "40 and up. Established in a career. Has the time and means to commit to a year-long program. Values the cohort, the principals, and the relationships built across the program."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the fellow by surname",
@@ -81,10 +198,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn columnar hallmark, two parallel vertical lines suggesting a portico, used on letterhead, the seminar materials, and the brass plaque outside the seminar room.",
         "colorPalette": [
-          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Old leather, library walls, the seminar room.", "usage": "Primary brand color, signage, letterhead"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque.", "usage": "Foil, hallmark, accents"},
-          {"name": "Cream", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, paper, packaging"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+          {
+            "name": "Library Green",
+            "hex": "#1E3A30",
+            "meaning": "Old leather, library walls, the seminar room.",
+            "usage": "Primary brand color, signage, letterhead"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body, dividers"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -92,7 +229,10 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No open enrollment. No marketing campaigns. No social media presence. No press. No certifications used for marketing."}
+          {
+            "title": "What it doesn't do",
+            "body": "No open enrollment. No marketing campaigns. No social media presence. No press. No certifications used for marketing."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -105,6 +245,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "edtech-luxury-2",
+        "brandName": "The Wren Academy",
+        "tagline": "A small academy, one cohort at a time.",
+        "brandNameRationale": "A single proper-name academy with the definite article — the naming convention of established schools (The King's School, The Latymer School, The Wren Academy of Music in real life). Wren is a quiet English surname and bird-name, evocative without being aspirational. The 'The X Academy' format places the brand in the heritage education tradition.",
+        "story": "The Wren Academy is a small online academy offering year-long programs in a focused set of subjects. Each program is taught by a single principal teacher with a small support faculty. Cohorts are capped at thirty. Admission is by application.",
+        "industrySummary": "Premium online education has clustered around executive education and bootcamp models. There is a quieter market for the small academy with year-long programs, application-based admission, and faculty continuity — closer to a graduate seminar than a course.",
+        "competitorLandscape": "MIT Open Learning and HBS Online represent the institutional reference. Reforge (reforge.com) holds the modern premium-cohort slot. The London Writers Salon (londonwriterssalon.com) plays in the small-academy peer position. We belong with the small academy tradition, with year-long programs and application admission.",
+        "positioningStatement": "The Wren Academy is a small online academy offering year-long programs, application-based admission, and principal-teacher continuity.",
+        "positioningRationale": "We do not scale. The academy runs four programs at a time, each with thirty students. Admission is by written application. The principal teacher stays with the cohort across the year.",
+        "targetAudience": {
+          "primary": "Working adults 30–55 seeking serious, year-long programs in subjects they care about — writing, philosophy, history, design.",
+          "behaviors": [
+            "Apply by writing, not by filling a form.",
+            "Commit to year-long programs.",
+            "Pay full tuition for serious teaching.",
+            "Stay in touch with classmates after."
+          ],
+          "motivations": [
+            "Want serious teaching, not a checklist.",
+            "Want a year, not a weekend.",
+            "Want a cohort of working peers."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address students by surname in correspondence.",
+            "Reference faculty by name.",
+            "Publish a printed academic calendar.",
+            "Send a printed welcome on enrollment."
+          ],
+          "donts": [
+            "No promotional pricing.",
+            "No referral codes.",
+            "No marketing emails to non-applicants.",
+            "No certificate-of-completion theater."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Year-long programs",
+            "description": "Each program runs across an academic year. Students enroll in one program at a time. The full curriculum is published a year ahead."
+          },
+          {
+            "name": "Principal teacher",
+            "description": "Each program is led by a single principal teacher who stays with the cohort across the year. Guest faculty join for specific seminars."
+          },
+          {
+            "name": "Application admission",
+            "description": "Admission is by written application. The application is short, serious, and reviewed by the principal teacher."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Wren Academy set in a classical book serif, with a small woodcut wren mark above the wordmark. Hand-printed register.",
+        "colorPalette": [
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Primary.",
+            "usage": "Wordmark, signage."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "All correspondence and marketing."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Crest, signature details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, prospectus, and letterhead.",
+          "secondary": "An old-style serif for reading and seminar materials.",
+          "rationale": "Letterpress register throughout. The prospectus is printed and posted."
         }
       }
     ],
@@ -119,7 +344,12 @@
         "targetAudience": {
           "primary": "Adults who want to learn a specific skill and don't need a brand world. They want the course, the price, and a finished result."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show what you'll learn",
@@ -134,9 +364,24 @@
         },
         "logoDirection": "A wordmark only. LEARN in a single weight grotesk, wide kerned, all caps, five letters with generous space. No icon. The course page, the website, and the certificate (if printed) all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, course materials, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, course materials, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -144,7 +389,10 @@
           "rationale": "One face. The course page, the materials, and the receipt all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No community feature. No streak counter. No badges. No newsletter. No social media presence."}
+          {
+            "title": "Not this",
+            "body": "No community feature. No streak counter. No badges. No newsletter. No social media presence."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -156,6 +404,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "edtech-minimal-2",
+        "brandName": "Folio",
+        "tagline": "Lessons as sheets.",
+        "brandNameRationale": "Folio is a real word meaning a sheet of paper folded once, and historically a book of large format. In a learning context, it suggests both the page (the lesson) and the binding (the curriculum). One uncommon Latin-rooted word, like Notion or Linear. Reads as quiet, considered, slightly archaic.",
+        "manifesto": "Online learning platforms have grown into video-heavy, gamified, notification-driven products. We made Folio because the actual material of learning is still the page — a sheet you can read, mark up, return to. Each lesson is a folio. The product is the folio reader. No video, no quizzes, no streaks.",
+        "industrySummary": "Self-paced learning has become video-first and gamified. There is real space for a minimal platform that returns to the page as the unit — closer to a digital textbook than a video course.",
+        "competitorLandscape": "Brilliant (brilliant.org) plays in the modern self-paced slot. Maven (maven.com) holds the live-cohort middle. Sub-stack-style writers (Lenny's Newsletter and similar) play in the single-author space. We sit further out — fewer features, the page is the product.",
+        "positioningStatement": "Folio is a self-paced learning platform where each lesson is a single readable sheet — no video, no quizzes, no gamification.",
+        "positioningRationale": "We strip the learning surface to text and annotation. The reader marks up the folio. The folio stays in the library.",
+        "targetAudience": {
+          "primary": "Learners who read more than they watch.",
+          "behaviors": [
+            "Prefer text to video.",
+            "Take notes in margins.",
+            "Return to material across years.",
+            "Skip onboarding tours."
+          ],
+          "motivations": [
+            "Want serious reading material.",
+            "Want to skip the video.",
+            "Want a platform that respects the page."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the lesson text.",
+            "Name folios by topic, not by lesson number.",
+            "Skip onboarding copy.",
+            "Confirm purchases in one line."
+          ],
+          "donts": [
+            "No video previews.",
+            "No streaks or gamification.",
+            "No 'unlock' or 'complete' language.",
+            "No notification emails."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Lessons as folios",
+            "description": "Each lesson is a single readable sheet with paragraphs, footnotes, and figures. The folio is the unit of work."
+          },
+          {
+            "name": "Annotation as the feature",
+            "description": "The reader can mark up the folio. Annotations stay with the reader's account across years."
+          },
+          {
+            "name": "No video",
+            "description": "We do not produce video. If a teacher wants moving image, they link out. The platform is for reading."
+          }
+        ],
+        "logoDirection": "Folio set in a neutral grotesque, all lowercase, at small scale. The wordmark sits at the top of every folio in a fixed position.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Folio background.",
+            "usage": "All reading surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Mark",
+            "hex": "#A6843D",
+            "meaning": "Single accent — the annotation color.",
+            "usage": "Margin notes, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A book serif for folio body, generously set.",
+          "secondary": "A neutral grotesque for chrome and labels.",
+          "rationale": "The folio reads like a typeset page. The chrome stays out of the way."
         }
       }
     ],
@@ -176,7 +508,13 @@
             "One partner across upskilling, leadership, and compliance"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with learning outcomes",
@@ -190,16 +528,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Outcome-led learning", "description": "Programs measured against performance change, not completion rates."},
-          {"name": "Single platform across needs", "description": "Upskilling, leadership development, and compliance training under one engagement."},
-          {"name": "Reporting that satisfies the board", "description": "Workforce development metrics formatted for the Chief People Officer and the CFO together."}
+          {
+            "name": "Outcome-led learning",
+            "description": "Programs measured against performance change, not completion rates."
+          },
+          {
+            "name": "Single platform across needs",
+            "description": "Upskilling, leadership development, and compliance training under one engagement."
+          },
+          {
+            "name": "Reporting that satisfies the board",
+            "description": "Workforce development metrics formatted for the Chief People Officer and the CFO together."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single chevron pointing up, suggesting forward progress. Reads cleanly on a procurement deck, name badge, and B2B trade show booth.",
         "colorPalette": [
-          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Performance Green", "hex": "#3E8E5A", "meaning": "Outcome accent.", "usage": "Charts, status indicators, success states"}
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Performance Green",
+            "hex": "#3E8E5A",
+            "meaning": "Outcome accent.",
+            "usage": "Charts, status indicators, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -207,7 +574,10 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and learning program documentation."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C consumer learning brand. No celebrity instructors. No certification-as-marketing strategy. The firm sells through enterprise procurement, not Instagram learning influencers."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C consumer learning brand. No celebrity instructors. No certification-as-marketing strategy. The firm sells through enterprise procurement, not Instagram learning influencers."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -220,6 +590,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "edtech-corporate-2",
+        "brandName": "Lectern Education Group",
+        "tagline": "K-12 and higher-ed learning infrastructure, enterprise-grade.",
+        "brandNameRationale": "Lectern is the literal teaching object — the stand from which lectures are delivered. As a brand name it places the company firmly in the institutional teaching tradition. Education Group signals the multi-product holding-company structure with K-12, higher-ed, and adult-learning divisions under one corporate umbrella.",
+        "manifesto": "Lectern Education Group provides learning infrastructure to K-12 districts, university systems, and adult-learning providers. The buyer is a superintendent, a provost, or a director of professional development. The contract is multi-year. The metric is implementation success, ongoing support, and renewal.",
+        "industrySummary": "Enterprise education infrastructure (LMS, SIS, student lifecycle systems) is dominated by a small number of incumbents (Blackboard, Canvas, PowerSchool). The opening is for a serious mid-tier vendor with implementation depth, contract flexibility, and the procurement-friendly posture institutional buyers demand.",
+        "competitorLandscape": "PowerSchool (powerschool.com) is the K-12 incumbent. Instructure (instructure.com) holds the higher-ed reference. Blackboard (blackboard.com) is the legacy peer. We belong in the regional mid-tier institutional vendor category.",
+        "positioningStatement": "Lectern Education Group provides LMS, SIS, and learner analytics platforms to K-12 districts, higher-ed institutions, and adult-learning providers.",
+        "positioningRationale": "We compete on implementation depth, contract flexibility, and procurement readiness. The deliverable is reliable, audit-compliant, multi-year infrastructure with attentive support.",
+        "targetAudience": {
+          "primary": "Superintendents, provosts, CIOs, and directors of professional development at districts, universities, and adult-learning providers.",
+          "behaviors": [
+            "Run multi-vendor procurement processes.",
+            "Sit through quarterly business reviews.",
+            "Care about uptime, FERPA, and IEP compliance.",
+            "Renew on three to five-year terms."
+          ],
+          "motivations": [
+            "Need a vendor their CIO and procurement office will accept.",
+            "Need implementation support that does not disappear at go-live.",
+            "Need a partner who will be operational in seven years."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Reliable",
+          "Discreet",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with implementation specifics, compliance, and uptime.",
+            "Speak the language of institutional procurement.",
+            "Publish a quarterly product roadmap.",
+            "Reference long-tenure district and university clients."
+          ],
+          "donts": [
+            "No edtech-startup phrases ('disrupting education').",
+            "No social-media-first launches.",
+            "No surprise pricing changes.",
+            "No product launches without 90-day notice."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "K-12 and higher-ed",
+            "description": "Full LMS, SIS, and learner analytics platforms for both K-12 districts and higher-ed institutions, with adult-learning extensions."
+          },
+          {
+            "name": "Implementation as the product",
+            "description": "Each engagement includes implementation services with named senior consultants. The implementation does not end at go-live."
+          },
+          {
+            "name": "Procurement-friendly",
+            "description": "MSA, DPA, FERPA, IEP compliance documentation available pre-sale. Pricing schedules are published; multi-year terms are standard."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Lectern set in a traditional book serif, with 'Education Group' beneath in tracked small caps. Used in contracts, proposals, and the corporate office.",
+        "colorPalette": [
+          {
+            "name": "Navy",
+            "hex": "#1F2A40",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Section marks, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and proposals.",
+          "secondary": "A clean enterprise grotesque for reports and platform UI.",
+          "rationale": "Tabular and disciplined. Numbers louder than adjectives."
         }
       }
     ],
@@ -235,7 +690,13 @@
         "targetAudience": {
           "primary": "30 to 50. Successful in their day job. Already reads two books a month. Wants to take a class for fun. Doesn't need a certificate. Tells friends about the class at dinner."
         },
-        "brandPersonalityTraits": ["Warm", "Sharp", "Playful", "Confident", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Sharp",
+          "Playful",
+          "Confident",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about credentialism",
@@ -250,11 +711,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the L of SCHOOL stylized as a small bell pull or doorway figure. Standalone bell-icon for stickers, social profiles, and the back of every class welcome card.",
         "colorPalette": [
-          {"name": "Night Red", "hex": "#D72638", "meaning": "Loud, warm, the EXIT sign of the old school.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Chalkboard Black", "hex": "#0E0E10", "meaning": "Anchor, the chalkboard.", "usage": "Body type, secondary surfaces"},
-          {"name": "Chalk White", "hex": "#F7F5F0", "meaning": "Chalk on slate, the warm classroom.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Margin note, the marked passage.", "usage": "Highlights, social, swag"},
-          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Old books, the library wall.", "usage": "Secondary surfaces, accents"}
+          {
+            "name": "Night Red",
+            "hex": "#D72638",
+            "meaning": "Loud, warm, the EXIT sign of the old school.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Chalkboard Black",
+            "hex": "#0E0E10",
+            "meaning": "Anchor, the chalkboard.",
+            "usage": "Body type, secondary surfaces"
+          },
+          {
+            "name": "Chalk White",
+            "hex": "#F7F5F0",
+            "meaning": "Chalk on slate, the warm classroom.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Margin note, the marked passage.",
+            "usage": "Highlights, social, swag"
+          },
+          {
+            "name": "Library Green",
+            "hex": "#1E3A30",
+            "meaning": "Old books, the library wall.",
+            "usage": "Secondary surfaces, accents"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -262,8 +748,14 @@
           "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and a little nostalgic."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a credentialing brand. Not a career-change brand. Not afraid of red. Not too cool to put a joke on a class flyer."},
-          {"title": "Where it lives", "body": "Real evening classes in a real building. Printed course catalogs mailed twice a year. Stickers in every welcome packet. A small bookstore at the back of the building. A monthly newsletter written by the instructors."}
+          {
+            "title": "What it isn't",
+            "body": "Not a credentialing brand. Not a career-change brand. Not afraid of red. Not too cool to put a joke on a class flyer."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Real evening classes in a real building. Printed course catalogs mailed twice a year. Stickers in every welcome packet. A small bookstore at the back of the building. A monthly newsletter written by the instructors."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -277,7 +769,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "edtech-creative-2",
+        "brandName": "Owl & Inkwell",
+        "tagline": "A small school for unusual subjects.",
+        "brandNameRationale": "Owl is the academic-tradition symbol of wisdom; inkwell is the tradition's writing object. Pairing them with an ampersand creates a name that reads as a small academy or independent school, slightly literary, slightly old-fashioned. The pairing borrows from the bookshop-and-academy naming tradition (Hatchard & Co, Lutyens & Rubinstein) without imitating any of them.",
+        "manifesto": "Most online education sells employable skills. We started Owl & Inkwell because the actual best learning is often unemployable — Latin etymology, medieval astronomy, the history of paper, the lost art of letter-writing. We run small live courses on subjects that will not improve your career and may improve your life. The school exists because the subject does.",
+        "industrySummary": "Online education has consolidated around career-utility courses. There is real space for an unapologetically non-utility platform — courses in the humanities, classics, history, and craft, taught by enthusiasts to small live cohorts.",
+        "competitorLandscape": "Hardcore History (dancarlin.com) plays in the long-form humanities space. London Writers Salon (londonwriterssalon.com) holds the small-academy peer slot. Catapult (catapult.co) sits in the writing-school middle. We sit alongside Catapult with a broader humanities footprint and a clearer literary register.",
+        "positioningStatement": "Owl & Inkwell is a small live-course school offering courses in the humanities, classics, history, and craft — taught for love, not for career.",
+        "positioningRationale": "The brand stakes a position against career-utility learning. Course descriptions argue for the subject on its own terms. The audience is self-selecting.",
+        "targetAudience": {
+          "primary": "Adults 30–65 who read for pleasure and learn for love.",
+          "behaviors": [
+            "Read history, poetry, and essays for fun.",
+            "Sign up for one-off lectures and reading groups.",
+            "Visit independent bookshops.",
+            "Take notes in handwritten journals."
+          ],
+          "motivations": [
+            "Want to learn a subject for its own sake.",
+            "Want a small live class with real conversation.",
+            "Want a teacher who loves the subject."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Warm",
+          "Considered",
+          "Charming"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write course descriptions like a friend recommending a book.",
+            "Reference the teacher's pet enthusiasms.",
+            "Print the schedule on a card.",
+            "Sign emails by the teacher who designed the course."
+          ],
+          "donts": [
+            "No career-utility marketing.",
+            "No 'become a' headlines.",
+            "No certificate-of-completion theater.",
+            "No referral codes."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Subjects worth learning",
+            "description": "Each course is a six to ten week live cohort on a subject the teacher loves — Roman roads, the history of bookbinding, Anglo-Saxon poetry, beekeeping."
+          },
+          {
+            "name": "The reading list",
+            "description": "Every course comes with a printed reading list mailed to students. The list is the course; the live sessions are the conversation."
+          },
+          {
+            "name": "Small live cohorts",
+            "description": "Cohorts cap at thirty. The teacher knows every student's name by the second session."
+          }
+        ],
+        "logoDirection": "A wordmark — Owl & Inkwell set in a quiet display serif, with a small engraved owl-and-inkwell mark above it. The mark feels printed in a 19th-century almanac.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Primary — the color of writing ink.",
+            "usage": "Wordmark, body type."
+          },
+          {
+            "name": "Manila",
+            "hex": "#E8DFC7",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces, course cards."
+          },
+          {
+            "name": "Crimson",
+            "hex": "#7E2B1F",
+            "meaning": "Single accent — the color of a leather binding.",
+            "usage": "Section marks, course-name lines."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and course names.",
+          "secondary": "A book serif for reading lists and course descriptions.",
+          "rationale": "The brand reads like a slim catalogue from a small university press."
+        }
       }
     ]
   }

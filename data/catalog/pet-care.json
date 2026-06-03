@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "28 to 45. Owns one or two pets. Already buys design-led adult goods. Will pay a premium for pet products that work in a modern apartment."
         },
-        "brandPersonalityTraits": ["Warm", "Modern", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Modern",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Talk about the dog and the owner together",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. GOOD BOY in a soft modern grotesk, all caps, two words on one line. A small geometric mark, two thin parallel lines suggesting an ear, used as the hangtag stamp and the favicon.",
         "colorPalette": [
-          {"name": "Coat Black", "hex": "#101012", "meaning": "The good dog's coat. Loyal.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Bone", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Treat Brown", "hex": "#A65A2A", "meaning": "Warm, the color of a good treat.", "usage": "Accent, hangtags, web headlines"}
+          {
+            "name": "Coat Black",
+            "hex": "#101012",
+            "meaning": "The good dog's coat. Loyal.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Treat Brown",
+            "hex": "#A65A2A",
+            "meaning": "Warm, the color of a good treat.",
+            "usage": "Accent, hangtags, web headlines"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark and headlines",
@@ -37,8 +57,14 @@
           "rationale": "One family. The mono carries the technical product data. The regular carries the brand and the warm copy."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No cartoon paw imagery. No 'fur-baby' language. No dog-influencer marketing. No styled studio shoots with sleeping puppies."},
-          {"title": "Where it lives", "body": "A site that shows the product in real homes with real pets. Packaging that looks at home next to the toaster. A monthly email written like a friend talking about their dog."}
+          {
+            "title": "What it doesn't do",
+            "body": "No cartoon paw imagery. No 'fur-baby' language. No dog-influencer marketing. No styled studio shoots with sleeping puppies."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A site that shows the product in real homes with real pets. Packaging that looks at home next to the toaster. A monthly email written like a friend talking about their dog."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -50,6 +76,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "pet-care-modern-2",
+        "brandName": "Heath & Hound",
+        "tagline": "Quiet supplies for dogs that live indoors.",
+        "brandNameRationale": "Heath is a real word for moorland — open, slightly wild ground that dogs like. Hound is the archaic word for dog. The pairing reads as warm, slightly British, and slightly outdoors — the kind of small brand a country vet might recommend. Borrows from the paired-noun naming tradition in pet (Stella & Chewy's, The Farmer's Dog, Wild One) without imitating any of them.",
+        "manifesto": "Most modern pet brands talk about pets as if they were children. We made Heath & Hound because dogs are mostly very calm, very specific, and mostly happy with a few good objects — a bed in the right corner, a collar that does not chafe, a bowl the right height. The brand is the small catalog of objects that work, for the dog that lives indoors.",
+        "industrySummary": "DTC pet has matured into food (Farmer's Dog, Open Farm), insurance (Pumpkin, Trupanion), and supplies (Wild One, Maxbone). The opening in supplies is for a brand that strips the personality-led marketing and competes on object craft — bowls, beds, collars, leashes, harnesses.",
+        "competitorLandscape": "Wild One (wildone.com) holds the modern minimal supply slot. Maxbone (maxbone.com) plays in the modern colorful peer position. Found My Animal (foundmyanimal.com) sits in the considered-craft middle. We sit alongside Wild One with a quieter palette and a smaller catalog.",
+        "positioningStatement": "Heath & Hound is a small modern supply brand for dogs — beds, bowls, collars, leashes, harnesses — made well, sold quietly.",
+        "positioningRationale": "We compete on object craft. The catalog runs to forty items. Each product page is short and shows the object in use, not in a studio.",
+        "targetAudience": {
+          "primary": "Dog owners 28–50 who treat the dog as a member of the household and care about how things look at home.",
+          "behaviors": [
+            "Choose pet products that fit the home's aesthetic.",
+            "Re-buy from brands they trust.",
+            "Care about object weight, materials, and finish.",
+            "Skip neon and novelty."
+          ],
+          "motivations": [
+            "Want supplies that fit at home.",
+            "Want objects that age well.",
+            "Want a brand that does not over-personality the dog."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph products in use, in a real room.",
+            "Write product copy about the object — weight, material, dimensions.",
+            "Show the dog at rest, not posing.",
+            "Sign emails with the founder's first name."
+          ],
+          "donts": [
+            "No 'fur baby' or 'pet parent' language.",
+            "No neon, no novelty.",
+            "No 'Insta-worthy' marketing.",
+            "No anthropomorphic copy."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "A small catalog",
+            "description": "Forty items, refreshed once a year. We add slowly. Each product earns its place by use."
+          },
+          {
+            "name": "Object craft",
+            "description": "Every product is described by its weight, material, and finish. Beds are heavy. Bowls are ceramic. Leashes are leather or rope. No plastic in the catalog."
+          },
+          {
+            "name": "Photographed at home",
+            "description": "Product photography happens in real rooms with real dogs. The dog is at rest. The room is lived in."
+          }
+        ],
+        "logoDirection": "A wordmark — Heath & Hound set in a quiet modern serif with a long ampersand. A small line drawing of a dog at rest sits above the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Moor",
+            "hex": "#7C7155",
+            "meaning": "Primary — a slightly mossy taupe.",
+            "usage": "Wordmark, accents."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Hound",
+            "hex": "#3D2A1F",
+            "meaning": "Type — a warm dark brown.",
+            "usage": "Body, headings."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet modern serif for the wordmark and product names.",
+          "secondary": "A neutral grotesque for body and specifications.",
+          "rationale": "The serif sets the editorial tone. The grotesque keeps the catalog plain."
         }
       }
     ],
@@ -65,7 +176,13 @@
         "targetAudience": {
           "primary": "Wealthy. Often country-house owners. Has had dogs for decades, often the same breed. Pays for leather that improves with age. Expects the collar to outlast at least one dog."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Warm"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage",
+          "Warm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the client by surname",
@@ -80,10 +197,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the firm's hallmark, stamped into the leather of every collar and lead, embossed on the printed catalog, and used as the wax seal of every paper letter.",
         "colorPalette": [
-          {"name": "Saddle Brown", "hex": "#5A3E20", "meaning": "Aged leather, the workshop bench.", "usage": "Primary brand color, leather products, signage"},
-          {"name": "Cream Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper, the catalog pages.", "usage": "Stationery, paper, packaging"},
-          {"name": "Heritage Brass", "hex": "#A38454", "meaning": "Aged metal. The collar hardware.", "usage": "Foil, hardware on products, hallmark"},
-          {"name": "Field Green", "hex": "#3A4032", "meaning": "Country land. Anchor.", "usage": "Secondary surfaces, body type"}
+          {
+            "name": "Saddle Brown",
+            "hex": "#5A3E20",
+            "meaning": "Aged leather, the workshop bench.",
+            "usage": "Primary brand color, leather products, signage"
+          },
+          {
+            "name": "Cream Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper, the catalog pages.",
+            "usage": "Stationery, paper, packaging"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The collar hardware.",
+            "usage": "Foil, hardware on products, hallmark"
+          },
+          {
+            "name": "Field Green",
+            "hex": "#3A4032",
+            "meaning": "Country land. Anchor.",
+            "usage": "Secondary surfaces, body type"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,7 +228,10 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No mass distribution. No celebrity dog endorsements. No flash sales. No app. No styling collaborations."}
+          {
+            "title": "What it doesn't do",
+            "body": "No mass distribution. No celebrity dog endorsements. No flash sales. No app. No styling collaborations."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -104,6 +244,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "pet-care-luxury-2",
+        "brandName": "The Pemberley Pet Co.",
+        "tagline": "Bespoke supplies for considered households.",
+        "brandNameRationale": "Pemberley is the estate name from Jane Austen's Pride and Prejudice — instantly readable as English heritage, considered, slightly aspirational, but with a literary register rather than a luxury-fashion one. The Pet Co. suffix sits the brand inside the household-goods tradition (the Heal & Son, John Lewis category). Reads as warm, well-made, and slightly Old World.",
+        "story": "The Pemberley Pet Co. is a bespoke pet supplies maker producing leather collars, woven beds, ceramic bowls, and tailored coats. Each item is made to measurement and customer specification. Orders take six to ten weeks. The atelier has been in continuous operation since 1968.",
+        "industrySummary": "Premium pet supplies have grown into a recognized category but remain dominated by brand-led DTC rather than craft-led ateliers. There is a quieter market for the bespoke pet supplies maker — leather goods, woven textiles, ceramic, tailored coats, all made to order.",
+        "competitorLandscape": "Mungo & Maud (mungoandmaud.com) holds the closest peer slot in premium considered pet. Pet Industry Mauler (petindustrymauler.com) plays in the bespoke leather space. Found My Animal (foundmyanimal.com) sits in the craft-modern middle. We belong with Mungo & Maud, with a deeper bespoke tradition.",
+        "positioningStatement": "The Pemberley Pet Co. is a bespoke pet supplies atelier producing leather, woven, ceramic, and tailored goods to customer measurement.",
+        "positioningRationale": "We do not stock. Every order is made to customer specification. The atelier has a small permanent workshop staff who have been with the company across decades.",
+        "targetAudience": {
+          "primary": "Households that keep dogs across decades and commission considered goods for the home and the animal.",
+          "behaviors": [
+            "Commission furniture and homewares.",
+            "Care about leather grade and saddlery technique.",
+            "Hold pieces across multiple dogs.",
+            "Visit the atelier when in town."
+          ],
+          "motivations": [
+            "Want supplies made by hand, to measurement.",
+            "Want a maker who knows the customer's household.",
+            "Want goods that outlast the dog."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customers by surname.",
+            "Sign correspondence by hand.",
+            "Reference the workshop staff by name.",
+            "Send printed annual order updates to customers."
+          ],
+          "donts": [
+            "No social-media presence.",
+            "No promotional pricing.",
+            "No 'collection' marketing.",
+            "No mass-produced inventory."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Bespoke only",
+            "description": "Every order is made to customer specification — measurements taken, materials selected, lead time confirmed. No stock items."
+          },
+          {
+            "name": "The atelier",
+            "description": "A small permanent workshop of leatherworkers, weavers, and tailors. The same staff have been at the atelier across many years."
+          },
+          {
+            "name": "Multi-generational orders",
+            "description": "We keep customer records across decades. Many of our customers' second and third dogs have been outfitted by the same atelier."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Pemberley Pet Co. set in a classical book serif, with a small ink-drawn crest depicting a sleeping dog. The crest appears blind-embossed on packaging.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "All correspondence and packaging."
+          },
+          {
+            "name": "Walnut",
+            "hex": "#3D2A1C",
+            "meaning": "Primary type.",
+            "usage": "Body, headings, the wordmark."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Crest, signature details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and correspondence.",
+          "secondary": "An engraver's italic for measurements and order numbers.",
+          "rationale": "Letterpress register. Order confirmations are printed and posted."
         }
       }
     ],
@@ -118,7 +343,12 @@
         "targetAudience": {
           "primary": "Pet owners who don't want a relationship with the brand. They want the food, the leash, the litter, the bowl. They want it to work."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the product, the ingredients, the price",
@@ -133,9 +363,24 @@
         },
         "logoDirection": "A wordmark only. FED in a single weight grotesk, wide kerned, all caps, three letters with generous space. No icon. The packaging, the website, and the receipt all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, packaging, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,7 +388,10 @@
           "rationale": "One face. The package label, the website, and the receipt all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No mascot. No subscription gimmicks. No flavored bundles. No newsletter. No social media presence beyond a single archive page."}
+          {
+            "title": "Not this",
+            "body": "No mascot. No subscription gimmicks. No flavored bundles. No newsletter. No social media presence beyond a single archive page."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -155,6 +403,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "pet-care-minimal-2",
+        "brandName": "Burr",
+        "tagline": "Plain supplies for plain dogs.",
+        "brandNameRationale": "Burr is a single uncommon real word — a rough or prickly seed-case, a rough edge on metal, the sound a dog makes between a growl and a purr. As a brand name it is short, slightly archaic, and entirely uncommercial. Stands in the lineage of one-word evocative brand names (Fi, Spot, Tend) without being literal.",
+        "manifesto": "Pet brands tend to over-design. Patterns, characters, color stories, mascot lines. We made Burr because the actual best object for the dog is plain, heavy, and the right shape. The catalog is small. The packaging is paper. The wordmark is one word. Nothing extra.",
+        "industrySummary": "Modern pet supply has converged on bright color, character-led product naming, and Instagram-led photography. There is real space for a brand that strips the surface to the object itself.",
+        "competitorLandscape": "Wild One (wildone.com) is the cleanest modern peer. Maxbone (maxbone.com) plays in the colorful peer position. Found My Animal (foundmyanimal.com) sits in the considered-craft middle. We sit further out — fewer products, less color, no character.",
+        "positioningStatement": "Burr is a one-word pet supply brand selling a small catalog of plain, well-made objects.",
+        "positioningRationale": "We strip the catalog and the packaging. Each product is named by what it is — collar, leash, bowl, bed. Each ships in paper.",
+        "targetAudience": {
+          "primary": "Dog owners who care about object quality and prefer minimal aesthetics.",
+          "behaviors": [
+            "Buy fewer, better objects.",
+            "Re-buy what works.",
+            "Skip novelty and pattern.",
+            "Want packaging that does not embarrass them."
+          ],
+          "motivations": [
+            "Want plain supplies.",
+            "Want a brand without a mascot.",
+            "Want a small catalog they can know completely."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name products by what they are.",
+            "Show one photograph per product, on a neutral ground.",
+            "Skip character-led marketing.",
+            "Sign emails with the brand name only."
+          ],
+          "donts": [
+            "No mascot.",
+            "No character names for products.",
+            "No pattern.",
+            "No 'fur baby' language."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Plain naming",
+            "description": "Products are named for what they are — Collar, Leash, Bowl, Bed. Sizes are S, M, L. Colors are stone, ink, oat."
+          },
+          {
+            "name": "Paper packaging",
+            "description": "Every product ships in unprinted paper with a single tag. The tag carries the product name and care instructions."
+          },
+          {
+            "name": "Twelve items",
+            "description": "The catalog runs to twelve items. We add slowly and rarely."
+          }
+        ],
+        "logoDirection": "Burr set in a neutral grotesque, all lowercase, at small scale on the paper tag, the website header, and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Stone",
+            "hex": "#B8B5AE",
+            "meaning": "Primary — the warm grey of weathered stone.",
+            "usage": "Packaging, products."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface, one weight. The brand is the discipline."
         }
       }
     ],
@@ -175,7 +507,13 @@
             "Reporting that satisfies investor and regulator scrutiny"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the operating model",
@@ -189,16 +527,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Operations at scale", "description": "Veterinary or retail operations delivered consistently across multiple locations."},
-          {"name": "Modern technology stack", "description": "Practice management, point of sale, scheduling, and reporting integrated under one platform."},
-          {"name": "Reporting that satisfies the board", "description": "Operational metrics, clinical outcomes, and financial performance reported to investor-grade standards."}
+          {
+            "name": "Operations at scale",
+            "description": "Veterinary or retail operations delivered consistently across multiple locations."
+          },
+          {
+            "name": "Modern technology stack",
+            "description": "Practice management, point of sale, scheduling, and reporting integrated under one platform."
+          },
+          {
+            "name": "Reporting that satisfies the board",
+            "description": "Operational metrics, clinical outcomes, and financial performance reported to investor-grade standards."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single anchor silhouette reduced to two crossing strokes. Reads cleanly on uniforms, vans, signage, and procurement decks.",
         "colorPalette": [
-          {"name": "Trust Navy", "hex": "#0F2238", "meaning": "Trust, steadiness, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean, unfussy.", "usage": "Backgrounds, paper"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Care Teal", "hex": "#2A8B82", "meaning": "Health accent.", "usage": "Charts, status, certifications"}
+          {
+            "name": "Trust Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, steadiness, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean, unfussy.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Care Teal",
+            "hex": "#2A8B82",
+            "meaning": "Health accent.",
+            "usage": "Charts, status, certifications"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and product UI",
@@ -206,7 +573,10 @@
           "rationale": "Inter scales clean across digital. The serif handles formal quarterly business reviews and clinical reports."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C consumer pet brand. No retail clinics under our name. No celebrity pet partnerships. The firm sells through enterprise operating contracts, not consumer Instagram."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C consumer pet brand. No retail clinics under our name. No celebrity pet partnerships. The firm sells through enterprise operating contracts, not consumer Instagram."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -219,6 +589,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "pet-care-corporate-2",
+        "brandName": "Foundry Pet Holdings",
+        "tagline": "Multi-brand pet supplies and food operator, regional scale.",
+        "brandNameRationale": "Foundry is a real word for a workshop or factory where materials are cast — it signals manufacturing seriousness without being literal about pet supplies. Pet Holdings is the operating-company suffix that signals multi-brand portfolio operation. The pair reads as a serious mid-market holding entity, not a consumer-facing brand.",
+        "manifesto": "Foundry Pet Holdings owns and operates a portfolio of pet supply and pet food brands. Each brand retains its identity and category focus; we operate the shared manufacturing, distribution, and back-office infrastructure. The buyer is a brand founder considering sale, a retail buyer seeking a single-vendor solution, or an investor holding pet-category assets.",
+        "industrySummary": "The pet category has consolidated into a small number of large holding companies (Mars Petcare, Spectrum Brands, Central Garden & Pet). The opening underneath is for a regional multi-brand operator with manufacturing depth and procurement-grade reliability for big-box and specialty retailers.",
+        "competitorLandscape": "Central Garden & Pet (central.com) is the multi-brand reference. Spectrum Brands (spectrumbrands.com) holds the consumer-conglomerate peer. Petmate (petmate.com) plays in the multi-brand middle. We sit in the regional mid-tier multi-brand operator category.",
+        "positioningStatement": "Foundry Pet Holdings is a regional multi-brand operator in pet supplies and pet food, with shared manufacturing, distribution, and retail relationships.",
+        "positioningRationale": "We compete on manufacturing capacity, distribution depth, and the operational reliability big-box and specialty retailers require — across multiple brands that retain their voice.",
+        "targetAudience": {
+          "primary": "Brand founders considering sale, retail buyers at big-box and specialty chains, and institutional investors holding pet-category assets.",
+          "behaviors": [
+            "Review brand unit economics and retail velocity.",
+            "Negotiate multi-year retail supply agreements.",
+            "Care about manufacturing cost, packaging compliance, and lead time.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Want an operator with shared manufacturing.",
+            "Want to keep brand identity post-acquisition.",
+            "Want a single-vendor multi-brand supply relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with manufacturing capacity, retail footprint, and brand mix.",
+            "Speak the language of retail buyers and CFOs.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Foundry tagging."
+          ],
+          "donts": [
+            "No consumer marketing in the holding-company voice.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and operate four to eight pet supply and pet food brands across the category. Each retains its identity."
+          },
+          {
+            "name": "Shared manufacturing",
+            "description": "Owned manufacturing capacity across multiple facilities. Brands share manufacturing, packaging, and logistics under a single operations team."
+          },
+          {
+            "name": "Retail-ready",
+            "description": "Single-vendor supply arrangements with big-box and specialty retailers across the portfolio. Compliance, packaging, and EDI handled in-house."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Foundry set in a traditional book serif, with 'Pet Holdings' beneath in tracked small caps. Used in contracts, retailer documentation, and the corporate office.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and trade letters.",
+          "secondary": "A clean enterprise grotesque for reports and operational tables.",
+          "rationale": "Tabular and disciplined. Numbers louder than adjectives."
         }
       }
     ],
@@ -234,7 +689,13 @@
         "targetAudience": {
           "primary": "25 to 50. Owns one or two pets. Has been woken up by them. Tells stories about them. Buys the brand because the marketing made them laugh."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Playful",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about pet ownership",
@@ -249,11 +710,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the O of NOSE stylized as a small filled circle, like a dog's nose. Standalone nose-circle icon for stickers, social profiles, and the back of every package.",
         "colorPalette": [
-          {"name": "Nose Black", "hex": "#0F0F11", "meaning": "Wet dog's nose. Direct.", "usage": "Wordmark, body type, dark surfaces"},
-          {"name": "Tongue Pink", "hex": "#FF5C8A", "meaning": "Hot, warm, the dog's tongue at the window.", "usage": "Accent, social, swag"},
-          {"name": "Coat Cream", "hex": "#F4EFE2", "meaning": "Warm background, the dog's fur in winter sun.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Treat Brown", "hex": "#8B5A2A", "meaning": "The good treat color.", "usage": "Secondary surfaces, accents"},
-          {"name": "Sun Yellow", "hex": "#FFD23F", "meaning": "Highlight.", "usage": "Highlights, social hero, swag"}
+          {
+            "name": "Nose Black",
+            "hex": "#0F0F11",
+            "meaning": "Wet dog's nose. Direct.",
+            "usage": "Wordmark, body type, dark surfaces"
+          },
+          {
+            "name": "Tongue Pink",
+            "hex": "#FF5C8A",
+            "meaning": "Hot, warm, the dog's tongue at the window.",
+            "usage": "Accent, social, swag"
+          },
+          {
+            "name": "Coat Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background, the dog's fur in winter sun.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Treat Brown",
+            "hex": "#8B5A2A",
+            "meaning": "The good treat color.",
+            "usage": "Secondary surfaces, accents"
+          },
+          {
+            "name": "Sun Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Highlight.",
+            "usage": "Highlights, social hero, swag"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,8 +747,14 @@
           "rationale": "Migra has warmth and character. Neue Montreal handles the practical bits. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a wellness brand. Not a Pinterest brand. Not afraid of hair. Not too cool to share customer photos at 6 a.m."},
-          {"title": "Where it lives", "body": "Products that survive the dog. Real customer photos in every campaign. A weekly newsletter that's mostly funny pet stories. Stickers in every order. A merch line for the owner that says WET NOSE on the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not a wellness brand. Not a Pinterest brand. Not afraid of hair. Not too cool to share customer photos at 6 a.m."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Products that survive the dog. Real customer photos in every campaign. A weekly newsletter that's mostly funny pet stories. Stickers in every order. A merch line for the owner that says WET NOSE on the back."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -276,7 +768,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "pet-care-creative-2",
+        "brandName": "Mossy Paw Pet Co.",
+        "tagline": "Pet goods with a sense of weather.",
+        "brandNameRationale": "Mossy and Paw are real common words but the pairing is unusual and slightly literary — mossy carries a damp-woods, slow-time register, paw is the animal. Together they suggest a brand with a clear point of view about pets and the outdoors. The Pet Co. suffix grounds the name in the household-goods tradition. Borrows from the natural-creative naming school (Wild One, Found My Animal) without imitating.",
+        "manifesto": "Most pet brands market either utility (the food, the harness, the collar) or cuteness (the bows, the costumes, the soft toys). We started Mossy Paw because the best things about a dog or cat are the small unbranded ones — the muddy paws on the kitchen floor after a walk, the cat sleeping on the radiator, the dog smelling slightly of woodsmoke when the season turns. The brand is a small catalog of objects that fit that life.",
+        "industrySummary": "Creative pet brands have grown on the soft-cute axis (BarkBox, Wild One). There is real space for a creative pet brand on the slightly literary, slow-and-outdoors axis — woods, mud, woodsmoke, weather.",
+        "competitorLandscape": "Wild One (wildone.com) plays in the modern-creative slot. Found My Animal (foundmyanimal.com) holds the considered-craft middle. Maxbone (maxbone.com) sits in the bright-color peer position. Filson For Dogs (filson.com) is the heritage-outdoor reference. We sit alongside Found My Animal with a slightly woodsier register.",
+        "positioningStatement": "Mossy Paw Pet Co. is a creative pet supply brand for dogs and cats whose households include weather, walks, and slow mornings.",
+        "positioningRationale": "The brand competes on tone. The catalog, photography, and voice all hold a single mood — slow, slightly damp, slightly woods.",
+        "targetAudience": {
+          "primary": "Pet owners 28–50 who walk their dogs in weather and let their cats outside.",
+          "behaviors": [
+            "Walk in all weather.",
+            "Care about waxed cotton, leather, wool.",
+            "Read the back tag for materials.",
+            "Photograph their pets in fields and gardens, not in studios."
+          ],
+          "motivations": [
+            "Want pet goods that fit a slower life.",
+            "Want materials that age well in weather.",
+            "Want a brand with a clear mood."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Warm",
+          "Considered",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph pets outdoors, in weather.",
+            "Write product copy that names the weather it fits.",
+            "Use plant and weather words.",
+            "Sign emails by the founder's first name."
+          ],
+          "donts": [
+            "No bright neon.",
+            "No mascot.",
+            "No 'fur baby' or 'pet parent' language.",
+            "No 'limited drop' theater."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Built for weather",
+            "description": "Waxed cotton, oiled leather, wool. Products are described by the weather they fit, not by the season they launch."
+          },
+          {
+            "name": "Slow catalog",
+            "description": "We add three to five products a season. The catalog grows slowly, like a garden."
+          },
+          {
+            "name": "Photographed in the field",
+            "description": "Product photography happens outside, in weather, with real animals. The studio is the field."
+          }
+        ],
+        "logoDirection": "A wordmark — Mossy Paw Pet Co. set in a quiet display serif with a small woodcut of a paw print on damp ground. The mark feels printed on a field guide.",
+        "colorPalette": [
+          {
+            "name": "Moss",
+            "hex": "#3D5C3D",
+            "meaning": "Primary — a damp woods green.",
+            "usage": "Wordmark, signage, packaging."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Mud",
+            "hex": "#5C3F2A",
+            "meaning": "Secondary — a wet-soil brown.",
+            "usage": "Body type, tag prints."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and product names.",
+          "secondary": "A neutral grotesque for body and specifications.",
+          "rationale": "The serif sets the literary tone. The grotesque keeps the catalog readable."
+        }
       }
     ]
   }
