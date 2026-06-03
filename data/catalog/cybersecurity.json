@@ -3,9 +3,9 @@
   "briefs": {
     "Modern": [
       {
-        "brandName": "OPEN PORT",
-        "tagline": "Closed, by us.",
-        "brandNameRationale": "Two words. Open Port is the technical term for the most common vulnerability in any network. The brand sits on the technical reality the customer already lives with. Modern, immediately legible to the audience, and slightly ironic: we are the company that closes them.",
+        "brandName": "Threadline Security",
+        "tagline": "A modern security firm.",
+        "brandNameRationale": "Threadline is the analyst's term for the path of an attack across a system — compound trade word, deeply specific. Security is the plain category suffix. Stands in the lineage of modern security firm naming (Crowdstrike, Sentinel One spirit).",
         "industrySummary": "Modern cybersecurity has split into two camps: the giant legacy vendors (Symantec, McAfee) and the modern product-led players (Wiz, SentinelOne, Snyk). The customer is a CISO or security engineer who already evaluates five vendors a quarter and wants the sixth to be the one that actually works.",
         "competitorLandscape": "Wiz (wiz.io) holds the modern cloud-security peer position. SentinelOne (sentinelone.com) sits in the endpoint tier. Snyk (snyk.io) does the developer-led security middle. CrowdStrike (crowdstrike.com) is the institutional peer. We sit closest to Wiz in posture.",
         "positioningStatement": "Cloud security that ships findings developers will actually fix.",
@@ -31,7 +31,7 @@
             "Photograph glowing figures in hoodies"
           ]
         },
-        "logoDirection": "A wordmark only. OPEN PORT in a tight modern grotesk, all caps, two words on one line. A small geometric mark, two opposing brackets suggesting a port closing, used as the favicon and on the security dashboard.",
+        "logoDirection": "A wordmark only. Threadline Security in a tight modern grotesk, all caps, two words on one line. A small geometric mark, two opposing brackets suggesting a port closing, used as the favicon and on the security dashboard.",
         "colorPalette": [
           {
             "name": "Editor Black",
@@ -76,7 +76,7 @@
           "Precise — accuracy is the brand.",
           "Confident — we stand behind the work, not the marketing."
         ],
-        "scope": "OPEN PORT delivers by:\n• Show the finding and the fix side by side\n• Lead with what the product ships\n• Speak to the security engineer who'd use the tool"
+        "scope": "Threadline Security delivers by:\n• Show the finding and the fix side by side\n• Lead with what the product ships\n• Speak to the security engineer who'd use the tool"
       }
     ],
     "Luxury": [
@@ -337,9 +337,9 @@
     ],
     "Creative": [
       {
-        "brandName": "PATCH NOTES",
-        "tagline": "What we fixed this week.",
-        "brandNameRationale": "Two words. Patch Notes is the software-industry term for the changelog of fixes shipped in a release. The brand puts the fix in the brand position, not the threat. Loud, slightly cheeky, and immediately legible to the developer-and-security audience.",
+        "brandName": "The Changelog Co",
+        "tagline": "A security firm that publishes everything.",
+        "brandNameRationale": "Changelog is the published list of changes in software — a real engineering and operations trade word. The definite article + Co suffix follows the considered-creative trade-name school.",
         "manifesto": "Most cybersecurity brands sell fear. The breach, the threat, the nation-state actor. We made Patch Notes because the actual work of security is mostly fixing things, one at a time, in a long quiet list. We sell the fix. We sell the changelog. We are not a fear brand. We are a maintenance brand.",
         "industrySummary": "Cybersecurity branding has been polished, fear-based, and slightly cold. There's room for a brand that's warm, character-driven, sticker-friendly, and serious about the actual maintenance work that keeps systems secure.",
         "competitorLandscape": "Tailscale (tailscale.com) does warm-technical security well. 1Password (1password.com) holds the design-led consumer position. Cloudflare (cloudflare.com) does the infrastructure peer. We sit warmer and more honest about the work than any of them.",
@@ -411,7 +411,7 @@
           },
           {
             "title": "Where it lives",
-            "body": "A weekly newsletter that's actually patch notes from the team. Stickers in every welcome envelope. A merch line of two tees that say PATCH NOTES across the back. A small in-person meetup for security engineers every quarter."
+            "body": "A weekly newsletter that's actually patch notes from the team. Stickers in every welcome envelope. A merch line of two tees that say The Changelog Co across the back. A small in-person meetup for security engineers every quarter."
           }
         ],
         "brandDescription": "A security brand for the people doing the maintenance.",
@@ -424,7 +424,7 @@
           "Direct — we say what we mean without softening it.",
           "Friendly — a core principle the brand operates by."
         ],
-        "scope": "PATCH NOTES delivers by:\n• Show the patch and what it fixed\n• Make jokes about the security industry\n• Talk like the engineer who'd be implementing the fix"
+        "scope": "The Changelog Co delivers by:\n• Show the patch and what it fixed\n• Make jokes about the security industry\n• Talk like the engineer who'd be implementing the fix"
       }
     ]
   }
