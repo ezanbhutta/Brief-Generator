@@ -12,7 +12,12 @@
         "targetAudience": {
           "primary": "25 to 45. Drinks craft beer two or three times a week. Already follows three local breweries. Will walk past four others to drink ours."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Confident"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Confident"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the list and the prices clearly",
@@ -27,9 +32,24 @@
         },
         "logoDirection": "A wordmark only. DRAFT LIST in a tight modern grotesk, all caps, two words on one line. A small geometric mark, a single thin underline, used as the favicon and on every can lid.",
         "colorPalette": [
-          {"name": "Tap Black", "hex": "#101012", "meaning": "Polished tap handle.", "usage": "Wordmark, body type, primary surface"},
-          {"name": "Bone", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, paper, packaging body"},
-          {"name": "Hop Green", "hex": "#3E8E5A", "meaning": "Fresh hops. The single accent.", "usage": "Tap list highlights, sale signage"}
+          {
+            "name": "Tap Black",
+            "hex": "#101012",
+            "meaning": "Polished tap handle.",
+            "usage": "Wordmark, body type, primary surface"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, packaging body"
+          },
+          {
+            "name": "Hop Green",
+            "hex": "#3E8E5A",
+            "meaning": "Fresh hops. The single accent.",
+            "usage": "Tap list highlights, sale signage"
+          }
         ],
         "typography": {
           "primary": "GT America for the wordmark and headlines",
@@ -37,8 +57,14 @@
           "rationale": "One family. The mono carries the data: ABV, IBU, price. The regular carries the brand."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No 'crafted with passion' copy. No founder origin story on the can. No medals printed on the label. No 'limited drop' weekly hype."},
-          {"title": "Where it lives", "body": "A taproom with a printed list rewritten daily. Cans with the wordmark and the beer name only. The beer name and the ABV. Nothing on the back."}
+          {
+            "title": "What it doesn't do",
+            "body": "No 'crafted with passion' copy. No founder origin story on the can. No medals printed on the label. No 'limited drop' weekly hype."
+          },
+          {
+            "title": "Where it lives",
+            "body": "A taproom with a printed list rewritten daily. Cans with the wordmark and the beer name only. The beer name and the ABV. Nothing on the back."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -50,6 +76,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "brewery-modern-2",
+        "brandName": "Almanac Brewing",
+        "tagline": "Beer brewed against the calendar.",
+        "brandNameRationale": "Almanac is a real word for a yearly farmer's reference book — listing crops, weather, festivals, planting dates. The name signals seasonal brewing without being literal about it, and places the brand in the lineage of modern craft breweries with editorial naming (Allagash, Trillium, Modern Times, Hill Farmstead) without copying any of them.",
+        "manifesto": "Most craft breweries release a flagship and then a hundred 'limited' variants of it. We made Almanac because the actual interesting beer year is short and seasonal — six releases that match the calendar, brewed at the right time, sold while they are fresh. No flagship. No year-round IPA. The almanac is the menu.",
+        "industrySummary": "Craft beer has matured into two camps: the year-round-flagship breweries (Sierra Nevada, Lagunitas) and the hype-release breweries (Trillium, Other Half, Tree House). There is a quieter opening in between for a seasonal-only brewery — six releases a year, brewed for the season, available until they sell.",
+        "competitorLandscape": "Hill Farmstead (hillfarmstead.com) holds the small-batch farmhouse slot. Allagash (allagash.com) sits in the Belgian-modern peer. Modern Times (moderntimesbeer.com) is the editorial-modern reference. We sit alongside Hill Farmstead and Allagash, with the calendar as the menu.",
+        "positioningStatement": "Almanac Brewing releases six beers a year, brewed against the seasons, sold while fresh.",
+        "positioningRationale": "We strip the menu to six releases — one every two months. Each beer is brewed at the right time of year and ships until the cellar empties. No flagship, no year-round availability.",
+        "targetAudience": {
+          "primary": "Craft beer drinkers 28–50 who track release calendars and care about freshness.",
+          "behaviors": [
+            "Subscribe to brewery release alerts.",
+            "Drink beer by season — saisons in spring, stouts in winter.",
+            "Visit the taproom when releases drop.",
+            "Trade specific bottles."
+          ],
+          "motivations": [
+            "Want a brewery with a clear calendar.",
+            "Want fresh beer, not warehouse stock.",
+            "Want a small menu they can know completely."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the annual release calendar at the start of the year.",
+            "Write release notes like a farmer's almanac entry.",
+            "Reference the season, the weather, the ingredient.",
+            "Photograph the brewery floor, not the can."
+          ],
+          "donts": [
+            "No 'flagship' designations.",
+            "No year-round availability claims.",
+            "No score-led marketing.",
+            "No can-art trend chasing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Six releases a year",
+            "description": "Six beers, one every two months. The annual calendar is published each January and held."
+          },
+          {
+            "name": "Brewed to the season",
+            "description": "Each release is matched to the season — a saison for late spring, a märzen for early fall, a stout for January. The beer fits the weather."
+          },
+          {
+            "name": "Fresh or empty",
+            "description": "Each release ships from the cellar until it sells. We do not refill the warehouse. When it is gone, the next one is two months away."
+          }
+        ],
+        "logoDirection": "A wordmark — Almanac Brewing set in a calm modern serif with a small woodcut-style sun mark beside it. The mark feels printed, not designed.",
+        "colorPalette": [
+          {
+            "name": "Wheat",
+            "hex": "#D8C68E",
+            "meaning": "Primary — the color of an open field.",
+            "usage": "Wordmark, label background."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body, labels, signage."
+          },
+          {
+            "name": "Field",
+            "hex": "#3D5C3D",
+            "meaning": "Accent — a deep field green.",
+            "usage": "Section marks, label borders."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and release names.",
+          "secondary": "A neutral grotesque for body and field data.",
+          "rationale": "The serif sets the editorial tone. The grotesque keeps the cans legible."
         }
       }
     ],
@@ -65,7 +176,13 @@
         "targetAudience": {
           "primary": "Wealthy, often beer-collecting. Has cellared bottles for years. Pays for the craft and the patience. Values the brewer's eye over the marketing."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Discreet", "Heritage", "Considered"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the customer by surname in writing",
@@ -80,10 +197,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small hand-drawn ampersand becomes the brewery's hallmark, used on bottle labels, the cellar book, and the brass plaque outside the brewery gate.",
         "colorPalette": [
-          {"name": "Cellar Brown", "hex": "#5A3E20", "meaning": "Oak barrel, the cellar floor.", "usage": "Primary brand color, bottle labels, signage"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Aged metal, the bottle cap.", "usage": "Foil, hallmark, accents"},
-          {"name": "Linen", "hex": "#EFE9DB", "meaning": "Hand-laid paper.", "usage": "Stationery, packaging, paper"},
-          {"name": "Slate", "hex": "#2A2D2E", "meaning": "Anchored, serious type.", "usage": "Body, dividers"}
+          {
+            "name": "Cellar Brown",
+            "hex": "#5A3E20",
+            "meaning": "Oak barrel, the cellar floor.",
+            "usage": "Primary brand color, bottle labels, signage"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal, the bottle cap.",
+            "usage": "Foil, hallmark, accents"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, packaging, paper"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Anchored, serious type.",
+            "usage": "Body, dividers"
+          }
         ],
         "typography": {
           "primary": "Canela for the wordmark and printed material",
@@ -91,7 +228,10 @@
           "rationale": "A high contrast classical serif sets the heritage tone. A modern grotesk handles the few digital surfaces."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No retail distribution. No flash sales. No celebrity brewers. No social media presence. No content marketing."}
+          {
+            "title": "What it doesn't do",
+            "body": "No retail distribution. No flash sales. No celebrity brewers. No social media presence. No content marketing."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -104,6 +244,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "brewery-luxury-2",
+        "brandName": "Abbaye Saint-Cyran",
+        "tagline": "A small brewery in the Trappist tradition.",
+        "brandNameRationale": "A plausible Belgian abbey-style brewery name in the Trappist tradition (Westvleteren, Chimay, Rochefort). Saint-Cyran was a 17th-century French theologian — a real but obscure reference that reads as authentically monastic without imitating an existing abbey. The 'Abbaye' format places the brand firmly in the Belgian heritage-beer convention.",
+        "story": "Abbaye Saint-Cyran is a small brewery operating from a working monastery in continuous use since 1631. The brewery produces three beers — a single, a dubbel, and a tripel. Output is limited to what the abbey can produce by hand. The beers are sold in the abbey shop and to a small list of restaurants and bottle shops.",
+        "industrySummary": "Belgian abbey and Trappist beer remains one of the few categories where heritage and small-batch production are not in conflict. There is room for a small, faithful new entrant in the tradition — three beers, limited output, monastic register.",
+        "competitorLandscape": "Westvleteren (sintsixtus.be) is the unreachable reference. Chimay (chimay.com) and Rochefort (trappistes-rochefort.com) are the Trappist peers. Affligem (affligembeer.com) is the licensed abbey-brand reference. We belong with the small Trappist and abbey producers — narrower in catalog, faithful in register.",
+        "positioningStatement": "Abbaye Saint-Cyran is a small abbey brewery producing three Belgian beers in the Trappist tradition, by hand, in limited quantities.",
+        "positioningRationale": "We do not scale. The abbey is the limit. The three beers have remained the same since the brewery's reopening, brewed by the same monastic community.",
+        "targetAudience": {
+          "primary": "Beer collectors and ecclesiastical-tradition followers who keep cellars and travel to the brewery.",
+          "behaviors": [
+            "Travel to abbeys to buy beer at the source.",
+            "Hold mixed cases of Belgian beers across vintages.",
+            "Read about brewing tradition.",
+            "Pair beers with food slowly."
+          ],
+          "motivations": [
+            "Want beer made in the tradition.",
+            "Want a brewery with continuity of community and recipe.",
+            "Want allocations they can plan a trip around."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign correspondence in the abbey's name.",
+            "Reference the brewing community by tradition, not by individual.",
+            "Use specific brewing dates and pilgrimage dates.",
+            "Print all communications."
+          ],
+          "donts": [
+            "No social-media presence.",
+            "No promotional pricing.",
+            "No seasonal or 'limited' releases.",
+            "No brand extensions or merchandise."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Three beers",
+            "description": "A single, a dubbel, a tripel. The recipes have not changed. We do not brew a quadrupel."
+          },
+          {
+            "name": "Made by the community",
+            "description": "Beer is brewed by the resident monastic community as part of the abbey's working life. The brewery is not a separate company."
+          },
+          {
+            "name": "Sold at the abbey",
+            "description": "Most production is sold at the abbey gate. A small allocation goes to a fixed list of restaurants and bottle shops, by long-standing arrangement."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Abbaye Saint-Cyran set in a classical book serif, with a small ecclesiastical crest depicting the abbey's stone arch. The crest appears blind-embossed on the label.",
+        "colorPalette": [
+          {
+            "name": "Stone",
+            "hex": "#7C6B57",
+            "meaning": "Primary — the warm tan of the abbey stone.",
+            "usage": "Wordmark, crest."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Label and page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Wax",
+            "hex": "#5C1F1F",
+            "meaning": "Single accent — the color of bottle wax.",
+            "usage": "Bottle caps, label seal."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, label, and letterhead.",
+          "secondary": "An engraver's italic for the abbey founding date.",
+          "rationale": "Letterpress register. Labels are printed using methods consistent with the abbey's tradition."
         }
       }
     ],
@@ -118,7 +343,12 @@
         "targetAudience": {
           "primary": "Adults who don't need a brand world to choose a beer. They want a good lager, a good IPA, and a good stout, plainly packaged, fairly priced."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Direct", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Show the beer, the price, the ABV",
@@ -133,9 +363,24 @@
         },
         "logoDirection": "A wordmark only. TAP in a single weight grotesk, wide kerned, all caps, three letters with generous space. No icon. The can, the menu, and the receipt all carry the wordmark and nothing else.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, packaging, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, packaging, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -143,7 +388,10 @@
           "rationale": "One face. The can, the menu, and the website all carry the same wordmark."
         },
         "customSections": [
-          {"title": "Not this", "body": "No limited editions. No collaborations. No barrel-aged variants. No mug club. No newsletter."}
+          {
+            "title": "Not this",
+            "body": "No limited editions. No collaborations. No barrel-aged variants. No mug club. No newsletter."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -155,6 +403,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "brewery-minimal-2",
+        "brandName": "Lot Seven Beerworks",
+        "tagline": "One lot. One batch.",
+        "brandNameRationale": "Lot Seven names a specific production lot — the seventh batch run on the brewing schedule. The name is borrowed from the grower-producer tradition in wine and from numbered-batch industrial naming. Beerworks is a quietly archaic suffix for a small commercial brewery, less marketed than 'Brewing Co.' Together the name signals batch, output, plain trade.",
+        "manifesto": "Most breweries name their beers like racehorses. We made Lot Seven because the beer is a batch — Lot 142, brewed on March 6, ready on April 10. The label is the lot number, the date, the style. The brewery is named after the unit of work.",
+        "industrySummary": "Minimal labeling is well-established in winemaking and is starting to appear in beer. There is real space for a brewery whose entire visual system is batch numbers, dates, and styles — no can art, no series names, no flagship.",
+        "competitorLandscape": "Trillium (trillium.com) holds the well-designed minimal slot. Other Half (otherhalfbrewing.com) plays the modern minimal-edge peer. Hill Farmstead (hillfarmstead.com) is the rural-minimal reference. We sit further out — no decorative art on the can, just the lot.",
+        "positioningStatement": "Lot Seven Beerworks releases batch-labeled beers identified by lot number, date, and style.",
+        "positioningRationale": "We strip the can to a number, a date, a style, and a volume. The brewery is named after the lot. Each release is identified the same way.",
+        "targetAudience": {
+          "primary": "Beer buyers who care about freshness and source over branding.",
+          "behaviors": [
+            "Read the canned-on date before buying.",
+            "Track batches across the year.",
+            "Buy four-packs of the same lot.",
+            "Visit the taproom to buy at source."
+          ],
+          "motivations": [
+            "Want labeling that tells the truth about freshness.",
+            "Want to know exactly when the beer was brewed.",
+            "Want a brewery that treats the can like a label, not a poster."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Specific",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the lot number and the canned-on date.",
+            "Write back labels as field data.",
+            "Skip beer-style adjectives.",
+            "Sign the back label by the brewer on the lot."
+          ],
+          "donts": [
+            "No can-art series.",
+            "No flagship designations.",
+            "No 'limited release' theater.",
+            "No mascot or character branding."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Lot, date, style",
+            "description": "Every can carries the lot number, the canned-on date, the style, and the volume. Nothing else on the front."
+          },
+          {
+            "name": "One batch at a time",
+            "description": "Each lot is one batch. When the lot sells, the next lot may be a different recipe at a different ABV. The brewery is the constant; the lot is the wine."
+          },
+          {
+            "name": "Field data on the back",
+            "description": "The back is rows: malt, hop, yeast, mash temperature, fermentation temperature, ABV, IBU. No prose."
+          }
+        ],
+        "logoDirection": "Lot Seven Beerworks set in a precise grotesque, all caps. On the can, the largest type is the lot number; the brewery name is at the rim, small. No mascot.",
+        "colorPalette": [
+          {
+            "name": "Concrete",
+            "hex": "#B8B5AE",
+            "meaning": "Primary — the color of a brewery floor.",
+            "usage": "Can, signage."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Lot",
+            "hex": "#3D5BFF",
+            "meaning": "Single accent — the lot number color.",
+            "usage": "The lot number only."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "A small mono for the back-label field data.",
+          "rationale": "Two faces. The brewery reads like a factory document."
         }
       }
     ],
@@ -175,7 +507,13 @@
             "Single distributor for multiple categories"
           ]
         },
-        "brandPersonalityTraits": ["Trustworthy", "Capable", "Direct", "Steady", "Professional"],
+        "brandPersonalityTraits": [
+          "Trustworthy",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the portfolio and delivery model",
@@ -189,16 +527,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Production at scale", "description": "Multiple brewing labels under one operating group, with consistent quality across runs."},
-          {"name": "Reliable distribution", "description": "On-time delivery, dedicated account management, and predictable pricing."},
-          {"name": "One partner across categories", "description": "Beer, hard seltzer, and adjacent beverages under one contract."}
+          {
+            "name": "Production at scale",
+            "description": "Multiple brewing labels under one operating group, with consistent quality across runs."
+          },
+          {
+            "name": "Reliable distribution",
+            "description": "On-time delivery, dedicated account management, and predictable pricing."
+          },
+          {
+            "name": "One partner across categories",
+            "description": "Beer, hard seltzer, and adjacent beverages under one contract."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single hop-cone silhouette reduced to two crossing strokes. Reads cleanly on a sourcing deck, name badge, and B2B trade show booth.",
         "colorPalette": [
-          {"name": "Director's Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean, structured.", "usage": "Backgrounds, dashboards"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body, dividers"},
-          {"name": "Hop Green", "hex": "#3E8E5A", "meaning": "Category accent.", "usage": "Highlights, charts, success states"}
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Hop Green",
+            "hex": "#3E8E5A",
+            "meaning": "Category accent.",
+            "usage": "Highlights, charts, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -206,7 +573,10 @@
           "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs and supply contracts."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C beer sales. No retail taprooms. No celebrity brewer partnerships. The firm sells through wholesale and on-premise distribution."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C beer sales. No retail taprooms. No celebrity brewer partnerships. The firm sells through wholesale and on-premise distribution."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -219,6 +589,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "brewery-corporate-2",
+        "brandName": "Caldwell Brewing Holdings",
+        "tagline": "Multi-brand brewing and distribution, regional scale.",
+        "brandNameRationale": "Caldwell is a surname with a Scottish origin and a hard, dependable register. Brewing Holdings signals the multi-brand operator structure with a holding-company suffix. The pair reads as a serious regional brewing operator with multiple brands under management — the kind of entity that owns three to seven breweries, a distribution network, and a hospitality arm.",
+        "manifesto": "Caldwell Brewing Holdings owns and operates a portfolio of regional brewing companies. Each brand retains its identity and brewmaster; we operate the shared distribution network, the back office, and the hospitality footprint. The buyer is a brewery founder considering sale, a hospitality group seeking distribution capacity, or an institutional investor holding brewing assets.",
+        "industrySummary": "Craft brewing has consolidated under a small number of multi-brand operators (Boston Beer, CANarchy, Tilray Beer). The opening is for a regional multi-brand operator with strong distribution, hospitality, and back-office infrastructure — at a different scale than the national platforms.",
+        "competitorLandscape": "Boston Beer Company (bostonbeer.com) is the multi-brand scale reference. CANarchy (canarchy.com) holds the multi-brand craft peer position. Tilray Beer (tilraybeer.com) is the international peer. We sit in the regional multi-brand operator category.",
+        "positioningStatement": "Caldwell Brewing Holdings is a regional multi-brand brewing operator running breweries, distribution, and hospitality under a shared back office.",
+        "positioningRationale": "We compete on shared distribution capacity, hospitality footprint, and operational depth — across multiple brewery brands that retain their voice.",
+        "targetAudience": {
+          "primary": "Brewery founders considering sale, hospitality groups, and institutional investors holding brewing assets.",
+          "behaviors": [
+            "Review brewery unit economics and distribution coverage.",
+            "Negotiate multi-year distribution contracts.",
+            "Care about packaging cost, depletion velocity, and tap accounts.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Want an operator with shared distribution.",
+            "Want to keep brand identity post-acquisition.",
+            "Want predictable monthly reporting."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with distribution footprint, brand count, and capacity.",
+            "Speak the language of brewery operators and CFOs.",
+            "Publish a quarterly operator letter.",
+            "Refer to breweries by name, not by Caldwell tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing in the holding voice.",
+            "No social-media presence at the parent level.",
+            "No brand consolidation announcements without prior owner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and operate four to seven regional brewery brands. Each retains its brewmaster, recipes, and brand identity."
+          },
+          {
+            "name": "Shared distribution",
+            "description": "A single regional distribution network across the portfolio. Tap accounts, retail buyers, and chain relationships are coordinated across brands."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brewery operators looking for distribution scale without losing the brand they built."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Caldwell set in a traditional book serif, with 'Brewing Holdings' beneath in tracked small caps. Used in contracts, owner letters, and on the corporate office. Not used on consumer-facing brewery brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and owner letters.",
+          "secondary": "A clean enterprise grotesque for reports and tables.",
+          "rationale": "Tabular and disciplined. Trade documents read as a long-standing operator's record."
         }
       }
     ],
@@ -234,7 +689,13 @@
         "targetAudience": {
           "primary": "25 to 45. Goes to the same pub two or three times a week. Buys the round. Tells friends about the brewery by tagging them in a photo at the bar."
         },
-        "brandPersonalityTraits": ["Warm", "Confident", "Playful", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Playful",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about beer snobbery",
@@ -249,11 +710,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the G of GLASS stylized as a small round pint silhouette. Standalone pint-G icon for stickers, coasters, and social profiles.",
         "colorPalette": [
-          {"name": "Pint Amber", "hex": "#C8A24A", "meaning": "The color of the beer in the glass.", "usage": "Primary brand color, can labels, signage"},
-          {"name": "Foam White", "hex": "#F4EFE2", "meaning": "The head.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Bar Black", "hex": "#181818", "meaning": "The bar top.", "usage": "Body type, structure"},
-          {"name": "Pub Red", "hex": "#A8313F", "meaning": "Pub leather, the booth.", "usage": "Accent, secondary surfaces"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Punchline accent.", "usage": "Highlights, social, swag"}
+          {
+            "name": "Pint Amber",
+            "hex": "#C8A24A",
+            "meaning": "The color of the beer in the glass.",
+            "usage": "Primary brand color, can labels, signage"
+          },
+          {
+            "name": "Foam White",
+            "hex": "#F4EFE2",
+            "meaning": "The head.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Bar Black",
+            "hex": "#181818",
+            "meaning": "The bar top.",
+            "usage": "Body type, structure"
+          },
+          {
+            "name": "Pub Red",
+            "hex": "#A8313F",
+            "meaning": "Pub leather, the booth.",
+            "usage": "Accent, secondary surfaces"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Punchline accent.",
+            "usage": "Highlights, social, swag"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -261,8 +747,14 @@
           "rationale": "Migra has warmth. Neue Montreal handles the practical bits. The pair feels designed and warm."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a hype brewery. Not a medal-collecting brewery. Not afraid of amber. Not too cool to put a joke on a coaster."},
-          {"title": "Where it lives", "body": "Coasters in every bar that pours us. Stickers in every six-pack. A monthly newsletter with the customer photos from the taproom. A merch line of two shirts that say PINT GLASS across the back."}
+          {
+            "title": "What it isn't",
+            "body": "Not a hype brewery. Not a medal-collecting brewery. Not afraid of amber. Not too cool to put a joke on a coaster."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Coasters in every bar that pours us. Stickers in every six-pack. A monthly newsletter with the customer photos from the taproom. A merch line of two shirts that say PINT GLASS across the back."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -276,7 +768,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "brewery-creative-2",
+        "brandName": "Stranger & Co Brewery",
+        "tagline": "Beer for people who aren't quite locals.",
+        "brandNameRationale": "Stranger is a real word — slightly literary, slightly Western, slightly cinematic. Paired with the working & Co suffix and Brewery, it reads as a small-town brewery with an outsider point of view. The name borrows from the bar-and-saloon naming tradition (The Drunken Devil, The Stranger's Rest) without imitating an existing brewery. Reads as warm and slightly mysterious.",
+        "manifesto": "Most local breweries position around the town. The local IPA, the local lager, the local taproom serving the local crowd. We started Stranger & Co because the actual fun in a small town is being the new place — the brewery that opened on the wrong side of the river, in a converted barn, where the music is unfamiliar and the regulars haven't all decided what they think yet. The brand is the outsider in the bar.",
+        "industrySummary": "Craft brewery branding has converged on either heritage-local (state flag, county map, town landmark) or design-modern (geometric can art, sans-serif wordmark). There is real space for a brewery that takes the outsider stance — slightly literary, slightly unwelcome, slightly cinematic.",
+        "competitorLandscape": "Modern Times (moderntimesbeer.com) holds the editorial-modern slot. Half Acre (halfacrebeer.com) plays in the warm-creative middle. Burial Beer (burialbeer.com) sits in the dark-creative peer position. Mortalis Brewing (mortalisbrewing.com) is the literary-creative reference. We belong with Burial and Mortalis with a slightly warmer voice.",
+        "positioningStatement": "Stranger & Co Brewery is a small craft brewery that positions itself as the outsider in town — literary labels, unfamiliar styles, a taproom that feels like a film set.",
+        "positioningRationale": "The brand competes on tone. Cans, taproom, and voice all hold a single point of view — the brewery that came from somewhere else and is happy to stay slightly outside the town's habits.",
+        "targetAudience": {
+          "primary": "Beer drinkers 25–45 who choose breweries by aesthetic and voice as much as by style.",
+          "behaviors": [
+            "Buy cans for the label.",
+            "Follow breweries on Instagram.",
+            "Drive to a brewery for the taproom feel.",
+            "Photograph the bar before drinking."
+          ],
+          "motivations": [
+            "Want a brewery with a clear point of view.",
+            "Want a taproom that feels designed, not generic.",
+            "Want cans they will keep."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Specific",
+          "Warm",
+          "A little cinematic"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write release notes like a paragraph of a short story.",
+            "Photograph the taproom in low light, like a film still.",
+            "Name beers after small literary references.",
+            "Refer to the brewery as 'we' but with one voice."
+          ],
+          "donts": [
+            "No local-pride banner copy.",
+            "No state-flag iconography.",
+            "No 'crushable' or 'sessionable' adjectives.",
+            "No mascot."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Literary labels",
+            "description": "Every can label is an illustration paired with a short paragraph — a fragment of a story, a quoted line, a description of the brewery's town as if from a passing traveler."
+          },
+          {
+            "name": "The taproom as set",
+            "description": "The taproom is intentionally cinematic — low light, warm wood, slow music. The space is part of the brand."
+          },
+          {
+            "name": "Unfamiliar styles",
+            "description": "We release styles the regular crowd would not order: gose with sumac, bière de garde, kvass. The unfamiliar is the menu."
+          }
+        ],
+        "logoDirection": "A wordmark — Stranger & Co set in a slightly weathered display serif, with a small woodcut crow mark beside it. The mark appears the same on the can, the door, and the matchbook.",
+        "colorPalette": [
+          {
+            "name": "Coal",
+            "hex": "#1F1F1F",
+            "meaning": "Primary — the color of a low-lit taproom.",
+            "usage": "Wordmark, signage, walls."
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DD",
+            "meaning": "Page and label.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Ember",
+            "hex": "#B23A2D",
+            "meaning": "Accent — a single hot red.",
+            "usage": "Section marks, can wax."
+          }
+        ],
+        "typography": {
+          "primary": "A weathered display serif for the wordmark and label paragraphs.",
+          "secondary": "A neutral grotesque for body and field data.",
+          "rationale": "The serif tells the story. The grotesque handles the working type. The brand reads like a small press paperback."
+        }
       }
     ]
   }

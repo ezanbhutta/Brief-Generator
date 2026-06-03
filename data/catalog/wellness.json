@@ -13,7 +13,12 @@
         "targetAudience": {
           "primary": "28 to 50. Tried three wellness apps and uninstalled all of them. Owns supplements they don't take. Wants their wellness to be quiet, low-friction, and not on their phone."
         },
-        "brandPersonalityTraits": ["Quiet", "Modern", "Honest", "Warm"],
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Modern",
+          "Honest",
+          "Warm"
+        ],
         "voiceAndTone": {
           "dos": [
             "Use short sentences",
@@ -28,9 +33,24 @@
         },
         "logoDirection": "A wordmark only. QUIET HOUR set in a soft modern grotesk, slightly humanist, with rounded terminals. A small breath-mark dot above the I of QUIET works as the app icon, used alone on profile photos and notification badges.",
         "colorPalette": [
-          {"name": "Mid Grey", "hex": "#9DA3A8", "meaning": "Overcast. Neutral. The opposite of bright.", "usage": "Primary surface, packaging, app background"},
-          {"name": "Cloud", "hex": "#EFEDE8", "meaning": "Used as space.", "usage": "Backgrounds, paper, neutral surfaces"},
-          {"name": "Forest", "hex": "#3F5A47", "meaning": "Deep green. The single anchor color.", "usage": "Wordmark, body type, primary accent"}
+          {
+            "name": "Mid Grey",
+            "hex": "#9DA3A8",
+            "meaning": "Overcast. Neutral. The opposite of bright.",
+            "usage": "Primary surface, packaging, app background"
+          },
+          {
+            "name": "Cloud",
+            "hex": "#EFEDE8",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, neutral surfaces"
+          },
+          {
+            "name": "Forest",
+            "hex": "#3F5A47",
+            "meaning": "Deep green. The single anchor color.",
+            "usage": "Wordmark, body type, primary accent"
+          }
         ],
         "typography": {
           "primary": "ABC Diatype Mono for the wordmark",
@@ -38,8 +58,14 @@
           "rationale": "Disciplined, calm letterforms. Mono for the brand surface, regular for everything else. One family, two weights."
         },
         "customSections": [
-          {"title": "What it doesn't say", "body": "No mindfulness scripts. No 'morning routine' content. No founder yoga photos. No supplement upsells. No streak counters."},
-          {"title": "Where it lives", "body": "An app that does one thing per session. Email once a month, three sentences long. A physical journal for sale that's actually beautiful. No push notifications, ever."}
+          {
+            "title": "What it doesn't say",
+            "body": "No mindfulness scripts. No 'morning routine' content. No founder yoga photos. No supplement upsells. No streak counters."
+          },
+          {
+            "title": "Where it lives",
+            "body": "An app that does one thing per session. Email once a month, three sentences long. A physical journal for sale that's actually beautiful. No push notifications, ever."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -51,6 +77,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "wellness-modern-2",
+        "brandName": "Lichen & Salt",
+        "tagline": "Botanical wellness, made plainly.",
+        "brandNameRationale": "Lichen is a real plant — slow-growing, considered, slightly archaic in the wellness lexicon. Salt is the elemental opposite — mineral, plain, ancient. The pairing reads as botanical-plus-elemental, in the lineage of considered wellness brand names (The Nue Co, Apothékary, Saie) without imitating any of them. Avoids the standard 'Glow / Bloom / Aura' wellness vocabulary entirely.",
+        "manifesto": "Modern wellness has become a vocabulary of vague positivity. Glow, bloom, balance, alignment. We made Lichen & Salt because the actual product is a small set of botanical and mineral remedies that have been used for hundreds of years. The brand is honest about that. No vague benefits, no 'unlock', no journey. A short catalog of working remedies, written plainly.",
+        "industrySummary": "Modern wellness has split between the supplement-led DTC cohort (Care/of, Athletic Greens) and the apothecary-led brand cohort (The Nue Co, Apothékary). The opening is for a brand that takes the apothecary tradition further into plain language and short catalog discipline.",
+        "competitorLandscape": "The Nue Co (thenueco.com) holds the considered apothecary slot. Apothékary (apothekary.com) plays in the botanical-modern peer position. Moon Juice (moonjuice.com) sits in the cult-wellness middle. We sit alongside The Nue Co with a quieter visual register and a more limited catalog.",
+        "positioningStatement": "Lichen & Salt is a small modern apothecary brand offering a curated catalog of botanical and mineral remedies described plainly.",
+        "positioningRationale": "We compete on catalog discipline and plain language. Fourteen products, each named for its primary ingredient, each described in one paragraph that names what it does and what it does not do.",
+        "targetAudience": {
+          "primary": "Adults 30–50 who have used supplements and are skeptical of the vocabulary.",
+          "behaviors": [
+            "Read ingredient lists.",
+            "Avoid health claims.",
+            "Re-buy from brands they trust.",
+            "Skip influencer marketing."
+          ],
+          "motivations": [
+            "Want plain language about what a product does.",
+            "Want a short catalog.",
+            "Want apothecary-tradition formulations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Plain",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name products by primary ingredient.",
+            "Write product copy in one paragraph.",
+            "State what the product does not do.",
+            "Sign emails with the formulator's first name."
+          ],
+          "donts": [
+            "No 'glow', 'bloom', 'balance', 'unlock' vocabulary.",
+            "No influencer marketing.",
+            "No vague benefit claims.",
+            "No countdown promotions."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Fourteen products",
+            "description": "The catalog is fourteen items. We add slowly. Each product has a clear apothecary tradition behind it."
+          },
+          {
+            "name": "Plain paragraphs",
+            "description": "Each product page is a single paragraph. We say what the product is made of, what it does, and what it does not do."
+          },
+          {
+            "name": "Apothecary tradition",
+            "description": "Formulations are based on documented traditional use. We reference the historical practice on the back label."
+          }
+        ],
+        "logoDirection": "A wordmark — Lichen & Salt set in a quiet modern serif with a long ampersand. A small botanical illustration of a lichen branch sits above the wordmark on the bottle.",
+        "colorPalette": [
+          {
+            "name": "Stone",
+            "hex": "#B8B5AE",
+            "meaning": "Primary — the color of weathered stone.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Salt",
+            "hex": "#FAFAF7",
+            "meaning": "Bottle color.",
+            "usage": "Bottles, labels."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet modern serif for the wordmark and product names.",
+          "secondary": "A neutral grotesque for body and ingredient lists.",
+          "rationale": "The serif sets the apothecary tone. The grotesque handles the working type."
         }
       }
     ],
@@ -66,7 +177,13 @@
         "targetAudience": {
           "primary": "35 to 65. Successful, time-poor, over-stimulated. Has tried the meditation apps. Has done the retreats. Wants something they can use in the middle of a Tuesday."
         },
-        "brandPersonalityTraits": ["Quiet", "Refined", "Patient", "Discreet", "Considered"],
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Use few words",
@@ -81,10 +198,30 @@
         },
         "logoDirection": "A wordmark in a classical serif. The Quiet Room set with wide kerning, in a single weight. A small horizontal line beneath the words, the threshold of the room itself. The mark is small, only appearing on the front door, the appointment card, and the receipt.",
         "colorPalette": [
-          {"name": "Slate Quiet", "hex": "#3A3F44", "meaning": "Acoustic panel, soft shadow, the wall of the room.", "usage": "Primary brand color, walls, signage"},
-          {"name": "Linen Cream", "hex": "#EFE9DB", "meaning": "Heavy curtains, paper, the calm space.", "usage": "Background, paper, all neutral surfaces"},
-          {"name": "Pewter", "hex": "#86837C", "meaning": "Brushed metal. The frame around the door.", "usage": "Hardware, foil, secondary surfaces"},
-          {"name": "Deep Olive", "hex": "#3A4032", "meaning": "Quiet anchor. The reading lamp.", "usage": "Body type, structural elements"}
+          {
+            "name": "Slate Quiet",
+            "hex": "#3A3F44",
+            "meaning": "Acoustic panel, soft shadow, the wall of the room.",
+            "usage": "Primary brand color, walls, signage"
+          },
+          {
+            "name": "Linen Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Heavy curtains, paper, the calm space.",
+            "usage": "Background, paper, all neutral surfaces"
+          },
+          {
+            "name": "Pewter",
+            "hex": "#86837C",
+            "meaning": "Brushed metal. The frame around the door.",
+            "usage": "Hardware, foil, secondary surfaces"
+          },
+          {
+            "name": "Deep Olive",
+            "hex": "#3A4032",
+            "meaning": "Quiet anchor. The reading lamp.",
+            "usage": "Body type, structural elements"
+          }
         ],
         "typography": {
           "primary": "Tiempos Headline for the wordmark and signage",
@@ -92,7 +229,10 @@
           "rationale": "A high contrast serif sets the tone. A modern grotesk handles the website and member portal. Both restrained."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No social media. No photography of the room. No press tours. No mentions of the wellness category. No content marketing."}
+          {
+            "title": "What it doesn't do",
+            "body": "No social media. No photography of the room. No press tours. No mentions of the wellness category. No content marketing."
+          }
         ],
         "sectionLabels": {
           "story": "How this began",
@@ -105,6 +245,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "wellness-luxury-2",
+        "brandName": "Maison Aubray",
+        "tagline": "A French apothecary, founded 1894.",
+        "brandNameRationale": "Maison is the French commercial-house convention used by heritage perfume and apothecary brands (Maison Margiela, Maison Francis Kurkdjian). Aubray is a plausible French surname pulled from the registry of older apothecary houses — readable, slightly aristocratic, not famous. The pair places the brand in the heritage French apothecary tradition without imitating any existing maison.",
+        "story": "Maison Aubray is a French apothecary founded in 1894 and run by the founder's great-grandchildren. The catalog includes seventeen products, all formulated in the original Paris atelier. Products are sold through a small list of pharmacies and the maison's two boutiques.",
+        "industrySummary": "Heritage apothecary brands are rare and remain among the most premium wellness presentations available. There is space in the global market for a new entrant in the deeply traditional French apothecary register — multi-generational, atelier-based, small catalog.",
+        "competitorLandscape": "Officine Universelle Buly (buly1803.com) is the closest reference in heritage register and atelier presentation. Santa Maria Novella (smnovella.com) holds the multi-century apothecary slot. Officine Panerai-style heritage maisons play in the broader category. We belong in the small French heritage apothecary tradition.",
+        "positioningStatement": "Maison Aubray is a French heritage apothecary in continuous family operation since 1894, offering seventeen products formulated in the original atelier.",
+        "positioningRationale": "We do not extend the catalog. The atelier is the limit. The seventeen products have remained the same for four generations, with formulation changes only when traditional ingredients have become unavailable.",
+        "targetAudience": {
+          "primary": "Buyers 35–65 with a long-term relationship with heritage personal-care brands.",
+          "behaviors": [
+            "Re-buy the same products across years.",
+            "Travel to the maison when in Paris.",
+            "Pass products to children.",
+            "Read provenance carefully."
+          ],
+          "motivations": [
+            "Want a brand with continuity of formula and family.",
+            "Want a small catalog they can know completely.",
+            "Want products that outlast trends."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customers in formal French and English.",
+            "Reference the maison's founding year.",
+            "Sign correspondence in the founders' family name.",
+            "Print all marketing communications."
+          ],
+          "donts": [
+            "No social-media presence.",
+            "No promotional pricing.",
+            "No 'collection' or 'edit' marketing.",
+            "No brand collaborations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Seventeen products",
+            "description": "The maison catalog has held at seventeen products for four generations. We change formulas only when traditional ingredients have become unavailable."
+          },
+          {
+            "name": "Atelier in Paris",
+            "description": "All products are formulated and finished in the original 1894 Paris atelier. The atelier staff have been with the maison for years."
+          },
+          {
+            "name": "Two boutiques",
+            "description": "The maison operates two boutiques — Paris and one international. The catalog is otherwise available through a small list of pharmacies."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Maison Aubray set in a classical book serif, with the maison's small atelier crest beside it. The crest depicts the original Paris atelier façade.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and packaging.",
+            "usage": "All correspondence, packaging, bottles."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Primary type.",
+            "usage": "Body, wordmark."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Crest, signature elements, embossed seals."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and all printed materials.",
+          "secondary": "An engraver's italic for the maison's founding date.",
+          "rationale": "Letterpress register. The maison communicates almost entirely in print."
         }
       }
     ],
@@ -119,7 +344,12 @@
         "targetAudience": {
           "primary": "Adults who already have a wellness practice and want one tool that does one thing. They distrust apps that try to do everything."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Quiet", "Patient"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Quiet",
+          "Patient"
+        ],
         "voiceAndTone": {
           "dos": [
             "Use the smallest number of words",
@@ -134,9 +364,24 @@
         },
         "logoDirection": "A wordmark only. STILL in a single weight grotesk, wide kerned, all caps. No icon. The app icon is the wordmark on a soft grey background. A small horizontal pulse line is the only animation in the entire product.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#1A1A1A", "meaning": "Type and structure.", "usage": "Wordmark, body type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Background, app, all light surfaces"},
-          {"name": "Sage", "hex": "#A6B49A", "meaning": "A single, quiet accent.", "usage": "Pulse line, timer indicator"}
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Background, app, all light surfaces"
+          },
+          {
+            "name": "Sage",
+            "hex": "#A6B49A",
+            "meaning": "A single, quiet accent.",
+            "usage": "Pulse line, timer indicator"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -144,7 +389,10 @@
           "rationale": "One face, two weights. The app shows the timer in light weight and the wordmark in regular. That is the design system."
         },
         "customSections": [
-          {"title": "Not this", "body": "No meditation. No journaling. No streaks. No premium tier. No notifications. No social sharing of sessions."}
+          {
+            "title": "Not this",
+            "body": "No meditation. No journaling. No streaks. No premium tier. No notifications. No social sharing of sessions."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -156,6 +404,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "wellness-minimal-2",
+        "brandName": "Mote",
+        "tagline": "A small dose. A small word.",
+        "brandNameRationale": "Mote is a real word for a tiny particle or speck. Archaic in everyday use, evocative, single-syllable. Stands in the lineage of one-word evocative wellness brand names (Lyma, Wisp, Tend) without being literal about wellness or health. Slightly poetic without being aspirational.",
+        "manifesto": "Wellness brands have grown into long product lines, complicated systems, and twelve-step rituals. We made Mote because the actual best practice is small — a single drop, a single capsule, a single five-minute exercise. The catalog is six products. The packaging is small. The instructions are one sentence.",
+        "industrySummary": "Minimal wellness has been claimed by the supplement subscription category but is under-represented in topical and ritual products. There is real space for a brand that takes the minimal premise into apothecary topicals, small-dose oils, and single-step rituals.",
+        "competitorLandscape": "Tend (hellotend.com) plays in the minimal-modern wellness space. Wisp (hellowisp.com) holds the single-purpose minimal slot. Aesop (aesop.com) is the apothecary-minimal reference. We sit further out — fewer products, less language, smaller bottles.",
+        "positioningStatement": "Mote is a six-product apothecary brand of small-dose botanical oils and tinctures.",
+        "positioningRationale": "We strip the catalog and the bottle. Six products, named for their use. Each bottle is small. Each instruction is one sentence.",
+        "targetAudience": {
+          "primary": "Adults who have tried larger wellness brands and want fewer, smaller products.",
+          "behaviors": [
+            "Use small amounts of oils and tinctures.",
+            "Prefer apothecary-style bottles.",
+            "Travel with a single small bottle.",
+            "Skip the ten-step routine."
+          ],
+          "motivations": [
+            "Want fewer, smaller products.",
+            "Want plain instructions.",
+            "Want a brand that does not overstay its welcome on the shelf."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Quiet",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name products by use — Sleep, Calm, Bath.",
+            "Write instructions in one sentence.",
+            "Show one photograph of the bottle.",
+            "Confirm purchases in one line."
+          ],
+          "donts": [
+            "No long ingredient stories.",
+            "No 'wellness journey' language.",
+            "No multi-step rituals.",
+            "No bottles larger than 30ml."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Six products",
+            "description": "The catalog is six items: Sleep, Calm, Bath, Cleanse, Restore, Travel. We do not add a seventh."
+          },
+          {
+            "name": "Small bottles",
+            "description": "Every product ships in a 15ml or 30ml apothecary bottle. The brand is small on the shelf."
+          },
+          {
+            "name": "One-sentence instruction",
+            "description": "Each product has one instruction line. The line is on the bottle, in the product page, and on the receipt."
+          }
+        ],
+        "logoDirection": "Mote set in a neutral grotesque, all lowercase, at very small scale on the apothecary bottle. The brand mark appears once on the bottle and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Glass",
+            "hex": "#D4D8D2",
+            "meaning": "The bottle color.",
+            "usage": "Bottles."
+          },
+          {
+            "name": "Bone",
+            "hex": "#F3EFE6",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface, one weight. The bottle reads like an apothecary sample."
         }
       }
     ],
@@ -176,7 +508,13 @@
             "Reporting that justifies the program internally"
           ]
         },
-        "brandPersonalityTraits": ["Reliable", "Professional", "Direct", "Steady", "Capable"],
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Direct",
+          "Steady",
+          "Capable"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the deliverable",
@@ -190,16 +528,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Full-service operations", "description": "We run the program, the communications, the events, and the reporting under one contract."},
-          {"name": "Real engagement", "description": "We measure participation, not enrollment. The number that matters is the percent who came back in week six."},
-          {"name": "Reporting HR can use", "description": "Quarterly engagement reports, ROI summaries, and renewal-ready data formatted for procurement and the executive committee."}
+          {
+            "name": "Full-service operations",
+            "description": "We run the program, the communications, the events, and the reporting under one contract."
+          },
+          {
+            "name": "Real engagement",
+            "description": "We measure participation, not enrollment. The number that matters is the percent who came back in week six."
+          },
+          {
+            "name": "Reporting HR can use",
+            "description": "Quarterly engagement reports, ROI summaries, and renewal-ready data formatted for procurement and the executive committee."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single vertical pillar with a subtle leaf at the top, suggesting support and growth without being either too literal. Reads cleanly on uniforms, vans, and procurement decks.",
         "colorPalette": [
-          {"name": "Trust Navy", "hex": "#0E2238", "meaning": "Deep blue, steady, conservative.", "usage": "Logo, primary surfaces"},
-          {"name": "Bone", "hex": "#F2EFE8", "meaning": "Clean and unfussy.", "usage": "Backgrounds, paper"},
-          {"name": "Steel", "hex": "#5E6A75", "meaning": "Structure and balance.", "usage": "Secondary text, dividers"},
-          {"name": "Growth Green", "hex": "#3E8E5A", "meaning": "Positive metric. Used as a small accent.", "usage": "Charts, hover, success states"}
+          {
+            "name": "Trust Navy",
+            "hex": "#0E2238",
+            "meaning": "Deep blue, steady, conservative.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5E6A75",
+            "meaning": "Structure and balance.",
+            "usage": "Secondary text, dividers"
+          },
+          {
+            "name": "Growth Green",
+            "hex": "#3E8E5A",
+            "meaning": "Positive metric. Used as a small accent.",
+            "usage": "Charts, hover, success states"
+          }
         ],
         "typography": {
           "primary": "Inter for the product and marketing",
@@ -207,7 +574,10 @@
           "rationale": "Inter scales clean across digital and HR-facing portals. The serif handles printed executive summaries."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No D2C app. No retail wellness shop. No celebrity coaches. No content marketing aimed at consumers. The product sells through HR procurement, not Instagram."}
+          {
+            "title": "What it doesn't do",
+            "body": "No D2C app. No retail wellness shop. No celebrity coaches. No content marketing aimed at consumers. The product sells through HR procurement, not Instagram."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -220,6 +590,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "wellness-corporate-2",
+        "brandName": "Aldercroft Wellness Group",
+        "tagline": "Multi-brand wellness operator, mid-market.",
+        "brandNameRationale": "Aldercroft is a compound English place-name — Alder (a tree) and croft (a small enclosed field). Reads as a real but unfamiliar regional location, which is the convention for established holding companies that take their names from where they were founded. Wellness Group signals the multi-brand operating structure. The pair sits firmly in the institutional holding-company register.",
+        "manifesto": "Aldercroft Wellness Group owns and operates a portfolio of wellness brands across supplements, topicals, and wellness services. Each brand retains its identity and formulation house; we operate the shared manufacturing, regulatory, distribution, and back-office infrastructure. The buyer is a wellness brand founder considering sale, a retail buyer seeking single-vendor supply, or an institutional investor holding wellness assets.",
+        "industrySummary": "Wellness has consolidated into a small number of large multi-brand operators (Unilever Prestige, Procter & Gamble Beauty, P&G Health). The opening is for a regional multi-brand wellness operator with manufacturing depth, regulatory infrastructure, and the procurement reliability major retailers require.",
+        "competitorLandscape": "Unilever Prestige (unileverprestige.com) is the large peer at scale. Pharmavite (pharmavite.com) holds the supplement multi-brand slot. Nestlé Health Science (nestlehealthscience.com) sits in the health-and-wellness middle. We sit in the regional mid-tier multi-brand wellness operator category.",
+        "positioningStatement": "Aldercroft Wellness Group is a regional multi-brand wellness operator running supplements, topicals, and wellness services under shared manufacturing, regulatory, and distribution infrastructure.",
+        "positioningRationale": "We compete on manufacturing capacity, regulatory depth, and retailer-grade reliability. The brands keep their voice; the operations live with us.",
+        "targetAudience": {
+          "primary": "Wellness brand founders considering sale, retail buyers at chain pharmacies and natural retailers, and institutional investors holding wellness assets.",
+          "behaviors": [
+            "Review brand unit economics and category velocity.",
+            "Negotiate multi-year retail supply agreements.",
+            "Care about manufacturing cost, regulatory compliance, and lead time.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Want an operator with shared manufacturing and regulatory.",
+            "Want to keep brand identity post-acquisition.",
+            "Want a single-vendor multi-brand supply relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with manufacturing capacity, regulatory footprint, and brand mix.",
+            "Speak the language of retail buyers, founders, and CFOs.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Aldercroft tagging."
+          ],
+          "donts": [
+            "No consumer marketing in the holding voice.",
+            "No social media at the parent level.",
+            "No press-release hype cadence.",
+            "No brand consolidation without partner alignment."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and operate four to eight wellness brands across supplements, topicals, and services. Each retains its identity."
+          },
+          {
+            "name": "Shared manufacturing and regulatory",
+            "description": "Owned manufacturing capacity plus in-house regulatory affairs across multiple jurisdictions. Brands share infrastructure under a single operations team."
+          },
+          {
+            "name": "Retail-ready",
+            "description": "Single-vendor supply arrangements with chain pharmacies and natural retailers across the portfolio. Compliance and EDI handled in-house."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Aldercroft set in a traditional book serif, with 'Wellness Group' beneath in tracked small caps. Used in contracts, retailer documentation, and the corporate office.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for reports, tables, and platform documentation.",
+          "rationale": "Tabular and disciplined. Numbers louder than adjectives."
         }
       }
     ],
@@ -235,7 +690,13 @@
         "targetAudience": {
           "primary": "25 to 40. Has a busy job. Has tried two wellness apps. Wants a brand that doesn't lecture. Buys the totebag. Reads the newsletter. Doesn't post about it."
         },
-        "brandPersonalityTraits": ["Playful", "Warm", "Confident", "Direct", "Friendly"],
+        "brandPersonalityTraits": [
+          "Playful",
+          "Warm",
+          "Confident",
+          "Direct",
+          "Friendly"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes about wellness without dismissing it",
@@ -250,11 +711,36 @@
         },
         "logoDirection": "A wordmark in a punchy display serif with the F of OFF stylized as a small flag flipped over, suggesting closed-for-business. Standalone flag-icon for app icon, packaging seals, and Instagram avatar.",
         "colorPalette": [
-          {"name": "Off Orange", "hex": "#E07A2C", "meaning": "Warm, friendly, the color of a sunset on a Friday evening.", "usage": "Primary brand color, totebags, social"},
-          {"name": "Out-of-Office Yellow", "hex": "#FFD23F", "meaning": "Sticky note. Closed sign. Joy.", "usage": "Accent, highlights, swag"},
-          {"name": "Cream", "hex": "#FBF6E9", "meaning": "Warm space, used as background.", "usage": "Backgrounds, paper, packaging"},
-          {"name": "Forest", "hex": "#2E5339", "meaning": "Grounded. The picnic blanket.", "usage": "Secondary surfaces, body type"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Body, headlines"}
+          {
+            "name": "Off Orange",
+            "hex": "#E07A2C",
+            "meaning": "Warm, friendly, the color of a sunset on a Friday evening.",
+            "usage": "Primary brand color, totebags, social"
+          },
+          {
+            "name": "Out-of-Office Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Sticky note. Closed sign. Joy.",
+            "usage": "Accent, highlights, swag"
+          },
+          {
+            "name": "Cream",
+            "hex": "#FBF6E9",
+            "meaning": "Warm space, used as background.",
+            "usage": "Backgrounds, paper, packaging"
+          },
+          {
+            "name": "Forest",
+            "hex": "#2E5339",
+            "meaning": "Grounded. The picnic blanket.",
+            "usage": "Secondary surfaces, body type"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Body, headlines"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -262,8 +748,14 @@
           "rationale": "Migra has personality. Neue Montreal handles the readable bits. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a meditation brand. Not a supplement brand. Not afraid of orange. Not too cool to make a joke about itself."},
-          {"title": "Where it lives", "body": "Totebags people actually carry. Stickers on laptops. A weekly newsletter written like a friend texting you to take a break. Pop-ups in airports and train stations. A small physical journal for sale that's actually beautiful."}
+          {
+            "title": "What it isn't",
+            "body": "Not a meditation brand. Not a supplement brand. Not afraid of orange. Not too cool to make a joke about itself."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Totebags people actually carry. Stickers on laptops. A weekly newsletter written like a friend texting you to take a break. Pop-ups in airports and train stations. A small physical journal for sale that's actually beautiful."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -277,7 +769,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "wellness-creative-2",
+        "brandName": "Soft Animal Wellness",
+        "tagline": "A wellness brand from a Mary Oliver line.",
+        "brandNameRationale": "Soft Animal is taken from the Mary Oliver poem 'Wild Geese' — 'You only have to let the soft animal of your body love what it loves.' The name is unusual, literary, warm, and instantly evocative of body-as-friend rather than body-as-project. The reference is recognizable to the brand's audience without being a quotation. Reads in the lineage of literary-creative wellness brands (Goop, Moon Juice, The Nue Co) without imitating any of them.",
+        "manifesto": "Wellness marketing treats the body as a problem to be optimized. We started Soft Animal because the body is mostly fine and mostly knows what it wants — sleep, food, sun, water, the right amount of movement, the right amount of rest. The brand is a small set of products built around treating the body as a friend, not as a project to be perfected.",
+        "industrySummary": "Wellness has been dominated by optimization vocabulary — biohacking, peak performance, longevity. There is real space for a creative-led brand built on the opposite stance — body as friend, smallness as the goal, softness as the value.",
+        "competitorLandscape": "Goop (goop.com) plays in the cult-wellness slot. Moon Juice (moonjuice.com) holds the literary-creative peer position. The Nue Co (thenueco.com) sits in the considered-creative middle. Saie (saie.com) plays in the soft-modern peer space. We sit alongside Moon Juice with a more literary, less mystical register.",
+        "positioningStatement": "Soft Animal Wellness is a creative wellness brand built around treating the body as a friend — a small catalog of products, a literary voice, no optimization language.",
+        "positioningRationale": "The brand competes on tone. The catalog, photography, and voice all hold a single point of view — body as friend, not project.",
+        "targetAudience": {
+          "primary": "Adults 28–50 who are skeptical of wellness optimization and want a brand that argues for ease.",
+          "behaviors": [
+            "Read poetry and essays.",
+            "Take naps without guilt.",
+            "Skip biohacking marketing.",
+            "Buy fewer products than they used to."
+          ],
+          "motivations": [
+            "Want a wellness brand that is kind to the body.",
+            "Want to be talked to like a friend, not a project.",
+            "Want a brand with a clear point of view."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Warm",
+          "Considered",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write product copy in the second person, warmly.",
+            "Reference the body as a friend.",
+            "Quote poems and essays in marketing.",
+            "Send a short literary note with every order."
+          ],
+          "donts": [
+            "No optimization vocabulary.",
+            "No 'biohacking' language.",
+            "No before-and-after photography.",
+            "No transformation marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Small catalog",
+            "description": "Ten products, each tied to a specific small ritual — sleep, bath, morning, evening, rest, meal. We do not extend."
+          },
+          {
+            "name": "Literary voice",
+            "description": "Marketing leans on quoted lines from poets and essayists who write kindly about the body. Each product is named with a literary fragment."
+          },
+          {
+            "name": "A note with every order",
+            "description": "Every order ships with a short printed note — a poem, an essay fragment, a recipe. The note is the brand."
+          }
+        ],
+        "logoDirection": "A wordmark — Soft Animal Wellness set in a quiet display serif, with a small hand-drawn illustration of a sleeping fox or rabbit beside it. The mark feels printed in a chapbook.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — a warm sleep-light off-white.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Plum",
+            "hex": "#5C2D3D",
+            "meaning": "Secondary — a quiet warm dark.",
+            "usage": "Body type, headings."
+          },
+          {
+            "name": "Rose",
+            "hex": "#D89B8E",
+            "meaning": "Single accent — the color of skin in warm light.",
+            "usage": "Section marks, product highlights."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and product names.",
+          "secondary": "A book serif for marketing copy and printed notes.",
+          "rationale": "The brand reads like a slim poetry chapbook. Both faces are quiet."
+        }
       }
     ]
   }
