@@ -13,7 +13,12 @@
         "targetAudience": {
           "primary": "Podcast hosts and producers building serious shows. Listeners who already pay for one subscription audio product. Advertisers who want premium-only inventory."
         },
-        "brandPersonalityTraits": ["Considered", "Modern", "Direct", "Quiet"],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Quiet"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the show, not the host",
@@ -28,9 +33,24 @@
         },
         "logoDirection": "A wordmark only. OPEN AIR in a tight modern grotesk, all caps, two words on a single line with wide letter spacing. Square icon for app and social uses an OA monogram with a small dot above the O, like a broadcast signal.",
         "colorPalette": [
-          {"name": "Air Black", "hex": "#101012", "meaning": "The space between transmissions.", "usage": "Wordmark, body type, dark surfaces"},
-          {"name": "Off White", "hex": "#F4F1EA", "meaning": "Used as space.", "usage": "Backgrounds, paper, light surfaces"},
-          {"name": "Signal Orange", "hex": "#FF6A2A", "meaning": "Broadcast accent. The dot on the studio sign.", "usage": "CTAs, signal indicators, new-show flags"}
+          {
+            "name": "Air Black",
+            "hex": "#101012",
+            "meaning": "The space between transmissions.",
+            "usage": "Wordmark, body type, dark surfaces"
+          },
+          {
+            "name": "Off White",
+            "hex": "#F4F1EA",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, paper, light surfaces"
+          },
+          {
+            "name": "Signal Orange",
+            "hex": "#FF6A2A",
+            "meaning": "Broadcast accent. The dot on the studio sign.",
+            "usage": "CTAs, signal indicators, new-show flags"
+          }
         ],
         "typography": {
           "primary": "Inter for the wordmark and product",
@@ -38,8 +58,14 @@
           "rationale": "Inter handles the marketing pages and product UI. The mono carries the run times, dates, and episode numbers. Two voices, one network."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No floating-head cover art. No celebrity guest pivots. No mid-roll stock-music ads. No clip-farm strategy."},
-          {"title": "Where it lives", "body": "An app-first listening surface. Each show has its own micro-brand inside the network. Cover art follows a single grid. Episode descriptions are limited to 60 words."}
+          {
+            "title": "What it doesn't do",
+            "body": "No floating-head cover art. No celebrity guest pivots. No mid-roll stock-music ads. No clip-farm strategy."
+          },
+          {
+            "title": "Where it lives",
+            "body": "An app-first listening surface. Each show has its own micro-brand inside the network. Cover art follows a single grid. Episode descriptions are limited to 60 words."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The market",
@@ -51,6 +77,91 @@
           "logoDirection": "The logo",
           "colorPalette": "The colors",
           "typography": "The fonts"
+        }
+      },
+      {
+        "id": "podcast-modern-2",
+        "brandName": "Outloud",
+        "tagline": "A podcast network for people who like a clear point of view.",
+        "brandNameRationale": "Outloud is a compound word — out + loud — that names what podcasts do: they speak ideas out loud, with a person attached. The compound feels modern and slightly punchy without being literal about audio. Stands in the lineage of single-word podcast network names (Wondery, Crooked, Gimlet, Pushkin) — short, evocative, easy to print on a sticker, no audio-vocabulary cliché.",
+        "manifesto": "Most podcast networks try to be a library — three hundred shows, every genre, an algorithm. We made Outloud because the network worth listening to is the small one — twelve shows, all with a point of view, hosts who would argue with each other if you put them in a room. The network is curated, not catalogued. The shows are picked the way a small bookshop picks its front table.",
+        "industrySummary": "Podcast networks have split between the broad platforms (Spotify, iHeart) and the narrow editorial networks (Pushkin, Crooked, Defector). The opening underneath is for a smaller editorial network with a clear curatorial point of view and a small show roster.",
+        "competitorLandscape": "Pushkin Industries (pushkin.fm) holds the prestige editorial network slot. Crooked Media (crooked.com) plays in the political-editorial peer position. Defector (defector.com) sits in the journalist-owned middle. Radiotopia (radiotopia.fm) is the public-radio peer reference. We sit alongside Pushkin and Radiotopia with a tighter editorial focus.",
+        "positioningStatement": "Outloud is a curated editorial podcast network of twelve shows, picked for point of view, not for genre.",
+        "positioningRationale": "We compete on curation discipline. Twelve shows on the network at a time. New shows are added rarely; existing shows are renewed annually based on the network's editorial fit, not download numbers.",
+        "targetAudience": {
+          "primary": "Subscribers 28–50 who pay for podcast subscriptions and follow individual hosts, not platforms.",
+          "behaviors": [
+            "Subscribe to two to five paid podcasts.",
+            "Listen at 1.5x speed on a known schedule.",
+            "Email hosts and read host newsletters.",
+            "Pay for Substacks."
+          ],
+          "motivations": [
+            "Want a network that has filtered for them.",
+            "Want shows that connect to each other thematically.",
+            "Want hosts the network argues for, not against."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the host's name and the show's argument.",
+            "Publish an annual editor's letter explaining the network's choices.",
+            "Send a single weekly email rounding up the network.",
+            "Name shows by their argument, not their format."
+          ],
+          "donts": [
+            "No 'top podcasts' marketing.",
+            "No algorithmic recommendations.",
+            "No genre tags.",
+            "No 'something for everyone' positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Twelve shows",
+            "description": "Twelve shows on the network at a time. New shows are added with a published editor's note explaining why. We retire shows rather than dilute the network."
+          },
+          {
+            "name": "Editor's note",
+            "description": "Every show on the network has a published editor's note from the network's curatorial editor, explaining why the show belongs."
+          },
+          {
+            "name": "One weekly email",
+            "description": "The network sends one email a week — the editor's pick from the week's episodes, with a one-line case for each. The email is the marketing."
+          }
+        ],
+        "logoDirection": "A wordmark — Outloud set in a confident modern grotesque, all lowercase, with a small speech-bubble outline beside it. The mark is used as the show-card stamp across all twelve shows.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#0B0B10",
+            "meaning": "Type.",
+            "usage": "Body and show titles."
+          },
+          {
+            "name": "Signal",
+            "hex": "#FF3D7F",
+            "meaning": "Single accent.",
+            "usage": "Show stamps, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A confident modern grotesque for the wordmark and show titles.",
+          "secondary": "A book serif for the editor's notes and weekly email.",
+          "rationale": "The grotesque is the network. The serif is the curator's voice."
         }
       }
     ],
@@ -66,7 +177,13 @@
         "targetAudience": {
           "primary": "35 to 65. Reads The Atlantic, The New Yorker, the London Review of Books. Pays for one or two cultural subscriptions. Listens on long walks, never on 2x speed."
         },
-        "brandPersonalityTraits": ["Refined", "Patient", "Literary", "Considered", "Quiet"],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Literary",
+          "Considered",
+          "Quiet"
+        ],
         "voiceAndTone": {
           "dos": [
             "Address the listener as a reader",
@@ -81,10 +198,30 @@
         },
         "logoDirection": "A classical serif wordmark with elegant ligatures. A small period at the end of Atticus, like the end of a sentence, becomes the network's hallmark. The mark is used on covers, the printed program, and the brass plaque outside the studio.",
         "colorPalette": [
-          {"name": "Library Green", "hex": "#1E3A30", "meaning": "Bookbinding leather. Reading room walls.", "usage": "Primary brand color, signage, covers"},
-          {"name": "Cream Paper", "hex": "#EFE9DB", "meaning": "The page.", "usage": "Backgrounds, paper, web body"},
-          {"name": "Brass", "hex": "#A38454", "meaning": "Aged metal. The plaque outside.", "usage": "Foil, hardware, accents"},
-          {"name": "Ink", "hex": "#1A1A1B", "meaning": "Type.", "usage": "Body, headlines, structure"}
+          {
+            "name": "Library Green",
+            "hex": "#1E3A30",
+            "meaning": "Bookbinding leather. Reading room walls.",
+            "usage": "Primary brand color, signage, covers"
+          },
+          {
+            "name": "Cream Paper",
+            "hex": "#EFE9DB",
+            "meaning": "The page.",
+            "usage": "Backgrounds, paper, web body"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Aged metal. The plaque outside.",
+            "usage": "Foil, hardware, accents"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1B",
+            "meaning": "Type.",
+            "usage": "Body, headlines, structure"
+          }
         ],
         "typography": {
           "primary": "Canela Text for the wordmark and editorial",
@@ -92,7 +229,10 @@
           "rationale": "A high contrast serif sets the literary tone. A modern grotesk handles the digital surfaces. Each does its job and stays quiet."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No celebrity-host shows added for traffic. No mid-roll programmatic ads. No clip strategy on social media. No promotional discount codes."}
+          {
+            "title": "What it doesn't do",
+            "body": "No celebrity-host shows added for traffic. No mid-roll programmatic ads. No clip strategy on social media. No promotional discount codes."
+          }
         ],
         "sectionLabels": {
           "story": "Where this began",
@@ -105,6 +245,91 @@
           "logoDirection": "The mark",
           "colorPalette": "Palette",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "podcast-luxury-2",
+        "brandName": "Lyceum Audio",
+        "tagline": "Long-form lectures, recorded carefully.",
+        "brandNameRationale": "Lyceum is the ancient Greek school where Aristotle taught — the original setting for the long-form intellectual lecture. As a brand name it places the work firmly in the knowledge-tradition register. Audio is the plain category suffix. The pair reads as a serious audio house — closer to a publisher than to a network — in the lineage of small premium audio brands (Pushkin Industries in tone, Slate Plus Original Lectures, BBC Reith Lectures register).",
+        "story": "Lyceum Audio is a small audio publisher producing six long-form lecture series a year. Each series is twelve to twenty episodes, eighty minutes per episode, recorded with a single speaker in a treated room. Speakers are scholars, writers, and senior practitioners — never celebrities. Series are sold individually, not through subscription.",
+        "industrySummary": "Premium podcasting has been claimed by celebrity-host networks (Pushkin's Malcolm Gladwell shows, SmartLess, Conan O'Brien) but the long-form lecture tradition — the BBC Reith Lectures, the Massey Lectures, university-press audio — remains underserved as a commercial format. There is space for a small audio publisher producing long-form lectures from serious speakers.",
+        "competitorLandscape": "Pushkin Industries (pushkin.fm) is the prestige peer reference. The Great Courses (thegreatcourses.com) holds the lecture-format reference. BBC Sounds (bbc.co.uk/sounds) sits in the public-broadcaster peer position. Audible Originals (audible.com/originals) plays in the platform-publisher slot. We sit further out — six series a year, sold individually.",
+        "positioningStatement": "Lyceum Audio publishes six long-form lecture series per year, each from a single serious speaker, sold individually.",
+        "positioningRationale": "We do not run a subscription. We do not run a network. Each series is a discrete published work, like a book — researched, recorded, mastered, and released with a printed companion volume.",
+        "targetAudience": {
+          "primary": "Listeners 35–65 who read widely and listen to long-form material at a deliberate pace.",
+          "behaviors": [
+            "Read three or more books a month.",
+            "Listen to lectures while walking.",
+            "Buy audio works rather than subscribe.",
+            "Keep notes on what they listen to."
+          ],
+          "motivations": [
+            "Want serious material from named speakers.",
+            "Want depth at length.",
+            "Want to buy a work, not rent a service."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the speaker's name and the subject.",
+            "Publish the printed companion volume's table of contents.",
+            "Reference the recording location and date.",
+            "Send a printed annual catalog to past purchasers."
+          ],
+          "donts": [
+            "No celebrity hosting.",
+            "No 'binge-listen' marketing.",
+            "No promotional pricing.",
+            "No social-media-first show launches."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Six series a year",
+            "description": "Six series per year, twelve to twenty episodes each. We publish the annual catalog every January and we hold it."
+          },
+          {
+            "name": "Single speaker, treated room",
+            "description": "Every series is one speaker, recorded in a treated room over multiple sessions. We do not produce panel formats or co-hosted shows."
+          },
+          {
+            "name": "Printed companion",
+            "description": "Each series ships with a printed companion volume — the lecture transcripts, footnotes, and recommended reading. The companion is included with purchase."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Lyceum Audio set in a classical book serif, with a small Greek column mark beside it. The mark appears on the companion volumes and the audio cover art.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and printed companion.",
+            "usage": "Marketing, packaging."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The column mark, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, companion volumes, and marketing.",
+          "secondary": "An engraver's italic for series and episode titles.",
+          "rationale": "Letterpress register throughout. The audio brand and the printed companion share typography."
         }
       }
     ],
@@ -119,7 +344,12 @@
         "targetAudience": {
           "primary": "Adults who started listening to podcasts when there were only audio podcasts. They listen on a single app, in the background, while doing something else. They do not watch video clips."
         },
-        "brandPersonalityTraits": ["Plain", "Honest", "Patient", "Considered"],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Patient",
+          "Considered"
+        ],
         "voiceAndTone": {
           "dos": [
             "Use the smallest number of words",
@@ -134,9 +364,24 @@
         },
         "logoDirection": "A wordmark only. TAPE in a single weight grotesk, wide kerned, all caps. No icon. The app icon is the wordmark in a tight square. No animations. No play-button graphics. Audio only, even in the brand.",
         "colorPalette": [
-          {"name": "Ink", "hex": "#181818", "meaning": "Type and structure.", "usage": "Wordmark, body, all type"},
-          {"name": "Paper", "hex": "#F4F0E6", "meaning": "Used as space.", "usage": "Backgrounds, app, all neutrals"},
-          {"name": "Stone", "hex": "#C9C2B5", "meaning": "Secondary anchor.", "usage": "Dividers, secondary surfaces"}
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, app, all neutrals"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces"
+          }
         ],
         "typography": {
           "primary": "Neue Haas Grotesk",
@@ -144,7 +389,10 @@
           "rationale": "One face. The product is text, time, and play. Nothing decorative."
         },
         "customSections": [
-          {"title": "Not this", "body": "No video. No clips. No transcripts beyond what the show provides. No newsletter. No social media presence."}
+          {
+            "title": "Not this",
+            "body": "No video. No clips. No transcripts beyond what the show provides. No newsletter. No social media presence."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "Where we are",
@@ -156,6 +404,90 @@
           "logoDirection": "The mark",
           "colorPalette": "Color",
           "typography": "Type"
+        }
+      },
+      {
+        "id": "podcast-minimal-2",
+        "brandName": "Volume",
+        "tagline": "A podcast. Plainly.",
+        "brandNameRationale": "Volume is a real audio-vocabulary word — the magnitude of sound — and also the publishing word for a single book in a series. The double meaning is useful: the brand is both audio and published work. Single-word, archaic in everyday speech, immediately readable in context. Stands in the lineage of single-word minimal media brands (Quiet, The Slate, Editorial) without being literal.",
+        "manifesto": "Most podcasts pad. Three-minute pre-rolls, four-minute promos, six-minute intros explaining the format. We made Volume because the actual interesting thing is the conversation. We open the episode with the conversation. We close when the conversation ends. There is no ad break, no host welcome, no merchandise pitch. The whole episode is the volume.",
+        "industrySummary": "Most podcast hosting has accumulated production conventions — pre-roll, mid-roll, sponsor reads, host banter, format intros. There is real space for a minimal show that strips the format and trusts the content to do the work.",
+        "competitorLandscape": "Conversations with Tyler (conversationswithtyler.com) plays in the unedited-conversation peer space. The Tim Ferriss Show (tim.blog/podcast) holds the long-conversation reference with edits. EconTalk (econtalk.org) sits in the academic-conversation slot. We sit further out — fewer cuts, no intro, no outro.",
+        "positioningStatement": "Volume is an interview podcast that opens with the conversation and ends when it ends.",
+        "positioningRationale": "We strip the format. No intro music, no host welcome, no advertising, no closing pitch. The episode is the conversation, mastered once.",
+        "targetAudience": {
+          "primary": "Listeners who skip podcast intros and want the conversation.",
+          "behaviors": [
+            "Tap fast-forward through pre-roll.",
+            "Listen at 1.25x to 1.75x.",
+            "Subscribe to under ten podcasts at a time.",
+            "Hate sponsor reads."
+          ],
+          "motivations": [
+            "Want the conversation, not the format.",
+            "Want a show without ads.",
+            "Want a host who does not narrate the show in the middle of the show."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the guest's name as the episode title.",
+            "Skip intro music.",
+            "Open the episode with the conversation.",
+            "Close when the conversation ends."
+          ],
+          "donts": [
+            "No pre-roll.",
+            "No sponsor reads.",
+            "No host monologues.",
+            "No newsletter sign-up pitch at the end."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "No format",
+            "description": "The episode opens with the conversation. The conversation closes the episode. There is no intro, no outro, no advertising, no merch pitch."
+          },
+          {
+            "name": "Listener-funded",
+            "description": "The show is funded by listener support — one payment tier, published, on the website. No sponsors. No promotional pricing."
+          },
+          {
+            "name": "One episode a week",
+            "description": "We publish one episode a week, every Tuesday. No bonus content, no back catalogue rebranding, no Q&A specials."
+          }
+        ],
+        "logoDirection": "Volume set in a neutral grotesque, all lowercase, at small scale on the show cover and the website. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Site canvas.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Mark",
+            "hex": "#3D5BFF",
+            "meaning": "Single accent.",
+            "usage": "The play marker on the episode page."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "No second face.",
+          "rationale": "One typeface across the show cover, the episode page, and the support page."
         }
       }
     ],
@@ -176,7 +508,13 @@
             "One partner for strategy and production"
           ]
         },
-        "brandPersonalityTraits": ["Professional", "Capable", "Direct", "Steady", "Strategic"],
+        "brandPersonalityTraits": [
+          "Professional",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Strategic"
+        ],
         "voiceAndTone": {
           "dos": [
             "Lead with the outcome",
@@ -190,16 +528,45 @@
           ]
         },
         "messagingPillars": [
-          {"name": "Strategy first", "description": "We start with the business problem, not the production calendar."},
-          {"name": "Measurable outcomes", "description": "Audio campaigns measured against retention, brand recall, and conversion. Reported quarterly."},
-          {"name": "One partner across the audio stack", "description": "Sonic identity, branded podcasts, internal audio communications, and audio media buying under one contract."}
+          {
+            "name": "Strategy first",
+            "description": "We start with the business problem, not the production calendar."
+          },
+          {
+            "name": "Measurable outcomes",
+            "description": "Audio campaigns measured against retention, brand recall, and conversion. Reported quarterly."
+          },
+          {
+            "name": "One partner across the audio stack",
+            "description": "Sonic identity, branded podcasts, internal audio communications, and audio media buying under one contract."
+          }
         ],
         "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single sound wave reduced to three vertical bars at varying heights. Reads cleanly on procurement decks, name badges, and B2B trade shows.",
         "colorPalette": [
-          {"name": "Capital Navy", "hex": "#0F2238", "meaning": "Trust, scale, the boardroom.", "usage": "Logo, primary surfaces"},
-          {"name": "Cloud White", "hex": "#F4F6FA", "meaning": "Clean.", "usage": "Backgrounds, dashboards, slides"},
-          {"name": "Steel", "hex": "#5A6776", "meaning": "Structure, secondary.", "usage": "Body text, dividers"},
-          {"name": "Signal Teal", "hex": "#2A8B82", "meaning": "Audio accent. The waveform peaks.", "usage": "Highlights, charts, status indicators"}
+          {
+            "name": "Capital Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the boardroom.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean.",
+            "usage": "Backgrounds, dashboards, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body text, dividers"
+          },
+          {
+            "name": "Signal Teal",
+            "hex": "#2A8B82",
+            "meaning": "Audio accent. The waveform peaks.",
+            "usage": "Highlights, charts, status indicators"
+          }
         ],
         "typography": {
           "primary": "Inter for marketing and B2B materials",
@@ -207,7 +574,10 @@
           "rationale": "Inter scales clean across digital and B2B portals. The serif handles formal quarterly business reviews."
         },
         "customSections": [
-          {"title": "What it doesn't do", "body": "No consumer podcasts. No celebrity-hosted shows. No public Spotify charts. No content marketing strategy. The firm sells through enterprise procurement, not social media."}
+          {
+            "title": "What it doesn't do",
+            "body": "No consumer podcasts. No celebrity-hosted shows. No public Spotify charts. No content marketing strategy. The firm sells through enterprise procurement, not social media."
+          }
         ],
         "sectionLabels": {
           "industrySummary": "The category",
@@ -220,6 +590,91 @@
           "logoDirection": "Logo",
           "colorPalette": "Color system",
           "typography": "Typography"
+        }
+      },
+      {
+        "id": "podcast-corporate-2",
+        "brandName": "Sterling Audio Group",
+        "tagline": "Branded podcasts, audio strategy, and production services.",
+        "brandNameRationale": "Sterling is a real adjective meaning of high standard or genuine — historically referring to silver of certified quality. As a brand name it signals dependable trade quality without being literal about audio. Audio Group is the plain category structure that places the brand as a multi-service operator. The pair reads as an established mid-tier audio production house — the kind of vendor branded-podcast budgets actually go to (Pacific Content, Lower Street, JAR Audio).",
+        "manifesto": "Sterling Audio Group is a full-service audio production company providing branded podcast production, audio strategy, and end-to-end show development for corporate clients. The buyer is a head of brand, a CMO, or an internal communications lead. The contract is the year, often multi-year. The deliverable is a fully produced, distributed, measured podcast programme.",
+        "industrySummary": "Branded podcasting has matured into a recognized B2B service category dominated by a small number of specialist production agencies. The opening is for a serious mid-tier studio with strong narrative-production craft, measurable distribution outcomes, and the procurement-grade reliability enterprise marketing teams require.",
+        "competitorLandscape": "Pacific Content (pacific-content.com) is the branded-podcast reference. Lower Street (lowerstreet.co) holds the B2B branded peer slot. JAR Audio (jaraudio.com) sits in the production-services middle. Pineapple Street Studios (pineapple.fm) plays in the editorial-branded peer position. We belong with Pacific Content and Lower Street in the mid-tier branded-podcast category.",
+        "positioningStatement": "Sterling Audio Group is a full-service branded podcast production company serving corporate clients with strategy, production, distribution, and measurement.",
+        "positioningRationale": "We compete on narrative-production craft, distribution capability, and the operational reliability corporate clients require for sustained programmes.",
+        "targetAudience": {
+          "primary": "Heads of brand, CMOs, and internal communications leads at companies $200M–$10B revenue running content programmes.",
+          "behaviors": [
+            "Manage annual content marketing budgets of $500K–$10M.",
+            "Report on programme metrics to executive teams quarterly.",
+            "Run RFPs for new agency relationships every two to three years.",
+            "Care about narrative quality and distribution reach equally."
+          ],
+          "motivations": [
+            "Need a studio with both craft and distribution capability.",
+            "Need measurable outcomes against published targets.",
+            "Need a partner who can sustain a multi-year programme."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with show portfolio, distribution capability, and measurable outcomes.",
+            "Speak the language of brand and content marketing leads.",
+            "Publish quarterly case studies with actual download and engagement data.",
+            "Reference real client brands in case material."
+          ],
+          "donts": [
+            "No 'storytelling' clichés.",
+            "No press-release-led show launches.",
+            "No social-media-first marketing.",
+            "No promised reach without methodology."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Strategy and production",
+            "description": "Each engagement begins with audience and platform strategy, followed by show development, production, and distribution. The strategy and production team are the same team."
+          },
+          {
+            "name": "Measured outcomes",
+            "description": "Every show is launched with published download, engagement, and audience targets. We report against the targets quarterly."
+          },
+          {
+            "name": "Multi-year programmes",
+            "description": "Most engagements run multi-year. The first season is the proof; the third season is where the audience compounds."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Sterling set in a traditional book serif, with 'Audio Group' beneath in tracked small caps. Used in proposals, contracts, and on the studio's office door.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Silver",
+            "hex": "#C2C8CC",
+            "meaning": "Single accent — a sterling-metal tone.",
+            "usage": "Section marks, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and proposals.",
+          "secondary": "A clean enterprise grotesque for reports, dashboards, and operational documents.",
+          "rationale": "Tabular and disciplined. Numbers louder than adjectives."
         }
       }
     ],
@@ -235,7 +690,13 @@
         "targetAudience": {
           "primary": "25 to 45. Has strong opinions about media, sports, technology, or culture. Listens to two or three shows weekly. Tells friends to listen. Wears the merch."
         },
-        "brandPersonalityTraits": ["Loud", "Sharp", "Warm", "Confident", "Direct"],
+        "brandPersonalityTraits": [
+          "Loud",
+          "Sharp",
+          "Warm",
+          "Confident",
+          "Direct"
+        ],
         "voiceAndTone": {
           "dos": [
             "Make jokes",
@@ -250,11 +711,36 @@
         },
         "logoDirection": "A wordmark in a bold display serif with a slight forward lean, like the words are leaning into the conversation. Standalone open-mouth icon for stickers, social profiles, and tap handles at the live recording bar.",
         "colorPalette": [
-          {"name": "Talk Red", "hex": "#D7263D", "meaning": "Hot, loud, the on-air sign.", "usage": "Primary brand color, hero surfaces, stickers"},
-          {"name": "Cream", "hex": "#F4EFE2", "meaning": "Warm background.", "usage": "Backgrounds, paper, secondary"},
-          {"name": "Ink", "hex": "#181818", "meaning": "Anchor.", "usage": "Body type, structure, wordmark on light"},
-          {"name": "Highlighter", "hex": "#FFE93C", "meaning": "Punchline accent.", "usage": "Highlights, swag, episode covers"},
-          {"name": "Hot Pink", "hex": "#FF4D8D", "meaning": "Secondary accent. Used on alt-show covers.", "usage": "Secondary show branding"}
+          {
+            "name": "Talk Red",
+            "hex": "#D7263D",
+            "meaning": "Hot, loud, the on-air sign.",
+            "usage": "Primary brand color, hero surfaces, stickers"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm background.",
+            "usage": "Backgrounds, paper, secondary"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Anchor.",
+            "usage": "Body type, structure, wordmark on light"
+          },
+          {
+            "name": "Highlighter",
+            "hex": "#FFE93C",
+            "meaning": "Punchline accent.",
+            "usage": "Highlights, swag, episode covers"
+          },
+          {
+            "name": "Hot Pink",
+            "hex": "#FF4D8D",
+            "meaning": "Secondary accent. Used on alt-show covers.",
+            "usage": "Secondary show branding"
+          }
         ],
         "typography": {
           "primary": "Migra for the wordmark and big display",
@@ -262,8 +748,14 @@
           "rationale": "Migra has personality. Neue Montreal keeps the show titles readable. The pair feels designed and human."
         },
         "customSections": [
-          {"title": "What it isn't", "body": "Not a public radio network. Not afraid of red. Not too cool to put a quote on a tee."},
-          {"title": "Where it lives", "body": "Stickers on every laptop. Live recording nights at small bars in distribution cities. Hoodies that have the worst quote from the show on them. A weekly newsletter that's mostly listener emails."}
+          {
+            "title": "What it isn't",
+            "body": "Not a public radio network. Not afraid of red. Not too cool to put a quote on a tee."
+          },
+          {
+            "title": "Where it lives",
+            "body": "Stickers on every laptop. Live recording nights at small bars in distribution cities. Hoodies that have the worst quote from the show on them. A weekly newsletter that's mostly listener emails."
+          }
         ],
         "sectionLabels": {
           "manifesto": "Why we exist",
@@ -277,7 +769,103 @@
           "colorPalette": "The colors",
           "typography": "Type"
         },
-        "sectionOrder": ["manifesto", "industrySummary", "competitorLandscape", "positioning", "targetAudience", "personality", "voiceAndTone", "logoDirection", "colorPalette", "typography"]
+        "sectionOrder": [
+          "manifesto",
+          "industrySummary",
+          "competitorLandscape",
+          "positioning",
+          "targetAudience",
+          "personality",
+          "voiceAndTone",
+          "logoDirection",
+          "colorPalette",
+          "typography"
+        ]
+      },
+      {
+        "id": "podcast-creative-2",
+        "brandName": "Earshot Podcast Co.",
+        "tagline": "Shows you'd overhear in a good bar.",
+        "brandNameRationale": "Earshot is a real word for the distance within which a conversation can be heard — slightly literary, slightly intimate, immediately evocative of the eavesdropping pleasure good podcasts deliver. Podcast Co. is the plain category suffix. The pair reads as a small, warm production house with a clear point of view — closer in tone to Radiotopia or Pineapple Street than to a corporate network.",
+        "manifesto": "Most podcast networks chase scale. More shows, more genres, more downloads. We started Earshot because the actually good podcasts feel like overhearing a great conversation in a bar — specific, unhurried, with a clear point of view from a host you start to like. The network is small. The shows are warm. The conversations stay specific.",
+        "industrySummary": "Editorial podcast networks have proliferated. The opening is for a network with a tonal point of view — warm, conversational, slightly bar-room — that differentiates from both the polished prestige networks (Pushkin) and the genre-driven entertainment networks (Wondery).",
+        "competitorLandscape": "Radiotopia (radiotopia.fm) holds the indie-editorial peer slot. Pineapple Street Studios (pineapple.fm) plays in the warm-editorial middle. Defector (defector.com) sits in the journalist-owned peer position. The Ringer (theringer.com) is the conversational-network reference. We sit alongside Radiotopia with a stronger tonal identity.",
+        "positioningStatement": "Earshot Podcast Co. is a small editorial network producing warm, conversational shows with clear hosts and unhurried pacing.",
+        "positioningRationale": "The network competes on tone. Every show on the roster is selected for warmth, specificity, and host personality — not for category fit or download projections.",
+        "targetAudience": {
+          "primary": "Listeners 28–50 who follow specific hosts and value tone over genre.",
+          "behaviors": [
+            "Subscribe to under ten podcasts.",
+            "Listen at 1x, sometimes 1.25x.",
+            "Follow hosts on social media as friends.",
+            "Recommend shows to specific people, not generally."
+          ],
+          "motivations": [
+            "Want shows that feel like a friend's recommendation.",
+            "Want unhurried pacing.",
+            "Want hosts they can imagine having a drink with."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Conversational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the host's voice and a sample line from a recent episode.",
+            "Photograph the hosts in real places, not in studios.",
+            "Write show descriptions in the host's voice.",
+            "Publish a weekly handpicked-episodes letter."
+          ],
+          "donts": [
+            "No 'top shows' or genre tags.",
+            "No press-release show launches.",
+            "No glossy host portraits.",
+            "No platform-of-platforms positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Eight shows, all warm",
+            "description": "The network roster sits at eight shows. Every show is selected for tone — warm, specific, host-led — before format or topic."
+          },
+          {
+            "name": "Hosts as the brand",
+            "description": "Each host's social presence, newsletter, and live events sit under the network umbrella. The hosts are the marketing channel."
+          },
+          {
+            "name": "Weekly letter",
+            "description": "One letter a week, written by the network editor, recommending three episodes from across the network with a sentence each."
+          }
+        ],
+        "logoDirection": "A wordmark — Earshot Podcast Co. set in a quiet display serif with a small illustration of an ear in profile beside it. The illustration feels printed in a 1960s magazine.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — a warm bar-light off-white.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Brick",
+            "hex": "#7E2B1F",
+            "meaning": "Secondary — the colour of an old leather banquette.",
+            "usage": "Headings, show card borders."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The ear illustration, section marks."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and show titles.",
+          "secondary": "A book serif for show descriptions and the weekly letter.",
+          "rationale": "Two serifs. The brand reads like a small printed magazine of conversations."
+        }
       }
     ]
   }
