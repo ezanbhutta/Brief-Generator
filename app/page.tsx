@@ -2,6 +2,7 @@
 
 import { useState, FormEvent, useEffect } from "react";
 import BriefDisplay from "@/components/BriefDisplay";
+import Logo from "@/components/Logo";
 import { STYLES, type Brief, type Style } from "@/lib/generator";
 
 interface BriefResponse {
@@ -158,8 +159,10 @@ export default function HomePage() {
       {/* Top strip */}
       <div className="border-b border-ink/10">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-3 sm:px-8 text-[11px] uppercase tracking-[0.22em] text-ink/60">
-          <div className="flex items-center gap-2">
-            <span className="text-violet">✦</span>
+          <div className="flex items-center gap-2.5">
+            <span className="inline-flex h-7 w-7 items-center justify-center rounded-lg bg-violet">
+              <Logo size={20} color="#FFFFFF" />
+            </span>
             <span>Brand Briefs Co.</span>
             <span className="hidden sm:inline text-ink/30">— Est. 2026</span>
           </div>

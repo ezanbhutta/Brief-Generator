@@ -3,6 +3,7 @@
 import { useState } from "react";
 import type { Brief, Style, SectionKey } from "@/lib/generator";
 import { briefToPlainText, DEFAULT_SECTION_ORDER, DEFAULT_SECTION_TITLES } from "@/lib/generator";
+import Logo from "./Logo";
 
 interface Props {
   brief: Brief;
@@ -374,7 +375,7 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
       {/* Magazine cover-strip header */}
       <div className="border-b border-ink/10 bg-ink text-cream px-6 sm:px-10 py-4 flex items-center justify-between text-[11px] uppercase tracking-[0.24em]">
         <div className="flex items-center gap-3">
-          <span className="text-lavender">✦</span>
+          <Logo size={18} color="#C9BCFF" />
           <span>The Brief</span>
         </div>
         <div className="text-cream/70">
