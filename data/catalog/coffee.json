@@ -159,6 +159,101 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "Cortado & Co. delivers by:\n• Show the price and the wait\n• Speak in the language of the bar\n• Confirm orders in plain English"
+      },
+      {
+        "id": "coffee-modern-3",
+        "brandName": "Lever & Bean",
+        "tagline": "A modern espresso bar. Machine-led.",
+        "brandDescription": "Lever & Bean is a modern espresso bar specializing in lever-machine espresso preparation with single-origin beans roasted in-house.",
+        "scope": "Lever & Bean works across:\n• Lever-machine espresso preparation\n• Single-origin beans roasted in-house weekly\n• Small daily menu (four espresso drinks, two filter preparations)\n• Direct relationships with named producer farms\n• Annual coffee-and-producer report sent to subscribers",
+        "mission": "To prepare espresso at the standard of the traditional lever machine, with beans whose origin can be traced to a named farm.",
+        "vision": "A modern coffee bar whose espresso preparation is the standard reference for what a lever machine can produce.",
+        "coreValues": [
+          "Considered — the machine is part of the practice.",
+          "Specific — every bag names the farm.",
+          "Modern — espresso craft applied to a small bar format.",
+          "Warm — the bar is for the regulars."
+        ],
+        "brandNameRationale": "Lever names the espresso preparation tradition rooted in the manual lever machine; Bean is the coffee trade noun for the foundational raw material. Paired they ground the brand in the espresso craft tradition. Two-noun & paired naming follows the considered-modern coffee school (Cortado & Co, Almanac Brewing register).",
+        "manifesto": "Most modern coffee bars operate on volume-optimised superautomatic or semiautomatic machines. We started Lever & Bean because the lever machine — with the barista pulling the shot by hand — produces a different kind of espresso. The lever is the practice; the beans are the raw material; the barista is the work.",
+        "industrySummary": "Modern coffee has converged on volume-optimised espresso preparation. The opening is for a brand that competes on the espresso preparation craft itself — lever-machine practice, named producer farms, weekly in-house roasting.",
+        "competitorLandscape": "Sey Coffee (seycoffee.com) plays the closest peer in modern specialty roasting and bar operations. La Marzocco Home (lamarzocco.com) holds the machine-craft reference. Heart Coffee (heartroasters.com) sits in the modern roaster-bar peer position. Square Mile Coffee Roasters (shop.squaremilecoffee.com) plays the heritage modern specialty reference. We belong alongside Sey Coffee with a lever-machine specialization.",
+        "positioningStatement": "Lever & Bean is a modern espresso bar specializing in lever-machine preparation with single-origin beans roasted in-house.",
+        "positioningRationale": "We compete on espresso preparation craft and named-farm beans. The lever machine and the in-house roasting are the practice; the bar is the workshop.",
+        "targetAudience": {
+          "primary": "Coffee drinkers 28-50 who care about espresso preparation, machine type, and bean provenance.",
+          "behaviors": [
+            "Visit specialty coffee bars regularly and order espresso preparations.",
+            "Read about espresso machines and roasting.",
+            "Travel to specific roasters and bars.",
+            "Subscribe to coffee newsletters and magazines."
+          ],
+          "motivations": [
+            "Want espresso prepared on a lever machine.",
+            "Want beans from named producer farms.",
+            "Want a small bar with a clear craft focus."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Specific",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the machine, the bean, and the farm.",
+            "Publish weekly roasting schedules.",
+            "Reference producer farms by name and origin.",
+            "Sign correspondence by the head barista or roaster."
+          ],
+          "donts": [
+            "No 'lifestyle' coffee marketing.",
+            "No volume-optimised espresso positioning.",
+            "No promotional pricing.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Lever-machine espresso",
+            "description": "Every espresso drink is prepared on a lever machine by a trained barista. The lever practice is the brand."
+          },
+          {
+            "name": "In-house weekly roasting",
+            "description": "Beans are roasted in-house on a weekly schedule. Roasting dates are published; beans are sold from the bar the week of roasting."
+          },
+          {
+            "name": "Named producer farms",
+            "description": "All single-origin beans come from named producer farms. The farm, the region, and the harvest are documented on every bag."
+          }
+        ],
+        "logoDirection": "A wordmark — Lever & Bean set in a calm modern serif with a long ampersand. A small illustration of a lever-machine handle sits above the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Roast",
+            "hex": "#5C3F2A",
+            "meaning": "Primary — the colour of medium-roasted coffee.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Crema",
+            "hex": "#D8B66A",
+            "meaning": "Single accent — the colour of espresso crema.",
+            "usage": "Section marks, the machine illustration."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and roast notes.",
+          "secondary": "A book serif for the producer farm features.",
+          "rationale": "Two related serifs. The brand reads like a careful coffee publication."
+        }
       }
     ],
     "Luxury": [
@@ -320,6 +415,101 @@
           "Discreet — what happens in the room stays in the room."
         ],
         "scope": "The Hour delivers by:\n• Address the guest by surname\n• Speak softly in writing\n• Confirm orders the night before"
+      },
+      {
+        "id": "coffee-luxury-3",
+        "brandName": "The Wrenford Coffee Society",
+        "tagline": "A members-only coffee society. By election.",
+        "brandDescription": "The Wrenford Coffee Society is a heritage members-only coffee society operating one historic clubhouse with a coffee library, tasting rooms, and a small members' bar, in continuous operation since 1923.",
+        "scope": "The Wrenford Coffee Society works across:\n• Members-only coffee tasting rooms and library\n• Bi-annual member tastings of rare and limited-harvest coffees\n• Coffee education programmes for new members\n• Annual society dinner and member gatherings\n• Multi-generational membership inheritance",
+        "mission": "To operate a members coffee society in the heritage members-club tradition, indefinitely.",
+        "vision": "A society whose 150th anniversary in 2073 is celebrated by the descendants of the founding members.",
+        "coreValues": [
+          "Senior — the society's tradition is unbroken since 1923.",
+          "Discreet — member identity and society affairs stay private.",
+          "Considered — the membership is small by design.",
+          "Patient — coffee education and tradition outlast individual members."
+        ],
+        "brandNameRationale": "The Wrenford Coffee Society uses the definite-article + place-name + Society convention common to heritage members-only societies (The Royal Society, The Royal Society of Arts, The Royal Geographical Society). Wrenford is a real but small English place-name with a heritage register. The Society suffix places the brand firmly in the heritage members-society tradition.",
+        "manifesto": "The Wrenford Coffee Society was founded in 1923 by a small group of coffee enthusiasts who wanted a private setting for serious tasting and conversation. The society has remained in continuous operation through generations. Membership is by election. Many members are the children and grandchildren of past members. The society is small, slow to change, and exists primarily for its members.",
+        "industrySummary": "Heritage members-only societies dedicated to specific subjects (wine, coffee, tea, art) are a small but enduring tradition. There is space for a society operating in the original tradition — one clubhouse, membership by election, multi-generational membership.",
+        "competitorLandscape": "The Wine Society (thewinesociety.com) holds the closest peer in heritage members' subject societies. The Reform Club (reformclub.com) plays the heritage members-club peer position. The Coffee Quality Institute (coffeeinstitute.org) sits in the cofference-tradition peer slot. We belong with The Wine Society in the heritage members-subject-society tradition.",
+        "positioningStatement": "A heritage members-only coffee society operating one historic clubhouse since 1923 with a coffee library, tasting rooms, and capped election membership.",
+        "positioningRationale": "We do not extend the society. The membership is capped. New members are elected by the membership committee.",
+        "targetAudience": {
+          "primary": "Members of the existing roster, their family members eligible by inheritance, and a small number of newly-elected members each year.",
+          "behaviors": [
+            "Maintain coffee tasting practices across decades.",
+            "Care about clubhouse tradition and members' library.",
+            "Attend annual society dinners and bi-annual tastings.",
+            "Inherit membership from parents and grandparents."
+          ],
+          "motivations": [
+            "Want a society with deep coffee tradition.",
+            "Want multi-generational membership.",
+            "Want a clubhouse and library dedicated to coffee."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address members by surname.",
+            "Sign correspondence by the society secretary.",
+            "Reference the society's founding year and historic members.",
+            "Print the annual journal on heavy paper."
+          ],
+          "donts": [
+            "No public marketing.",
+            "No social-media presence.",
+            "No promotional membership pricing.",
+            "No commercial partnerships."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One clubhouse",
+            "description": "The society operates from one historic clubhouse, in continuous use since 1923. We do not open a second."
+          },
+          {
+            "name": "Election membership",
+            "description": "New members are elected by the membership committee. Family inheritance is the most common path; new elections are infrequent."
+          },
+          {
+            "name": "Coffee library",
+            "description": "The society maintains a library of coffee history, tasting notes, and producer correspondence dating to the founding year. The library is available to members."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Wrenford Coffee Society set in a classical book serif with a small embossed crest depicting the clubhouse façade. The crest appears on member correspondence, the annual journal, and the brass clubhouse door plate.",
+        "colorPalette": [
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Primary — the colour of the society's heritage livery.",
+            "usage": "Crest, signage, member correspondence."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Annual journal, letterhead."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The clubhouse plate, embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, journal, and letterhead.",
+          "secondary": "An engraver's italic for member names in the annual journal.",
+          "rationale": "Letterpress register throughout. The society communicates primarily in print."
+        }
       }
     ],
     "Minimal": [
@@ -464,6 +654,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Demitasse delivers by:\n• Show the price\n• Confirm orders in one word\n• Use plain English"
+      },
+      {
+        "id": "coffee-minimal-3",
+        "brandName": "Crema",
+        "tagline": "A small espresso bar. One drink.",
+        "brandDescription": "Crema is a minimal espresso bar serving one espresso preparation at a single fixed price, with no menu, no milk drinks, and no second offering.",
+        "scope": "Crema works across:\n• A single espresso preparation served as the only offering\n• Plain published per-shot pricing\n• Drop-in counter service only\n• No seating, no menu, no milk drinks\n• Annual single-page operations report",
+        "mission": "To serve one good espresso shot, plainly, at a published price.",
+        "vision": "A small espresso bar whose 100th day of operation runs the same single offering as day one.",
+        "coreValues": [
+          "Plain — one drink, one price.",
+          "Direct — the shot is the offering.",
+          "Considered — every shot is pulled the same way."
+        ],
+        "brandNameRationale": "Crema is the espresso trade word for the fine foam that forms on a well-pulled shot — single archaic trade word, deeply specific to espresso. Single-word naming follows the modern minimal coffee school (Demitasse, Cortado register).",
+        "manifesto": "Most coffee bars have grown into menus of twenty drinks across multiple sizes and milk preparations. We made Crema because the actual best small coffee bar serves one good espresso shot, prepared the same way every time. One drink. One price. Counter service. No menu.",
+        "industrySummary": "Coffee bars have expanded into broad menus with multiple milk preparations and food options. There is real space for a minimal bar that strips the offering to a single espresso shot.",
+        "competitorLandscape": "Italian espresso bars (countless examples in Rome, Milan, Naples) play the heritage reference for single-offering espresso. Stumptown's standing-bar locations (stumptowncoffee.com) hold the modern minimal peer slot. Sant'Eustachio Il Caffè (santeustachioilcaffe.com) is the heritage Roman reference. We sit further out — one drink only, no milk, no menu.",
+        "positioningStatement": "Crema is an espresso bar serving one espresso preparation at a single fixed per-shot price.",
+        "positioningRationale": "We strip the menu to one drink. No milk. No food. No seating. The shot is the offering.",
+        "targetAudience": {
+          "primary": "Espresso drinkers who order the same drink every visit and want a simple counter-service experience.",
+          "behaviors": [
+            "Drink espresso without milk.",
+            "Visit espresso bars for the drink, not for seating.",
+            "Skip menus in favour of habitual orders.",
+            "Want fast counter service."
+          ],
+          "motivations": [
+            "Want one good espresso shot.",
+            "Want fixed pricing.",
+            "Want a small bar with no menu pressure."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the espresso preparation and price on the home page.",
+            "Show one photograph of the bar counter.",
+            "Skip menu marketing.",
+            "Sign correspondence with the bar name only."
+          ],
+          "donts": [
+            "No milk drinks.",
+            "No food.",
+            "No seating areas.",
+            "No menu boards."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One drink",
+            "description": "The bar serves one espresso preparation. We do not offer cappuccino, latte, americano, or filter coffee."
+          },
+          {
+            "name": "Fixed price",
+            "description": "Single published price per shot. No size variants. No flavour syrups."
+          },
+          {
+            "name": "Counter service",
+            "description": "Drop-in counter service only. No seating. No table service. Visit length is intentional."
+          }
+        ],
+        "logoDirection": "Crema set in a neutral grotesque, all lowercase, at small scale on the counter sign and the receipt. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Crema",
+            "hex": "#D8B66A",
+            "meaning": "Primary — the colour of espresso crema.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Roast",
+            "hex": "#3D2418",
+            "meaning": "Type and bar surface.",
+            "usage": "All copy, counter finish."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface across the counter sign, the receipt, and the website."
+        }
       }
     ],
     "Corporate": [
@@ -662,6 +945,101 @@
           "Steady — a core principle the brand operates by."
         ],
         "scope": "Wayfield Coffee Co. works across:\n• One vendor across the program\n• Predictable monthly billing\n• Quality on the cup"
+      },
+      {
+        "id": "coffee-corporate-3",
+        "brandName": "Wexford Coffee Holdings",
+        "tagline": "Multi-brand coffee operator.",
+        "brandDescription": "Wexford Coffee Holdings operates a portfolio of coffee brands across cafe chains, roastery operations, wholesale supply, and consumer-packaged coffee categories.",
+        "scope": "Wexford Coffee Holdings works across:\n• Multi-brand cafe and roastery operations\n• Shared green-coffee procurement and sourcing\n• Wholesale supply to independent cafes and hospitality clients\n• Consumer-packaged coffee distribution\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier coffee brands that want to keep their identity and outsource the operations.",
+        "vision": "A coffee operator whose portfolio brands grow under their own names because the green-coffee sourcing and operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — green-coffee sourcing runs on schedule.",
+          "Reliable — predictable supply across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Wexford is a real Irish place-name with a heritage trade register. Coffee Holdings follows the multi-brand operator naming convention used in coffee (JAB Holding, JDE Peet's, Nestlé Coffee structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Wexford Coffee Holdings owns and operates a portfolio of coffee brands. Each brand retains its identity, roasting style, and customer relationships; we operate the shared green-coffee procurement, wholesale operations, and back office. The buyer is a coffee brand founder considering sale, a hospitality operator seeking single-vendor coffee relationships, or an institutional investor holding coffee assets.",
+        "industrySummary": "Coffee has consolidated under a small number of large multi-brand operators (JAB Holding, JDE Peet's, Nestlé Coffee, Starbucks). The opening underneath is for a regional mid-tier multi-brand operator with deep green-coffee sourcing and the procurement-grade reliability hospitality clients and institutional investors require.",
+        "competitorLandscape": "JAB Holding (jabholco.com) is the multi-brand coffee reference at scale. JDE Peet's (jdepeets.com) holds the multi-brand consumer coffee peer slot. Nestlé Coffee (nestle.com) sits in the multi-brand consumer peer position. Stumptown's parent and Counter Culture's structure play regional peer references. We belong in the regional mid-tier multi-brand coffee operator category.",
+        "positioningStatement": "Wexford Coffee Holdings is a regional multi-brand coffee operator running shared green-coffee procurement, wholesale operations, and consumer distribution across a portfolio of brands.",
+        "positioningRationale": "We compete on shared green-coffee sourcing depth, wholesale infrastructure, and the procurement-grade reliability brand founders and hospitality clients need.",
+        "targetAudience": {
+          "primary": "Coffee brand founders considering sale, hospitality operators seeking single-vendor coffee relationships, and institutional investors holding coffee-category assets.",
+          "behaviors": [
+            "Review brand unit economics and roastery throughput.",
+            "Negotiate multi-year wholesale and hospitality supply agreements.",
+            "Care about green-coffee sourcing, lead times, and quality consistency.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared green-coffee sourcing.",
+            "Need to keep brand identity post-acquisition.",
+            "Need a single-vendor multi-brand coffee relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, sourcing footprint, and wholesale record.",
+            "Speak the language of brand founders, hospitality operators, and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Wexford tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight coffee brands across cafe, roastery, wholesale, and packaged categories. Each retains its identity."
+          },
+          {
+            "name": "Shared green-coffee sourcing",
+            "description": "Centralized green-coffee procurement across the portfolio. Brands share producer relationships and sourcing terms."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for green-coffee scale and operational depth without losing roasting direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Wexford set in a traditional book serif, with 'Coffee Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and sourcing documentation.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -842,6 +1220,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "The Slow Pour delivers by:\n• Photograph the cup next to whatever the customer is having with it\n• Quote real morning routines\n• Talk like the person who already knows the order"
+      },
+      {
+        "id": "coffee-creative-3",
+        "brandName": "The First Pour Co",
+        "tagline": "A coffee brand for the first cup of the day.",
+        "brandDescription": "The First Pour Co is a creative-led coffee brand specializing in coffee designed and roasted specifically for the morning's first cup, with seasonal blends and a published roast-for-first-pour philosophy.",
+        "scope": "The First Pour Co works across:\n• Coffee blends roasted specifically for first-cup use\n• Seasonal varietal blends matched to first-pour brewing methods\n• Quarterly published essays on morning ritual and coffee\n• Subscription delivery timed to the customer's regular pour schedule\n• Brewing guides for first-pour preparation",
+        "mission": "To roast coffee specifically for the morning's first cup — the one that wakes the household.",
+        "vision": "A coffee brand whose first-pour blends become the standard reference for considered morning coffee.",
+        "coreValues": [
+          "Warm — the morning is the work.",
+          "Specific — every blend is roasted for the first pour.",
+          "Considered — brewing guides accompany every bag.",
+          "Literary — the writing about morning coffee is part of the brand."
+        ],
+        "brandNameRationale": "The First Pour is a real coffee phrase for the morning's first preparation — the first pour-over, the first espresso, the first cup. The definite article + Co suffix follows the considered-creative trade-name school. Stands in the lineage of declarative coffee brands with a clear creative position (The Slow Pour, Counter Culture's morning blends, Onyx's seasonal program).",
+        "manifesto": "Most coffee is roasted for general use. We started The First Pour Co because the actual best cup of the day is the first one — the one before the household wakes, the one over the morning paper, the one that starts the work. We roast coffee designed for that specific cup. The first pour is the brand.",
+        "industrySummary": "Coffee marketing emphasizes broad-use blends. There is real space for a creative-led brand that positions specifically on the morning first-cup use case with blends, brewing guides, and ritual documentation built around it.",
+        "competitorLandscape": "Onyx Coffee Lab (onyxcoffeelab.com) plays the closest peer in considered modern coffee with strong seasonal programs. Counter Culture Coffee (counterculturecoffee.com) holds the considered-modern peer slot. Heart Coffee (heartroasters.com) sits in the morning-coffee considered peer position. Tandem Coffee Roasters (tandemcoffee.com) plays the small-roaster peer reference. We sit alongside Onyx with a sharper morning-first-pour creative position.",
+        "positioningStatement": "The First Pour Co is a coffee brand roasting and selling blends designed specifically for the morning's first cup.",
+        "positioningRationale": "The brand competes on the use-case position. Every blend, every brewing guide, and every published essay is built around the morning's first cup.",
+        "targetAudience": {
+          "primary": "Coffee drinkers 30-55 who care about the morning ritual and want coffee designed for their first cup rather than for general use.",
+          "behaviors": [
+            "Brew coffee at home in the morning.",
+            "Care about the specific ritual of the morning's first cup.",
+            "Subscribe to coffee delivery services.",
+            "Read coffee writing and brewing guides."
+          ],
+          "motivations": [
+            "Want coffee roasted specifically for the morning.",
+            "Want a brand that respects the ritual.",
+            "Want brewing guides for the first pour."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the quarterly essay on morning ritual and coffee.",
+            "Reference the brewing method by name in every blend's description.",
+            "Photograph mornings, not lattes.",
+            "Sign correspondence by the head roaster."
+          ],
+          "donts": [
+            "No 'all-day coffee' marketing.",
+            "No espresso-only positioning.",
+            "No lifestyle photography unrelated to mornings.",
+            "No 'one-cup-fits-all' messaging."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Roasted for first pour",
+            "description": "Every blend is roasted with the morning's first cup in mind — flavour balance, body, and acidity tuned for the morning palate."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "Once a quarter the brand publishes a long-form essay on morning ritual and coffee. The essay is the brand's primary marketing artefact."
+          },
+          {
+            "name": "Brewing guides",
+            "description": "Each blend ships with a brewing guide specifically for first-pour preparation. The guides reference the brewing method, water temperature, and grind size."
+          }
+        ],
+        "logoDirection": "A wordmark — The First Pour Co set in a quiet display serif with a small illustration of a pour-over kettle beside it. The mark feels printed on the back of a coffee bag.",
+        "colorPalette": [
+          {
+            "name": "Roast",
+            "hex": "#5C3F2A",
+            "meaning": "Primary — the colour of medium-roasted coffee.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Morning",
+            "hex": "#D89B7E",
+            "meaning": "Single accent — the warm peach of dawn light.",
+            "usage": "Section marks, the kettle illustration."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A book serif for brewing guides and blend descriptions.",
+          "rationale": "Two related serifs. The brand reads like a small printed publication on morning coffee."
+        }
       }
     ]
   }
