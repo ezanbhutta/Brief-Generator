@@ -76,6 +76,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "ARM delivers by:\n• Show real deployments with real customers\n• Lead with cycle times and uptime\n• Speak to the plant manager who'll deploy it"
+      },
+      {
+        "id": "robotics-modern-2",
+        "brandName": "Gantry Robotics",
+        "tagline": "A modern robotics company. Production-floor focused.",
+        "brandDescription": "Gantry Robotics is a modern industrial robotics company building gantry-mounted automation systems for small-batch manufacturing, with a focus on flexible reconfiguration between production runs.",
+        "scope": "Gantry Robotics works across:\n• Gantry-mounted robotic automation systems for production floors\n• Flexible reconfiguration tooling for small-batch manufacturing\n• Onsite engineering integration services\n• Long-term service contracts for installed systems\n• Open-source firmware for the motion-control layer",
+        "mission": "To make industrial robotics work for the small-batch manufacturer who cannot afford a custom integration cycle.",
+        "vision": "A robotics company whose systems are still running production lines twenty years after installation, on the same firmware lineage.",
+        "coreValues": [
+          "Direct — the integration timeline is published.",
+          "Technical — reconfiguration time is measured and published.",
+          "Modern — small-batch manufacturers are first-class customers.",
+          "Reliable — installed systems are supported for the contract duration."
+        ],
+        "brandNameRationale": "Gantry is the foundational industrial-automation trade word for the overhead bridge structure that mounts robots and tooling above a production floor. Single archaic trade word + Robotics category suffix. Stands in the lineage of trade-vocabulary modern robotics naming (Boston Dynamics, Universal Robots, Yaskawa register).",
+        "manifesto": "Most industrial robotics is sold to high-volume automotive and electronics plants where custom integration cycles are normal. We started Gantry Robotics for the small-batch manufacturer — the medical-device maker, the aerospace subassembly shop, the specialty foundry — that needs flexible automation without a six-month integration project.",
+        "industrySummary": "Industrial robotics has matured around high-volume manufacturing automation. The opening is for a modern robotics company focused on small-batch manufacturers with flexible reconfiguration tooling and a service-contract revenue model.",
+        "competitorLandscape": "Universal Robots (universal-robots.com) plays the closest peer in collaborative-robotics for small manufacturers. Yaskawa (yaskawa-global.com) holds the multi-application industrial peer slot. ABB Robotics (abb.com) sits in the industrial automation reference. FANUC (fanuc.com) plays the manufacturing automation peer reference. We belong alongside Universal Robots with a stronger small-batch focus.",
+        "positioningStatement": "Gantry Robotics is a modern industrial robotics company building gantry-mounted automation systems for small-batch manufacturers with flexible reconfiguration tooling.",
+        "positioningRationale": "We compete on reconfiguration speed and integration time. Systems are designed to move between production runs in hours rather than weeks.",
+        "targetAudience": {
+          "primary": "Operations directors and manufacturing engineers at small-batch manufacturers in medical devices, aerospace subassembly, specialty foundry, and contract electronics.",
+          "behaviors": [
+            "Manage production runs of 100-10,000 units.",
+            "Run multiple product lines on shared equipment.",
+            "Care about reconfiguration time between runs.",
+            "Renew on multi-year service contracts."
+          ],
+          "motivations": [
+            "Need automation that handles small-batch runs.",
+            "Need fast reconfiguration between products.",
+            "Need a vendor with long-term service commitment."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Technical",
+          "Modern",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the reconfiguration time and the integration timeline.",
+            "Publish customer case studies with actual production-run metrics.",
+            "Reference open-source firmware repository activity.",
+            "Sign release notes by the engineer who shipped the feature."
+          ],
+          "donts": [
+            "No 'industry 4.0' marketing.",
+            "No 'AI-powered' positioning where the AI is not real.",
+            "No press-release-led launches.",
+            "No vague benefit copy."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Flexible reconfiguration",
+            "description": "Systems are designed to reconfigure between production runs in hours, not weeks. Tooling change-outs and program switches are first-class."
+          },
+          {
+            "name": "Onsite engineering integration",
+            "description": "Every installation includes onsite engineering integration with the customer's manufacturing team. The integration is the deliverable, not the system alone."
+          },
+          {
+            "name": "Long-term service contracts",
+            "description": "Standard service contracts run five to ten years with predictable maintenance schedules. We support installed systems for the duration."
+          }
+        ],
+        "logoDirection": "A wordmark — Gantry Robotics set in a precise modern grotesque with a small geometric mark suggesting a gantry bridge structure. The mark appears on system enclosures and the company's documentation.",
+        "colorPalette": [
+          {
+            "name": "Steel",
+            "hex": "#7C7B7A",
+            "meaning": "Primary — the colour of industrial equipment.",
+            "usage": "Wordmark, system labels."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Signal",
+            "hex": "#FF6B3D",
+            "meaning": "Single accent — the orange of safety markings.",
+            "usage": "Status indicators, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark and system documentation.",
+          "secondary": "JetBrains Mono for firmware code and motion-control logs.",
+          "rationale": "The grotesque is the system; the mono is the firmware."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Mowbray Robotics delivers by:\n• Address the engineer by surname\n• Name the tolerances, the materials, the maker\n• Send paper service letters"
+      },
+      {
+        "id": "robotics-luxury-2",
+        "brandName": "Bremner & Reed Robotics",
+        "tagline": "A small heritage robotics engineering partnership.",
+        "brandDescription": "Bremner & Reed Robotics is a small senior robotics engineering partnership designing and building custom robotic systems for research institutions, capital-equipment manufacturers, and specialty industrial customers.",
+        "scope": "Bremner & Reed Robotics works across:\n• Custom robotic systems for research institutions and specialty industrial customers\n• Heritage motion-control system design and implementation\n• Long-term consulting engagements with capital-equipment manufacturers\n• Onsite engineering across multi-year deployment timelines\n• Annual partnership symposium for past and current clients",
+        "mission": "To design and build robotic systems at the standard of the heritage instrument-making tradition.",
+        "vision": "A partnership whose systems from 1995 are still in research operation in 2035.",
+        "coreValues": [
+          "Senior — the partners do the work.",
+          "Discreet — engagements stay private.",
+          "Considered — custom design, no productized systems.",
+          "Patient — multi-decade engagements are the norm."
+        ],
+        "brandNameRationale": "Bremner and Reed are real surnames common in the engineering and instrument-making tradition. Paired with Robotics, the format signals a small partner-led engineering practice in the heritage instrument-maker convention (Brüel & Kjær, Carl Zeiss, Leica's founding-era register).",
+        "manifesto": "Most robotics work is sold as productized systems. Bremner & Reed Robotics was founded as a two-partner engineering practice — design and build of custom robotic systems for clients who need exactly what they need. The partners are on every project from feasibility to commissioning. The engagement model is consulting, not product.",
+        "industrySummary": "Premium custom robotics engineering is rare and dominated by large integration firms (Rockwell Automation, Mitsubishi Electric Automation). There is space for the small partner-led custom robotics engineering practice operating in the heritage instrument-making tradition.",
+        "competitorLandscape": "Boston Engineering (boston-engineering.com) holds the closest peer slot in custom robotics engineering. Re2 Robotics (re2.com, now part of Sarcos) plays the custom heritage peer position. Energid Technologies (energid.com) sits in the custom motion-control peer slot. Cyberbotics (cyberbotics.com) plays the engineering-services reference. We belong with the small senior partnerships in the custom-robotics tradition.",
+        "positioningStatement": "A small senior robotics engineering partnership designing and building custom robotic systems for research and specialty industrial customers, with the partners on every project.",
+        "positioningRationale": "We do not extend the partnership. The two partners are the engineering team. Engagements are accepted by referral; relationships span multi-year deployment timelines.",
+        "targetAudience": {
+          "primary": "Research institution principal investigators, capital-equipment R&D leads, and specialty industrial customers needing custom robotic systems.",
+          "behaviors": [
+            "Engage robotics engineers by personal referral.",
+            "Sit through design reviews in person.",
+            "Care about engineering precision and long-term system serviceability.",
+            "Renew with the same firm across multiple system generations."
+          ],
+          "motivations": [
+            "Need custom robotics design from named senior engineers.",
+            "Need a firm whose previous systems are still in operation decades later.",
+            "Need a relationship that survives multi-year deployment timelines."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname.",
+            "Sign correspondence by the named partner.",
+            "Reference past engagements by year and system type.",
+            "Print all material communications."
+          ],
+          "donts": [
+            "No press marketing.",
+            "No publicly-traded peer comparisons.",
+            "No social-media presence beyond a single project archive.",
+            "No conference-keynote presence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Two-partner partnership",
+            "description": "The engineering work is done by the two partners. There is no associate layer."
+          },
+          {
+            "name": "Custom-design engagements",
+            "description": "Every engagement is a custom design. We do not sell productized systems."
+          },
+          {
+            "name": "Multi-decade system arcs",
+            "description": "Many of our installed systems are still in operation decades after commissioning. We continue to support them."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Bremner & Reed Robotics set in a classical book serif with a long ampersand. Letterhead register. Used on engagement letters and the office brass plate.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Letterhead.",
+            "usage": "All correspondence."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body of letters."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The office brass plate only."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif on letterhead and signage.",
+          "secondary": "An engraver's italic for the partnership name on the brass plate.",
+          "rationale": "Letterpress and engraver's register only."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "MOTION delivers by:\n• Show the cycle time, payload, reach, repeatability\n• Document every API call\n• Use plain English where plain English will do"
+      },
+      {
+        "id": "robotics-minimal-2",
+        "brandName": "Servo",
+        "tagline": "A small robotics company. One actuator.",
+        "brandDescription": "Servo is a minimal robotics company shipping a single line of high-precision servo motors and controllers for educational, research, and small-batch industrial applications.",
+        "scope": "Servo works across:\n• A single product line of high-precision servo motors\n• Compatible controllers and software libraries\n• Plain published per-unit pricing\n• Direct sales without distributor markup\n• Annual single-page company report",
+        "mission": "To make one excellent servo motor and keep making it.",
+        "vision": "A motor company whose servos are still installed in laboratories and small production lines in 2040, on the same product line.",
+        "coreValues": [
+          "Plain — one motor line.",
+          "Direct — direct sales, no distributors.",
+          "Technical — specifications are published."
+        ],
+        "brandNameRationale": "Servo is the foundational robotics trade word for the closed-loop position-controlled motor — single archaic trade word, deeply specific to motion control and robotics. Single-word naming follows the modern minimal robotics school (Maxon Motor, Tinkerforge register).",
+        "manifesto": "Most robotics suppliers carry hundreds of motor types across many specifications. We made Servo because the actual best motor company makes one excellent servo line and improves it across decades. One line. Compatible controllers. Open software libraries. No second product line.",
+        "industrySummary": "Robotics components are sold through large catalog distributors. There is real space for a focused single-product motor company committed to one excellent line with long-term product continuity.",
+        "competitorLandscape": "Maxon Motor (maxongroup.com) is the heritage precision-motor reference. Faulhaber (faulhaber.com) holds the heritage micro-motor peer slot. Tinkerforge (tinkerforge.com) sits in the considered-modern modular-components peer position. Pololu (pololu.com) plays the educational-robotics components peer reference. We sit further out — one motor line, direct sales.",
+        "positioningStatement": "Servo is a focused robotics motor company shipping a single line of high-precision servo motors with compatible controllers and open software libraries.",
+        "positioningRationale": "We strip the catalog to one product line. Compatible controllers and libraries. Direct sales. No second line.",
+        "targetAudience": {
+          "primary": "Researchers, educators, and small-batch industrial customers building robotic systems who need precision motors with long-term availability.",
+          "behaviors": [
+            "Build custom robotic systems for research or production.",
+            "Care about motor specifications and long-term availability.",
+            "Read motor datasheets and torque curves.",
+            "Re-order from suppliers with product continuity."
+          ],
+          "motivations": [
+            "Want a focused motor company.",
+            "Want long-term product continuity.",
+            "Want direct sales without distributor markup."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Technical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish complete motor specifications.",
+            "Show one photograph of the motor.",
+            "Skip product expansion marketing.",
+            "Sign release notes by the engineer."
+          ],
+          "donts": [
+            "No second product line.",
+            "No distributor partnerships.",
+            "No promotional pricing.",
+            "No 'innovative breakthrough' marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One motor line",
+            "description": "The product is a single line of high-precision servo motors. We do not add stepper motors, brushed motors, or adjacent product lines."
+          },
+          {
+            "name": "Compatible controllers",
+            "description": "Companion controllers and software libraries match the motor specifications. The motor and the controller are designed together."
+          },
+          {
+            "name": "Long-term availability",
+            "description": "Every product is committed to a published minimum availability period of fifteen years from first ship."
+          }
+        ],
+        "logoDirection": "Servo set in JetBrains Mono, all lowercase, at small scale on motor labels and documentation. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Steel",
+            "hex": "#7C7B7A",
+            "meaning": "Primary — the colour of motor housing.",
+            "usage": "Wordmark, motor labels."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Documentation, marketing surfaces."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Active states, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "JetBrains Mono for the wordmark, motor labels, and documentation.",
+          "secondary": "Same family for specifications and software references.",
+          "rationale": "One typeface across the product, the labels, and the documentation."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Caldwell Robotics Co. works across:\n• Engineering depth\n• Multi-year service support\n• One partner across phases"
+      },
+      {
+        "id": "robotics-corporate-2",
+        "brandName": "Pelham Robotics Holdings",
+        "tagline": "Multi-brand industrial robotics operator.",
+        "brandDescription": "Pelham Robotics Holdings operates a portfolio of industrial robotics, automation, and motion-control brands serving manufacturing, logistics, and research customers.",
+        "scope": "Pelham Robotics Holdings works across:\n• Multi-brand industrial robotics operations\n• Shared engineering services and integration capacity\n• Enterprise contracting with large manufacturers and logistics operators\n• Shared supply-chain and component manufacturing\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier industrial robotics brands that want to keep their identity and outsource the operations.",
+        "vision": "A robotics operator whose portfolio brands grow under their own names because the engineering services and supply chain are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — engineering services run on schedule.",
+          "Reliable — predictable system serviceability across brands.",
+          "Discreet — brand and customer relationships stay private."
+        ],
+        "brandNameRationale": "Pelham is a real American place-name with a heritage industrial register. Robotics Holdings follows the multi-brand operator naming convention used in industrial automation (Emerson Electric, Honeywell Automation, Rockwell Automation structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Pelham Robotics Holdings owns and operates a portfolio of industrial robotics and automation brands. Each brand retains its identity, engineering leadership, and customer relationships; we operate the shared engineering services, supply chain, and back office. The buyer is a brand founder considering sale, a manufacturer seeking single-vendor automation relationships, or an institutional investor holding robotics-category assets.",
+        "industrySummary": "Industrial robotics has consolidated under a small number of large multi-brand operators (Emerson Electric, Honeywell, Rockwell Automation, Yaskawa Electric). The opening underneath is for a regional mid-tier multi-brand operator with deep engineering services and the procurement-grade reliability manufacturers and logistics operators require.",
+        "competitorLandscape": "Rockwell Automation (rockwellautomation.com) is the multi-brand industrial automation reference. Emerson Electric (emerson.com) holds the multi-category industrial peer slot. Yaskawa Electric (yaskawa-global.com) sits in the industrial-robotics multi-brand peer position. Honeywell (honeywell.com) plays the multi-brand industrial peer reference. We belong in the regional mid-tier multi-brand industrial-robotics operator category.",
+        "positioningStatement": "Pelham Robotics Holdings is a regional multi-brand industrial robotics operator running engineering services, supply chain, and enterprise contracting across a portfolio of brands.",
+        "positioningRationale": "We compete on shared engineering capacity, supply-chain depth, and the procurement-grade reliability manufacturers and institutional investors require for multi-year operating relationships.",
+        "targetAudience": {
+          "primary": "Industrial robotics brand founders considering sale, manufacturing operations leads seeking consolidated automation supplier relationships, and institutional investors holding robotics assets.",
+          "behaviors": [
+            "Manage multi-vendor industrial automation relationships.",
+            "Negotiate multi-year supply and service agreements.",
+            "Care about engineering capacity, supply continuity, and system serviceability.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared engineering capacity.",
+            "Need to keep brand identity post-acquisition.",
+            "Need a single-vendor multi-brand industrial-automation relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, engineering capacity, and customer record.",
+            "Speak the language of brand founders, manufacturing operators, and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Pelham tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight industrial robotics and automation brands. Each retains its identity and engineering direction."
+          },
+          {
+            "name": "Shared engineering services",
+            "description": "Centralized engineering services across the portfolio. Brands share integration capacity, field service, and back office under a single operations team."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for engineering scale and supply-chain depth without losing engineering direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Pelham set in a traditional book serif, with 'Robotics Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and engineering documentation.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "Joint & Pivot delivers by:\n• Show the safety envelope, the limits, the documentation\n• Make jokes about robotics hype\n• Talk like the engineer who has done the safety review"
+      },
+      {
+        "id": "robotics-creative-2",
+        "brandName": "The Assembly Floor Co",
+        "tagline": "A robotics brand for the people who walk the floor.",
+        "brandDescription": "The Assembly Floor Co is a creative-led industrial robotics brand designing robots that work alongside human operators on assembly floors, with hardware deliberately built to be visible, audible, and reconfigurable by the floor team.",
+        "scope": "The Assembly Floor Co works across:\n• Collaborative robots designed for human-operated assembly floors\n• Reconfiguration tooling operable by floor-team members, not just engineers\n• Visible-status hardware (lights, audible cues, mechanical indicators)\n• Educational programs for assembly-floor operators\n• Quarterly published essays on human-robot collaboration",
+        "mission": "To design industrial robots that work with the assembly floor, not over the heads of it.",
+        "vision": "A robotics brand whose systems are reconfigured weekly by the operators who work alongside them.",
+        "coreValues": [
+          "Specific — robots are designed for human-operated floors.",
+          "Considered — visible status is the priority.",
+          "Warm — operators are the customer.",
+          "Literary — the writing about collaboration is part of the brand."
+        ],
+        "brandNameRationale": "The Assembly Floor is the trade name for the production area where industrial assembly takes place — the working physical space rather than the office or the laboratory. The definite article + Co suffix follows the considered-creative trade-name school. Stands in the lineage of declarative-position industrial brands with a clear creative argument (Boston Dynamics' early-era spirit, Festo's playful-industrial register).",
+        "manifesto": "Most industrial robots are designed for engineering integration teams and operated remotely. We started The Assembly Floor Co because the actual best industrial robotics works with the human operators on the floor — visible status, audible cues, reconfiguration tools that anyone on the team can use. The robots are floor team members, not floor replacements.",
+        "industrySummary": "Collaborative robotics (cobots) has matured into a recognized category but most cobot brands focus on safety certification rather than on operator collaboration as a creative design philosophy. There is real space for a creative-led brand that explicitly positions on robot-as-floor-team-member.",
+        "competitorLandscape": "Universal Robots (universal-robots.com) plays the collaborative-robotics reference at scale. Rethink Robotics (formerly rethinkrobotics.com) was the closest spiritual peer. Doosan Robotics (doosanrobotics.com) holds the modern cobot peer slot. Franka Emika (franka.de) sits in the considered-modern collaborative peer position. We sit alongside Universal Robots with a stronger operator-collaboration creative position.",
+        "positioningStatement": "The Assembly Floor Co is a creative-led industrial robotics brand designing collaborative robots for assembly floors with hardware deliberately reconfigurable by floor-team operators.",
+        "positioningRationale": "The brand competes on the operator-collaboration premise. Visible status. Audible cues. Reconfiguration by the floor team rather than by remote engineering.",
+        "targetAudience": {
+          "primary": "Operations directors, manufacturing engineers, and floor-team leads at small to mid-sized manufacturers integrating collaborative robots into human-operated assembly lines.",
+          "behaviors": [
+            "Run small to mid-sized assembly operations with human operators.",
+            "Care about operator-friendliness of factory equipment.",
+            "Train floor team members to operate and reconfigure equipment.",
+            "Renew on multi-year service contracts."
+          ],
+          "motivations": [
+            "Want robots designed to work with floor operators.",
+            "Want reconfiguration tools that floor teams can use.",
+            "Want visible-status hardware rather than remote-only dashboards."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Considered",
+          "Warm",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the quarterly essay on human-robot collaboration.",
+            "Photograph robots on actual assembly floors, with operators visible.",
+            "Reference operator training programmes by name.",
+            "Sign correspondence by the head of operator relations."
+          ],
+          "donts": [
+            "No 'lights-out factory' marketing.",
+            "No operator-replacement positioning.",
+            "No 'AI revolution' rhetoric.",
+            "No fully-remote dashboard-only operations marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Visible status hardware",
+            "description": "Every robot ships with visible status lights, audible cues, and mechanical position indicators. The floor team can read the robot's state without a dashboard."
+          },
+          {
+            "name": "Operator reconfiguration",
+            "description": "Reconfiguration tooling is designed for use by floor-team operators, not just integration engineers. Training programmes accompany every installation."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on human-robot collaboration every quarter — case studies, operator interviews, design philosophy."
+          }
+        ],
+        "logoDirection": "A wordmark — The Assembly Floor Co set in a quiet display serif with a small illustration of a robotic arm beside it. The mark feels printed on a factory-floor signage panel.",
+        "colorPalette": [
+          {
+            "name": "Steel",
+            "hex": "#7C7B7A",
+            "meaning": "Primary — the colour of factory equipment.",
+            "usage": "Wordmark, robot housing accents."
+          },
+          {
+            "name": "Caution",
+            "hex": "#FFB300",
+            "meaning": "Secondary — the yellow of factory-floor safety markings.",
+            "usage": "Status indicators, the mark."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A neutral grotesque for robot status labels and operator documentation.",
+          "rationale": "Two faces. The serif speaks; the grotesque labels."
+        }
       }
     ]
   }
