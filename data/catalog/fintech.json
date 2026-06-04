@@ -155,6 +155,101 @@
           "Trustworthy — a core principle the brand operates by."
         ],
         "scope": "Ledger Modern delivers by:\n• Write transaction descriptions in plain English\n• Show the fee before it's charged\n• Confirm balance changes warmly"
+      },
+      {
+        "id": "fintech-modern-3",
+        "brandName": "Account & Co",
+        "tagline": "A modern checking and savings account. Plain.",
+        "brandDescription": "Account & Co is a modern banking brand offering checking and savings accounts with plain features, no overdraft, no monthly fees, and published interest rates.",
+        "scope": "Account & Co works across:\n• Checking and savings accounts with no overdraft\n• Published variable interest rates updated monthly\n• Plain fee structure — no monthly fees, no overdraft fees, no minimum balance fees\n• Direct customer service by named representatives\n• Annual customer letter explaining product changes",
+        "mission": "To run a modern bank account product that doesn't accumulate fees as the business model.",
+        "vision": "A bank account that's still on the same product structure in 2035, with the same plain published terms.",
+        "coreValues": [
+          "Direct — fees are listed plainly.",
+          "Modern — bank account product without fee extraction.",
+          "Considered — slow product evolution, no feature sprawl.",
+          "Plain — the rate is the rate."
+        ],
+        "brandNameRationale": "Account is the foundational banking trade word; & Co is the small-firm convention. Together they signal a small considered modern banking brand in the lineage of considered consumer fintech (Mercury for business, Wise for personal, Monzo's original ethos).",
+        "manifesto": "Most modern banking products are designed to extract fees through complexity. We started Account & Co to do the opposite — checking and savings with no fees, no overdraft, no minimum balance, no surprise charges. The product is plain on purpose. The business model is the interest spread.",
+        "industrySummary": "Consumer banking has split between fee-extracting traditional banks and venture-funded modern fintechs that grow features rapidly. The opening underneath is for a small modern banking brand with a plain product structure and slow, conservative product evolution.",
+        "competitorLandscape": "Charles Schwab (schwab.com) plays the closest peer in plain-product no-fee banking. Wise (wise.com) holds the considered modern personal banking peer slot. Ally Bank (ally.com) sits in the no-fee online banking peer position. SoFi (sofi.com) plays the multi-product modern bank peer reference. We sit alongside Schwab with a tighter product focus.",
+        "positioningStatement": "Account & Co is a modern banking brand offering plain checking and savings accounts with no overdraft and no monthly fees.",
+        "positioningRationale": "We compete on plain product structure and fee transparency. The product does not generate revenue from customer mistakes.",
+        "targetAudience": {
+          "primary": "Adults who want a plain bank account without fee surprises or feature sprawl.",
+          "behaviors": [
+            "Maintain checking and savings accounts as primary household banking.",
+            "Care about interest rates and fee structures.",
+            "Avoid bank products with hidden fees.",
+            "Re-evaluate banking relationships every few years."
+          ],
+          "motivations": [
+            "Want plain checking and savings.",
+            "Want published interest rates and no fees.",
+            "Want a bank that does not profit from customer overdraft."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Considered",
+          "Plain"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish current interest rates on the home page.",
+            "List the fee structure plainly — typically a list of zeros.",
+            "Confirm transactions and changes in plain English.",
+            "Sign correspondence by the named customer-service representative."
+          ],
+          "donts": [
+            "No overdraft 'protection' marketing.",
+            "No tier system based on balance minimums.",
+            "No promotional rates that expire.",
+            "No feature-spam marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "No fees",
+            "description": "No monthly fees. No overdraft fees. No minimum balance fees. No wire fees on standard transactions. The fee schedule is published."
+          },
+          {
+            "name": "No overdraft",
+            "description": "We do not offer overdraft. Transactions that would overdraw the account are declined and the customer is notified."
+          },
+          {
+            "name": "Published rates",
+            "description": "Variable interest rates on savings are published on the home page and updated monthly. The customer sees what they earn."
+          }
+        ],
+        "logoDirection": "A wordmark — Account & Co set in a calm modern serif with a long ampersand. A small ledger-line mark sits above the wordmark on marketing surfaces.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Primary — the colour of the printed ledger page.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type and chrome.",
+            "usage": "Body, headings, navigation."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Rate indicators, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and headings.",
+          "secondary": "A neutral grotesque for fee tables and rate listings.",
+          "rationale": "The serif speaks; the grotesque measures."
+        }
       }
     ],
     "Luxury": [
@@ -317,6 +412,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Eastbury Trust delivers by:\n• Address the principal by surname\n• Send paper letters where appropriate\n• Speak in the language of the discipline"
+      },
+      {
+        "id": "fintech-luxury-3",
+        "brandName": "The Crowley Trust",
+        "tagline": "A heritage private trust company. By introduction.",
+        "brandDescription": "The Crowley Trust is a heritage private trust company providing fiduciary, investment management, and family-office services to a small number of significant families.",
+        "scope": "The Crowley Trust works across:\n• Private trust administration and fiduciary services\n• Investment management for trust assets\n• Family-office services including governance and succession planning\n• Multi-generational client family relationships\n• Annual private trustees' meeting for client families",
+        "mission": "To administer trusts and family assets in the heritage private-trust tradition, across generations of client families.",
+        "vision": "A trust company whose oldest active trust agreements were drafted in the 1940s and remain in force in 2070.",
+        "coreValues": [
+          "Senior — the trustees are accountable across decades.",
+          "Discreet — client family identity and trust affairs stay private.",
+          "Considered — integrated services under the same trustees.",
+          "Patient — multi-generational arcs are the practice."
+        ],
+        "brandNameRationale": "The Crowley Trust uses the definite-article + surname + Trust convention common to heritage American private trust companies (Bessemer Trust, Northern Trust, Brown Brothers Harriman's trust arm). Crowley is a real Irish-American surname with a heritage banking register. The Trust suffix places the brand firmly in the heritage private-trust tradition.",
+        "manifesto": "The Crowley Trust was founded in 1947 to administer trusts for a small number of client families. The trust has remained in continuous operation through three generations of trustees. The client roster is capped. Many client families have been with the trust across multiple generations. Trust administration, investment management, and family-office services are integrated under the same trustees.",
+        "industrySummary": "Heritage private trust companies are a small but enduring tradition (Bessemer Trust, Northern Trust, Pitcairn, Wilmington Trust). There is space for a small private trust operating in the heritage tradition with capped client rosters and multi-generational family relationships.",
+        "competitorLandscape": "Bessemer Trust (bessemertrust.com) is the heritage private trust reference. Pitcairn Trust (pitcairn.com) holds the multi-generational family trust peer slot. Brown Brothers Harriman (bbh.com) sits in the heritage private banking peer position. Glenmede Trust (glenmede.com) plays the heritage trust peer reference. We belong with Pitcairn in the small heritage multi-family trust category.",
+        "positioningStatement": "A heritage private trust company providing fiduciary, investment management, and family-office services to a capped roster of client families.",
+        "positioningRationale": "We do not extend the client roster. The trust is the practice. Client family relationships span multiple generations.",
+        "targetAudience": {
+          "primary": "Client families with multi-generational trust relationships and significant fiduciary needs, often inherited from parents and grandparents.",
+          "behaviors": [
+            "Maintain trust relationships across decades.",
+            "Sit through annual trustees' meetings in person.",
+            "Care about discretion, fiduciary tradition, and trustee continuity.",
+            "Pay full trust administration fees."
+          ],
+          "motivations": [
+            "Need a trust company that administers across generations.",
+            "Need integrated trust, investment, and family-office services.",
+            "Need a relationship that survives changes in the family's leadership."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address client families by surname.",
+            "Sign correspondence by the named trustee.",
+            "Reference the trust's founding year and historic trustees.",
+            "Print all client correspondence on heavy paper."
+          ],
+          "donts": [
+            "No public marketing.",
+            "No social-media presence.",
+            "No promotional fee pricing.",
+            "No commercial publication of trust strategies."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Capped client roster",
+            "description": "The trust accepts new client families by introduction only. The roster is capped; new clients are accepted when existing relationships transition."
+          },
+          {
+            "name": "Integrated services",
+            "description": "Trust administration, investment management, and family-office services are provided by the same trustees. The integration is the practice."
+          },
+          {
+            "name": "Multi-generational relationships",
+            "description": "Most client families have been with the trust across multiple generations. Annual trustees' meetings include adult children and inheritors."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Crowley Trust set in a classical book serif with a small embossed mark depicting a stylised seal. The mark appears on trust documents, letterhead, and the office brass plate.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of trust documents.",
+            "usage": "Letterhead, marketing, trust documentation."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The seal, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and trust documents.",
+          "secondary": "An engraver's italic for trustee signatures and trust identifiers.",
+          "rationale": "Letterpress register throughout."
+        }
       }
     ],
     "Minimal": [
@@ -461,6 +651,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Tally delivers by:\n• Show the balance\n• Show the transaction in plain English\n• Confirm in one line"
+      },
+      {
+        "id": "fintech-minimal-3",
+        "brandName": "Sum",
+        "tagline": "A small budgeting app. One number.",
+        "brandDescription": "Sum is a minimal budgeting app showing the user one number — their current available-to-spend balance — derived from connected accounts, with no categories and no tags.",
+        "scope": "Sum works across:\n• A single available-to-spend balance derived from connected accounts\n• No transaction tagging or categorization\n• No budget categories or spending limits\n• Plain published per-month subscription pricing\n• Annual single-page company report",
+        "mission": "To make personal budgeting a single number, refreshed in real time.",
+        "vision": "An app whose 100,000th user is still using the same single-number interface as the first.",
+        "coreValues": [
+          "Plain — one number, refreshed in real time.",
+          "Direct — the number is the interface.",
+          "Considered — no features added that complicate the number."
+        ],
+        "brandNameRationale": "Sum is the foundational mathematical word for an aggregate total — single archaic mathematical word, immediately readable. Single-word naming follows the modern minimal fintech school (Tally, Ledger Modern register).",
+        "manifesto": "Most budgeting apps grow into category trees, tag systems, and goal trackers. We made Sum because the actual most useful number is the simplest one — how much can I spend today without trouble. The app shows that number. Nothing else.",
+        "industrySummary": "Personal budgeting apps have grown into complex tagging and categorization systems. There is real space for a minimal app that strips the interface to a single number derived from connected accounts.",
+        "competitorLandscape": "Copilot Money (copilot.money) plays the modern budgeting peer at scale. YNAB (ynab.com) holds the heritage budgeting-app peer slot. Monarch Money (monarchmoney.com) sits in the multi-account modern peer position. Cleo (meetcleo.com) plays the conversational-budgeting peer reference. We sit further out — one number, no categories.",
+        "positioningStatement": "Sum is a budgeting app that shows the user one number — their current available-to-spend balance — refreshed in real time.",
+        "positioningRationale": "We strip the budgeting interface to one number. No categories. No tags. No budget allocations.",
+        "targetAudience": {
+          "primary": "Adults who want a simple budgeting number without tagging or categorizing transactions.",
+          "behaviors": [
+            "Have tried complex budgeting apps and abandoned them.",
+            "Want one quick number rather than detailed reports.",
+            "Connect multiple accounts for an aggregate view.",
+            "Pay for simple recurring services."
+          ],
+          "motivations": [
+            "Want a single available-to-spend number.",
+            "Want a simple app without tagging.",
+            "Want a fixed monthly subscription."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the single number prominently on the home screen.",
+            "Skip category and tag marketing.",
+            "Publish the subscription fee on the home page.",
+            "Sign correspondence with the app name only."
+          ],
+          "donts": [
+            "No transaction tagging features.",
+            "No category-based budget marketing.",
+            "No 'gamification' features.",
+            "No social-budgeting community."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One number",
+            "description": "The app shows one number — available to spend right now, derived from connected accounts. The number is the interface."
+          },
+          {
+            "name": "No categories",
+            "description": "We do not tag or categorize transactions. The app does not need to know what you spend on."
+          },
+          {
+            "name": "Plain pricing",
+            "description": "Single fixed monthly subscription fee, published on the home page. No tiers."
+          }
+        ],
+        "logoDirection": "Sum set in a neutral grotesque, all lowercase, at small scale on the app icon and the website header. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces, app background."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and the single number.",
+            "usage": "All copy, the number itself."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent — used when the number is positive.",
+            "usage": "Active states."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and bold.",
+          "secondary": "Same family for the number display.",
+          "rationale": "One typeface across the app, the marketing, and the receipt."
+        }
       }
     ],
     "Corporate": [
@@ -661,6 +944,101 @@
           "Steady — a core principle the brand operates by."
         ],
         "scope": "Strand Financial Partners works across:\n• Real-time cash visibility\n• Audit and controls built in\n• Integrations that already exist"
+      },
+      {
+        "id": "fintech-corporate-3",
+        "brandName": "Wyatt Financial Holdings",
+        "tagline": "Multi-brand financial services operator.",
+        "brandDescription": "Wyatt Financial Holdings operates a portfolio of financial services brands across banking, insurance, wealth management, and lending categories.",
+        "scope": "Wyatt Financial Holdings works across:\n• Multi-brand financial services operations\n• Shared regulatory compliance across federal and state jurisdictions\n• Shared technology infrastructure and core banking\n• Capital markets and treasury operations\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier financial services brands that want to keep their identity and outsource the operations.",
+        "vision": "A financial services operator whose portfolio brands grow under their own names because the regulatory and capital infrastructure are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — regulatory compliance runs on schedule.",
+          "Reliable — predictable capital and technology infrastructure across brands.",
+          "Discreet — brand and regulatory relationships stay private."
+        ],
+        "brandNameRationale": "Wyatt is a real American surname with a heritage financial-services register. Financial Holdings follows the multi-brand operator naming convention used in financial services (PNC Financial Services, Truist Financial, Citizens Financial Group structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Wyatt Financial Holdings owns and operates a portfolio of financial services brands across banking, insurance, wealth management, and lending. Each brand retains its identity, customer relationships, and product roadmap; we operate the shared regulatory compliance, technology infrastructure, and capital markets operations. The buyer is a brand founder considering sale, a regulator-supervised entity seeking consolidated relationships, or an institutional investor holding financial-services assets.",
+        "industrySummary": "Financial services has consolidated under a small number of large multi-brand holding companies (Wells Fargo, PNC, Truist, Citizens Financial). The opening underneath is for a regional mid-tier multi-brand operator with deep regulatory operations and the procurement-grade reliability institutional investors and regulators require.",
+        "competitorLandscape": "Truist Financial (truist.com) is the multi-brand mid-tier financial reference. Citizens Financial Group (citizensbank.com) holds the multi-brand peer slot. Regions Financial (regions.com) sits in the regional multi-brand peer position. KeyCorp (key.com) plays the multi-brand financial peer reference. We belong in the regional mid-tier multi-brand financial-services holding category.",
+        "positioningStatement": "Wyatt Financial Holdings is a regional multi-brand financial services operator running shared regulatory compliance, technology infrastructure, and capital markets operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared regulatory infrastructure, technology depth, and the procurement-grade reliability brand founders and institutional investors need in a regulated industry.",
+        "targetAudience": {
+          "primary": "Financial services brand founders considering sale, regulator-supervised entities seeking consolidated holding relationships, and institutional investors holding financial-services assets.",
+          "behaviors": [
+            "Manage multi-brand financial-services operations.",
+            "Negotiate multi-year regulatory and technology agreements.",
+            "Care about regulatory compliance, capital adequacy, and operational risk.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared regulatory infrastructure.",
+            "Need to keep brand identity post-acquisition.",
+            "Need a single-vendor multi-brand financial-services relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, regulatory record, and capital adequacy ratios.",
+            "Speak the language of brand founders, regulators, and institutional investors.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Wyatt tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight financial-services brands across banking, insurance, wealth management, and lending. Each retains its identity."
+          },
+          {
+            "name": "Shared regulatory compliance",
+            "description": "Centralized regulatory affairs across federal and state jurisdictions. Brands share compliance infrastructure under a single operations team."
+          },
+          {
+            "name": "Shared technology infrastructure",
+            "description": "Centralized core technology stack across the portfolio. Brands share core banking, fraud detection, and capital markets infrastructure."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Wyatt set in a traditional book serif, with 'Financial Holdings' beneath in tracked small caps. Used in contracts, regulatory filings, and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for regulatory documentation, capital adequacy reports, and operational tables.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -843,6 +1221,101 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "Mint & Mortar delivers by:\n• Celebrate the deposit notification\n• Show real-world spending moments\n• Talk like a friend who's got their direct deposit set up"
+      },
+      {
+        "id": "fintech-creative-3",
+        "brandName": "The Side Pocket Co",
+        "tagline": "A fintech brand for the money you put away.",
+        "brandDescription": "The Side Pocket Co is a creative-led fintech brand specializing in dedicated savings buckets — 'side pockets' — for specific upcoming expenses and goals, with no general-purpose checking or investment products.",
+        "scope": "The Side Pocket Co works across:\n• Dedicated savings buckets ('side pockets') for specific expenses and goals\n• Plain published interest on each side pocket\n• Automatic allocation rules from connected primary accounts\n• Quarterly published essays on personal savings practice\n• Annual side-pocket recap sent to customers",
+        "mission": "To restore the practice of putting money aside for specific things.",
+        "vision": "A fintech brand whose side-pocket model becomes a standard reference for personal savings practice.",
+        "coreValues": [
+          "Warm — the side pocket is for what matters to the customer.",
+          "Specific — every pocket has a name.",
+          "Considered — savings practice is the work.",
+          "Literary — the writing about savings is part of the brand."
+        ],
+        "brandNameRationale": "Side Pocket is the real financial-trade phrase for a separately-managed allocation within a broader fund (originating in hedge-fund terminology and extended to personal-finance usage). The definite article + Co suffix follows the considered-creative trade-name school. The brand stakes a clear creative position around dedicated savings buckets as a practice.",
+        "manifesto": "Most modern banking treats savings as one general pool. We started The Side Pocket Co because the actual practice of putting money aside works better when each bucket has a name — the car repair fund, the trip fund, the holiday fund, the emergency fund. The app is built around those side pockets. Each one has a name, a target, and a published interest rate.",
+        "industrySummary": "Personal savings products have converged on general savings accounts. There is real space for a creative-led fintech that positions explicitly on dedicated bucket savings — closer to the envelope budgeting tradition than to modern general-purpose banking.",
+        "competitorLandscape": "Qapital (qapital.com) plays the closest peer in goal-based savings. Digit (formerly digit.co, now Oportun) holds the automated-savings peer slot. Acorns (acorns.com) sits in the micro-savings peer position. Ally Buckets (ally.com) plays the bucket-savings feature reference. We sit alongside Qapital with a sharper side-pocket creative position.",
+        "positioningStatement": "The Side Pocket Co is a fintech brand specializing in dedicated savings buckets for specific expenses and goals, with plain published interest on each bucket.",
+        "positioningRationale": "The brand competes on the bucket-savings premise. Every product, every feature, and every essay is built around the side-pocket practice.",
+        "targetAudience": {
+          "primary": "Adults 28-50 who save toward multiple specific goals and want savings buckets rather than a general savings pool.",
+          "behaviors": [
+            "Save toward specific upcoming expenses (car repair, holiday, trip).",
+            "Use envelope-budgeting methods or want to.",
+            "Care about transparent interest on savings.",
+            "Subscribe to recurring services for specific needs."
+          ],
+          "motivations": [
+            "Want dedicated savings buckets with names and targets.",
+            "Want plain published interest on each bucket.",
+            "Want a brand built around the savings practice."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the side-pocket practice and the published interest rates.",
+            "Publish the quarterly essay on personal savings practice.",
+            "Show actual side-pocket structures in marketing.",
+            "Sign correspondence by the head of customer relations."
+          ],
+          "donts": [
+            "No 'wealth-building' marketing.",
+            "No investment-product upsells.",
+            "No tier system based on balance.",
+            "No social-media-led growth tactics."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Dedicated side pockets",
+            "description": "Customers create as many named side pockets as they need — car repair, holiday, trip, emergency. Each pocket has a name, a target, and a published interest rate."
+          },
+          {
+            "name": "Plain published interest",
+            "description": "Each side pocket earns published variable interest. The rates are updated monthly and shown per pocket."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on personal savings practice every quarter — history, tradition, customer stories. The essay is the brand's primary marketing artefact."
+          }
+        ],
+        "logoDirection": "A wordmark — The Side Pocket Co set in a quiet display serif with a small illustration of a pocket beside it. The mark feels printed on the back of a printed bank passbook.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the page colour of the printed savings record.",
+            "usage": "Marketing, packaging."
+          },
+          {
+            "name": "Pocket",
+            "hex": "#5C6B47",
+            "meaning": "Secondary — the colour of a heritage savings passbook.",
+            "usage": "Body type, the mark."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A book serif for side-pocket records and customer correspondence.",
+          "rationale": "The brand reads like a small printed publication on personal savings."
+        }
       }
     ]
   }
