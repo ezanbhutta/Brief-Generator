@@ -76,6 +76,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "Doorbell delivers by:\n• Show the delivery time and the temperature on the package\n• Speak to the customer as a person who just paid for food\n• Confirm orders in one short note"
+      },
+      {
+        "id": "food-delivery-modern-2",
+        "brandName": "Crosstown Delivery",
+        "tagline": "A small modern delivery service. One borough.",
+        "brandDescription": "Crosstown Delivery is a modern food delivery service operating exclusively within a single urban borough, with a small list of partner restaurants and direct courier employment.",
+        "scope": "Crosstown Delivery works across:\n• Food delivery within a single defined urban borough\n• Small partner-restaurant list (under 100 partners)\n• Direct employment of couriers with published hourly rates\n• Single fixed delivery fee per order, no surge pricing\n• Annual customer and partner update letter",
+        "mission": "To make food delivery work for the borough — for the couriers, the partner restaurants, and the customers.",
+        "vision": "A neighbourhood delivery service whose ten-year anniversary sees the same restaurants on the platform.",
+        "coreValues": [
+          "Considered — the partner list is curated.",
+          "Modern — couriers are employed, not contracted.",
+          "Direct — fixed delivery fee, no surge.",
+          "Warm — the borough is the company."
+        ],
+        "brandNameRationale": "Crosstown is the urban-trade phrase for travel across a borough or city center — single archaic urban-vocabulary word + plain category suffix. Stands in the lineage of considered-modern delivery services with a clear geographic focus (Caviar's original SF-only positioning, Wolt's Helsinki-led approach).",
+        "manifesto": "Most food delivery platforms grow geographically as fast as possible. We started Crosstown to do the opposite — one borough, a small list of partner restaurants, couriers employed directly with published wages. The service works because everyone in the chain is treated as part of the same neighbourhood.",
+        "industrySummary": "Food delivery has consolidated under a small number of global platforms (DoorDash, Uber Eats, Grubhub) with broad geographic coverage. The opening underneath is for a smaller, geographically-focused service that operates with direct courier employment and a curated partner list.",
+        "competitorLandscape": "Caviar (originally trycaviar.com, now within DoorDash) was the closest peer in considered urban delivery. Wolt (wolt.com) holds the considered-modern peer slot at international scale. Local Pickup (localpickup.com) plays the borough-focused peer position. Tock (exploretock.com) plays the considered-restaurant peer reference. We sit alongside Wolt with a single-borough focus and direct courier employment.",
+        "positioningStatement": "Crosstown Delivery is a modern food delivery service operating within a single urban borough with a small partner-restaurant list and directly-employed couriers.",
+        "positioningRationale": "We compete on geographic focus and operational integrity. Single borough. Curated restaurant list. Couriers employed directly. Fixed delivery fee, no surge pricing.",
+        "targetAudience": {
+          "primary": "Residents and workers in the single urban borough where the service operates, ordering food multiple times per week.",
+          "behaviors": [
+            "Order from the same neighbourhood restaurants regularly.",
+            "Care about courier wages and tipping clarity.",
+            "Avoid surge-pricing platforms.",
+            "Want a small reliable partner list."
+          ],
+          "motivations": [
+            "Want a delivery service that operates well in their borough.",
+            "Want couriers paid fairly with published wages.",
+            "Want a curated list of considered restaurants."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the borough and the partner list.",
+            "Publish courier hourly wages on the website.",
+            "Reference partner restaurants by name in marketing.",
+            "Sign correspondence by the local operations lead."
+          ],
+          "donts": [
+            "No surge pricing.",
+            "No nationwide expansion talk.",
+            "No social-media-led marketing.",
+            "No 'free delivery' come-ons."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Single borough",
+            "description": "We operate within the one urban borough where our office is located. We do not expand geographically."
+          },
+          {
+            "name": "Curated partner list",
+            "description": "Under 100 partner restaurants, selected for quality and operational consistency. Restaurants are added carefully and stay for years."
+          },
+          {
+            "name": "Direct courier employment",
+            "description": "Couriers are employed directly with published hourly wages, benefits, and route guarantees. No gig-economy contractor model."
+          }
+        ],
+        "logoDirection": "A wordmark — Crosstown Delivery set in a precise modern grotesque with a small grid-map mark suggesting borough streets.",
+        "colorPalette": [
+          {
+            "name": "Asphalt",
+            "hex": "#2A2A2A",
+            "meaning": "Primary — the colour of a city street.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Signal",
+            "hex": "#FF6B3D",
+            "meaning": "Single accent — the orange of a courier safety vest.",
+            "usage": "Status indicators, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark and partner-restaurant names.",
+          "secondary": "A book serif for the customer and partner letters.",
+          "rationale": "The grotesque is the operations. The serif is the relationship."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Saturday Delivery delivers by:\n• Address the client by surname\n• Confirm orders in writing\n• Send a paper card the week before"
+      },
+      {
+        "id": "food-delivery-luxury-2",
+        "brandName": "The Wynward Table",
+        "tagline": "A private culinary delivery service. By membership.",
+        "brandDescription": "The Wynward Table is a heritage private culinary delivery service operating in three cities, with a capped member roster and a small list of partner chefs producing custom meals to order.",
+        "scope": "The Wynward Table works across:\n• Private culinary delivery by membership\n• Custom meal preparation by partner chefs\n• Direct delivery in unmarked vehicles to member households\n• Annual member dinners hosted at the partner restaurants\n• Multi-generational member family relationships",
+        "mission": "To deliver chef-prepared meals to a small membership in the heritage private-chef tradition.",
+        "vision": "A culinary delivery service whose 100th member dinner is hosted in the same private rooms as the first.",
+        "coreValues": [
+          "Senior — the service has operated since 1998.",
+          "Discreet — member identity and meal preferences stay private.",
+          "Considered — partner chefs are part of the practice.",
+          "Warm — multi-generational members are the practice's organising principle."
+        ],
+        "brandNameRationale": "The Wynward Table uses the definite-article + place-name + Table convention common to heritage private dining clubs (The Wolseley, The Ivy Club, The Garrick Club's dining room tradition). Wynward is a constructed place-name with a heritage register. The Table suffix places the brand firmly in the heritage private-dining tradition.",
+        "manifesto": "Most modern food delivery is platform-mediated, optimized for volume, and indifferent to the meal. The Wynward Table was founded in 1998 as a private culinary delivery service for households who wanted chef-prepared meals delivered without going through restaurants or platforms. Membership is capped. Most members are referred by existing members. Partner chefs have been with the service for decades.",
+        "industrySummary": "Premium private culinary services are rare and dominated by individual private chefs and small concierge services. There is space for a small membership-based culinary delivery service operating in the heritage private-chef tradition with multiple partner chefs.",
+        "competitorLandscape": "Heston Personalised Service (heston.com) plays the closest peer in heritage private culinary. Daily Harvest's premium tier plays the broader peer reference. The Marylebone (themarylebone.com) sits in the considered-private peer position. Quintessentially Culinary (quintessentially.com) plays the concierge-culinary reference. We belong with the small private-chef tradition translated to a membership-based service.",
+        "positioningStatement": "A heritage private culinary delivery service operating by membership in three cities with capped enrollment and partner chefs.",
+        "positioningRationale": "We do not extend the service. The three cities are the limit. Members are accepted by referral; partner chefs have been with the service for decades.",
+        "targetAudience": {
+          "primary": "Members of the existing roster and their family members eligible by inheritance, often with a multi-decade relationship with the service.",
+          "behaviors": [
+            "Maintain a private culinary service across years.",
+            "Bring children and grandchildren into the same membership.",
+            "Travel between the three cities and use the service in each.",
+            "Pay full membership fees without complaint."
+          ],
+          "motivations": [
+            "Want a culinary service that operates by membership.",
+            "Want partner chefs who know the family's preferences.",
+            "Want a relationship that survives changes in the family's primary residence."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address members by surname.",
+            "Sign correspondence by the head of culinary relations.",
+            "Reference partner chefs by name.",
+            "Print all member communications on heavy paper."
+          ],
+          "donts": [
+            "No public marketing.",
+            "No social-media presence.",
+            "No promotional membership pricing.",
+            "No platform listings."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Three cities",
+            "description": "The service operates in three cities. We do not add a fourth. Members travelling between them retain their membership."
+          },
+          {
+            "name": "Capped membership",
+            "description": "Membership is capped. New members are accepted by referral when existing members move on. The waiting list is real."
+          },
+          {
+            "name": "Long-tenure partner chefs",
+            "description": "Partner chefs have been with the service for decades. Members are matched to chefs based on preference and continue with the same chefs across years."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Wynward Table set in a classical book serif with a small embossed mark depicting a stylised tableware silhouette. The mark appears on member correspondence and on unmarked delivery vehicles.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the printed menu and member correspondence.",
+            "usage": "Marketing, letterhead, packaging."
+          },
+          {
+            "name": "Burgundy",
+            "hex": "#5C1F1F",
+            "meaning": "Secondary — the colour of the service's heritage livery.",
+            "usage": "Body type, the mark."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Signature elements, embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, member correspondence, and printed menus.",
+          "secondary": "An engraver's italic for member names on personalised menus.",
+          "rationale": "Letterpress register throughout. The service communicates in print and in person."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "DROP delivers by:\n• Show the time, the restaurant, the price\n• Confirm in one line\n• Send a single SMS at delivery"
+      },
+      {
+        "id": "food-delivery-minimal-2",
+        "brandName": "Tray",
+        "tagline": "A small delivery service. One menu.",
+        "brandDescription": "Tray is a minimal food delivery service shipping a single curated daily menu from a single kitchen, with no restaurant marketplace and no menu choice beyond the day's dish.",
+        "scope": "Tray works across:\n• A single daily lunch and dinner menu from one operating kitchen\n• Delivery within a defined service area\n• Subscription model with single fixed weekly fee\n• Glass or compostable packaging only\n• Annual single-page service report",
+        "mission": "To deliver one good meal a day from one kitchen, plainly.",
+        "vision": "A delivery service whose 100th week of operation runs the same daily-menu format as week one.",
+        "coreValues": [
+          "Plain — one menu, one kitchen, one fee.",
+          "Direct — the menu is the product.",
+          "Considered — quality over variety."
+        ],
+        "brandNameRationale": "Tray is the real food-service trade word for the serving vessel — single archaic trade word, deeply specific to food preparation and delivery. Single-word naming follows the modern minimal food delivery school.",
+        "manifesto": "Most food delivery is a restaurant marketplace with thousands of menu options. We made Tray because the actual best lunch and dinner decision is no decision at all — one menu, one kitchen, one fee per week. The menu changes daily; the format does not.",
+        "industrySummary": "Food delivery is overwhelmingly built around marketplace models with extensive menu choice. There is real space for a minimal service that strips the offering to a single daily menu from a single kitchen.",
+        "competitorLandscape": "Daily Harvest (daily-harvest.com) plays the closest peer in subscription-curated food delivery. CookUnity (cookunity.com) holds the multi-chef subscription peer slot. Methodology (methodology.com) sits in the considered-curated meal-delivery peer position. We sit further out — one daily menu, one kitchen, one weekly fee.",
+        "positioningStatement": "Tray is a food delivery service shipping one daily lunch and dinner menu from a single kitchen at a single fixed weekly fee.",
+        "positioningRationale": "We strip the menu and the operations. One menu. One kitchen. One fee. No choice beyond the day's dish.",
+        "targetAudience": {
+          "primary": "Subscribers who want one good meal delivered daily without decision-making, willing to commit to a subscription.",
+          "behaviors": [
+            "Order food more often than they cook.",
+            "Want to skip decision-making around the daily meal.",
+            "Subscribe to recurring services for routine needs.",
+            "Care about meal quality more than menu variety."
+          ],
+          "motivations": [
+            "Want one good meal a day, plainly.",
+            "Want a small operation they can trust.",
+            "Want a fixed weekly fee they can plan around."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the daily menu by 8am.",
+            "Show one photograph of the day's dish.",
+            "Skip menu choice marketing.",
+            "Sign correspondence with the kitchen lead's name."
+          ],
+          "donts": [
+            "No restaurant marketplace.",
+            "No menu choice beyond the day's dish.",
+            "No promotional pricing.",
+            "No surge fees."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One daily menu",
+            "description": "Each day brings one lunch dish and one dinner dish. The menu is posted by 8am. Subscribers receive whatever is on the menu that day."
+          },
+          {
+            "name": "One kitchen",
+            "description": "The service operates from a single owned kitchen. We do not aggregate restaurants."
+          },
+          {
+            "name": "One weekly fee",
+            "description": "Subscription is a single fixed weekly fee covering all deliveries. No per-order fees."
+          }
+        ],
+        "logoDirection": "Tray set in a neutral grotesque, all lowercase, at small scale on packaging and the website header. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the colour of the kitchen towel.",
+            "usage": "Packaging, marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Hour",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Today's menu chip, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for the daily menu listings.",
+          "rationale": "One typeface across the packaging, the website, and the menu posts."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Professional — a core principle the brand operates by."
         ],
         "scope": "Crosstown Co. works across:\n• Operations reliability\n• System integration\n• Predictable economics"
+      },
+      {
+        "id": "food-delivery-corporate-2",
+        "brandName": "Eastling Food Holdings",
+        "tagline": "Multi-brand food delivery and logistics operator.",
+        "brandDescription": "Eastling Food Holdings operates a portfolio of food delivery, ghost-kitchen, and last-mile logistics brands across mid-market urban markets.",
+        "scope": "Eastling Food Holdings works across:\n• Multi-brand food delivery and ghost-kitchen operations\n• Last-mile logistics infrastructure across multiple cities\n• Enterprise client partnerships with restaurant groups\n• Compliance and labour-law operations across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier food delivery and logistics brands that want to keep their identity and outsource the operations.",
+        "vision": "A food delivery operator whose portfolio brands grow under their own names because the logistics and compliance are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — logistics runs on schedule.",
+          "Reliable — predictable delivery across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Eastling is a real English-origin surname with a heritage trade register. Food Holdings follows the multi-brand operator naming convention used in food service (Aramark, US Foods, Sysco structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Eastling Food Holdings owns and operates a portfolio of food delivery and ghost-kitchen brands. Each brand retains its identity, operations leadership, and customer relationships; we operate the shared last-mile logistics, compliance, and back office. The buyer is a brand founder considering sale, a restaurant group seeking single-vendor delivery relationships, or an institutional investor holding food-services assets.",
+        "industrySummary": "Food delivery has consolidated under a small number of large platforms (DoorDash, Uber Eats, Grubhub). The opening underneath is for a regional mid-tier multi-brand operator with deep logistics operations and the procurement-grade reliability restaurant groups and institutional clients require.",
+        "competitorLandscape": "REEF Technology (reeftechnology.com) plays the multi-brand ghost-kitchen reference. CloudKitchens (cloudkitchens.com) holds the ghost-kitchen peer slot. Kitchen United (kitchenunited.com) sits in the ghost-kitchen mid-market peer position. We belong in the regional mid-tier multi-brand food-services operator category.",
+        "positioningStatement": "Eastling Food Holdings is a regional multi-brand food delivery, ghost-kitchen, and logistics operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared logistics infrastructure, compliance reach, and the operational reliability brand founders and institutional clients need.",
+        "targetAudience": {
+          "primary": "Food delivery and ghost-kitchen brand founders considering sale, restaurant group operators consolidating delivery vendor relationships, and institutional investors holding food-services assets.",
+          "behaviors": [
+            "Manage multi-brand food-services operations.",
+            "Negotiate multi-year delivery and logistics contracts.",
+            "Care about delivery time, courier compliance, and food-safety operations.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared logistics and compliance.",
+            "Need to keep brand identity post-acquisition.",
+            "Need a single-vendor multi-brand delivery relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, logistics footprint, and compliance record.",
+            "Speak the language of brand founders, restaurant operators, and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Eastling tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and operate four to eight food delivery and ghost-kitchen brands across mid-market urban markets. Each retains its identity."
+          },
+          {
+            "name": "Shared logistics",
+            "description": "Owned last-mile logistics infrastructure across multiple cities. Brands share delivery, dispatch, and route optimization under a single operations team."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for logistics scale without losing operational direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Eastling set in a traditional book serif, with 'Food Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and logistics documentation.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "The Twelve Plate Co delivers by:\n• Speak softly\n• Tell the truth about the hour\n• Talk to the customer as a person who just ate alone"
+      },
+      {
+        "id": "food-delivery-creative-2",
+        "brandName": "The Late Plate Co",
+        "tagline": "A delivery service for after the restaurants close.",
+        "brandDescription": "The Late Plate Co is a creative-led food delivery service operating exclusively between 10pm and 3am, with a small list of partner restaurants and kitchens that prepare food specifically for the late-night service.",
+        "scope": "The Late Plate Co works across:\n• Food delivery between 10pm and 3am, every night\n• Partner restaurants and kitchens preparing food specifically for late hours\n• Courier shifts aligned to the late-night operating hours\n• Quarterly published essays on late-night urban culture\n• Annual late-night gatherings at partner restaurants",
+        "mission": "To serve the city after the restaurants close.",
+        "vision": "A delivery service whose late-night operating hours become the standard reference for urban late-night dining.",
+        "coreValues": [
+          "Warm — the service is open when patrons are awake.",
+          "Specific — every hour of operation is intentional.",
+          "Considered — partner restaurants design for the time.",
+          "Literary — the writing about late-night culture is part of the brand."
+        ],
+        "brandNameRationale": "The Late Plate is a phrase about the meal eaten after standard dining hours — the post-shift dinner, the late-night kitchen plate. The definite article + Co suffix follows the considered-creative trade-name school (The After-Hours Co, The Twelve Plate Co). Stands in the lineage of declarative-position food brands with a clear time-of-operation creative argument.",
+        "manifesto": "Most food delivery operates during standard restaurant hours and tapers off after 9pm. We started The Late Plate Co for the city after the restaurants close — the kitchen workers heading home, the night-shift hospital staff, the people working late, the people who eat at midnight. The service is open when most delivery is closed.",
+        "industrySummary": "Food delivery operations taper sharply after standard dining hours. There is real space for a creative-led service that operates exclusively in late-night hours with partner restaurants and kitchens that prepare food specifically for the time.",
+        "competitorLandscape": "goPuff (gopuff.com) plays the closest peer in late-night convenience delivery. UberEats and DoorDash operate 24/7 but with sharply reduced restaurant availability after 10pm. Wonder (wonder.com) plays the multi-restaurant late delivery reference. We sit further out — late-night-only, dedicated partner restaurants, dedicated couriers.",
+        "positioningStatement": "The Late Plate Co is a food delivery service operating exclusively between 10pm and 3am with partner restaurants and kitchens preparing food specifically for late-night hours.",
+        "positioningRationale": "The brand competes on the time of operation. Every aspect of the service — partner restaurants, courier shifts, packaging, voice — is designed for the late-night use case.",
+        "targetAudience": {
+          "primary": "Adults who work late shifts, eat dinner late, or want hot food delivered after standard delivery hours close.",
+          "behaviors": [
+            "Work shifts that end after 10pm.",
+            "Eat dinner after 10pm regularly.",
+            "Order food in the late evening or early morning.",
+            "Want hot food rather than late-night convenience-store options."
+          ],
+          "motivations": [
+            "Want a delivery service that operates after restaurants close.",
+            "Want partner restaurants preparing food for the time.",
+            "Want late-night culture treated as primary, not secondary."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the operating hours.",
+            "Photograph late-night kitchens and night-shift workers.",
+            "Publish the quarterly essay on late-night urban culture.",
+            "Sign correspondence by the late-shift operations lead."
+          ],
+          "donts": [
+            "No daytime delivery marketing.",
+            "No competition with standard delivery platforms during business hours.",
+            "No 'convenience store' positioning.",
+            "No fast-food partner restaurants."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "10pm to 3am only",
+            "description": "We operate exclusively between 10pm and 3am, every night. There are no daytime deliveries."
+          },
+          {
+            "name": "Late-night partner kitchens",
+            "description": "Partner restaurants prepare specific menus for the late-night service — food designed for the time, not leftover from earlier hours."
+          },
+          {
+            "name": "Dedicated late-shift couriers",
+            "description": "Couriers work the late-shift hours by choice and have done so for at least six months. They are not pulled from daytime rotations."
+          }
+        ],
+        "logoDirection": "A wordmark — The Late Plate Co set in a quiet display serif with a small illustration of a lamp shining on a plate beside it. The mark feels printed on a late-night diner placemat.",
+        "colorPalette": [
+          {
+            "name": "Night",
+            "hex": "#1B2030",
+            "meaning": "Primary — the colour of the urban night sky.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Lamp",
+            "hex": "#C7944A",
+            "meaning": "Secondary — the colour of a diner lamp.",
+            "usage": "Body type, signature elements."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing material."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A neutral grotesque for the night menu and partner-restaurant listings.",
+          "rationale": "Two faces. The serif tells the story of the night; the grotesque carries the menu."
+        }
       }
     ]
   }

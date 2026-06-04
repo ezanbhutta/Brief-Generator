@@ -76,6 +76,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "Harvest & Aisle delivers by:\n• Show the product, the producer, the price\n• Recommend three items per visit\n• Speak to the cook, not the shopper"
+      },
+      {
+        "id": "grocery-modern-2",
+        "brandName": "Larder & Lane",
+        "tagline": "A modern neighbourhood grocer. Considered.",
+        "brandDescription": "Larder & Lane is a modern neighbourhood grocer operating one to three small-format stores in dense urban neighbourhoods, with a curated catalog focused on pantry staples, produce, and prepared foods.",
+        "scope": "Larder & Lane works across:\n• Small-format neighbourhood grocery stores (under 5,000 sq ft)\n• Curated catalog of pantry staples, fresh produce, dairy, and prepared foods\n• Direct relationships with regional farms and producers\n• In-store prepared foods kitchen at each location\n• Annual customer letter with seasonal notes",
+        "mission": "To run small considered grocery stores that the neighbourhood actually uses every week.",
+        "vision": "A grocer whose third store is in the same neighbourhood as the first, with the same regular customers.",
+        "coreValues": [
+          "Considered — the catalog is curated.",
+          "Modern — small-format applied to the neighbourhood model.",
+          "Warm — the customers are known.",
+          "Specific — every producer is named."
+        ],
+        "brandNameRationale": "Larder is the archaic word for the household food storage room; Lane is the small street register. Paired they ground the brand in heritage household and neighbourhood vocabulary. Two-noun & paired naming follows the considered-modern grocery school (Bristol Farms, Erewhon's heritage spirit translated to small-format).",
+        "manifesto": "Most modern grocery is built around 60,000-square-foot supermarkets. We started Larder & Lane to build the opposite — small neighbourhood stores under 5,000 square feet, with a curated catalog focused on what households actually use every week. The neighbourhood relationship is the work.",
+        "industrySummary": "Grocery has consolidated around large-format supermarkets and rapid-delivery dark stores. The opening is for a small-format neighbourhood grocer with a curated catalog and direct producer relationships — closer in spirit to a heritage corner shop than to a modern supermarket.",
+        "competitorLandscape": "Erewhon (erewhonmarket.com) plays the considered-modern grocery peer at premium. Bristol Farms (bristolfarms.com) holds the regional considered-grocery peer slot. Foodland (foodlandhawaii.com) sits in the regional independent peer position. Citarella (citarella.com) plays the heritage neighbourhood grocer peer reference. We belong alongside Bristol Farms with a tighter small-format discipline.",
+        "positioningStatement": "Larder & Lane is a small-format modern neighbourhood grocer with a curated catalog of pantry staples, produce, and prepared foods.",
+        "positioningRationale": "We compete on small-format operations and catalog curation. Stores are under 5,000 sq ft; the catalog is curated to what households actually use weekly.",
+        "targetAudience": {
+          "primary": "Households in dense urban neighbourhoods who shop for groceries multiple times per week.",
+          "behaviors": [
+            "Shop for groceries three to five times per week.",
+            "Walk to the grocery store rather than drive.",
+            "Care about producer provenance and prepared-food quality.",
+            "Re-buy from trusted brands across years."
+          ],
+          "motivations": [
+            "Want a small neighbourhood grocer they can know.",
+            "Want curated pantry staples and produce.",
+            "Want prepared foods at restaurant quality."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the neighbourhood and the producers.",
+            "Publish seasonal availability notes on the store website.",
+            "Reference farm and producer relationships by name.",
+            "Sign correspondence by the store manager."
+          ],
+          "donts": [
+            "No 'mega-savings' marketing.",
+            "No 1,000-product category sprawl.",
+            "No promotional pricing theatre.",
+            "No checkout-line trickery."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Small-format stores",
+            "description": "Stores are under 5,000 sq ft. The format constrains the catalog; the catalog is the curation."
+          },
+          {
+            "name": "Direct producer relationships",
+            "description": "We maintain direct relationships with regional farms and producers. Producers are credited; relationships span years."
+          },
+          {
+            "name": "In-store prepared foods",
+            "description": "Every store has an in-store kitchen producing prepared foods daily. The kitchen is the store's culinary anchor."
+          }
+        ],
+        "logoDirection": "A wordmark — Larder & Lane set in a calm modern serif with a long ampersand. A small illustration of a pantry shelf sits above the wordmark on store signage.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the colour of the store's interior.",
+            "usage": "Signage, marketing surfaces."
+          },
+          {
+            "name": "Walnut",
+            "hex": "#3D2A1C",
+            "meaning": "Secondary — the colour of the store's wood fixtures.",
+            "usage": "Body type, the illustration."
+          },
+          {
+            "name": "Olive",
+            "hex": "#6B7547",
+            "meaning": "Single accent.",
+            "usage": "Section marks, seasonal-produce indicators."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and section signage.",
+          "secondary": "A book serif for seasonal notes and producer features.",
+          "rationale": "Two related serifs. The brand reads like a careful neighbourhood grocer's seasonal letter."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +253,101 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Provisions & Co. delivers by:\n• Address the client by surname\n• Name the producer, the region, the year\n• Send paper allocation cards by post"
+      },
+      {
+        "id": "grocery-luxury-2",
+        "brandName": "The Westbury Market",
+        "tagline": "A heritage grocer. One location. Three generations.",
+        "brandDescription": "The Westbury Market is a heritage independent grocer operating one historic store, in continuous family operation since 1912, with a deep catalog of imported and artisanal goods.",
+        "scope": "The Westbury Market works across:\n• A single historic flagship store\n• Deep catalog of imported and artisanal pantry, produce, and prepared foods\n• Custom hampers and bespoke ordering for established customer households\n• Multi-generational customer family relationships\n• Annual printed market journal sent to subscribed customers",
+        "mission": "To operate one historic grocery in the heritage independent grocer tradition, indefinitely.",
+        "vision": "A market whose 150th anniversary in 2062 is celebrated by the descendants of the customer families who shopped here in 1912.",
+        "coreValues": [
+          "Senior — the market's tradition is unbroken since 1912.",
+          "Discreet — customer family relationships stay private.",
+          "Considered — the catalog is deep and curated.",
+          "Warm — generations of customers are the practice."
+        ],
+        "brandNameRationale": "The Westbury Market uses the definite-article + place-name + Market convention common to heritage independent grocers (Borough Market, Fortnum & Mason's wider tradition, Citarella's heritage register). Westbury is a real English place-name with a market-town register. The Market suffix places the brand firmly in the heritage independent grocer tradition.",
+        "manifesto": "Most premium grocery has been absorbed into supermarket chains. The Westbury Market has remained an independent single-location grocer since 1912, in continuous family operation through four generations. Custom hampers, special orders, and personal customer relationships are the practice. The store is a market, not a supermarket.",
+        "industrySummary": "Heritage independent grocers are a small but enduring tradition (Borough Market vendors, Fortnum & Mason, Eli's Manhattan, Citarella). There is space for a brand operating in this heritage with custom-order capabilities and multi-generational customer relationships.",
+        "competitorLandscape": "Fortnum & Mason (fortnumandmason.com) is the heritage grocer reference at scale. Citarella (citarella.com) holds the heritage urban grocer peer slot. Eli's Manhattan (elizabar.com) sits in the heritage independent peer position. Harrods Food Hall (harrods.com) plays the heritage department-store grocer reference. We belong with the small heritage independent grocer category.",
+        "positioningStatement": "A heritage independent grocer operating one historic store since 1912 with a deep catalog of imported and artisanal goods and bespoke customer service.",
+        "positioningRationale": "We do not extend the market. The single historic store is the practice. Customer relationships span multiple generations of the customer family.",
+        "targetAudience": {
+          "primary": "Customer families who have shopped at the market across generations and households commissioning custom hampers, bespoke orders, and personal grocery service.",
+          "behaviors": [
+            "Shop at the market weekly across years.",
+            "Commission custom hampers for occasions and gifts.",
+            "Bring children and grandchildren into the same shopping relationship.",
+            "Pay full grocer pricing without complaint."
+          ],
+          "motivations": [
+            "Want a heritage grocer with continuity.",
+            "Want bespoke ordering and custom hampers.",
+            "Want a market that knows the family across generations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customers by surname.",
+            "Sign correspondence by the family principal.",
+            "Reference the market's founding year and historic customers.",
+            "Print the annual market journal on heavy paper."
+          ],
+          "donts": [
+            "No promotional marketing.",
+            "No social-media-led content.",
+            "No franchise extension.",
+            "No commercial partnerships."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One historic store",
+            "description": "The market operates from one historic store, in continuous use since 1912. We do not open a second location."
+          },
+          {
+            "name": "Bespoke ordering",
+            "description": "Customers can commission custom hampers, place special orders for imported goods, and arrange personal grocery service."
+          },
+          {
+            "name": "Multi-generational families",
+            "description": "Many customer families have shopped at the market across three or four generations. The customer book is the long-arc record."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Westbury Market set in a classical book serif with a small embossed mark depicting the historic storefront. The mark appears on the storefront sign, packaging, and printed customer correspondence.",
+        "colorPalette": [
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Primary — the colour of the market's heritage livery.",
+            "usage": "Storefront, packaging, signage."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Annual journal, letterhead."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Storefront detail, embossed mark."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, journal, and storefront signage.",
+          "secondary": "An engraver's italic for customer names in the printed journal.",
+          "rationale": "Letterpress register throughout. The market communicates in print and in person."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +421,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "MARKET delivers by:\n• Show the product, the price, the date\n• Confirm orders in one line\n• Use plain English"
+      },
+      {
+        "id": "grocery-minimal-2",
+        "brandName": "Stock",
+        "tagline": "A small grocer. One catalog.",
+        "brandDescription": "Stock is a minimal grocery brand selling a single permanent catalog of pantry staples in plain packaging, at plain published prices, with no fresh produce and no seasonal variation.",
+        "scope": "Stock works across:\n• A single permanent catalog of shelf-stable pantry staples (50 items)\n• Plain published per-item pricing\n• Direct sales online with no retail distribution\n• Single-tier shipping with one fixed fee\n• Annual single-page company report",
+        "mission": "To sell fifty good pantry staples and keep selling them.",
+        "vision": "A pantry brand whose tenth-anniversary catalog is the same fifty items as its first.",
+        "coreValues": [
+          "Plain — fifty items, fifty prices.",
+          "Direct — the catalog is the product.",
+          "Considered — every staple earns its place."
+        ],
+        "brandNameRationale": "Stock is the real grocery-trade word for shelf-held inventory — and the kitchen-trade word for the foundational broth used in cooking. Single archaic trade word, double meaning that grounds the brand in both retail and culinary contexts. Single-word naming follows the modern minimal grocery school (Brandless's spirit, Italic's pantry tier).",
+        "manifesto": "Most pantry brands expand into seasonal collections, gift bundles, and limited-edition flavours. We made Stock because the actual pantry is the same fifty items year after year — olive oil, vinegar, salt, pepper, beans, rice, flour, sugar, mustard. Stock sells those fifty. We do not add a fifty-first.",
+        "industrySummary": "Pantry brands pursue seasonal collections and flavour variants. There is real space for a minimal brand that strips the catalog to a permanent fifty items and refuses seasonal change.",
+        "competitorLandscape": "Brandless (brandless.com, now defunct) was the closest peer in minimal pantry. Italic's pantry tier (italic.com) plays the modern peer reference. Public Goods (publicgoods.com) holds the modern minimal household peer slot. Thrive Market (thrivemarket.com) sits in the curated-pantry peer position. We sit further out — fifty items, plain pricing, permanent catalog.",
+        "positioningStatement": "Stock is a pantry brand with a permanent 50-item catalog of shelf-stable staples at published fixed prices.",
+        "positioningRationale": "We strip the catalog. Fifty items. One price per item. No seasonal change.",
+        "targetAudience": {
+          "primary": "Households who want a reliable small set of pantry staples without choosing through endless variants.",
+          "behaviors": [
+            "Re-buy the same pantry items as they run out.",
+            "Skip seasonal collections and limited editions.",
+            "Want fixed pricing without sale cycles.",
+            "Care about pantry consistency more than variety."
+          ],
+          "motivations": [
+            "Want fifty good staples.",
+            "Want a catalog that doesn't change.",
+            "Want fixed pricing they can plan around."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the fifty items and prices on the home page.",
+            "Show one photograph per item.",
+            "Skip seasonal marketing.",
+            "Sign correspondence with the brand name only."
+          ],
+          "donts": [
+            "No seasonal collections.",
+            "No flavour variants.",
+            "No celebrity collaborations.",
+            "No flash sales."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Fifty items",
+            "description": "The catalog is fifty pantry staples. We do not add a fifty-first."
+          },
+          {
+            "name": "Plain pricing",
+            "description": "Each item has a single published price. No tiers. No bundles."
+          },
+          {
+            "name": "Permanent catalog",
+            "description": "The catalog is permanent. We re-ship the same fifty items year after year."
+          }
+        ],
+        "logoDirection": "Stock set in a neutral grotesque, all lowercase, at small scale on packaging and the website header. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page and packaging.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy and labels."
+          },
+          {
+            "name": "Mark",
+            "hex": "#7C5A3D",
+            "meaning": "Single accent — the colour of the pantry shelf.",
+            "usage": "Category dividers."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface across the labels, the website, and the receipt."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +615,101 @@
           "Professional — a core principle the brand operates by."
         ],
         "scope": "Northstar Grocery Partners works across:\n• Wholesale at scale\n• Editorial-grade selection\n• One distributor across categories"
+      },
+      {
+        "id": "grocery-corporate-2",
+        "brandName": "Hampton Grocery Holdings",
+        "tagline": "Multi-brand grocery operator, regional.",
+        "brandDescription": "Hampton Grocery Holdings operates a portfolio of grocery store brands across full-service supermarket, specialty grocery, and convenience-format categories.",
+        "scope": "Hampton Grocery Holdings works across:\n• Multi-brand grocery store operations\n• Shared supply-chain and procurement infrastructure\n• Private-label product development across brands\n• Real-estate portfolio management for store locations\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier grocery brands that want to keep their identity and outsource the operations.",
+        "vision": "A grocery operator whose portfolio brands grow under their own names because the supply chain and real estate are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — supply chain runs on schedule.",
+          "Reliable — predictable supply across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Hampton is a real American place-name common across the eastern United States with a heritage holding-company register. Grocery Holdings follows the multi-brand operator naming convention used in grocery (Albertsons Companies, Kroger Co., Ahold Delhaize structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Hampton Grocery Holdings owns and operates a portfolio of grocery store brands. Each brand retains its identity, regional positioning, and customer relationships; we operate the shared supply chain, procurement, private-label development, and back office. The buyer is a grocery brand founder considering sale, a real-estate operator seeking single-vendor anchor tenant relationships, or an institutional investor holding grocery assets.",
+        "industrySummary": "Grocery has consolidated under a small number of large multi-brand operators (Kroger, Albertsons, Ahold Delhaize). The opening underneath is for a regional mid-tier multi-brand operator with deep supply-chain operations and the procurement-grade reliability real-estate operators and institutional investors require.",
+        "competitorLandscape": "Albertsons Companies (albertsons.com) is the multi-brand grocery reference. Kroger (kroger.com) holds the multi-brand peer slot. Ahold Delhaize (aholddelhaize.com) sits in the international multi-brand peer position. Wakefern Food Corp (wakefern.com) plays the multi-banner cooperative peer reference. We belong in the regional mid-tier multi-brand grocery operator category.",
+        "positioningStatement": "Hampton Grocery Holdings is a regional multi-brand grocery operator running shared supply chain, procurement, private-label development, and real-estate management across a portfolio of brands.",
+        "positioningRationale": "We compete on shared supply-chain depth, private-label development capacity, and the operational reliability brand founders, real-estate operators, and institutional investors need.",
+        "targetAudience": {
+          "primary": "Grocery brand founders considering sale, real-estate operators seeking anchor tenants, and institutional investors holding grocery-category assets.",
+          "behaviors": [
+            "Manage multi-brand grocery operations.",
+            "Negotiate multi-year supply and real-estate agreements.",
+            "Care about supply-chain efficiency, private-label margins, and real-estate footprint.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared supply chain.",
+            "Need to keep brand identity post-acquisition.",
+            "Need a single-vendor multi-brand grocery relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, supply-chain footprint, and real-estate scale.",
+            "Speak the language of brand founders, real-estate operators, and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Hampton tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and operate four to eight grocery brands across full-service supermarket, specialty grocery, and convenience-format categories. Each retains its identity."
+          },
+          {
+            "name": "Shared supply chain",
+            "description": "Centralized supply-chain and procurement operations across the portfolio. Brands share supplier relationships and back office under a single operations team."
+          },
+          {
+            "name": "Private-label development",
+            "description": "Centralized private-label product development across brands. Each brand inherits access to private-label catalogs while maintaining its identity."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Hampton set in a traditional book serif, with 'Grocery Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and supply-chain documentation.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +802,101 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "The Pantry Project delivers by:\n• Make jokes about the chips aisle\n• Photograph customers eating the snacks\n• Talk to the snacker like a friend who'd share"
+      },
+      {
+        "id": "grocery-creative-2",
+        "brandName": "The Weekly Box Co",
+        "tagline": "A grocery brand built around what you actually cook.",
+        "brandDescription": "The Weekly Box Co is a creative-led grocery brand shipping a curated weekly box of ingredients selected to match three planned meals, with recipes printed on the box itself.",
+        "scope": "The Weekly Box Co works across:\n• Weekly subscription box of curated grocery ingredients\n• Three planned meals per box with recipes printed on the packaging\n• Direct relationships with farms and producers for box contents\n• Quarterly published essays on home cooking and weekly meal planning\n• Customer recipe-suggestion programme",
+        "mission": "To make weekly grocery planning a finished decision delivered to the door.",
+        "vision": "A grocery brand whose weekly box becomes the standard reference for home cooking rhythm.",
+        "coreValues": [
+          "Warm — the box is for the household.",
+          "Specific — every box has three planned meals.",
+          "Considered — the chef-curator selects what's in season.",
+          "Literary — the writing about home cooking is part of the brand."
+        ],
+        "brandNameRationale": "The Weekly Box is a phrase about the regular grocery delivery — the box that arrives once a week with what the household will cook. The definite article + Co suffix follows the considered-creative trade-name school. Stands in the lineage of creative-led grocery and meal-kit brands (Hello Fresh's category translated to grocery, Misfits Market spirit).",
+        "manifesto": "Most grocery shopping is decision fatigue extended over the week. We started The Weekly Box Co to compress the decision into one weekly delivery — a curated box of grocery ingredients selected to match three planned meals, with the recipes printed right on the box. The box arrives Tuesday; the cooking decisions are done.",
+        "industrySummary": "Meal-kit services have consolidated around pre-portioned, sometimes pre-cooked deliveries. There is real space for a grocery-focused box service that delivers ingredients (not meal kits) selected to match planned recipes, with the recipes printed on the packaging.",
+        "competitorLandscape": "Misfits Market (misfitsmarket.com) plays the closest peer in subscription grocery box. Imperfect Foods (imperfectfoods.com) holds the considered-modern peer slot. Hungryroot (hungryroot.com) sits in the curated-grocery-meal peer position. Daily Harvest (daily-harvest.com) plays the considered-meal subscription peer reference. We sit alongside Misfits Market with a stronger weekly-recipe focus.",
+        "positioningStatement": "The Weekly Box Co is a grocery subscription brand shipping a curated weekly box of ingredients selected to match three planned meals with recipes printed on the box.",
+        "positioningRationale": "The brand competes on the weekly compression. One delivery. Three planned meals. The recipes are the box.",
+        "targetAudience": {
+          "primary": "Households 30-50 who cook three or more meals per week at home and want grocery planning compressed into a weekly decision.",
+          "behaviors": [
+            "Cook three or more meals per week at home.",
+            "Subscribe to weekly recurring services.",
+            "Care about ingredient quality and recipe variety.",
+            "Want grocery planning simplified."
+          ],
+          "motivations": [
+            "Want one weekly delivery with planned meals.",
+            "Want recipes printed on the box.",
+            "Want a small considered grocery operation."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the week's planned meals on the home page.",
+            "Print recipes directly on the box packaging.",
+            "Sign correspondence by the chef-curator.",
+            "Publish quarterly essays on home cooking and meal-planning rhythm."
+          ],
+          "donts": [
+            "No 'magical convenience' marketing.",
+            "No pre-portioned meal-kit positioning.",
+            "No celebrity-chef partnerships.",
+            "No social-media-led launches."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Three planned meals per box",
+            "description": "Each weekly box contains the ingredients for three planned meals. The meals are selected by the chef-curator to use the season's available ingredients."
+          },
+          {
+            "name": "Recipes on the box",
+            "description": "Recipes are printed directly on the box packaging. Customers cook from the box without needing a separate recipe card or app."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on home cooking, weekly meal-planning rhythm, and seasonal ingredient cycles every quarter."
+          }
+        ],
+        "logoDirection": "A wordmark — The Weekly Box Co set in a quiet display serif with a small illustration of a box outline beside it. The mark appears on the box itself.",
+        "colorPalette": [
+          {
+            "name": "Box",
+            "hex": "#E8DFC7",
+            "meaning": "Primary — the colour of unbleached cardboard.",
+            "usage": "Packaging, marketing surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type and recipes.",
+            "usage": "Body, headings, recipe printing."
+          },
+          {
+            "name": "Herb",
+            "hex": "#5C6B47",
+            "meaning": "Single accent — the colour of fresh herbs.",
+            "usage": "Section marks, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and headings.",
+          "secondary": "A book serif for recipes printed on the box and quarterly essays.",
+          "rationale": "Two related serifs. The brand reads like a small printed home-cooking publication."
+        }
       }
     ]
   }

@@ -77,6 +77,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "PROMPT delivers by:\n• Show the prompt and the output side by side\n• Lead with what the tool ships\n• Speak to the engineer or designer who'd use the tool"
+      },
+      {
+        "id": "ai-tools-modern-2",
+        "brandName": "Inference Co",
+        "tagline": "A modern AI tools company. Inference-led.",
+        "brandDescription": "Inference Co is a modern AI infrastructure company building low-latency inference serving, model orchestration, and observability for production ML teams.",
+        "scope": "Inference Co works across:\n• Low-latency model inference serving on shared and dedicated infrastructure\n• Model orchestration across multi-provider model families\n• Observability and cost reporting per request\n• Self-hosted and managed cloud deployment options\n• Open-source core with paid enterprise tier",
+        "mission": "To make production model inference operationally predictable.",
+        "vision": "A company whose inference platform runs the working stack of every serious ML team by 2030.",
+        "coreValues": [
+          "Direct — benchmarks are published with methodology.",
+          "Modern — inference operations as the company's primary investment.",
+          "Technical — every claim is reproducible.",
+          "Reliable — the dashboard tells the truth."
+        ],
+        "brandNameRationale": "Inference is the foundational ML trade word for the act of running a trained model against new input. Single trade word + Co suffix. Stands in the lineage of single-word modern AI infrastructure brands (Replicate, Modal, Anyscale, Together, Fireworks).",
+        "manifesto": "Most AI tools companies sell the training side. We started Inference Co because the actual production cost and risk is in serving — latency, throughput, cost per request, observability under load. The platform handles the operational reality of running models at production scale.",
+        "industrySummary": "Modern AI infrastructure has split between training-focused platforms (Lambda Labs, CoreWeave) and inference-focused platforms (Replicate, Modal, Together). The opening is for a modern infrastructure company that competes on inference operations — latency, cost, observability — rather than on training compute.",
+        "competitorLandscape": "Replicate (replicate.com) holds the closest peer slot in considered inference serving. Modal (modal.com) plays the serverless ML peer position. Together AI (together.ai) sits in the multi-model inference middle. Fireworks AI (fireworks.ai) plays the low-latency inference peer reference. We sit alongside Replicate and Modal with a stronger observability discipline.",
+        "positioningStatement": "Inference Co is a modern AI infrastructure company specializing in low-latency model inference, multi-provider orchestration, and per-request observability.",
+        "positioningRationale": "We compete on inference operations: latency under load, cost per request, and the observability ML teams need to run models in production.",
+        "targetAudience": {
+          "primary": "ML engineers, platform engineers, and CTOs at companies running ML in production at scale.",
+          "behaviors": [
+            "Run inference at meaningful request volume (10K+ requests/day).",
+            "Care about p50/p95/p99 latency and cost per token.",
+            "Compare inference providers on benchmark data.",
+            "Read engineering blogs and contribute to open-source ML projects."
+          ],
+          "motivations": [
+            "Need inference infrastructure that's operationally predictable.",
+            "Want open-source core with sensible paid tiers.",
+            "Want a vendor whose engineers would use the same stack."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Technical",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish benchmark data with methodology.",
+            "Reference p50, p95, p99 latencies and cost per request.",
+            "Cite open-source repository activity.",
+            "Sign release notes by the engineer who shipped the feature."
+          ],
+          "donts": [
+            "No 'AI revolution' marketing.",
+            "No 'magical' positioning.",
+            "No press-release-led launches.",
+            "No benchmark numbers without published methodology."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Low-latency serving",
+            "description": "Optimized inference serving with documented p50/p95/p99 latencies per model family. Benchmarks published with methodology."
+          },
+          {
+            "name": "Multi-provider orchestration",
+            "description": "A single API surface across OpenAI, Anthropic, open-source, and self-hosted models. Routing rules and fallbacks are first-class."
+          },
+          {
+            "name": "Per-request observability",
+            "description": "Every request is observable end-to-end with token counts, latency breakdown, and cost reporting. The dashboard is the operations centre."
+          }
+        ],
+        "logoDirection": "A wordmark — Inference Co set in a precise modern grotesque with a small horizontal latency-line mark beside it.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#0F172A",
+            "meaning": "Primary — the colour of a dark terminal background.",
+            "usage": "Wordmark, headings, navigation."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent — the green of a successful request.",
+            "usage": "Status indicators, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark and product chrome.",
+          "secondary": "JetBrains Mono for code, benchmark tables, and latency figures.",
+          "rationale": "The grotesque is the company. The mono is the engineering."
+        }
       }
     ],
     "Luxury": [
@@ -159,6 +254,101 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "Atelier Models delivers by:\n• Speak in the language of AI research\n• Address the client by surname\n• Send paper reports for major model evaluations"
+      },
+      {
+        "id": "ai-tools-luxury-2",
+        "brandName": "Halpern & Vaughn AI Partners",
+        "tagline": "A small AI advisory partnership. Eight clients a year.",
+        "brandDescription": "Halpern & Vaughn AI Partners is a small senior AI advisory partnership advising significant institutions on model selection, deployment architecture, and AI governance.",
+        "scope": "Halpern & Vaughn AI Partners works across:\n• Model selection and deployment architecture for production systems\n• AI governance frameworks for regulated industries\n• Long-term retainer engagements with capital-markets and government clients\n• Confidential model evaluation and red-team services\n• Private senior-practitioner workshops by invitation",
+        "mission": "To advise a small number of significant institutions on the AI decisions that should not be made on a demo timeline.",
+        "vision": "A partnership whose engagement letters from 2024 are still in force in 2034.",
+        "coreValues": [
+          "Senior — the partners do the work.",
+          "Discreet — engagements stay private.",
+          "Considered — slow advice on fast-moving technology.",
+          "Patient — we engage across model generations."
+        ],
+        "brandNameRationale": "Halpern and Vaughn are real surnames common in the senior research and consulting tradition. Paired with AI Partners they signal a small senior advisory firm in the established consulting-partnership convention (Wachtell Lipton structure translated to AI advisory).",
+        "manifesto": "Most AI advisory work is sold as platform implementation. Halpern & Vaughn was founded as a two-partner advisory practice — eight engagements per year, partners on every project, no associates seeing client systems in our name. The roster is referral-only; most clients renew for multiple model generations.",
+        "industrySummary": "Premium AI advisory has consolidated under large consulting firms (McKinsey QuantumBlack, BCG Gamma, Accenture AI). There is a quieter market for the small senior partnership advising institutions on AI architecture, governance, and risk on a long-arc engagement model.",
+        "competitorLandscape": "Stamos Group (stamos.group) plays the closest peer in senior security-and-systems advisory. Hugging Face's enterprise advisory (huggingface.co) holds the model-focused peer slot. Anthropic's enterprise team (anthropic.com) sits in the model-vendor advisory position. Boston Consulting Group's Gamma practice plays the strategy-meets-AI peer reference. We belong with Stamos Group in the small senior partnership category, applied to AI.",
+        "positioningStatement": "A small senior AI advisory partnership taking eight client engagements per year, with the partners on every engagement.",
+        "positioningRationale": "We do not extend the partnership. The two partners are the engagement. Clients are accepted by referral; relationships span multiple model generations.",
+        "targetAudience": {
+          "primary": "CTOs and chief AI officers at capital-markets firms, government bodies, and significant institutions deploying AI in production with regulatory and reputational exposure.",
+          "behaviors": [
+            "Engage advisors by personal referral from senior peers.",
+            "Sit through architecture reviews in person.",
+            "Care about engagement quality over deck count.",
+            "Renew with the same firm across multiple model generations."
+          ],
+          "motivations": [
+            "Need advice from named senior partners, not associates.",
+            "Need a firm whose previous work survives model generation changes.",
+            "Need a relationship that survives changes in the institution's leadership."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname.",
+            "Sign correspondence by the named partner.",
+            "Reference past engagements by year and architecture type.",
+            "Print all material communications."
+          ],
+          "donts": [
+            "No published case studies.",
+            "No press commentary on AI work.",
+            "No social-media presence.",
+            "No conference circuit."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Eight engagements a year",
+            "description": "New engagements are accepted only when existing engagements complete. The waiting list is real."
+          },
+          {
+            "name": "Partners on every engagement",
+            "description": "Both partners are involved on every engagement. There is no associate layer."
+          },
+          {
+            "name": "Multi-model-generation arcs",
+            "description": "Most client institutions have been with the partnership across multiple model generations. We are still advising on systems we helped design at first GPT-3 commercial release."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Halpern & Vaughn AI Partners set in a classical book serif with a long ampersand. Letterhead register. Used on engagement letters and the office brass plate.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Letterhead.",
+            "usage": "All correspondence."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body of letters."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The office brass plate only."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif on letterhead and signage.",
+          "secondary": "An engraver's italic for the partnership name on the brass plate.",
+          "rationale": "Letterpress and engraver's register only."
+        }
       }
     ],
     "Minimal": [
@@ -232,6 +422,99 @@
           "Direct — we say what we mean without softening it."
         ],
         "scope": "CALL delivers by:\n• Show the endpoint and the example\n• Show the price per call\n• Use mono font for everything"
+      },
+      {
+        "id": "ai-tools-minimal-2",
+        "brandName": "Token",
+        "tagline": "A small AI company. One API.",
+        "brandDescription": "Token is a minimal AI tools company shipping a single inference API for text models with no second product line and plain published pricing.",
+        "scope": "Token works across:\n• A single inference API for text models\n• Plain published per-token pricing\n• Self-hosted enterprise license under a single annual fee\n• Free tier for individuals\n• One release per quarter, on a published date",
+        "mission": "To ship one focused inference API and keep it the standard.",
+        "vision": "An API that's still installed in production stacks in 2035, on the same single-fee enterprise license.",
+        "coreValues": [
+          "Plain — one API, one fee.",
+          "Direct — the API reference is the marketing.",
+          "Considered — every endpoint earns its place."
+        ],
+        "brandNameRationale": "Token is the foundational ML trade word for a single unit of language model input — single archaic trade word, deeply specific. Single-word naming follows the modern minimal AI school (Replicate, Modal, Mistral, Cohere register).",
+        "manifesto": "Most AI companies expand into platforms — chat, agents, fine-tuning, RAG, vector databases, evaluation, monitoring. We made Token because the actual best inference company makes one good API and keeps it good. One API. One fee for enterprise. One release per quarter. No second product.",
+        "industrySummary": "AI tools have rapidly expanded into multi-product platforms. There is real space for a minimal company shipping a focused commercial inference API with a clean self-hosted business model.",
+        "competitorLandscape": "Anthropic (anthropic.com) plays the model-provider peer at scale. OpenAI (openai.com) holds the broader model-platform peer slot. Mistral (mistral.ai) sits in the open-source-model peer position. Cohere (cohere.com) plays the enterprise model peer reference. We sit further out — single API, single enterprise fee, no second product.",
+        "positioningStatement": "Token is a single-API inference company shipping text model inference under a single annual enterprise license with no second product.",
+        "positioningRationale": "We strip the company surface. One API. One fee. No platform expansion.",
+        "targetAudience": {
+          "primary": "Engineering teams running production text-model inference at meaningful volume.",
+          "behaviors": [
+            "Reach for the API documentation first.",
+            "Care about API stability across years.",
+            "Want a clean commercial license without complex pricing.",
+            "Want a tool that doesn't expand into a platform."
+          ],
+          "motivations": [
+            "Want a small focused API.",
+            "Want a clean commercial license without SaaS sprawl.",
+            "Want a tool that doesn't grow into a competing product."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the API reference.",
+            "Publish the quarterly changelog as the news channel.",
+            "Show example requests and responses.",
+            "Sign release notes by the engineer who shipped them."
+          ],
+          "donts": [
+            "No 'AGI' marketing.",
+            "No platform-expansion announcements.",
+            "No conference keynote presence beyond a small table.",
+            "No 'next-generation' language."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One API",
+            "description": "The product is a single text-model inference API. Companion libraries in major languages mirror the API. We will not ship a second product."
+          },
+          {
+            "name": "Single enterprise fee",
+            "description": "Enterprise license is a single annual fee per company, regardless of seat count. Individual use is free."
+          },
+          {
+            "name": "Quarterly releases",
+            "description": "One release per quarter, on a published date. Patch releases for security issues only."
+          }
+        ],
+        "logoDirection": "Token set in JetBrains Mono, all lowercase, at small scale on documentation and the website header. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Terminal",
+            "hex": "#0F172A",
+            "meaning": "Primary.",
+            "usage": "Wordmark, code blocks."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Active states in API output."
+          }
+        ],
+        "typography": {
+          "primary": "JetBrains Mono for the wordmark, API output, and most marketing copy.",
+          "secondary": "Inter for prose paragraphs and pricing.",
+          "rationale": "Two faces. The mono signals 'this is the API'. The sans is the explanation."
+        }
       }
     ],
     "Corporate": [
@@ -333,6 +616,101 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Granite AI Partners works across:\n• Implementation discipline\n• Governance built in\n• One partner across the AI stack"
+      },
+      {
+        "id": "ai-tools-corporate-2",
+        "brandName": "Westgate AI Holdings",
+        "tagline": "Multi-brand AI tools operator, mid-market.",
+        "brandDescription": "Westgate AI Holdings operates a portfolio of AI tools brands across model serving, vector databases, fine-tuning platforms, and AI observability categories.",
+        "scope": "Westgate AI Holdings works across:\n• Multi-brand AI tools operations\n• Shared enterprise sales and account management\n• Enterprise contracting across the portfolio\n• Shared platform engineering and SRE function\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier AI tools brands that want to keep their identity and outsource the operations.",
+        "vision": "A multi-brand AI tools operator where every brand's renewal rate climbs in year two because the operations stop being the brand's problem.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — enterprise sales runs on schedule.",
+          "Reliable — predictable terms across the portfolio.",
+          "Discreet — brand relationships stay between us and the brand."
+        ],
+        "brandNameRationale": "Westgate is a real American place-name with a holding-company register. AI Holdings follows the multi-brand operator naming convention used in enterprise software (Salesforce's holding structure, Snowflake's enterprise positioning, Atlassian-style multi-brand). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Westgate AI Holdings owns and operates a portfolio of AI tools brands. Each brand retains its identity, engineering team, and roadmap; we operate the shared enterprise sales infrastructure, enterprise contracting, and back office. The buyer is a brand founder considering sale, an enterprise consolidating AI vendor relationships, or an institutional investor holding AI-category assets.",
+        "industrySummary": "AI tools has begun to consolidate under a small number of multi-brand platforms (Databricks acquired MosaicML, Nvidia's enterprise AI strategy). The opening underneath is for a serious mid-tier multi-brand operator with deep enterprise sales operations and the procurement-grade reliability enterprise AI customers require.",
+        "competitorLandscape": "Databricks (databricks.com) plays the multi-product AI platform peer at scale. Snowflake (snowflake.com) holds the data-AI platform peer slot. Anthropic (anthropic.com) sits in the model-vendor peer position. Hugging Face (huggingface.co) plays the multi-tool AI peer reference. We belong in the regional mid-tier multi-brand AI-tools operator category.",
+        "positioningStatement": "Westgate AI Holdings is a regional multi-brand AI tools operator running enterprise sales, contracting, and shared operations across a portfolio of independent product brands.",
+        "positioningRationale": "We compete on shared enterprise sales infrastructure, enterprise contracting reach, and the operational reliability brand founders need without giving up engineering direction.",
+        "targetAudience": {
+          "primary": "AI tools brand founders considering sale, enterprise architecture leads consolidating AI vendor relationships, and institutional investors holding AI-category assets.",
+          "behaviors": [
+            "Review software unit economics and customer cohort retention.",
+            "Negotiate multi-year enterprise license agreements.",
+            "Care about renewal rates, net dollar retention, and engineering team retention.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with strong enterprise sales infrastructure.",
+            "Need to keep brand identity and engineering roadmap post-acquisition.",
+            "Need shared procurement-ready operations across brands."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with portfolio brands, enterprise customer count, and renewal rates.",
+            "Speak the language of brand founders, CFOs, and CIOs.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Westgate tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social-media presence at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight independent AI tools brands across model serving, vector databases, fine-tuning, and observability. Each retains its identity."
+          },
+          {
+            "name": "Shared enterprise sales",
+            "description": "Single enterprise sales and account-management organisation across the portfolio. Brand founders focus on engineering; we run the sales motion."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for enterprise sales scale without losing engineering direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Westgate set in a traditional book serif, with 'AI Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and license tables.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -425,6 +803,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Marginalia AI delivers by:\n• Quote real bad prompts (with humor)\n• Show the bad output and the better one\n• Talk to the user like another tired AI user"
+      },
+      {
+        "id": "ai-tools-creative-2",
+        "brandName": "The Prompt Office",
+        "tagline": "An AI tools company for the people who write the prompts.",
+        "brandDescription": "The Prompt Office is a creative-led AI tools company building prompt-engineering workspaces, evaluation tooling, and version control for teams that write prompts as a primary deliverable.",
+        "scope": "The Prompt Office works across:\n• Collaborative prompt-engineering workspaces\n• Prompt evaluation and regression testing\n• Version control and audit trails for prompts in production\n• Educational resources for prompt-engineering as a discipline\n• Quarterly essays on the craft of prompt engineering",
+        "mission": "To treat prompt engineering as the discipline it has become.",
+        "vision": "A workspace where every team writing prompts in production tracks them with the same rigor engineers track code.",
+        "coreValues": [
+          "Specific — every prompt is tracked.",
+          "Considered — prompt engineering is a discipline.",
+          "Warm — the workspace respects the writer.",
+          "Literary — the writing about the craft is part of the work."
+        ],
+        "brandNameRationale": "The Prompt Office is a declarative naming convention — naming the company after the workspace where prompts are written — borrowed from OMA's full original name (Office for Metropolitan Architecture). The definite article + trade-noun + Office format reads as a small declarative outfit with a clear creative position. Stands in the lineage of creative-led AI tooling brands (Anthropic's Console register, Perplexity's interface tradition).",
+        "manifesto": "Most AI tools companies treat prompts as configuration. We started The Prompt Office because prompts have become a serious deliverable — written, versioned, tested, deployed — and the people writing them deserve tools that respect that work. The workspace is for the prompt engineer.",
+        "industrySummary": "Prompt engineering has emerged as a recognized discipline but most tools treat prompts as configuration files rather than as primary creative work. There is real space for a creative-led tools company that treats prompt-writing as the primary discipline and builds the workspace around it.",
+        "competitorLandscape": "PromptLayer (promptlayer.com) plays the closest peer in prompt observability. Humanloop (humanloop.com) holds the prompt-engineering platform peer slot. LangSmith (smith.langchain.com) sits in the LLM development middle. Galileo (galileo.ai) plays the LLM evaluation peer reference. We belong alongside Humanloop with a stronger workspace-craft focus.",
+        "positioningStatement": "The Prompt Office is an AI tools company building workspaces, evaluation tooling, and version control for prompt-engineering teams.",
+        "positioningRationale": "The brand competes on treating prompt engineering as a serious discipline. The workspace, the evaluation tools, and the published educational resources all argue for prompt-writing as a primary creative practice.",
+        "targetAudience": {
+          "primary": "Prompt engineers, ML engineers, and product engineers responsible for prompts in production systems.",
+          "behaviors": [
+            "Write prompts as a daily practice.",
+            "Maintain prompt libraries and version histories.",
+            "Run prompt-evaluation regression suites.",
+            "Subscribe to LLM-engineering newsletters."
+          ],
+          "motivations": [
+            "Want tools that treat prompt-writing as serious work.",
+            "Want a workspace built for collaborative prompt iteration.",
+            "Want version control and audit trails for prompts in production."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Considered",
+          "Warm",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the quarterly essay on prompt-engineering craft.",
+            "Reference specific prompt patterns by name.",
+            "Show actual prompt examples in marketing.",
+            "Sign release notes by the engineer who shipped the feature."
+          ],
+          "donts": [
+            "No 'no-code AI' marketing.",
+            "No 'AGI' positioning.",
+            "No press-release-led launches.",
+            "No conference-keynote hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "The workspace",
+            "description": "A collaborative prompt-engineering workspace with versioning, evaluation, and deployment built in. The workspace is the product."
+          },
+          {
+            "name": "Evaluation and regression",
+            "description": "Prompt-evaluation and regression testing as first-class features. Teams can compare prompt versions on test sets and prevent regressions."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The company publishes a long-form essay on prompt-engineering craft every quarter. The essay is the primary marketing artefact."
+          }
+        ],
+        "logoDirection": "A wordmark — The Prompt Office set in a quiet display serif with a small typographic mark suggesting an opening quote. The mark appears in the workspace header.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#F5F2EC",
+            "meaning": "Primary — the colour of a blank prompt.",
+            "usage": "Wordmark, workspace background."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body and prompts."
+          },
+          {
+            "name": "Mark",
+            "hex": "#5B1FD9",
+            "meaning": "Single accent — the colour of an evaluation marker.",
+            "usage": "Active states, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "JetBrains Mono for prompts, examples, and evaluation output.",
+          "rationale": "The serif speaks. The mono is the prompt."
+        }
       }
     ]
   }
