@@ -171,6 +171,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Cart & Crate Co works across:\n• One-click buy\n• Re-order at the top\n• Plain product pages"
+      },
+      {
+        "id": "ecommerce-modern-3",
+        "brandName": "Ledger & Lane",
+        "tagline": "A modern small online store. Inventory-led.",
+        "brandDescription": "Ledger & Lane is a modern small online store specializing in considered household and stationery goods, with a published ledger of stock levels and a small curated catalog.",
+        "scope": "Ledger & Lane works across:\n• Considered household and stationery goods\n• Published live stock levels per product\n• Small curated catalog (under 100 items)\n• Direct relationships with named makers and producers\n• Annual customer letter with maker stories",
+        "mission": "To run a modern small online store that tells the truth about what's in stock.",
+        "vision": "A store whose tenth-anniversary catalog is the same makers, the same considered goods, refined.",
+        "coreValues": [
+          "Considered — every item names its maker.",
+          "Modern — published stock levels.",
+          "Direct — the ledger is public.",
+          "Warm — the makers are the relationship."
+        ],
+        "brandNameRationale": "Ledger is the archaic trade word for the running inventory record; Lane is the small street register. Paired they ground the brand in heritage shopkeeper vocabulary. Two-noun & paired naming follows the considered-modern DTC school (Larder & Lane, Heath & Hound register).",
+        "manifesto": "Most online stores hide stock levels and run sales to obscure inventory mistakes. We started Ledger & Lane to publish the ledger — live stock levels per product, named makers, plain pricing. The store is small; the inventory is honest.",
+        "industrySummary": "DTC online retail has converged on infinite-scroll catalogs with hidden inventory. The opening is for a small store that publishes its stock levels and operates as a transparent shopkeeper.",
+        "competitorLandscape": "Quitokeeto (quitokeeto.com) plays the closest peer in considered small online stores. The Foundry Home Goods (thefoundryhomegoods.com) holds the considered-modern household peer slot. Heath Ceramics (heathceramics.com) sits in the heritage-modern peer position. Schoolhouse (schoolhouse.com) plays the considered-modern household peer reference. We sit alongside Quitokeeto with a stronger ledger-transparency discipline.",
+        "positioningStatement": "Ledger & Lane is a small modern online store with a published stock ledger, a curated catalog of household and stationery goods, and direct maker relationships.",
+        "positioningRationale": "We compete on inventory transparency and catalog discipline. The ledger is public; the catalog is small.",
+        "targetAudience": {
+          "primary": "Considered shoppers 30-55 who buy household and stationery goods from small online stores with maker stories.",
+          "behaviors": [
+            "Read product pages carefully before buying.",
+            "Care about maker provenance.",
+            "Re-buy from trusted stores across years.",
+            "Skip flash-sale shopping."
+          ],
+          "motivations": [
+            "Want a store with transparent stock levels.",
+            "Want a small curated catalog.",
+            "Want maker stories alongside the products."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish live stock levels on every product page.",
+            "Lead with the maker and the goods.",
+            "Send the annual customer letter in print.",
+            "Sign correspondence by the buyer."
+          ],
+          "donts": [
+            "No 'limited stock' urgency marketing.",
+            "No flash sales.",
+            "No infinite-scroll catalogs.",
+            "No 'best-seller' theatre."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Published ledger",
+            "description": "Live stock levels appear on every product page. Sold-out items stay listed with the next expected restock date."
+          },
+          {
+            "name": "Small curated catalog",
+            "description": "Fewer than 100 items in the catalog at any time. New items are added carefully and credited to the maker."
+          },
+          {
+            "name": "Annual maker letter",
+            "description": "Once a year customers receive a printed letter with maker stories from the year's new additions to the catalog."
+          }
+        ],
+        "logoDirection": "A wordmark — Ledger & Lane set in a calm modern serif with a long ampersand. A small inventory-line mark sits above the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the page colour of the printed ledger.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Olive",
+            "hex": "#6B7547",
+            "meaning": "Single accent.",
+            "usage": "Stock-level indicators, section marks."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and product names.",
+          "secondary": "A book serif for the maker stories and printed letter.",
+          "rationale": "Two related serifs. The brand reads like a careful shopkeeper's publication."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "Halsey & Crowne works across:\n• Twice a year\n• The maker named\n• Kept, not bought"
+      },
+      {
+        "id": "ecommerce-luxury-3",
+        "brandName": "The Ashby Mercantile",
+        "tagline": "A heritage online mercantile. Three generations.",
+        "brandDescription": "The Ashby Mercantile is a heritage online mercantile specializing in considered household and personal goods, in continuous family operation since 1948, with multi-generational customer relationships.",
+        "scope": "The Ashby Mercantile works across:\n• Considered household and personal goods in a deep curated catalog\n• Custom orders for established customer households\n• Multi-generational customer family relationships\n• Annual printed catalog mailed to past customers\n• Custom hampers and bespoke gifting",
+        "mission": "To operate a heritage mercantile in the family-owned tradition, indefinitely.",
+        "vision": "A mercantile whose 100th-anniversary catalog is the same considered curation, refined across generations.",
+        "coreValues": [
+          "Senior — the mercantile's tradition is unbroken since 1948.",
+          "Discreet — customer family relationships stay private.",
+          "Considered — the catalog is curated.",
+          "Warm — generations of customers are the practice."
+        ],
+        "brandNameRationale": "The Ashby Mercantile uses the definite-article + place-name + Mercantile convention common to heritage American and British mercantile firms (Tiffany & Co's mercantile heritage, Bergdorf Goodman's mercantile tradition, Fortnum & Mason's mercantile register). Ashby is a real English place-name with a heritage register. The Mercantile suffix places the brand firmly in the heritage household-goods tradition.",
+        "manifesto": "The Ashby Mercantile was founded in 1948 by the great-grandparents of the current principals. The mercantile produces an annual catalog of considered household and personal goods, plus custom orders and bespoke gifting. Many customer families have shopped at the mercantile across multiple generations.",
+        "industrySummary": "Heritage mercantile firms are rare and dominated by department store conglomerates. There is space for a small heritage mercantile operating in the family-owned tradition with custom-order capabilities.",
+        "competitorLandscape": "Fortnum & Mason (fortnumandmason.com) plays the heritage mercantile reference. Liberty London (libertylondon.com) holds the heritage department-store peer slot. Bergdorf Goodman (bergdorfgoodman.com) sits in the heritage American peer position. Goyard (goyard.com) plays the heritage continental peer reference. We belong with the small heritage family-owned mercantile tradition.",
+        "positioningStatement": "A heritage online mercantile in continuous family operation since 1948 with a deep curated catalog and bespoke customer service.",
+        "positioningRationale": "We do not extend the mercantile. The catalog is curated. Multi-generational customer relationships are the practice.",
+        "targetAudience": {
+          "primary": "Customer families with multi-generational mercantile relationships and households commissioning custom hampers, bespoke orders, and personal shopping service.",
+          "behaviors": [
+            "Shop at the mercantile across years.",
+            "Commission custom hampers for occasions and gifts.",
+            "Bring children and grandchildren into the same shopping relationship.",
+            "Pay full mercantile pricing without complaint."
+          ],
+          "motivations": [
+            "Want a heritage mercantile with continuity.",
+            "Want bespoke ordering and custom hampers.",
+            "Want a mercantile that knows the family across generations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customers by surname.",
+            "Sign correspondence by the family principal.",
+            "Reference the founding year and historic customers.",
+            "Print the annual catalog on heavy paper."
+          ],
+          "donts": [
+            "No promotional marketing.",
+            "No social-media-led content.",
+            "No franchise extension.",
+            "No commercial partnerships."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Annual printed catalog",
+            "description": "The mercantile publishes one printed catalog per year, mailed to past customers. The catalog is the marketing."
+          },
+          {
+            "name": "Custom orders and bespoke gifting",
+            "description": "Customers can commission custom hampers, place special orders for imported goods, and arrange personal shopping service."
+          },
+          {
+            "name": "Multi-generational families",
+            "description": "Many customer families have shopped at the mercantile across three or four generations. The customer book is the long-arc record."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Ashby Mercantile set in a classical book serif with a small embossed mark depicting a historic storefront. The mark appears on the catalog, packaging, and printed customer correspondence.",
+        "colorPalette": [
+          {
+            "name": "Burgundy",
+            "hex": "#5C1F1F",
+            "meaning": "Primary — the colour of the mercantile's heritage livery.",
+            "usage": "Wordmark, catalog cover, signage."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Catalog, letterhead."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Storefront detail, embossed mark."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, catalog, and letterhead.",
+          "secondary": "An engraver's italic for customer names and the founding year.",
+          "rationale": "Letterpress register throughout."
+        }
       }
     ],
     "Minimal": [
@@ -514,6 +704,99 @@
           "Direct — we say what we mean without softening it."
         ],
         "scope": "Carton works across:\n• One product, one page, one button\n• No promotions\n• One photograph"
+      },
+      {
+        "id": "ecommerce-minimal-3",
+        "brandName": "Aisle",
+        "tagline": "A small online shop. One aisle. One page.",
+        "brandDescription": "Aisle is a minimal online shop with a single-page catalog of household essentials in a fixed format, with no categories and no scroll-and-discover navigation.",
+        "scope": "Aisle works across:\n• A single-page catalog of household essentials\n• Fixed pricing per item\n• No categories, no filters, no scroll-and-discover navigation\n• Direct sales only\n• Annual single-page report",
+        "mission": "To run an online shop where the whole catalog fits on one page.",
+        "vision": "A shop whose 100th week of operation runs the same single-page format as week one.",
+        "coreValues": [
+          "Plain — one page, no navigation.",
+          "Direct — the catalog is the page.",
+          "Considered — every item earns its place."
+        ],
+        "brandNameRationale": "Aisle is the foundational retail trade word for the navigable row of a physical store — single archaic trade word, deeply specific to retail tradition. Single-word naming follows the modern minimal retail school (Carton, Stock register).",
+        "manifesto": "Most online shops use infinite scroll, categories, filters, and search. We made Aisle because the actual best small online shop fits its whole catalog on one page. One scroll. One page. No categories.",
+        "industrySummary": "Online shops have grown into complex navigation surfaces. There is real space for a minimal shop that strips the surface to one page.",
+        "competitorLandscape": "Italic (italic.com) plays the modern minimal peer at scale. Quince (onequince.com) holds the basics-direct peer slot. Public Goods (publicgoods.com) sits in the minimal-household peer position. We sit further out — one-page catalog, no navigation.",
+        "positioningStatement": "Aisle is an online shop with a single-page catalog of household essentials at published fixed prices.",
+        "positioningRationale": "We strip the shop to one page. No categories. No filters. No search.",
+        "targetAudience": {
+          "primary": "Shoppers who want essential household items without choosing through categories and filters.",
+          "behaviors": [
+            "Buy household basics rather than browse extensively.",
+            "Re-buy the same items as they run out.",
+            "Skip filter-and-sort navigation.",
+            "Want fixed pricing without sale cycles."
+          ],
+          "motivations": [
+            "Want a single-page catalog.",
+            "Want plain published pricing.",
+            "Want a shop with no navigation."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the entire catalog on the home page.",
+            "Skip category and filter marketing.",
+            "Confirm orders in one line.",
+            "Sign correspondence with the shop name only."
+          ],
+          "donts": [
+            "No categories or filters.",
+            "No infinite-scroll navigation.",
+            "No search.",
+            "No promotional pricing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Single-page catalog",
+            "description": "The whole catalog fits on one page. We do not add a category structure."
+          },
+          {
+            "name": "Fixed pricing",
+            "description": "Each item has a single published price. No tiers, no bundles."
+          },
+          {
+            "name": "No navigation",
+            "description": "No search. No filters. No categories. The shopper scrolls the page once."
+          }
+        ],
+        "logoDirection": "Aisle set in a neutral grotesque, all lowercase, at small scale on the page header and the receipt. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Mark",
+            "hex": "#7C5A3D",
+            "meaning": "Single accent.",
+            "usage": "Section markers within the page."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for labels and the receipt.",
+          "rationale": "One typeface across the shop, the receipt, and the email."
+        }
       }
     ],
     "Corporate": [
@@ -710,6 +993,101 @@
           "Discreet — what happens in the room stays in the room."
         ],
         "scope": "Marston Retail Group works across:\n• Multi-brand operator\n• Shared back office\n• Portfolio reporting"
+      },
+      {
+        "id": "ecommerce-corporate-3",
+        "brandName": "Crayford Commerce Holdings",
+        "tagline": "Multi-brand e-commerce operator.",
+        "brandDescription": "Crayford Commerce Holdings operates a portfolio of e-commerce brands across DTC household, apparel, and personal-goods categories.",
+        "scope": "Crayford Commerce Holdings works across:\n• Multi-brand e-commerce operations\n• Shared fulfillment infrastructure\n• Shared customer service and returns operations\n• Marketing and acquisition coordination across brands\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier e-commerce brands that want to keep their identity and outsource the operations.",
+        "vision": "An e-commerce operator whose portfolio brands grow under their own names because the fulfillment and back office are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — fulfillment runs on schedule.",
+          "Reliable — predictable operations across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Crayford is a real English place-name with a heritage trade register. Commerce Holdings follows the multi-brand operator naming convention used in e-commerce (Win Brands Group, Pattern, Berlin Brands Group structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Crayford Commerce Holdings owns and operates a portfolio of e-commerce brands. Each brand retains its identity, design leadership, and customer relationships; we operate the shared fulfillment, customer service, and back office. The buyer is a brand founder considering sale, a retailer seeking single-vendor brand relationships, or an institutional investor holding e-commerce assets.",
+        "industrySummary": "DTC e-commerce has consolidated under a small number of multi-brand operators (Win Brands Group, Pattern, Thrasio, Perch). The opening underneath is for a regional mid-tier multi-brand operator with deep fulfillment operations and the procurement-grade reliability retailers and institutional investors require.",
+        "competitorLandscape": "Win Brands Group (winbrandsgroup.com) is the multi-brand DTC reference. Pattern (pattern.com) holds the multi-brand peer slot. Berlin Brands Group (berlinbrandsgroup.com) sits in the multi-brand peer position. Thrasio (thrasio.com) plays the Amazon-focused peer reference. We belong in the regional mid-tier multi-brand e-commerce operator category.",
+        "positioningStatement": "Crayford Commerce Holdings is a regional multi-brand e-commerce operator running shared fulfillment, customer service, and marketing operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared fulfillment depth, customer service infrastructure, and the operational reliability brand founders and investors need.",
+        "targetAudience": {
+          "primary": "E-commerce brand founders considering sale, retail buyers seeking single-vendor brand relationships, and institutional investors holding e-commerce assets.",
+          "behaviors": [
+            "Review brand unit economics and customer cohort retention.",
+            "Negotiate multi-year supply and fulfillment agreements.",
+            "Care about CAC, LTV, and contribution margin.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared fulfillment.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations across brands."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, fulfillment footprint, and unit economics.",
+            "Speak the language of brand founders, retail buyers, and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Crayford tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight e-commerce brands across DTC household, apparel, and personal-goods categories. Each retains its identity."
+          },
+          {
+            "name": "Shared fulfillment",
+            "description": "Centralized fulfillment infrastructure across the portfolio. Brands share warehousing, shipping, and returns under a single operations team."
+          },
+          {
+            "name": "Shared customer service",
+            "description": "Centralized customer service operations across the portfolio. Brands share infrastructure but maintain brand-specific voice."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Crayford set in a traditional book serif, with 'Commerce Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and brand-portfolio documentation.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -897,6 +1275,101 @@
           "Specific — generalities are how people avoid commitment."
         ],
         "scope": "Reorder & Co works across:\n• The box matters\n• The wishlist is the marketing\n• Confirmation as celebration"
+      },
+      {
+        "id": "ecommerce-creative-3",
+        "brandName": "The Wrapped Box Co",
+        "tagline": "An online store where the unboxing is the brand.",
+        "brandDescription": "The Wrapped Box Co is a creative-led online store where every order is wrapped by hand in a specific way, with the wrapping treated as the central brand experience.",
+        "scope": "The Wrapped Box Co works across:\n• Hand-wrapped orders for every customer\n• Seasonal wrapping designs by commissioned artists\n• Annual wrapping calendar published in advance\n• Quarterly published essays on the wrapping tradition\n• Customer wrapping kits sold separately",
+        "mission": "To restore the wrapping as the central object of the online retail experience.",
+        "vision": "A store whose wrapping designs are collected by customers across years.",
+        "coreValues": [
+          "Warm — the unboxing is the moment.",
+          "Specific — every wrapping is hand-done.",
+          "Considered — the artist is credited.",
+          "Literary — the writing about wrapping is part of the brand."
+        ],
+        "brandNameRationale": "The Wrapped Box is the customer's first physical encounter with an online order — the unboxing moment. Naming the brand after the wrapping stakes a clear position around that moment as the central brand experience. The definite article + Co suffix follows the considered-creative trade-name school.",
+        "manifesto": "Most online stores treat packaging as a cost. We started The Wrapped Box Co because the actual brand moment for an online order is the wrapping — the box, the paper, the ribbon, the way it opens. We wrap every order by hand in a seasonal design commissioned from an artist. The wrapping is the brand.",
+        "industrySummary": "Packaging has been optimized for efficiency rather than as a brand experience. There is real space for a creative-led store that explicitly positions on the wrapping as the central work.",
+        "competitorLandscape": "Glossier's pink-bubble-bag packaging plays the closest peer in branded unboxing experience. Apple's packaging design plays the heritage reference. Mast Brothers' packaging plays the heritage-craft peer reference. We sit further out — every order hand-wrapped, seasonal artist designs.",
+        "positioningStatement": "The Wrapped Box Co is an online store where every order is hand-wrapped in a seasonal artist-commissioned design.",
+        "positioningRationale": "The brand competes on the wrapping experience. Every order, every season, every customer encounter is built around the wrapping.",
+        "targetAudience": {
+          "primary": "Online shoppers 28-50 who care about the unboxing experience and value considered packaging.",
+          "behaviors": [
+            "Photograph the unboxing.",
+            "Care about packaging materials and design.",
+            "Buy from brands whose packaging they keep.",
+            "Recommend brands to friends based on the unboxing."
+          ],
+          "motivations": [
+            "Want orders that are wrapped considered.",
+            "Want packaging designs they keep.",
+            "Want a brand where the unboxing is the work."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the wrapping design and the artist.",
+            "Photograph the unwrapping process.",
+            "Publish the seasonal wrapping calendar.",
+            "Sign correspondence by the wrapping lead."
+          ],
+          "donts": [
+            "No 'efficient shipping' marketing.",
+            "No plain corrugate boxes.",
+            "No automated wrapping.",
+            "No social-media-led marketing beyond unboxings."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Hand-wrapped orders",
+            "description": "Every order is wrapped by hand. The wrapping team is part of the brand."
+          },
+          {
+            "name": "Seasonal artist designs",
+            "description": "Wrapping designs change seasonally, each commissioned from a working artist. The artist is credited on every wrapping."
+          },
+          {
+            "name": "Annual wrapping calendar",
+            "description": "The brand publishes the year's wrapping calendar in January. Customers can see which design they'll receive."
+          }
+        ],
+        "logoDirection": "A wordmark — The Wrapped Box Co set in a quiet display serif with a small illustration of a wrapped box and ribbon beside it. The mark appears on the wrapping itself.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the wrapping paper.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Ribbon",
+            "hex": "#7E2B1F",
+            "meaning": "Secondary — the colour of the brand's signature ribbon.",
+            "usage": "Section marks, the ribbon detail."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and seasonal-design captions.",
+          "secondary": "A book serif for the quarterly essay and customer correspondence.",
+          "rationale": "The brand reads like a small printed publication on the wrapping tradition."
+        }
       }
     ]
   }
