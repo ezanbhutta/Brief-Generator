@@ -171,6 +171,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "WORN works across:\n• Designed for wear\n• Patina diary\n• Repair, not replace"
+      },
+      {
+        "id": "jewelry-modern-3",
+        "brandName": "Facet & File",
+        "tagline": "A modern small jeweler. Cut-led.",
+        "brandDescription": "Facet & File is a modern small jewelry house specializing in considered cuts and finishes, with garments designed for daily wear and a small catalog of multi-style pieces.",
+        "scope": "Facet & File works across:\n• Considered cuts and finishes across a small catalog\n• Multi-style pieces designed for daily wear\n• Plain published per-piece pricing\n• Direct stone-sourcing relationships\n• Annual customer letter with stone-sourcing notes",
+        "mission": "To make daily-wear jewelry at the standard of considered cuts and honest sourcing.",
+        "vision": "A small jewelry house whose pieces are still worn by the original buyers a decade later.",
+        "coreValues": [
+          "Considered — cuts and finishes are the work.",
+          "Modern — daily-wear discipline.",
+          "Specific — every stone is sourced.",
+          "Warm — pieces are designed to be worn."
+        ],
+        "brandNameRationale": "Facet is the cut surface of a gem; File is the jeweler's finishing tool. Paired they reference the two sides of jewelry craft. Two-noun & paired naming follows the considered-modern jewelry school (Worn, Carat register).",
+        "manifesto": "Most modern jewelry brands chase trends. We started Facet & File because the actual best jewelry is honest about its cuts, finishes, and sourcing. The catalog is small; the work is in the detail.",
+        "industrySummary": "DTC fine jewelry has converged on standard cuts and polished marketing. The opening is for a small brand that competes on cut, finish, and sourcing transparency.",
+        "competitorLandscape": "Catbird (catbirdnyc.com) plays the considered-indie peer. Mejuri (mejuri.com) holds the modern direct peer slot. Otiumberg (otiumberg.com) sits in the modern-minimal peer position. Aurate (auratenewyork.com) plays the considered-modern peer reference. We sit alongside Catbird with a sharper cut-and-finish discipline.",
+        "positioningStatement": "Facet & File is a small modern jewelry house with considered cuts, finishes, and stone-sourcing transparency.",
+        "positioningRationale": "We compete on cut quality and sourcing transparency. The catalog is small; the work is documented.",
+        "targetAudience": {
+          "primary": "Considered jewelry buyers 30-55 who care about cuts, finishes, and sourcing.",
+          "behaviors": [
+            "Care about cut quality and stone provenance.",
+            "Re-buy from trusted small brands.",
+            "Read product pages and care details.",
+            "Wear jewelry daily."
+          ],
+          "motivations": [
+            "Want jewelry designed for daily wear.",
+            "Want transparent stone sourcing.",
+            "Want a small considered catalog."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the cut, the finish, and the stone source.",
+            "Photograph pieces worn, not in studio.",
+            "Publish stone-sourcing information per piece.",
+            "Sign correspondence by the lead jeweler."
+          ],
+          "donts": [
+            "No 'sparkle' marketing.",
+            "No 'trend' positioning.",
+            "No social-media-first photography.",
+            "No promotional pricing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Considered cuts",
+            "description": "Every piece publishes its cut style, with cut details photographed at scale on the product page."
+          },
+          {
+            "name": "Stone sourcing",
+            "description": "Every stone publishes its source — the mine, the region, the certification. The sourcing is part of the product."
+          },
+          {
+            "name": "Daily wear",
+            "description": "Pieces are designed for daily wear with cuts and finishes that hold up across years."
+          }
+        ],
+        "logoDirection": "A wordmark — Facet & File set in a calm modern serif with a long ampersand. A small geometric facet mark sits above the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the page colour of the catalog.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Cut details, the mark."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and piece names.",
+          "secondary": "A book serif for stone-sourcing notes and customer letters.",
+          "rationale": "Two related serifs. The brand reads like a careful jeweler's publication."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "House of Marlbrough works across:\n• Fewer than four hundred per year\n• Signed and dated\n• Three generations"
+      },
+      {
+        "id": "jewelry-luxury-3",
+        "brandName": "The Ashcombe Goldsmiths",
+        "tagline": "A heritage goldsmith. Four generations.",
+        "brandDescription": "The Ashcombe Goldsmiths is a heritage goldsmith workshop producing custom fine jewelry by commission, in continuous family operation since 1894, with multi-generational client relationships.",
+        "scope": "The Ashcombe Goldsmiths works across:\n• Custom fine jewelry by commission\n• Heritage restoration of existing pieces\n• Multi-generational family commissions across weddings and inheritances\n• In-house workshop with permanent senior goldsmiths\n• Annual workshop journal sent to past clients",
+        "mission": "To produce custom fine jewelry in the heritage goldsmith tradition across generations of client families.",
+        "vision": "A workshop whose 150th anniversary in 2044 is producing for the great-grandchildren of original clients.",
+        "coreValues": [
+          "Senior — the workshop's tradition is unbroken since 1894.",
+          "Discreet — commissions stay private.",
+          "Considered — every piece is custom.",
+          "Warm — multi-generational families are the practice."
+        ],
+        "brandNameRationale": "The Ashcombe Goldsmiths uses the definite-article + place-name + Goldsmiths convention common to heritage British jewelry firms (the heritage Garrard tradition, Boodles' heritage register, Asprey's heritage roots). Ashcombe is a real English place-name with a heritage register. The Goldsmiths suffix in the plural signals a workshop tradition.",
+        "manifesto": "The Ashcombe Goldsmiths was founded in 1894 by the great-great-grandparents of the current principals. The workshop produces custom fine jewelry by commission, plus restoration of existing pieces. Many client families have commissioned from the workshop across multiple generations.",
+        "industrySummary": "Heritage goldsmith workshops are rare and dominated by luxury conglomerates. There is space for a small heritage workshop operating in the original family-owned tradition with custom commissions.",
+        "competitorLandscape": "Garrard (garrard.com) plays the heritage British goldsmith reference. Boodles (boodles.com) holds the heritage family-owned peer slot. Asprey (asprey.com) sits in the heritage British peer position. House of Marlbrough (within the catalog) plays the heritage peer reference. We belong with the small heritage family-owned goldsmith tradition.",
+        "positioningStatement": "A heritage goldsmith workshop producing custom fine jewelry by commission, in continuous family operation since 1894.",
+        "positioningRationale": "We do not extend the workshop. The principals work on every commission. Client family relationships span multiple generations.",
+        "targetAudience": {
+          "primary": "Client families commissioning custom fine jewelry for weddings, anniversaries, and inheritances, with multi-generational workshop relationships.",
+          "behaviors": [
+            "Commission custom jewelry for major family occasions.",
+            "Care about workshop tradition and goldsmith credentials.",
+            "Bring children and grandchildren for commissions.",
+            "Pay full workshop rates."
+          ],
+          "motivations": [
+            "Want a heritage goldsmith workshop.",
+            "Want multi-generational relationships.",
+            "Want custom commissions, not catalog pieces."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname.",
+            "Sign correspondence by the lead goldsmith on the commission.",
+            "Reference the founding year and historic commissions.",
+            "Print all client correspondence on heavy paper."
+          ],
+          "donts": [
+            "No retail mass-market distribution.",
+            "No social-media-led content.",
+            "No promotional pricing.",
+            "No celebrity collaborations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Custom commissions only",
+            "description": "Every piece is a custom commission. We do not produce catalog or ready-to-wear pieces."
+          },
+          {
+            "name": "In-house workshop",
+            "description": "All work is produced in the workshop by permanent senior goldsmiths. The same staff have been with the workshop across decades."
+          },
+          {
+            "name": "Multi-generational families",
+            "description": "Many client families have commissioned across three or four generations. The commission book is the long-arc record."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Ashcombe Goldsmiths set in a classical book serif with a small embossed mark depicting crossed jeweler's tools. The mark appears on commission documents, packaging, and the workshop letterhead.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the commission documents.",
+            "usage": "Letterhead, packaging."
+          },
+          {
+            "name": "Oxblood",
+            "hex": "#5C1F1F",
+            "meaning": "Secondary — the colour of the workshop's heritage livery.",
+            "usage": "Body type, the mark."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Signature elements, embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, commission documents, and letterhead.",
+          "secondary": "An engraver's italic for the founding year and goldsmith signatures.",
+          "rationale": "Letterpress register throughout."
+        }
       }
     ],
     "Minimal": [
@@ -514,6 +704,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Carat works across:\n• One photograph\n• Weight and dimension\n• One price"
+      },
+      {
+        "id": "jewelry-minimal-3",
+        "brandName": "Bezel",
+        "tagline": "A small jewelry brand. One setting.",
+        "brandDescription": "Bezel is a minimal jewelry brand specializing in bezel-set pieces only, with a small catalog of rings, earrings, and pendants at fixed published prices.",
+        "scope": "Bezel works across:\n• Bezel-set jewelry only (no prong, no pavé)\n• A small catalog of rings, earrings, and pendants\n• Plain published per-piece pricing\n• Two stone options per piece (white and brown diamond, ethically sourced)\n• Annual single-page brand report",
+        "mission": "To make bezel-set jewelry plainly, with one setting style and a small catalog.",
+        "vision": "A jewelry brand whose tenth-anniversary catalog is the same bezel-set pieces, refined.",
+        "coreValues": [
+          "Plain — one setting, two stones.",
+          "Direct — the catalog is the product.",
+          "Considered — every piece earns the setting."
+        ],
+        "brandNameRationale": "Bezel is the setting style where the stone is held by a metal collar — single archaic jewelry trade word, deeply specific. Single-word naming follows the modern minimal jewelry school (Worn, Carat register).",
+        "manifesto": "Most jewelry brands offer dozens of setting styles. We made Bezel because the actual best small jewelry brand specializes in one setting and refines it. Bezel only. Two stones. A small catalog.",
+        "industrySummary": "Jewelry brands offer broad setting and stone variety. There is real space for a minimal brand that specializes in one setting and refuses variations.",
+        "competitorLandscape": "Catbird (catbirdnyc.com) plays the considered-indie peer. Mejuri (mejuri.com) holds the modern direct peer slot. Otiumberg (otiumberg.com) sits in the modern-minimal peer position. We sit further out — bezel only, two stones, small catalog.",
+        "positioningStatement": "Bezel is a small jewelry brand specializing in bezel-set rings, earrings, and pendants at fixed published prices.",
+        "positioningRationale": "We strip the catalog to one setting. Two stones. Plain pricing.",
+        "targetAudience": {
+          "primary": "Jewelry buyers who prefer bezel settings and want a small specialized brand.",
+          "behaviors": [
+            "Prefer bezel to prong settings.",
+            "Skip multi-style jewelry catalogs.",
+            "Re-buy from trusted brands.",
+            "Want a fixed-price catalog."
+          ],
+          "motivations": [
+            "Want bezel-set pieces only.",
+            "Want a small specialized catalog.",
+            "Want fixed pricing."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the catalog and prices on the home page.",
+            "Show pieces in the bezel setting.",
+            "Skip multi-setting marketing.",
+            "Sign correspondence by the lead jeweler."
+          ],
+          "donts": [
+            "No prong or pavé pieces.",
+            "No multi-setting variations.",
+            "No promotional pricing.",
+            "No celebrity collaborations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Bezel only",
+            "description": "Every piece uses bezel setting. We do not offer prong, pavé, or channel settings."
+          },
+          {
+            "name": "Two stone options",
+            "description": "Each piece is offered in white or brown diamond, ethically sourced and certified."
+          },
+          {
+            "name": "Small catalog",
+            "description": "The catalog is a small set of rings, earrings, and pendants. We add new shapes carefully."
+          }
+        ],
+        "logoDirection": "Bezel set in a neutral grotesque, all lowercase, at small scale on the packaging and the website header. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the colour of the catalog page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Setting details, the piece chip."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for piece names and prices.",
+          "rationale": "One typeface across the catalog, the website, and the packaging."
+        }
       }
     ],
     "Corporate": [
@@ -710,6 +993,101 @@
           "Operational — the metric is what shipped, not what got pitched."
         ],
         "scope": "Renwick Goldsmith Ltd. works across:\n• Workshop capacity\n• Hallmark and compliance\n• Multi-year trade contracts"
+      },
+      {
+        "id": "jewelry-corporate-3",
+        "brandName": "Marwick Jewelry Holdings",
+        "tagline": "Multi-brand fine jewelry operator.",
+        "brandDescription": "Marwick Jewelry Holdings operates a portfolio of fine jewelry brands across heritage, modern, and bridal categories.",
+        "scope": "Marwick Jewelry Holdings works across:\n• Multi-brand fine jewelry operations\n• Shared workshop and manufacturing capacity\n• Stone sourcing across the portfolio\n• Retail distribution to specialty and prestige channels\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier fine jewelry brands that want to keep their identity and outsource the operations.",
+        "vision": "A jewelry operator whose portfolio brands grow under their own names because the workshop and sourcing are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — workshop and sourcing run on schedule.",
+          "Reliable — predictable operations across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Marwick is a real Scottish surname-and-place with a heritage trade register. Jewelry Holdings follows the multi-brand operator naming convention used in fine jewelry (Richemont, LVMH Watches & Jewelry, Compagnie Financière Richemont structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Marwick Jewelry Holdings owns and operates a portfolio of fine jewelry brands. Each brand retains its identity, design leadership, and customer relationships; we operate the shared workshop, stone sourcing, and back office. The buyer is a jewelry brand founder considering sale, a retailer seeking single-vendor brand relationships, or an institutional investor holding jewelry assets.",
+        "industrySummary": "Fine jewelry has consolidated under a small number of large multi-brand operators (Richemont, LVMH, Kering). The opening underneath is for a regional mid-tier multi-brand operator.",
+        "competitorLandscape": "Compagnie Financière Richemont (richemont.com) is the multi-brand fine jewelry reference. LVMH Watches & Jewelry (lvmh.com) holds the multi-brand peer slot. Movado Group (movadogroup.com) sits in the multi-brand peer position. We belong in the regional mid-tier multi-brand fine jewelry operator category.",
+        "positioningStatement": "Marwick Jewelry Holdings is a regional multi-brand fine jewelry operator running shared workshop, stone sourcing, and retail distribution across a portfolio of brands.",
+        "positioningRationale": "We compete on shared workshop capacity, stone-sourcing depth, and operational reliability.",
+        "targetAudience": {
+          "primary": "Fine jewelry brand founders considering sale, specialty and prestige jewelry retail buyers, and institutional investors holding jewelry assets.",
+          "behaviors": [
+            "Review brand unit economics and category velocity.",
+            "Negotiate multi-year retail supply agreements.",
+            "Care about workshop capacity, stone provenance, and lead times.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared workshop and sourcing.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations across brands."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, workshop footprint, and sourcing record.",
+            "Speak the language of brand founders, retail buyers, and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Marwick tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight fine jewelry brands across heritage, modern, and bridal categories. Each retains its identity."
+          },
+          {
+            "name": "Shared workshop",
+            "description": "Centralized workshop capacity across the portfolio. Brands share goldsmithing, setting, and finishing under a single operations team."
+          },
+          {
+            "name": "Shared stone sourcing",
+            "description": "Centralized stone-sourcing relationships across the portfolio. Brands inherit access to ethical sourcing networks."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Marwick set in a traditional book serif, with 'Jewelry Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and sourcing documentation.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -897,6 +1275,101 @@
           "Slightly cinematic — a core principle the brand operates by."
         ],
         "scope": "Heirloom & Co. works across:\n• Engraved boxes\n• Generational register\n• Repair forever"
+      },
+      {
+        "id": "jewelry-creative-3",
+        "brandName": "The Ring Box Co",
+        "tagline": "A jewelry brand where the box is part of the piece.",
+        "brandDescription": "The Ring Box Co is a creative-led jewelry brand designing every piece together with a custom presentation box made by the same workshop, with the box treated as part of the piece.",
+        "scope": "The Ring Box Co works across:\n• Fine jewelry with custom presentation boxes designed alongside the pieces\n• Box-and-piece pairings across rings, earrings, and pendants\n• Quarterly published essays on jewelry presentation and the box tradition\n• Box-only purchases for existing jewelry collectors\n• Annual customer letter on the workshop's year",
+        "mission": "To restore the presentation box as part of the jewelry rather than packaging.",
+        "vision": "A jewelry brand whose boxes are kept and displayed alongside the pieces.",
+        "coreValues": [
+          "Warm — the box is part of the piece.",
+          "Specific — every pairing is designed together.",
+          "Considered — the workshop makes both.",
+          "Literary — the writing about presentation is part of the brand."
+        ],
+        "brandNameRationale": "The Ring Box is the foundational object of jewelry presentation — the small lined box that holds and protects the piece. Naming the brand after the box stakes a clear position around presentation as part of the work. The definite article + Co suffix follows the considered-creative trade-name school.",
+        "manifesto": "Most jewelry brands ship pieces in throwaway packaging. We started The Ring Box Co because the actual best jewelry moment is the opening of a considered box. We design every box alongside the piece, in the same workshop, by the same makers. The box is part of the piece.",
+        "industrySummary": "Jewelry packaging is mostly outsourced and disposable. There is real space for a creative-led brand that explicitly designs presentation boxes as part of the work.",
+        "competitorLandscape": "Tiffany & Co (tiffany.com) plays the heritage presentation-box reference. Cartier (cartier.com) holds the heritage peer slot. House of Marlbrough (within the catalog) plays the heritage peer reference. We sit further out — box-and-piece designed together, single workshop.",
+        "positioningStatement": "The Ring Box Co is a jewelry brand designing custom presentation boxes alongside each piece, made by the same workshop.",
+        "positioningRationale": "The brand competes on the box-and-piece premise. Every piece, every box, every workshop decision builds the pairing.",
+        "targetAudience": {
+          "primary": "Jewelry buyers 30-55 who care about presentation and value pieces designed together with their boxes.",
+          "behaviors": [
+            "Care about jewelry presentation.",
+            "Keep ring boxes and display them.",
+            "Buy jewelry for occasions where presentation matters.",
+            "Value craft details in packaging."
+          ],
+          "motivations": [
+            "Want jewelry with considered presentation.",
+            "Want boxes designed alongside the pieces.",
+            "Want a workshop that thinks about the box."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the piece-and-box pairing.",
+            "Photograph the box and the piece together.",
+            "Publish the quarterly essay on jewelry presentation.",
+            "Sign correspondence by the workshop lead."
+          ],
+          "donts": [
+            "No throwaway packaging.",
+            "No mass-produced boxes.",
+            "No social-media-led marketing.",
+            "No 'unboxing experience' marketing language."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Box and piece together",
+            "description": "Every piece is designed alongside its presentation box. The box and the piece are made by the same workshop."
+          },
+          {
+            "name": "Custom box-only purchases",
+            "description": "Customers can commission custom boxes for existing jewelry pieces — heirlooms, inherited pieces, pieces from other workshops."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on jewelry presentation and the box tradition every quarter. The essay is the marketing."
+          }
+        ],
+        "logoDirection": "A wordmark — The Ring Box Co set in a quiet display serif with a small illustration of an open ring box beside it. The mark appears on the boxes themselves.",
+        "colorPalette": [
+          {
+            "name": "Velvet",
+            "hex": "#5C2D3D",
+            "meaning": "Primary — the colour of the box's velvet interior.",
+            "usage": "Box interior, signature elements."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Box hinges, the mark."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A book serif for customer correspondence and presentation cards.",
+          "rationale": "Two related serifs. The brand reads like a small printed publication on jewelry presentation."
+        }
       }
     ]
   }
