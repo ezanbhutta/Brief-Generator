@@ -171,6 +171,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "Verge Wine Co. works across:\n• One parcel per bottle\n• The edge\n• Direct only"
+      },
+      {
+        "id": "wine-modern-3",
+        "brandName": "Cask & Cellar",
+        "tagline": "A modern small wine merchant. Cellar-led.",
+        "brandDescription": "Cask & Cellar is a modern small wine merchant specializing in barrel-selected wines bought directly from producers, with a small monthly release calendar.",
+        "scope": "Cask & Cellar works across:\n• Barrel-selected wines from direct-producer relationships\n• Monthly release calendar of small allocations\n• Tasting notes per bottle with producer commentary\n• Direct customer email allocations\n• Annual harvest letter for subscribers",
+        "mission": "To run a modern wine merchant whose selections come from the cellar, not the catalog.",
+        "vision": "A merchant whose subscriber list still receives monthly allocations from the same producers a decade on.",
+        "coreValues": [
+          "Considered — barrel-selected from direct relationships.",
+          "Modern — monthly allocation discipline.",
+          "Specific — every producer is named.",
+          "Warm — the cellar is the relationship."
+        ],
+        "brandNameRationale": "Cask is the aging vessel; Cellar is the storage room. Paired they ground the brand in wine-trade tradition. Two-noun & paired naming follows the considered-modern wine school (Verge Wine Co., Vintner & Vat register).",
+        "manifesto": "Most modern wine merchants build catalogs. We started Cask & Cellar to buy from the cellar — barrel selections, direct producer relationships, monthly small allocations. The cellar is the work.",
+        "industrySummary": "Modern wine retail has converged on broad catalogs. The opening is for a small merchant with direct-producer barrel selection.",
+        "competitorLandscape": "Last Bottle Wines (lastbottlewines.com) plays the direct-merchant peer. Garagiste (garagistewine.com) holds the considered-allocation peer slot. Skurnik Wines (skurnik.com) sits in the importer peer position. We belong with the small direct-producer merchant tradition.",
+        "positioningStatement": "Cask & Cellar is a small modern wine merchant releasing monthly direct-producer barrel selections to a subscriber allocation list.",
+        "positioningRationale": "We compete on barrel-selection discipline. The merchant works with producers from the cellar forward.",
+        "targetAudience": {
+          "primary": "Wine drinkers 30-55 who follow specific producers and want allocation access.",
+          "behaviors": [
+            "Subscribe to allocation lists.",
+            "Care about producer relationships.",
+            "Follow specific cellars across vintages.",
+            "Re-buy from trusted merchants."
+          ],
+          "motivations": [
+            "Want barrel-selected wines.",
+            "Want allocation access.",
+            "Want a small merchant with direct relationships."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the producer and the barrel.",
+            "Publish tasting notes with producer commentary.",
+            "Send the annual harvest letter in print.",
+            "Sign correspondence by the buyer."
+          ],
+          "donts": [
+            "No 'sale' marketing.",
+            "No flash promotions.",
+            "No infinite catalogs.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Barrel selection",
+            "description": "Every release is barrel-selected from direct producer cellars."
+          },
+          {
+            "name": "Monthly allocations",
+            "description": "Subscribers receive monthly small allocations by email. Allocation is by sign-up order and tenure."
+          },
+          {
+            "name": "Producer commentary",
+            "description": "Every bottle's tasting note includes producer commentary from the cellar visit."
+          }
+        ],
+        "logoDirection": "A wordmark — Cask & Cellar set in a calm modern serif with a long ampersand. A small barrel mark sits above the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Cellar",
+            "hex": "#3D2A1C",
+            "meaning": "Primary — the colour of the cellar walls.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Section marks."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark.",
+          "secondary": "A book serif for tasting notes and producer commentary.",
+          "rationale": "Two related serifs."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "Château d'Aurigny works across:\n• Two cuvées\n• The cellar master\n• Allocation by mailing list"
+      },
+      {
+        "id": "wine-luxury-3",
+        "brandName": "The Beaufort Vineyards",
+        "tagline": "A heritage single-estate vineyard. Four generations.",
+        "brandDescription": "The Beaufort Vineyards is a heritage single-estate vineyard producing wine from owned land in continuous family operation since 1899, with allocations to multi-generational customer families.",
+        "scope": "The Beaufort Vineyards works across:\n• Single-estate viticulture and winemaking\n• Two annual cuvée releases (red and white)\n• Multi-generational allocation customer families\n• Annual harvest report sent to customers\n• Cellar visits for allocated customers",
+        "mission": "To produce wine from one estate in the heritage single-estate tradition, indefinitely.",
+        "vision": "An estate whose 150th-anniversary harvest in 2049 is overseen by the great-grandchildren of the current cellar master.",
+        "coreValues": [
+          "Senior — the estate's tradition is unbroken since 1899.",
+          "Discreet — allocations stay between us and the customer.",
+          "Considered — two cuvées per year.",
+          "Patient — the harvest is a year's work."
+        ],
+        "brandNameRationale": "The Beaufort Vineyards uses the definite-article + place-name + Vineyards convention common to heritage single-estate vineyards (Château Margaux's heritage, Domaine de la Romanée-Conti tradition, the small heritage estate register). Beaufort is a real place-name with a heritage register.",
+        "manifesto": "The Beaufort Vineyards was established in 1899. The estate produces two cuvées per year — a red and a white — from owned land. Allocations are made to a small customer list, many of whom have received wine across multiple generations.",
+        "industrySummary": "Heritage single-estate vineyards are rare and dominated by large châteaux. There is space for a small heritage estate operating in the original family-owned tradition with multi-generational allocation customers.",
+        "competitorLandscape": "Domaine de la Romanée-Conti (romanee-conti.fr) plays the unreachable peer. Vega Sicilia (vega-sicilia.com) holds the heritage estate peer slot. Domaine Leroy (domaineleroy.com) sits in the heritage peer position. We belong with the small heritage single-estate vineyards.",
+        "positioningStatement": "A heritage single-estate vineyard producing two annual cuvées in continuous family operation since 1899.",
+        "positioningRationale": "We do not extend the estate. Two cuvées. Multi-generational allocation customers.",
+        "targetAudience": {
+          "primary": "Multi-generational allocation customers and inheritors of long-held allocation rights.",
+          "behaviors": [
+            "Maintain wine allocations across decades.",
+            "Cellar wines from the estate across vintages.",
+            "Bring children into the allocation list.",
+            "Pay full estate pricing."
+          ],
+          "motivations": [
+            "Want allocation from a heritage estate.",
+            "Want continuity of family ownership.",
+            "Want multi-generational allocation rights."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customer families by surname.",
+            "Sign the harvest report by the cellar master.",
+            "Reference the founding year.",
+            "Print the annual harvest report on heavy paper."
+          ],
+          "donts": [
+            "No retail distribution.",
+            "No social-media presence.",
+            "No promotional pricing.",
+            "No celebrity collaborations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Two cuvées per year",
+            "description": "The estate produces one red and one white cuvée each year. The composition has remained essentially unchanged across four generations."
+          },
+          {
+            "name": "Allocation customers",
+            "description": "Allocations go to a capped list of customer families. Inheritance is common; new allocations are infrequent."
+          },
+          {
+            "name": "Annual harvest report",
+            "description": "Each year customers receive a printed harvest report — conditions, picking dates, cuvée notes, the cellar master's letter."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Beaufort Vineyards set in a classical book serif with a small embossed estate crest. The crest appears on the labels and harvest reports.",
+        "colorPalette": [
+          {
+            "name": "Burgundy",
+            "hex": "#5C1F1F",
+            "meaning": "Primary — the wine itself.",
+            "usage": "Wordmark, crest."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and labels.",
+            "usage": "Marketing, packaging."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and labels.",
+          "secondary": "An engraver's italic for vintage years.",
+          "rationale": "Letterpress register throughout."
+        }
       }
     ],
     "Minimal": [
@@ -514,6 +704,99 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Plot Eleven works across:\n• Plot, year, variety\n• One wine per year\n• Field data on the back"
+      },
+      {
+        "id": "wine-minimal-3",
+        "brandName": "Cuvée",
+        "tagline": "A small wine label. One cuvée per release.",
+        "brandDescription": "Cuvée is a minimal wine label releasing one cuvée at a time at a single fixed per-bottle price, with no other wines and no portfolio.",
+        "scope": "Cuvée works across:\n• One cuvée per release (rotating across varietals)\n• Fixed published per-bottle price\n• Direct customer sales by allocation email\n• No second wine, no portfolio\n• Annual single-page winery report",
+        "mission": "To make one good cuvée per release and stop there.",
+        "vision": "A label whose 100th release is the same single-cuvée format as release one.",
+        "coreValues": [
+          "Plain — one cuvée, one price.",
+          "Direct — the cuvée is the release.",
+          "Considered — every release earns the bottle."
+        ],
+        "brandNameRationale": "Cuvée is the foundational winemaking trade word for a specific blend or batch — single archaic trade word, deeply specific to wine. Single-word naming follows the modern minimal wine school (Plot Eleven register).",
+        "manifesto": "Most wine labels make a portfolio. We made Cuvée because the actual best small label releases one cuvée at a time. One bottle. One price. No portfolio.",
+        "industrySummary": "Wine labels pursue varietal portfolios. There is real space for a minimal label that strips to one cuvée per release.",
+        "competitorLandscape": "Single-cuvée producers in Burgundy and Barolo play heritage peer references. We sit in the modern single-release tradition.",
+        "positioningStatement": "Cuvée is a wine label releasing one cuvée at a time at a fixed published price.",
+        "positioningRationale": "We strip to one cuvée. One price. No portfolio.",
+        "targetAudience": {
+          "primary": "Wine buyers who want a single curated cuvée per release.",
+          "behaviors": [
+            "Buy by allocation rather than by browsing.",
+            "Skip portfolio shopping.",
+            "Want fixed pricing.",
+            "Care about the cuvée focus."
+          ],
+          "motivations": [
+            "Want one cuvée per release.",
+            "Want fixed pricing.",
+            "Want a small label with focus."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the cuvée and price on the home page.",
+            "Show one photograph of the bottle.",
+            "Skip portfolio marketing.",
+            "Sign correspondence by the winemaker."
+          ],
+          "donts": [
+            "No second wine.",
+            "No portfolio.",
+            "No promotional pricing.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One cuvée per release",
+            "description": "Each release is a single cuvée. We do not produce a second wine."
+          },
+          {
+            "name": "Fixed pricing",
+            "description": "Published per-bottle price. No tiers."
+          },
+          {
+            "name": "Allocation direct",
+            "description": "Direct customer email allocation. No retail distribution."
+          }
+        ],
+        "logoDirection": "Cuvée set in a neutral grotesque, all lowercase, at small scale on the label and the website. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Label.",
+            "usage": "Bottles, marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Wine",
+            "hex": "#5C1F1F",
+            "meaning": "Single accent.",
+            "usage": "Cuvée chip."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "Same family for the cuvée name.",
+          "rationale": "One typeface."
+        }
       }
     ],
     "Corporate": [
@@ -710,6 +993,101 @@
           "Discreet — what happens in the room stays in the room."
         ],
         "scope": "Heaton & Vail Vineyards works across:\n• Vineyard ownership\n• Production capacity\n• Trade contracts"
+      },
+      {
+        "id": "wine-corporate-3",
+        "brandName": "Wexley Wine Holdings",
+        "tagline": "Multi-brand wine operator.",
+        "brandDescription": "Wexley Wine Holdings operates a portfolio of wine brands across multiple categories with shared operations.",
+        "scope": "Wexley Wine Holdings works across:\n• Multi-brand wine operations\n• Shared sourcing and operations infrastructure\n• Retail and trade distribution\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier wine brands that want to keep their identity and outsource the operations.",
+        "vision": "A wine operator whose portfolio brands grow under their own names because the operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Wexley is a real English place-name with a heritage trade register. Wine Holdings follows the multi-brand operator naming convention used in wine. The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Wexley Wine Holdings owns and operates a portfolio of wine brands. Each brand retains its identity, leadership, and customer relationships; we operate the shared sourcing, operations, and back office. The buyer is a brand founder considering sale or an institutional investor.",
+        "industrySummary": "Wine has consolidated under a small number of multi-brand operators. The opening underneath is for a regional mid-tier multi-brand operator with deep operations.",
+        "competitorLandscape": "Various multi-brand operators in the wine category play peer references. We belong in the regional mid-tier multi-brand wine operator category.",
+        "positioningStatement": "Wexley Wine Holdings is a regional multi-brand wine operator running shared sourcing, operations, and distribution across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability for brand founders and institutional investors.",
+        "targetAudience": {
+          "primary": "Wine brand founders considering sale, retail buyers seeking single-vendor brand relationships, and institutional investors holding wine assets.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year supply agreements.",
+            "Care about operations, lead times, and brand-team retention.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared operations.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations across brands."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio and operations footprint.",
+            "Speak the language of brand founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Wexley tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight wine brands. Each retains its identity."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio. Brands share infrastructure under a single operations team."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for operational scale without losing brand direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Wexley set in a traditional book serif, with 'Wine Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -897,6 +1275,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Marigold Wine Project works across:\n• Illustrated labels\n• Small lots, plain stories\n• The list and the shops"
+      },
+      {
+        "id": "wine-creative-3",
+        "brandName": "The Late Harvest Co",
+        "tagline": "A wine brand for the wines picked last.",
+        "brandDescription": "The Late Harvest Co is a creative-led wine brand specializing entirely in late-harvest and botrytized wines, with seasonal releases timed to the late-picking calendar.",
+        "scope": "The Late Harvest Co works across:\n• Late-harvest and botrytized wine specialty\n• Seasonal releases tied to the late-picking calendar\n• Producer relationships across late-harvest regions\n• Quarterly published essays on late-harvest tradition\n• Annual gathering at the cellar for subscribers",
+        "mission": "To restore late-harvest wines as a primary category rather than a curiosity.",
+        "vision": "A brand whose late-harvest portfolio becomes the standard reference for serious dessert and sweet-wine drinkers.",
+        "coreValues": [
+          "Warm — late-harvest is the work.",
+          "Specific — every wine is late-picked.",
+          "Considered — the category is the brand.",
+          "Literary — the writing about late-harvest is part of the work."
+        ],
+        "brandNameRationale": "The Late Harvest is the real winemaking trade term for grapes picked after the main harvest. Naming the brand after the category stakes a clear creative position. The definite article + Co suffix follows the considered-creative trade-name school.",
+        "manifesto": "Most wine programs treat late-harvest wines as a side note. We started The Late Harvest Co because the actual most interesting wines are often the ones picked last — botrytized, late-harvest, ice wines. The category is the brand.",
+        "industrySummary": "Late-harvest wines are under-represented in modern wine retail. There is real space for a creative-led brand specializing entirely in the category.",
+        "competitorLandscape": "Royal Tokaji (royal-tokaji.com) plays the heritage late-harvest peer reference. Inniskillin Wines (inniskillin.com) holds the ice-wine peer slot. Sauternes producers play heritage references. We sit alongside Royal Tokaji with broader late-harvest coverage.",
+        "positioningStatement": "The Late Harvest Co is a wine brand specializing entirely in late-harvest and botrytized wines from producers across regions.",
+        "positioningRationale": "The brand competes on the late-harvest premise. Every release, every essay, every gathering is built around the category.",
+        "targetAudience": {
+          "primary": "Wine drinkers 35-65 who appreciate dessert wines and late-harvest wines specifically.",
+          "behaviors": [
+            "Cellar dessert wines.",
+            "Pair late-harvest wines with cheese and dessert.",
+            "Read late-harvest wine writing.",
+            "Pay full prices for specialty wines."
+          ],
+          "motivations": [
+            "Want a brand specialized in late-harvest.",
+            "Want producer relationships across regions.",
+            "Want a community of late-harvest drinkers."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the late harvest and the conditions.",
+            "Publish the quarterly essay on late-harvest tradition.",
+            "Reference producers by name.",
+            "Sign correspondence by the buyer."
+          ],
+          "donts": [
+            "No general-wine marketing.",
+            "No 'sweet wine' positioning.",
+            "No promotional pricing.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Late-harvest only",
+            "description": "Every wine is late-harvest, botrytized, or ice wine. We do not stock standard wines."
+          },
+          {
+            "name": "Producer relationships",
+            "description": "Direct relationships with producers across late-harvest regions — Sauternes, Tokaj, Niagara, Mosel, Australia."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on late-harvest tradition every quarter. The essay is the marketing."
+          }
+        ],
+        "logoDirection": "A wordmark — The Late Harvest Co set in a quiet display serif with a small grape-cluster illustration beside it. The mark feels printed on a heritage wine label.",
+        "colorPalette": [
+          {
+            "name": "Amber",
+            "hex": "#A6843D",
+            "meaning": "Primary — the colour of late-harvest wine.",
+            "usage": "Wordmark, signature elements."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Plum",
+            "hex": "#5C2D3D",
+            "meaning": "Secondary.",
+            "usage": "Body type, label borders."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark.",
+          "secondary": "A book serif for the quarterly essay and tasting notes.",
+          "rationale": "Two related serifs."
+        }
       }
     ]
   }
