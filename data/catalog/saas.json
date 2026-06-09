@@ -171,6 +171,101 @@
           "Restrained — every element earns its place."
         ],
         "scope": "Cadence works across:\n• One screen\n• Keyboard-first\n• Changelog as marketing"
+      },
+      {
+        "id": "saas-modern-3",
+        "brandName": "Stem Software",
+        "tagline": "A modern SaaS company. Core-software-led.",
+        "brandDescription": "Stem Software is a modern SaaS company building foundational data and workflow infrastructure used by other software products as the base layer of their stack.",
+        "scope": "Stem Software works across:\n• Foundational data infrastructure for production applications\n• Workflow orchestration libraries used across the stack\n• Self-hosted and managed cloud deployment options\n• Open-source core under permissive license\n• Long-versioned APIs with published deprecation schedules",
+        "mission": "To maintain the foundational layer of modern software stacks with the discipline production teams need.",
+        "vision": "A SaaS company whose libraries are still installed in production stacks ten years after first release.",
+        "coreValues": [
+          "Direct — the documentation is the marketing.",
+          "Technical — every benchmark is published.",
+          "Considered — features ship when they're stable.",
+          "Reliable — APIs deprecate on a published schedule."
+        ],
+        "brandNameRationale": "Stem is the foundational growing axis of a plant — the structural element through which everything else moves. As a software brand name it signals foundational infrastructure rather than surface features. Single archaic noun + plain category follows the modern minimal SaaS school (Stripe, Linear, Vercel register).",
+        "manifesto": "Most SaaS companies build features. We started Stem Software to build the parts of the stack that hold up the features — data infrastructure, workflow orchestration, observability under load. The stuff every other team builds badly because they didn't have time. The brand is the foundation.",
+        "industrySummary": "Modern SaaS has split between application-layer products and platform infrastructure. The opening is for a company that competes on infrastructure depth — the boring foundational layer that holds the whole stack up.",
+        "competitorLandscape": "Temporal (temporal.io) plays the closest peer in workflow orchestration infrastructure. Inngest (inngest.com) holds the developer-event peer slot. PlanetScale (planetscale.com) sits in the database infrastructure peer position. Supabase (supabase.com) plays the open-source-infra peer reference. We sit alongside Temporal with a stronger data-infrastructure focus.",
+        "positioningStatement": "Stem Software builds foundational data and workflow infrastructure for production software stacks, with strong open-source roots and disciplined API versioning.",
+        "positioningRationale": "We compete on the infrastructure layer rather than on the application surface. The customer is the engineer maintaining the production stack, not the engineer evaluating features at noon.",
+        "targetAudience": {
+          "primary": "Senior platform engineers, SREs, and engineering leads at companies running production software at scale.",
+          "behaviors": [
+            "Maintain production data and workflow infrastructure.",
+            "Read engineering blogs and contribute to open-source.",
+            "Care about tool stability and API longevity over feature breadth.",
+            "Choose tools based on open-source repository activity and release discipline."
+          ],
+          "motivations": [
+            "Need infrastructure that works in production for years.",
+            "Want strong open-source roots with sensible paid tiers.",
+            "Want long-versioned APIs with published deprecation schedules."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Technical",
+          "Considered",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the infrastructure problem, then the library.",
+            "Publish the open-source roadmap on the website.",
+            "Reference benchmarks, latencies, and footprint by published numbers.",
+            "Sign release notes by the engineer who shipped the feature."
+          ],
+          "donts": [
+            "No 'AI-powered' marketing.",
+            "No application-layer feature comparisons.",
+            "No press-release-led launches.",
+            "No surface-level positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Open-source core",
+            "description": "Every Stem library ships with an open-source core under a permissive license. The OSS version is production-capable; the paid version adds enterprise needs (SSO, audit, multi-region, support)."
+          },
+          {
+            "name": "Long-versioned APIs",
+            "description": "Public APIs are versioned and deprecated on a published 24-month schedule. Customers know what's stable across years."
+          },
+          {
+            "name": "Production-first releases",
+            "description": "Every release goes through the same production pipeline our customers use. Benchmarks and footprint metrics are published with every release."
+          }
+        ],
+        "logoDirection": "A wordmark — Stem Software set in a precise modern grotesque with a small geometric vertical mark suggesting a stem rising. The mark appears in the favicon and the CLI prompt.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#0F172A",
+            "meaning": "Primary — the colour of a dark terminal.",
+            "usage": "Wordmark, headings, navigation."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "Marketing surfaces, light-mode documentation."
+          },
+          {
+            "name": "Signal",
+            "hex": "#3D5BFF",
+            "meaning": "Single accent — primary actions and active states.",
+            "usage": "Buttons, links, status indicators."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark and product chrome.",
+          "secondary": "JetBrains Mono for code, command-line examples, and benchmark tables.",
+          "rationale": "Two faces. The grotesque is the company. The mono is the working surface."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "Senior — judgment over process, every time."
         ],
         "scope": "Pemberton Software Co. works across:\n• One major release per year\n• Buy once, own forever\n• Worth keeping"
+      },
+      {
+        "id": "saas-luxury-3",
+        "brandName": "The Westmore Software House",
+        "tagline": "A heritage software house. Three products. Decades-long.",
+        "brandDescription": "The Westmore Software House is a heritage independent software house producing a small catalog of three software products in continuous development since 1987, with multi-decade customer relationships.",
+        "scope": "The Westmore Software House works across:\n• Three software products in continuous development since founding\n• Perpetual licenses with optional annual upgrade subscriptions\n• Self-hosted only (no managed service)\n• Multi-decade customer relationships and inherited licenses\n• Annual printed software journal sent to license holders",
+        "mission": "To maintain three software products in the heritage independent-software-house tradition, indefinitely.",
+        "vision": "A software house whose products from 1987 are still in production use in 2037.",
+        "coreValues": [
+          "Senior — the engineers have been with the house for decades.",
+          "Discreet — customer license holdings stay private.",
+          "Considered — three products, refined slowly.",
+          "Patient — perpetual licenses, multi-decade development."
+        ],
+        "brandNameRationale": "The Westmore Software House uses the definite-article + place-name + Software House convention common to heritage independent software houses (Acorn Software, BBC Microcomputer-era software houses, the heritage software house tradition pre-SaaS). Westmore is a real English place-name with a heritage register. The Software House suffix places the brand firmly in the heritage independent-software tradition.",
+        "manifesto": "The Westmore Software House was founded in 1987 by two engineers who wanted to make software the way good firms make furniture — slowly, deliberately, for a long life. The house produces three software products. The products have remained in continuous development across four decades. Customers buy perpetual licenses and renew annually for upgrades.",
+        "industrySummary": "Heritage independent software houses with perpetual licenses are a small but enduring tradition (Tinderbox, BBEdit's parent, OmniGroup). There is space for a heritage software house operating in the original tradition — small catalog, perpetual licenses, multi-decade customer relationships.",
+        "competitorLandscape": "Panic Inc (panic.com) is the heritage indie software peer reference. JetBrains (jetbrains.com) holds the considered indie tooling peer slot. OmniGroup (omnigroup.com) sits in the heritage productivity-software peer position. Eastgate Systems (eastgate.com) plays the heritage indie publishing-software reference. We belong with Panic and Eastgate in the heritage independent software house category.",
+        "positioningStatement": "A heritage independent software house producing three software products in continuous development since 1987 with perpetual licenses and multi-decade customer relationships.",
+        "positioningRationale": "We do not extend the catalog. The three products are the house. Perpetual licenses; annual upgrade subscriptions are optional.",
+        "targetAudience": {
+          "primary": "Long-tenure software customers who have used the house's products for years and continue to renew, plus inheritors of long-held licenses.",
+          "behaviors": [
+            "Maintain software relationships across decades.",
+            "Care about software longevity, perpetual ownership, and continuity of development.",
+            "Inherit and transfer licenses across families.",
+            "Pay full upgrade fees without complaint."
+          ],
+          "motivations": [
+            "Want software they can own perpetually.",
+            "Want continuity of development across decades.",
+            "Want a heritage independent software house."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address license holders by surname.",
+            "Sign correspondence by the senior engineer of each product.",
+            "Reference the founding year and the founding engineers.",
+            "Print the annual software journal on heavy paper."
+          ],
+          "donts": [
+            "No subscription-only marketing.",
+            "No social-media-led announcements.",
+            "No promotional pricing.",
+            "No platform extensions."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Three products only",
+            "description": "The house produces three software products. We have not added a fourth in nearly four decades."
+          },
+          {
+            "name": "Perpetual licenses",
+            "description": "Every product is sold under a perpetual license. Annual upgrade subscriptions are optional; the customer's existing version keeps working forever."
+          },
+          {
+            "name": "Multi-decade development",
+            "description": "Each product has been in continuous development since the house was founded. Senior engineers work on the same product across decades."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Westmore Software House set in a classical book serif with a small embossed mark depicting a stylised letterpress block. The mark appears on packaging, the printed journal, and license certificates.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the printed journal.",
+            "usage": "Marketing, packaging, letterhead."
+          },
+          {
+            "name": "Walnut",
+            "hex": "#3D2A1C",
+            "meaning": "Secondary — the colour of the heritage software-house furniture.",
+            "usage": "Body type, the mark."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Signature elements, embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, journal, and printed material.",
+          "secondary": "An engraver's italic for the software-house founding year.",
+          "rationale": "Letterpress register throughout. The house communicates in printed annual journals."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +703,99 @@
           "Unbothered — a core principle the brand operates by."
         ],
         "scope": "Linen works across:\n• Open and begin\n• One job\n• No notifications"
+      },
+      {
+        "id": "saas-minimal-3",
+        "brandName": "Schema",
+        "tagline": "A small SaaS. One database schema.",
+        "brandDescription": "Schema is a minimal SaaS company shipping a single product — a versioned database schema management tool — at a single fixed enterprise license fee.",
+        "scope": "Schema works across:\n• A single versioned database schema management tool\n• Plain published per-company annual license fee\n• Self-hosted enterprise license under a single fee\n• Free tier for individuals and small teams\n• One release per quarter on a published date",
+        "mission": "To ship one focused database schema tool and keep it the standard.",
+        "vision": "A tool that's still installed in production database stacks in 2040, on the same single-fee enterprise license.",
+        "coreValues": [
+          "Plain — one tool, one fee.",
+          "Direct — the migration is the use case.",
+          "Considered — every flag earns its place."
+        ],
+        "brandNameRationale": "Schema is the foundational database trade word for the structural definition of a database's tables, columns, and relationships — single archaic trade word, deeply specific to database engineering. Single-word naming follows the modern minimal SaaS school (Linear, Stripe, Notion register).",
+        "manifesto": "Most database tools have grown into observability platforms with twelve features. We made Schema because the actual best small database tool does one thing well — manage schema versions across environments. One product. One fee. One release per quarter. No second feature.",
+        "industrySummary": "Database tooling has expanded into broad multi-feature platforms. There is real space for a minimal company shipping a focused commercial schema tool with a clean self-hosted business model.",
+        "competitorLandscape": "Liquibase (liquibase.com) plays the closest peer in schema management. Flyway (flywaydb.org) holds the heritage open-source schema migration slot. Atlas (atlasgo.io) sits in the modern schema-tooling peer position. dbmate (github.com/amacneil/dbmate) plays the minimal open-source peer reference. We sit further out — single product, single enterprise fee.",
+        "positioningStatement": "Schema is a single-product database schema management tool sold under a single annual enterprise license with no second product.",
+        "positioningRationale": "We strip the product surface. One tool. One fee. No platform expansion.",
+        "targetAudience": {
+          "primary": "Database engineers, platform engineers, and SREs running production databases at meaningful volume.",
+          "behaviors": [
+            "Manage database schemas across multiple environments.",
+            "Care about migration safety and versioning discipline.",
+            "Read engineering blogs and contribute to open-source database tooling.",
+            "Want clean commercial licenses without complex pricing."
+          ],
+          "motivations": [
+            "Want a small focused database tool.",
+            "Want a clean commercial license without SaaS sprawl.",
+            "Want a tool that doesn't grow into a platform."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the schema migration use case.",
+            "Publish the quarterly changelog as the news channel.",
+            "Show example migrations and outputs.",
+            "Sign release notes by the engineer who shipped them."
+          ],
+          "donts": [
+            "No 'database observability' marketing.",
+            "No platform-expansion announcements.",
+            "No conference keynote presence beyond a small table.",
+            "No 'next-generation' language."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One tool",
+            "description": "The product is a single schema management tool. Companion CLI and language libraries mirror the tool. We will not ship a second product."
+          },
+          {
+            "name": "Single enterprise fee",
+            "description": "Enterprise license is a single annual fee per company, regardless of seat count. Individual and small-team use is free."
+          },
+          {
+            "name": "Quarterly releases",
+            "description": "One release per quarter, on a published date. Patch releases for security issues only."
+          }
+        ],
+        "logoDirection": "Schema set in JetBrains Mono, all lowercase, at small scale on documentation and the website header. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Terminal",
+            "hex": "#0F172A",
+            "meaning": "Primary.",
+            "usage": "Wordmark, code blocks."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Diff",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Migration-status indicators."
+          }
+        ],
+        "typography": {
+          "primary": "JetBrains Mono for the wordmark, CLI output, and most marketing copy.",
+          "secondary": "Inter for prose paragraphs and pricing.",
+          "rationale": "Two faces. The mono signals 'this is the tool'. The sans signals 'this is the explanation'."
+        }
       }
     ],
     "Corporate": [
@@ -709,6 +992,101 @@
           "Trustworthy — a core principle the brand operates by."
         ],
         "scope": "Lattimer Systems Group works across:\n• Audit-ready by default\n• Procurement-friendly\n• Predictable cadence"
+      },
+      {
+        "id": "saas-corporate-3",
+        "brandName": "Bramley Software Group",
+        "tagline": "Multi-brand SaaS operator, regional.",
+        "brandDescription": "Bramley Software Group operates a portfolio of B2B SaaS brands across vertical software, infrastructure, and business operations categories.",
+        "scope": "Bramley Software Group works across:\n• Multi-brand B2B SaaS operations\n• Shared enterprise sales and account management\n• Shared platform engineering and SRE function\n• Cross-portfolio compliance (SOC 2, HIPAA, FedRAMP)\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier B2B SaaS brands that want to keep their identity and outsource the operations.",
+        "vision": "A SaaS operator whose portfolio brands grow under their own names because the enterprise sales and platform operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — enterprise sales runs on schedule.",
+          "Reliable — predictable terms across the portfolio.",
+          "Discreet — brand relationships stay between us and the brand."
+        ],
+        "brandNameRationale": "Bramley is a real English place-name with a heritage trade register. Software Group follows the multi-brand operator naming convention used in B2B SaaS (Vista Equity Partners' platform structure, Thoma Bravo's portfolio structure, Insight Partners' approach). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Bramley Software Group owns and operates a portfolio of B2B SaaS brands. Each brand retains its identity, engineering team, and product roadmap; we operate the shared enterprise sales infrastructure, compliance, and back office. The buyer is a brand founder considering sale, an enterprise consolidating SaaS vendor relationships, or an institutional investor holding SaaS assets.",
+        "industrySummary": "B2B SaaS has consolidated under a small number of multi-brand platforms (Vista Equity Partners portfolio, Thoma Bravo portfolio, Insight Partners). The opening underneath is for a regional mid-tier multi-brand operator with deep enterprise sales operations and the procurement-grade reliability enterprise SaaS customers require.",
+        "competitorLandscape": "Vista Equity Partners (vistaequitypartners.com) is the multi-brand SaaS reference. Thoma Bravo (thomabravo.com) holds the multi-brand peer slot. Insight Partners (insightpartners.com) sits in the multi-brand peer position. Constellation Software (csisoftware.com) plays the heritage multi-brand SaaS peer reference. We belong in the regional mid-tier multi-brand SaaS operator category.",
+        "positioningStatement": "Bramley Software Group is a regional multi-brand B2B SaaS operator running enterprise sales, compliance, and shared platform operations across a portfolio of independent product brands.",
+        "positioningRationale": "We compete on shared enterprise sales infrastructure, compliance reach, and the operational reliability brand founders need without giving up engineering direction.",
+        "targetAudience": {
+          "primary": "B2B SaaS brand founders considering sale, enterprise architecture leads consolidating SaaS vendors, and institutional investors holding SaaS assets.",
+          "behaviors": [
+            "Review software unit economics and customer cohort retention.",
+            "Negotiate multi-year enterprise license agreements.",
+            "Care about renewal rates, net dollar retention, and engineering team retention.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with strong enterprise sales infrastructure.",
+            "Need to keep brand identity and engineering roadmap post-acquisition.",
+            "Need shared procurement-ready operations across brands."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with portfolio brands, enterprise customer count, and renewal rates.",
+            "Speak the language of brand founders, CFOs, and CIOs.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Bramley tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social-media presence at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight B2B SaaS brands across vertical software, infrastructure, and business operations. Each retains its identity."
+          },
+          {
+            "name": "Shared enterprise sales",
+            "description": "Single enterprise sales and account-management organisation across the portfolio. Brand founders focus on engineering; we run the sales motion."
+          },
+          {
+            "name": "Cross-portfolio compliance",
+            "description": "SOC 2, HIPAA, and FedRAMP infrastructure shared across brands. Compliance is amortised across the portfolio."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Bramley set in a traditional book serif, with 'Software Group' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and license tables.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1274,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "Margin Software works across:\n• The case for slowness\n• Quiet releases\n• Letters, not posts"
+      },
+      {
+        "id": "saas-creative-3",
+        "brandName": "The Build Step Co",
+        "tagline": "A SaaS company for the part of the work between commits.",
+        "brandDescription": "The Build Step Co is a creative-led SaaS company building tools and observability for the build step — the transformation between source code and deployable artifacts that most engineering teams treat as an afterthought.",
+        "scope": "The Build Step Co works across:\n• Build observability and metrics across CI/CD pipelines\n• Build-step optimization tooling (cache management, dependency analysis)\n• Quarterly published essays on the build-step tradition\n• Open-source tooling for build observability\n• Educational programs for build engineers",
+        "mission": "To treat the build step as a first-class engineering discipline.",
+        "vision": "A SaaS company whose build-step observability becomes a standard reference for serious engineering teams.",
+        "coreValues": [
+          "Specific — every build step is observable.",
+          "Considered — the build step is a discipline.",
+          "Warm — the workspace respects the engineer.",
+          "Literary — the writing about builds is part of the work."
+        ],
+        "brandNameRationale": "The Build Step is the universally-understood engineering trade phrase for the transformation between source code and deployable artifacts — the CI/CD compile-and-package phase. The definite article + Co suffix follows the considered-creative trade-name school. Stands in the lineage of declarative engineering-tooling brands.",
+        "manifesto": "Most engineering tooling treats the build step as a black box. We started The Build Step Co because the actual most-watched-but-least-instrumented part of the engineering lifecycle is the build. We instrument it, optimize it, and write about it as a first-class engineering discipline.",
+        "industrySummary": "Engineering tooling has matured around source-code and observability layers. The opening is for a creative-led company that explicitly positions on the build step — the layer between source and runtime — as its primary creative position.",
+        "competitorLandscape": "Earthly (earthly.dev) plays the closest peer in build tooling. Buildkite (buildkite.com) holds the CI/CD peer slot. Garden (garden.io) sits in the build-and-deploy peer position. CircleCI (circleci.com) plays the CI/CD platform peer reference. We sit alongside Earthly with a sharper build-step observability focus.",
+        "positioningStatement": "The Build Step Co is a SaaS company building tools and observability for the CI/CD build step as a first-class engineering discipline.",
+        "positioningRationale": "The brand competes on the build-step position. Every tool, every essay, and every open-source contribution is built around the build step.",
+        "targetAudience": {
+          "primary": "Platform engineers, DevOps leads, and SREs responsible for CI/CD pipelines and build infrastructure.",
+          "behaviors": [
+            "Maintain CI/CD pipelines across multiple repositories.",
+            "Care about build times, cache hit rates, and pipeline reliability.",
+            "Read engineering blogs about build infrastructure.",
+            "Subscribe to engineering newsletters."
+          ],
+          "motivations": [
+            "Want tools that treat the build step as serious work.",
+            "Want a workspace built for build optimization.",
+            "Want observability built specifically for builds."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Considered",
+          "Warm",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the quarterly essay on the build-step tradition.",
+            "Reference specific build patterns by name.",
+            "Show actual build observability data in marketing.",
+            "Sign release notes by the engineer who shipped the feature."
+          ],
+          "donts": [
+            "No 'AI-powered' positioning.",
+            "No CI/CD platform-of-platforms marketing.",
+            "No press-release-led launches.",
+            "No conference-keynote hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Build observability",
+            "description": "Observability and metrics for the build step — build times, cache hit rates, dependency analysis, pipeline reliability — as the primary product."
+          },
+          {
+            "name": "Open-source tooling",
+            "description": "We publish the build-observability tools we use internally. The community uses them; the company earns reputation."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The company publishes a long-form essay on the build-step tradition every quarter — history, craft, philosophy."
+          }
+        ],
+        "logoDirection": "A wordmark — The Build Step Co set in a quiet display serif with a small geometric step-pattern mark beside it. The mark appears in the workspace header.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#F5F2EC",
+            "meaning": "Primary — the colour of a blank build log.",
+            "usage": "Wordmark, workspace background."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body and build output."
+          },
+          {
+            "name": "Mark",
+            "hex": "#5B1FD9",
+            "meaning": "Single accent — the colour of an active build step.",
+            "usage": "Active states, primary CTAs."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "JetBrains Mono for build logs and code examples.",
+          "rationale": "The serif speaks. The mono runs."
+        }
       }
     ]
   }
