@@ -173,6 +173,101 @@
           "Specific — generalities are how people avoid commitment."
         ],
         "scope": "Loaf Atelier works across:\n• Six loaves a day\n• Sold until gone\n• Baked overnight"
+      },
+      {
+        "id": "bakery-modern-3",
+        "brandName": "Flour & Salt",
+        "tagline": "A modern small bakery. Two ingredients.",
+        "brandDescription": "Flour & Salt is a modern small bakery specializing in considered breads made from heritage flour and salt only, with no additions and a small daily list.",
+        "scope": "Flour & Salt works across:\n• Considered breads from heritage flour and salt\n• No additions (no seeds, no oils, no flavourings)\n• Small daily list of three to five breads\n• Direct relationships with named mills\n• Annual customer letter",
+        "mission": "To make bread from heritage flour and salt, plainly.",
+        "vision": "A bakery whose breads are referenced across the city's serious cooks.",
+        "coreValues": [
+          "Considered — heritage flour and salt.",
+          "Modern — small disciplined list.",
+          "Plain — no additions.",
+          "Warm — the miller is the relationship."
+        ],
+        "brandNameRationale": "Flour and Salt are the two foundational bread ingredients. Paired they ground the brand in bread-trade fundamentals.",
+        "manifesto": "Most modern bakeries add ingredients. We started Flour & Salt because the actual best breads are made from flour and salt — and good flour, good salt, good fermentation.",
+        "industrySummary": "Modern bakeries have expanded ingredient lists. The opening is for a bakery competing on ingredient minimalism.",
+        "competitorLandscape": "Tartine (tartinebakery.com) plays the heritage modern peer. Hart Bageri (hartbageri.com) holds the modern peer slot. We belong alongside Hart Bageri with ingredient discipline.",
+        "positioningStatement": "Flour & Salt is a modern small bakery making bread from heritage flour and salt only.",
+        "positioningRationale": "We compete on ingredient minimalism.",
+        "targetAudience": {
+          "primary": "Bread customers 30-55 who care about flour provenance and bread purity.",
+          "behaviors": [
+            "Read ingredient lists.",
+            "Care about flour source and salt origin.",
+            "Re-buy from trusted bakeries.",
+            "Want bread without additions."
+          ],
+          "motivations": [
+            "Want flour-and-salt bread.",
+            "Want heritage flour sources.",
+            "Want a small disciplined catalog."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Plain",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the flour and the mill.",
+            "Publish the daily list.",
+            "Send the annual customer letter in print.",
+            "Sign correspondence by the head baker."
+          ],
+          "donts": [
+            "No flavoured breads.",
+            "No 'sourdough lifestyle' marketing.",
+            "No social-media-led marketing.",
+            "No promotional pricing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Flour and salt only",
+            "description": "Every bread is made from heritage flour, salt, water, and natural fermentation. No additions."
+          },
+          {
+            "name": "Named mills",
+            "description": "Flour is sourced from named mills. The miller is credited on every loaf's tag."
+          },
+          {
+            "name": "Small daily list",
+            "description": "Three to five breads per day. The list is posted by 6am."
+          }
+        ],
+        "logoDirection": "A wordmark — Flour & Salt set in a calm modern serif with a long ampersand. A small wheat-and-salt mark sits above.",
+        "colorPalette": [
+          {
+            "name": "Flour",
+            "hex": "#EFE9DD",
+            "meaning": "Primary.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Crust",
+            "hex": "#7C5A3D",
+            "meaning": "Secondary.",
+            "usage": "Body."
+          },
+          {
+            "name": "Salt",
+            "hex": "#FAFAF7",
+            "meaning": "Single accent.",
+            "usage": "Highlights."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark.",
+          "secondary": "A book serif for the daily list.",
+          "rationale": "Two related serifs."
+        }
       }
     ],
     "Luxury": [
@@ -350,6 +445,101 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "Boulangerie Vérin works across:\n• Two breads, three pastries\n• Third generation\n• One address"
+      },
+      {
+        "id": "bakery-luxury-3",
+        "brandName": "Boulangerie Aumont",
+        "tagline": "A Paris boulangerie. Third generation.",
+        "brandDescription": "Boulangerie Aumont is a heritage Paris boulangerie founded in 1955, in continuous family operation across three generations, producing a small catalog of breads and pastries from the original recipes.",
+        "scope": "Boulangerie Aumont works across:\n• Heritage Paris breads and pastries\n• Original recipes preserved across three generations\n• Multi-generational customer family relationships\n• Custom orders for occasions\n• Annual customer letter for regulars",
+        "mission": "To bake in the heritage Paris boulangerie tradition, indefinitely.",
+        "vision": "A boulangerie whose 100th anniversary is in the same family.",
+        "coreValues": [
+          "Senior — the family has run the boulangerie since 1955.",
+          "Discreet — customer family relationships stay private.",
+          "Considered — preserved recipes.",
+          "Warm — generations of customers are the practice."
+        ],
+        "brandNameRationale": "Boulangerie Aumont uses the Boulangerie + surname convention common to heritage French bakeries (Poilâne, Du Pain et des Idées, Maison Kayser format). Aumont is a real French surname. Direct convention, no article needed.",
+        "manifesto": "Boulangerie Aumont was founded in 1955 by the grandparents of the current principals. The recipes have remained essentially unchanged across three generations. Many customer families have shopped here across decades.",
+        "industrySummary": "Heritage Paris boulangeries remain a small but enduring tradition. There is space for a brand operating in the original family-owned register.",
+        "competitorLandscape": "Poilâne (poilane.com) plays the heritage Paris reference. Du Pain et des Idées (dupainetdesidees.com) holds the heritage peer slot. We belong with the small heritage Paris boulangerie tradition.",
+        "positioningStatement": "A heritage Paris boulangerie in continuous family operation since 1955 with a small catalog of preserved recipes.",
+        "positioningRationale": "We do not extend the boulangerie. Multi-generational customer families are the practice.",
+        "targetAudience": {
+          "primary": "Multi-generational Paris customers and considered bakery customers across the city.",
+          "behaviors": [
+            "Visit the boulangerie regularly.",
+            "Care about heritage recipes.",
+            "Bring children and grandchildren.",
+            "Pay full bakery prices."
+          ],
+          "motivations": [
+            "Want a heritage Paris boulangerie.",
+            "Want preserved recipes.",
+            "Want continuity of family and bread."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customers in French and English.",
+            "Sign correspondence by the family principal.",
+            "Reference the founding year.",
+            "Print all signage and correspondence."
+          ],
+          "donts": [
+            "No franchise extension.",
+            "No social-media-led content.",
+            "No promotional pricing.",
+            "No new-product launches."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Heritage recipes",
+            "description": "The recipes have remained essentially unchanged across three generations."
+          },
+          {
+            "name": "Three generations",
+            "description": "The boulangerie has been in the same family since 1955."
+          },
+          {
+            "name": "Multi-generational customers",
+            "description": "Many customers have shopped here across multiple generations."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Boulangerie Aumont set in a classical book serif with a small embossed wheat-and-bread crest.",
+        "colorPalette": [
+          {
+            "name": "Crust",
+            "hex": "#5C3F2A",
+            "meaning": "Primary.",
+            "usage": "Wordmark, signage."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Crest details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "An engraver's italic for the founding year.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -516,6 +706,99 @@
           "Quiet — restraint is the loudest thing in a noisy room."
         ],
         "scope": "Crumb works across:\n• One bread\n• Posted by 6am\n• One photograph"
+      },
+      {
+        "id": "bakery-minimal-3",
+        "brandName": "Banneton",
+        "tagline": "A small bakery. One bread per day.",
+        "brandDescription": "Banneton is a minimal bakery producing one bread per day at a single fixed price, with no menu and no additional products.",
+        "scope": "Banneton works across:\n• One bread per day\n• Single fixed per-loaf price\n• Counter sales only\n• No additional products\n• Annual single-page bakery report",
+        "mission": "To bake one good bread per day and stop there.",
+        "vision": "A bakery whose 1,000th day is the same single-bread format.",
+        "coreValues": [
+          "Plain — one bread per day.",
+          "Direct — the bread is the product.",
+          "Considered — every loaf is intentional."
+        ],
+        "brandNameRationale": "Banneton is the woven proofing basket used to shape sourdough loaves during their final rise — single archaic French trade word, deeply specific to bread baking. Single-word naming follows the modern minimal bakery school (Crumb register).",
+        "manifesto": "Most bakeries make many breads daily. We made Banneton because the actual best small bakery makes one good bread per day.",
+        "industrySummary": "Bakeries pursue broad daily menus. There is real space for a minimal bakery that strips to one bread per day.",
+        "competitorLandscape": "Lune Croissanterie (lunecroissanterie.com) plays the single-product peer reference. Crumb (within the catalog) holds the minimal peer slot. We sit further out — one bread per day.",
+        "positioningStatement": "Banneton is a bakery making one bread per day at a single fixed price.",
+        "positioningRationale": "We strip to one bread.",
+        "targetAudience": {
+          "primary": "Bread customers who want one good loaf daily and skip menu choice.",
+          "behaviors": [
+            "Buy bread for the day's meals.",
+            "Skip menu selection.",
+            "Re-buy from trusted bakers.",
+            "Want fixed pricing."
+          ],
+          "motivations": [
+            "Want one bread per day.",
+            "Want fixed pricing.",
+            "Want a small focused bakery."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the day's bread on the home page.",
+            "Show one photograph.",
+            "Skip menu marketing.",
+            "Sign correspondence by the baker."
+          ],
+          "donts": [
+            "No additional products.",
+            "No daily menu.",
+            "No promotional pricing.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One bread per day",
+            "description": "The bakery sells one bread daily. When it sells out, the door closes."
+          },
+          {
+            "name": "Fixed price",
+            "description": "Published per-loaf price."
+          },
+          {
+            "name": "Counter sales",
+            "description": "Direct counter sales only. No retail distribution."
+          }
+        ],
+        "logoDirection": "Banneton set in a neutral grotesque, all lowercase, at small scale on the counter and the receipt. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Flour",
+            "hex": "#EFE9DD",
+            "meaning": "Primary.",
+            "usage": "Surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Copy."
+          },
+          {
+            "name": "Crust",
+            "hex": "#7C5A3D",
+            "meaning": "Single accent.",
+            "usage": "Bread tag."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface."
+        }
       }
     ],
     "Corporate": [
@@ -712,6 +995,101 @@
           "Operational — the metric is what shipped, not what got pitched."
         ],
         "scope": "Halverson Baking Co. works across:\n• Family-owned, four generations\n• Production capacity\n• Multi-year supply"
+      },
+      {
+        "id": "bakery-corporate-3",
+        "brandName": "Birchwood Baking Group",
+        "tagline": "Multi-brand baking operator.",
+        "brandDescription": "Birchwood Baking Group operates a portfolio of baking brands across multiple categories with shared operations.",
+        "scope": "Birchwood Baking Group works across:\n• Multi-brand baking operations\n• Shared infrastructure across the portfolio\n• Distribution and trade relationships\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier baking brands that want to keep their identity and outsource the operations.",
+        "vision": "A baking operator whose portfolio brands grow under their own names because the operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Birchwood is a real American place-name with a heritage trade register. Baking Group follows the multi-brand operator naming convention used in baking. The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Birchwood Baking Group owns and operates a portfolio of baking brands. Each brand retains its identity, leadership, and customer relationships; we operate the shared infrastructure. The buyer is a brand founder considering sale or an institutional investor.",
+        "industrySummary": "Baking has consolidated under a small number of multi-brand operators. The opening underneath is for a regional mid-tier multi-brand operator with deep operations.",
+        "competitorLandscape": "Various multi-brand operators in the baking category play peer references. We belong in the regional mid-tier multi-brand baking operator category.",
+        "positioningStatement": "Birchwood Baking Group is a regional multi-brand baking operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability.",
+        "targetAudience": {
+          "primary": "Baking brand founders considering sale, distribution partners seeking single-vendor brand relationships, and institutional investors holding baking assets.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year operating agreements.",
+            "Care about operations, lead times, and brand-team retention.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Need an operator with shared infrastructure.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations across brands."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio and operations footprint.",
+            "Speak the language of brand founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Birchwood tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight baking brands. Each retains its identity."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio. Brands share infrastructure under a single operations team."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for operational scale without losing brand direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Birchwood set in a traditional book serif, with 'Baking Group' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -899,6 +1277,101 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Wild Yeast Bakery works across:\n• The starter is the brand\n• Labeled bake\n• Wild fermentation only"
+      },
+      {
+        "id": "bakery-creative-3",
+        "brandName": "Wood Oven Co",
+        "tagline": "A bakery built around the wood-fired oven.",
+        "brandDescription": "Wood Oven Co is a creative-led bakery operating exclusively with a wood-fired oven, with bread, pizza, and roasted goods made from the same fire.",
+        "scope": "Wood Oven Co works across:\n• Wood-fired bread, pizza, and roasted goods\n• Single oven shared across all products\n• Custom commissions for whole-roasted occasions\n• Quarterly published essays on wood-fired cooking\n• Annual gathering at the oven",
+        "mission": "To make a bakery where the oven is the central character.",
+        "vision": "A bakery whose wood-fired bread becomes a reference for fire-cooked goods.",
+        "coreValues": [
+          "Warm — the oven is the bakery.",
+          "Specific — every product touches the fire.",
+          "Considered — fire is the craft.",
+          "Literary — the writing about wood-firing is part of the brand."
+        ],
+        "brandNameRationale": "Wood Oven is the foundational wood-fired cooking tool — a phrase about fire and craft. Co is the small-firm convention. No 'The' prefix — direct trade-word + Co.",
+        "manifesto": "Most bakeries use electric or gas ovens. We started Wood Oven Co because the actual best fire-cooked goods come from a wood-fired oven.",
+        "industrySummary": "Wood-fired ovens are mostly limited to pizza. There is real space for a bakery that uses wood firing across bread and roasted goods.",
+        "competitorLandscape": "Sullivan St Bakery (sullivanstreetbakery.com) plays the wood-fired peer. Roberta's (robertaspizza.com) holds the wood-fired peer slot. We belong with the wood-fire tradition expanded across bread and roasting.",
+        "positioningStatement": "Wood Oven Co is a bakery operating exclusively with a wood-fired oven for bread, pizza, and roasted goods.",
+        "positioningRationale": "The brand competes on the wood-fire premise.",
+        "targetAudience": {
+          "primary": "Bread, pizza, and roasted-goods customers who value wood-fired cooking.",
+          "behaviors": [
+            "Care about wood-fired flavour.",
+            "Visit bakeries for the oven.",
+            "Pay for fire-cooked craft.",
+            "Want a fire-focused brand."
+          ],
+          "motivations": [
+            "Want wood-fired bread, pizza, and roasted goods.",
+            "Want a single-oven bakery.",
+            "Want fire as the craft."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the oven and the fire.",
+            "Photograph the oven and the products.",
+            "Publish the quarterly essay on wood-fired cooking.",
+            "Sign correspondence by the baker."
+          ],
+          "donts": [
+            "No gas or electric cooking.",
+            "No franchise extension.",
+            "No social-media-led marketing.",
+            "No mass-produced packaging."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Wood-fired only",
+            "description": "All products come from a single wood-fired oven. We do not cook with gas or electric."
+          },
+          {
+            "name": "Multi-product oven",
+            "description": "The oven serves bread, pizza, and roasted goods across the day."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The bakery publishes a long-form essay on wood-fired cooking every quarter."
+          }
+        ],
+        "logoDirection": "A wordmark — Wood Oven Co set in a hand-drawn display serif with a small flame illustration beside it.",
+        "colorPalette": [
+          {
+            "name": "Ember",
+            "hex": "#B23A2D",
+            "meaning": "Primary — the colour of oven embers.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Crust",
+            "hex": "#7C5A3D",
+            "meaning": "Secondary.",
+            "usage": "Body."
+          }
+        ],
+        "typography": {
+          "primary": "A hand-drawn display serif for the wordmark.",
+          "secondary": "A book serif for the quarterly essay.",
+          "rationale": "Two related faces."
+        }
       }
     ]
   }
