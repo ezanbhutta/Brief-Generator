@@ -171,6 +171,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "Almanac Brewing works across:\n• Six releases a year\n• Brewed to the season\n• Fresh or empty"
+      },
+      {
+        "id": "brewery-modern-3",
+        "brandName": "Mash & Wort",
+        "tagline": "A modern small brewery. Mash-led.",
+        "brandDescription": "Mash & Wort is a modern small brewery specializing in considered grain-bill brewing with a small annual catalog of mash-focused beers.",
+        "scope": "Mash & Wort works across:\n• Considered grain-bill brewing\n• A small annual catalog of mash-focused beers\n• Direct relationships with named maltsters\n• Annual brewery letter for subscribers\n• Open-published recipe philosophy",
+        "mission": "To brew beer where the mash is the central decision rather than the hop.",
+        "vision": "A brewery whose subscribers return for the same grain-bill explorations a decade on.",
+        "coreValues": [
+          "Considered — the mash is the decision.",
+          "Modern — small catalog discipline.",
+          "Specific — every maltster is credited.",
+          "Warm — the brewery is the relationship."
+        ],
+        "brandNameRationale": "Mash is the crushed-grain water solution that begins every brew; Wort is the sugar-rich liquid extracted from the mash. Paired they ground the brand in the brewing-trade fundamentals.",
+        "manifesto": "Most modern craft breweries are hop-focused. We started Mash & Wort because the actual most interesting brewing decisions are in the mash — grain bills, malt sources, mash temperatures.",
+        "industrySummary": "Craft brewing has converged on hop-focused IPAs. The opening is for a brewery that competes on mash discipline.",
+        "competitorLandscape": "Hill Farmstead (hillfarmstead.com) plays the small-batch peer. Allagash (allagash.com) holds the Belgian-tradition peer slot. Cellarman Brewing (within the catalog) plays the peer reference. We sit alongside Hill Farmstead with a sharper mash focus.",
+        "positioningStatement": "Mash & Wort is a modern small brewery specializing in considered grain-bill brewing with a small annual catalog.",
+        "positioningRationale": "We compete on mash discipline. The grain bills are documented.",
+        "targetAudience": {
+          "primary": "Craft beer drinkers 28-50 who follow specific maltsters and grain bills.",
+          "behaviors": [
+            "Read grain bills carefully.",
+            "Follow specific breweries across releases.",
+            "Care about malt sources.",
+            "Re-buy from trusted breweries."
+          ],
+          "motivations": [
+            "Want mash-focused brewing.",
+            "Want named maltsters.",
+            "Want a small considered catalog."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the grain bill and the maltster.",
+            "Publish mash schedules per beer.",
+            "Send the annual brewery letter in print.",
+            "Sign correspondence by the head brewer."
+          ],
+          "donts": [
+            "No 'extreme IPA' marketing.",
+            "No hop-focused positioning.",
+            "No flash releases.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Grain bills documented",
+            "description": "Every beer publishes its full grain bill with maltster credits."
+          },
+          {
+            "name": "Small annual catalog",
+            "description": "A small set of beers per year, each refined across releases."
+          },
+          {
+            "name": "Named maltsters",
+            "description": "Maltsters are credited on every can. The relationships are part of the brewery."
+          }
+        ],
+        "logoDirection": "A wordmark — Mash & Wort set in a calm modern serif with a long ampersand. A small grain mark sits above the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Malt",
+            "hex": "#A6843D",
+            "meaning": "Primary — the colour of malt.",
+            "usage": "Wordmark, packaging."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Cellar",
+            "hex": "#3D2A1C",
+            "meaning": "Secondary.",
+            "usage": "Body type."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark.",
+          "secondary": "A book serif for grain-bill notes.",
+          "rationale": "Two related serifs."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "Abbaye Saint-Cyran works across:\n• Three beers\n• Made by the community\n• Sold at the abbey"
+      },
+      {
+        "id": "brewery-luxury-3",
+        "brandName": "The Henley Brewery",
+        "tagline": "A heritage brewery. Four generations.",
+        "brandDescription": "The Henley Brewery is a heritage independent brewery operating in continuous family ownership since 1882, producing three beers from a single brewhouse.",
+        "scope": "The Henley Brewery works across:\n• Three beers produced in continuous tradition\n• Single historic brewhouse\n• Multi-generational customer family relationships\n• Annual brewery journal sent to customers\n• Limited annual cask program for cellar customers",
+        "mission": "To operate one historic brewery in the heritage family-owned tradition, indefinitely.",
+        "vision": "A brewery whose 200th anniversary in 2082 is in the same family.",
+        "coreValues": [
+          "Senior — the brewery's tradition is unbroken since 1882.",
+          "Discreet — customer relationships stay private.",
+          "Considered — three beers.",
+          "Warm — multi-generational customers are the practice."
+        ],
+        "brandNameRationale": "The Henley Brewery uses the definite-article + place-name + Brewery convention common to heritage British breweries (Fuller's Brewery, Adnams, Harvey's Brewery tradition). Henley is a real English place-name with a heritage register.",
+        "manifesto": "The Henley Brewery was founded in 1882 by the great-great-grandparents of the current principals. The brewery produces three beers from a single brewhouse, in continuous tradition across four generations.",
+        "industrySummary": "Heritage independent breweries are a small but enduring British tradition (Harvey's, Adnams, Fuller's heritage). There is space for a small heritage brewery operating in the original family-owned tradition.",
+        "competitorLandscape": "Harvey's Brewery (harveys.org.uk) plays the heritage British peer reference. Adnams Brewery (adnams.co.uk) holds the heritage peer slot. Fuller's Brewery (fullers.co.uk) sits in the heritage peer position. We belong with the small heritage British brewery tradition.",
+        "positioningStatement": "A heritage independent brewery operating one historic brewhouse since 1882 with three beers in continuous tradition.",
+        "positioningRationale": "We do not extend the brewery. Three beers. Multi-generational customer families.",
+        "targetAudience": {
+          "primary": "Heritage beer customers and customer families with multi-generational relationships to the brewery.",
+          "behaviors": [
+            "Maintain customer relationships with the brewery across years.",
+            "Visit the brewery for tours.",
+            "Bring children to the tradition.",
+            "Pay full heritage-beer prices."
+          ],
+          "motivations": [
+            "Want a heritage brewery.",
+            "Want multi-generational tradition.",
+            "Want continuity of beer and family."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customers by surname.",
+            "Sign correspondence by the head brewer.",
+            "Reference the founding year.",
+            "Print the annual journal on heavy paper."
+          ],
+          "donts": [
+            "No social-media marketing.",
+            "No promotional pricing.",
+            "No franchise extension.",
+            "No celebrity collaborations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Three beers",
+            "description": "The brewery produces three beers in continuous tradition. The recipes have remained essentially unchanged."
+          },
+          {
+            "name": "Single brewhouse",
+            "description": "All brewing happens in one historic brewhouse, in continuous use since 1882."
+          },
+          {
+            "name": "Multi-generational customers",
+            "description": "Many customer families have purchased across multiple generations."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Henley Brewery set in a classical book serif with a small embossed brewery emblem.",
+        "colorPalette": [
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Primary.",
+            "usage": "Wordmark, signage."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "An engraver's italic for the founding year.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -514,6 +704,99 @@
           "Direct — we say what we mean without softening it."
         ],
         "scope": "Lot Seven Beerworks works across:\n• Lot, date, style\n• One batch at a time\n• Field data on the back"
+      },
+      {
+        "id": "brewery-minimal-3",
+        "brandName": "Keg",
+        "tagline": "A small brewery. One beer. One keg.",
+        "brandDescription": "Keg is a minimal brewery producing one beer at a time, served exclusively on draft from a small taproom, with no packaging.",
+        "scope": "Keg works across:\n• One beer at a time, brewed in small batches\n• Draft service only from the taproom\n• No packaged beer, no distribution\n• Plain published per-pour price\n• Annual single-page brewery report",
+        "mission": "To brew one good beer at a time and pour it from the keg.",
+        "vision": "A brewery whose 100th batch is in the same single-beer format.",
+        "coreValues": [
+          "Plain — one beer, one keg.",
+          "Direct — the taproom is the brewery.",
+          "Considered — every batch earns the keg."
+        ],
+        "brandNameRationale": "Keg is the foundational beer-distribution vessel — single archaic trade word, deeply specific to brewing. Single-word naming follows the modern minimal brewing school (Lot Seven Beerworks register).",
+        "manifesto": "Most breweries package and distribute. We made Keg because the actual best small brewery serves one beer at a time on draft from a single taproom. One beer. One keg.",
+        "industrySummary": "Breweries pursue packaging and distribution. There is real space for a minimal brewery that strips to draft-only single-beer service.",
+        "competitorLandscape": "Hill Farmstead's draft-only experiments play the closest peer. Most micro-breweries package. We sit further out — single beer, single draft, no packaging.",
+        "positioningStatement": "Keg is a brewery serving one beer at a time on draft from a single taproom.",
+        "positioningRationale": "We strip to one beer. Draft only. No packaging.",
+        "targetAudience": {
+          "primary": "Beer drinkers who want fresh draft beer from a single brewery focus.",
+          "behaviors": [
+            "Visit breweries for taproom service.",
+            "Skip packaged beer.",
+            "Want one good beer per visit.",
+            "Care about freshness."
+          ],
+          "motivations": [
+            "Want one beer at a time.",
+            "Want draft-only service.",
+            "Want a small focused brewery."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the current beer and price on the home page.",
+            "Show the taproom.",
+            "Skip packaging marketing.",
+            "Sign correspondence by the brewer."
+          ],
+          "donts": [
+            "No packaged beer.",
+            "No distribution.",
+            "No promotional pricing.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One beer at a time",
+            "description": "The brewery serves one beer. When the keg is empty, the next beer begins."
+          },
+          {
+            "name": "Draft only",
+            "description": "All service is draft from the taproom. No packaging, no cans, no bottles."
+          },
+          {
+            "name": "Plain pricing",
+            "description": "Per-pour pricing is published. No tiers."
+          }
+        ],
+        "logoDirection": "Keg set in a neutral grotesque, all lowercase, at small scale on the taproom signage. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Metal",
+            "hex": "#7C7B7A",
+            "meaning": "Primary — the colour of stainless kegs.",
+            "usage": "Signage."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Pour",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The current-beer chip."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family.",
+          "rationale": "One typeface."
+        }
       }
     ],
     "Corporate": [
@@ -710,6 +993,101 @@
           "Discreet — what happens in the room stays in the room."
         ],
         "scope": "Caldwell Brewing Holdings works across:\n• Multi-brand operator\n• Shared distribution\n• Acquisition and partnership"
+      },
+      {
+        "id": "brewery-corporate-3",
+        "brandName": "Larkfield Brewing Holdings",
+        "tagline": "Multi-brand brewing operator.",
+        "brandDescription": "Larkfield Brewing Holdings operates a portfolio of brewing brands across multiple categories with shared operations.",
+        "scope": "Larkfield Brewing Holdings works across:\n• Multi-brand brewing operations\n• Shared sourcing and operations infrastructure\n• Retail and trade distribution\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier brewing brands that want to keep their identity and outsource the operations.",
+        "vision": "A brewing operator whose portfolio brands grow under their own names because the operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Larkfield is a real English place-name with a heritage trade register. Brewing Holdings follows the multi-brand operator naming convention used in brewing. The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Larkfield Brewing Holdings owns and operates a portfolio of brewing brands. Each brand retains its identity, leadership, and customer relationships; we operate the shared sourcing, operations, and back office. The buyer is a brand founder considering sale or an institutional investor.",
+        "industrySummary": "Brewing has consolidated under a small number of multi-brand operators. The opening underneath is for a regional mid-tier multi-brand operator with deep operations.",
+        "competitorLandscape": "Various multi-brand operators in the brewing category play peer references. We belong in the regional mid-tier multi-brand brewing operator category.",
+        "positioningStatement": "Larkfield Brewing Holdings is a regional multi-brand brewing operator running shared sourcing, operations, and distribution across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability for brand founders and institutional investors.",
+        "targetAudience": {
+          "primary": "Brewing brand founders considering sale, retail buyers seeking single-vendor brand relationships, and institutional investors holding brewing assets.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year supply agreements.",
+            "Care about operations, lead times, and brand-team retention.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared operations.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations across brands."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio and operations footprint.",
+            "Speak the language of brand founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Larkfield tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight brewing brands. Each retains its identity."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio. Brands share infrastructure under a single operations team."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for operational scale without losing brand direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Larkfield set in a traditional book serif, with 'Brewing Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -897,6 +1275,101 @@
           "A little cinematic — a core principle the brand operates by."
         ],
         "scope": "Stranger & Co Brewery works across:\n• Literary labels\n• The taproom as set\n• Unfamiliar styles"
+      },
+      {
+        "id": "brewery-creative-3",
+        "brandName": "The Pour Room Co",
+        "tagline": "A brewery built around the room where the pour happens.",
+        "brandDescription": "The Pour Room Co is a creative-led brewery operating small taprooms positioned entirely around the pour itself — the moment, the glassware, the room — with the pour treated as the central brand experience.",
+        "scope": "The Pour Room Co works across:\n• Small taprooms designed around the pour experience\n• Considered glassware paired to each beer\n• Pour-side service with named pourers\n• Quarterly published essays on the pour tradition\n• Annual gathering of customers in the brewery",
+        "mission": "To restore the pour as the central moment of the brewery experience.",
+        "vision": "A brewery whose pour rooms become small cultural references for what serious beer service can be.",
+        "coreValues": [
+          "Warm — the taproom is the moment.",
+          "Specific — every pour is considered.",
+          "Considered — glassware is paired.",
+          "Literary — the writing about the pour is part of the brand."
+        ],
+        "brandNameRationale": "The Pour Room is the central physical space of a brewery — where the pour happens. Naming the brewery after the room stakes a clear position around the pour as the work. The definite article + Co suffix follows the considered-creative trade-name school.",
+        "manifesto": "Most breweries focus on the can. We started The Pour Room Co because the actual best beer moment is at the taproom — the room, the glassware, the pour from the tap.",
+        "industrySummary": "Breweries optimize for distribution. There is real space for a creative-led brewery that positions explicitly on the taproom pour experience.",
+        "competitorLandscape": "Hill Farmstead's taproom plays the closest peer experience. Most modern breweries treat the taproom as secondary to packaging. We sit further out — the taproom is the brand.",
+        "positioningStatement": "The Pour Room Co is a brewery operating small taprooms designed around the pour as the central brand experience.",
+        "positioningRationale": "The brand competes on the pour-room premise. Every taproom, every glass, every pour is built around the experience.",
+        "targetAudience": {
+          "primary": "Beer drinkers 28-50 who visit taprooms regularly and care about the pour service.",
+          "behaviors": [
+            "Visit taprooms as the primary beer experience.",
+            "Care about glassware and pour technique.",
+            "Skip packaged beer.",
+            "Want named pourers."
+          ],
+          "motivations": [
+            "Want a brewery that prioritizes the taproom.",
+            "Want considered glassware.",
+            "Want pour-side service."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the taproom and the pour.",
+            "Photograph the pour rooms.",
+            "Publish the quarterly essay on the pour tradition.",
+            "Sign correspondence by the head pourer."
+          ],
+          "donts": [
+            "No packaging-focused marketing.",
+            "No distribution positioning.",
+            "No social-media-led marketing.",
+            "No 'macro-brewery' formats."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Pour-room design",
+            "description": "Every taproom is designed around the pour — the bar, the glassware shelf, the room's acoustics."
+          },
+          {
+            "name": "Considered glassware",
+            "description": "Each beer is paired with specific glassware. The glassware is part of the pour."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on the pour tradition every quarter. The essay is the marketing."
+          }
+        ],
+        "logoDirection": "A wordmark — The Pour Room Co set in a quiet display serif with a small illustration of a glass beside it.",
+        "colorPalette": [
+          {
+            "name": "Pour",
+            "hex": "#A6843D",
+            "meaning": "Primary — the colour of a beer pour.",
+            "usage": "Wordmark, signage."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Cellar",
+            "hex": "#3D2A1C",
+            "meaning": "Secondary.",
+            "usage": "Body type."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark.",
+          "secondary": "A book serif for the quarterly essay.",
+          "rationale": "Two related serifs."
+        }
       }
     ]
   }
