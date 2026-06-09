@@ -171,6 +171,101 @@
           "Modern — we build for the customer reading this on a phone."
         ],
         "scope": "Northpoint works across:\n• Chronological list\n• Drawing culture\n• Principal on every project"
+      },
+      {
+        "id": "architecture-modern-3",
+        "brandName": "Cornice Studio",
+        "tagline": "A modern architecture studio. Detail-led.",
+        "brandDescription": "Cornice Studio is a modern architecture studio specializing in considered renovation projects with detail-led construction documentation.",
+        "scope": "Cornice Studio works across:\n• Considered renovation projects\n• Detail-led construction documentation\n• Direct on-site engagement during construction\n• Annual practice review in print\n• Long-arc client engagements",
+        "mission": "To make architecture where the details hold up at decade scale.",
+        "vision": "A studio whose detail libraries are referenced across the practice for years.",
+        "coreValues": [
+          "Considered — the detail is the work.",
+          "Modern — detail libraries built across years.",
+          "Specific — every junction is documented.",
+          "Patient — buildings unfold over years."
+        ],
+        "brandNameRationale": "Cornice is the architectural trade word for the decorative moulding crowning a wall or building element — single archaic trade word, deeply specific to building craft. Studio is the plain category suffix. Stands in the lineage of trade-vocabulary architecture practices (Plinth, Lintel register).",
+        "manifesto": "Most modern architecture optimises for the rendering. We started Cornice Studio because the actual best buildings hold up at the detail — the cornice, the shadow line, the corner where two materials meet.",
+        "industrySummary": "Modern architecture has converged on render-led design. The opening is for a studio competing on detail discipline.",
+        "competitorLandscape": "Office (officekgdvs.com) plays the considered-modern peer. SO-IL (so-il.org) holds the modern peer slot. Stonewood Design (stonewooddesign.com) sits in the considered-renovation peer position. We belong alongside Office with sharper detail discipline.",
+        "positioningStatement": "Cornice Studio is a modern architecture practice with detail-led construction documentation.",
+        "positioningRationale": "We compete on construction detail. The drawings carry the building.",
+        "targetAudience": {
+          "primary": "Clients commissioning serious renovation projects with attention to detail and material craft.",
+          "behaviors": [
+            "Care about construction details and material junctions.",
+            "Engage architects for renovation rather than new build.",
+            "Read drawing sets carefully.",
+            "Pay for full architect involvement during construction."
+          ],
+          "motivations": [
+            "Want detail-led construction.",
+            "Want an architect on site.",
+            "Want documentation that holds up."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the detail and the construction process.",
+            "Publish drawing sets in case studies.",
+            "Reference contractors and craftspeople by name.",
+            "Sign correspondence by the principal."
+          ],
+          "donts": [
+            "No render-only project pages.",
+            "No 'aspirational' rendering marketing.",
+            "No social-media-first portfolio.",
+            "No award-banner displays."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Detail libraries",
+            "description": "Every project contributes to the studio's detail libraries — material junctions, weathering details, junction sections. The library is the long-arc asset."
+          },
+          {
+            "name": "On-site engagement",
+            "description": "Principals are on site weekly during construction. The drawings translate to building."
+          },
+          {
+            "name": "Annual review",
+            "description": "The studio publishes an annual review of completed details, sent to past clients and prospective clients."
+          }
+        ],
+        "logoDirection": "A wordmark — Cornice Studio set in a precise modern grotesque with a small section-line mark suggesting a cornice profile.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Drawing paper.",
+            "usage": "Site canvas, drawings."
+          },
+          {
+            "name": "Pencil",
+            "hex": "#1F2530",
+            "meaning": "Type and drawing line.",
+            "usage": "Body, drawings."
+          },
+          {
+            "name": "Mark",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Section markers."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark.",
+          "secondary": "A book serif for project narratives.",
+          "rationale": "Two faces."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "Marchand Architectes works across:\n• Twelve commissions\n• The principal draws\n• Long timelines"
+      },
+      {
+        "id": "architecture-luxury-3",
+        "brandName": "Vannier Architectes",
+        "tagline": "A Parisian practice. Single principal.",
+        "brandDescription": "Vannier Architectes is a heritage Parisian architecture practice founded in 1972, with a single principal architect and a small client roster of cultural institutions and significant private commissions.",
+        "scope": "Vannier Architectes works across:\n• Cultural institution commissions\n• Significant private residential and small civic commissions\n• Multi-year engagements with the principal involved throughout\n• Printed monograph published every five years\n• Multi-decade client relationships",
+        "mission": "To produce architecture in the single-principal Continental tradition.",
+        "vision": "A practice whose buildings are still photographed decades after completion.",
+        "coreValues": [
+          "Senior — the principal works on every commission.",
+          "Discreet — projects appear in monographs, not press.",
+          "Considered — small commission count.",
+          "Patient — long timelines are the work."
+        ],
+        "brandNameRationale": "Vannier is a real French surname with a heritage register. Architectes is the French plural form. Stands in the lineage of single-principal Continental architecture practices (Marchand Architectes, Atelier Jean Nouvel, Renzo Piano Building Workshop format).",
+        "manifesto": "Vannier Architectes was founded in 1972 by the principal, who continues to lead every commission. The practice takes a small number of commissions per year. Clients return for second and third projects across decades.",
+        "industrySummary": "Single-principal architecture practices are rare and dominated by large signature firms. There is space for the small principal-led Continental practice.",
+        "competitorLandscape": "Marchand Architectes (within the catalog) plays the peer reference. Atelier Jean Nouvel (jeannouvel.com) is the signature peer. Renzo Piano Building Workshop (rpbw.com) holds the heritage Continental peer slot. We belong with single-principal Continental practices.",
+        "positioningStatement": "A heritage Parisian architecture practice with a single principal taking small commissions across cultural, civic, and significant private work.",
+        "positioningRationale": "We do not extend the practice. The principal is on every commission.",
+        "targetAudience": {
+          "primary": "Cultural institutions, civic bodies, and significant private clients commissioning serious architecture.",
+          "behaviors": [
+            "Commission architecture infrequently across decades.",
+            "Sit through design reviews in person.",
+            "Care about heritage craft and continuity.",
+            "Travel to see completed work."
+          ],
+          "motivations": [
+            "Want a single principal on the work.",
+            "Want a small Continental practice.",
+            "Want a relationship across multiple commissions."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients in formal French and English.",
+            "Sign correspondence by the principal.",
+            "Reference past commissions by year and city.",
+            "Print all material communications."
+          ],
+          "donts": [
+            "No press tours.",
+            "No social-media presence beyond a project archive.",
+            "No award-banner displays.",
+            "No published fee schedules."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Single principal",
+            "description": "The principal is on every commission from sketch to handover. There is no project director layer."
+          },
+          {
+            "name": "Small commission count",
+            "description": "The practice accepts a capped number of commissions per year."
+          },
+          {
+            "name": "Quintennial monograph",
+            "description": "Every five years the practice publishes a printed monograph documenting completed work."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Vannier Architectes set in a classical book serif with a small horizontal rule beneath. Letterhead register.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Correspondence."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and printed material.",
+          "secondary": "An old-style serif for body.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -514,6 +704,99 @@
           "Drawing-led — the drawing is the deliverable."
         ],
         "scope": "Plinth works across:\n• Drawings as the site\n• One page\n• One email"
+      },
+      {
+        "id": "architecture-minimal-3",
+        "brandName": "Threshold",
+        "tagline": "An architecture studio. One drawing per project.",
+        "brandDescription": "Threshold is a minimal architecture studio publishing one canonical drawing per project — the threshold detail where the building meets the ground — as the studio's primary archive.",
+        "scope": "Threshold works across:\n• Architecture and small-scale building projects\n• One canonical drawing per project (threshold detail)\n• Plain published per-engagement pricing\n• Direct principal engagement\n• Annual single-page studio report",
+        "mission": "To make architecture where the threshold is the studio's argument.",
+        "vision": "A studio whose threshold archive becomes a reference for serious building craft.",
+        "coreValues": [
+          "Plain — one drawing per project.",
+          "Direct — the threshold is the work.",
+          "Considered — every drawing is canonical."
+        ],
+        "brandNameRationale": "Threshold is the architectural trade word for the meeting between building and ground — single archaic trade word, deeply specific. Single-word naming follows the modern minimal architecture school (Plinth, Lintel register).",
+        "manifesto": "Most studios document everything. We made Threshold because the actual decisive drawing is the threshold detail — where the building meets the world.",
+        "industrySummary": "Architecture documentation has expanded into vast project archives. There is real space for a minimal studio that publishes one drawing per project.",
+        "competitorLandscape": "Plinth (within the catalog) plays the closest peer. Office (officekgdvs.com) holds the minimal peer slot. SO-IL (so-il.org) sits in the modern minimal peer position. We sit further out — one drawing per project.",
+        "positioningStatement": "Threshold is an architecture studio publishing one canonical threshold drawing per project as its primary archive.",
+        "positioningRationale": "We strip the archive to one drawing per project.",
+        "targetAudience": {
+          "primary": "Clients commissioning architecture who care about ground-condition detail and material junction.",
+          "behaviors": [
+            "Care about threshold details.",
+            "Read drawings closely.",
+            "Want studios with focused archives.",
+            "Pay for studio principal involvement."
+          ],
+          "motivations": [
+            "Want a studio whose argument is the threshold.",
+            "Want focused documentation.",
+            "Want detail discipline."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish one threshold drawing per project.",
+            "Skip multi-image project archives.",
+            "Reply to emails in plain English.",
+            "Sign correspondence by the principal."
+          ],
+          "donts": [
+            "No render-led marketing.",
+            "No multi-image project pages.",
+            "No social-media-led portfolio.",
+            "No 'aspirational' positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One drawing per project",
+            "description": "The studio's archive shows one threshold drawing per project. The drawing is the project."
+          },
+          {
+            "name": "Threshold focus",
+            "description": "Every project's published drawing is the threshold detail — where the building meets the ground."
+          },
+          {
+            "name": "Plain process",
+            "description": "Engagement letters are short. The studio's posture is direct."
+          }
+        ],
+        "logoDirection": "Threshold set in a precise grotesque, all lowercase, at small scale on the website header and drawing captions. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Drawing paper.",
+            "usage": "Site canvas."
+          },
+          {
+            "name": "Pencil",
+            "hex": "#1F2530",
+            "meaning": "Drawing ink and type.",
+            "usage": "Drawings and copy."
+          },
+          {
+            "name": "Ground",
+            "hex": "#7C5A3D",
+            "meaning": "Single accent.",
+            "usage": "Threshold-line marker."
+          }
+        ],
+        "typography": {
+          "primary": "A precise grotesque for the wordmark and captions.",
+          "secondary": "Same family for drawing labels.",
+          "rationale": "One typeface."
+        }
       }
     ],
     "Corporate": [
@@ -710,6 +993,101 @@
           "Discreet — what happens in the room stays in the room."
         ],
         "scope": "Whitlock & Ennis Partnership works across:\n• Five sectors, one firm\n• Partnership structure\n• Continuity across decades"
+      },
+      {
+        "id": "architecture-corporate-3",
+        "brandName": "Hampshire Architecture Holdings",
+        "tagline": "Multi-brand architecture operator.",
+        "brandDescription": "Hampshire Architecture Holdings operates a portfolio of architecture brands across multiple categories with shared operations.",
+        "scope": "Hampshire Architecture Holdings works across:\n• Multi-brand architecture operations\n• Shared infrastructure across the portfolio\n• Distribution and trade relationships\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier architecture brands that want to keep their identity and outsource the operations.",
+        "vision": "A architecture operator whose portfolio brands grow under their own names because the operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Hampshire is a real English county name with a heritage trade register. Architecture Holdings follows the multi-brand operator naming convention used in architecture. The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Hampshire Architecture Holdings owns and operates a portfolio of architecture brands. Each brand retains its identity, leadership, and customer relationships; we operate the shared infrastructure. The buyer is a brand founder considering sale or an institutional investor.",
+        "industrySummary": "Architecture has consolidated under a small number of multi-brand operators. The opening underneath is for a regional mid-tier multi-brand operator with deep operations.",
+        "competitorLandscape": "Various multi-brand operators in the architecture category play peer references. We belong in the regional mid-tier multi-brand architecture operator category.",
+        "positioningStatement": "Hampshire Architecture Holdings is a regional multi-brand architecture operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability.",
+        "targetAudience": {
+          "primary": "Architecture brand founders considering sale, distribution partners seeking single-vendor brand relationships, and institutional investors holding architecture assets.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year operating agreements.",
+            "Care about operations, lead times, and brand-team retention.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Need an operator with shared infrastructure.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations across brands."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio and operations footprint.",
+            "Speak the language of brand founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Hampshire tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with four to eight architecture brands. Each retains its identity."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio. Brands share infrastructure under a single operations team."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for operational scale without losing brand direction."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Hampshire set in a traditional book serif, with 'Architecture Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -897,6 +1275,101 @@
           "A little wry — a core principle the brand operates by."
         ],
         "scope": "Office for Bad Buildings works across:\n• Before is the first frame\n• Adaptive reuse only\n• Embodied carbon as the metric"
+      },
+      {
+        "id": "architecture-creative-3",
+        "brandName": "Blueprint & Bone",
+        "tagline": "An architecture studio for the structural drawing.",
+        "brandDescription": "Blueprint & Bone is a creative-led architecture studio that publishes structural-skeleton drawings of every project — the structural 'bone' rather than the finished surface — as a primary deliverable.",
+        "scope": "Blueprint & Bone works across:\n• Architecture and structural design projects\n• Published structural-skeleton drawings per project\n• Engagement with structural engineers as collaborators\n• Quarterly published essays on structural drawing as craft\n• Annual gathering of structural engineers and architects",
+        "mission": "To make the structural drawing visible as architecture rather than as engineering documentation.",
+        "vision": "A studio whose structural drawings hang in architectural exhibitions.",
+        "coreValues": [
+          "Specific — the structural drawing is the work.",
+          "Considered — engineer collaboration is the practice.",
+          "Warm — the structure is visible.",
+          "Literary — the writing about structure is part of the work."
+        ],
+        "brandNameRationale": "Blueprint is the heritage architectural drawing reproduction; Bone is the metaphor for the structural skeleton beneath the surface. Paired they ground the brand in structural and drawing tradition. Two-noun & paired naming follows the considered-creative school. No 'The' prefix.",
+        "manifesto": "Most architecture studios show the finished building. We started Blueprint & Bone because the actual most considered work is the structural drawing — the skeleton beneath the surface.",
+        "industrySummary": "Structural drawings are typically hidden in engineering documentation. There is real space for a creative-led studio that publishes them.",
+        "competitorLandscape": "Cecil Balmond's collaborative work (informal.com) plays the closest peer in structural-as-architecture. Office for Bad Buildings (within the catalog) holds the declarative peer slot. We sit alongside Cecil Balmond's tradition.",
+        "positioningStatement": "Blueprint & Bone is an architecture studio that publishes structural-skeleton drawings as a primary architectural deliverable.",
+        "positioningRationale": "The brand competes on the structural premise.",
+        "targetAudience": {
+          "primary": "Architects, structural engineers, and clients who appreciate structural craft.",
+          "behaviors": [
+            "Read structural drawings.",
+            "Care about structural expression.",
+            "Collaborate with structural engineers.",
+            "Want structural craft as the work."
+          ],
+          "motivations": [
+            "Want structural drawings as architecture.",
+            "Want a studio that publishes structure.",
+            "Want a brand with a structural philosophy."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Considered",
+          "Warm",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the structural drawing.",
+            "Photograph the structural skeleton.",
+            "Publish the quarterly essay on structural drawing.",
+            "Sign correspondence by the structural lead."
+          ],
+          "donts": [
+            "No surface-rendering marketing.",
+            "No 'iconic building' positioning.",
+            "No social-media-led marketing.",
+            "No engineering-as-secondary language."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Structural drawings published",
+            "description": "Every project's structural-skeleton drawing is published as a primary deliverable."
+          },
+          {
+            "name": "Engineer collaboration",
+            "description": "The studio collaborates with structural engineers as co-creators rather than as service providers."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The studio publishes a long-form essay on structural drawing every quarter."
+          }
+        ],
+        "logoDirection": "A wordmark — Blueprint & Bone set in a quiet display serif with a long ampersand. A small skeletal-frame illustration sits above the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Blueprint",
+            "hex": "#0F3460",
+            "meaning": "Primary — the heritage blueprint blue.",
+            "usage": "Wordmark, drawings."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE5D6",
+            "meaning": "Secondary.",
+            "usage": "Skeleton illustrations."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A book serif for drawing captions.",
+          "rationale": "Two related serifs."
+        }
       }
     ]
   }
