@@ -177,6 +177,101 @@
           "Quiet — restraint is the loudest thing in a noisy room."
         ],
         "scope": "Lodging Co. works across:\n• The room is the product\n• Hosted, not staffed\n• Direct only"
+      },
+      {
+        "id": "hospitality-modern-3",
+        "brandName": "Innkeeper & Co",
+        "tagline": "A modern small inn. Considered hospitality.",
+        "brandDescription": "Innkeeper & Co is a modern small inn operating fewer than twelve rooms in a single property, with a resident innkeeper and considered overnight hospitality.",
+        "scope": "Innkeeper & Co works across:\n• Small property operations (fewer than twelve rooms)\n• Resident innkeeper engagement with guests\n• Breakfast and considered evening hospitality\n• Multi-night stays as the default\n• Annual guest letter for repeat customers",
+        "mission": "To run a modern small inn in the heritage innkeeper tradition.",
+        "vision": "An inn whose guests are still booking the same rooms in 2035 with the same innkeepers in residence.",
+        "coreValues": [
+          "Considered — the innkeeper knows the guests.",
+          "Modern — small inn with modern booking discipline.",
+          "Warm — the resident host is the work.",
+          "Specific — multi-night stays are the default."
+        ],
+        "brandNameRationale": "Innkeeper is the archaic word for the resident host of a small inn — single archaic trade word, deeply specific to heritage hospitality. & Co is the small-firm convention. The pair signals a small modern inn operated in the heritage innkeeper tradition with a resident host.",
+        "manifesto": "Most modern hotels are operated remotely by management groups. We started Innkeeper & Co to do the opposite — a small inn with a resident innkeeper who knows the guests, the rooms, and the neighbourhood. The inn is small; the hospitality is personal.",
+        "industrySummary": "Boutique hotels have grown into operating-group models with remote management. The opening is for a small modern inn with a resident innkeeper — closer in spirit to a heritage inn than to a modern boutique hotel.",
+        "competitorLandscape": "The Hoxton (thehoxton.com) plays the modern boutique reference at scale. Lokal (lokalhotel.com) holds the modern small-inn peer slot. The Hewing Hotel (hewinghotel.com) sits in the modern boutique peer position. Wythe Hotel (wythehotel.com) plays the considered modern boutique peer reference. We sit further out — small inn, resident innkeeper, multi-night default.",
+        "positioningStatement": "Innkeeper & Co is a modern small inn with fewer than twelve rooms, a resident innkeeper, and considered hospitality on multi-night stays.",
+        "positioningRationale": "We compete on small scale and resident innkeeping. The inn is small enough that the innkeeper knows every guest by name.",
+        "targetAudience": {
+          "primary": "Travelers 30-60 who prefer small inns to boutique hotels and stay for multiple nights at a time.",
+          "behaviors": [
+            "Book small inns and B&Bs by preference.",
+            "Stay multiple nights at one property rather than touring.",
+            "Care about resident hospitality and personal attention.",
+            "Return to inns they love across years."
+          ],
+          "motivations": [
+            "Want a small inn with a resident innkeeper.",
+            "Want multi-night considered stays.",
+            "Want a property that doesn't feel managed remotely."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the resident innkeeper and the small scale.",
+            "Photograph the rooms and the breakfast room.",
+            "Reference the neighbourhood and the innkeeper's recommendations.",
+            "Sign correspondence by the innkeeper."
+          ],
+          "donts": [
+            "No 'destination resort' marketing.",
+            "No remote-management positioning.",
+            "No 'amenity stacking' marketing.",
+            "No social-media-led launches."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Resident innkeeper",
+            "description": "An innkeeper lives at the property and engages with every guest. The innkeeper is part of the inn."
+          },
+          {
+            "name": "Multi-night default",
+            "description": "The inn is built for multi-night stays. Single-night reservations are accepted but discouraged."
+          },
+          {
+            "name": "Small scale",
+            "description": "Fewer than twelve rooms. The scale is the practice."
+          }
+        ],
+        "logoDirection": "A wordmark — Innkeeper & Co set in a calm modern serif with a long ampersand. A small illustration of a lit window sits above the wordmark on signage.",
+        "colorPalette": [
+          {
+            "name": "Lamp",
+            "hex": "#C7944A",
+            "meaning": "Primary — the colour of a warm lit window.",
+            "usage": "Wordmark, signage."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "All marketing surfaces."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body and headings."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark and signage.",
+          "secondary": "A book serif for the printed guest material.",
+          "rationale": "Two related serifs. The brand reads like a careful inn publication."
+        }
       }
     ],
     "Luxury": [
@@ -354,6 +449,101 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "The Calder works across:\n• One building\n• The permanent staff\n• Closed in January"
+      },
+      {
+        "id": "hospitality-luxury-3",
+        "brandName": "The Carlow Hotels",
+        "tagline": "A heritage hotel group. Three properties.",
+        "brandDescription": "The Carlow Hotels is a heritage three-property hotel group operating one historic city hotel, one country house, and one coastal hotel, in continuous family operation since 1924.",
+        "scope": "The Carlow Hotels works across:\n• Three historic hotel properties (city, country, coastal)\n• Multi-generational guest family relationships\n• Resident general managers at each property\n• Bespoke service and personalised guest preferences\n• Annual printed hotel journal sent to guests",
+        "mission": "To operate three historic hotels in the heritage independent hotel tradition, indefinitely.",
+        "vision": "A hotel group whose 150th anniversary is celebrated by guests whose grandparents stayed in the same rooms.",
+        "coreValues": [
+          "Senior — the family has operated the hotels since 1924.",
+          "Discreet — guest identity and preferences stay private.",
+          "Considered — three properties, slowly cared for.",
+          "Warm — multi-generational guests are the practice."
+        ],
+        "brandNameRationale": "The Carlow Hotels uses the definite-article + place-name + Hotels convention common to heritage independent hotel groups (The Ritz London, The Connaught, The Goring tradition). Carlow is a real Irish place-name with a heritage register. The Hotels suffix in the plural signals a small group rather than a single property.",
+        "manifesto": "The Carlow Hotels was founded in 1924 by the great-grandparents of the current principals. The group operates three historic properties — a city hotel in Dublin, a country house in Wexford, a coastal hotel in West Cork. Each has been in continuous operation since the founding generation. Most guests are repeat guests across multiple generations of their family.",
+        "industrySummary": "Heritage independent hotel groups are rare and dominated by luxury conglomerates (Belmond, Aman, Mandarin Oriental). There is space for a small heritage group operating in the original family-owned tradition.",
+        "competitorLandscape": "The Doyle Collection (doylecollection.com) plays the heritage Irish hotel-group reference. The Goring (thegoring.com) holds the family-owned heritage peer slot. Strand Palace (strandpalacehotel.co.uk) sits in the heritage hotel peer position. The Newt in Somerset (thenewtinsomerset.com) plays the considered country-house peer reference. We belong with the heritage family-owned hotel group tradition.",
+        "positioningStatement": "A heritage three-property hotel group operating one historic city hotel, one country house, and one coastal hotel since 1924, in continuous family operation.",
+        "positioningRationale": "We do not extend the group. The three properties are the limit. Most guests are repeat guests across multiple generations of their family.",
+        "targetAudience": {
+          "primary": "Multi-generational guest families who return to the hotels across years, plus considered travellers commissioning multi-property stays across the city, country, and coastal properties.",
+          "behaviors": [
+            "Stay at the hotels regularly across years.",
+            "Bring children and grandchildren to the properties.",
+            "Care about resident management continuity.",
+            "Pay full hotel rates."
+          ],
+          "motivations": [
+            "Want a heritage hotel group with continuity.",
+            "Want multi-property options under the same operations.",
+            "Want a group family-owned across generations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address guest families by surname.",
+            "Sign correspondence by the general manager of each property.",
+            "Reference the founding year and the founding family.",
+            "Print all guest correspondence on heavy paper."
+          ],
+          "donts": [
+            "No public marketing.",
+            "No social-media-led content.",
+            "No promotional pricing.",
+            "No franchise extensions."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Three historic properties",
+            "description": "The group operates one city hotel, one country house, and one coastal hotel. Each has been in continuous operation since 1924."
+          },
+          {
+            "name": "Resident general managers",
+            "description": "Each property has a resident general manager who lives on or near the property. The managers have been with the group across years."
+          },
+          {
+            "name": "Multi-generational guests",
+            "description": "Most guest families have stayed at the hotels across multiple generations. The guest book is the long-arc record."
+          }
+        ],
+        "logoDirection": "A serif wordmark — The Carlow Hotels set in a classical book serif with a small embossed crest depicting an architectural detail from each property. The crest appears on each property's signage, room keys, and printed materials.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary — the page colour of the printed journal.",
+            "usage": "Letterhead, marketing, packaging."
+          },
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Secondary — the colour of the group's heritage livery.",
+            "usage": "Body type, the crest."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Signature elements, embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark, journal, and letterhead.",
+          "secondary": "An engraver's italic for the founding year and property names.",
+          "rationale": "Letterpress register throughout."
+        }
       }
     ],
     "Minimal": [
@@ -520,6 +710,99 @@
           "Quiet — restraint is the loudest thing in a noisy room."
         ],
         "scope": "Quartos works across:\n• One room type per property\n• One price\n• One photograph"
+      },
+      {
+        "id": "hospitality-minimal-3",
+        "brandName": "Foyer",
+        "tagline": "A small hotel. One reception. No additions.",
+        "brandDescription": "Foyer is a minimal small hotel with twelve rooms, one reception, one breakfast room, and no additional facilities — no bar, no restaurant, no spa, no gym.",
+        "scope": "Foyer works across:\n• Twelve guest rooms\n• A single reception with 24-hour staff\n• A single breakfast room\n• No additional facilities (no bar, restaurant, spa, gym)\n• Plain published per-night room rates",
+        "mission": "To run a small hotel that does sleep, breakfast, and reception, plainly.",
+        "vision": "A hotel whose 100th week of operation runs the same single-offering format as week one.",
+        "coreValues": [
+          "Plain — twelve rooms, reception, breakfast.",
+          "Direct — the room is the offering.",
+          "Considered — facilities are intentionally absent."
+        ],
+        "brandNameRationale": "Foyer is the real hospitality-trade word for the entrance hall of a hotel — single archaic French-rooted trade word, deeply specific to heritage hotel architecture. Single-word naming follows the modern minimal hospitality school (Quartos, Lodging register).",
+        "manifesto": "Most modern hotels have grown into amenity-stacked properties with bars, restaurants, spas, gyms, and co-working spaces. We made Foyer because the actual most useful hotel does three things — sleep, breakfast, and reception — and does them well. Twelve rooms. One reception. One breakfast room. Nothing else.",
+        "industrySummary": "Hotels pursue amenity expansion. There is real space for a minimal hotel that strips the offering to rooms, reception, and breakfast.",
+        "competitorLandscape": "Citizen M (citizenm.com) plays the modern minimal peer at scale. Pod Hotels (podhotels.com) holds the urban minimal peer slot. Muji Hotel (hotel.muji.com) sits in the design minimal peer position. We sit further out — twelve rooms, no facilities beyond breakfast and reception.",
+        "positioningStatement": "Foyer is a small hotel with twelve rooms, reception, and breakfast — no bar, no restaurant, no spa, no gym.",
+        "positioningRationale": "We strip the hotel offering. Twelve rooms. One reception. One breakfast room. Nothing else.",
+        "targetAudience": {
+          "primary": "Travelers who book hotels for the room and the basics, with no need for in-property bars, restaurants, or amenities.",
+          "behaviors": [
+            "Book hotels for the room itself.",
+            "Eat dinner at restaurants outside the hotel.",
+            "Skip hotel bars and gyms.",
+            "Want a fixed per-night rate without amenity sprawl."
+          ],
+          "motivations": [
+            "Want a small hotel without additions.",
+            "Want plain published rates.",
+            "Want sleep, breakfast, and reception."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish room rates on the home page.",
+            "Show one photograph of a room.",
+            "Skip amenity marketing.",
+            "Sign correspondence with the hotel name only."
+          ],
+          "donts": [
+            "No bar, restaurant, or spa.",
+            "No 'destination experience' marketing.",
+            "No amenity tier pricing.",
+            "No social-media-led content."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Twelve rooms",
+            "description": "The hotel has twelve guest rooms. We do not add a thirteenth."
+          },
+          {
+            "name": "Reception and breakfast only",
+            "description": "The hotel has one reception (24-hour staff) and one breakfast room. No other facilities."
+          },
+          {
+            "name": "Plain rates",
+            "description": "Per-night rates are published. No promotional pricing. No amenity tier system."
+          }
+        ],
+        "logoDirection": "Foyer set in a neutral grotesque, all lowercase, at small scale on the front door, the room cards, and the receipt. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the colour of the foyer's interior.",
+            "usage": "All surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy."
+          },
+          {
+            "name": "Lamp",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The foyer's signature lighting."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for room cards and receipts.",
+          "rationale": "One typeface across the hotel, the website, and printed materials."
+        }
       }
     ],
     "Corporate": [
@@ -716,6 +999,101 @@
           "Reliable — the same answer this Tuesday and next."
         ],
         "scope": "Lockhart Hospitality Group works across:\n• Operations under contract\n• Reporting owners can defend\n• Quiet portfolio"
+      },
+      {
+        "id": "hospitality-corporate-3",
+        "brandName": "Briarcliff Hospitality Holdings",
+        "tagline": "Multi-brand hospitality operator, mid-market.",
+        "brandDescription": "Briarcliff Hospitality Holdings operates a portfolio of mid-market hotel brands across urban, suburban, and resort categories.",
+        "scope": "Briarcliff Hospitality Holdings works across:\n• Multi-brand hotel operations\n• Shared revenue management and distribution platforms\n• Branded hotel franchise management\n• Real-estate portfolio coordination for hotel properties\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier hospitality brands that want to keep their identity and outsource the operations.",
+        "vision": "A hospitality operator whose portfolio brands grow under their own names because the revenue management and distribution are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — revenue management runs on schedule.",
+          "Reliable — predictable franchise operations across brands.",
+          "Discreet — brand and property-owner relationships stay private."
+        ],
+        "brandNameRationale": "Briarcliff is a real American place-name with a heritage hospitality register. Hospitality Holdings follows the multi-brand operator naming convention used in hospitality (Marriott International, Hilton Worldwide, IHG Hotels structure). The pair reads as an institutional operator with multi-brand portfolio scale.",
+        "manifesto": "Briarcliff Hospitality Holdings owns and operates a portfolio of mid-market hotel brands. Each brand retains its identity, property management, and guest relationships; we operate the shared revenue management, distribution platforms, and back office. The buyer is a hotel brand founder considering sale, a hotel-property owner seeking single-vendor management relationships, or an institutional investor holding hospitality assets.",
+        "industrySummary": "Mid-market hospitality has consolidated under a small number of large multi-brand operators (Marriott, Hilton, IHG, Wyndham). The opening underneath is for a regional mid-tier multi-brand operator with deep revenue management and the procurement-grade reliability hotel-property owners and institutional investors require.",
+        "competitorLandscape": "Wyndham Hotels & Resorts (wyndhamhotels.com) is the multi-brand mid-market reference. Choice Hotels (choicehotels.com) holds the multi-brand peer slot. Hilton Worldwide (hilton.com) sits in the multi-brand peer position. IHG Hotels (ihg.com) plays the multi-brand peer reference. We belong in the regional mid-tier multi-brand hospitality operator category.",
+        "positioningStatement": "Briarcliff Hospitality Holdings is a regional multi-brand mid-market hospitality operator running revenue management, distribution, and franchise operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared revenue management depth, distribution-platform reach, and the procurement-grade reliability hotel-property owners and institutional investors need.",
+        "targetAudience": {
+          "primary": "Hotel brand founders considering sale, hotel-property owners seeking single-vendor management relationships, and institutional investors holding hospitality assets.",
+          "behaviors": [
+            "Manage multi-property hotel operations.",
+            "Negotiate multi-year franchise and management agreements.",
+            "Care about RevPAR, distribution reach, and franchise compliance.",
+            "Renew on multi-year operating terms."
+          ],
+          "motivations": [
+            "Need an operator with shared revenue management.",
+            "Need to keep brand identity post-acquisition.",
+            "Need a single-vendor multi-brand hotel relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio, property count, and RevPAR record.",
+            "Speak the language of brand founders, property owners, and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Briarcliff tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements without partner alignment.",
+            "No press-release hype cadence."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and operate four to eight hotel brands across urban, suburban, and resort categories. Each retains its identity."
+          },
+          {
+            "name": "Shared revenue management",
+            "description": "Centralized revenue management across the portfolio. Brands share distribution platforms, dynamic pricing, and demand forecasting."
+          },
+          {
+            "name": "Franchise operations",
+            "description": "Centralized franchise operations across the portfolio. Property owners inherit access to franchise programs and operating standards."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Briarcliff set in a traditional book serif, with 'Hospitality Holdings' beneath in tracked small caps. Used in contracts and the corporate office. Not used on consumer-facing brands.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark, headings, reports."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents, marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and corporate letters.",
+          "secondary": "A clean enterprise grotesque for operational reports and franchise documentation.",
+          "rationale": "Tabular and disciplined."
+        }
       }
     ],
     "Creative": [
@@ -903,6 +1281,101 @@
           "Quiet — restraint is the loudest thing in a noisy room."
         ],
         "scope": "Bedwell Hotels works across:\n• Engineered for night\n• The goodnight note\n• Day is secondary"
+      },
+      {
+        "id": "hospitality-creative-3",
+        "brandName": "The Concierge Desk Co",
+        "tagline": "A hospitality brand built around the people behind the desk.",
+        "brandDescription": "The Concierge Desk Co is a creative-led hospitality brand operating small hotels positioned entirely around the concierge function — the staff at the desk who know the neighbourhood, the chefs, the curators, and the tickets.",
+        "scope": "The Concierge Desk Co works across:\n• Small hotel properties with the concierge function as the central operation\n• Long-tenure concierge staff with deep neighbourhood relationships\n• Bespoke recommendations and itinerary planning for guests\n• Quarterly published essays on the concierge tradition\n• Annual gatherings of concierges from across the industry",
+        "mission": "To restore the concierge as the central function of considered hospitality.",
+        "vision": "A hospitality brand whose concierges become small cultural figures in their cities.",
+        "coreValues": [
+          "Warm — the concierge is the work.",
+          "Specific — every concierge has a name and a city.",
+          "Considered — the desk is the central function.",
+          "Literary — the writing about the concierge tradition is part of the brand."
+        ],
+        "brandNameRationale": "The Concierge Desk is the real hospitality trade name for the staff station where guests receive recommendations, bookings, and bespoke service. The definite article + Co suffix follows the considered-creative trade-name school. The brand stakes a clear position around the concierge function as the hospitality work.",
+        "manifesto": "Most modern hotels have automated the concierge into an app. We started The Concierge Desk Co because the actual best hospitality moment is the conversation at the desk — the concierge who knows the chef at the restaurant, the curator at the gallery, the person to call for the impossible ticket. We hire concierges as the central staff and build the hotels around them.",
+        "industrySummary": "Hotel hospitality has been automated and apps-ified. There is real space for a creative-led brand that positions explicitly on the concierge function as the central hospitality work.",
+        "competitorLandscape": "The Ritz London (theritzlondon.com) plays the heritage concierge reference. The Connaught (the-connaught.co.uk) holds the heritage luxury concierge peer slot. Aman (aman.com) sits in the modern luxury concierge peer position. Le Bristol Paris (oetkercollection.com/hotels/le-bristol-paris) plays the heritage Parisian concierge peer reference. We belong with the small modern brands operating in the concierge-centred tradition.",
+        "positioningStatement": "The Concierge Desk Co is a hospitality brand operating small hotels positioned around the concierge function as the central staff and primary guest experience.",
+        "positioningRationale": "The brand competes on the concierge premise. Long-tenure staff. Deep neighbourhood relationships. The desk is the brand.",
+        "targetAudience": {
+          "primary": "Travelers 35-65 who value bespoke recommendations and personal hospitality over amenity stacking.",
+          "behaviors": [
+            "Use hotel concierges actively for recommendations and bookings.",
+            "Care about the concierge's neighbourhood knowledge.",
+            "Return to hotels they trust for the staff.",
+            "Pay full hotel rates."
+          ],
+          "motivations": [
+            "Want a hotel where the concierge is the central service.",
+            "Want long-tenure staff with deep relationships.",
+            "Want bespoke recommendations and itineraries."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the concierges by name.",
+            "Photograph the concierge desks and the staff.",
+            "Publish the quarterly essay on the concierge tradition.",
+            "Sign correspondence by the head concierge of each property."
+          ],
+          "donts": [
+            "No 'app-based concierge' marketing.",
+            "No amenity-stacking positioning.",
+            "No social-media-led marketing.",
+            "No remote-managed properties."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Concierge-centred",
+            "description": "Every property's central staff function is the concierge desk. The concierges are hired first; the hotel is built around them."
+          },
+          {
+            "name": "Long-tenure staff",
+            "description": "Concierges stay with the brand for years. Their neighbourhood relationships and guest knowledge accumulate across time."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on the concierge tradition every quarter — concierge profiles, history, philosophy. The essay is the marketing."
+          }
+        ],
+        "logoDirection": "A wordmark — The Concierge Desk Co set in a quiet display serif with a small illustration of a bell-and-desk beside it. The mark appears on the concierge desk and printed guest materials.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary — the page colour of guest correspondence.",
+            "usage": "Marketing, packaging."
+          },
+          {
+            "name": "Wood",
+            "hex": "#5C3F2A",
+            "meaning": "Secondary — the colour of the concierge desk.",
+            "usage": "Body type, the mark."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "The desk bell, signature elements."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark and the quarterly essay.",
+          "secondary": "A book serif for concierge correspondence and itineraries.",
+          "rationale": "Two related serifs. The brand reads like a small printed publication on the concierge tradition."
+        }
       }
     ]
   }
