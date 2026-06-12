@@ -171,6 +171,101 @@
           "secondary": "A neutral grotesque for catalog numbers and liner-note body.",
           "rationale": "The serif speaks. The grotesque labels."
         }
+      },
+      {
+        "id": "music-modern-3",
+        "brandName": "Crossfade Records",
+        "tagline": "A modern record label. Mix-led.",
+        "brandDescription": "Crossfade Records is a modern independent record label specializing in album sequencing and crossfade transitions, with every release mastered as a continuous program.",
+        "scope": "Crossfade Records works across:\n• Albums mastered with intentional crossfade transitions\n• Vinyl-first release with 90-day physical-only window\n• Direct-to-fan sales\n• Annual sequencing-craft letter to subscribers\n• Small artist roster (under eight active artists)",
+        "mission": "To release records sequenced as continuous programs rather than as track lists.",
+        "vision": "A label whose 50th release is still mastered as a continuous program.",
+        "coreValues": [
+          "Considered — sequencing is the work.",
+          "Modern — vinyl-first discipline.",
+          "Warm — the album is the artist's statement.",
+          "Specific — every transition is intentional."
+        ],
+        "brandNameRationale": "Crossfade is the audio-trade word for the transition where one track fades into another — single trade word, deeply specific to album sequencing. Records is the heritage label suffix.",
+        "manifesto": "Most modern labels release tracks individually. We started Crossfade Records to release albums as the artist intended — sequenced, mastered with crossfades, played as a continuous program.",
+        "industrySummary": "Streaming has emphasized tracks over albums. The opening is for a label competing on album craft and sequencing.",
+        "competitorLandscape": "Stones Throw Records (stonesthrowrecords.com) plays the modern-indie peer. Sub Pop (subpop.com) holds the legacy independent peer slot. Stylus Records (within the catalog) plays the peer reference. We sit alongside Stylus with sharper sequencing focus.",
+        "positioningStatement": "Crossfade Records is a modern indie label releasing albums sequenced and mastered as continuous programs.",
+        "positioningRationale": "We compete on album sequencing and crossfade craft.",
+        "targetAudience": {
+          "primary": "Album-listening music buyers 28-55 who play records front-to-back.",
+          "behaviors": [
+            "Play albums front-to-back.",
+            "Care about sequencing and transitions.",
+            "Own quality audio equipment.",
+            "Re-buy albums on quality vinyl."
+          ],
+          "motivations": [
+            "Want albums sequenced as programs.",
+            "Want crossfade transitions intact.",
+            "Want vinyl-first releases."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the annual release calendar.",
+            "Print sequencing notes in liner notes.",
+            "Write artist features in the label-newsletter voice.",
+            "Reference catalog numbers."
+          ],
+          "donts": [
+            "No streaming-first releases.",
+            "No 'streaming numbers' marketing.",
+            "No social-media-led launches.",
+            "No track-only releases."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Albums sequenced as programs",
+            "description": "Every release is sequenced and mastered as a continuous program with intentional transitions."
+          },
+          {
+            "name": "Vinyl-first 90 days",
+            "description": "Every release ships on vinyl 90 days before streaming."
+          },
+          {
+            "name": "Catalog numbers",
+            "description": "Every release has a catalog number printed on the sleeve."
+          }
+        ],
+        "logoDirection": "A wordmark — Crossfade Records set in a calm modern serif with a small transition-line mark beneath.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Primary.",
+            "usage": "Wordmark, sleeves."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Label",
+            "hex": "#D85C3D",
+            "meaning": "Single accent.",
+            "usage": "Centre-label paper."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark.",
+          "secondary": "A neutral grotesque for catalog numbers.",
+          "rationale": "The serif speaks; the sans labels."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "secondary": "An engraver's italic for catalog numbers and artist names.",
           "rationale": "Letterpress register throughout. The publishing house communicates in print, in the tradition of heritage music publishing."
         }
+      },
+      {
+        "id": "music-luxury-3",
+        "brandName": "Salford Music Society",
+        "tagline": "A members-only music society. Founded 1971.",
+        "brandDescription": "Salford Music Society is a heritage members-only music society producing private chamber concerts and recordings for an elected membership, in continuous operation since 1971.",
+        "scope": "Salford Music Society works across:\n• Members-only chamber concerts\n• Limited recordings available to members\n• Annual members' dinner\n• Multi-generational member family relationships\n• Capped election membership",
+        "mission": "To produce serious chamber music for a small society of considered listeners.",
+        "vision": "A society whose 100th anniversary in 2071 is celebrated by descendants of founding members.",
+        "coreValues": [
+          "Senior — the society's tradition is unbroken since 1971.",
+          "Discreet — member identity stays private.",
+          "Considered — the membership is small.",
+          "Patient — chamber music is the work."
+        ],
+        "brandNameRationale": "Salford is a real English place-name with a heritage register. Music Society follows the Society convention (Wine Society, Royal Geographical Society format). No 'The' prefix — Salford serves the proper-noun function.",
+        "manifesto": "Salford Music Society was founded in 1971 by a small group of chamber music enthusiasts. The society produces private concerts and limited recordings for an elected membership. Multi-generational member families are common.",
+        "industrySummary": "Members-only music societies dedicated to chamber music are rare. There is space for a society operating in the original members tradition.",
+        "competitorLandscape": "The Wigmore Hall Friends (wigmore-hall.org.uk) plays the closest peer. The Beethoven Society plays a peer in chamber music membership. We belong with the small heritage music-society tradition.",
+        "positioningStatement": "A heritage members-only music society producing private chamber concerts and limited recordings since 1971.",
+        "positioningRationale": "We do not extend the society. Capped membership; multi-generational families.",
+        "targetAudience": {
+          "primary": "Society members and their family members eligible by inheritance.",
+          "behaviors": [
+            "Attend chamber concerts regularly.",
+            "Care about chamber music tradition.",
+            "Subscribe to limited recordings.",
+            "Inherit membership."
+          ],
+          "motivations": [
+            "Want serious chamber music.",
+            "Want a small society.",
+            "Want multi-generational membership."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address members by surname.",
+            "Sign correspondence by the society secretary.",
+            "Reference the founding year.",
+            "Print all program notes."
+          ],
+          "donts": [
+            "No public marketing.",
+            "No social-media presence.",
+            "No promotional membership pricing.",
+            "No commercial partnerships."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Capped membership",
+            "description": "Membership is capped. New members are elected by the membership committee."
+          },
+          {
+            "name": "Private chamber concerts",
+            "description": "The society produces private chamber concerts for members."
+          },
+          {
+            "name": "Limited recordings",
+            "description": "Recordings are available only to members in limited pressings."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Salford Music Society set in a classical book serif with a small embossed treble-clef mark.",
+        "colorPalette": [
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "An old-style serif for program notes.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +703,99 @@
           "primary": "One neutral grotesque, regular only.",
           "secondary": "Same family for track numbers.",
           "rationale": "One typeface across the website, artwork, and release notes."
+        }
+      },
+      {
+        "id": "music-minimal-3",
+        "brandName": "Cut",
+        "tagline": "A small record label. One cut per release.",
+        "brandDescription": "Cut is a minimal record label releasing single seven-inch vinyl cuts at a fixed published price, with no albums and no streaming.",
+        "scope": "Cut works across:\n• Seven-inch vinyl singles\n• Fixed published per-single price\n• Direct-to-fan sales\n• No streaming distribution\n• Annual single-page label report",
+        "mission": "To release one single per cut and stop there.",
+        "vision": "A label whose 100th single is in the same seven-inch format as the first.",
+        "coreValues": [
+          "Plain — seven-inch singles only.",
+          "Direct — the cut is the release.",
+          "Considered — every single is mastered for the lathe."
+        ],
+        "brandNameRationale": "Cut is the vinyl-cutting trade word for the moment a master is etched onto a lathe — single archaic trade word, deeply specific to vinyl production. Single-word naming follows the modern minimal label school (Track, Press register).",
+        "manifesto": "Most labels release on streaming. We made Cut because the actual best small label releases physical vinyl — seven-inch singles, mastered for the lathe, sold direct.",
+        "industrySummary": "Vinyl-first labels are rare. There is real space for a label that strips to seven-inch singles.",
+        "competitorLandscape": "Sub Pop's singles club (subpop.com) plays the heritage peer. Domino (dominorecordco.com) holds the considered peer slot. We sit further out — seven-inch singles only.",
+        "positioningStatement": "Cut is a record label releasing seven-inch vinyl singles at a fixed published price with no streaming.",
+        "positioningRationale": "We strip the format to seven-inch singles.",
+        "targetAudience": {
+          "primary": "Vinyl collectors and record buyers who own seven-inch turntables.",
+          "behaviors": [
+            "Collect seven-inch singles.",
+            "Own quality vinyl equipment.",
+            "Skip streaming.",
+            "Re-buy from trusted labels."
+          ],
+          "motivations": [
+            "Want seven-inch singles.",
+            "Want vinyl-only release.",
+            "Want a small focused label."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the per-single price on the home page.",
+            "Show the cut on the lathe.",
+            "Skip streaming marketing.",
+            "Sign release notes by the cutter."
+          ],
+          "donts": [
+            "No streaming distribution.",
+            "No album releases.",
+            "No promotional pricing.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Seven-inch singles",
+            "description": "Every release is a seven-inch vinyl single. We do not release albums or EPs."
+          },
+          {
+            "name": "Fixed price",
+            "description": "Published per-single price."
+          },
+          {
+            "name": "No streaming",
+            "description": "Singles are vinyl-only. No streaming distribution."
+          }
+        ],
+        "logoDirection": "Cut set in a neutral grotesque, all lowercase, at small scale on the sleeve. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Primary.",
+            "usage": "Wordmark, sleeves."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Lathe",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Centre-label paper."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface."
         }
       }
     ],
@@ -710,6 +993,101 @@
           "secondary": "A clean enterprise grotesque for royalty reports and operational tables.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "id": "music-corporate-3",
+        "brandName": "Hartstone Music Holdings",
+        "tagline": "Multi-brand music operator.",
+        "brandDescription": "Hartstone Music Holdings operates a portfolio of music brands with shared operations.",
+        "scope": "Hartstone Music Holdings works across:\n• Multi-brand music operations\n• Shared infrastructure across the portfolio\n• Distribution and trade relationships\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier music brands that want to keep their identity and outsource the operations.",
+        "vision": "A music operator whose portfolio brands grow under their own names because operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Hartstone is a real English surname-and-place with a heritage trade register. Music Holdings follows the multi-brand operator naming convention used in music.",
+        "manifesto": "Hartstone Music Holdings owns and operates a portfolio of music brands. Each brand retains its identity; we operate the shared infrastructure.",
+        "industrySummary": "Music has consolidated under a small number of multi-brand operators. The opening is for a regional mid-tier operator.",
+        "competitorLandscape": "Various multi-brand operators in the music category play peer references. We belong in the regional mid-tier category.",
+        "positioningStatement": "Hartstone Music Holdings is a regional multi-brand music operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability.",
+        "targetAudience": {
+          "primary": "Music brand founders considering sale, distribution partners, and institutional investors.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year agreements.",
+            "Care about operations.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Need shared infrastructure.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio.",
+            "Speak the language of founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Hartstone tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements.",
+            "No press-release hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with music brands."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for scale."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Hartstone set in a traditional book serif, with 'Music Holdings' beneath in tracked small caps.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "A clean enterprise grotesque for reports.",
+          "rationale": "Tabular."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1274,101 @@
           "primary": "A hand-drawn display serif for the wordmark and album titles.",
           "secondary": "A typewriter mono for the signal-chain credits on sleeves.",
           "rationale": "The serif sets the warm-craft tone. The mono signals 'this is engineering.'"
+        }
+      },
+      {
+        "id": "music-creative-3",
+        "brandName": "B-Side Recording Co",
+        "tagline": "A label for the B-side track.",
+        "brandDescription": "B-Side Recording Co is a creative-led label specializing in releasing what would historically have been B-side tracks — the experimental, the unfinished, the considered overflow from main releases.",
+        "scope": "B-Side Recording Co works across:\n• B-side and experimental track releases\n• Direct artist relationships with producers from main labels\n• Quarterly published essays on B-side culture\n• Limited cassette and vinyl pressings\n• Annual gathering of B-side artists",
+        "mission": "To restore the B-side as a primary creative space rather than a discarded outtake.",
+        "vision": "A label whose B-side releases become reference points for considered listeners.",
+        "coreValues": [
+          "Warm — the B-side is the work.",
+          "Specific — every release names the artist's main label.",
+          "Considered — every track is curated.",
+          "Literary — the writing about B-side culture is part of the label."
+        ],
+        "brandNameRationale": "B-Side is the universal vinyl-trade phrase for the second side of a record — historically where artists experimented. Recording Co is the heritage industry suffix.",
+        "manifesto": "Most labels release only finished work. We started B-Side Recording Co because the actual most interesting work is often the B-side — the experiment, the overflow, the half-finished idea.",
+        "industrySummary": "B-side tradition has been lost in the streaming era. There is real space for a label that explicitly positions on B-side and experimental work.",
+        "competitorLandscape": "Numero Group (numerogroup.com) plays the closest peer in archival and experimental release. Domino Recording (dominorecordco.com) holds the considered peer slot. We sit alongside Numero with a sharper B-side focus.",
+        "positioningStatement": "B-Side Recording Co is a label specializing in B-side, experimental, and overflow tracks from working artists.",
+        "positioningRationale": "The brand competes on the B-side premise.",
+        "targetAudience": {
+          "primary": "Music collectors and listeners 30-55 who follow specific artists and value experimental work.",
+          "behaviors": [
+            "Buy box sets and B-side compilations.",
+            "Read liner notes carefully.",
+            "Follow artists across labels.",
+            "Pay for limited pressings."
+          ],
+          "motivations": [
+            "Want B-side and experimental work.",
+            "Want considered curation.",
+            "Want a label with a clear philosophy."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the artist's main label on every release.",
+            "Photograph the B-side label.",
+            "Publish the quarterly essay on B-side culture.",
+            "Sign correspondence by the curator."
+          ],
+          "donts": [
+            "No streaming-first releases.",
+            "No 'best of' compilations.",
+            "No social-media-led marketing.",
+            "No commercial pop tracks."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "B-side only",
+            "description": "Every release is B-side, experimental, or overflow work from working artists."
+          },
+          {
+            "name": "Cassette and vinyl",
+            "description": "Releases ship on cassette and vinyl in limited pressings."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The label publishes a long-form essay on B-side culture every quarter."
+          }
+        ],
+        "logoDirection": "A wordmark — B-Side Recording Co set in a hand-drawn display serif with a small B-letter mark beside it.",
+        "colorPalette": [
+          {
+            "name": "Tape",
+            "hex": "#7C5A3D",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Cream",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Reel",
+            "hex": "#1F2530",
+            "meaning": "Secondary.",
+            "usage": "Body."
+          }
+        ],
+        "typography": {
+          "primary": "A hand-drawn display serif for the wordmark.",
+          "secondary": "A neutral grotesque for body.",
+          "rationale": "Two faces."
         }
       }
     ]

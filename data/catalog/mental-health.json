@@ -171,6 +171,101 @@
           "secondary": "A book serif for the practice's printed material and annual letter.",
           "rationale": "Two related serifs. The practice reads like a careful written document."
         }
+      },
+      {
+        "id": "mental-health-modern-3",
+        "brandName": "Verbatim Therapy",
+        "tagline": "A modern therapy practice. Transcript-led.",
+        "brandDescription": "Verbatim Therapy is a modern psychotherapy practice that produces written session transcripts after every visit, sent to the patient as part of the therapeutic record.",
+        "scope": "Verbatim Therapy works across:\n• Weekly psychotherapy sessions\n• Written transcript per session\n• Long-arc therapy relationships\n• Senior therapist roster with capped caseloads\n• Annual practice letter to current and former patients",
+        "mission": "To make the therapeutic record a written object the patient can hold.",
+        "vision": "A practice whose patients keep their session transcripts across years.",
+        "coreValues": [
+          "Considered — the transcript is part of the work.",
+          "Modern — written reflection between sessions.",
+          "Warm — the patient holds the record.",
+          "Specific — every session is transcribed."
+        ],
+        "brandNameRationale": "Verbatim is the Latin-rooted word meaning 'word for word' — single uncommon Latin word, deeply relevant to the practice of capturing therapeutic conversation faithfully. Therapy is the plain category suffix.",
+        "manifesto": "Most therapy practices treat sessions as ephemeral conversation. We started Verbatim Therapy because the actual most useful therapeutic object is the written transcript — what the patient said, what the therapist responded.",
+        "industrySummary": "Therapy notes are typically clinical and internal. The opening is for a practice that produces patient-facing written transcripts.",
+        "competitorLandscape": "Octave Therapy (octave.com) plays the closest peer in considered-modern practice. Two Chairs (twochairs.com) holds the small-caseload-modern peer slot. Locus Therapy (within the catalog) plays the peer reference. We sit alongside Two Chairs with sharper transcript focus.",
+        "positioningStatement": "Verbatim Therapy is a modern psychotherapy practice producing written session transcripts as part of the therapeutic record.",
+        "positioningRationale": "We compete on the transcript premise.",
+        "targetAudience": {
+          "primary": "Adults 28-55 seeking long-arc psychotherapy with a written-record approach.",
+          "behaviors": [
+            "Read therapy notes if available.",
+            "Keep journals.",
+            "Want written reflection between sessions.",
+            "Pay full session fees."
+          ],
+          "motivations": [
+            "Want written transcripts.",
+            "Want long-arc therapy.",
+            "Want a written record of the work."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the transcript practice.",
+            "Reference therapist tenure.",
+            "Sign correspondence by the clinical lead.",
+            "Send a printed annual letter."
+          ],
+          "donts": [
+            "No 'matched in minutes' marketing.",
+            "No app-based therapy positioning.",
+            "No 'self-help' content marketing.",
+            "No therapist headshots styled like stock."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Session transcripts",
+            "description": "Every session produces a written transcript sent to the patient within 48 hours."
+          },
+          {
+            "name": "Capped caseloads",
+            "description": "Every therapist's caseload is capped."
+          },
+          {
+            "name": "Senior therapists",
+            "description": "Every therapist has at least seven years of post-licensure experience."
+          }
+        ],
+        "logoDirection": "A wordmark — Verbatim Therapy set in a calm modern serif with a small typewriter-line mark beneath.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body."
+          },
+          {
+            "name": "Hour",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Section marks."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark.",
+          "secondary": "A typewriter mono for transcript body.",
+          "rationale": "Two faces."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "secondary": "An engraver's italic for the practice name on the brass plate.",
           "rationale": "Letterpress and engraver's register only. The practice communicates almost entirely in person and by letter."
         }
+      },
+      {
+        "id": "mental-health-luxury-3",
+        "brandName": "Holcombe & Howell Therapy",
+        "tagline": "A heritage two-partner therapy practice. By referral.",
+        "brandDescription": "Holcombe & Howell Therapy is a heritage two-partner psychotherapy practice founded in 1988, taking client work by referral with the two partners as the only practicing therapists.",
+        "scope": "Holcombe & Howell Therapy works across:\n• Long-arc psychotherapy with one of the two partners\n• Multi-year client relationships\n• Consultation and supervision for other clinicians\n• Annual private case-review seminars for invited colleagues\n• Multi-generational patient family relationships",
+        "mission": "To practice psychotherapy in the considered two-partner tradition.",
+        "vision": "A practice whose retirement plan is to hand existing patients to trusted colleagues.",
+        "coreValues": [
+          "Senior — the partners are the practice.",
+          "Discreet — sessions stay private.",
+          "Considered — the work assumes years.",
+          "Patient — we work at the pace of the unconscious."
+        ],
+        "brandNameRationale": "Holcombe and Howell are real surnames common in the senior psychotherapy tradition. Paired with Therapy they signal a multi-generational partnership rooted in the considered traditions of the field. No 'The' prefix.",
+        "manifesto": "Most therapy practices grow. Holcombe & Howell has been a two-partner practice since the founders met in fellowship in 1988.",
+        "industrySummary": "Premium psychotherapy has consolidated under group practices. There is a quieter market for the very small partner-led practice.",
+        "competitorLandscape": "Bedford & Stein Therapy (within the catalog) plays the peer reference. The American Psychoanalytic Association (apsa.org) is the credentialing reference. We belong with the small senior partnerships.",
+        "positioningStatement": "A two-partner psychotherapy practice taking client work by referral, with the partners as the only practicing therapists.",
+        "positioningRationale": "We do not extend the partnership.",
+        "targetAudience": {
+          "primary": "Adults 35-65 seeking long-arc psychotherapy with senior practitioners.",
+          "behaviors": [
+            "Have done therapy before.",
+            "Care about therapist training and tradition.",
+            "Commit to multi-year relationships.",
+            "Pay full session fees."
+          ],
+          "motivations": [
+            "Want a senior practitioner.",
+            "Want a practice grounded in the analytic tradition.",
+            "Want a relationship that lasts."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname.",
+            "Sign correspondence by the named partner.",
+            "Reference the partnership's founding year.",
+            "Publish in clinical journals."
+          ],
+          "donts": [
+            "No website beyond a directory page.",
+            "No marketing material.",
+            "No social-media presence.",
+            "No advertising."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Two partners only",
+            "description": "The practice has two practicing therapists."
+          },
+          {
+            "name": "Referral-only intake",
+            "description": "New clients are accepted by referral."
+          },
+          {
+            "name": "Long-arc relationships",
+            "description": "Most clients are with the practice for five to fifteen years."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Holcombe & Howell Therapy set in a classical book serif on letterhead and a brass plate.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Letterhead.",
+            "usage": "Correspondence."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Brass plate."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif on letterhead.",
+          "secondary": "An engraver's italic for the practice name.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +703,99 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "No second face.",
           "rationale": "One typeface across the website, the appointment confirmation, and the receipt."
+        }
+      },
+      {
+        "id": "mental-health-minimal-3",
+        "brandName": "Hour",
+        "tagline": "A therapy practice. One fifty-minute hour.",
+        "brandDescription": "Hour is a minimal psychotherapy practice with a single offering — a fifty-minute therapeutic hour — at a single fixed per-session fee, with no membership and no sliding scale.",
+        "scope": "Hour works across:\n• A single fifty-minute therapeutic hour per session\n• Plain published per-session fee\n• Single therapist per patient\n• Email reminders only\n• Annual single-page practice update",
+        "mission": "To make therapy a plain weekly hour — one session, one fee, one therapist.",
+        "vision": "A practice that stays the same size for its full lifespan.",
+        "coreValues": [
+          "Plain — one hour, one fee, one therapist.",
+          "Direct — the offering is on the page.",
+          "Considered — the weekly arc is the work."
+        ],
+        "brandNameRationale": "Hour is the real psychotherapy trade word for a single fifty-minute therapeutic session (the 'therapeutic hour') — single archaic trade word, deeply specific.",
+        "manifesto": "Most therapy practices accumulate add-ons. We made Hour because the actual work is just the weekly hour.",
+        "industrySummary": "Modern therapy has accumulated features. There is real space for a practice that strips to a single weekly hour.",
+        "competitorLandscape": "Session (within the catalog) plays the closest minimal peer. Wisp (hellowisp.com) holds the single-purpose minimal slot. We sit alongside Session with a sharper one-hour discipline.",
+        "positioningStatement": "Hour is a therapy practice with one offering — a fifty-minute weekly therapeutic hour — and a published per-session fee.",
+        "positioningRationale": "We strip to one hour.",
+        "targetAudience": {
+          "primary": "Adults seeking weekly therapy who want a plain single-offering practice.",
+          "behaviors": [
+            "Want the weekly hour as the unit.",
+            "Prefer direct payment to insurance.",
+            "Skip group sessions.",
+            "Want a single therapist."
+          ],
+          "motivations": [
+            "Want a plain practice.",
+            "Want one weekly hour.",
+            "Want a fee they can plan around."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the session fee on the home page.",
+            "List the weekly hour as the only offering.",
+            "Confirm appointments in one line.",
+            "Sign with the therapist's first name."
+          ],
+          "donts": [
+            "No insurance billing.",
+            "No group programs.",
+            "No app or platform.",
+            "No intensive retreats."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One hour, one fee",
+            "description": "Every patient has one weekly fifty-minute hour with one therapist."
+          },
+          {
+            "name": "No insurance",
+            "description": "Patients pay directly."
+          },
+          {
+            "name": "No app",
+            "description": "Booking is by email. No platform."
+          }
+        ],
+        "logoDirection": "Hour set in a neutral grotesque, all lowercase, at small scale. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Copy."
+          },
+          {
+            "name": "Lamp",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Session-fee chip."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "No second face.",
+          "rationale": "One typeface."
         }
       }
     ],
@@ -710,6 +993,101 @@
           "secondary": "A clean enterprise grotesque for payer reports, compliance documentation, and operational tables.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "id": "mental-health-corporate-3",
+        "brandName": "Pinedale Behavioral Health Group",
+        "tagline": "Multi-brand behavioral health operator.",
+        "brandDescription": "Pinedale Behavioral Health Group operates a portfolio of behavioral health brands with shared operations.",
+        "scope": "Pinedale Behavioral Health Group works across:\n• Multi-brand behavioral health operations\n• Shared infrastructure across the portfolio\n• Distribution and trade relationships\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier behavioral health brands that want to keep their identity and outsource the operations.",
+        "vision": "A behavioral health operator whose portfolio brands grow under their own names because operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Pinedale is a real American place-name with a heritage trade register. Behavioral Health Group follows the multi-brand operator naming convention used in behavioral health.",
+        "manifesto": "Pinedale Behavioral Health Group owns and operates a portfolio of behavioral health brands. Each brand retains its identity; we operate the shared infrastructure.",
+        "industrySummary": "Behavioral health has consolidated under a small number of multi-brand operators. The opening is for a regional mid-tier operator.",
+        "competitorLandscape": "Various multi-brand operators in the behavioral health category play peer references. We belong in the regional mid-tier category.",
+        "positioningStatement": "Pinedale Behavioral Health Group is a regional multi-brand behavioral health operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability.",
+        "targetAudience": {
+          "primary": "Behavioral health brand founders considering sale, distribution partners, and institutional investors.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year agreements.",
+            "Care about operations.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Need shared infrastructure.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio.",
+            "Speak the language of founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Pinedale tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements.",
+            "No press-release hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with behavioral health brands."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for scale."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Pinedale set in a traditional book serif, with 'Behavioral Health Group' beneath in tracked small caps.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "A clean enterprise grotesque for reports.",
+          "rationale": "Tabular."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1274,101 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "A book serif for the practice's printed materials.",
           "rationale": "The brand reads like a small literary press. Both faces are quiet."
+        }
+      },
+      {
+        "id": "mental-health-creative-3",
+        "brandName": "Long Hour Therapy",
+        "tagline": "A practice for the ninety-minute session.",
+        "brandDescription": "Long Hour Therapy is a creative-led psychotherapy practice using ninety-minute sessions exclusively — the 'long hour' — for clients whose work benefits from extended time.",
+        "scope": "Long Hour Therapy works across:\n• Ninety-minute therapy sessions exclusively\n• Long-arc client relationships\n• Quarterly published essays on the long-session tradition\n• Senior therapists with capped caseloads\n• Annual practice letter to active and former clients",
+        "mission": "To restore the long therapeutic session as a primary practice.",
+        "vision": "A practice whose long-hour approach becomes a documented option in serious therapy.",
+        "coreValues": [
+          "Warm — the long session is the work.",
+          "Specific — every session is ninety minutes.",
+          "Considered — the format is intentional.",
+          "Patient — the long arc is the practice."
+        ],
+        "brandNameRationale": "Long Hour is a phrase about the practice of extended therapeutic sessions — historically used in psychoanalytic work for clients who needed more than the standard fifty minutes. Naming the practice after the format stakes a clear position. No 'The' prefix — direct phrase + Therapy.",
+        "manifesto": "Most therapy is built on the fifty-minute hour. We started Long Hour Therapy because some therapeutic work needs ninety minutes — the slow approach, the deeper material, the unrushed close.",
+        "industrySummary": "Most modern therapy practices use fifty-minute sessions. There is real space for a practice that explicitly uses ninety-minute sessions.",
+        "competitorLandscape": "Most psychotherapy practices use the standard hour. Some psychoanalytic practitioners use longer sessions. We sit in the explicit long-session creative position.",
+        "positioningStatement": "Long Hour Therapy is a psychotherapy practice using ninety-minute sessions exclusively.",
+        "positioningRationale": "The brand competes on the long-hour premise.",
+        "targetAudience": {
+          "primary": "Adults 30-55 in long-arc therapy who feel the standard hour cuts the work short.",
+          "behaviors": [
+            "Have done therapy before.",
+            "Want longer sessions.",
+            "Care about the unrushed close.",
+            "Pay full long-session fees."
+          ],
+          "motivations": [
+            "Want ninety-minute sessions.",
+            "Want unrushed therapeutic work.",
+            "Want a practice with a clear format."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the ninety-minute hour.",
+            "Publish the quarterly essay on long-session tradition.",
+            "Reference therapist training.",
+            "Send the annual letter in print."
+          ],
+          "donts": [
+            "No standard-hour marketing.",
+            "No 'efficiency' positioning.",
+            "No app or platform.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Ninety-minute sessions",
+            "description": "Every session is ninety minutes. We do not offer fifty-minute sessions."
+          },
+          {
+            "name": "Long-arc relationships",
+            "description": "Most clients are with the practice for multi-year arcs."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The practice publishes a long-form essay on long-session tradition every quarter."
+          }
+        ],
+        "logoDirection": "A wordmark — Long Hour Therapy set in a quiet display serif with a small clock-face mark beside it.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body."
+          },
+          {
+            "name": "Hour",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Section marks."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark.",
+          "secondary": "A book serif for the quarterly essay.",
+          "rationale": "Two related serifs."
         }
       }
     ]

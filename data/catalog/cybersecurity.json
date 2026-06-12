@@ -172,6 +172,101 @@
           "secondary": "JetBrains Mono for code snippets and SLA timings.",
           "rationale": "The grotesque signals operations. The mono signals engineering. Reports are typeset like a careful technical document."
         }
+      },
+      {
+        "id": "cybersecurity-modern-3",
+        "brandName": "Perimeter Security",
+        "tagline": "A modern boutique security firm. Network-edge led.",
+        "brandDescription": "Perimeter Security is a modern security boutique specializing in network perimeter defence for mid-market companies, with on-call response within four hours.",
+        "scope": "Perimeter Security works across:\n• Network perimeter assessment and hardening\n• Four-hour on-call response retainers\n• Quarterly published threat-landscape reports for clients\n• Direct senior-consultant engagement\n• Annual penetration testing on a published schedule",
+        "mission": "To make perimeter defence operationally measurable for mid-market companies.",
+        "vision": "A boutique whose perimeter assessments are referenced by peer firms.",
+        "coreValues": [
+          "Direct — the SLA is the contract.",
+          "Modern — perimeter focus over broad consulting.",
+          "Specific — every assessment is documented.",
+          "Reliable — four-hour response, every time."
+        ],
+        "brandNameRationale": "Perimeter is the foundational network-security trade term for the boundary between trusted and untrusted networks — single archaic trade word, deeply specific. Security is the plain category suffix.",
+        "manifesto": "Most security firms produce 200-page reports. We started Perimeter Security because the actual most useful security work is at the network edge — and the most useful deliverable is a hardened perimeter, not a PDF.",
+        "industrySummary": "Mid-market security has split between platform-product cohorts and broad consulting firms. The opening is for a boutique competing on perimeter specialty.",
+        "competitorLandscape": "Bishop Fox (bishopfox.com) plays the closest peer. NCC Group (nccgroup.com) holds the heritage peer slot. Latacora (latacora.com) sits in the embedded-security middle. We belong alongside Bishop Fox with sharper perimeter focus.",
+        "positioningStatement": "Perimeter Security is a modern boutique specializing in network perimeter defence with four-hour on-call response.",
+        "positioningRationale": "We compete on perimeter specialty and response time.",
+        "targetAudience": {
+          "primary": "CTOs and CISOs at companies of 100-1000 employees running production network infrastructure.",
+          "behaviors": [
+            "Maintain network perimeters.",
+            "Care about response SLAs.",
+            "Read engineering blogs.",
+            "Renew on annual engagements."
+          ],
+          "motivations": [
+            "Need perimeter specialty.",
+            "Need fast on-call response.",
+            "Want a senior consultant on the work."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Specific",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the perimeter assessment and the response SLA.",
+            "Publish threat-landscape reports.",
+            "Reference benchmarks by published numbers.",
+            "Sign engagements by the senior consultant."
+          ],
+          "donts": [
+            "No fear-of-the-week marketing.",
+            "No 'AI-powered' positioning.",
+            "No press-release-led launches.",
+            "No security-by-fear messaging."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Perimeter specialty",
+            "description": "Every engagement focuses on the network perimeter. The specialty is narrow and deep."
+          },
+          {
+            "name": "Four-hour SLA",
+            "description": "On-call response within four hours during incidents. The SLA is published."
+          },
+          {
+            "name": "Quarterly threat reports",
+            "description": "Clients receive a quarterly threat-landscape report with observations from the perimeter portfolio."
+          }
+        ],
+        "logoDirection": "A wordmark — Perimeter Security set in a precise modern grotesque with a small boundary-line mark beneath.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#0F172A",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Status indicators."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark.",
+          "secondary": "JetBrains Mono for code.",
+          "rationale": "Two faces."
+        }
       }
     ],
     "Luxury": [
@@ -349,6 +444,101 @@
           "secondary": "An engraver's italic for the partnership name on the brass plate.",
           "rationale": "Letterpress and engraver's register only. The firm communicates almost entirely in print."
         }
+      },
+      {
+        "id": "cybersecurity-luxury-3",
+        "brandName": "Hartley Cipher Partners",
+        "tagline": "A small senior security partnership. By introduction.",
+        "brandDescription": "Hartley Cipher Partners is a small senior security partnership advising institutions on cryptographic architecture and confidential systems, founded in 1991, with the partners on every engagement.",
+        "scope": "Hartley Cipher Partners works across:\n• Cryptographic architecture review for institutional systems\n• Confidential systems advisory\n• Multi-decade client institution relationships\n• Partners on every engagement\n• Annual private seminar by invitation",
+        "mission": "To advise institutions on cryptographic architecture in the small senior partnership tradition.",
+        "vision": "A partnership whose engagement letters from the 1990s are still in force in 2040.",
+        "coreValues": [
+          "Senior — the partners do the work.",
+          "Discreet — engagements stay private.",
+          "Considered — cryptographic specialty is deep.",
+          "Patient — decade-long relationships are the practice."
+        ],
+        "brandNameRationale": "Hartley is a real English surname; Cipher is the cryptographic trade word. Together they signal a small senior partnership in the established consulting-partnership convention (Stamos Group, Krebs Stamos Group format).",
+        "manifesto": "Hartley Cipher Partners was founded in 1991 by two senior cryptographers. The partnership has remained small across three decades. Most client institutions have been with the firm for over fifteen years.",
+        "industrySummary": "Premium cryptographic advisory has consolidated under large firms. There is space for a small senior partnership operating in the original two-partner tradition.",
+        "competitorLandscape": "Stamos Group (stamos.group) plays the closest peer. Krebs Stamos Group (krebsstamosgroup.com) holds the heritage peer slot. Trail of Bits (trailofbits.com) sits in the elite-research peer position. We belong with the small senior partnerships in the cryptographic-advisory category.",
+        "positioningStatement": "A small senior security partnership advising institutions on cryptographic architecture and confidential systems, founded in 1991.",
+        "positioningRationale": "We do not extend the partnership. Multi-decade institution relationships are the practice.",
+        "targetAudience": {
+          "primary": "CTOs and chief security officers at institutions running confidential systems with cryptographic exposure.",
+          "behaviors": [
+            "Engage advisors by referral.",
+            "Sit through architecture reviews in person.",
+            "Care about engagement quality.",
+            "Renew across multiple engagement cycles."
+          ],
+          "motivations": [
+            "Need advice from named senior partners.",
+            "Need a firm whose previous work is in production for decades.",
+            "Need a relationship that survives leadership changes."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname.",
+            "Sign correspondence by the named partner.",
+            "Reference past engagements by year.",
+            "Print all material correspondence."
+          ],
+          "donts": [
+            "No published case studies.",
+            "No press commentary.",
+            "No social-media presence.",
+            "No conference circuit."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Two partners",
+            "description": "The partnership is led by two senior partners. The partners are on every engagement."
+          },
+          {
+            "name": "Multi-decade clients",
+            "description": "Most institutional clients have been with the firm for over fifteen years."
+          },
+          {
+            "name": "Annual private seminar",
+            "description": "Once a year the partnership hosts a private seminar for past and current clients."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Hartley Cipher Partners set in a classical book serif. Letterhead register.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Letterhead.",
+            "usage": "Correspondence."
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Brass plate."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif on letterhead.",
+          "secondary": "An engraver's italic for the partnership name.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -514,6 +704,99 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "JetBrains Mono for code snippets in PR descriptions.",
           "rationale": "Two faces. The grotesque is the working surface. The mono signals 'this is code.'"
+        }
+      },
+      {
+        "id": "cybersecurity-minimal-3",
+        "brandName": "Kernel",
+        "tagline": "A small security firm. One operating-system kernel review.",
+        "brandDescription": "Kernel is a minimal security firm specializing in operating-system kernel reviews at a fixed per-review fee, with one kernel reviewed per engagement.",
+        "scope": "Kernel works across:\n• Operating-system kernel reviews\n• Fixed per-review fee\n• Direct senior-engineer engagement\n• Published methodology\n• Annual single-page firm report",
+        "mission": "To review one operating-system kernel per engagement at a fixed fee.",
+        "vision": "A firm whose 100th kernel review uses the same methodology as the first.",
+        "coreValues": [
+          "Plain — one kernel, one fee.",
+          "Direct — the review is the work.",
+          "Considered — every methodology step is published."
+        ],
+        "brandNameRationale": "Kernel is the foundational operating-system trade word for the core process-management code — single archaic trade word, deeply specific to systems security.",
+        "manifesto": "Most security firms offer broad services. We made Kernel because the actual most consequential security work is at the kernel level.",
+        "industrySummary": "Operating-system security work is buried in broad consulting. There is real space for a firm specialized in kernel reviews.",
+        "competitorLandscape": "Trail of Bits (trailofbits.com) plays the closest peer in low-level security. Most boutiques serve broader scope. We sit further out — kernel reviews only.",
+        "positioningStatement": "Kernel is a security firm specializing in operating-system kernel reviews at a fixed per-review fee.",
+        "positioningRationale": "We strip to one kernel per engagement.",
+        "targetAudience": {
+          "primary": "Operating-system developers, embedded-systems engineers, and security teams running custom kernels.",
+          "behaviors": [
+            "Maintain operating-system kernels.",
+            "Care about kernel-level vulnerabilities.",
+            "Want focused specialty.",
+            "Pay for senior expertise."
+          ],
+          "motivations": [
+            "Want kernel-specialty review.",
+            "Want fixed per-review pricing.",
+            "Want focused engagement."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the per-review fee on the home page.",
+            "Show example findings from past reviews.",
+            "Confirm engagements in one line.",
+            "Sign engagements by the senior engineer."
+          ],
+          "donts": [
+            "No broad service marketing.",
+            "No retainer pitches.",
+            "No social-media-led marketing.",
+            "No 'platform' expansion."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Kernel only",
+            "description": "Every engagement reviews one operating-system kernel."
+          },
+          {
+            "name": "Fixed fee",
+            "description": "Plain published per-review fee."
+          },
+          {
+            "name": "Published methodology",
+            "description": "The review methodology is documented and published."
+          }
+        ],
+        "logoDirection": "Kernel set in JetBrains Mono, all lowercase. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Terminal",
+            "hex": "#0F172A",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Surfaces."
+          },
+          {
+            "name": "Signal",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Status."
+          }
+        ],
+        "typography": {
+          "primary": "JetBrains Mono for the wordmark.",
+          "secondary": "Inter for prose.",
+          "rationale": "Two faces."
         }
       }
     ],
@@ -711,6 +994,101 @@
           "secondary": "A clean enterprise grotesque for SOC dashboards, reports, and operational tables.",
           "rationale": "Tabular and disciplined. Numbers louder than adjectives."
         }
+      },
+      {
+        "id": "cybersecurity-corporate-3",
+        "brandName": "Brentford Cybersecurity Holdings",
+        "tagline": "Multi-brand cybersecurity operator.",
+        "brandDescription": "Brentford Cybersecurity Holdings operates a portfolio of cybersecurity brands with shared operations.",
+        "scope": "Brentford Cybersecurity Holdings works across:\n• Multi-brand cybersecurity operations\n• Shared infrastructure across the portfolio\n• Distribution and trade relationships\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier cybersecurity brands that want to keep their identity and outsource the operations.",
+        "vision": "A cybersecurity operator whose portfolio brands grow under their own names because operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Brentford is a real London place-name with a heritage trade register. Cybersecurity Holdings follows the multi-brand operator naming convention used in cybersecurity.",
+        "manifesto": "Brentford Cybersecurity Holdings owns and operates a portfolio of cybersecurity brands. Each brand retains its identity; we operate the shared infrastructure.",
+        "industrySummary": "Cybersecurity has consolidated under a small number of multi-brand operators. The opening is for a regional mid-tier operator.",
+        "competitorLandscape": "Various multi-brand operators in the cybersecurity category play peer references. We belong in the regional mid-tier category.",
+        "positioningStatement": "Brentford Cybersecurity Holdings is a regional multi-brand cybersecurity operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability.",
+        "targetAudience": {
+          "primary": "Cybersecurity brand founders considering sale, distribution partners, and institutional investors.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year agreements.",
+            "Care about operations.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Need shared infrastructure.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio.",
+            "Speak the language of founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Brentford tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements.",
+            "No press-release hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with cybersecurity brands."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for scale."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Brentford set in a traditional book serif, with 'Cybersecurity Holdings' beneath in tracked small caps.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "A clean enterprise grotesque for reports.",
+          "rationale": "Tabular."
+        }
       }
     ],
     "Creative": [
@@ -897,6 +1275,101 @@
           "primary": "A quiet display serif for the wordmark and the Honeypot Report.",
           "secondary": "A neutral grotesque for technical body and code references.",
           "rationale": "The serif reads like a research journal. The grotesque handles the technical detail."
+        }
+      },
+      {
+        "id": "cybersecurity-creative-3",
+        "brandName": "Decoy & Trace Co",
+        "tagline": "A security firm built around deception and forensics.",
+        "brandDescription": "Decoy & Trace Co is a creative-led security firm specializing in deception engineering and digital forensics, with engagements that combine deliberate decoys and traceable attack analysis.",
+        "scope": "Decoy & Trace Co works across:\n• Deception engineering and honeypot deployment\n• Digital forensics for incident reconstruction\n• Published quarterly research on attacker behaviour\n• Open-source forensics tooling\n• Custom decoy deployments for enterprise customers",
+        "mission": "To make deception engineering a primary security practice rather than a research curiosity.",
+        "vision": "A firm whose decoy environments become standard references for serious attacker research.",
+        "coreValues": [
+          "Specific — every claim is tied to observed data.",
+          "Research-led — the research is the brand.",
+          "Direct — published methodology.",
+          "Literary — the writing about deception is part of the work."
+        ],
+        "brandNameRationale": "Decoy and Trace are the two foundational deception-engineering trade words — the bait and the analysis. Paired they ground the brand in the specific craft. Co is the small-firm suffix. No 'The' prefix.",
+        "manifesto": "Most security firms react after incidents. We started Decoy & Trace Co because the actual most informative security work is deliberate — deploying decoys, observing attempts, tracing attacker behaviour.",
+        "industrySummary": "Deception engineering has matured as a research practice but is rare as a primary commercial offering. There is real space for a firm positioned explicitly on decoy-and-trace work.",
+        "competitorLandscape": "GreyNoise (greynoise.io) plays the closest peer in deliberate-exposure research. Shadowserver Foundation (shadowserver.org) sits in the research-organization peer position. We belong alongside GreyNoise with a forensics complement.",
+        "positioningStatement": "Decoy & Trace Co is a security firm specializing in deception engineering and digital forensics with combined engagements.",
+        "positioningRationale": "The brand competes on the decoy-and-trace premise.",
+        "targetAudience": {
+          "primary": "CISOs and threat-intelligence leads at large enterprises and government bodies.",
+          "behaviors": [
+            "Read security research weekly.",
+            "Subscribe to threat-intelligence feeds.",
+            "Care about attacker methodology.",
+            "Pay for specialty engagements."
+          ],
+          "motivations": [
+            "Want deception engineering as a primary service.",
+            "Want combined decoy-and-trace engagements.",
+            "Want a firm with a published research voice."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Specific",
+          "Research-led",
+          "Direct",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish quarterly research from decoy environments.",
+            "Show actual logs.",
+            "Reference MITRE ATT&CK techniques by ID.",
+            "Sign correspondence by the research lead."
+          ],
+          "donts": [
+            "No 'experts predict' phrasing.",
+            "No fear-based marketing.",
+            "No press-release-led announcements.",
+            "No anonymous research."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Deception engineering",
+            "description": "We design and deploy decoys tuned to client environments. The decoy is the primary tool."
+          },
+          {
+            "name": "Digital forensics",
+            "description": "Every engagement includes forensic analysis of observed attacker behaviour. The trace completes the deception."
+          },
+          {
+            "name": "Published research",
+            "description": "Quarterly published research from decoy environments. The research is the marketing."
+          }
+        ],
+        "logoDirection": "A wordmark — Decoy & Trace Co set in a quiet display serif with a small honeycomb-and-arrow mark beside it.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Honey",
+            "hex": "#D89B3D",
+            "meaning": "Secondary — the honeypot amber.",
+            "usage": "Accents."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark.",
+          "secondary": "A neutral grotesque for technical body.",
+          "rationale": "The serif speaks; the sans labels."
         }
       }
     ]

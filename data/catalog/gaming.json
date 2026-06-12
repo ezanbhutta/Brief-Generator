@@ -171,6 +171,101 @@
           "secondary": "JetBrains Mono for credits, version numbers, and changelog.",
           "rationale": "The grotesque is the studio. The mono is the build."
         }
+      },
+      {
+        "id": "gaming-modern-3",
+        "brandName": "Vertex Studio",
+        "tagline": "A modern indie game studio. 3D-modeling-led.",
+        "brandDescription": "Vertex Studio is a modern indie game studio specializing in 3D-modeled narrative games with hand-modeled assets and a published 3D pipeline.",
+        "scope": "Vertex Studio works across:\n• 3D-modeled narrative game development\n• Hand-modeled asset pipelines\n• Original soundtracks composed in-house\n• Publicly published 3D modelling tutorials\n• Direct-to-player sales alongside platform releases",
+        "mission": "To make narrative games where the 3D modelling is a primary creative deliverable.",
+        "vision": "A studio whose 3D models are studied in modelling education.",
+        "coreValues": [
+          "Considered — every model is hand-built.",
+          "Modern — direct-to-player distribution.",
+          "Specific — the pipeline is published.",
+          "Patient — modelling takes time."
+        ],
+        "brandNameRationale": "Vertex is the foundational 3D-modeling trade word for a point in 3D space where edges meet — single trade word, deeply specific to 3D graphics. Studio is the plain suffix.",
+        "manifesto": "Most indie studios use procedural asset generation. We started Vertex Studio because the actual best 3D worlds are hand-modelled.",
+        "industrySummary": "Indie game development uses procedural and asset-store models. The opening is for a studio competing on hand-modelled 3D craft.",
+        "competitorLandscape": "Supergiant Games (supergiantgames.com) plays the closest peer. ConcernedApe (concernedape.com) holds the solo-developer reference. Annapurna Interactive (annapurnainteractive.com) sits in the considered-indie peer position. We belong alongside Supergiant with sharper 3D modelling focus.",
+        "positioningStatement": "Vertex Studio is a modern indie game studio building hand-modelled 3D narrative games.",
+        "positioningRationale": "We compete on 3D modelling craft.",
+        "targetAudience": {
+          "primary": "Players 25-45 who care about 3D modelling craft and buy considered indie games.",
+          "behaviors": [
+            "Follow indie studios.",
+            "Read postmortems.",
+            "Buy directly from developers.",
+            "Care about visual craft."
+          ],
+          "motivations": [
+            "Want games with hand-modelled 3D.",
+            "Want a studio with clear craft.",
+            "Want a developer who publishes the pipeline."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish development screenshots.",
+            "Credit the team by name.",
+            "Write modelling tutorials.",
+            "Release on a 'when it's ready' policy."
+          ],
+          "donts": [
+            "No release-date pressure marketing.",
+            "No procedural-asset positioning.",
+            "No publisher-led trailers.",
+            "No 'AAA' marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Hand-modelled 3D",
+            "description": "Every game asset is hand-modelled. We do not use asset stores or procedural generation."
+          },
+          {
+            "name": "Published pipeline",
+            "description": "The 3D modelling pipeline is documented and published as tutorials."
+          },
+          {
+            "name": "Direct-to-player",
+            "description": "Games are sold direct alongside platform releases."
+          }
+        ],
+        "logoDirection": "A wordmark — Vertex Studio set in a precise modern grotesque with a small geometric vertex mark beside it.",
+        "colorPalette": [
+          {
+            "name": "Pixel",
+            "hex": "#1F1F1F",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Signal",
+            "hex": "#FF3D7F",
+            "meaning": "Accent.",
+            "usage": "The vertex mark."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark.",
+          "secondary": "JetBrains Mono for code.",
+          "rationale": "Two faces."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "secondary": "An old-style serif for the artbook body.",
           "rationale": "Letterpress register. The brand reads like an established publishing house."
         }
+      },
+      {
+        "id": "gaming-luxury-3",
+        "brandName": "Hewitt & Crowe Games",
+        "tagline": "A two-partner game studio. One release every five years.",
+        "brandDescription": "Hewitt & Crowe Games is a heritage two-partner game studio founded in 2001, producing one major narrative game release every five to seven years with both partners as co-directors on every project.",
+        "scope": "Hewitt & Crowe Games works across:\n• Single major game release every five to seven years\n• Both partners as co-directors on every project\n• Long-arc narrative design\n• Original orchestral scores recorded with live ensembles\n• Limited edition physical releases through the studio",
+        "mission": "To make games in the heritage two-director author tradition.",
+        "vision": "A studio whose fifth game arrives in 2046 and finds the same audience who bought its first.",
+        "coreValues": [
+          "Senior — both partners work on every release.",
+          "Considered — five-to-seven year cycles.",
+          "Patient — we build for the cycle.",
+          "Warm — we know our audience by name."
+        ],
+        "brandNameRationale": "Hewitt and Crowe are real surnames with a heritage register. The two-name partnership format follows heritage director-led studios (thatgamecompany's collaborative spirit, genDESIGN's Fumito Ueda + collaborators format). Direct surnames + Games, no 'The' prefix.",
+        "manifesto": "Most game studios race the calendar. Hewitt & Crowe Games was founded in 2001 with the premise of one release every five to seven years, both partners as co-directors.",
+        "industrySummary": "Heritage author-led game studios are rare. There is space for a small partnership operating in the original two-director tradition.",
+        "competitorLandscape": "thatgamecompany (thatgamecompany.com) plays the closest peer. genDESIGN (gen-design.com) holds the heritage Japanese auteur slot. Naughty Dog (naughtydog.com) sits in the long-arc AAA position. We belong with the small heritage author studios.",
+        "positioningStatement": "A heritage two-partner game studio producing one major release every five to seven years with both partners as co-directors.",
+        "positioningRationale": "We do not extend the studio. The partners are co-directors on every release.",
+        "targetAudience": {
+          "primary": "Long-arc game players who keep their console and replay the studios they trust.",
+          "behaviors": [
+            "Keep physical copies of games they love.",
+            "Subscribe to studio newsletters that update once a year.",
+            "Replay games every few years.",
+            "Pay full price for limited editions."
+          ],
+          "motivations": [
+            "Want games that take time.",
+            "Want a studio they can follow across decades.",
+            "Want a physical artefact alongside the digital game."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Patient",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish an annual letter to subscribers.",
+            "Reference previous releases by year.",
+            "Sign correspondence by both partners.",
+            "Print physical artefacts alongside digital releases."
+          ],
+          "donts": [
+            "No 'next title' tease marketing.",
+            "No live-service positioning.",
+            "No DLC roadmap.",
+            "No early-access releases."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Two co-directors",
+            "description": "Both partners are co-directors on every release. The partnership does not work without both."
+          },
+          {
+            "name": "Five-to-seven year cycles",
+            "description": "Each release takes five to seven years. The cycle is not negotiable."
+          },
+          {
+            "name": "Physical artefact",
+            "description": "Every release is accompanied by a limited physical edition."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Hewitt & Crowe Games set in a classical book serif with a small embossed two-figure mark.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Indigo",
+            "hex": "#1F2A40",
+            "meaning": "Secondary.",
+            "usage": "Body."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "An old-style serif for the annual letter.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +703,99 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "Same family for code.",
           "rationale": "One typeface across the game UI and the website."
+        }
+      },
+      {
+        "id": "gaming-minimal-3",
+        "brandName": "Loop",
+        "tagline": "A game studio. One game loop. One game.",
+        "brandDescription": "Loop is a minimal one-game studio focusing entirely on a single game-loop mechanic, with one ongoing title and a published quarterly update cadence.",
+        "scope": "Loop works across:\n• Continued development of one ongoing game\n• Single game-loop mechanic as the central design constraint\n• Quarterly updates on a published date\n• Modding tools and community-server hosting\n• Annual single-page studio report",
+        "mission": "To make one good game with one excellent loop and keep refining it.",
+        "vision": "A studio whose game is still being played and updated in 2040.",
+        "coreValues": [
+          "Plain — one game, one website.",
+          "Direct — the roadmap is the marketing.",
+          "Patient — we build for the next decade."
+        ],
+        "brandNameRationale": "Loop is the foundational game-design trade phrase for the core gameplay cycle that the player repeats — single trade word, deeply specific to game design. Single-word naming follows the modern minimal indie school (Pixel, Cartridge register).",
+        "manifesto": "Most studios chase the next title. We made Loop because the actual most useful game design work is refining a single excellent game loop over years.",
+        "industrySummary": "Game studios pursue multiple titles. There is real space for a studio that strips to one ongoing game.",
+        "competitorLandscape": "ConcernedApe (concernedape.com) plays the spiritual reference for single-title indie. Bay 12 Games (bay12games.com) holds the indefinite-development slot. Pixel (within the catalog) plays the peer reference. We sit alongside Pixel with sharper game-loop focus.",
+        "positioningStatement": "Loop is a one-game studio refining a single game-loop mechanic across years.",
+        "positioningRationale": "We strip the studio to one game.",
+        "targetAudience": {
+          "primary": "Players who spend hundreds of hours in single games and value continued investment.",
+          "behaviors": [
+            "Track patch notes.",
+            "Run mods and community servers.",
+            "Buy supporter editions.",
+            "Replay favourites."
+          ],
+          "motivations": [
+            "Want one fully-committed game.",
+            "Want quarterly updates.",
+            "Want a roadmap."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the quarterly update on a published date.",
+            "Maintain the public quarterly roadmap.",
+            "Reply to community feedback.",
+            "Sign updates by the lead developer."
+          ],
+          "donts": [
+            "No second-title announcements.",
+            "No 'season pass' marketing.",
+            "No early-access models for new content.",
+            "No paid DLC."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One game",
+            "description": "The studio works on one game. Forever. No sequels."
+          },
+          {
+            "name": "Quarterly updates",
+            "description": "Every quarter brings new free content."
+          },
+          {
+            "name": "Public roadmap",
+            "description": "The studio's quarterly roadmap is published and held."
+          }
+        ],
+        "logoDirection": "Loop set in a neutral grotesque, all lowercase, at small scale. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Pixel",
+            "hex": "#1F1F1F",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Save",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Save-confirmed indicator."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for code.",
+          "rationale": "One typeface."
         }
       }
     ],
@@ -710,6 +993,101 @@
           "secondary": "A clean enterprise grotesque for operational reports and platform documents.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "id": "gaming-corporate-3",
+        "brandName": "Berwick Gaming Holdings",
+        "tagline": "Multi-brand gaming operator.",
+        "brandDescription": "Berwick Gaming Holdings operates a portfolio of gaming brands with shared operations.",
+        "scope": "Berwick Gaming Holdings works across:\n• Multi-brand gaming operations\n• Shared infrastructure across the portfolio\n• Distribution and trade relationships\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier gaming brands that want to keep their identity and outsource the operations.",
+        "vision": "A gaming operator whose portfolio brands grow under their own names because operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Berwick is a real Scottish place-name with a heritage trade register. Gaming Holdings follows the multi-brand operator naming convention used in gaming.",
+        "manifesto": "Berwick Gaming Holdings owns and operates a portfolio of gaming brands. Each brand retains its identity; we operate the shared infrastructure.",
+        "industrySummary": "Gaming has consolidated under a small number of multi-brand operators. The opening is for a regional mid-tier operator.",
+        "competitorLandscape": "Various multi-brand operators in the gaming category play peer references. We belong in the regional mid-tier category.",
+        "positioningStatement": "Berwick Gaming Holdings is a regional multi-brand gaming operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability.",
+        "targetAudience": {
+          "primary": "Gaming brand founders considering sale, distribution partners, and institutional investors.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year agreements.",
+            "Care about operations.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Need shared infrastructure.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio.",
+            "Speak the language of founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Berwick tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements.",
+            "No press-release hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with gaming brands."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for scale."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Berwick set in a traditional book serif, with 'Gaming Holdings' beneath in tracked small caps.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "A clean enterprise grotesque for reports.",
+          "rationale": "Tabular."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1274,101 @@
           "primary": "A quiet display serif for the wordmark, headlines, and companion books.",
           "secondary": "A book serif for NPC dialog and devlogs.",
           "rationale": "The brand reads like a small literary press. Both faces are quiet."
+        }
+      },
+      {
+        "id": "gaming-creative-3",
+        "brandName": "Save Point Studios",
+        "tagline": "A game studio for the moment you save.",
+        "brandDescription": "Save Point Studios is a creative-led game studio building games centred entirely around the save mechanic — the moment a player decides what to preserve and what to lose.",
+        "scope": "Save Point Studios works across:\n• Single-game projects centred on the save mechanic\n• Save-system design as the primary creative work\n• Published essays on save-state design philosophy\n• Customer save-state archives across years\n• Direct-to-player sales",
+        "mission": "To treat the save point as a primary creative design object.",
+        "vision": "A studio whose save-mechanic designs become standard references in game-design education.",
+        "coreValues": [
+          "Literary — the writing about save-state design is part of the work.",
+          "Specific — every save mechanic is intentional.",
+          "Warm — the player's choice is honoured.",
+          "Considered — save states are preserved."
+        ],
+        "brandNameRationale": "Save Point is the universal gaming-trade phrase for the point in a game where progress is preserved — naming the studio after the player's decisive moment. Studios is the plain category suffix. No 'The' prefix.",
+        "manifesto": "Most games treat saving as a feature. We started Save Point Studios because the actual most decisive moment in any game is when the player decides what to save and what to risk.",
+        "industrySummary": "Save-mechanic design is rarely treated as a primary creative work. There is real space for a creative-led studio that positions on save-state design.",
+        "competitorLandscape": "The Chinese Room (thechineseroom.co.uk) plays the closest narrative peer. Failbetter Games (failbettergames.com) holds the dense-text peer slot. Inkle Studios (inklestudios.com) sits in the choice-based peer position. We sit alongside Inkle with sharper save-mechanic focus.",
+        "positioningStatement": "Save Point Studios is an indie game studio building games centred on the save mechanic as the primary design decision.",
+        "positioningRationale": "The brand competes on the save-state premise.",
+        "targetAudience": {
+          "primary": "Narrative game players 25-45 who care about save-state design and game-feel.",
+          "behaviors": [
+            "Save often or save rarely on purpose.",
+            "Discuss save mechanics in forums.",
+            "Buy games for their systems rather than their graphics.",
+            "Pay for considered design."
+          ],
+          "motivations": [
+            "Want games centred on the save mechanic.",
+            "Want a studio with a clear design philosophy.",
+            "Want considered systems."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Specific",
+          "Warm",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the save mechanic.",
+            "Publish essays on save-state design.",
+            "Reference specific save patterns by name.",
+            "Sign correspondence by the lead designer."
+          ],
+          "donts": [
+            "No 'epic adventure' positioning.",
+            "No live-service marketing.",
+            "No 'cinematic' positioning.",
+            "No social-media-first hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Save mechanic as the work",
+            "description": "Every game's central design is the save mechanic — when and how the player preserves progress."
+          },
+          {
+            "name": "Save-state archives",
+            "description": "Players' save states are preserved across years. The archive is part of the relationship."
+          },
+          {
+            "name": "Published design essays",
+            "description": "The studio publishes essays on save-state design every quarter."
+          }
+        ],
+        "logoDirection": "A wordmark — Save Point Studios set in a quiet display serif with a small save-icon mark beside it.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Save",
+            "hex": "#22C55E",
+            "meaning": "Single accent.",
+            "usage": "Save indicators."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark.",
+          "secondary": "A book serif for design essays.",
+          "rationale": "Two related serifs."
         }
       }
     ]
