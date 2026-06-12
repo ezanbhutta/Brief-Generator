@@ -177,6 +177,101 @@
           "secondary": "A book serif for the printed mailer and material specifications.",
           "rationale": "Two related serifs. The brand reads like a careful natural-materials publication."
         }
+      },
+      {
+        "id": "kids-baby-modern-3",
+        "brandName": "Pram & Pillow",
+        "tagline": "A modern small brand for the first year.",
+        "brandDescription": "Pram & Pillow is a modern small children's brand specializing entirely in first-year essentials — pram bedding, swaddles, pillows, and nursery textiles — with a small catalog and heritage cotton mills.",
+        "scope": "Pram & Pillow works across:\n• First-year essentials only (under 12 months)\n• Heritage cotton mill relationships\n• A small catalog of pram bedding, swaddles, pillows, and nursery textiles\n• Direct-to-parent sales\n• Annual customer letter",
+        "mission": "To make first-year essentials at the standard of considered household textiles.",
+        "vision": "A brand whose textiles are kept by families and passed to second children.",
+        "coreValues": [
+          "Considered — first-year focus.",
+          "Modern — heritage materials applied to specific need.",
+          "Warm — textiles passed across siblings.",
+          "Specific — every mill is named."
+        ],
+        "brandNameRationale": "Pram is the traditional baby-carriage trade word; Pillow is the foundational rest object. Paired they ground the brand in first-year vocabulary.",
+        "manifesto": "Most children's brands cover all ages. We started Pram & Pillow to specialize in the first year — the period when textile choices matter most and last least.",
+        "industrySummary": "Children's brands span all ages. The opening is for a brand specialized entirely in first-year essentials.",
+        "competitorLandscape": "Mori (babymori.com) plays the closest peer. Quincy Mae (quincymae.com) holds the natural-modern peer slot. Linen & Cotton Kids (within the catalog) plays the peer reference. We sit alongside Mori with sharper first-year focus.",
+        "positioningStatement": "Pram & Pillow is a modern small brand specializing entirely in first-year textiles from heritage cotton mills.",
+        "positioningRationale": "We compete on age focus and material discipline.",
+        "targetAudience": {
+          "primary": "Parents of children under 12 months commissioning considered first-year essentials.",
+          "behaviors": [
+            "Buy for the first year specifically.",
+            "Care about fabric content.",
+            "Re-buy for second children.",
+            "Pay for considered textiles."
+          ],
+          "motivations": [
+            "Want first-year specialty.",
+            "Want heritage cotton.",
+            "Want a small considered catalog."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the textile and the mill.",
+            "Photograph products in the nursery.",
+            "Reference the resale and pass-on programs.",
+            "Sign correspondence by the founder."
+          ],
+          "donts": [
+            "No synthetic-fiber blends.",
+            "No older-age marketing.",
+            "No styled studio photography of empty garments.",
+            "No seasonal restock theatre."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "First-year only",
+            "description": "Every product is for children under 12 months. We do not stock older sizes."
+          },
+          {
+            "name": "Heritage cotton mills",
+            "description": "All textiles are sourced from named heritage cotton mills."
+          },
+          {
+            "name": "Pass-on program",
+            "description": "The brand operates a pass-on program for first-year textiles to second children."
+          }
+        ],
+        "logoDirection": "A wordmark — Pram & Pillow set in a calm modern serif with a long ampersand.",
+        "colorPalette": [
+          {
+            "name": "Cotton",
+            "hex": "#EFE9DD",
+            "meaning": "Primary.",
+            "usage": "Wordmark, marketing."
+          },
+          {
+            "name": "Wash",
+            "hex": "#9BB0C8",
+            "meaning": "Secondary.",
+            "usage": "Label borders."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1F2530",
+            "meaning": "Type.",
+            "usage": "Body."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern serif for the wordmark.",
+          "secondary": "A book serif for the customer letter.",
+          "rationale": "Two related serifs."
+        }
       }
     ],
     "Luxury": [
@@ -354,6 +449,101 @@
           "secondary": "An engraver's italic for the family name and the founding year.",
           "rationale": "Letterpress register throughout. The atelier communicates in printed French and English."
         }
+      },
+      {
+        "id": "kids-baby-luxury-3",
+        "brandName": "Bertram & Daughters",
+        "tagline": "A heritage children's outfitter. Five generations.",
+        "brandDescription": "Bertram & Daughters is a heritage London children's outfitter founded in 1902, in continuous female-line family operation across five generations, producing custom and small-run children's garments.",
+        "scope": "Bertram & Daughters works across:\n• Custom and small-run children's garments\n• Made-to-measure ceremonial pieces\n• Annual printed catalog mailed to subscribers\n• Multi-generational customer family relationships\n• Workshop visits for established customers",
+        "mission": "To dress children in the heritage outfitter tradition across generations of customer families.",
+        "vision": "An outfitter whose 150th anniversary is run by the great-great-great-granddaughters of the founder.",
+        "coreValues": [
+          "Senior — the female line has run the outfitter since 1902.",
+          "Discreet — customer family relationships stay private.",
+          "Considered — custom and small-run.",
+          "Warm — families return for second and third children."
+        ],
+        "brandNameRationale": "Bertram is a real English surname; the '& Daughters' suffix honours the female-line succession of family businesses (the heritage 'Smith & Sons' tradition, inverted). The format follows heritage outfitter naming (Hatchards & Co., heritage tailoring formats). No 'The' prefix.",
+        "manifesto": "Bertram & Daughters was founded in 1902 by Edith Bertram. The outfitter has remained in continuous female-line family operation across five generations, with daughters succeeding mothers in the workshop and the front of house.",
+        "industrySummary": "Heritage children's outfitters are rare and dominated by luxury conglomerates. There is space for a small heritage outfitter operating in the family-owned tradition.",
+        "competitorLandscape": "Bonpoint (bonpoint.com) plays the heritage French children's peer. Tartine et Chocolat (tartine-et-chocolat.fr) holds the heritage peer slot. Maison Petit (within the catalog) plays the peer reference. We belong with the small heritage children's outfitter tradition.",
+        "positioningStatement": "A heritage London children's outfitter in continuous female-line family operation since 1902, producing custom and small-run garments for customer families.",
+        "positioningRationale": "We do not extend the outfitter. The workshop and the front of house remain in the family.",
+        "targetAudience": {
+          "primary": "Customer families with multi-generational outfitter relationships and households commissioning ceremonial children's garments.",
+          "behaviors": [
+            "Commission ceremonial garments.",
+            "Bring children and grandchildren to the workshop.",
+            "Care about the female-line tradition.",
+            "Pay full outfitter rates."
+          ],
+          "motivations": [
+            "Want heritage children's outfitting.",
+            "Want female-line continuity.",
+            "Want multi-generational relationships."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customer families by surname.",
+            "Sign correspondence by the principal of the generation.",
+            "Reference the founding year and the founder by name.",
+            "Print all marketing on heavy paper."
+          ],
+          "donts": [
+            "No retail mass-market distribution.",
+            "No social-media-first content.",
+            "No promotional pricing.",
+            "No celebrity collaborations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Female-line succession",
+            "description": "The outfitter has been mother-to-daughter for five generations."
+          },
+          {
+            "name": "Custom and small-run",
+            "description": "Beyond the small printed catalog, the outfitter produces custom and made-to-measure garments."
+          },
+          {
+            "name": "Multi-generational customers",
+            "description": "Many customer families have bought across multiple generations."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Bertram & Daughters set in a classical book serif with a small embossed mark.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Plum",
+            "hex": "#5C2D3D",
+            "meaning": "Secondary.",
+            "usage": "Body."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "An engraver's italic for the founding year.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -519,6 +709,99 @@
           "primary": "One neutral grotesque, regular only.",
           "secondary": "No second face.",
           "rationale": "One typeface across the labels, the website, and the receipt."
+        }
+      },
+      {
+        "id": "kids-baby-minimal-3",
+        "brandName": "Crib",
+        "tagline": "A small kids brand. One crib.",
+        "brandDescription": "Crib is a minimal children's brand selling one product — a single wooden crib — designed to convert into a toddler bed and then into a youth bench across the child's first decade.",
+        "scope": "Crib works across:\n• A single wooden crib product\n• Convertible across infant, toddler, and youth stages\n• Fixed published price\n• Direct sales without retail distribution\n• Annual single-page brand report",
+        "mission": "To make one crib that lasts a decade.",
+        "vision": "A brand whose first crib is still in use as a youth bench ten years later.",
+        "coreValues": [
+          "Plain — one crib, one decade.",
+          "Direct — the crib is the brand.",
+          "Considered — the conversions are intentional."
+        ],
+        "brandNameRationale": "Crib is the foundational infant-furniture trade word — single archaic trade word, deeply specific to children's furniture.",
+        "manifesto": "Most children's furniture is replaced at each stage. We made Crib because the actual best small children's brand makes one piece of furniture that converts across the child's first decade.",
+        "industrySummary": "Children's furniture is replaced at each developmental stage. There is real space for a minimal brand built around one convertible piece.",
+        "competitorLandscape": "Babyletto (babyletto.com) plays the modern peer. Oeuf (oeufnyc.com) holds the considered-modern peer slot. We sit further out — one convertible crib only.",
+        "positioningStatement": "Crib is a children's brand selling one wooden crib that converts across infant, toddler, and youth stages.",
+        "positioningRationale": "We strip to one piece.",
+        "targetAudience": {
+          "primary": "Parents who want one considered piece of children's furniture across the first decade.",
+          "behaviors": [
+            "Buy fewer, better children's furniture pieces.",
+            "Care about wood quality.",
+            "Skip stage-based purchasing.",
+            "Want fixed pricing."
+          ],
+          "motivations": [
+            "Want one convertible crib.",
+            "Want fixed pricing.",
+            "Want a brand focused on one product."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the crib and price on the home page.",
+            "Show the conversions across stages.",
+            "Skip multi-product marketing.",
+            "Sign correspondence with the brand name only."
+          ],
+          "donts": [
+            "No second product.",
+            "No multi-stage pricing.",
+            "No promotional pricing.",
+            "No celebrity collaborations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One crib",
+            "description": "The brand sells one wooden crib. We do not add a second product."
+          },
+          {
+            "name": "Converts across stages",
+            "description": "The crib converts into a toddler bed, then into a youth bench."
+          },
+          {
+            "name": "Fixed price",
+            "description": "Published per-crib price."
+          }
+        ],
+        "logoDirection": "Crib set in a neutral grotesque, all lowercase, at small scale on packaging. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Wood",
+            "hex": "#7C5A3D",
+            "meaning": "Primary — wood crib colour.",
+            "usage": "Packaging."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Copy."
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface."
         }
       }
     ],
@@ -716,6 +999,101 @@
           "secondary": "A clean enterprise grotesque for operational reports and compliance documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "id": "kids-baby-corporate-3",
+        "brandName": "Coltsworth Kids Holdings",
+        "tagline": "Multi-brand children's products operator.",
+        "brandDescription": "Coltsworth Kids Holdings operates a portfolio of children's products brands with shared operations.",
+        "scope": "Coltsworth Kids Holdings works across:\n• Multi-brand children's products operations\n• Shared infrastructure across the portfolio\n• Distribution and trade relationships\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier children's products brands that want to keep their identity and outsource the operations.",
+        "vision": "A children's products operator whose portfolio brands grow under their own names because operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Coltsworth is a real English surname-and-place with a heritage trade register. Kids Holdings follows the multi-brand operator naming convention.",
+        "manifesto": "Coltsworth Kids Holdings owns and operates a portfolio of children's products brands. Each brand retains its identity; we operate the shared infrastructure.",
+        "industrySummary": "Children's products has consolidated under a small number of multi-brand operators. The opening is for a regional mid-tier operator.",
+        "competitorLandscape": "Multi-brand operators in children's products play peer references. We belong in the regional mid-tier category.",
+        "positioningStatement": "Coltsworth Kids Holdings is a regional multi-brand children's products operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability.",
+        "targetAudience": {
+          "primary": "Children's products brand founders considering sale, distribution partners, and institutional investors.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year agreements.",
+            "Care about operations.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Need shared infrastructure.",
+            "Need to keep brand identity.",
+            "Need procurement-ready operations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio.",
+            "Speak the language of founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Coltsworth tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements.",
+            "No press-release hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with children's products brands."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for scale."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Coltsworth set in a traditional book serif, with 'Kids Holdings' beneath in tracked small caps.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif.",
+          "secondary": "A clean enterprise grotesque.",
+          "rationale": "Tabular."
+        }
       }
     ],
     "Creative": [
@@ -902,6 +1280,101 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "A book serif for product descriptions and the resale marketplace listings.",
           "rationale": "The brand reads like a small thoughtful publication about children, clothing, and family."
+        }
+      },
+      {
+        "id": "kids-baby-creative-3",
+        "brandName": "First Steps Co",
+        "tagline": "A children's brand built around the first-walk moment.",
+        "brandDescription": "First Steps Co is a creative-led children's brand specializing in first-walking shoes and pre-walking soft footwear, with paired products for the transition from crawling to walking.",
+        "scope": "First Steps Co works across:\n• First-walking shoes and pre-walking soft footwear\n• Paired sizes for the crawling-to-walking transition\n• Quarterly published essays on early-walking research\n• Custom photographs of first steps for customer families\n• Annual customer letter with milestones",
+        "mission": "To make footwear for the specific moment a child takes their first steps.",
+        "vision": "A brand whose products are kept in family archives across generations.",
+        "coreValues": [
+          "Warm — the first steps are the milestone.",
+          "Specific — every product is for the transition.",
+          "Considered — the moment is honoured.",
+          "Literary — the writing about early walking is part of the brand."
+        ],
+        "brandNameRationale": "First Steps is the universal phrase for the child's first independent walking — naming the brand after the milestone. Co is the small-firm suffix. No 'The' prefix.",
+        "manifesto": "Most children's footwear treats early walking as one stage among many. We started First Steps Co because the actual most significant footwear moment is the first steps.",
+        "industrySummary": "Children's footwear is generic. There is real space for a brand positioned specifically on the first-walking transition.",
+        "competitorLandscape": "Stride Rite (striderite.com) plays the heritage first-shoe peer. Pediped (pediped.com) holds the modern first-shoe peer slot. Robeez (robeez.com) sits in the soft-shoe peer position. We sit alongside Robeez with sharper first-steps creative focus.",
+        "positioningStatement": "First Steps Co is a children's brand specializing in footwear for the crawling-to-walking transition.",
+        "positioningRationale": "The brand competes on the first-steps premise.",
+        "targetAudience": {
+          "primary": "Parents of children aged 8-18 months commissioning first-walking footwear.",
+          "behaviors": [
+            "Document first steps with photographs.",
+            "Care about pre-walking foot development.",
+            "Want considered first-shoe products.",
+            "Pay for considered milestones."
+          ],
+          "motivations": [
+            "Want footwear for the first-walking moment.",
+            "Want pre-walking and walking products together.",
+            "Want a brand that honours the milestone."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the first-walking transition.",
+            "Photograph first steps.",
+            "Publish the quarterly essay on early-walking research.",
+            "Sign correspondence by the founder."
+          ],
+          "donts": [
+            "No general children's footwear marketing.",
+            "No 'cute kid' content.",
+            "No social-media-led marketing.",
+            "No celebrity collaborations."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "First-walking specialty",
+            "description": "Every product is for the crawling-to-walking transition (typically 8-18 months)."
+          },
+          {
+            "name": "Paired pre-walking and walking",
+            "description": "Customers receive paired soft pre-walking and structured first-walking footwear."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on early-walking research every quarter."
+          }
+        ],
+        "logoDirection": "A wordmark — First Steps Co set in a quiet display serif with a small footprint illustration beside it.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primary.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Sole",
+            "hex": "#7C5A3D",
+            "meaning": "Secondary.",
+            "usage": "Body."
+          },
+          {
+            "name": "Wash",
+            "hex": "#9BB0C8",
+            "meaning": "Single accent.",
+            "usage": "Section markers."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark.",
+          "secondary": "A book serif for the quarterly essay.",
+          "rationale": "Two related serifs."
         }
       }
     ]
