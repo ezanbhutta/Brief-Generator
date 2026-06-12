@@ -171,6 +171,101 @@
           "secondary": "A book serif for project essays and the printed portfolio.",
           "rationale": "The grotesque is the chrome. The serif is the writing."
         }
+      },
+      {
+        "id": "photography-modern-3",
+        "brandName": "Shutter Studio",
+        "tagline": "A modern photography studio. Mechanical-shutter led.",
+        "brandDescription": "Shutter Studio is a modern photography studio specializing in considered editorial and product photography shot exclusively on mechanical-shutter cameras, with published per-commission pricing.",
+        "scope": "Shutter Studio works across:\n• Editorial and product photography on mechanical-shutter cameras\n• Published per-commission pricing\n• Direct principal-photographer engagement\n• Annual studio review in print\n• Quarterly published essays on mechanical-camera practice",
+        "mission": "To make photography where the shutter's mechanical character is part of the image.",
+        "vision": "A studio whose images are recognised by their mechanical-shutter signature.",
+        "coreValues": [
+          "Considered — the shutter is part of the image.",
+          "Modern — mechanical craft applied to current work.",
+          "Specific — every camera is documented.",
+          "Patient — we shoot when the light is right."
+        ],
+        "brandNameRationale": "Shutter is the foundational camera trade word for the mechanism that controls exposure time — single archaic trade word, deeply specific to photography. Studio is the plain category suffix.",
+        "manifesto": "Most modern photography uses electronic shutters. We started Shutter Studio because the actual most considered photography comes from mechanical-shutter cameras — where the shutter's character becomes part of the image.",
+        "industrySummary": "Photography has moved largely to electronic shutters. The opening is for a studio competing on mechanical-camera craft.",
+        "competitorLandscape": "Aperture Studio (within the catalog) plays the peer reference. Latitude Photography (within the catalog) holds the trade-vocabulary peer slot. Bureau (bureau.io) sits in the considered-modern peer position. We sit alongside Bureau with sharper mechanical-camera focus.",
+        "positioningStatement": "Shutter Studio is a modern photography studio specializing in mechanical-shutter editorial and product work.",
+        "positioningRationale": "We compete on mechanical-camera craft.",
+        "targetAudience": {
+          "primary": "Art directors and brand teams commissioning serious editorial and product photography.",
+          "behaviors": [
+            "Care about mechanical-camera characteristics.",
+            "Commission for both editorial and commercial work.",
+            "Read photographer credits.",
+            "Pay full editorial rates."
+          ],
+          "motivations": [
+            "Want mechanical-shutter photography.",
+            "Want published pricing.",
+            "Want a small studio with focused craft."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the camera and the shutter.",
+            "Publish the lighting setup.",
+            "Reference camera and lens used.",
+            "Sign correspondence by the principal."
+          ],
+          "donts": [
+            "No volume-shoot positioning.",
+            "No electronic-shutter work.",
+            "No 'photo of the day' marketing.",
+            "No social-media-first publication."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Mechanical shutters only",
+            "description": "Every commission is shot on mechanical-shutter cameras. Camera body details are published per commission."
+          },
+          {
+            "name": "Published pricing",
+            "description": "Every commission type has a published price."
+          },
+          {
+            "name": "Annual studio review",
+            "description": "The studio publishes a printed annual review."
+          }
+        ],
+        "logoDirection": "A wordmark — Shutter Studio set in a calm modern grotesque with a small shutter-blade mark beneath.",
+        "colorPalette": [
+          {
+            "name": "Grey Card",
+            "hex": "#7C7B7A",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Filter",
+            "hex": "#D85C3D",
+            "meaning": "Single accent.",
+            "usage": "Section marks."
+          }
+        ],
+        "typography": {
+          "primary": "A calm modern grotesque for the wordmark.",
+          "secondary": "A book serif for project essays.",
+          "rationale": "Two faces."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "secondary": "An engraver's italic for edition numbers and signatures.",
           "rationale": "Letterpress register throughout. The atelier communicates almost entirely in print."
         }
+      },
+      {
+        "id": "photography-luxury-3",
+        "brandName": "Maison Lavelle",
+        "tagline": "A Paris photographic maison. By commission.",
+        "brandDescription": "Maison Lavelle is a heritage Paris-based photographic atelier producing fine-art and editorial commissions for private collectors and museums, in continuous family operation since 1948.",
+        "scope": "Maison Lavelle works across:\n• Private portrait commissions for collectors and families\n• Fine-art editions for museums and serious collectors\n• Limited platinum and silver-gelatin prints\n• Multi-decade collector and family relationships\n• Annual monograph published every five years",
+        "mission": "To produce photographs at the standard of the Paris fine-art photographic tradition.",
+        "vision": "A maison whose prints from the 1950s sit in the same permanent collections as the prints from 2050.",
+        "coreValues": [
+          "Senior — the principal is on every commission.",
+          "Discreet — what happens in the studio stays in the studio.",
+          "Considered — every print is processed with care.",
+          "Patient — the work is built across years."
+        ],
+        "brandNameRationale": "Maison Lavelle uses the Maison + surname convention common to heritage French ateliers (Maison Margiela, Maison Francis Kurkdjian format). Lavelle is a real French surname with a heritage register. No 'The' prefix — Maison provides the proper-noun grounding.",
+        "manifesto": "Maison Lavelle was founded in 1948 by the grandparents of the current principals. The atelier produces fine-art and editorial commissions for private collectors and museums. Commissions are accepted by referral only.",
+        "industrySummary": "Heritage Paris photographic ateliers are rare. There is space for a small atelier operating in the heritage tradition.",
+        "competitorLandscape": "Atelier Norden (within the catalog) plays the peer reference. Magnum Photos (magnumphotos.com) holds the photojournalism-as-art peer slot. Aperture Foundation (aperture.org) sits in the publishing-and-collection peer position. We belong with the small heritage Paris ateliers.",
+        "positioningStatement": "A heritage Paris photographic atelier producing commissions for private collectors, museums, and serious publications since 1948.",
+        "positioningRationale": "We do not extend the practice. Multi-generational client family and museum relationships are the practice.",
+        "targetAudience": {
+          "primary": "Private collectors, museum photography curators, and serious editorial publications commissioning long-arc photographic work.",
+          "behaviors": [
+            "Maintain decade-long relationships with photographers.",
+            "Commission portraits and books across generations.",
+            "Acquire prints for collections.",
+            "Pay full atelier rates."
+          ],
+          "motivations": [
+            "Want commissions at gallery-level craft.",
+            "Want a studio whose work is in major collections.",
+            "Want a long relationship."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname in French and English.",
+            "Sign correspondence by the principal.",
+            "Reference past commissions by year.",
+            "Print all marketing on heavy paper."
+          ],
+          "donts": [
+            "No social-media presence.",
+            "No promotional pricing.",
+            "No 'photo of the day' content.",
+            "No commercial commissions outside serious editorial."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Referral-only commissions",
+            "description": "New commissions are accepted by referral from existing clients, galleries, or curators."
+          },
+          {
+            "name": "Principal in the darkroom",
+            "description": "Every print is processed by the principal or under direct supervision."
+          },
+          {
+            "name": "Quintennial monograph",
+            "description": "Every five years the maison publishes a printed monograph."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Maison Lavelle set in a classical book serif with a small embossed photographer's mark.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Primary.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Silver",
+            "hex": "#3D3D3D",
+            "meaning": "Secondary — silver-gelatin tone.",
+            "usage": "Body."
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "An engraver's italic for edition numbers and signatures.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +703,99 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "Same family for captions.",
           "rationale": "One typeface across the portfolio, pricing page, and engagement letter."
+        }
+      },
+      {
+        "id": "photography-minimal-3",
+        "brandName": "Exposure",
+        "tagline": "A photographer. Single-exposure commissions.",
+        "brandDescription": "Exposure is a minimal photography studio producing single-frame commissions — one chosen image per engagement — at a fixed published per-frame fee.",
+        "scope": "Exposure works across:\n• Single-frame commission per engagement\n• Fixed published per-frame fee\n• Direct photographer engagement\n• No series, no contact sheets, no alternates\n• Annual single-page studio report",
+        "mission": "To produce one chosen image per engagement and stop there.",
+        "vision": "A studio whose 100th commission is in the same single-frame format.",
+        "coreValues": [
+          "Plain — one frame, one fee.",
+          "Direct — the image is the deliverable.",
+          "Considered — every frame is chosen."
+        ],
+        "brandNameRationale": "Exposure is the foundational photographic trade word for a single captured frame — single archaic trade word, deeply specific. Single-word naming follows the modern minimal photography school (Grain register).",
+        "manifesto": "Most photography commissions produce hundreds of frames. We made Exposure because the actual best photography is one chosen frame.",
+        "industrySummary": "Photography commissions deliver image libraries. There is real space for a studio that produces one frame per engagement.",
+        "competitorLandscape": "Grain (within the catalog) plays the closest peer. Most studios produce libraries. We sit further out — one frame per commission.",
+        "positioningStatement": "Exposure is a photography studio producing one chosen frame per engagement at a fixed per-frame fee.",
+        "positioningRationale": "We strip the engagement to one frame.",
+        "targetAudience": {
+          "primary": "Clients who commission photography for a specific use case and want one decisive image.",
+          "behaviors": [
+            "Want one decisive image rather than a library.",
+            "Skip image-selection rounds.",
+            "Care about photographer judgment.",
+            "Pay for the single chosen frame."
+          ],
+          "motivations": [
+            "Want one frame.",
+            "Want fixed per-frame pricing.",
+            "Want focused craft."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the per-frame fee on the home page.",
+            "Show one image per past commission.",
+            "Confirm engagements in one line.",
+            "Sign correspondence by the photographer."
+          ],
+          "donts": [
+            "No image-library deliverables.",
+            "No contact-sheet deliverables.",
+            "No retouching upsells.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One frame per engagement",
+            "description": "Every engagement produces one chosen frame. We do not deliver libraries."
+          },
+          {
+            "name": "Fixed per-frame fee",
+            "description": "Published per-frame fee."
+          },
+          {
+            "name": "Direct delivery",
+            "description": "The single frame is delivered as one high-resolution file."
+          }
+        ],
+        "logoDirection": "Exposure set in a neutral grotesque, all lowercase, at small scale. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Copy."
+          },
+          {
+            "name": "Frame",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Frame marker."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular and medium.",
+          "secondary": "Same family for captions.",
+          "rationale": "One typeface."
         }
       }
     ],
@@ -710,6 +993,101 @@
           "secondary": "A clean enterprise grotesque for operational documents and asset reports.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "id": "photography-corporate-3",
+        "brandName": "Wessex Photography Holdings",
+        "tagline": "Multi-brand photography operator.",
+        "brandDescription": "Wessex Photography Holdings operates a portfolio of photography brands with shared operations.",
+        "scope": "Wessex Photography Holdings works across:\n• Multi-brand photography operations\n• Shared infrastructure across the portfolio\n• Distribution and trade relationships\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier photography brands that want to keep their identity and outsource the operations.",
+        "vision": "A photography operator whose portfolio brands grow under their own names because operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Wessex is a real English region-and-place with a heritage trade register. Photography Holdings follows the multi-brand operator naming convention used in photography.",
+        "manifesto": "Wessex Photography Holdings owns and operates a portfolio of photography brands. Each brand retains its identity; we operate the shared infrastructure.",
+        "industrySummary": "Photography has consolidated under a small number of multi-brand operators. The opening is for a regional mid-tier operator.",
+        "competitorLandscape": "Various multi-brand operators in the photography category play peer references. We belong in the regional mid-tier category.",
+        "positioningStatement": "Wessex Photography Holdings is a regional multi-brand photography operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability.",
+        "targetAudience": {
+          "primary": "Photography brand founders considering sale, distribution partners, and institutional investors.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year agreements.",
+            "Care about operations.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Need shared infrastructure.",
+            "Need to keep brand identity post-acquisition.",
+            "Need procurement-ready operations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio.",
+            "Speak the language of founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Wessex tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements.",
+            "No press-release hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with photography brands."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for scale."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Wessex set in a traditional book serif, with 'Photography Holdings' beneath in tracked small caps.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "A clean enterprise grotesque for reports.",
+          "rationale": "Tabular."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1274,101 @@
           "primary": "A quiet display serif for the wordmark and project headings.",
           "secondary": "A book serif for project essays and the zine body.",
           "rationale": "The brand reads like a small art press. The page is mostly empty by design."
+        }
+      },
+      {
+        "id": "photography-creative-3",
+        "brandName": "Contact Sheet Co",
+        "tagline": "A photography studio for the unedited frame.",
+        "brandDescription": "Contact Sheet Co is a creative-led photography studio that publishes the full contact sheet alongside every selected image, treating the unedited process as part of the work.",
+        "scope": "Contact Sheet Co works across:\n• Editorial and brand photography\n• Published contact sheets alongside selected images\n• Quarterly published essays on contact-sheet tradition\n• Annual studio retrospective of contact sheets\n• Direct customer engagement",
+        "mission": "To restore the contact sheet as part of the photographic work.",
+        "vision": "A studio whose contact sheets are exhibited alongside the selected images.",
+        "coreValues": [
+          "Literary — the writing about process is part of the work.",
+          "Specific — every contact sheet is published.",
+          "Considered — the process is intentional.",
+          "Warm — the rejected frames are honoured."
+        ],
+        "brandNameRationale": "Contact Sheet is the foundational photography trade phrase for the printed grid of all frames from a roll of film — naming the studio after the process artefact. Co is the small-firm suffix. No 'The' prefix.",
+        "manifesto": "Most photographers hide the contact sheet. We started Contact Sheet Co to publish it — to show the rejected frames alongside the chosen one, the process visible.",
+        "industrySummary": "Contact sheets are typically hidden. There is real space for a studio that publishes them.",
+        "competitorLandscape": "Magnum's Contact Sheets book series plays the heritage peer reference. Most contemporary studios don't publish. We sit in an open creative position.",
+        "positioningStatement": "Contact Sheet Co is a photography studio that publishes the full contact sheet alongside every selected image as part of the work.",
+        "positioningRationale": "The brand competes on the contact-sheet premise.",
+        "targetAudience": {
+          "primary": "Art directors and brand teams 30-50 who care about photographic process and transparency.",
+          "behaviors": [
+            "Care about photographic process.",
+            "Read books on contact sheets.",
+            "Commission for transparent craft.",
+            "Pay for considered process work."
+          ],
+          "motivations": [
+            "Want published contact sheets.",
+            "Want process transparency.",
+            "Want a studio that shows the work."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Specific",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish contact sheets with every selected image.",
+            "Show the rejected frames.",
+            "Publish the quarterly essay on contact-sheet tradition.",
+            "Sign correspondence by the photographer."
+          ],
+          "donts": [
+            "No selected-image-only marketing.",
+            "No retouched portfolio.",
+            "No social-media-led portfolio.",
+            "No process-hiding positioning."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Published contact sheets",
+            "description": "Every project's full contact sheet is published alongside the selected image."
+          },
+          {
+            "name": "Process transparency",
+            "description": "The rejected frames are part of the work. The process is visible."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The studio publishes a long-form essay on contact-sheet tradition every quarter."
+          }
+        ],
+        "logoDirection": "A wordmark — Contact Sheet Co set in a quiet display serif with a small grid mark beside it.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "Marketing surfaces."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body."
+          },
+          {
+            "name": "Frame",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Contact-sheet frame."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark.",
+          "secondary": "A book serif for essays.",
+          "rationale": "Two related serifs."
         }
       }
     ]
