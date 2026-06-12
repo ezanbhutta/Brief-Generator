@@ -171,6 +171,101 @@
           "secondary": "A book serif for athlete features and race reports.",
           "rationale": "The grotesque is the spec. The serif is the story."
         }
+      },
+      {
+        "id": "sports-modern-3",
+        "brandName": "Endline Athletic",
+        "tagline": "A modern sports brand. Court-and-field-led.",
+        "brandDescription": "Endline Athletic is a modern sports apparel and equipment brand specializing in court and field sports — basketball, tennis, soccer — with a small catalog tied to specific equipment standards.",
+        "scope": "Endline Athletic works across:\n• Court and field sports apparel and equipment\n• Equipment built to specific governing-body standards\n• Annual specification reports\n• Direct-to-athlete sales\n• Partnership with named clubs and college programs",
+        "mission": "To make sports equipment built to the standards specific sports actually require.",
+        "vision": "A brand whose equipment is used by specific club programs across years.",
+        "coreValues": [
+          "Direct — specs are published.",
+          "Modern — sport-specific focus.",
+          "Specific — regulation standards are honoured.",
+          "Technical — fabric, fit, and equipment are documented."
+        ],
+        "brandNameRationale": "Endline is the court-and-field trade word for the boundary line at the end of a playing surface (in basketball, tennis, football) — single archaic trade word, deeply specific to court sports. Athletic is the heritage category word.",
+        "manifesto": "Most sports brands market across all sports generically. We started Endline Athletic to specialize in court and field sports specifically — with equipment built to the governing-body specifications those sports actually require.",
+        "industrySummary": "Sports brands market across all sports. The opening is for a brand specialized in court and field sports with regulation-spec equipment.",
+        "competitorLandscape": "Tracksmith (tracksmith.com) plays the considered-modern running peer. On (on-running.com) holds the modern athletic peer slot. Splits Athletic (within the catalog) plays the peer reference. We sit alongside Tracksmith with sharper court-and-field focus.",
+        "positioningStatement": "Endline Athletic is a modern sports brand specializing in court and field sports with regulation-spec equipment.",
+        "positioningRationale": "We compete on sport specificity.",
+        "targetAudience": {
+          "primary": "Serious court and field athletes 25-45 who train and compete in basketball, tennis, soccer, or similar sports.",
+          "behaviors": [
+            "Train regularly in specific sports.",
+            "Care about equipment specifications.",
+            "Replace equipment by performance.",
+            "Follow specific clubs and college programs."
+          ],
+          "motivations": [
+            "Want sport-specific equipment.",
+            "Want regulation specifications.",
+            "Want a brand partnered with real programs."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Specific",
+          "Technical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish equipment specifications per product.",
+            "Reference governing-body standards.",
+            "Photograph athletes in training and competition.",
+            "Sign correspondence by the head of product."
+          ],
+          "donts": [
+            "No 'lifestyle' photography.",
+            "No general athletic marketing.",
+            "No social-media-first content.",
+            "No celebrity endorsements outside competitive athletes."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Court and field sports specialty",
+            "description": "Every product is for court or field sports — basketball, tennis, soccer, hockey."
+          },
+          {
+            "name": "Regulation specifications",
+            "description": "Equipment is built to governing-body standards. Specs are published per product."
+          },
+          {
+            "name": "Club partnerships",
+            "description": "The brand partners with named clubs and college programs."
+          }
+        ],
+        "logoDirection": "A wordmark — Endline Athletic set in a precise modern grotesque with a small endline-stripe mark beneath.",
+        "colorPalette": [
+          {
+            "name": "Court",
+            "hex": "#A52A2A",
+            "meaning": "Primary — court surface colour.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F5F2EC",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Lane",
+            "hex": "#FFFFFF",
+            "meaning": "Secondary.",
+            "usage": "Body."
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque for the wordmark and specs.",
+          "secondary": "A book serif for features.",
+          "rationale": "Two faces."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +443,101 @@
           "secondary": "An engraver's italic for member names in the annual journal.",
           "rationale": "Letterpress register throughout. The club communicates primarily in print."
         }
+      },
+      {
+        "id": "sports-luxury-3",
+        "brandName": "Antrim Athletic Club",
+        "tagline": "A members-only athletic club. Founded 1903.",
+        "brandDescription": "Antrim Athletic Club is a heritage members-only athletic club operating one historic clubhouse with rowing, racquet, and squash facilities, in continuous operation since 1903.",
+        "scope": "Antrim Athletic Club works across:\n• Members-only athletic facilities\n• Annual member dinner and inter-club competitions\n• Long-tenure coaching staff\n• Multi-generational membership inheritance\n• Annual printed club journal",
+        "mission": "To operate one historic athletic clubhouse in the heritage members-club tradition.",
+        "vision": "A club whose 200th anniversary in 2103 is celebrated by the descendants of founding members.",
+        "coreValues": [
+          "Senior — the club's tradition is unbroken since 1903.",
+          "Discreet — member affairs stay private.",
+          "Considered — the membership is small.",
+          "Patient — coaching outlasts individual members."
+        ],
+        "brandNameRationale": "Antrim is a real Irish place-name with a heritage athletic register. Athletic Club follows the heritage members-club convention (Hurlingham Club, Queen's Club, NYAC format). No 'The' prefix — Antrim provides the proper-noun grounding.",
+        "manifesto": "Antrim Athletic Club was founded in 1903 as a members athletic club. The clubhouse has been in continuous use since.",
+        "industrySummary": "Heritage members-only athletic clubs are a small but enduring tradition. There is space for a club operating in the original tradition.",
+        "competitorLandscape": "The Hurlingham Club (hurlinghamclub.org.uk) plays the heritage peer. The Queen's Club (queensclub.co.uk) holds the heritage racquet-sports peer slot. The Cresswell Club and The Sutherland Club (within the catalog) play peer references. We belong with the heritage members-club tradition.",
+        "positioningStatement": "A heritage members-only athletic club operating one historic clubhouse since 1903 with rowing, racquet, and squash facilities.",
+        "positioningRationale": "We do not extend the club. Membership is capped.",
+        "targetAudience": {
+          "primary": "Members of the existing club roster, their family members eligible by inheritance, and a small number of newly-elected members each year.",
+          "behaviors": [
+            "Maintain athletic practices across decades.",
+            "Care about clubhouse tradition.",
+            "Attend annual member dinners.",
+            "Inherit membership."
+          ],
+          "motivations": [
+            "Want a club with deep tradition.",
+            "Want multi-generational membership.",
+            "Want a clubhouse that hasn't been redeveloped."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address members by surname.",
+            "Sign correspondence by the club secretary.",
+            "Reference the founding year.",
+            "Print the annual journal on heavy paper."
+          ],
+          "donts": [
+            "No public marketing.",
+            "No social-media presence.",
+            "No promotional membership pricing.",
+            "No commercial partnerships."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One clubhouse",
+            "description": "The club operates from one historic clubhouse, in continuous use since 1903."
+          },
+          {
+            "name": "Election membership",
+            "description": "New members are elected by the membership committee."
+          },
+          {
+            "name": "Long-tenure coaching",
+            "description": "Coaches stay with the club for decades."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Antrim Athletic Club set in a classical book serif with a small embossed crest.",
+        "colorPalette": [
+          {
+            "name": "Forest",
+            "hex": "#1F3A2E",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed details."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark.",
+          "secondary": "An engraver's italic for member names.",
+          "rationale": "Letterpress register."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +703,99 @@
           "primary": "One neutral grotesque, regular only.",
           "secondary": "No second face.",
           "rationale": "One typeface across the labels, the website, and the receipt."
+        }
+      },
+      {
+        "id": "sports-minimal-3",
+        "brandName": "Lap",
+        "tagline": "A small running brand. One lap-time chip.",
+        "brandDescription": "Lap is a minimal running brand selling one product — a wearable lap-time chip — at a fixed published price, with no apparel and no additional products.",
+        "scope": "Lap works across:\n• A single wearable lap-time chip\n• Fixed published price\n• Direct sales without retail distribution\n• Lifetime battery service\n• Annual single-page brand report",
+        "mission": "To make one good lap-time chip and stop there.",
+        "vision": "A brand whose chips are still tracking laps a decade after first purchase.",
+        "coreValues": [
+          "Plain — one chip, one price.",
+          "Direct — the chip is the brand.",
+          "Considered — the timing is precise."
+        ],
+        "brandNameRationale": "Lap is the foundational running and track trade word for a single circuit of a track — single archaic trade word, deeply specific to running and timing.",
+        "manifesto": "Most running brands sell apparel. We made Lap because the actual most useful object for serious runners is a simple lap-time chip.",
+        "industrySummary": "Running products focus on apparel and shoes. There is real space for a brand specialized in a single timing product.",
+        "competitorLandscape": "Garmin (garmin.com) plays the broad sports-tech peer reference. Coros (coros.com) holds the modern peer slot. Most running brands sell apparel. We sit further out — one chip, one product.",
+        "positioningStatement": "Lap is a running brand selling one wearable lap-time chip at a fixed published price.",
+        "positioningRationale": "We strip to one product.",
+        "targetAudience": {
+          "primary": "Runners who track lap times and want a single dedicated chip.",
+          "behaviors": [
+            "Track lap times.",
+            "Skip multi-feature watches.",
+            "Care about timing precision.",
+            "Want fixed pricing."
+          ],
+          "motivations": [
+            "Want one good lap-time chip.",
+            "Want fixed pricing.",
+            "Want a focused product."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the chip and price on the home page.",
+            "Show one photograph.",
+            "Skip multi-product marketing.",
+            "Sign correspondence with the brand name only."
+          ],
+          "donts": [
+            "No second product.",
+            "No apparel.",
+            "No promotional pricing.",
+            "No social-media-led marketing."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "One product",
+            "description": "The brand sells one lap-time chip."
+          },
+          {
+            "name": "Lifetime battery service",
+            "description": "The chip's battery is serviced for lifetime."
+          },
+          {
+            "name": "Fixed price",
+            "description": "Published per-chip price."
+          }
+        ],
+        "logoDirection": "Lap set in a neutral grotesque, all lowercase, at small scale. No emblem.",
+        "colorPalette": [
+          {
+            "name": "Track",
+            "hex": "#A52A2A",
+            "meaning": "Primary.",
+            "usage": "Packaging."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Copy."
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Surfaces.",
+            "usage": "Marketing."
+          }
+        ],
+        "typography": {
+          "primary": "One neutral grotesque, regular only.",
+          "secondary": "No second face.",
+          "rationale": "One typeface."
         }
       }
     ],
@@ -710,6 +993,101 @@
           "secondary": "A clean enterprise grotesque for operational reports and team-sales documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "id": "sports-corporate-3",
+        "brandName": "Brightford Sports Holdings",
+        "tagline": "Multi-brand sports operator.",
+        "brandDescription": "Brightford Sports Holdings operates a portfolio of sports brands with shared operations.",
+        "scope": "Brightford Sports Holdings works across:\n• Multi-brand sports operations\n• Shared infrastructure across the portfolio\n• Distribution and trade relationships\n• Compliance across jurisdictions\n• Annual investor and operator reporting",
+        "mission": "To provide a serious operating platform for mid-tier sports brands that want to keep their identity and outsource the operations.",
+        "vision": "A sports operator whose portfolio brands grow under their own names because operations are shared.",
+        "coreValues": [
+          "Senior — partners deal with partners.",
+          "Operational — operations run on schedule.",
+          "Reliable — predictable across brands.",
+          "Discreet — brand relationships stay private."
+        ],
+        "brandNameRationale": "Brightford is a real English place-name with a heritage trade register. Sports Holdings follows the multi-brand operator naming convention.",
+        "manifesto": "Brightford Sports Holdings owns and operates a portfolio of sports brands. Each brand retains its identity; we operate the shared infrastructure.",
+        "industrySummary": "Sports has consolidated under a small number of multi-brand operators. The opening is for a regional mid-tier operator.",
+        "competitorLandscape": "Multi-brand operators in sports play peer references. We belong in the regional mid-tier category.",
+        "positioningStatement": "Brightford Sports Holdings is a regional multi-brand sports operator running shared operations across a portfolio of brands.",
+        "positioningRationale": "We compete on shared operations depth and procurement-grade reliability.",
+        "targetAudience": {
+          "primary": "Sports brand founders considering sale, distribution partners, and institutional investors.",
+          "behaviors": [
+            "Review brand unit economics.",
+            "Negotiate multi-year agreements.",
+            "Care about operations.",
+            "Renew on multi-year terms."
+          ],
+          "motivations": [
+            "Need shared infrastructure.",
+            "Need to keep brand identity.",
+            "Need procurement-ready operations."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio.",
+            "Speak the language of founders and procurement.",
+            "Publish quarterly operator letters.",
+            "Refer to brands by name, not by Brightford tagging."
+          ],
+          "donts": [
+            "No consumer-facing marketing.",
+            "No social media at the parent level.",
+            "No brand consolidation announcements.",
+            "No press-release hype."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Multi-brand operator",
+            "description": "We own and partner with sports brands."
+          },
+          {
+            "name": "Shared operations",
+            "description": "Centralized operations across the portfolio."
+          },
+          {
+            "name": "Acquisition and partnership",
+            "description": "We acquire and partner with brands looking for scale."
+          }
+        ],
+        "logoDirection": "A serif wordmark — Brightford set in a traditional book serif, with 'Sports Holdings' beneath in tracked small caps.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Documents."
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent.",
+            "usage": "Wordmark detail."
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif.",
+          "secondary": "A clean enterprise grotesque.",
+          "rationale": "Tabular."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1274,101 @@
           "primary": "A quiet display serif for the wordmark and quarterly essay.",
           "secondary": "A neutral grotesque for product descriptions and event listings.",
           "rationale": "The serif tells the story of the trail. The grotesque keeps the catalog readable."
+        }
+      },
+      {
+        "id": "sports-creative-3",
+        "brandName": "Halftime Athletic Co",
+        "tagline": "A sports brand built around the middle of the game.",
+        "brandDescription": "Halftime Athletic Co is a creative-led sports brand specializing in halftime ritual and equipment — the apparel changes, hydration, locker-room work that defines competitive performance.",
+        "scope": "Halftime Athletic Co works across:\n• Apparel and equipment for the halftime period\n• Locker-room and changing-room products\n• Quarterly published essays on the halftime tradition\n• Customer halftime kits for amateur leagues\n• Annual gathering of competitive athletes",
+        "mission": "To make the halftime period a primary creative focus for sports culture.",
+        "vision": "A brand whose halftime kits are standard in serious amateur leagues.",
+        "coreValues": [
+          "Warm — halftime is the rest.",
+          "Specific — every product is for the break.",
+          "Considered — the locker room is honoured.",
+          "Literary — the writing about halftime is part of the brand."
+        ],
+        "brandNameRationale": "Halftime is the universal sports phrase for the middle break in competitive games. Naming the brand after the break rather than the play stakes a clear creative position. Athletic Co is the heritage compound. No 'The' prefix.",
+        "manifesto": "Most sports brands centre the play. We started Halftime Athletic Co because the actual most considered moment in competitive sport is the halftime — the changing room, the rest, the recalibration.",
+        "industrySummary": "Halftime equipment is mostly unbranded. There is real space for a creative-led brand specialized in the period.",
+        "competitorLandscape": "Most sports brands cover all aspects of the game. No major direct peer on the halftime premise. We sit in an open creative position.",
+        "positioningStatement": "Halftime Athletic Co is a sports brand specializing in halftime ritual, apparel, and equipment.",
+        "positioningRationale": "The brand competes on the halftime premise.",
+        "targetAudience": {
+          "primary": "Competitive athletes 25-45 in amateur leagues with formal halftime breaks.",
+          "behaviors": [
+            "Play in leagues with halftime structure.",
+            "Care about halftime equipment.",
+            "Want considered locker-room products.",
+            "Pay for serious sports culture."
+          ],
+          "motivations": [
+            "Want halftime-specific products.",
+            "Want a brand for the changing room.",
+            "Want a community around halftime."
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Literary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with halftime and the break.",
+            "Photograph locker rooms and changing areas.",
+            "Publish the quarterly essay on halftime tradition.",
+            "Sign correspondence by the founder."
+          ],
+          "donts": [
+            "No play-focused marketing.",
+            "No 'no excuses' tone.",
+            "No social-media-led marketing.",
+            "No celebrity-athlete endorsements outside leagues we serve."
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Halftime specialty",
+            "description": "Every product is for the halftime period — apparel, hydration, towels, locker-room equipment."
+          },
+          {
+            "name": "Amateur league focus",
+            "description": "The brand serves competitive amateur leagues with formal halftime breaks."
+          },
+          {
+            "name": "Quarterly essay",
+            "description": "The brand publishes a long-form essay on halftime tradition every quarter."
+          }
+        ],
+        "logoDirection": "A wordmark — Halftime Athletic Co set in a quiet display serif with a small clock-face mark beside it.",
+        "colorPalette": [
+          {
+            "name": "Locker",
+            "hex": "#7C7B7A",
+            "meaning": "Primary.",
+            "usage": "Wordmark."
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Marketing."
+          },
+          {
+            "name": "Towel",
+            "hex": "#FFFFFF",
+            "meaning": "Secondary.",
+            "usage": "Body."
+          }
+        ],
+        "typography": {
+          "primary": "A quiet display serif for the wordmark.",
+          "secondary": "A book serif for the quarterly essay.",
+          "rationale": "Two related serifs."
         }
       }
     ]
