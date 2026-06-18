@@ -1,7 +1,4 @@
-"use client";
-
-// Browser-side roster and assignment store. Persists to localStorage.
-// No backend — each browser has its own data.
+// Roster + assignments client. Talks to Next.js API routes backed by Supabase.
 
 export interface Designer {
   id: string;
@@ -19,83 +16,57 @@ export interface Assignment {
   createdAt: string; // ISO datetime
 }
 
-const ROSTER_KEY = "bbg.roster";
-const ASSIGNMENTS_KEY = "bbg.assignments";
-
-function makeId(): string {
-  return Math.random().toString(36).slice(2, 10) + Date.now().toString(36);
+async function jsonOrThrow<T>(res: Response): Promise<T> {
+  const data = await res.json().catch(() => null);
+  if (!res.ok) {
+    const msg = (data && (data.error as string)) || `Request failed (${res.status}).`;
+    throw new Error(msg);
+  }
+  return data as T;
 }
 
 // ─── Roster ───
-export function getRoster(): Designer[] {
-  if (typeof window === "undefined") return [];
-  try {
-    const raw = window.localStorage.getItem(ROSTER_KEY);
-    if (!raw) return [];
-    const parsed = JSON.parse(raw);
-    if (!Array.isArray(parsed)) return [];
-    return parsed.filter(
-      (d) =>
-        d && typeof d.id === "string" && typeof d.name === "string" && d.name.trim().length > 0,
-    );
-  } catch {
-    return [];
-  }
+export async function getRoster(): Promise<Designer[]> {
+  const res = await fetch("/api/roster", { cache: "no-store" });
+  const { designers } = await jsonOrThrow<{ designers: Designer[] }>(res);
+  return designers;
 }
 
-export function saveRoster(roster: Designer[]): void {
-  if (typeof window === "undefined") return;
-  window.localStorage.setItem(ROSTER_KEY, JSON.stringify(roster));
-}
-
-export function addDesigner(name: string): Designer {
-  const trimmed = name.trim();
-  const designer: Designer = { id: makeId(), name: trimmed };
-  const roster = getRoster();
-  roster.push(designer);
-  saveRoster(roster);
+export async function addDesigner(name: string): Promise<Designer> {
+  const res = await fetch("/api/roster", {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({ name }),
+  });
+  const { designer } = await jsonOrThrow<{ designer: Designer }>(res);
   return designer;
 }
 
-export function removeDesigner(id: string): void {
-  const roster = getRoster().filter((d) => d.id !== id);
-  saveRoster(roster);
+export async function removeDesigner(id: string): Promise<void> {
+  const res = await fetch(`/api/roster/${encodeURIComponent(id)}`, { method: "DELETE" });
+  await jsonOrThrow(res);
 }
 
 // ─── Assignments ───
-export function getAssignments(): Assignment[] {
-  if (typeof window === "undefined") return [];
-  try {
-    const raw = window.localStorage.getItem(ASSIGNMENTS_KEY);
-    if (!raw) return [];
-    const parsed = JSON.parse(raw);
-    if (!Array.isArray(parsed)) return [];
-    return parsed;
-  } catch {
-    return [];
-  }
+export async function getAssignments(): Promise<Assignment[]> {
+  const res = await fetch("/api/sheet", { cache: "no-store" });
+  const { assignments } = await jsonOrThrow<{ assignments: Assignment[] }>(res);
+  return assignments;
 }
 
-export function saveAssignments(assignments: Assignment[]): void {
-  if (typeof window === "undefined") return;
-  window.localStorage.setItem(ASSIGNMENTS_KEY, JSON.stringify(assignments));
-}
-
-export function addAssignment(
+export async function addAssignment(
   input: Omit<Assignment, "id" | "createdAt">,
-): Assignment {
-  const assignment: Assignment = {
-    ...input,
-    id: makeId(),
-    createdAt: new Date().toISOString(),
-  };
-  const assignments = getAssignments();
-  assignments.push(assignment);
-  saveAssignments(assignments);
+): Promise<Assignment> {
+  const res = await fetch("/api/sheet", {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify(input),
+  });
+  const { assignment } = await jsonOrThrow<{ assignment: Assignment }>(res);
   return assignment;
 }
 
-export function removeAssignment(id: string): void {
-  const assignments = getAssignments().filter((a) => a.id !== id);
-  saveAssignments(assignments);
+export async function removeAssignment(id: string): Promise<void> {
+  const res = await fetch(`/api/sheet/${encodeURIComponent(id)}`, { method: "DELETE" });
+  await jsonOrThrow(res);
 }

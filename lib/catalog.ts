@@ -1,68 +1,9 @@
-import fs from "fs";
-import path from "path";
 import type { Brief, Style } from "@/lib/generator";
 import { INDUSTRIES, resolveIndustry, type IndustryEntry } from "@/lib/industries";
-
-export interface CatalogFile {
-  industry: string;
-  aliases?: string[];
-  briefs: Partial<Record<Style, Brief[]>>;
-}
+import { getSupabaseAdmin } from "@/lib/supabase";
 
 export interface BriefWithId extends Brief {
   id: string;
-}
-
-type Catalog = Map<string, CatalogFile>;
-
-let cache: Catalog | null = null;
-
-function catalogDir(): string {
-  return path.join(process.cwd(), "data", "catalog");
-}
-
-function loadCatalog(): Catalog {
-  if (cache) return cache;
-  const map: Catalog = new Map();
-  const dir = catalogDir();
-  if (!fs.existsSync(dir)) {
-    cache = map;
-    return map;
-  }
-  const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"));
-  for (const f of files) {
-    const full = path.join(dir, f);
-    try {
-      const raw = fs.readFileSync(full, "utf-8");
-      const parsed = JSON.parse(raw) as CatalogFile;
-      if (parsed?.industry && parsed?.briefs) {
-        map.set(parsed.industry, parsed);
-      }
-    } catch (e) {
-      console.error(`[catalog] failed to load ${f}:`, e);
-    }
-  }
-  cache = map;
-  return map;
-}
-
-export function getCatalogStats() {
-  const cat = loadCatalog();
-  let total = 0;
-  const perIndustry: Record<string, number> = {};
-  for (const [key, file] of cat) {
-    let count = 0;
-    for (const style of Object.keys(file.briefs) as Style[]) {
-      count += file.briefs[style]?.length ?? 0;
-    }
-    perIndustry[key] = count;
-    total += count;
-  }
-  return { total, perIndustry, industries: Array.from(cat.keys()) };
-}
-
-function briefSignature(b: Brief): string {
-  return `${b.brandName}::${b.tagline}`;
 }
 
 export interface PickResult {
@@ -84,23 +25,55 @@ export type LookupResult =
   | { ok: true; data: PickResult }
   | { ok: false; data: NoMatchResult };
 
-export function pickBrief(
+interface BriefRow {
+  id: string;
+  industry_key: string;
+  style: Style;
+  brand_name: string;
+  data: Brief;
+}
+
+async function fetchCellCount(industryKey: string, style: Style): Promise<number> {
+  const supabase = getSupabaseAdmin();
+  const { count, error } = await supabase
+    .from("briefs")
+    .select("id", { count: "exact", head: true })
+    .eq("industry_key", industryKey)
+    .eq("style", style);
+  if (error) throw error;
+  return count ?? 0;
+}
+
+async function fetchOneBrief(
+  industryKey: string,
+  style: Style,
+  excludeIds: string[],
+): Promise<BriefRow | null> {
+  const supabase = getSupabaseAdmin();
+  let query = supabase
+    .from("briefs")
+    .select("id, industry_key, style, brand_name, data")
+    .eq("industry_key", industryKey)
+    .eq("style", style);
+  if (excludeIds.length > 0) {
+    query = query.not("id", "in", `(${excludeIds.map((s) => `"${s.replace(/"/g, '\\"')}"`).join(",")})`);
+  }
+  // We can't ORDER BY random() in PostgREST, so fetch the candidate set and pick.
+  // Limit to 50 rows: enough to give variety, small enough to be cheap.
+  query = query.limit(50);
+  const { data, error } = await query;
+  if (error) throw error;
+  if (!data || data.length === 0) return null;
+  const idx = Math.floor(Math.random() * data.length);
+  return data[idx] as BriefRow;
+}
+
+export async function pickBrief(
   industryInput: string,
   style: Style,
   excludeIds: string[] = [],
-): LookupResult {
-  const cat = loadCatalog();
-  const available = Array.from(cat.keys());
-
-  if (cat.size === 0) {
-    return {
-      ok: false,
-      data: {
-        reason: "catalog-empty",
-        availableIndustries: [],
-      },
-    };
-  }
+): Promise<LookupResult> {
+  const available = INDUSTRIES.map((i) => i.key);
 
   const match = resolveIndustry(industryInput);
   if (!match) {
@@ -113,10 +86,8 @@ export function pickBrief(
     };
   }
 
-  const file = cat.get(match.entry.key);
-  const briefs = file?.briefs[style] ?? [];
-
-  if (briefs.length === 0) {
+  const totalInCell = await fetchCellCount(match.entry.key, style);
+  if (totalInCell === 0) {
     return {
       ok: false,
       data: {
@@ -127,21 +98,32 @@ export function pickBrief(
     };
   }
 
-  const withIds: BriefWithId[] = briefs.map((b) => ({ ...b, id: briefSignature(b) }));
-  const excluded = new Set(excludeIds);
-  let pool = withIds.filter((b) => !excluded.has(b.id));
-  if (pool.length === 0) pool = withIds;
+  // Try with excludes first; if none left, retry without.
+  let row = await fetchOneBrief(match.entry.key, style, excludeIds);
+  if (!row) {
+    row = await fetchOneBrief(match.entry.key, style, []);
+  }
+  if (!row) {
+    return {
+      ok: false,
+      data: {
+        reason: "cell-empty",
+        matchedIndustry: match.entry,
+        availableIndustries: available,
+      },
+    };
+  }
 
-  const pick = pool[Math.floor(Math.random() * pool.length)];
+  const brief: BriefWithId = { ...row.data, brandName: row.brand_name, id: row.id };
 
   return {
     ok: true,
     data: {
-      brief: pick,
+      brief,
       matchedIndustry: match.entry,
       confidence: match.confidence,
       fuzzyDistance: match.distance,
-      totalInCell: briefs.length,
+      totalInCell,
       catalogIsEmpty: false,
     },
   };

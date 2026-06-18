@@ -37,7 +37,15 @@ export async function POST(req: Request) {
     ? excludeIds.filter((x): x is string => typeof x === "string")
     : [];
 
-  const result = pickBrief(industry.trim(), style, exclude);
+  let result;
+  try {
+    result = await pickBrief(industry.trim(), style, exclude);
+  } catch (err) {
+    return NextResponse.json(
+      { error: err instanceof Error ? err.message : "Brief lookup failed." },
+      { status: 500 },
+    );
+  }
 
   if (!result.ok) {
     const r = result.data;
