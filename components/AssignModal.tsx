@@ -19,9 +19,11 @@ export default function AssignModal({
   onClose,
   onAssigned,
 }: Props) {
-  const [roster, setRoster] = useState<Designer[]>([]);
+  const [designers, setDesigners] = useState<Designer[]>([]);
+  const [assigners, setAssigners] = useState<Designer[]>([]);
   const [rosterLoading, setRosterLoading] = useState(true);
   const [designerId, setDesignerId] = useState("");
+  const [assignerId, setAssignerId] = useState("");
   const [dueDate, setDueDate] = useState("");
   const [error, setError] = useState<string | null>(null);
   const [saving, setSaving] = useState(false);
@@ -30,8 +32,11 @@ export default function AssignModal({
     let cancelled = false;
     (async () => {
       try {
-        const list = await getRoster();
-        if (!cancelled) setRoster(list);
+        const [d, a] = await Promise.all([getRoster("designer"), getRoster("assigner")]);
+        if (!cancelled) {
+          setDesigners(d);
+          setAssigners(a);
+        }
       } catch (err) {
         if (!cancelled) setError(err instanceof Error ? err.message : "Failed to load roster.");
       } finally {
@@ -56,13 +61,22 @@ export default function AssignModal({
       setError("Pick a designer.");
       return;
     }
+    if (!assignerId) {
+      setError("Pick an assigner.");
+      return;
+    }
     if (!dueDate) {
       setError("Pick a due date.");
       return;
     }
-    const designer = roster.find((d) => d.id === designerId);
+    const designer = designers.find((d) => d.id === designerId);
     if (!designer) {
       setError("Designer not found. Refresh and try again.");
+      return;
+    }
+    const assigner = assigners.find((a) => a.id === assignerId);
+    if (!assigner) {
+      setError("Assigner not found. Refresh and try again.");
       return;
     }
     setSaving(true);
@@ -73,6 +87,8 @@ export default function AssignModal({
         style,
         designerId: designer.id,
         designerName: designer.name,
+        assignerId: assigner.id,
+        assignerName: assigner.name,
         dueDate,
       });
       onAssigned?.(designer.name);
@@ -124,7 +140,7 @@ export default function AssignModal({
               <Loader2 size={13} strokeWidth={2.5} className="animate-spin" />
               Loading roster…
             </div>
-          ) : roster.length === 0 ? (
+          ) : designers.length === 0 ? (
             <p className="mt-1.5 flex items-start gap-2 rounded-lg border border-amber/30 bg-amber-bg px-3 py-2.5 text-[13px] text-ink">
               <AlertCircle size={13} strokeWidth={2.25} className="mt-0.5 shrink-0 text-amber" />
               <span>
@@ -145,9 +161,48 @@ export default function AssignModal({
               className="mt-1.5 block w-full rounded-lg border border-border bg-bg-card px-3 py-2.5 text-[14px] text-ink outline-none transition focus:border-violet focus:ring-2 focus:ring-violet/15"
             >
               <option value="">Pick a designer…</option>
-              {roster.map((d) => (
+              {designers.map((d) => (
                 <option key={d.id} value={d.id}>
                   {d.name}
+                </option>
+              ))}
+            </select>
+          )}
+        </div>
+
+        <div className="mt-4">
+          <label className="block text-[10px] font-semibold uppercase tracking-label text-dim">
+            Assigner
+          </label>
+          {rosterLoading ? (
+            <div className="mt-1.5 flex items-center gap-2 rounded-lg border border-border bg-bg-raised px-3 py-2.5 text-[13px] text-muted">
+              <Loader2 size={13} strokeWidth={2.5} className="animate-spin" />
+              Loading…
+            </div>
+          ) : assigners.length === 0 ? (
+            <p className="mt-1.5 flex items-start gap-2 rounded-lg border border-amber/30 bg-amber-bg px-3 py-2.5 text-[13px] text-ink">
+              <AlertCircle size={13} strokeWidth={2.25} className="mt-0.5 shrink-0 text-amber" />
+              <span>
+                No assigners yet — add one on the{" "}
+                <a href="/roster" className="font-semibold text-violet-dim underline">
+                  Roster page
+                </a>
+                .
+              </span>
+            </p>
+          ) : (
+            <select
+              value={assignerId}
+              onChange={(e) => {
+                setAssignerId(e.target.value);
+                setError(null);
+              }}
+              className="mt-1.5 block w-full rounded-lg border border-border bg-bg-card px-3 py-2.5 text-[14px] text-ink outline-none transition focus:border-violet focus:ring-2 focus:ring-violet/15"
+            >
+              <option value="">Pick an assigner…</option>
+              {assigners.map((a) => (
+                <option key={a.id} value={a.id}>
+                  {a.name}
                 </option>
               ))}
             </select>
@@ -187,7 +242,7 @@ export default function AssignModal({
           <button
             type="button"
             onClick={handleAssign}
-            disabled={roster.length === 0 || saving}
+            disabled={designers.length === 0 || assigners.length === 0 || saving}
             className="inline-flex items-center gap-1.5 rounded-lg bg-violet px-4 py-2.5 text-[13px] font-semibold text-white shadow-[0_6px_18px_-6px_rgba(114,41,255,0.55)] transition hover:bg-violet-dim disabled:opacity-50 disabled:cursor-not-allowed"
           >
             {saving ? (

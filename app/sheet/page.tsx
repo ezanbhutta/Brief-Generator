@@ -22,10 +22,12 @@ function formatDate(iso: string): string {
 }
 
 function copyAsTsv(rows: Assignment[]): string {
-  const header = ["Due Date", "Project Name", "Designer Name", "Industry", "Style"];
+  const header = ["Due Date", "Project Name", "Designer", "Assigner", "Industry", "Style"];
   const lines = [header.join("\t")];
   for (const a of rows) {
-    lines.push([a.dueDate, a.brandName, a.designerName, a.industry, a.style].join("\t"));
+    lines.push(
+      [a.dueDate, a.brandName, a.designerName, a.assignerName, a.industry, a.style].join("\t"),
+    );
   }
   return lines.join("\n");
 }
@@ -150,6 +152,9 @@ export default function SheetPage() {
                   <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim">
                     Designer
                   </th>
+                  <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim hidden md:table-cell">
+                    Assigner
+                  </th>
                   <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim hidden sm:table-cell">
                     Style · Industry
                   </th>
@@ -164,6 +169,9 @@ export default function SheetPage() {
                     </td>
                     <td className="px-4 sm:px-5 py-3 font-medium text-ink">{a.brandName}</td>
                     <td className="px-4 sm:px-5 py-3 text-muted">{a.designerName}</td>
+                    <td className="px-4 sm:px-5 py-3 text-muted hidden md:table-cell">
+                      {a.assignerName || <span className="text-dim">—</span>}
+                    </td>
                     <td className="px-4 sm:px-5 py-3 text-dim hidden sm:table-cell">
                       {a.style} · {a.industry}
                     </td>

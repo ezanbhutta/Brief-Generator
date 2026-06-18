@@ -1,28 +1,52 @@
 "use client";
 
-import { useEffect, useState, FormEvent } from "react";
-import { Users, UserPlus, Trash2, AlertCircle, Loader2 } from "lucide-react";
+import { useEffect, useState, FormEvent, useRef } from "react";
+import {
+  Users,
+  UserPlus,
+  Trash2,
+  Pencil,
+  Check,
+  X,
+  AlertCircle,
+  Loader2,
+  Shield,
+} from "lucide-react";
 import Nav from "@/components/Nav";
+import StatCard from "@/components/StatCard";
 import {
   getRoster,
   addDesigner,
+  renameDesigner,
   removeDesigner,
   type Designer,
+  type RosterRole,
 } from "@/lib/roster";
 
-export default function RosterPage() {
-  const [roster, setRoster] = useState<Designer[]>([]);
-  const [name, setName] = useState("");
+interface RosterListProps {
+  title: string;
+  subtitle: string;
+  role: RosterRole;
+  accent: "violet" | "cyan";
+  icon: typeof Users;
+}
+
+function RosterList({ title, subtitle, role, accent, icon: Icon }: RosterListProps) {
+  const [items, setItems] = useState<Designer[]>([]);
   const [loaded, setLoaded] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const [name, setName] = useState("");
   const [adding, setAdding] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [editingId, setEditingId] = useState<string | null>(null);
+  const [editName, setEditName] = useState("");
+  const editRef = useRef<HTMLInputElement>(null);
 
   async function refresh() {
     try {
-      const list = await getRoster();
-      setRoster(list);
+      const list = await getRoster(role);
+      setItems(list);
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Failed to load roster.");
+      setError(err instanceof Error ? err.message : "Failed to load.");
     } finally {
       setLoaded(true);
     }
@@ -32,6 +56,10 @@ export default function RosterPage() {
     refresh();
   }, []);
 
+  useEffect(() => {
+    if (editingId) editRef.current?.focus();
+  }, [editingId]);
+
   async function onAdd(e: FormEvent) {
     e.preventDefault();
     const trimmed = name.trim();
@@ -39,13 +67,37 @@ export default function RosterPage() {
     setAdding(true);
     setError(null);
     try {
-      await addDesigner(trimmed);
+      await addDesigner(trimmed, role);
       setName("");
       await refresh();
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Failed to add designer.");
+      setError(err instanceof Error ? err.message : "Failed to add.");
     } finally {
       setAdding(false);
+    }
+  }
+
+  function startEdit(d: Designer) {
+    setEditingId(d.id);
+    setEditName(d.name);
+    setError(null);
+  }
+
+  function cancelEdit() {
+    setEditingId(null);
+    setEditName("");
+  }
+
+  async function saveEdit(id: string) {
+    const trimmed = editName.trim();
+    if (!trimmed) return;
+    try {
+      await renameDesigner(id, trimmed);
+      setEditingId(null);
+      setEditName("");
+      await refresh();
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Failed to rename.");
     }
   }
 
@@ -54,110 +106,203 @@ export default function RosterPage() {
       await removeDesigner(id);
       await refresh();
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Failed to remove designer.");
+      setError(err instanceof Error ? err.message : "Failed to remove.");
     }
   }
 
+  const iconClass = accent === "violet" ? "text-violet" : "text-cyan";
+  const bgClass = accent === "violet" ? "bg-violet-bg" : "bg-cyan-bg";
+
+  return (
+    <section className="rounded-xl border border-border bg-bg-card overflow-hidden">
+      {/* Header */}
+      <div className="flex items-center justify-between border-b border-border px-5 py-3.5">
+        <div className="flex items-center gap-2.5">
+          <div className={`flex h-7 w-7 items-center justify-center rounded-md ${bgClass}`}>
+            <Icon size={13} strokeWidth={2.5} className={iconClass} />
+          </div>
+          <div>
+            <h2 className="text-[13px] font-semibold text-ink leading-tight">
+              {title}{" "}
+              <span className="font-normal text-dim">
+                · {loaded ? items.length : "…"}
+              </span>
+            </h2>
+            <p className="text-[11px] text-dim">{subtitle}</p>
+          </div>
+        </div>
+      </div>
+
+      {/* Add row */}
+      <form onSubmit={onAdd} className="flex gap-2 border-b border-border bg-bg-raised px-4 py-3">
+        <input
+          type="text"
+          value={name}
+          onChange={(e) => setName(e.target.value)}
+          placeholder={role === "designer" ? "Add designer…" : "Add assigner…"}
+          disabled={adding}
+          className="flex-1 rounded-md border border-border bg-bg-card px-3 py-1.5 text-[13px] text-ink placeholder:text-dim outline-none transition focus:border-violet focus:ring-2 focus:ring-violet/15 disabled:opacity-50"
+        />
+        <button
+          type="submit"
+          disabled={!name.trim() || adding}
+          className="inline-flex items-center gap-1 rounded-md bg-violet px-3 py-1.5 text-[12px] font-semibold text-white shadow-[0_4px_12px_-4px_rgba(114,41,255,0.45)] transition hover:bg-violet-dim disabled:opacity-50 disabled:cursor-not-allowed"
+        >
+          {adding ? (
+            <Loader2 size={12} strokeWidth={2.5} className="animate-spin" />
+          ) : (
+            <UserPlus size={12} strokeWidth={2.5} />
+          )}
+          Add
+        </button>
+      </form>
+
+      {error && (
+        <div className="flex items-start gap-2 border-b border-border bg-coral-bg px-4 py-2.5 text-[12px] text-coral">
+          <AlertCircle size={12} strokeWidth={2.25} className="mt-0.5 shrink-0" />
+          <span>{error}</span>
+        </div>
+      )}
+
+      {/* Table */}
+      {!loaded ? (
+        <div className="flex items-center justify-center gap-2 py-8 text-[12px] text-dim">
+          <Loader2 size={12} strokeWidth={2.5} className="animate-spin" />
+          Loading…
+        </div>
+      ) : items.length === 0 ? (
+        <div className="px-5 py-8 text-center">
+          <p className="text-[13px] text-muted">
+            No {role === "designer" ? "designers" : "assigners"} yet.
+          </p>
+          <p className="text-[12px] text-dim mt-0.5">Add one above to get started.</p>
+        </div>
+      ) : (
+        <table className="w-full text-[13px]">
+          <thead>
+            <tr className="bg-bg-raised">
+              <th className="px-4 py-2 text-left text-[10px] font-semibold uppercase tracking-label text-dim w-10">
+                #
+              </th>
+              <th className="px-3 py-2 text-left text-[10px] font-semibold uppercase tracking-label text-dim">
+                Name
+              </th>
+              <th className="px-3 py-2 w-24" />
+            </tr>
+          </thead>
+          <tbody>
+            {items.map((d, i) => (
+              <tr key={d.id} className="border-t border-border transition hover:bg-bg-hover">
+                <td className="px-4 py-2.5">
+                  <span className="mono text-[12px] text-dim">
+                    {String(i + 1).padStart(2, "0")}
+                  </span>
+                </td>
+                <td className="px-3 py-2.5">
+                  {editingId === d.id ? (
+                    <input
+                      ref={editRef}
+                      type="text"
+                      value={editName}
+                      onChange={(e) => setEditName(e.target.value)}
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter") saveEdit(d.id);
+                        if (e.key === "Escape") cancelEdit();
+                      }}
+                      className="block w-full rounded-md border border-violet bg-bg-card px-2.5 py-1 text-[13px] text-ink outline-none ring-2 ring-violet/15"
+                    />
+                  ) : (
+                    <span className="text-ink">{d.name}</span>
+                  )}
+                </td>
+                <td className="px-3 py-2.5">
+                  <div className="flex items-center justify-end gap-1">
+                    {editingId === d.id ? (
+                      <>
+                        <button
+                          type="button"
+                          onClick={() => saveEdit(d.id)}
+                          className="inline-flex h-6 w-6 items-center justify-center rounded-md bg-mint-bg text-mint transition hover:opacity-80"
+                          aria-label="Save"
+                        >
+                          <Check size={12} strokeWidth={2.5} />
+                        </button>
+                        <button
+                          type="button"
+                          onClick={cancelEdit}
+                          className="inline-flex h-6 w-6 items-center justify-center rounded-md bg-bg-raised text-dim transition hover:text-ink"
+                          aria-label="Cancel"
+                        >
+                          <X size={12} strokeWidth={2.5} />
+                        </button>
+                      </>
+                    ) : (
+                      <>
+                        <button
+                          type="button"
+                          onClick={() => startEdit(d)}
+                          className="inline-flex h-6 w-6 items-center justify-center rounded-md text-dim transition hover:bg-violet-bg hover:text-violet"
+                          aria-label={`Edit ${d.name}`}
+                        >
+                          <Pencil size={12} strokeWidth={2.25} />
+                        </button>
+                        <button
+                          type="button"
+                          onClick={() => onRemove(d.id)}
+                          className="inline-flex h-6 w-6 items-center justify-center rounded-md text-dim transition hover:bg-coral-bg hover:text-coral"
+                          aria-label={`Remove ${d.name}`}
+                        >
+                          <Trash2 size={12} strokeWidth={2.25} />
+                        </button>
+                      </>
+                    )}
+                  </div>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      )}
+    </section>
+  );
+}
+
+export default function RosterPage() {
   return (
     <>
       <Nav />
-      <main className="mx-auto max-w-3xl px-5 sm:px-8 py-10 sm:py-12">
+      <main className="mx-auto max-w-6xl px-5 sm:px-8 py-8 sm:py-10">
+        {/* Hero */}
         <div className="mb-6 animate-fade-up">
           <div className="text-[10px] font-semibold uppercase tracking-label text-dim mb-1.5 flex items-center gap-1.5">
             <Users size={11} strokeWidth={2.5} />
             Roster
           </div>
           <h1 className="text-2xl sm:text-3xl font-semibold tracking-tight text-ink leading-tight">
-            Designers on the team
+            The team
           </h1>
           <p className="mt-1 text-sm text-muted">
-            Pick from this list when assigning a brief. Add or remove as the team changes.
+            Designers do the work. Assigners hand it off. Both lists feed the assign dialog.
           </p>
         </div>
 
-        <form
-          onSubmit={onAdd}
-          className="flex flex-col sm:flex-row gap-2 mb-6 animate-fade-up"
-        >
-          <input
-            type="text"
-            value={name}
-            onChange={(e) => setName(e.target.value)}
-            placeholder="Designer name"
-            disabled={adding}
-            className="flex-1 rounded-lg border border-border bg-bg-card px-3.5 py-2.5 text-[15px] text-ink placeholder:text-dim outline-none transition focus:border-violet focus:ring-2 focus:ring-violet/15 disabled:opacity-50"
+        {/* Two-column roster */}
+        <div className="grid gap-5 md:grid-cols-2 animate-fade-up">
+          <RosterList
+            title="Designers"
+            subtitle="logo designers on the team"
+            role="designer"
+            accent="violet"
+            icon={Users}
           />
-          <button
-            type="submit"
-            disabled={!name.trim() || adding}
-            className="inline-flex items-center justify-center gap-1.5 rounded-lg bg-violet px-5 py-2.5 text-[13px] font-semibold text-white shadow-[0_6px_18px_-6px_rgba(114,41,255,0.55)] transition hover:bg-violet-dim disabled:opacity-50 disabled:cursor-not-allowed"
-          >
-            {adding ? (
-              <>
-                <Loader2 size={13} strokeWidth={2.5} className="animate-spin" />
-                Adding…
-              </>
-            ) : (
-              <>
-                <UserPlus size={13} strokeWidth={2.5} />
-                Add designer
-              </>
-            )}
-          </button>
-        </form>
-
-        {error && (
-          <div className="mb-4 flex items-start gap-2 rounded-lg border border-coral/30 bg-coral-bg px-3.5 py-2.5 text-[13px] text-coral animate-fade-in">
-            <AlertCircle size={14} strokeWidth={2.25} className="mt-0.5 shrink-0" />
-            <span>{error}</span>
-          </div>
-        )}
-
-        {!loaded ? (
-          <div className="flex items-center justify-center gap-2 rounded-xl border border-border bg-bg-card py-10 text-[13px] text-dim">
-            <Loader2 size={14} strokeWidth={2.5} className="animate-spin" />
-            Loading roster…
-          </div>
-        ) : roster.length === 0 ? (
-          <div className="rounded-xl border border-dashed border-border-hi bg-bg-card p-10 text-center animate-fade-up">
-            <Users size={22} strokeWidth={2} className="mx-auto text-dim" />
-            <p className="mt-3 text-[15px] font-medium text-ink">No designers yet.</p>
-            <p className="mt-1 text-[13px] text-muted">
-              Add one above to start assigning briefs.
-            </p>
-          </div>
-        ) : (
-          <ul className="divide-y divide-border rounded-xl border border-border bg-bg-card overflow-hidden animate-fade-up">
-            {roster.map((d, i) => (
-              <li
-                key={d.id}
-                className="flex items-center justify-between px-4 sm:px-5 py-3 transition hover:bg-bg-hover"
-              >
-                <div className="flex items-center gap-3 min-w-0">
-                  <span className="mono inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-md bg-bg-raised text-[11px] font-semibold text-muted">
-                    {String(i + 1).padStart(2, "0")}
-                  </span>
-                  <span className="text-[15px] text-ink truncate">{d.name}</span>
-                </div>
-                <button
-                  type="button"
-                  onClick={() => onRemove(d.id)}
-                  className="inline-flex items-center gap-1 rounded-md border border-border bg-bg-card px-2.5 py-1 text-[12px] font-medium text-muted transition hover:border-coral/40 hover:bg-coral-bg hover:text-coral"
-                  aria-label={`Remove ${d.name}`}
-                >
-                  <Trash2 size={12} strokeWidth={2.25} />
-                  Remove
-                </button>
-              </li>
-            ))}
-          </ul>
-        )}
-
-        {loaded && roster.length > 0 && (
-          <p className="mt-3 text-[12px] text-dim">
-            {roster.length} designer{roster.length === 1 ? "" : "s"} on the roster.
-          </p>
-        )}
+          <RosterList
+            title="Assigners"
+            subtitle="who's handing the brief over"
+            role="assigner"
+            accent="cyan"
+            icon={Shield}
+          />
+        </div>
       </main>
     </>
   );
