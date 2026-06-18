@@ -44,6 +44,39 @@ async function fetchCellCount(industryKey: string, style: Style): Promise<number
   return count ?? 0;
 }
 
+// Log an industry the user typed that we don't have briefs for, so I can
+// add real briefs for it next session.
+async function logPendingIndustry(raw: string): Promise<void> {
+  try {
+    const label = raw.trim().slice(0, 80);
+    if (!label) return;
+    const normalized = label.toLowerCase().replace(/\s+/g, " ");
+    const supabase = getSupabaseAdmin();
+    const existing = await supabase
+      .from("pending_industries")
+      .select("id, request_count")
+      .eq("normalized", normalized)
+      .maybeSingle();
+    if (existing.data) {
+      await supabase
+        .from("pending_industries")
+        .update({
+          request_count: (existing.data.request_count ?? 0) + 1,
+          last_requested_at: new Date().toISOString(),
+        })
+        .eq("id", existing.data.id);
+    } else {
+      await supabase.from("pending_industries").insert({
+        id: normalized.replace(/[^a-z0-9]+/g, "-").slice(0, 60) || `pending-${Date.now()}`,
+        label,
+        normalized,
+      });
+    }
+  } catch {
+    // Table might not exist yet (pre-migration). Silently swallow.
+  }
+}
+
 // Brief ids that are already in the sheet — we never serve those again.
 async function fetchUsedBriefIds(): Promise<string[]> {
   const supabase = getSupabaseAdmin();
@@ -90,6 +123,8 @@ export async function pickBrief(
 
   const match = resolveIndustry(industryInput);
   if (!match) {
+    // Record what they typed so I can add real briefs for it next session.
+    void logPendingIndustry(industryInput);
     return {
       ok: false,
       data: {
