@@ -172,6 +172,72 @@
           "secondary": "A book serif for scientific publications and milestone reports.",
           "rationale": "Two faces. The grotesque is the company. The serif is the science."
         }
+      },
+      {
+        "brandName": "SEQUENCE",
+        "tagline": "Read the code. Then build.",
+        "brandNameRationale": "Sequence is the foundational verb of modern biotech — both noun (the DNA itself) and verb (the act of reading it). One word, both meanings, no qualifier.",
+        "industrySummary": "Modern biotech post-2024 is increasingly software-driven. The opportunity is on the platform side — tools and services that compress the cycle from sample to insight from weeks to days.",
+        "competitorLandscape": "Twist Bioscience (twistbioscience.com) holds the modern DNA-as-a-service slot. Ginkgo Bioworks (ginkgobioworks.com) is the platform peer. Benchling (benchling.com) sets the modern lab software bar. We sit between Twist and Benchling in posture.",
+        "positioningStatement": "A sequencing-first platform for teams turning samples into shipping product.",
+        "targetAudience": {
+          "primary": "30 to 50. Computational biologists, R&D directors, founder-CSOs at biotech companies of 20 to 200 people. Run sequencing labs in-house or contract. Care about throughput, cost per sample, and turnaround.",
+          "behaviors": [
+            "Reads bioRxiv preprints the day they post",
+            "Will switch vendors over a 48-hour turnaround slip",
+            "Cares deeply about LIMS integrations"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precise",
+          "Modern",
+          "Throughput-focused"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote cost per Gb",
+            "Show real turnaround times",
+            "Reference instrument generations correctly"
+          ],
+          "donts": [
+            "Use the word 'unlock'",
+            "Photograph DNA helices in blue",
+            "Promise cures"
+          ]
+        },
+        "logoDirection": "A wordmark. SEQUENCE set in a tight modern grotesk, with a small base-pair pattern (A T G C in subscript) running beneath the wordmark. The base-pair line alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Strand Blue",
+            "hex": "#1E40AF",
+            "meaning": "Sequencer's signature trace.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Lab White",
+            "hex": "#FAFAF7",
+            "meaning": "Bench paper.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Marker Green",
+            "hex": "#22C55E",
+            "meaning": "Passing QC. Confirmed read.",
+            "usage": "Status, accent, CTAs"
+          },
+          {
+            "name": "Trace Gray",
+            "hex": "#6B7280",
+            "meaning": "Sequencer noise floor.",
+            "usage": "Body, secondary"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and UI",
+          "secondary": "JetBrains Mono for sequences and run reports",
+          "rationale": "Inter for the chrome. Mono for actual bases — A, T, G, C deserve a monospace font."
+        }
       }
     ],
     "Luxury": [
@@ -349,6 +415,66 @@
           "secondary": "An old-style serif for body type in scientific papers.",
           "rationale": "Letterpress register throughout. Publications use the laboratory's heritage typography across decades."
         }
+      },
+      {
+        "brandName": "The Hartwell Institute",
+        "tagline": "A century of independent research.",
+        "brandNameRationale": "Hartwell is a real English surname with academic associations. Institute, not company, signals institutional permanence and academic posture.",
+        "industrySummary": "Luxury biotech-adjacent operations are private research institutes funded by single family principals. They produce papers, train PhDs, and spin out occasional commercial work. The story is permanence, not pace.",
+        "competitorLandscape": "The Wellcome Trust (wellcome.org) is the institutional benchmark. The Crick Institute (crick.ac.uk) holds the modern research-institute position. The Salk Institute (salk.edu) is the American peer. We sit closest to Wellcome in posture.",
+        "positioningStatement": "A privately endowed research institute for biology that doesn't fit a quarterly timeline.",
+        "targetAudience": {
+          "primary": "55 to 80. Family principals and foundation directors. Endow research chairs and fund multi-decade institutes. Care about scientific legacy and institutional continuity. Read primary literature in print.",
+          "behaviors": [
+            "Endows multi-decade research programs",
+            "Attends academic dinners, not industry conferences",
+            "Refers gifts at private foundation events"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Patient",
+          "Discreet",
+          "Academic"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the literature",
+            "Name the principal investigators",
+            "Speak in decades"
+          ],
+          "donts": [
+            "Run a podcast",
+            "Issue press releases",
+            "Use commercial vocabulary"
+          ]
+        },
+        "logoDirection": "An institutional wordmark with a seal. THE HARTWELL INSTITUTE in a classical British serif, tracked. A small embossed shield with the letters H I sits centered above. Used on heavy stock with letterpress impression.",
+        "colorPalette": [
+          {
+            "name": "Library Green",
+            "hex": "#1F3B2C",
+            "meaning": "Reading room wallpaper.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Bookbinding Cream",
+            "hex": "#F1E8D5",
+            "meaning": "Cloth binding.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#A8893E",
+            "meaning": "Spine stamping.",
+            "usage": "Seal, accents"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Caslon Pro for body and academic correspondence",
+          "rationale": "One classical family across the system. Carries 250 years of British scholarly weight."
+        }
       }
     ],
     "Minimal": [
@@ -514,6 +640,65 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "Same family for laboratory documentation.",
           "rationale": "One typeface across the platform, the documentation, and the website."
+        }
+      },
+      {
+        "brandName": "SAMPLE",
+        "tagline": "Send the sample. Get the read.",
+        "brandNameRationale": "Sample is what the customer mails in. The brand owns the verb of the transaction and gets out of the way.",
+        "industrySummary": "Minimal biotech tooling targets researchers tired of complex sequencing-vendor portals. The product is a single SKU and a single shipping label. Pricing is on the homepage.",
+        "competitorLandscape": "Plasmidsaurus (plasmidsaurus.com) holds the simple-sequencing-vendor slot. Nanopore (nanoporetech.com) is the consumer-portable precedent. SeqCenter (seqcenter.com) is the simple academic alternative. We sit closest to Plasmidsaurus.",
+        "positioningStatement": "Sequencing service with one price and one turnaround.",
+        "targetAudience": {
+          "primary": "28 to 45. Grad students, postdocs, and small lab PIs. Run 10 to 100 samples a month. Tired of quoting and approvals. Want a credit card flow and an email back.",
+          "behaviors": [
+            "Pays with grant cards online",
+            "Reads turnaround in business days, not weeks",
+            "Will recommend over Slack"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the price",
+            "Show the timeline",
+            "Use plain lab vocabulary"
+          ],
+          "donts": [
+            "Promise discovery",
+            "Photograph DNA glowing blue",
+            "Run consultative sales"
+          ]
+        },
+        "logoDirection": "A wordmark. SAMPLE set in a humanist sans, slightly weighted. A small barcode line runs beneath the wordmark — the shipping label. The barcode alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Label White",
+            "hex": "#FAFAF8",
+            "meaning": "Shipping label.",
+            "usage": "Backgrounds, primary surface"
+          },
+          {
+            "name": "Label Black",
+            "hex": "#101013",
+            "meaning": "Barcode. Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Tube Blue",
+            "hex": "#2563EB",
+            "meaning": "Standard sample tube cap.",
+            "usage": "Accent, CTAs"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for sample IDs and barcodes",
+          "rationale": "One family. Mono cut for the actual lab data."
         }
       }
     ],
@@ -711,6 +896,66 @@
           "secondary": "A clean enterprise grotesque for regulatory documentation, manufacturing reports, and operational tables.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Caledonia Bioscience Group",
+        "tagline": "European bioscience operating across four therapeutic areas.",
+        "brandNameRationale": "Caledonia is the Roman name for Scotland — a regional anchor for a European biotech holding company. Bioscience Group signals multi-line operations across therapeutic areas.",
+        "industrySummary": "Corporate biotech holding companies own portfolios of mid-stage therapeutic programs across multiple disease areas. The buyer is institutional pharma (in-licensing), large investors, and government health agencies.",
+        "competitorLandscape": "AstraZeneca (astrazeneca.com) is the institutional peer. GlaxoSmithKline (gsk.com) is the regional precedent. Vertex (vrtx.com) sets the modern biotech-as-pharma bar. We sit one tier below AstraZeneca with a sharper European posture.",
+        "positioningStatement": "A European bioscience operating group with mid-stage assets across four therapeutic areas.",
+        "targetAudience": {
+          "primary": "45 to 65. Pharma BD directors, institutional investors, regulatory affairs leads at agencies. Make multi-million dollar in-licensing and partnership decisions. Care about pipeline rigor, IP, and regulatory pathway.",
+          "behaviors": [
+            "Reads quarterly trial readouts the day they post",
+            "Attends JPM Healthcare every January",
+            "Negotiates in-licensing terms over six to twelve months"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-line",
+          "Regulated",
+          "European"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote trial endpoints",
+            "Reference regulatory milestones",
+            "Name therapeutic areas"
+          ],
+          "donts": [
+            "Use startup vocabulary",
+            "Promise cures",
+            "Mention founders by name"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a thistle monogram. CALEDONIA in a classical serif, BIOSCIENCE GROUP set smaller beneath. The monogram is a stylized thistle for Scotland, used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Caledonia Blue",
+            "hex": "#0F2F47",
+            "meaning": "North Sea.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Heather",
+            "hex": "#7C4D7B",
+            "meaning": "Highland heather.",
+            "usage": "Accent, charts"
+          },
+          {
+            "name": "Tweed",
+            "hex": "#E0D8C4",
+            "meaning": "Highland tweed.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and regulatory documents",
+          "rationale": "Sectra reads European institutional. GT America carries the regulatory body efficiently."
+        }
       }
     ],
     "Creative": [
@@ -897,6 +1142,72 @@
           "primary": "A quiet display serif for the wordmark and case studies.",
           "secondary": "A book serif for software UI and educational materials.",
           "rationale": "Two related serifs. The brand reads like a careful pathology textbook."
+        }
+      },
+      {
+        "brandName": "The Lab Coat Co",
+        "tagline": "Biology for people who like the smell of a fresh notebook.",
+        "brandNameRationale": "Most biotech brands center technology or platforms. This one centers the worker — the person actually in the lab. The lab coat is the most universal sign of the work.",
+        "industrySummary": "Creative biotech serves indie research labs, community bio spaces, and DIYbio operators. The brand is for the person who became a biologist because labs felt like clubhouses. Product is supplies, lab gear, and small instruments.",
+        "competitorLandscape": "Genspace (genspace.org) is the community-bio reference. The Odin (the-odin.com) holds the DIYbio-supply slot. Carolina Biological (carolina.com) is the educational precedent. We sit closer to The Odin in voice, closer to Carolina in catalog.",
+        "positioningStatement": "Supplies and gear for the people who actually love being in the lab.",
+        "targetAudience": {
+          "primary": "22 to 45. Indie researchers, community bio members, biology teachers, hobbyists running home labs. Buy small quantities frequently. Care about the unboxing as much as the product.",
+          "behaviors": [
+            "Photographs the bench setup",
+            "Posts the experiment in progress",
+            "Refers other lab people in DMs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Curious",
+          "Honest",
+          "Slightly nerdy"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the experiment",
+            "Show the bench in real shape",
+            "Quote the protocol where it matters"
+          ],
+          "donts": [
+            "Use stock lab photography",
+            "Photograph DNA helices in blue",
+            "Promise discovery"
+          ]
+        },
+        "logoDirection": "A wordmark with a small notebook icon. THE LAB COAT CO set in a warm sans across two lines. A small grid notebook icon above the L suggests the lab notebook — the brand's spiritual product. The notebook icon alone is a sticker.",
+        "colorPalette": [
+          {
+            "name": "Coat White",
+            "hex": "#FAFAF7",
+            "meaning": "Fresh lab coat.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Notebook Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Grid notebook page.",
+            "usage": "Accent, the notebook icon, CTAs"
+          },
+          {
+            "name": "Bench Black",
+            "hex": "#1B1B1B",
+            "meaning": "Bench resin.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Marker Green",
+            "hex": "#2E8B57",
+            "meaning": "Highlighter on a successful protocol step.",
+            "usage": "Status, accent"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for catalog SKUs and protocols",
+          "rationale": "Mori for warmth in the catalog. Mono for the actual lab data — protocols should look like protocols."
         }
       }
     ]

@@ -168,6 +168,72 @@
           "secondary": "JetBrains Mono for code, command-line examples, and benchmark tables.",
           "rationale": "Two faces. The grotesque is the company. The mono is the working surface."
         }
+      },
+      {
+        "brandName": "COMMIT",
+        "tagline": "Ship the change.",
+        "brandNameRationale": "Commit is the verb that ends every dev workflow — the moment of intention turned into history. The brand owns the verb developers say a hundred times a day.",
+        "industrySummary": "Modern devtools post-2024 sit in the agent-and-orchestration era. The opportunity is the tooling layer that connects AI-assisted coding to actual production deployment — eval, review, CI, and observability for AI-generated diffs.",
+        "competitorLandscape": "Linear (linear.app) holds the modern dev tool design bar. Vercel (vercel.com) is the platform peer. Cursor (cursor.com) is the AI-assisted editor reference. We sit between Linear and Vercel in posture.",
+        "positioningStatement": "The CI and review layer for AI-assisted engineering teams.",
+        "targetAudience": {
+          "primary": "28 to 42. Engineering managers, staff engineers, and platform leads at companies of 50 to 500 people. Their teams use Copilot or Cursor daily and are starting to ship more AI-generated code than they can review the old way.",
+          "behaviors": [
+            "Reads CHANGELOG.md before installing",
+            "Writes ADRs for tooling choices",
+            "Will switch tools over a missing OpenTelemetry export"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Technical",
+          "Modern",
+          "Opinionated"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show diffs and traces",
+            "Use git vocabulary correctly",
+            "Quote real CI numbers"
+          ],
+          "donts": [
+            "Use the word 'unlock'",
+            "Photograph keyboards",
+            "Run developer-influencer campaigns"
+          ]
+        },
+        "logoDirection": "A wordmark. COMMIT set in a tight modern grotesk, with a small commit-hash dot pattern (••••••) running beneath the wordmark. The hash pattern alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Commit Black",
+            "hex": "#0A0A0F",
+            "meaning": "Terminal background.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Diff Green",
+            "hex": "#22C55E",
+            "meaning": "Added line.",
+            "usage": "Accent, status pass"
+          },
+          {
+            "name": "Diff Red",
+            "hex": "#EF4444",
+            "meaning": "Removed line.",
+            "usage": "Status fail, certain alerts"
+          },
+          {
+            "name": "Surface",
+            "hex": "#F4F4F7",
+            "meaning": "Card background.",
+            "usage": "UI surfaces, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and UI",
+          "secondary": "JetBrains Mono for diffs and code",
+          "rationale": "Inter for chrome, JetBrains Mono for code. The industry default for a reason."
+        }
       }
     ],
     "Luxury": [
@@ -345,6 +411,66 @@
           "secondary": "An engraver's italic for the partnership name on the brass plate.",
           "rationale": "Letterpress and engraver's register only. The firm communicates almost entirely in print."
         }
+      },
+      {
+        "brandName": "Beauchamp & Reed Systems",
+        "tagline": "Engineering counsel for institutions.",
+        "brandNameRationale": "Beauchamp and Reed are real British surnames historically associated with engineering and law firms. Two-partner naming convention signals senior-led practice rather than venture-funded startup.",
+        "industrySummary": "Luxury enterprise dev consulting serves CTOs and CIOs at large institutions with legacy systems and high-stakes modernization needs. Engagements last years. The deliverable is often a single slim recommendation document.",
+        "competitorLandscape": "Thoughtworks (thoughtworks.com) holds the institutional engineering consulting position. Pivotal Labs (pivotal.io) was the historic precedent. Glamorous Toolkit Foundation (gtoolkit.com) is the niche craft peer. We sit between Thoughtworks and Pivotal in posture.",
+        "positioningStatement": "Senior engineering counsel for institutions with thirty-year systems.",
+        "targetAudience": {
+          "primary": "50 to 65. CTOs, CIOs, chief architects at banks, insurance companies, government agencies. Manage legacy systems and slow-moving modernization budgets. Read engineering history before engineering blogs.",
+          "behaviors": [
+            "Issues multi-year RFPs for system modernization",
+            "Brings legal and procurement into the first meeting",
+            "Renews based on annual architectural reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Institutional",
+          "Patient",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite institutional engagements by sector",
+            "Write in full sentences",
+            "Reference engineering history"
+          ],
+          "donts": [
+            "Publish open-source toy projects",
+            "Speak about 'velocity'",
+            "Run a podcast"
+          ]
+        },
+        "logoDirection": "An institutional wordmark. BEAUCHAMP & REED SYSTEMS in a sharp serif, ampersand exactly midweight. A small engineer's compass monogram sits above. Used embossed on heavy paper for SOWs.",
+        "colorPalette": [
+          {
+            "name": "Slate Navy",
+            "hex": "#0E1B33",
+            "meaning": "Architectural drawing ink.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Drafting Cream",
+            "hex": "#F1EBDC",
+            "meaning": "Drafting paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Compass Brass",
+            "hex": "#9C7A3C",
+            "meaning": "Drafting instrument.",
+            "usage": "Monogram, foil"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "GT Sectra Text for body and engineering correspondence",
+          "rationale": "Sectra carries British editorial weight. One family across the system, two cuts."
+        }
       }
     ],
     "Minimal": [
@@ -510,6 +636,59 @@
           "primary": "JetBrains Mono for the wordmark, CLI output, and most marketing copy.",
           "secondary": "Inter for prose paragraphs and pricing.",
           "rationale": "Two faces, both functional. The mono signals 'this is the tool'. The sans signals 'this is the explanation'."
+        }
+      },
+      {
+        "brandName": "pipe",
+        "tagline": "Connects to the next thing.",
+        "brandNameRationale": "Pipe is the developer's most universal connector — the symbol, the syscall, the concept. Lowercase signals the brand is a command-line citizen first.",
+        "industrySummary": "Minimal devtools target operators tired of platform bloat. The product is a single binary, a single subcommand, and a clear docs page. Distribution is brew, apt, and curl.",
+        "competitorLandscape": "Bun (bun.sh) holds the minimal runtime slot. Ripgrep (github.com/BurntSushi/ripgrep) is the canonical minimal-CLI precedent. ZeroMQ (zeromq.org) is the connector-as-product reference. We sit closest to Bun.",
+        "positioningStatement": "A single-purpose connector that does one thing in one syscall.",
+        "targetAudience": {
+          "primary": "25 to 45. Backend engineers, infra leads, devops practitioners. Use the terminal as the primary interface. Have strong opinions about manual pages.",
+          "behaviors": [
+            "Reads man pages",
+            "Will leave a tool over a missing --help",
+            "Pins binary versions in CI"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Quiet",
+          "Developer-first"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show flags",
+            "Quote benchmarks",
+            "Use lowercase"
+          ],
+          "donts": [
+            "Use exclamation marks",
+            "Publish thought leadership",
+            "Hire a marketer"
+          ]
+        },
+        "logoDirection": "A wordmark. pipe set in lowercase monospace, with the | character used as a visual separator. The | alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Terminal Black",
+            "hex": "#0A0A0C",
+            "meaning": "Default terminal.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF8",
+            "meaning": "Default page.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "JetBrains Mono for the wordmark, body, code, everything",
+          "secondary": "JetBrains Mono only",
+          "rationale": "One face. Monospace. The brand is the CLI."
         }
       }
     ],
@@ -707,6 +886,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and license tables.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Northbridge Developer Group",
+        "tagline": "Enterprise engineering services across financial services.",
+        "brandNameRationale": "Northbridge is a real district anchor with financial-services associations. Developer Group is the corporate-trade-press word for an engineering services firm with multi-region delivery centers.",
+        "industrySummary": "Corporate developer services serves Tier 1 banks, insurance carriers, and government agencies. The buyer is the SVP of technology, the procurement office, and compliance. Delivery is multi-region with on-site presence.",
+        "competitorLandscape": "Tata Consultancy Services (tcs.com) is the global benchmark. Infosys (infosys.com) holds the institutional peer slot. EPAM (epam.com) is the modern enterprise services precedent. We sit one tier below TCS with a sharper financial services posture.",
+        "positioningStatement": "An enterprise engineering group with deep financial-services delivery.",
+        "targetAudience": {
+          "primary": "45 to 60. CIOs, SVPs of Technology, procurement leads at Tier 1 banks, insurance carriers, and government agencies. Manage engineering services contracts above $20M annually. Care about SLA, compliance, and on-site presence.",
+          "behaviors": [
+            "Issues multi-year RFPs",
+            "Reviews vendor SOC 2 and ISO certifications quarterly",
+            "Renews based on quarterly delivery reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Compliance-aware",
+          "Steady",
+          "Multi-region"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite delivery regions",
+            "Quote SLA terms",
+            "Reference institutional clients by tier"
+          ],
+          "donts": [
+            "Use startup vocabulary",
+            "Speak about 'innovation'",
+            "Run developer-influencer campaigns"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a bridge monogram. NORTHBRIDGE in a sharp grotesk, DEVELOPER GROUP set smaller beneath. The monogram is a simplified bridge truss, used on annual reports and lobby walls.",
+        "colorPalette": [
+          {
+            "name": "Bridge Navy",
+            "hex": "#0B2545",
+            "meaning": "Steel under coat.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Truss Gray",
+            "hex": "#5A5A60",
+            "meaning": "Painted steel.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Riverbank",
+            "hex": "#E8ECEF",
+            "meaning": "Concrete pier.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and reports",
+          "secondary": "GT America Mono for KPIs and tables",
+          "rationale": "GT America is the institutional Swiss benchmark. Mono carries the metrics."
+        }
       }
     ],
     "Creative": [
@@ -893,6 +1132,72 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "JetBrains Mono for code and sandbox examples.",
           "rationale": "The serif speaks. The mono runs."
+        }
+      },
+      {
+        "brandName": "Off By One",
+        "tagline": "Devtools by people who still find this funny.",
+        "brandNameRationale": "Every engineer knows the off-by-one error. Naming the studio after the most universal bug signals: we live in your shoes. The joke earns trust before the product does.",
+        "industrySummary": "Creative devtools serve independent developers, indie hackers, and small teams who want tools with personality. The brand is named, voiced, and designed by a developer who clearly still loves the craft.",
+        "competitorLandscape": "Cleancut (cleancut.dev) and Raycast (raycast.com) hold the modern creative-devtool slot. Tower (git-tower.com) is the polished-craft Git client peer. Kaleidoscope (kaleidoscope.app) is the longtime craft-tool reference. We sit closer to Raycast in voice.",
+        "positioningStatement": "Tools for developers who still get a kick out of writing code.",
+        "targetAudience": {
+          "primary": "25 to 45. Independent developers, indie hackers, side-project builders. Pay for tools they love. Run personal websites with weird animations. Follow ten developer-Twitter accounts religiously.",
+          "behaviors": [
+            "Pays for a tool because the marketing made them laugh",
+            "Tweets about tool releases",
+            "Will recommend over a DM, not a review"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Funny",
+          "Crafted",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Make jokes",
+            "Show code",
+            "Open with the bug"
+          ],
+          "donts": [
+            "Use enterprise vocabulary",
+            "Photograph teams in hoodies",
+            "Speak about 'developer experience' generally"
+          ]
+        },
+        "logoDirection": "A wordmark with an arrow. OFF BY ONE set across one line in a warm sans, with a small arrow above the F pointing one position to the right — the off-by-one error visualized. The arrow alone is the favicon and the sticker.",
+        "colorPalette": [
+          {
+            "name": "Bug Yellow",
+            "hex": "#F5C518",
+            "meaning": "Highlighter on the offending line.",
+            "usage": "Accent, the arrow, CTAs"
+          },
+          {
+            "name": "Editor White",
+            "hex": "#FAFAF7",
+            "meaning": "Default editor background.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Comment Gray",
+            "hex": "#8B8B95",
+            "meaning": "Comment color in the editor.",
+            "usage": "Body, secondary text"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type. The code.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "JetBrains Mono for code and CLI",
+          "rationale": "Mori for warmth in marketing. JetBrains Mono for the actual code."
         }
       }
     ]
