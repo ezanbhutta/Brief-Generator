@@ -76,6 +76,66 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "Plainfield & Co delivers by:\n• Lead with the deliverable\n• Show real customer offices\n• Speak to the founder, not the procurement department"
+      },
+      {
+        "brandName": "THROUGHLINE",
+        "tagline": "Operations that hold.",
+        "brandNameRationale": "A throughline is the connecting thread that holds a story together. In ops it's the boring word for the only thing that matters: does this work tomorrow, and the day after.",
+        "industrySummary": "B2B services post-2024 split in two: the cheap commodity vendors and the expensive prestige firms. Companies between 50 and 500 people get squeezed. Throughline is built for that band.",
+        "competitorLandscape": "Eden (edenworkplace.com) owns workplace ops in the polished tier. Squire (getsquire.com) is a vertical operations precedent worth referencing. Operator Collective (operatorcollective.com) sets the tone for community-led B2B. We sit closer to Eden's posture, with a sharper services menu.",
+        "positioningStatement": "The operations partner for companies that have outgrown their first ops hire and aren't ready for a McKinsey deck.",
+        "targetAudience": {
+          "primary": "30 to 50. Heads of Operations, COOs, and second-stage founders at companies between 50 and 500 people. They run quarterly planning in a doc, not a deck, and they want their vendor to do the same.",
+          "behaviors": [
+            "Reads every line item on the invoice",
+            "Wants a Slack channel, not a quarterly business review",
+            "Will fire a vendor over a missed deadline before a missed deliverable"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Direct",
+          "Patient",
+          "Tactical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with what you'll do this week",
+            "Use plain operations vocabulary",
+            "Quote real deliverables"
+          ],
+          "donts": [
+            "Use the word 'partnership'",
+            "Refer to clients as a portfolio",
+            "Photograph laptops on tables"
+          ]
+        },
+        "logoDirection": "A wordmark only. THROUGHLINE set in a tight modern grotesk with a single horizontal rule running underneath the entire word, no break. The rule is the throughline. The favicon is just the line.",
+        "colorPalette": [
+          {
+            "name": "Operator Black",
+            "hex": "#0F0F12",
+            "meaning": "Type. The line.",
+            "usage": "Wordmark, body, primary surface"
+          },
+          {
+            "name": "Plan Blue",
+            "hex": "#1E4ED8",
+            "meaning": "The one accent. Used where decisions get made.",
+            "usage": "CTAs, highlights, plan deck headers"
+          },
+          {
+            "name": "Margin",
+            "hex": "#F4F2EE",
+            "meaning": "Quiet space.",
+            "usage": "Backgrounds, paper, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for invoices, timelines, and code blocks",
+          "rationale": "One family, two weights. Same as how the brand operates: tight, repeatable, no surprises."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +218,66 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "The Bureau delivers by:\n• Address the principal by surname\n• Speak in the language of the discipline\n• Send paper letters where the situation warrants"
+      },
+      {
+        "brandName": "Cabinet & Brace",
+        "tagline": "Operational counsel.",
+        "brandNameRationale": "A cabinet is the room where serious decisions are made. A brace is the part that holds a structure when it's loaded. Together: the firm you call when the company is bearing weight.",
+        "industrySummary": "Top-end B2B services serves the founder-CEO who has already turned down Bain. Wants taste, discretion, a partner who reads Sunday papers. The firm is the founder's second brain.",
+        "competitorLandscape": "Co:collective (cocollective.com) sets the modern strategy bar. The Brewery (thebrewery.io) is a cultural reference point. Sebastian James Advisory (sebastianjames.com) is the small-and-rich precedent. We sit one rung above Co:collective in poise.",
+        "positioningStatement": "An operational counsel for founders who already turned down the big firms.",
+        "targetAudience": {
+          "primary": "40 to 60. Founder-CEOs of companies between $20M and $200M revenue. Owns the company outright or near to it. Has a private office, a long-time assistant, and one trusted lawyer. Has been burned by a Big Four engagement.",
+          "behaviors": [
+            "Refers business by phone, not by email",
+            "Reads the FT in print",
+            "Will pay above market for taste and discretion"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Considered",
+          "Patient",
+          "Old-money"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in counsel, not pitch",
+            "Reference the firm only when asked",
+            "Write in full sentences"
+          ],
+          "donts": [
+            "Publish a case study",
+            "List clients on the website",
+            "Use the word 'strategy'"
+          ]
+        },
+        "logoDirection": "An ampersand-led wordmark. Set in a sharp old-style serif with bracket serifs. The two names sit on one line, ampersand at exactly midweight, slightly oversized. Used embossed on a heavy stock business card. No standalone mark.",
+        "colorPalette": [
+          {
+            "name": "Burgundy",
+            "hex": "#5C1A1B",
+            "meaning": "Wax seal. The signature color.",
+            "usage": "Wordmark, foil, primary"
+          },
+          {
+            "name": "Parchment",
+            "hex": "#F1EBDC",
+            "meaning": "The page.",
+            "usage": "Backgrounds, paper, stationery"
+          },
+          {
+            "name": "Ink Navy",
+            "hex": "#0E1B33",
+            "meaning": "Fountain pen ink.",
+            "usage": "Body text, secondary surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Doric Italic for the wordmark",
+          "secondary": "GT Sectra for body and correspondence",
+          "rationale": "Caslon carries 250 years of authority. Sectra keeps the body readable on the page."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +351,59 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "DONE delivers by:\n• Confirm the task in one line\n• Show the price\n• Use plain English"
+      },
+      {
+        "brandName": "OK",
+        "tagline": "Operations, handled.",
+        "brandNameRationale": "OK is the universal sign-off. Two letters. Everyone says it. The brand answers your message with one word, then does the thing.",
+        "industrySummary": "Most B2B services brands oversell. The Minimal opportunity is to undersell on the website and overdeliver in the first week. The name itself sets the expectation.",
+        "competitorLandscape": "Linear (linear.app) is the design precedent — minimal posture, deep capability. Plaid (plaid.com) is the API-style B2B vocabulary. Mercury (mercury.com) is the tone reference. We sit closest to Linear in attitude.",
+        "positioningStatement": "B2B services that say less and do more.",
+        "targetAudience": {
+          "primary": "30 to 45. Designers and engineers turned operators. Run small teams. Have a strong taste signal in their tools. Use Linear, Notion, and a typewriter app.",
+          "behaviors": [
+            "Replies to email with one word when possible",
+            "Will leave a vendor over a verbose newsletter",
+            "Pays a premium for software with a single landing page"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Confident",
+          "Precise"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use one word where two will do",
+            "End emails with the work, not the signature",
+            "Let the deliverable speak"
+          ],
+          "donts": [
+            "Use exclamation marks",
+            "Write 'circling back'",
+            "Use stock photography"
+          ]
+        },
+        "logoDirection": "Two letters. OK set in a humanist sans, slightly weighted, very tight kerning. Nothing else. Favicon is the same two letters. The whole brand is just OK.",
+        "colorPalette": [
+          {
+            "name": "Black",
+            "hex": "#000000",
+            "meaning": "The letters.",
+            "usage": "Wordmark, type, signature"
+          },
+          {
+            "name": "White",
+            "hex": "#FFFFFF",
+            "meaning": "The page.",
+            "usage": "Background, everything else"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for any number",
+          "rationale": "One family. The brand doesn't need a second voice."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +505,66 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Marsh & Hayes works across:\n• Operations discipline\n• One partner across functions\n• Reporting that connects to revenue"
+      },
+      {
+        "brandName": "Forsythe Civic",
+        "tagline": "Enterprise operations, civic posture.",
+        "brandNameRationale": "Forsythe is a real American family name with a long civic ledger. Civic positions the firm as one that takes responsibility for institutions, not just clients.",
+        "industrySummary": "Enterprise B2B services serves Fortune 1000 procurement. The buyer is a senior VP with five competing vendors. Wins come from RFP polish, on-site presence, and contract clarity.",
+        "competitorLandscape": "Accenture (accenture.com) is the obvious peer. Boston Consulting (bcg.com) sets the strategy bar. Slalom (slalom.com) is the regional executor we compete against on price and proximity. We sit between Slalom and BCG in posture.",
+        "positioningStatement": "Civic-minded enterprise services for Fortune 1000 buyers who care about institutional outcomes.",
+        "targetAudience": {
+          "primary": "45 to 60. SVPs of Operations, CFOs, Chief Procurement Officers at companies above $1B revenue. Manage a $50M+ services line. Care about reputation and accountability as much as price.",
+          "behaviors": [
+            "Issues RFPs quarterly",
+            "Brings legal into the first meeting",
+            "Renews vendors based on quarterly business reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Accountable",
+          "Steady",
+          "Civic"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite institutional outcomes",
+            "Quote contract terms",
+            "Refer to clients as institutions"
+          ],
+          "donts": [
+            "Use startup vocabulary",
+            "Speak about 'disruption'",
+            "Photograph teams in casual wear"
+          ]
+        },
+        "logoDirection": "A wordmark with a civic seal. FORSYTHE in a classical sans, CIVIC set smaller beneath it in a tracked-out form. The seal is a circular monogram of F and C, used on contracts and the lobby wall.",
+        "colorPalette": [
+          {
+            "name": "Civic Navy",
+            "hex": "#0B2545",
+            "meaning": "Institutional weight. Public square.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Marble",
+            "hex": "#EDEAE3",
+            "meaning": "Public building stone.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9C7A3C",
+            "meaning": "Seal accent. Building plaque.",
+            "usage": "Seal, foil, callouts"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "GT America for body and reports",
+          "rationale": "Sectra carries civic gravity. GT America keeps the body institutional and readable."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +657,72 @@
           "Sharp — precision is a form of kindness."
         ],
         "scope": "Reply All & Co delivers by:\n• Make jokes about email\n• Quote the worst subject line of the week\n• Talk like the assistant who has the inbox open"
+      },
+      {
+        "brandName": "Outbox",
+        "tagline": "We handle the boring stuff.",
+        "brandNameRationale": "Outbox is what you reach for when you want something off your plate. The brand is named after the action the client is about to take.",
+        "industrySummary": "Creative B2B services targets agency-shaped operators tired of self-serious consultancies. Voice and personality become the moat. The brand has to feel like a person to text.",
+        "competitorLandscape": "WeWork Labs (wework.com/labs) used to own the tone. Modern reference is Notion's services partners — practical and a little funny. WorkOS (workos.com) for the developer-facing precedent. We aim for Notion's warmth with WorkOS's clarity.",
+        "positioningStatement": "The B2B services firm you'd text on a Saturday.",
+        "targetAudience": {
+          "primary": "25 to 40. Founders and ops leads at companies of 20 to 200 people. Came up through design, marketing, or comedy. Hate jargon. Want their vendor to make them laugh in the kickoff call.",
+          "behaviors": [
+            "Quotes The Office in pitch decks",
+            "Will recommend a vendor over text, never email",
+            "Cares deeply about how a person says hello"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Funny",
+          "Capable",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Open with a joke",
+            "Use first names",
+            "Admit when something is annoying"
+          ],
+          "donts": [
+            "Use 'partner' as a verb",
+            "Photograph headsets",
+            "Write in third-person plural"
+          ]
+        },
+        "logoDirection": "A wordmark with an arrow leaving the box. OUTBOX set in a warm sans, with a small outbound arrow above the O. The arrow alone is the favicon and the sticker.",
+        "colorPalette": [
+          {
+            "name": "Send Yellow",
+            "hex": "#FFC93C",
+            "meaning": "The arrow color. Caution-tape happy.",
+            "usage": "Accent, the arrow, CTAs"
+          },
+          {
+            "name": "Inbox Cream",
+            "hex": "#FAF6EC",
+            "meaning": "Paper. Easy.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Outbox Ink",
+            "hex": "#1B1B1B",
+            "meaning": "The type.",
+            "usage": "Wordmark, body, dark surfaces"
+          },
+          {
+            "name": "Reply Green",
+            "hex": "#2E8B57",
+            "meaning": "Action signal.",
+            "usage": "Status states, success notices"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for receipts and timestamps",
+          "rationale": "Mori has warmth. Diatype Mono makes invoices feel like a friend's text, not a vendor's email."
+        }
       }
     ]
   }

@@ -77,6 +77,66 @@
           "Honest — including when the answer is one we'd rather not give."
         ],
         "scope": "Common Good Foundation delivers by:\n• Show the program work first\n• Show the financials clearly\n• Speak to the donor as an adult"
+      },
+      {
+        "brandName": "PROOF",
+        "tagline": "Evidence is the work.",
+        "brandNameRationale": "Proof is what the modern donor demands. The brand puts the only word that matters in the title.",
+        "industrySummary": "Modern NGOs split between glossy mission-led brands and rigorous evidence-driven ones. The opportunity is the evidence side, branded with the polish previously reserved for mission marketing.",
+        "competitorLandscape": "GiveDirectly (givedirectly.org) holds the evidence-led tier. Charity Navigator (charitynavigator.org) is the institutional precedent. Effective Altruism Funds (funds.effectivealtruism.org) is the donor-aware reference. We sit closest to GiveDirectly in posture.",
+        "positioningStatement": "The NGO that shows the receipt for every dollar.",
+        "targetAudience": {
+          "primary": "30 to 50. Engineers, product managers, family-office program officers. Donate in the four- or five-figure range annually. Care about cost-per-outcome. Want to see the spreadsheet.",
+          "behaviors": [
+            "Reads the 990",
+            "Compares cost-per-outcome across charities",
+            "Will move money based on a new RCT"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Rigorous",
+          "Modern",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote the outcome per dollar",
+            "Link the study",
+            "Show the spreadsheet"
+          ],
+          "donts": [
+            "Use sentimental music",
+            "Photograph grateful beneficiaries",
+            "Run a heartstring campaign"
+          ]
+        },
+        "logoDirection": "A wordmark with a checkmark. PROOF set in a tight grotesk, with a small checkmark above the O suggesting confirmation. The checkmark alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Audit Black",
+            "hex": "#0B0B0E",
+            "meaning": "Type. The line item.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Confirm Green",
+            "hex": "#1F8B4C",
+            "meaning": "The checkmark.",
+            "usage": "Accent, status, CTAs"
+          },
+          {
+            "name": "Page",
+            "hex": "#F8F6F0",
+            "meaning": "Receipt paper.",
+            "usage": "Backgrounds, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for numbers and tables",
+          "rationale": "Söhne reads modern. Mono carries the numerical evidence."
+        }
       }
     ],
     "Luxury": [
@@ -159,6 +219,66 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "The Whitcombe Trust delivers by:\n• Address grantees and trustees by surname\n• Speak in the language of the discipline\n• Send paper letters and printed reports"
+      },
+      {
+        "brandName": "The Fitzhugh Foundation",
+        "tagline": "Quiet capital, lasting institutions.",
+        "brandNameRationale": "Fitzhugh is a real surname with a long charitable lineage in American letters. Foundation, not fund, signals permanence and institutional intent.",
+        "industrySummary": "Luxury philanthropy serves the family-office donor. Gifts are seven-figure and up, multi-year, often via donor-advised funds. The donor wants institution-building, not feel-good campaigns.",
+        "competitorLandscape": "Open Philanthropy (openphilanthropy.org) sets the rigorous-megagift precedent. The Mellon Foundation (mellon.org) is the institutional benchmark. Arnold Ventures (arnoldventures.org) holds the policy-focused tier. We sit between Mellon and Arnold in posture.",
+        "positioningStatement": "An institutional foundation for donors building things meant to outlast them.",
+        "targetAudience": {
+          "primary": "55 to 80. Family principals, foundation trustees, family-office directors. Gift sizes from $5M to $50M annually. Read The Chronicle of Philanthropy. Care about institutional legacy.",
+          "behaviors": [
+            "Plans gifts in five-year arcs",
+            "Names buildings and chairs, not campaigns",
+            "Refers business at trustee dinners"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Patient",
+          "Discreet",
+          "Generational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite institutions built",
+            "Speak in decades",
+            "Write full sentences"
+          ],
+          "donts": [
+            "Use urgency language",
+            "Publish impact infographics",
+            "Photograph beneficiaries"
+          ]
+        },
+        "logoDirection": "A wordmark with a seal. THE FITZHUGH FOUNDATION in a classical serif. A circular monogrammed F seal sits above, used on grant letters and building plaques. Embossed only.",
+        "colorPalette": [
+          {
+            "name": "Library Green",
+            "hex": "#1F3B2C",
+            "meaning": "Reading room wallpaper.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Parchment",
+            "hex": "#F2EBDC",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A8893E",
+            "meaning": "Building plaque.",
+            "usage": "Seal, foil, accents"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Adobe Caslon for body and grant correspondence",
+          "rationale": "Caslon carries the weight of three centuries of American letters. Used across the system for one unified institutional voice."
+        }
       }
     ],
     "Minimal": [
@@ -232,6 +352,65 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "GIVE delivers by:\n• Show the program, the cost, the impact\n• Confirm the gift in one line\n• Use plain English"
+      },
+      {
+        "brandName": "MEND",
+        "tagline": "Fix what's broken.",
+        "brandNameRationale": "Mend is what NGOs do at their best — repair systems, communities, services. One verb, three letters, no qualifier.",
+        "industrySummary": "Minimal NGO branding serves the donor exhausted by the saturation of cause marketing. The product is a single program, transparently reported, with no merchandise and no campaign.",
+        "competitorLandscape": "GiveWell (givewell.org) holds the rigorous-minimal slot. Wikimedia (wikimediafoundation.org) is the institutional minimal precedent. Khan Academy (khanacademy.org) sets the operational restraint bar. We sit closest to GiveWell.",
+        "positioningStatement": "One program, transparently run.",
+        "targetAudience": {
+          "primary": "30 to 50. Donors who give $1K to $25K annually. Want clarity, not narrative. Will set up a recurring monthly gift after reading the program brief.",
+          "behaviors": [
+            "Reads the program description twice",
+            "Sets up a recurring gift in one session",
+            "Refers other donors via private message"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Honest",
+          "Precise"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the program in one paragraph",
+            "Quote unit cost",
+            "End the page with the donate button"
+          ],
+          "donts": [
+            "Use stock photography",
+            "Run year-end urgency campaigns",
+            "Publish merch"
+          ]
+        },
+        "logoDirection": "A wordmark. MEND set in a humanist sans, slightly weighted. A small stitch mark — two short parallel lines — appears between M and E suggesting the action. The stitch alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Mend Green",
+            "hex": "#2E6B4A",
+            "meaning": "The repaired part.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Linen",
+            "hex": "#F4F0E6",
+            "meaning": "The thing being mended.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Body type.",
+            "usage": "Body, secondary"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for program reports",
+          "rationale": "One family, two cuts. The brand stays consistent across donor and program reporting."
+        }
       }
     ],
     "Corporate": [
@@ -333,6 +512,66 @@
           "Strategic — a core principle the brand operates by."
         ],
         "scope": "Bedrock Impact Group works across:\n• Strategy first\n• Operating infrastructure\n• Reporting that satisfies trustees"
+      },
+      {
+        "brandName": "Liberty Civic Trust",
+        "tagline": "Civic infrastructure, sustained.",
+        "brandNameRationale": "Liberty is the founding civic concept. Trust signals fiduciary responsibility. Together: an institution holding civic ground over time.",
+        "industrySummary": "Corporate civic philanthropy serves municipalities, public-private partnerships, and large institutional donors. The deliverable is infrastructure — buildings, programs, policy initiatives — with named partners and multi-year reporting.",
+        "competitorLandscape": "The Pew Charitable Trusts (pewtrusts.org) holds the institutional civic position. The Rockefeller Foundation (rockefellerfoundation.org) is the global peer. The Knight Foundation (knightfoundation.org) sets the regional civic precedent. We sit closest to Knight.",
+        "positioningStatement": "A civic trust for municipal infrastructure and policy-aligned philanthropy.",
+        "targetAudience": {
+          "primary": "50 to 70. Mayors, city managers, foundation program officers, public-private partnership leads. Manage civic budgets above $10M. Care about multi-stakeholder coordination.",
+          "behaviors": [
+            "Reads city budget reports",
+            "Attends civic trust conferences",
+            "Coordinates across foundation, government, and corporate channels"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Civic",
+          "Steady",
+          "Multi-stakeholder"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite civic outcomes",
+            "Name the public partners",
+            "Quote policy alignment"
+          ],
+          "donts": [
+            "Use philanthropic urgency language",
+            "Photograph beneficiaries",
+            "Run consumer-style campaigns"
+          ]
+        },
+        "logoDirection": "A wordmark with a civic seal. LIBERTY CIVIC TRUST set in a classical serif. A seal monogram L combines the C and T, used on grant letters and building dedications.",
+        "colorPalette": [
+          {
+            "name": "Civic Navy",
+            "hex": "#0B2545",
+            "meaning": "Public-building granite.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Marble",
+            "hex": "#EDEAE3",
+            "meaning": "Public square stone.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9C7A3C",
+            "meaning": "Plaque on the building.",
+            "usage": "Seal, foil, accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and proposals",
+          "rationale": "Sectra carries civic weight. GT America keeps multi-stakeholder reporting clear."
+        }
       }
     ],
     "Creative": [
@@ -425,6 +664,72 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "The Civic Project delivers by:\n• Make jokes about nonprofit clichés\n• Quote real program stories\n• Talk to the donor as a friend who'd help"
+      },
+      {
+        "brandName": "We Did It Together",
+        "tagline": "The work belongs to everyone who showed up.",
+        "brandNameRationale": "Most NGO brands center their own role. This one centers the collective. The name is the credit line at the end of the project.",
+        "industrySummary": "Creative NGO branding targets donors and volunteers who want to feel like collaborators, not patrons. The opportunity is participatory design — campaigns that name the contributors and invite continued involvement.",
+        "competitorLandscape": "DoSomething (dosomething.org) holds the participatory youth NGO slot. charity: water (charitywater.org) is the modern storytelling reference. Crisis Text Line (crisistextline.org) is the volunteer-coordination precedent. We sit between DoSomething and charity: water in posture.",
+        "positioningStatement": "The NGO that gives credit to everyone who showed up.",
+        "targetAudience": {
+          "primary": "20 to 40. Donors and volunteers, often the same person. Give $25 to $500 annually, often after volunteering. Care about who else is in the room. Share campaigns with friends.",
+          "behaviors": [
+            "Names volunteers on social before naming themselves",
+            "Brings friends to campaigns",
+            "Will increase a gift after seeing the contributor list"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Collective",
+          "Honest",
+          "Slightly funny"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the contributors",
+            "Use first-person plural",
+            "Show the room"
+          ],
+          "donts": [
+            "Center the executive director",
+            "Run lone-hero campaigns",
+            "Use serious music"
+          ]
+        },
+        "logoDirection": "A wordmark with stacked names. WE DID IT TOGETHER set in three lines in a warm sans. Below the wordmark, a thin running line of small first names rotates with each project. The first names alone are a sticker.",
+        "colorPalette": [
+          {
+            "name": "Together Orange",
+            "hex": "#F2843C",
+            "meaning": "The crowd's hand-drawn color.",
+            "usage": "Accent, the running name line, CTAs"
+          },
+          {
+            "name": "Room Yellow",
+            "hex": "#F4D35E",
+            "meaning": "The room's light.",
+            "usage": "Backgrounds, certain campaigns"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Trust Green",
+            "hex": "#2E7D5A",
+            "meaning": "The trust line.",
+            "usage": "Donate, status, success"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT America for body and project reports",
+          "rationale": "Mori carries warmth. GT America keeps reporting readable across campaigns."
+        }
       }
     ]
   }

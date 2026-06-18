@@ -76,6 +76,66 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "NOTICE delivers by:\n• Show the work, not the process\n• Speak to the founder, not the procurement team\n• Name the people on the project"
+      },
+      {
+        "brandName": "RECEIPT",
+        "tagline": "The marketing that shows up in the books.",
+        "brandNameRationale": "A receipt is the only proof marketing actually worked. The brand puts results in the name so the question never has to be asked.",
+        "industrySummary": "Modern marketing agencies are split between performance shops and brand studios. The middle is empty — clients want both, in one room, accountable to the P&L.",
+        "competitorLandscape": "Gradient (gradient.studio) holds the modern hybrid position. Power Digital (powerdigitalmarketing.com) is the performance precedent. Mother (motherlondon.com) sets the brand-led standard. We sit between Gradient and Power, with sharper reporting.",
+        "positioningStatement": "Marketing that shows up on the P&L, not just the brand deck.",
+        "targetAudience": {
+          "primary": "30 to 45. Heads of Growth, VPs of Marketing at companies of $20M to $200M revenue. Came up through performance, learned brand. Want one agency that handles both.",
+          "behaviors": [
+            "Reads the CFO's quarterly board deck",
+            "Will fire an agency over a CAC slip before a creative miss",
+            "Wants a Slack channel, not a monthly QBR"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Accountable",
+          "Modern",
+          "Tactical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the number",
+            "Quote real client outcomes",
+            "Show the receipt"
+          ],
+          "donts": [
+            "Use the word 'storytelling'",
+            "Photograph people in front of murals",
+            "Pitch a 'brand journey'"
+          ]
+        },
+        "logoDirection": "A wordmark. RECEIPT set in a tight grotesk with a perforated underline suggesting the tear line at the top of a paper receipt. The perforation alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F8F5EC",
+            "meaning": "Thermal receipt paper before it fades.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Ink",
+            "hex": "#101013",
+            "meaning": "Type. The bottom line.",
+            "usage": "Wordmark, body, dark surfaces"
+          },
+          {
+            "name": "Highlight Green",
+            "hex": "#1F8B4C",
+            "meaning": "Profit number on a printout.",
+            "usage": "Numbers, CTAs, status"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne Breit for the wordmark and headlines",
+          "secondary": "Söhne Mono for client receipts and reports",
+          "rationale": "Söhne reads modern Swiss. Mono carries the actual numerical reporting in a single visual system."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +218,66 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Bow & Lyon delivers by:\n• Address the client by surname\n• Speak in the language of the principal's industry\n• Send paper letters between meetings"
+      },
+      {
+        "brandName": "Mayfair & Hudson",
+        "tagline": "Counsel to the chief.",
+        "brandNameRationale": "Mayfair and Hudson are two anchors of agency real estate (London and New York). The address-as-name signals the firm's posture: where, not what.",
+        "industrySummary": "Luxury marketing counsel serves the founder-CEO or the brand owner. The room is small, the relationship is long, the deliverable is often a single deck. The firm is positioned closer to a private banker than an agency.",
+        "competitorLandscape": "Co:collective (cocollective.com) holds the strategy-as-counsel position. Mother London (motherlondon.com) is the brand-led peer. Wieden & Kennedy (wk.com) is the historic precedent. We sit one rung above Co:collective in poise.",
+        "positioningStatement": "Brand counsel to founders who already turned down the holding companies.",
+        "targetAudience": {
+          "primary": "45 to 65. Founder-CEOs, owners, chairs of board. Companies between $100M and $1B revenue. Take counsel in person. Read FT and The Economist in print. Will pay for taste, discretion, and time.",
+          "behaviors": [
+            "Will spend an entire day with one advisor",
+            "Refers business at private dinners",
+            "Pays for one strategy deck a year and reads it twice"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Considered",
+          "Old-money",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in counsel",
+            "Reference institutions",
+            "Write full sentences"
+          ],
+          "donts": [
+            "Publish a public client list",
+            "Run a podcast",
+            "Speak about 'campaigns'"
+          ]
+        },
+        "logoDirection": "An ampersand wordmark. MAYFAIR & HUDSON set in a sharp old-style serif with bracket serifs. The ampersand is the brand's signature, slightly oversized. Used embossed on heavy stock, no second mark.",
+        "colorPalette": [
+          {
+            "name": "Hudson Navy",
+            "hex": "#0E1B33",
+            "meaning": "Fountain pen ink.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Foxed Cream",
+            "hex": "#F2EBDC",
+            "meaning": "Old book endpaper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Gold Leaf",
+            "hex": "#A8893E",
+            "meaning": "Stamped on the foil.",
+            "usage": "Ampersand, accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark",
+          "secondary": "GT Sectra Text for body and correspondence",
+          "rationale": "Sectra carries British editorial weight. Display for the room, Text for the page."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +351,59 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "HEARD delivers by:\n• Show the work and the result\n• Use plain English in proposals\n• Confirm engagements in one short letter"
+      },
+      {
+        "brandName": "REACH",
+        "tagline": "The minimum marketing you need.",
+        "brandNameRationale": "Reach is the foundational marketing metric. The brand owns the most basic word and refuses to dress it up.",
+        "industrySummary": "Minimal marketing services target operators tired of agency theater — long decks, big retainers, slow turnaround. The product is a single SKU: media planning, reporting, and execution at a fixed monthly rate.",
+        "competitorLandscape": "Linear (linear.app) is the SaaS-minimal precedent we model posture on. Common Thread Collective (commonthreadco.com) holds the no-frills performance position. We sit closer to Linear in voice, closer to CTC in capability.",
+        "positioningStatement": "Marketing services as a single SKU.",
+        "targetAudience": {
+          "primary": "28 to 45. Founders and ops leads at companies under $50M revenue. Want one number on the invoice, one Slack channel, one weekly update. Hate decks.",
+          "behaviors": [
+            "Will leave an agency over a verbose status email",
+            "Wants to see the work, not the meeting recap",
+            "Reads the deliverables before the strategy"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Precise"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the price",
+            "Show the deliverable",
+            "End emails with the work"
+          ],
+          "donts": [
+            "Use words like 'journey'",
+            "Show team photos",
+            "Publish thought leadership"
+          ]
+        },
+        "logoDirection": "A wordmark. REACH set in a humanist sans, slightly weighted. The whole brand is the word. Used in three sizes only.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#FAFAF8",
+            "meaning": "Default page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#0A0A0C",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for invoices and reports",
+          "rationale": "One family. The brand carries no second voice."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +505,66 @@
           "Professional — a core principle the brand operates by."
         ],
         "scope": "Page One works across:\n• Editorial-grade thinking\n• One firm across services\n• Reporting that connects to revenue"
+      },
+      {
+        "brandName": "Caldwell Marketing Group",
+        "tagline": "A century in the category.",
+        "brandNameRationale": "Caldwell is a real American surname with a marketing-services lineage stretching to the postwar boom. The name signals continuity and institutional posture.",
+        "industrySummary": "Corporate marketing services serves enterprise clients with multi-year master service agreements. The buyer is the CMO, the procurement lead, and the compliance officer. The pitch happens through RFPs and reference calls.",
+        "competitorLandscape": "WPP (wpp.com) and Omnicom (omnicomgroup.com) are the holding company peers. Stagwell (stagwellglobal.com) is the modern roll-up reference. Publicis Sapient (publicissapient.com) holds the digital-services slot. We sit one tier down with a sharper regional posture.",
+        "positioningStatement": "An enterprise marketing services group with a hundred-year operating record.",
+        "targetAudience": {
+          "primary": "45 to 60. CMOs, VPs of Marketing, procurement leads at Fortune 500 companies. Manage marketing spend above $50M annually. Care about reference calls, compliance, and renewal terms.",
+          "behaviors": [
+            "Issues RFPs every three years",
+            "Reads industry quarterly trade press",
+            "Renews based on quarterly business reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Steady",
+          "Considered",
+          "Multi-line"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite client tenure",
+            "Quote contract terms",
+            "Reference the operating record"
+          ],
+          "donts": [
+            "Use startup vocabulary",
+            "Speak about 'disruption'",
+            "Run a Substack"
+          ]
+        },
+        "logoDirection": "A wordmark with a civic monogram. CALDWELL in a corporate serif, MARKETING GROUP set smaller beneath in a tracked-out sans. The monogram is a circular CMG mark used on contracts and conference rooms.",
+        "colorPalette": [
+          {
+            "name": "Caldwell Navy",
+            "hex": "#0B2545",
+            "meaning": "Institutional posture.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Marble",
+            "hex": "#EDEAE3",
+            "meaning": "Lobby surface.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9C7A3C",
+            "meaning": "Conference room plaque.",
+            "usage": "Monogram, foil, accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and proposals",
+          "rationale": "Sectra carries institutional gravitas. GT America keeps proposals readable."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +657,72 @@
           "Witty — a core principle the brand operates by."
         ],
         "scope": "Skip Ad Marketing delivers by:\n• Quote real customer rejections in case studies\n• Make jokes about marketing's effectiveness rates\n• Talk like the strategist who has seen the campaign die"
+      },
+      {
+        "brandName": "Yelling Indoors",
+        "tagline": "We made you click.",
+        "brandNameRationale": "Modern marketing is everyone yelling, inside a small room called the internet. The brand admits it in the name and gets to work.",
+        "industrySummary": "Creative marketing serves brand-led founders tired of self-serious agencies. The agency is named after the truth of the work and earns trust by being funny first.",
+        "competitorLandscape": "Mischief (mischief.com) holds the funny-as-strategy slot. Anomaly (anomaly.com) sets the creative-led precedent. Gut (gut-agency.com) is the international peer. We sit one rung below Mischief, with sharper performance work.",
+        "positioningStatement": "The marketing agency that admits it's marketing.",
+        "targetAudience": {
+          "primary": "30 to 45. CMOs, founders, brand leads at companies of $10M to $100M revenue. Came up through creative, learned numbers. Want their agency to make them laugh in the brief review.",
+          "behaviors": [
+            "Quotes Mad Men but knows it's a Don Draper trap",
+            "Will recommend an agency over text",
+            "Cares deeply about how a person opens an email"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Funny",
+          "Capable",
+          "Self-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Open with a joke",
+            "Use first names",
+            "Admit the absurd parts"
+          ],
+          "donts": [
+            "Use 'brand journey'",
+            "Photograph headsets",
+            "Speak in third-person plural"
+          ]
+        },
+        "logoDirection": "A wordmark with a megaphone. YELLING INDOORS set in a warm sans, stacked two lines. A small megaphone mark above the Y, the mouth of the megaphone pointing at the wall. The megaphone alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Holler Yellow",
+            "hex": "#FFC93C",
+            "meaning": "Megaphone color.",
+            "usage": "Accent, megaphone, CTAs"
+          },
+          {
+            "name": "Wall White",
+            "hex": "#F4F1EA",
+            "meaning": "The room.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type. The yelling.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Caution Red",
+            "hex": "#D7263D",
+            "meaning": "Hazard tape on the megaphone.",
+            "usage": "Status, certain stickers"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for receipts and timestamps",
+          "rationale": "Mori for the room. Mono for the metric."
+        }
       }
     ]
   }
