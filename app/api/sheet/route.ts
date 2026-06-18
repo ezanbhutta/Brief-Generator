@@ -17,6 +17,7 @@ interface AssignmentRow {
   designer_name: string;
   assigner_id: string | null;
   assigner_name: string | null;
+  brief_id: string | null;
   due_date: string | null;
   created_at: string;
 }
@@ -24,6 +25,7 @@ interface AssignmentRow {
 function rowToAssignment(r: AssignmentRow) {
   return {
     id: r.id,
+    briefId: r.brief_id ?? "",
     brandName: r.brand_name,
     industry: r.industry,
     style: r.style,
@@ -36,7 +38,8 @@ function rowToAssignment(r: AssignmentRow) {
   };
 }
 
-const SELECT = "id, brand_name, industry, style, designer_id, designer_name, assigner_id, assigner_name, due_date, created_at";
+const SELECT =
+  "id, brand_name, industry, style, designer_id, designer_name, assigner_id, assigner_name, brief_id, due_date, created_at";
 
 export async function GET() {
   try {
@@ -80,6 +83,8 @@ export async function POST(req: Request) {
   }
   try {
     const supabase = getSupabaseAdmin();
+    const briefId =
+      typeof b.briefId === "string" && b.briefId.trim() ? (b.briefId as string).trim() : null;
     const row = {
       id: makeId(),
       brand_name: b.brandName as string,
@@ -89,6 +94,7 @@ export async function POST(req: Request) {
       designer_name: b.designerName as string,
       assigner_id: b.assignerId as string,
       assigner_name: b.assignerName as string,
+      brief_id: briefId,
       due_date: b.dueDate as string,
     };
     const { data, error } = await supabase

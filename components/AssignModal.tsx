@@ -5,6 +5,7 @@ import { X, UserPlus, AlertCircle, Loader2 } from "lucide-react";
 import { addAssignment, getRoster, type Designer } from "@/lib/roster";
 
 interface Props {
+  briefId: string;
   brandName: string;
   industry: string;
   style: string;
@@ -13,6 +14,7 @@ interface Props {
 }
 
 export default function AssignModal({
+  briefId,
   brandName,
   industry,
   style,
@@ -82,6 +84,7 @@ export default function AssignModal({
     setSaving(true);
     try {
       await addAssignment({
+        briefId,
         brandName,
         industry,
         style,
