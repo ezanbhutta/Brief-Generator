@@ -11,7 +11,6 @@ import {
   AlertCircle,
   Loader2,
   Shield,
-  Headphones,
   type LucideIcon,
 } from "lucide-react";
 import Nav from "@/components/Nav";
@@ -344,12 +343,11 @@ export default function RosterPage() {
             The team
           </h1>
           <p className="mt-1 text-sm text-muted">
-            Three rosters — Designers do the work, Assigners hand off, CSRs talk to the client. Click a name to rename.
+            Designers do the work. Assigners hand it off. Click a name to rename.
           </p>
         </div>
 
-        {/* Three-column roster */}
-        <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3 animate-fade-up">
+        <div className="grid gap-5 md:grid-cols-2 animate-fade-up">
           <RosterList
             title="Designers"
             subtitle="logo designers on the team"
@@ -365,14 +363,6 @@ export default function RosterPage() {
             accent="cyan"
             icon={Shield}
             placeholder="Add assigner…"
-          />
-          <RosterList
-            title="CSRs"
-            subtitle="client-facing reps"
-            role="csr"
-            accent="amber"
-            icon={Headphones}
-            placeholder="Add CSR…"
           />
         </div>
       </main>

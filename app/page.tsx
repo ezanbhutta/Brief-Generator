@@ -11,7 +11,6 @@ import {
   Layers,
   Library,
   Palette,
-  Users,
 } from "lucide-react";
 import BriefDisplay from "@/components/BriefDisplay";
 import Nav from "@/components/Nav";
@@ -196,7 +195,7 @@ export default function HomePage() {
         </div>
 
         {/* KPI grid */}
-        <div className="mb-6 grid grid-cols-2 gap-3 md:grid-cols-4 animate-fade-up">
+        <div className="mb-6 grid grid-cols-1 gap-3 sm:grid-cols-3 animate-fade-up">
           <StatCard
             label="Industries"
             value={stats ? stats.industries : "—"}
@@ -217,13 +216,6 @@ export default function HomePage() {
             sub="Modern · Classic · Editorial"
             accent="cyan"
             icon={Palette}
-          />
-          <StatCard
-            label="Designers on roster"
-            value={stats ? stats.designers : "—"}
-            sub="ready to be assigned"
-            accent="amber"
-            icon={Users}
           />
         </div>
 
