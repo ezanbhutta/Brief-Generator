@@ -1,0 +1,90 @@
+import { NextResponse } from "next/server";
+import { getSupabaseAdmin } from "@/lib/supabase";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+function makeId(): string {
+  return Math.random().toString(36).slice(2, 10) + Date.now().toString(36);
+}
+
+interface AssignmentRow {
+  id: string;
+  brand_name: string;
+  industry: string;
+  style: string;
+  designer_id: string | null;
+  designer_name: string;
+  due_date: string | null;
+  created_at: string;
+}
+
+function rowToAssignment(r: AssignmentRow) {
+  return {
+    id: r.id,
+    brandName: r.brand_name,
+    industry: r.industry,
+    style: r.style,
+    designerId: r.designer_id ?? "",
+    designerName: r.designer_name,
+    dueDate: r.due_date ?? "",
+    createdAt: r.created_at,
+  };
+}
+
+export async function GET() {
+  try {
+    const supabase = getSupabaseAdmin();
+    const { data, error } = await supabase
+      .from("assignments")
+      .select("id, brand_name, industry, style, designer_id, designer_name, due_date, created_at")
+      .order("created_at", { ascending: true });
+    if (error) throw error;
+    return NextResponse.json({ assignments: (data ?? []).map(rowToAssignment) });
+  } catch (err) {
+    return NextResponse.json(
+      { error: err instanceof Error ? err.message : "Failed to load sheet." },
+      { status: 500 },
+    );
+  }
+}
+
+export async function POST(req: Request) {
+  let body: unknown;
+  try {
+    body = await req.json();
+  } catch {
+    return NextResponse.json({ error: "Invalid JSON body." }, { status: 400 });
+  }
+  const b = (body ?? {}) as Record<string, unknown>;
+  const required = ["brandName", "industry", "style", "designerId", "designerName", "dueDate"];
+  for (const k of required) {
+    if (typeof b[k] !== "string" || !(b[k] as string).trim()) {
+      return NextResponse.json({ error: `${k} is required.` }, { status: 400 });
+    }
+  }
+  try {
+    const supabase = getSupabaseAdmin();
+    const row = {
+      id: makeId(),
+      brand_name: b.brandName as string,
+      industry: b.industry as string,
+      style: b.style as string,
+      designer_id: b.designerId as string,
+      designer_name: b.designerName as string,
+      due_date: b.dueDate as string,
+    };
+    const { data, error } = await supabase
+      .from("assignments")
+      .insert(row)
+      .select("id, brand_name, industry, style, designer_id, designer_name, due_date, created_at")
+      .single();
+    if (error) throw error;
+    return NextResponse.json({ assignment: rowToAssignment(data as AssignmentRow) });
+  } catch (err) {
+    return NextResponse.json(
+      { error: err instanceof Error ? err.message : "Failed to save assignment." },
+      { status: 500 },
+    );
+  }
+}

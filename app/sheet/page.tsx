@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { Sheet, Copy, Check, Trash2, AlertCircle, Loader2 } from "lucide-react";
 import Nav from "@/components/Nav";
 import {
   getAssignments,
@@ -10,7 +11,6 @@ import {
 
 function formatDate(iso: string): string {
   if (!iso) return "";
-  // iso is YYYY-MM-DD; render in a friendlier form without timezone games.
   const [y, m, d] = iso.split("-").map((x) => parseInt(x, 10));
   if (!y || !m || !d) return iso;
   const date = new Date(Date.UTC(y, m - 1, d));
@@ -25,15 +25,7 @@ function copyAsTsv(rows: Assignment[]): string {
   const header = ["Due Date", "Project Name", "Designer Name", "Industry", "Style"];
   const lines = [header.join("\t")];
   for (const a of rows) {
-    lines.push(
-      [
-        a.dueDate,
-        a.brandName,
-        a.designerName,
-        a.industry,
-        a.style,
-      ].join("\t"),
-    );
+    lines.push([a.dueDate, a.brandName, a.designerName, a.industry, a.style].join("\t"));
   }
   return lines.join("\n");
 }
@@ -42,13 +34,23 @@ export default function SheetPage() {
   const [rows, setRows] = useState<Assignment[]>([]);
   const [loaded, setLoaded] = useState(false);
   const [copied, setCopied] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+
+  async function refresh() {
+    try {
+      const list = await getAssignments();
+      setRows(list);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Failed to load sheet.");
+    } finally {
+      setLoaded(true);
+    }
+  }
 
   useEffect(() => {
-    setRows(getAssignments());
-    setLoaded(true);
+    refresh();
   }, []);
 
-  // Sort by due date ascending so the next deadline is at the top.
   const sorted = [...rows].sort((a, b) => {
     if (a.dueDate && b.dueDate) return a.dueDate.localeCompare(b.dueDate);
     if (a.dueDate) return -1;
@@ -63,96 +65,116 @@ export default function SheetPage() {
       setCopied(true);
       setTimeout(() => setCopied(false), 1800);
     } catch {
-      // ignore
+      /* ignore */
     }
   }
 
-  function onRemove(id: string) {
-    removeAssignment(id);
-    setRows(getAssignments());
+  async function onRemove(id: string) {
+    try {
+      await removeAssignment(id);
+      await refresh();
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Failed to remove.");
+    }
   }
 
   return (
     <>
       <Nav />
-      <main className="mx-auto max-w-6xl px-5 sm:px-8 py-10 sm:py-14">
-        <header className="mb-8 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
+      <main className="mx-auto max-w-6xl px-5 sm:px-8 py-10 sm:py-12">
+        <div className="mb-6 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 animate-fade-up">
           <div>
-            <p className="text-[11px] uppercase tracking-[0.28em] text-ink/55">
-              <span className="text-violet">●</span> Sheet
-            </p>
-            <h1 className="mt-3 font-display text-4xl sm:text-5xl text-ink leading-tight">
-              Briefs in progress.
+            <div className="text-[10px] font-semibold uppercase tracking-label text-dim mb-1.5 flex items-center gap-1.5">
+              <Sheet size={11} strokeWidth={2.5} />
+              Sheet
+            </div>
+            <h1 className="text-2xl sm:text-3xl font-semibold tracking-tight text-ink leading-tight">
+              Briefs in progress
             </h1>
-            <p className="mt-3 text-ink/70 max-w-xl">
-              Every brief marked &ldquo;I&apos;m using this&rdquo; lands here
-              with its due date and assigned designer.
+            <p className="mt-1 text-sm text-muted">
+              Every brief you mark &ldquo;I&apos;m using this&rdquo; lands here with its due date and designer.
             </p>
           </div>
           {sorted.length > 0 && (
             <button
               type="button"
               onClick={handleCopy}
-              className="rounded-full border border-ink/15 bg-paper px-5 py-2.5 text-sm font-medium text-ink/80 transition hover:border-violet hover:text-violet-deep active:scale-[0.97]"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-border bg-bg-card px-4 py-2.5 text-[13px] font-medium text-muted transition hover:border-border-hi hover:text-ink"
             >
-              {copied ? "✓ Copied as TSV" : "Copy for spreadsheet"}
+              {copied ? (
+                <>
+                  <Check size={13} strokeWidth={2.5} />
+                  Copied as TSV
+                </>
+              ) : (
+                <>
+                  <Copy size={13} strokeWidth={2.25} />
+                  Copy for spreadsheet
+                </>
+              )}
             </button>
           )}
-        </header>
+        </div>
 
-        {!loaded ? null : sorted.length === 0 ? (
-          <div className="rounded-2xl border border-dashed border-ink/15 bg-paper/50 p-10 text-center">
-            <p className="font-display text-xl italic text-ink/55">
-              No briefs assigned yet.
-            </p>
-            <p className="mt-1 text-sm text-ink/50">
-              Generate a brief, click &ldquo;I&apos;m using this&rdquo;, and
-              it&apos;ll show up here.
+        {error && (
+          <div className="mb-4 flex items-start gap-2 rounded-lg border border-coral/30 bg-coral-bg px-3.5 py-2.5 text-[13px] text-coral animate-fade-in">
+            <AlertCircle size={14} strokeWidth={2.25} className="mt-0.5 shrink-0" />
+            <span>{error}</span>
+          </div>
+        )}
+
+        {!loaded ? (
+          <div className="flex items-center justify-center gap-2 rounded-xl border border-border bg-bg-card py-10 text-[13px] text-dim">
+            <Loader2 size={14} strokeWidth={2.5} className="animate-spin" />
+            Loading sheet…
+          </div>
+        ) : sorted.length === 0 ? (
+          <div className="rounded-xl border border-dashed border-border-hi bg-bg-card p-10 text-center animate-fade-up">
+            <Sheet size={22} strokeWidth={2} className="mx-auto text-dim" />
+            <p className="mt-3 text-[15px] font-medium text-ink">No briefs assigned yet.</p>
+            <p className="mt-1 text-[13px] text-muted">
+              Generate a brief, click &ldquo;I&apos;m using this&rdquo;, and it&apos;ll show up here.
             </p>
           </div>
         ) : (
-          <div className="overflow-x-auto rounded-2xl border border-ink/10 bg-paper">
-            <table className="w-full text-sm">
-              <thead className="border-b border-ink/10 bg-cream/40 text-left">
+          <div className="overflow-x-auto rounded-xl border border-border bg-bg-card animate-fade-up">
+            <table className="w-full text-[14px]">
+              <thead className="border-b border-border bg-bg-raised text-left">
                 <tr>
-                  <th className="px-4 sm:px-5 py-3 text-xs font-semibold uppercase tracking-[0.18em] text-ink/55">
+                  <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim">
                     Due date
                   </th>
-                  <th className="px-4 sm:px-5 py-3 text-xs font-semibold uppercase tracking-[0.18em] text-ink/55">
+                  <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim">
                     Project name
                   </th>
-                  <th className="px-4 sm:px-5 py-3 text-xs font-semibold uppercase tracking-[0.18em] text-ink/55">
+                  <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim">
                     Designer
                   </th>
-                  <th className="px-4 sm:px-5 py-3 text-xs font-semibold uppercase tracking-[0.18em] text-ink/55 hidden sm:table-cell">
+                  <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim hidden sm:table-cell">
                     Style · Industry
                   </th>
                   <th className="px-2 py-3" />
                 </tr>
               </thead>
-              <tbody className="divide-y divide-ink/10">
+              <tbody className="divide-y divide-border">
                 {sorted.map((a) => (
-                  <tr key={a.id} className="hover:bg-cream/30">
-                    <td className="px-4 sm:px-5 py-3 text-ink whitespace-nowrap">
-                      {formatDate(a.dueDate)}
+                  <tr key={a.id} className="transition hover:bg-bg-hover">
+                    <td className="px-4 sm:px-5 py-3 whitespace-nowrap">
+                      <span className="mono text-[13px] text-ink">{formatDate(a.dueDate)}</span>
                     </td>
-                    <td className="px-4 sm:px-5 py-3 font-medium text-ink">
-                      {a.brandName}
-                    </td>
-                    <td className="px-4 sm:px-5 py-3 text-ink/85">
-                      {a.designerName}
-                    </td>
-                    <td className="px-4 sm:px-5 py-3 text-ink/60 hidden sm:table-cell">
+                    <td className="px-4 sm:px-5 py-3 font-medium text-ink">{a.brandName}</td>
+                    <td className="px-4 sm:px-5 py-3 text-muted">{a.designerName}</td>
+                    <td className="px-4 sm:px-5 py-3 text-dim hidden sm:table-cell">
                       {a.style} · {a.industry}
                     </td>
                     <td className="px-2 py-3">
                       <button
                         type="button"
                         onClick={() => onRemove(a.id)}
-                        className="rounded-full border border-ink/15 bg-paper px-2.5 py-1 text-xs font-medium text-ink/55 transition hover:border-rose-400 hover:text-rose-700 active:scale-[0.97]"
+                        className="inline-flex h-7 w-7 items-center justify-center rounded-md text-dim transition hover:bg-coral-bg hover:text-coral"
                         aria-label={`Remove ${a.brandName}`}
                       >
-                        ✕
+                        <Trash2 size={13} strokeWidth={2.25} />
                       </button>
                     </td>
                   </tr>
@@ -163,7 +185,7 @@ export default function SheetPage() {
         )}
 
         {loaded && sorted.length > 0 && (
-          <p className="mt-4 text-xs text-ink/50">
+          <p className="mt-3 text-[12px] text-dim">
             {sorted.length} brief{sorted.length === 1 ? "" : "s"} on the sheet.
           </p>
         )}

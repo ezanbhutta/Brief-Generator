@@ -1,14 +1,6 @@
 import type { Metadata } from "next";
-import { Instrument_Serif, Inter } from "next/font/google";
+import { Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
-
-const display = Instrument_Serif({
-  subsets: ["latin"],
-  weight: "400",
-  style: ["normal", "italic"],
-  variable: "--font-display",
-  display: "swap",
-});
 
 const sans = Inter({
   subsets: ["latin"],
@@ -16,10 +8,16 @@ const sans = Inter({
   display: "swap",
 });
 
+const mono = JetBrains_Mono({
+  subsets: ["latin"],
+  variable: "--font-mono",
+  display: "swap",
+});
+
 export const metadata: Metadata = {
-  title: "Brand Briefs — agency-quality briefs in seconds",
+  title: "Brand Briefs — HaseebMadeIt",
   description:
-    "Type an industry. Pick a style. Get the full brand brief — name, positioning, palette, typography — in seconds.",
+    "Brand brief generator with designer roster and assignment sheet.",
 };
 
 export default function RootLayout({
@@ -28,8 +26,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${display.variable} ${sans.variable}`}>
-      <body className="min-h-screen bg-cream text-ink font-sans antialiased">
+    <html lang="en" className={`${sans.variable} ${mono.variable}`}>
+      <body className="min-h-screen bg-bg text-ink font-sans antialiased">
         {children}
       </body>
     </html>
