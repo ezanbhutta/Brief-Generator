@@ -10,6 +10,7 @@ export interface Designer {
 
 export interface Assignment {
   id: string;
+  briefId: string;
   brandName: string;
   industry: string;
   style: string;

@@ -44,6 +44,19 @@ async function fetchCellCount(industryKey: string, style: Style): Promise<number
   return count ?? 0;
 }
 
+// Brief ids that are already in the sheet — we never serve those again.
+async function fetchUsedBriefIds(): Promise<string[]> {
+  const supabase = getSupabaseAdmin();
+  const { data, error } = await supabase
+    .from("assignments")
+    .select("brief_id")
+    .not("brief_id", "is", null);
+  if (error) return [];
+  return (data ?? [])
+    .map((r) => (r as { brief_id: string | null }).brief_id)
+    .filter((x): x is string => typeof x === "string" && x.length > 0);
+}
+
 async function fetchOneBrief(
   industryKey: string,
   style: Style,
@@ -86,7 +99,10 @@ export async function pickBrief(
     };
   }
 
-  const totalInCell = await fetchCellCount(match.entry.key, style);
+  const [totalInCell, usedIds] = await Promise.all([
+    fetchCellCount(match.entry.key, style),
+    fetchUsedBriefIds(),
+  ]);
   if (totalInCell === 0) {
     return {
       ok: false,
@@ -98,11 +114,14 @@ export async function pickBrief(
     };
   }
 
-  // Try with excludes first; if none left, retry without.
-  let row = await fetchOneBrief(match.entry.key, style, excludeIds);
-  if (!row) {
-    row = await fetchOneBrief(match.entry.key, style, []);
-  }
+  // Combine: per-browser "seen" exclusions + global "already in sheet" exclusions.
+  const allExclude = Array.from(new Set([...excludeIds, ...usedIds]));
+
+  // Try with everything excluded first. If every brief in the cell is
+  // excluded, fall back to per-browser only, then to nothing.
+  let row = await fetchOneBrief(match.entry.key, style, allExclude);
+  if (!row) row = await fetchOneBrief(match.entry.key, style, excludeIds);
+  if (!row) row = await fetchOneBrief(match.entry.key, style, []);
   if (!row) {
     return {
       ok: false,
