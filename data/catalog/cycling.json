@@ -74,6 +74,66 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "CADENCE delivers by:\n• Talk about the ride, not the gear\n• Use technical terms when they matter\n• Speak to the rider, not the spectator"
+      },
+      {
+        "brandName": "DRAFT",
+        "tagline": "Slide into the line.",
+        "brandNameRationale": "Drafting is the cyclist's word for riding in another rider's wake. It rewards focus, courage, and trust. The brand is named after the technique that defines the sport's modern era.",
+        "industrySummary": "Modern cycling sits between weekend-warrior culture and Strava-app obsession. Buyers want gear that holds up in real road riding, not race-team theater. Direct-to-consumer is the dominant channel.",
+        "competitorLandscape": "Rapha (rapha.cc) owns the considered tier. MAAP (maap.cc) holds the modern minimal position. Velocio (velocio.cc) is the technical precedent. We sit closer to MAAP, with a sharper road posture.",
+        "positioningStatement": "Road cycling kit for riders who care about the line, not the team kit.",
+        "targetAudience": {
+          "primary": "28 to 45. Rides 100 to 200 miles per week. Lives in a city with a hard ride loop. Follows three pro riders on Instagram. Buys kit one piece at a time, not in collections.",
+          "behaviors": [
+            "Reads ride reports on Escape Collective",
+            "Will skip a Sunday brunch for a Sunday century",
+            "Owns three bikes, talks about the second one"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Athletic",
+          "Quiet",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak about the ride, not the rider",
+            "Quote watts and distance, never effort",
+            "Reference real roads"
+          ],
+          "donts": [
+            "Photograph kit on hangers",
+            "Use the word 'community'",
+            "Run a Tour de France campaign"
+          ]
+        },
+        "logoDirection": "A wordmark. DRAFT set in a tight modern grotesk with the T's crossbar extended to suggest a line being followed. Used embroidered on the chest of every jersey at exactly 38mm.",
+        "colorPalette": [
+          {
+            "name": "Tarmac",
+            "hex": "#2A2A2E",
+            "meaning": "Wet road at first light.",
+            "usage": "Primary kit color, wordmark"
+          },
+          {
+            "name": "Brake Yellow",
+            "hex": "#F5C518",
+            "meaning": "Hazard visibility. Worn one piece at a time.",
+            "usage": "One panel per kit, accent"
+          },
+          {
+            "name": "Chalk",
+            "hex": "#E8E4DA",
+            "meaning": "Road marking.",
+            "usage": "Backgrounds, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne Breit for the wordmark",
+          "secondary": "Söhne Mono for ride data and stats",
+          "rationale": "Söhne reads modern and Swiss. Breit gives the wordmark stance on a kit panel."
+        }
       }
     ],
     "Luxury": [
@@ -156,6 +216,66 @@
           "Confident — we stand behind the work, not the marketing."
         ],
         "scope": "Northerly delivers by:\n• Speak rarely\n• Name the framebuilder\n• Send a paper catalog once a year"
+      },
+      {
+        "brandName": "Pellestrina",
+        "tagline": "Italian cycling, finished by hand.",
+        "brandNameRationale": "Pellestrina is a long, narrow island in the Venetian lagoon known for its quiet artisans and twelve-mile bike road. Naming the brand after a place — not a person — signals heritage without invention.",
+        "industrySummary": "Luxury cycling kit serves the rider who keeps a road bike at his Italian villa. The audience is small, repeat, and word-of-mouth. The product must be made in Italy, on real machines, by named makers.",
+        "competitorLandscape": "Assos (assos.com) is the technical Swiss luxury reference. Café du Cycliste (cafeducycliste.com) holds the lifestyle-luxury slot. La Passione (lapassione.cc) is the Italian heritage precedent. We sit closer to Assos in fabric, closer to Café du Cycliste in scene.",
+        "positioningStatement": "Italian cycling kit for riders who care who stitched it.",
+        "targetAudience": {
+          "primary": "45 to 65. Owns a road bike worth more than $15,000. Rides three times a week, usually with the same two friends. Spends part of the year in Italy. Reads Rouleur in print.",
+          "behaviors": [
+            "Buys a new kit twice a year, in person if possible",
+            "Knows the name of the seamstress on his bib shorts",
+            "Will only ride in kit he owns the story of"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Heritage",
+          "Artisan",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the maker",
+            "Speak in Italian where it fits",
+            "Describe the route, not the rider"
+          ],
+          "donts": [
+            "Mention prizes",
+            "Use the word 'luxury'",
+            "Compare with peer brands"
+          ]
+        },
+        "logoDirection": "A wordmark with a small lagoon mark. PELLESTRINA set in a classical Italian serif, very tight, all caps. A thin horizontal line beneath the wordmark suggests the lagoon's horizon. Used embossed on the leather hangtag.",
+        "colorPalette": [
+          {
+            "name": "Lagoon Blue",
+            "hex": "#1F3A4D",
+            "meaning": "Water at the island's edge.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Burnt Sienna",
+            "hex": "#A0522D",
+            "meaning": "Brick of Venetian buildings.",
+            "usage": "Accent, hangtag, kit detail"
+          },
+          {
+            "name": "Lace",
+            "hex": "#F2EBDD",
+            "meaning": "Local burano lace tradition.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "Bodoni 72 for the wordmark and headlines",
+          "secondary": "Adobe Garamond for body and product cards",
+          "rationale": "Bodoni is the canonical Italian display face. Garamond carries the body without breaking heritage."
+        }
       }
     ],
     "Minimal": [
@@ -229,6 +349,65 @@
           "Direct — we say what we mean without softening it."
         ],
         "scope": "RIDE delivers by:\n• Show the spec\n• Show the price\n• Use plain English for the product description"
+      },
+      {
+        "brandName": "12s",
+        "tagline": "Hold twelve seconds.",
+        "brandNameRationale": "Twelve seconds is the typical breakaway threshold — the moment a rider establishes the gap that holds. Naming the brand after the unit signals it's built for riders who measure.",
+        "industrySummary": "Minimal cycling kit serves the data-aware rider who's tired of pattern-heavy team-style jerseys. The product is solid colors, clean panels, and rigorous fit.",
+        "competitorLandscape": "Pas Normal Studios (pasnormalstudios.com) is the minimal benchmark. MAAP (maap.cc) sits adjacent. Universal Colours (universalcolours.com) is the closest peer. We sit between MAAP and Universal in fit.",
+        "positioningStatement": "Minimal kit for riders who care about gaps, not graphics.",
+        "targetAudience": {
+          "primary": "28 to 45. Rides with a power meter. Has a Wahoo on every bike. Wears black, gray, or dark blue. Has opinions about chamois pad thickness.",
+          "behaviors": [
+            "Will not wear a kit with a logo bigger than 30mm",
+            "Buys three of the same jersey",
+            "Reviews kit on Reddit before buying"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Quiet",
+          "Technical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote measurements",
+            "Show kit on the bike, not the body",
+            "Use silence as a feature"
+          ],
+          "donts": [
+            "Show team photos",
+            "Speak about 'community'",
+            "Run sales"
+          ]
+        },
+        "logoDirection": "A wordmark. 12s set in a numeric grotesk, the s a lowercase mark slightly tucked. Used in two sizes only: 12mm on the kit, 6mm in the bib. No standalone mark.",
+        "colorPalette": [
+          {
+            "name": "Pad Black",
+            "hex": "#101113",
+            "meaning": "Race kit default.",
+            "usage": "Primary kit color"
+          },
+          {
+            "name": "Gap Gray",
+            "hex": "#6E7480",
+            "meaning": "Tarmac after rain.",
+            "usage": "Secondary kit, web body"
+          },
+          {
+            "name": "Marker White",
+            "hex": "#FAFAF8",
+            "meaning": "Race numbers.",
+            "usage": "Type, backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark and headlines",
+          "secondary": "Neue Haas Mono for stats and timing",
+          "rationale": "Haas is the Swiss benchmark. Anything else would be over-claim."
+        }
       }
     ],
     "Corporate": [
@@ -330,6 +509,66 @@
           "Steady — a core principle the brand operates by."
         ],
         "scope": "Wheelhouse Mobility works across:\n• One vendor across sites\n• Uptime guaranteed\n• Sustainability reporting"
+      },
+      {
+        "brandName": "Velorum Group",
+        "tagline": "Mobility in motion.",
+        "brandNameRationale": "Velorum is a constructed Latin-style stem from velo (bike) and -rum (collective). Group positions the firm as a holding company across cycling, micromobility, and related verticals.",
+        "industrySummary": "Corporate cycling sits at the intersection of fleet mobility, fitness benefits, and city policy. Buyers are HR leaders, mobility procurement, and city governments. The pitch is institutional, not lifestyle.",
+        "competitorLandscape": "Lime (li.me) and Bird (bird.co) own micromobility infrastructure. Lyft Bikes (lyft.com/bikes) holds the city-fleet position. Trek (trekbikes.com) is the OEM precedent. We sit one layer up as a services and fleet partner across all of them.",
+        "positioningStatement": "A corporate mobility holding company for cycling, fleet, and city programs.",
+        "targetAudience": {
+          "primary": "40 to 60. HR Directors at Fortune 500 companies. Heads of Mobility at city governments. Procurement leads at large employers. Care about ESG reporting, employee benefits, and policy alignment.",
+          "behaviors": [
+            "Manages a multi-year mobility budget",
+            "Issues quarterly RFPs for fleet expansion",
+            "Cares about benefits-platform integration"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Steady",
+          "Multi-line",
+          "Policy-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite policy outcomes",
+            "Speak about fleet uptime",
+            "Quote ESG benchmarks"
+          ],
+          "donts": [
+            "Use cyclist slang",
+            "Photograph riders in spandex",
+            "Mention races"
+          ]
+        },
+        "logoDirection": "A wordmark with a multi-line monogram. VELORUM in a corporate sans, GROUP set smaller beneath. The monogram is three short horizontal lines stacked, suggesting motion and a multi-business structure. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Fleet Navy",
+            "hex": "#0F2A47",
+            "meaning": "Institutional posture.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Asphalt",
+            "hex": "#5A5A60",
+            "meaning": "Road. Infrastructure.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Steel",
+            "hex": "#D4D4D6",
+            "meaning": "Rolling stock.",
+            "usage": "Backgrounds, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and reports",
+          "secondary": "GT America Mono for fleet IDs and timetables",
+          "rationale": "GT America reads institutional without being stuffy. Mono carries fleet identifiers in a single visual system."
+        }
       }
     ],
     "Creative": [
@@ -422,6 +661,72 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "SPOKE delivers by:\n• Be funny\n• Use slang where it fits\n• Treat the customer like a friend"
+      },
+      {
+        "brandName": "Headwind & Co",
+        "tagline": "Cycling for slow Sundays.",
+        "brandNameRationale": "Every rider knows the headwind. The brand names the enemy in the title and turns it into a posture. Cycling for the rider who knows they won't win.",
+        "industrySummary": "Creative cycling kit serves the rider who's in it for the cafe stop. Coffee, croissants, and a slow climb. The brand has to feel like a sticker on a bottle, not a sponsorship deal.",
+        "competitorLandscape": "Café du Cycliste (cafeducycliste.com) holds the cafe-cyclist position. Albion (albioncycling.com) is the indie British precedent. Search and State (searchandstate.com) is the small-batch reference. We sit closer to Search and State in production.",
+        "positioningStatement": "Kit for cyclists who plan the ride around the cafe.",
+        "targetAudience": {
+          "primary": "30 to 50. Rides 50 to 100 miles a week. Owns one bike, names it. Posts the cafe stop, not the watts. Buys kit because the patch made them smile.",
+          "behaviors": [
+            "Sends ride invites in group chats with snacks emoji",
+            "Buys the bottle and the sticker before the jersey",
+            "Will choose the slower route for a better view"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Slow",
+          "Honest",
+          "A little funny"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cafe",
+            "Photograph the cake",
+            "Talk about the talking, not the riding"
+          ],
+          "donts": [
+            "Show power numbers",
+            "Use race language",
+            "Take cycling that seriously"
+          ]
+        },
+        "logoDirection": "A wordmark with a small wind line. HEADWIND set in a friendly grotesk, & Co set smaller beneath. A single curved line above the H suggests wind blowing the rider back. The wind line works as a sticker.",
+        "colorPalette": [
+          {
+            "name": "Cafe Cream",
+            "hex": "#F4EBD5",
+            "meaning": "Pastry pastry.",
+            "usage": "Backgrounds, kit panels"
+          },
+          {
+            "name": "Croissant Brown",
+            "hex": "#8B5E34",
+            "meaning": "Edge of a good pastry.",
+            "usage": "Accent, type"
+          },
+          {
+            "name": "Slow Green",
+            "hex": "#5C7C5E",
+            "meaning": "Country hedgerow.",
+            "usage": "Secondary kit, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1B1B1B",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "Caslon for cafe menus and product cards",
+          "rationale": "Mori has warmth. Caslon makes the cafe menu feel like an actual cafe menu."
+        }
       }
     ]
   }

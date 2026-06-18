@@ -76,6 +76,66 @@
           "Warm — we are friendly, not formal."
         ],
         "scope": "MAKERS delivers by:\n• Name the maker on every product page\n• Show the workshop, not the studio\n• Skip the lifestyle copy"
+      },
+      {
+        "brandName": "OBJECT",
+        "tagline": "Things that hold.",
+        "brandNameRationale": "An object is the most honest word for what we sell. The brand promises nothing more than the thing itself, built to a standard that survives a move.",
+        "industrySummary": "Modern home goods post-2024 is crowded with DTC bedding and aesthetic startups. The opportunity is the rigorous middle — pieces that last, priced for adults with one home.",
+        "competitorLandscape": "Hawkins New York (hawkinsnewyork.com) holds the modern thoughtful tier. Hem (hem.com) is the European modern precedent. Schoolhouse (schoolhouse.com) sets the made-in-USA bar. We sit closest to Hawkins, with sharper typography.",
+        "positioningStatement": "Home goods for one home, priced for an adult.",
+        "targetAudience": {
+          "primary": "32 to 50. Owns one home, plans to keep it. Has moved twice in the last decade. Cares about how a knob feels in the hand. Doesn't buy anything for the resale narrative.",
+          "behaviors": [
+            "Buys the second-tier item, never the cheapest",
+            "Reads the country of manufacture on every label",
+            "Will pay more for less packaging"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Direct",
+          "Modern",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the material",
+            "Name the maker",
+            "Speak about lifespan"
+          ],
+          "donts": [
+            "Use the word 'curate'",
+            "Romance the warehouse",
+            "Run a holiday sale on the homepage"
+          ]
+        },
+        "logoDirection": "A wordmark. OBJECT set in a tight modern grotesk, slightly weighted, with subtle pin marks under each letter suggesting the object resting on a surface. Used impressed on the wooden product tag.",
+        "colorPalette": [
+          {
+            "name": "Shelf White",
+            "hex": "#F2F0EA",
+            "meaning": "Linen and limewash.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Object Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type. Surface edges.",
+            "usage": "Wordmark, body, dark goods"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A37E3B",
+            "meaning": "Hardware. The aging metal.",
+            "usage": "Accent, foil, hardware photos"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "GT Sectra for product descriptions",
+          "rationale": "Söhne reads modern. Sectra carries the longer-form material descriptions without breaking pace."
+        }
       }
     ],
     "Luxury": [
@@ -158,6 +218,66 @@
           "Considered — we choose fewer things, more carefully."
         ],
         "scope": "Brunton & Hall delivers by:\n• Address the client by surname\n• Name the maker, the material, and the maker's town\n• Send paper cards for every order"
+      },
+      {
+        "brandName": "Wedderburn",
+        "tagline": "Made in Scotland, kept for life.",
+        "brandNameRationale": "Wedderburn is a real Scottish family name with a textile and household-goods lineage. The brand inherits the name rather than inventing one.",
+        "industrySummary": "Luxury home goods serves the household with a permanent address. Buyers want pieces with provenance — wool from one farm, stoneware from one kiln. The story is the value.",
+        "competitorLandscape": "Begg & Co (beggandcompany.com) holds the Scottish luxury textile position. Heath Ceramics (heathceramics.com) is the American precedent. Loro Piana Interiors (loropiana.com) sets the global luxury bar. We sit between Begg and Heath in scale.",
+        "positioningStatement": "Heirloom home goods made by one mill, one kiln, one workshop.",
+        "targetAudience": {
+          "primary": "45 to 70. Multi-generational homeowner. Spends weekends restoring a house older than they are. Reads The World of Interiors. Considers a £200 blanket the cheapest option.",
+          "behaviors": [
+            "Visits the maker at the workshop",
+            "Sends pieces to the next generation by hand",
+            "Pays for repair, never replacement"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Quiet",
+          "Crafted",
+          "Generational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the maker",
+            "Show the mill",
+            "Speak about lifespan in decades"
+          ],
+          "donts": [
+            "Run sales",
+            "Use trend vocabulary",
+            "Photograph empty rooms"
+          ]
+        },
+        "logoDirection": "A wordmark with a small woven mark. WEDDERBURN set in a classical Scottish-feel serif, all caps, very tight. A small woven crest sits above, suggesting tartan threads. Used embossed on a linen hangtag.",
+        "colorPalette": [
+          {
+            "name": "Tartan Green",
+            "hex": "#2A4A2E",
+            "meaning": "Hill heather in autumn.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Oat",
+            "hex": "#E8DFC9",
+            "meaning": "Undyed wool.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Iron",
+            "hex": "#3A3A40",
+            "meaning": "Cast iron hearth.",
+            "usage": "Secondary, body type"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Doric for the wordmark",
+          "secondary": "Adobe Caslon for body and product cards",
+          "rationale": "Caslon family across the system carries 250 years of British printing tradition."
+        }
       }
     ],
     "Minimal": [
@@ -231,6 +351,59 @@
           "Patient — we play long games, not loud ones."
         ],
         "scope": "GOODS delivers by:\n• Show the product, the material, the price\n• Use plain English\n• Confirm orders in two lines"
+      },
+      {
+        "brandName": "Plain",
+        "tagline": "Less, made better.",
+        "brandNameRationale": "Plain is the antonym of every adjective the home goods category piles on. The brand wears the word as a promise.",
+        "industrySummary": "Minimal home goods is a reaction to crowded shelves and noisy packaging. The opportunity is single-SKU clarity — one perfect linen sheet, one perfect ceramic mug, sold in three sizes.",
+        "competitorLandscape": "Muji (muji.com) is the obvious global precedent. Tekla (teklafabrics.com) holds the minimal-luxury home textile position. Areaware (areaware.com) is the modern reference. We sit closer to Tekla in spirit.",
+        "positioningStatement": "One good version of each thing.",
+        "targetAudience": {
+          "primary": "28 to 45. Lives in one room or a small apartment. Owns three mugs and uses one. Cares about how a tea towel folds. Buys to replace, never to add.",
+          "behaviors": [
+            "Will replace a stained tea towel with the same one",
+            "Reads the GSM on a sheet",
+            "Does not own a junk drawer"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the product alone",
+            "List materials and weights",
+            "Say less than expected"
+          ],
+          "donts": [
+            "Use lifestyle photography",
+            "Run flash sales",
+            "Write headlines longer than four words"
+          ]
+        },
+        "logoDirection": "A wordmark. plain set in a humanist sans, lowercase, slightly tracked. The whole brand is the word. Used in two sizes only.",
+        "colorPalette": [
+          {
+            "name": "Bone",
+            "hex": "#F5F2EC",
+            "meaning": "Unbleached linen.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1B1B1B",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for product specs",
+          "rationale": "One family. The brand can't carry a second."
+        }
       }
     ],
     "Corporate": [
@@ -332,6 +505,66 @@
           "Professional — a core principle the brand operates by."
         ],
         "scope": "Cresta Home Group works across:\n• Wholesale at scale\n• Design-led category development\n• Single partner across categories"
+      },
+      {
+        "brandName": "Hearthstead Brands",
+        "tagline": "A household of household brands.",
+        "brandNameRationale": "Hearthstead combines hearth (home) and stead (place, holding). Brands signals the firm is a holding company across multiple acquired household lines.",
+        "industrySummary": "Corporate home goods is increasingly a roll-up game — private equity buying mid-tier DTC brands and consolidating supply chains. The buyer is the wholesale partner, the distributor, the institutional channel.",
+        "competitorLandscape": "Newell Brands (newellbrands.com) is the obvious peer. Williams-Sonoma Inc (williams-sonoma.com) holds the retail-anchored slot. Lifetime Brands (lifetimebrands.com) is the closest competitor we sit between Newell and Lifetime in product range.",
+        "positioningStatement": "A multi-brand household holding company for wholesale and institutional channels.",
+        "targetAudience": {
+          "primary": "45 to 60. Buyers at large retail chains. Procurement leads at hotel groups. Sales VPs at distribution networks. Manage product portfolios across multiple categories.",
+          "behaviors": [
+            "Plans seasonal buys 18 months out",
+            "Requires SKU-level margin breakdowns",
+            "Renews partnerships at annual buying conferences"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-line",
+          "Steady",
+          "Distribution-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote margin",
+            "Show distribution map",
+            "Cite trade press"
+          ],
+          "donts": [
+            "Use consumer language",
+            "Photograph homes",
+            "Mention founders"
+          ]
+        },
+        "logoDirection": "A wordmark with a stacked monogram. HEARTHSTEAD in a corporate serif, BRANDS in a smaller sans beneath. A monogram H with three horizontal bars suggests multiple brand lines under one roof. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Hearth Brown",
+            "hex": "#5C3A21",
+            "meaning": "Brick fireplace.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Stone",
+            "hex": "#D8D2C4",
+            "meaning": "Quarry-cut stone.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Iron",
+            "hex": "#2A2A2D",
+            "meaning": "Cast iron fittings.",
+            "usage": "Body type, dark surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and product cards",
+          "rationale": "Sectra reads institutional. GT America keeps trade communications efficient."
+        }
       }
     ],
     "Creative": [
@@ -424,6 +657,72 @@
           "Friendly — a core principle the brand operates by."
         ],
         "scope": "The Linen Closet Co delivers by:\n• Show the products in real small apartments\n• Make jokes about apartment life\n• Talk like a friend who already lives in the building"
+      },
+      {
+        "brandName": "Sundries",
+        "tagline": "The little stuff, well made.",
+        "brandNameRationale": "Sundries is the trade word for miscellaneous small items in a shop ledger. The brand owns the catch-all term and treats it with care.",
+        "industrySummary": "Creative home goods serves the buyer who's done with millennial pink and starter homewares. The opportunity is character — pieces with a story, a maker's mark, a slight imperfection.",
+        "competitorLandscape": "Quiet Town Home (quiettownhome.com) holds the indie home textile position. Lights On Studio (lightson.studio) is the modern handmade precedent. Tortoise General Store (tortoisegeneralstore.com) is the curated reference. We sit between Quiet Town and Tortoise in scope.",
+        "positioningStatement": "Small home things made by people who like making small home things.",
+        "targetAudience": {
+          "primary": "28 to 45. Renter or first-home owner. Has opinions about salt cellars. Follows three small ceramics studios. Will buy from a stranger's table at a market.",
+          "behaviors": [
+            "Buys the slightly imperfect one on purpose",
+            "Names objects ('the green one', 'the blue mug')",
+            "Photographs a new ceramic before unpacking"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Honest",
+          "Slightly funny",
+          "Crafted"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the maker",
+            "Show the workshop",
+            "Quote the imperfection"
+          ],
+          "donts": [
+            "Use words like 'curated'",
+            "Photograph hotel-style interiors",
+            "Reach for luxury vocabulary"
+          ]
+        },
+        "logoDirection": "A wordmark with a hand mark. SUNDRIES set in a friendly grotesk, slightly italic. A small hand-drawn dot above the S suggests a maker's signature. The dot works as a sticker.",
+        "colorPalette": [
+          {
+            "name": "Market Yellow",
+            "hex": "#F2C14E",
+            "meaning": "Stall awning at noon.",
+            "usage": "Accent, packaging, the dot"
+          },
+          {
+            "name": "Clay",
+            "hex": "#C68B6D",
+            "meaning": "Unfired ceramic.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#F0EAD8",
+            "meaning": "The table cloth.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1B1B1B",
+            "meaning": "Type only.",
+            "usage": "Body, the wordmark on light surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for product descriptions",
+          "rationale": "Mori has personality. Sectra carries the longer-form product story without breaking the warmth."
+        }
       }
     ]
   }
