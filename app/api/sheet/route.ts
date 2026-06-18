@@ -15,6 +15,8 @@ interface AssignmentRow {
   style: string;
   designer_id: string | null;
   designer_name: string;
+  assigner_id: string | null;
+  assigner_name: string | null;
   due_date: string | null;
   created_at: string;
 }
@@ -27,17 +29,21 @@ function rowToAssignment(r: AssignmentRow) {
     style: r.style,
     designerId: r.designer_id ?? "",
     designerName: r.designer_name,
+    assignerId: r.assigner_id ?? "",
+    assignerName: r.assigner_name ?? "",
     dueDate: r.due_date ?? "",
     createdAt: r.created_at,
   };
 }
+
+const SELECT = "id, brand_name, industry, style, designer_id, designer_name, assigner_id, assigner_name, due_date, created_at";
 
 export async function GET() {
   try {
     const supabase = getSupabaseAdmin();
     const { data, error } = await supabase
       .from("assignments")
-      .select("id, brand_name, industry, style, designer_id, designer_name, due_date, created_at")
+      .select(SELECT)
       .order("created_at", { ascending: true });
     if (error) throw error;
     return NextResponse.json({ assignments: (data ?? []).map(rowToAssignment) });
@@ -57,7 +63,16 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: "Invalid JSON body." }, { status: 400 });
   }
   const b = (body ?? {}) as Record<string, unknown>;
-  const required = ["brandName", "industry", "style", "designerId", "designerName", "dueDate"];
+  const required = [
+    "brandName",
+    "industry",
+    "style",
+    "designerId",
+    "designerName",
+    "assignerId",
+    "assignerName",
+    "dueDate",
+  ];
   for (const k of required) {
     if (typeof b[k] !== "string" || !(b[k] as string).trim()) {
       return NextResponse.json({ error: `${k} is required.` }, { status: 400 });
@@ -72,12 +87,14 @@ export async function POST(req: Request) {
       style: b.style as string,
       designer_id: b.designerId as string,
       designer_name: b.designerName as string,
+      assigner_id: b.assignerId as string,
+      assigner_name: b.assignerName as string,
       due_date: b.dueDate as string,
     };
     const { data, error } = await supabase
       .from("assignments")
       .insert(row)
-      .select("id, brand_name, industry, style, designer_id, designer_name, due_date, created_at")
+      .select(SELECT)
       .single();
     if (error) throw error;
     return NextResponse.json({ assignment: rowToAssignment(data as AssignmentRow) });

@@ -1,8 +1,11 @@
 // Roster + assignments client. Talks to Next.js API routes backed by Supabase.
 
+export type RosterRole = "designer" | "assigner" | "csr";
+
 export interface Designer {
   id: string;
   name: string;
+  role: RosterRole;
 }
 
 export interface Assignment {
@@ -12,6 +15,8 @@ export interface Assignment {
   style: string;
   designerId: string;
   designerName: string;
+  assignerId: string;
+  assignerName: string;
   dueDate: string; // YYYY-MM-DD
   createdAt: string; // ISO datetime
 }
@@ -26,15 +31,26 @@ async function jsonOrThrow<T>(res: Response): Promise<T> {
 }
 
 // ─── Roster ───
-export async function getRoster(): Promise<Designer[]> {
-  const res = await fetch("/api/roster", { cache: "no-store" });
+export async function getRoster(role?: RosterRole): Promise<Designer[]> {
+  const qs = role ? `?role=${role}` : "";
+  const res = await fetch(`/api/roster${qs}`, { cache: "no-store" });
   const { designers } = await jsonOrThrow<{ designers: Designer[] }>(res);
   return designers;
 }
 
-export async function addDesigner(name: string): Promise<Designer> {
+export async function addDesigner(name: string, role: RosterRole = "designer"): Promise<Designer> {
   const res = await fetch("/api/roster", {
     method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({ name, role }),
+  });
+  const { designer } = await jsonOrThrow<{ designer: Designer }>(res);
+  return designer;
+}
+
+export async function renameDesigner(id: string, name: string): Promise<Designer> {
+  const res = await fetch(`/api/roster/${encodeURIComponent(id)}`, {
+    method: "PATCH",
     headers: { "content-type": "application/json" },
     body: JSON.stringify({ name }),
   });

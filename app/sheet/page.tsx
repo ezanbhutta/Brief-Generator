@@ -3,6 +3,8 @@
 import { useEffect, useState } from "react";
 import { Sheet, Copy, Check, Trash2, AlertCircle, Loader2 } from "lucide-react";
 import Nav from "@/components/Nav";
+import ConfirmDialog from "@/components/ConfirmDialog";
+import { useToast } from "@/components/Toast";
 import {
   getAssignments,
   removeAssignment,
@@ -21,11 +23,27 @@ function formatDate(iso: string): string {
   });
 }
 
+function dueDateStatus(iso: string): "overdue" | "today" | "soon" | "later" | "none" {
+  if (!iso) return "none";
+  const [y, m, d] = iso.split("-").map((x) => parseInt(x, 10));
+  if (!y || !m || !d) return "none";
+  const due = new Date(Date.UTC(y, m - 1, d));
+  const now = new Date();
+  const today = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+  const daysUntil = Math.round((due.getTime() - today.getTime()) / 86400000);
+  if (daysUntil < 0) return "overdue";
+  if (daysUntil === 0) return "today";
+  if (daysUntil <= 3) return "soon";
+  return "later";
+}
+
 function copyAsTsv(rows: Assignment[]): string {
-  const header = ["Due Date", "Project Name", "Designer Name", "Industry", "Style"];
+  const header = ["Due Date", "Project Name", "Designer", "Assigner", "Industry", "Style"];
   const lines = [header.join("\t")];
   for (const a of rows) {
-    lines.push([a.dueDate, a.brandName, a.designerName, a.industry, a.style].join("\t"));
+    lines.push(
+      [a.dueDate, a.brandName, a.designerName, a.assignerName, a.industry, a.style].join("\t"),
+    );
   }
   return lines.join("\n");
 }
@@ -35,6 +53,8 @@ export default function SheetPage() {
   const [loaded, setLoaded] = useState(false);
   const [copied, setCopied] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [confirmRemove, setConfirmRemove] = useState<Assignment | null>(null);
+  const toast = useToast();
 
   async function refresh() {
     try {
@@ -63,18 +83,24 @@ export default function SheetPage() {
     try {
       await navigator.clipboard.writeText(text);
       setCopied(true);
+      toast.push("Sheet copied as TSV.");
       setTimeout(() => setCopied(false), 1800);
     } catch {
-      /* ignore */
+      toast.push("Copy failed.", "error");
     }
   }
 
-  async function onRemove(id: string) {
+  async function onRemove(a: Assignment) {
+    // Optimistic
+    setRows((prev) => prev.filter((x) => x.id !== a.id));
     try {
-      await removeAssignment(id);
-      await refresh();
+      await removeAssignment(a.id);
+      toast.push(`${a.brandName} removed from sheet.`);
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Failed to remove.");
+      await refresh();
+      const msg = err instanceof Error ? err.message : "Failed to remove.";
+      setError(msg);
+      toast.push(msg, "error");
     }
   }
 
@@ -150,6 +176,9 @@ export default function SheetPage() {
                   <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim">
                     Designer
                   </th>
+                  <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim hidden md:table-cell">
+                    Assigner
+                  </th>
                   <th className="px-4 sm:px-5 py-3 text-[10px] font-semibold uppercase tracking-label text-dim hidden sm:table-cell">
                     Style · Industry
                   </th>
@@ -157,28 +186,61 @@ export default function SheetPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-border">
-                {sorted.map((a) => (
-                  <tr key={a.id} className="transition hover:bg-bg-hover">
-                    <td className="px-4 sm:px-5 py-3 whitespace-nowrap">
-                      <span className="mono text-[13px] text-ink">{formatDate(a.dueDate)}</span>
-                    </td>
-                    <td className="px-4 sm:px-5 py-3 font-medium text-ink">{a.brandName}</td>
-                    <td className="px-4 sm:px-5 py-3 text-muted">{a.designerName}</td>
-                    <td className="px-4 sm:px-5 py-3 text-dim hidden sm:table-cell">
-                      {a.style} · {a.industry}
-                    </td>
-                    <td className="px-2 py-3">
-                      <button
-                        type="button"
-                        onClick={() => onRemove(a.id)}
-                        className="inline-flex h-7 w-7 items-center justify-center rounded-md text-dim transition hover:bg-coral-bg hover:text-coral"
-                        aria-label={`Remove ${a.brandName}`}
-                      >
-                        <Trash2 size={13} strokeWidth={2.25} />
-                      </button>
-                    </td>
-                  </tr>
-                ))}
+                {sorted.map((a) => {
+                  const status = dueDateStatus(a.dueDate);
+                  return (
+                    <tr key={a.id} className="transition hover:bg-bg-hover">
+                      <td className="px-4 sm:px-5 py-3 whitespace-nowrap">
+                        <div className="flex items-center gap-2">
+                          <span
+                            className={`mono text-[13px] ${
+                              status === "overdue"
+                                ? "text-coral font-semibold"
+                                : status === "today"
+                                ? "text-amber font-semibold"
+                                : "text-ink"
+                            }`}
+                          >
+                            {formatDate(a.dueDate)}
+                          </span>
+                          {status === "overdue" && (
+                            <span className="rounded border border-coral/30 bg-coral-bg px-1.5 py-0.5 text-[9px] font-semibold uppercase tracking-label text-coral">
+                              Overdue
+                            </span>
+                          )}
+                          {status === "today" && (
+                            <span className="rounded border border-amber/30 bg-amber-bg px-1.5 py-0.5 text-[9px] font-semibold uppercase tracking-label text-amber">
+                              Today
+                            </span>
+                          )}
+                          {status === "soon" && (
+                            <span className="rounded border border-violet/20 bg-violet-bg px-1.5 py-0.5 text-[9px] font-semibold uppercase tracking-label text-violet-dim">
+                              Soon
+                            </span>
+                          )}
+                        </div>
+                      </td>
+                      <td className="px-4 sm:px-5 py-3 font-medium text-ink">{a.brandName}</td>
+                      <td className="px-4 sm:px-5 py-3 text-muted">{a.designerName}</td>
+                      <td className="px-4 sm:px-5 py-3 text-muted hidden md:table-cell">
+                        {a.assignerName || <span className="text-dim">—</span>}
+                      </td>
+                      <td className="px-4 sm:px-5 py-3 text-dim hidden sm:table-cell">
+                        {a.style} · {a.industry}
+                      </td>
+                      <td className="px-2 py-3">
+                        <button
+                          type="button"
+                          onClick={() => setConfirmRemove(a)}
+                          className="inline-flex h-7 w-7 items-center justify-center rounded-md text-dim transition hover:bg-coral-bg hover:text-coral"
+                          aria-label={`Remove ${a.brandName}`}
+                        >
+                          <Trash2 size={13} strokeWidth={2.25} />
+                        </button>
+                      </td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
           </div>
@@ -190,6 +252,21 @@ export default function SheetPage() {
           </p>
         )}
       </main>
+
+      {confirmRemove && (
+        <ConfirmDialog
+          title={`Remove ${confirmRemove.brandName}?`}
+          message="This removes the row from the sheet. The brief stays in the catalog."
+          confirmLabel="Remove"
+          destructive
+          onCancel={() => setConfirmRemove(null)}
+          onConfirm={() => {
+            const a = confirmRemove;
+            setConfirmRemove(null);
+            onRemove(a);
+          }}
+        />
+      )}
     </>
   );
 }

@@ -1,9 +1,21 @@
 "use client";
 
 import { useState, FormEvent, useEffect } from "react";
-import { Sparkles, RefreshCcw, ArrowRight, Loader2, AlertCircle, RotateCcw } from "lucide-react";
+import {
+  Sparkles,
+  RefreshCcw,
+  ArrowRight,
+  Loader2,
+  AlertCircle,
+  RotateCcw,
+  Layers,
+  Library,
+  Palette,
+  Users,
+} from "lucide-react";
 import BriefDisplay from "@/components/BriefDisplay";
 import Nav from "@/components/Nav";
+import StatCard from "@/components/StatCard";
 import { STYLES, type Brief, type Style } from "@/lib/generator";
 
 interface BriefResponse {
@@ -12,6 +24,13 @@ interface BriefResponse {
   confidence: "exact" | "alias" | "fuzzy";
   fuzzyDistance?: number;
   totalInCell: number;
+}
+
+interface Stats {
+  industries: number;
+  styles: number;
+  briefs: number;
+  designers: number;
 }
 
 const SEEN_STORAGE_PREFIX = "bbg.seen.";
@@ -59,10 +78,28 @@ export default function HomePage() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [notice, setNotice] = useState<string | null>(null);
+  const [stats, setStats] = useState<Stats | null>(null);
 
   useEffect(() => {
     setError(null);
   }, [industry, style]);
+
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      try {
+        const res = await fetch("/api/stats", { cache: "no-store" });
+        if (!res.ok) return;
+        const data = (await res.json()) as Stats;
+        if (!cancelled) setStats(data);
+      } catch {
+        /* ignore */
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   async function fetchBrief(industryArg: string, styleArg: Style, excludeIds: string[]) {
     const res = await fetch("/api/generate", {
@@ -132,9 +169,9 @@ export default function HomePage() {
     <>
       <Nav />
 
-      <main className="mx-auto max-w-6xl px-5 sm:px-8 py-10 sm:py-12">
-        {/* Section head */}
-        <div className="mb-6 flex items-center justify-between animate-fade-up">
+      <main className="mx-auto max-w-6xl px-5 sm:px-8 py-8 sm:py-10">
+        {/* Hero */}
+        <div className="mb-6 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 animate-fade-up">
           <div>
             <div className="text-[10px] font-semibold uppercase tracking-label text-dim mb-1.5 flex items-center gap-1.5">
               <Sparkles size={11} strokeWidth={2.5} />
@@ -144,9 +181,58 @@ export default function HomePage() {
               Generate a brand brief
             </h1>
             <p className="mt-1 text-sm text-muted">
-              Type an industry, pick a style. Pulls a full brief from the catalog.
+              Type an industry, pick a style. We pull a full brief from the catalog and hand it to a designer.
             </p>
           </div>
+          <div className="text-[10px] font-semibold uppercase tracking-label text-dim mono">
+            {stats ? (
+              <span>
+                <span className="text-mint">●</span> Live · {stats.briefs} briefs
+              </span>
+            ) : (
+              <span className="text-dim">● Connecting…</span>
+            )}
+          </div>
+        </div>
+
+        {/* KPI grid */}
+        <div className="mb-6 grid grid-cols-2 gap-3 md:grid-cols-4 animate-fade-up">
+          <StatCard
+            label="Industries"
+            value={stats ? stats.industries : "—"}
+            sub="ready to brief"
+            accent="violet"
+            icon={Layers}
+          />
+          <StatCard
+            label="Briefs in catalog"
+            value={stats ? stats.briefs : "—"}
+            sub="hand-written, ready to ship"
+            accent="mint"
+            icon={Library}
+          />
+          <StatCard
+            label="Styles"
+            value={stats ? stats.styles : "—"}
+            sub="Modern · Classic · Editorial"
+            accent="cyan"
+            icon={Palette}
+          />
+          <StatCard
+            label="Designers on roster"
+            value={stats ? stats.designers : "—"}
+            sub="ready to be assigned"
+            accent="amber"
+            icon={Users}
+          />
+        </div>
+
+        {/* Generator section head */}
+        <div className="mb-3 flex items-center justify-between">
+          <h2 className="text-[13px] font-semibold text-ink">
+            New brief <span className="font-normal text-dim">· pick an industry and a style</span>
+          </h2>
+          <span className="text-[10px] uppercase tracking-label text-dim">Step 1</span>
         </div>
 
         {/* Generator card */}
@@ -255,6 +341,15 @@ export default function HomePage() {
 
         {/* Brief output */}
         <section id="brief-output" className="mt-8">
+          {(response || loading) && (
+            <div className="mb-3 flex items-center justify-between">
+              <h2 className="text-[13px] font-semibold text-ink">
+                The brief <span className="font-normal text-dim">· ready to copy and ship</span>
+              </h2>
+              <span className="text-[10px] uppercase tracking-label text-dim">Step 2</span>
+            </div>
+          )}
+
           {notice && response && !loading && (
             <div className="mb-4 flex items-start gap-2 rounded-lg border border-amber/30 bg-amber-bg px-3.5 py-2.5 text-[13px] text-ink animate-fade-in">
               <AlertCircle size={14} strokeWidth={2.25} className="mt-0.5 shrink-0 text-amber" />
