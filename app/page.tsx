@@ -11,6 +11,7 @@ import {
   Layers,
   Library,
   Palette,
+  CheckCheck,
 } from "lucide-react";
 import BriefDisplay from "@/components/BriefDisplay";
 import Nav from "@/components/Nav";
@@ -30,6 +31,7 @@ interface Stats {
   styles: number;
   briefs: number;
   designers: number;
+  usedBriefs: number;
 }
 
 const SEEN_STORAGE_PREFIX = "bbg.seen.";
@@ -195,7 +197,7 @@ export default function HomePage() {
         </div>
 
         {/* KPI grid */}
-        <div className="mb-6 grid grid-cols-1 gap-3 sm:grid-cols-3 animate-fade-up">
+        <div className="mb-6 grid grid-cols-2 gap-3 md:grid-cols-4 animate-fade-up">
           <StatCard
             label="Industries"
             value={stats ? stats.industries : "—"}
@@ -213,9 +215,16 @@ export default function HomePage() {
           <StatCard
             label="Styles"
             value={stats ? stats.styles : "—"}
-            sub="Modern · Classic · Editorial"
+            sub="per brief"
             accent="cyan"
             icon={Palette}
+          />
+          <StatCard
+            label="Used briefs"
+            value={stats ? stats.usedBriefs : "—"}
+            sub="already on the sheet"
+            accent="amber"
+            icon={CheckCheck}
           />
         </div>
 
