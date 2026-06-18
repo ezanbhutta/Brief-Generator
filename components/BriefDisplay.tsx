@@ -5,6 +5,7 @@ import { Copy, Check, UserPlus, FileText } from "lucide-react";
 import type { Brief, Style, SectionKey } from "@/lib/generator";
 import { briefToPlainText, DEFAULT_SECTION_ORDER, DEFAULT_SECTION_TITLES } from "@/lib/generator";
 import AssignModal from "./AssignModal";
+import { useToast } from "./Toast";
 
 interface Props {
   brief: Brief;
@@ -35,6 +36,7 @@ function Section({ label, children }: { label: string; children: React.ReactNode
 }
 
 export default function BriefDisplay({ brief, industry, style }: Props) {
+  const toast = useToast();
   const [copied, setCopied] = useState(false);
   const [showAssign, setShowAssign] = useState(false);
   const [assignedTo, setAssignedTo] = useState<string | null>(null);
@@ -52,6 +54,7 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
       document.body.removeChild(ta);
     }
     setCopied(true);
+    toast.push("Full brief copied to clipboard.");
     setTimeout(() => setCopied(false), 1800);
   }
 
@@ -351,7 +354,10 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
           industry={industry}
           style={style}
           onClose={() => setShowAssign(false)}
-          onAssigned={(name) => setAssignedTo(name)}
+          onAssigned={(name) => {
+            setAssignedTo(name);
+            toast.push(`Assigned to ${name}.`);
+          }}
         />
       )}
     </>

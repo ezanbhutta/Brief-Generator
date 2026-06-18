@@ -1,6 +1,6 @@
 // Roster + assignments client. Talks to Next.js API routes backed by Supabase.
 
-export type RosterRole = "designer" | "assigner";
+export type RosterRole = "designer" | "assigner" | "csr";
 
 export interface Designer {
   id: string;

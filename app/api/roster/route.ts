@@ -8,8 +8,8 @@ function makeId(): string {
   return Math.random().toString(36).slice(2, 10) + Date.now().toString(36);
 }
 
-function isRole(s: unknown): s is "designer" | "assigner" {
-  return s === "designer" || s === "assigner";
+function isRole(s: unknown): s is "designer" | "assigner" | "csr" {
+  return s === "designer" || s === "assigner" || s === "csr";
 }
 
 export async function GET(req: Request) {
