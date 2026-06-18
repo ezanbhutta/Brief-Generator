@@ -17,10 +17,12 @@ create index if not exists briefs_cell_idx on public.briefs (industry_key, style
 create table if not exists public.designers (
   id         text primary key,
   name       text not null,
+  role       text not null default 'designer' check (role in ('designer', 'assigner')),
   created_at timestamptz not null default now()
 );
 
 create index if not exists designers_created_idx on public.designers (created_at);
+create index if not exists designers_role_idx on public.designers (role);
 
 -- ─── Assignments (the "sheet") ──────────────────────────────────────
 create table if not exists public.assignments (
@@ -30,6 +32,8 @@ create table if not exists public.assignments (
   style         text not null,
   designer_id   text references public.designers(id) on delete set null,
   designer_name text not null,
+  assigner_id   text,
+  assigner_name text,
   due_date      date,
   created_at    timestamptz not null default now()
 );
