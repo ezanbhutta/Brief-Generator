@@ -171,6 +171,66 @@
           "secondary": "A neutral grotesque for technical specifications and dimensions.",
           "rationale": "The serif speaks. The grotesque measures."
         }
+      },
+      {
+        "brandName": "VERGE Motors",
+        "tagline": "The edge of what driving means.",
+        "brandNameRationale": "Verge is the strip of land at the edge of a road — and the moment before a category change. Both meanings work for an EV brand at the literal edge of the road and the figurative edge of the industry.",
+        "industrySummary": "Modern EV brands post-2024 are competing on charging-network reach and software polish, not range. The opportunity is the road-trip-capable middle: 350-mile range, real superchargers, a UI worth living in.",
+        "competitorLandscape": "Lucid Motors (lucidmotors.com) holds the luxury-modern slot. Rivian (rivian.com) owns the adventure-modern position. Polestar (polestar.com) sets the Scandi-modern bar. We sit closest to Polestar in posture.",
+        "positioningStatement": "An EV designed for the drive, not the showroom.",
+        "targetAudience": {
+          "primary": "35 to 55. Two-car households trading down to one. Live in the suburbs of cities with charging networks. Drive 12,000 to 18,000 miles a year. Care about the UI more than the badge.",
+          "behaviors": [
+            "Test-drives at home, not at dealerships",
+            "Reads the firmware release notes",
+            "Will switch brands over a software regression"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Direct",
+          "Modern",
+          "Calm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote real road conditions",
+            "Speak about UI updates by version",
+            "Show the car at altitude or in rain"
+          ],
+          "donts": [
+            "Use the word 'luxury'",
+            "Photograph the badge on the grille",
+            "Run a Super Bowl ad"
+          ]
+        },
+        "logoDirection": "A wordmark with a leading edge. VERGE set in a tight modern grotesk, with the V's left stroke extended into a thin horizontal line suggesting a road edge. MOTORS set smaller beneath. The edge line alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Verge Black",
+            "hex": "#0F1014",
+            "meaning": "Wet asphalt at dawn.",
+            "usage": "Primary body color, wordmark"
+          },
+          {
+            "name": "Edge Yellow",
+            "hex": "#F5D547",
+            "meaning": "Road shoulder paint.",
+            "usage": "Single accent, the edge line"
+          },
+          {
+            "name": "Cabin Gray",
+            "hex": "#B8B8B5",
+            "meaning": "Interior wool.",
+            "usage": "Backgrounds, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne Breit for the wordmark",
+          "secondary": "Söhne Mono for trip data and stats",
+          "rationale": "Breit gives the wordmark physical stance. Mono carries the trip computer's voice."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +408,66 @@
           "secondary": "An engraver's italic for chassis numbers and commission identifiers.",
           "rationale": "Letterpress register throughout. The atelier communicates almost entirely in printed French and English."
         }
+      },
+      {
+        "brandName": "Stradale di Cremona",
+        "tagline": "Coachwork from the city that built violins.",
+        "brandNameRationale": "Cremona is the Italian city famed for Stradivari's workshops — three centuries of fine hand-built craft in a small town. Stradale (road) puts the violin-maker's discipline onto the road. The name carries its own provenance.",
+        "industrySummary": "Top-tier luxury automotive serves collectors and patrons rather than buyers. Each car is commissioned, often before the previous one is delivered. The factory shows up on its own page in lifestyle press.",
+        "competitorLandscape": "Pagani (pagani.com) is the Modenese hand-built peer. Singer (singervehicledesign.com) sets the modern coachbuild benchmark. Spyker (spyker.com) was the historic Dutch precedent. We sit closest to Pagani in posture, closer to Singer in client list.",
+        "positioningStatement": "Italian coachwork built one car at a time, by the people who design it.",
+        "targetAudience": {
+          "primary": "50 to 80. Collectors, principals, and family heads with garages of 6 to 30 cars. Commission new acquisitions every 18 to 24 months. Often visit the workshop during the build.",
+          "behaviors": [
+            "Visits the workshop during construction",
+            "Refers other buyers at private concours events",
+            "Owns multiple Pagani and Ferrari units"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Artisan",
+          "Discreet",
+          "Italian"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the makers",
+            "Speak in months, not weeks",
+            "Quote Italian terms where appropriate"
+          ],
+          "donts": [
+            "Photograph the car at speed",
+            "Mention top speed",
+            "Speak about market value"
+          ]
+        },
+        "logoDirection": "An ornate wordmark with a small crest. STRADALE DI CREMONA in a classical Italian serif, all caps. A small crest above shows a stylized scroll of a violin — the city's heritage. Used embossed on heavy paper for delivery documents.",
+        "colorPalette": [
+          {
+            "name": "Cremona Red",
+            "hex": "#7E1F1A",
+            "meaning": "Stradivari varnish.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Varnish Amber",
+            "hex": "#B5824B",
+            "meaning": "Aged wood finish.",
+            "usage": "Accent, foil"
+          },
+          {
+            "name": "Workshop Cream",
+            "hex": "#F1E9D2",
+            "meaning": "Workshop walls.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "Bodoni 72 for the wordmark",
+          "secondary": "Garamond Premier Pro for body and correspondence",
+          "rationale": "Bodoni for the Italian display tradition. Garamond keeps the body warm and readable."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +633,59 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "Same family for technical specifications.",
           "rationale": "One typeface across the vehicle UI, the website, and the bill of sale."
+        }
+      },
+      {
+        "brandName": "4S",
+        "tagline": "Four seats. Four wheels. That's it.",
+        "brandNameRationale": "Strip the car category to its irreducible spec. Four seats, four wheels. The name is a part number — not a story.",
+        "industrySummary": "Minimal car brands target the buyer fatigued by feature creep. The product is one car, in two colors, with no trim levels. Software updates ship in patch notes, not announcements.",
+        "competitorLandscape": "Smart (smart.com) was the historic minimal car. Cake (ridecake.com) holds the minimal motorbike slot in spirit. Polestar 2 (polestar.com) is the closest production peer. We sit closer to Cake's posture, closer to Polestar in execution.",
+        "positioningStatement": "One car, two colors, no trim levels.",
+        "targetAudience": {
+          "primary": "30 to 50. City-and-suburb commuters tired of choice. Own one bike, one watch, one laptop. Will replace, never accumulate. Buy direct, online.",
+          "behaviors": [
+            "Reads spec sheets before reading reviews",
+            "Will not visit a dealership",
+            "Buys in the same color twice"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Quiet",
+          "Disciplined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the spec",
+            "Show the car alone",
+            "End the page with the order button"
+          ],
+          "donts": [
+            "Show optional packages",
+            "Use lifestyle imagery",
+            "Publish brand films"
+          ]
+        },
+        "logoDirection": "A wordmark. 4S set in a numeric monospace, with the 4 and S sharing the same baseline at exactly equal weight. Used at two sizes only — on the car and in the order email.",
+        "colorPalette": [
+          {
+            "name": "Spec Black",
+            "hex": "#0A0A0C",
+            "meaning": "Default color.",
+            "usage": "Primary surface"
+          },
+          {
+            "name": "Spec White",
+            "hex": "#F4F4F2",
+            "meaning": "Optional color.",
+            "usage": "Alternate surface"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype Mono for the wordmark and all text",
+          "secondary": "ABC Diatype Mono for everything",
+          "rationale": "One face. Mono. The brand is the spec sheet."
         }
       }
     ],
@@ -710,6 +883,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and dealer-network documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Pacific Motor Partners",
+        "tagline": "Fleet, financing, and dealer infrastructure across the West.",
+        "brandNameRationale": "Pacific signals regional scope. Motor Partners is the plain trade-press word for an automotive holding company with dealership and finance lines.",
+        "industrySummary": "Corporate automotive holding companies operate dealer networks, finance lines, and fleet services across regional territories. The buyer is the institutional client (corporate fleets, government agencies, large dealer groups) and the deal cycle is years.",
+        "competitorLandscape": "AutoNation (autonation.com) is the institutional benchmark. Penske Automotive (penskeautomotive.com) holds the multi-region precedent. Lithia Motors (lithia.com) sets the Western dealer-group bar. We sit one tier below AutoNation with a sharper Pacific regional posture.",
+        "positioningStatement": "A West Coast automotive holding company spanning dealer, fleet, and finance.",
+        "targetAudience": {
+          "primary": "45 to 65. Corporate fleet directors, dealer-group principals, government procurement leads in California, Oregon, Washington, and Nevada. Manage automotive budgets above $20M annually.",
+          "behaviors": [
+            "Issues annual fleet RFPs",
+            "Reads Automotive News in print",
+            "Renews based on annual partnership reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Regional",
+          "Steady",
+          "Multi-line"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite regional dealer networks",
+            "Quote fleet uptime",
+            "Reference institutional partners"
+          ],
+          "donts": [
+            "Use consumer marketing language",
+            "Photograph individual cars",
+            "Speak about racing"
+          ]
+        },
+        "logoDirection": "A wordmark with a wave monogram. PACIFIC in a corporate serif, MOTOR PARTNERS set smaller beneath. The monogram is three short horizontal lines suggesting a Pacific wave, used on annual reports and lobby walls.",
+        "colorPalette": [
+          {
+            "name": "Pacific Navy",
+            "hex": "#0F2F47",
+            "meaning": "Open ocean.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Coast Gray",
+            "hex": "#7A8590",
+            "meaning": "Coastal fog.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Tide",
+            "hex": "#E8ECEF",
+            "meaning": "Foam line.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and proposals",
+          "rationale": "Sectra carries institutional weight. GT America keeps the longer-form trade communication efficient."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1129,72 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "A book serif for owner correspondence and the printed cabin manual.",
           "rationale": "Two related serifs. The brand reads like a small printed publication about driving."
+        }
+      },
+      {
+        "brandName": "Backseat Driver Motors",
+        "tagline": "We made it impossible to be mad at the navigation.",
+        "brandNameRationale": "Every household has the same fight over directions. The brand is named after the role and aims to make it obsolete.",
+        "industrySummary": "Creative automotive brands target families and friends who actually drive together, not just commute. The brand should feel like the funny uncle who bought the SUV, not the executive who optioned every package.",
+        "competitorLandscape": "MINI (mini.com) historically held the creative-car position. Fiat 500 (fiatusa.com) is the playful precedent. Kia Soul (kia.com) sets the friendly-affordable bar. We sit closer to Fiat in spirit.",
+        "positioningStatement": "A family car with a sense of humor.",
+        "targetAudience": {
+          "primary": "30 to 50. Parents and friend-group leaders in households of 3 to 5 people. Drive 8,000 to 15,000 miles a year, mostly with passengers. Care about how the kids feel in the back as much as how the car drives.",
+          "behaviors": [
+            "Names the family car",
+            "Will buy a car for the passenger experience",
+            "Posts the dashboard art the kids drew"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Funny",
+          "Family-aware",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the back seats",
+            "Quote the kids",
+            "Make the family the hero"
+          ],
+          "donts": [
+            "Photograph the car alone on a mountain road",
+            "Use performance vocabulary",
+            "Speak about handling"
+          ]
+        },
+        "logoDirection": "A wordmark with a stick-figure family. BACKSEAT DRIVER MOTORS set across three lines in a friendly grotesk. Above the wordmark, a small row of stick figures (two in front, two in back) suggests the car's actual purpose. The stick figures alone work as a sticker.",
+        "colorPalette": [
+          {
+            "name": "Field Trip Yellow",
+            "hex": "#FFC93C",
+            "meaning": "School bus. Crayon.",
+            "usage": "Accent, the stick figures, certain trims"
+          },
+          {
+            "name": "Dashboard Beige",
+            "hex": "#E8DFC9",
+            "meaning": "Old interior plastic.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Marker Black",
+            "hex": "#1A1A1A",
+            "meaning": "Crayon outline.",
+            "usage": "Wordmark, body, dark trims"
+          },
+          {
+            "name": "Sky Blue",
+            "hex": "#7CB2D9",
+            "meaning": "Clear sky out the windshield.",
+            "usage": "Secondary, certain trims"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT America for body and order pages",
+          "rationale": "Mori has warmth. GT America keeps the order page from feeling like a kids' menu."
         }
       }
     ]

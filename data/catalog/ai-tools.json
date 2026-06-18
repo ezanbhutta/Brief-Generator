@@ -172,6 +172,72 @@
           "secondary": "JetBrains Mono for code, benchmark tables, and latency figures.",
           "rationale": "The grotesque is the company. The mono is the engineering."
         }
+      },
+      {
+        "brandName": "CONTEXT",
+        "tagline": "Pass the right window.",
+        "brandNameRationale": "The defining bottleneck of every modern model is what fits in its context. Naming the brand after the technical constraint signals it's built by people who think in tokens, not metaphors.",
+        "industrySummary": "Modern AI tooling sits between thin wrapper apps and serious infrastructure. The opportunity is the middle tier — operators building production agents who need orchestration, eval, and observability in one place.",
+        "competitorLandscape": "LangSmith (smith.langchain.com) holds the dev-tools-for-LLMs slot. Braintrust (braintrust.dev) is the eval-platform peer we benchmark against. Helicone (helicone.ai) sits adjacent in observability. We sit closest to Braintrust, with a sharper agent-orchestration posture.",
+        "positioningStatement": "Context engineering tools for teams shipping agents to production.",
+        "targetAudience": {
+          "primary": "28 to 42. Staff engineers, ML platform leads, and founder-CTOs at AI-first companies of 20 to 200 people. Already in production. Have at least one incident under their belt from a context overflow.",
+          "behaviors": [
+            "Reads the latest model release notes the day they ship",
+            "Writes evals before features",
+            "Will switch tools over a missing OpenTelemetry export"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Technical",
+          "Modern",
+          "Pragmatic"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote token counts",
+            "Show real prompt diffs",
+            "Use the words 'eval' and 'trace' correctly"
+          ],
+          "donts": [
+            "Promise AGI",
+            "Use the word 'magical'",
+            "Photograph robot hands"
+          ]
+        },
+        "logoDirection": "A wordmark. CONTEXT set in a tight modern grotesk, with a single bracket pair { } framing the word on either side. The brackets alone are the favicon — the unwritten part of the prompt.",
+        "colorPalette": [
+          {
+            "name": "Prompt Black",
+            "hex": "#0A0A0F",
+            "meaning": "Terminal background.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Highlight Green",
+            "hex": "#22C55E",
+            "meaning": "Successful eval. Passing trace.",
+            "usage": "Accent, CTAs, status pass"
+          },
+          {
+            "name": "Token Gray",
+            "hex": "#8B8B95",
+            "meaning": "Unhighlighted tokens.",
+            "usage": "Body, dim states"
+          },
+          {
+            "name": "Surface",
+            "hex": "#F4F4F7",
+            "meaning": "Card background.",
+            "usage": "UI surfaces, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and UI",
+          "secondary": "JetBrains Mono for traces, prompts, and code blocks",
+          "rationale": "Inter for the chrome, JetBrains Mono for the substance. Same pairing every serious dev tool ships."
+        }
       }
     ],
     "Luxury": [
@@ -349,6 +415,66 @@
           "secondary": "An engraver's italic for the partnership name on the brass plate.",
           "rationale": "Letterpress and engraver's register only."
         }
+      },
+      {
+        "brandName": "Northcote Intelligence",
+        "tagline": "Considered counsel on artificial minds.",
+        "brandNameRationale": "Northcote is a real English surname with an academic and civil-service lineage. Intelligence carries both the institutional sense (think tank) and the technical one — read either way by the audience.",
+        "industrySummary": "Luxury AI advisory serves the board, the chair, and the founder making once-in-a-decade decisions about AI strategy. The deliverable is a slim deck and a long Sunday phone call.",
+        "competitorLandscape": "McKinsey QuantumBlack (mckinsey.com/quantumblack) is the institutional benchmark. Faculty (faculty.ai) holds the British AI advisory position. Element AI (element.ai) was the historic precedent. We sit between QuantumBlack and Faculty in posture.",
+        "positioningStatement": "AI counsel for boards and founders who already turned down the consulting firms.",
+        "targetAudience": {
+          "primary": "50 to 70. CEOs, chairs, board members of established companies above $500M revenue. Reading lists, not feeds. Want to make one AI decision a year and make it correctly. Pay for taste and discretion.",
+          "behaviors": [
+            "Will spend an afternoon with one advisor",
+            "Reads The Financial Times in print on Saturday",
+            "Refers business at private dinners, never by email"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Considered",
+          "Patient",
+          "Institutional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write in full sentences",
+            "Quote primary research",
+            "Speak in years, not quarters"
+          ],
+          "donts": [
+            "Use the word 'AGI'",
+            "Publish public client lists",
+            "Run a podcast"
+          ]
+        },
+        "logoDirection": "An institutional wordmark. NORTHCOTE INTELLIGENCE set in a sharp old-style serif, all caps, tracked. A small embossed shield monogram with the letters N and I sits centered above. Used on heavy stock correspondence.",
+        "colorPalette": [
+          {
+            "name": "Reading Room Green",
+            "hex": "#1F3B2C",
+            "meaning": "Library wallpaper.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Parchment",
+            "hex": "#F2EBDC",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Gold Leaf",
+            "hex": "#A8893E",
+            "meaning": "Stamped shield.",
+            "usage": "Monogram, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Doric for the wordmark",
+          "secondary": "Adobe Caslon Pro for body and correspondence",
+          "rationale": "Caslon across the system carries British editorial weight. One family, one voice."
+        }
       }
     ],
     "Minimal": [
@@ -514,6 +640,59 @@
           "primary": "JetBrains Mono for the wordmark, API output, and most marketing copy.",
           "secondary": "Inter for prose paragraphs and pricing.",
           "rationale": "Two faces. The mono signals 'this is the API'. The sans is the explanation."
+        }
+      },
+      {
+        "brandName": "model",
+        "tagline": "Just the model.",
+        "brandNameRationale": "Strip the category to its single noun. Lowercase signals the brand respects the developer's lowercase command-line aesthetic.",
+        "industrySummary": "Minimal AI tooling serves developers tired of LangChain abstractions. The product is a single thin SDK and a single docs page. Pricing is on the same line as the install command.",
+        "competitorLandscape": "Together AI (together.ai) is the closest infrastructure peer. Modal (modal.com) holds the minimal-runtime slot. Replicate (replicate.com) sets the docs-as-product bar. We sit closest to Modal in voice.",
+        "positioningStatement": "An AI library that respects your import statement.",
+        "targetAudience": {
+          "primary": "25 to 40. Backend engineers and ML researchers shipping production code. Use Neovim or Cursor. Have strong opinions about Python imports. Read CHANGELOG.md before installing.",
+          "behaviors": [
+            "Reads the docs before the marketing page",
+            "Will switch providers over a long import path",
+            "Pins versions and reads release notes"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Quiet",
+          "Developer-first"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show code first",
+            "Use lowercase",
+            "Quote benchmarks"
+          ],
+          "donts": [
+            "Use exclamation marks",
+            "Publish blog posts about culture",
+            "Hire a marketer"
+          ]
+        },
+        "logoDirection": "A wordmark. model set in a lowercase monospace, slightly weighted. The whole brand is the word. Favicon is a dot — the cursor blink.",
+        "colorPalette": [
+          {
+            "name": "Terminal Black",
+            "hex": "#0A0A0C",
+            "meaning": "Default terminal.",
+            "usage": "Wordmark, body, primary"
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF8",
+            "meaning": "Default page.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "JetBrains Mono for the wordmark and headlines",
+          "secondary": "JetBrains Mono for body, code, everything",
+          "rationale": "One face. Monospace. The brand is the import line."
         }
       }
     ],
@@ -711,6 +890,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and license tables.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Pinnacle AI Holdings",
+        "tagline": "A portfolio of artificial-intelligence operating companies.",
+        "brandNameRationale": "Pinnacle is the institutional word for the top of a category. Holdings positions the firm as a multi-line operator rather than a single-product company.",
+        "industrySummary": "Corporate AI holding companies emerged in 2025 as private equity consolidated mid-tier AI tooling startups. The buyer is the institutional enterprise customer with $10M+ AI software budgets.",
+        "competitorLandscape": "Palantir (palantir.com) is the obvious peer for enterprise AI posture. C3 AI (c3.ai) holds the enterprise-platform slot. Databricks (databricks.com) sets the data-and-AI institutional bar. We sit one tier below Palantir with a multi-product structure.",
+        "positioningStatement": "An enterprise AI holding company with multi-product institutional contracts.",
+        "targetAudience": {
+          "primary": "45 to 60. Chief AI Officers, VPs of Data, procurement leads at Fortune 1000. Manage AI software portfolios above $5M annually. Care about institutional references, compliance, and contract terms.",
+          "behaviors": [
+            "Issues annual RFPs across AI categories",
+            "Reviews vendor SOC 2 reports before evaluating product",
+            "Renews based on quarterly executive business reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-line",
+          "Steady",
+          "Compliance-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite institutional clients by tier",
+            "Quote contract terms",
+            "Reference compliance certifications"
+          ],
+          "donts": [
+            "Use research-paper vocabulary",
+            "Speak about AGI",
+            "Mention founders by name"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a peak monogram. PINNACLE in a sharp grotesk, AI HOLDINGS set smaller beneath in tracked-out caps. The monogram is a stylized peak shape used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Summit Navy",
+            "hex": "#0B2545",
+            "meaning": "Institutional posture.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Granite",
+            "hex": "#5A5A60",
+            "meaning": "Mountain stone.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Snow",
+            "hex": "#ECEEF1",
+            "meaning": "Peak.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and reports",
+          "secondary": "GT America Mono for KPIs and tables",
+          "rationale": "GT America is the institutional Swiss benchmark. Mono carries the metrics."
+        }
       }
     ],
     "Creative": [
@@ -897,6 +1136,72 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "JetBrains Mono for prompts, examples, and evaluation output.",
           "rationale": "The serif speaks. The mono is the prompt."
+        }
+      },
+      {
+        "brandName": "Hallucination Studio",
+        "tagline": "We made the model lie. On purpose.",
+        "brandNameRationale": "AI's most-feared failure mode becomes the studio's deliberate craft. The name owns the criticism and turns it into a positioning move for creative work.",
+        "industrySummary": "Creative AI tools serve writers, designers, and filmmakers using models as collaborators. The market is split between productivity overlays and weird-on-purpose art tools. We're firmly in the second camp.",
+        "competitorLandscape": "Runway (runway.ml) holds the creative AI video position. Pika (pika.art) is the playful peer. Krea (krea.ai) sets the real-time creative bar. We sit closer to Krea in tone, closer to Runway in craft.",
+        "positioningStatement": "AI tools for creative people who want the model to surprise them.",
+        "targetAudience": {
+          "primary": "25 to 40. Writers, illustrators, indie filmmakers, art directors. Use models daily but rarely tell their clients. Follow ten weird AI artists on Twitter. Pay for tools that feel like a friend.",
+          "behaviors": [
+            "Posts the weird outputs, not the perfect ones",
+            "Will pay for a tool that respects their work",
+            "Sends screenshots of bugs they like"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Funny",
+          "Curious",
+          "Slightly chaotic"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the failure mode",
+            "Show the weird outputs",
+            "Use first person"
+          ],
+          "donts": [
+            "Promise productivity gains",
+            "Use the word 'workflow'",
+            "Hide model versions"
+          ]
+        },
+        "logoDirection": "A wordmark with a glitched dot. HALLUCINATION STUDIO set in a warm sans across two lines. Above the H, a small dot that occasionally splits into three on hover — the glitch is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Bloom Pink",
+            "hex": "#F472B6",
+            "meaning": "Generative bloom. Mid-render.",
+            "usage": "Accent, the glitch dot, certain stickers"
+          },
+          {
+            "name": "Riot Yellow",
+            "hex": "#FACC15",
+            "meaning": "Loud and curious.",
+            "usage": "Secondary accent, CTAs"
+          },
+          {
+            "name": "Studio White",
+            "hex": "#FAFAF7",
+            "meaning": "Default canvas.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Body, wordmark on light surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "JetBrains Mono for prompts and seeds",
+          "rationale": "Mori for warmth. Mono so the prompt feels like the prompt."
         }
       }
     ]

@@ -171,6 +171,66 @@
           "secondary": "JetBrains Mono for firmware code and motion-control logs.",
           "rationale": "The grotesque is the system; the mono is the firmware."
         }
+      },
+      {
+        "brandName": "AXIS Robotics",
+        "tagline": "Linear motion. Real production.",
+        "brandNameRationale": "Axis is the foundational geometric term for motion. Direct, technical, and uncluttered — the brand promises the engineering, not the romance.",
+        "industrySummary": "Modern industrial robotics post-2024 sits between collaborative robots and full automation cells. The opportunity is mid-volume manufacturers (200 to 2000 employees) automating their first cell beyond simple pick-and-place.",
+        "competitorLandscape": "Universal Robots (universal-robots.com) holds the cobot benchmark. Symbotic (symbotic.com) is the warehouse automation peer. Bright Machines (brightmachines.com) sets the modern manufacturing-cell bar. We sit closest to Universal Robots in posture.",
+        "positioningStatement": "Linear-motion robotics for mid-volume manufacturers automating their first production cell.",
+        "targetAudience": {
+          "primary": "35 to 55. Plant managers, automation engineers, operations directors at manufacturers of 200 to 2000 employees. Have at least one existing automation cell and are scaling to four or more.",
+          "behaviors": [
+            "Reads quarterly uptime reports",
+            "Will tour facilities before signing",
+            "Cares deeply about service technician response time"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Direct",
+          "Modern",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote uptime percentage",
+            "Reference real plants",
+            "Show the cell in operation"
+          ],
+          "donts": [
+            "Promise general AI",
+            "Photograph robots in white voids",
+            "Use the word 'revolutionize'"
+          ]
+        },
+        "logoDirection": "A wordmark. AXIS set in a tight industrial grotesk with crosshair marks at the X — the geometric axis. ROBOTICS set smaller beneath. The crosshair alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Factory Black",
+            "hex": "#101013",
+            "meaning": "Polished concrete floor.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Caution Yellow",
+            "hex": "#F5D547",
+            "meaning": "Safety marking on the cell.",
+            "usage": "Accent, the crosshair"
+          },
+          {
+            "name": "Cell Gray",
+            "hex": "#B8B8B5",
+            "meaning": "Anodized aluminum.",
+            "usage": "Backgrounds, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne Breit for the wordmark",
+          "secondary": "Söhne Mono for engineering specs and uptime reports",
+          "rationale": "Breit for the wordmark's industrial stance. Mono for the actual data."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +408,66 @@
           "secondary": "An engraver's italic for the partnership name on the brass plate.",
           "rationale": "Letterpress and engraver's register only."
         }
+      },
+      {
+        "brandName": "Trento & Bianchi Robotica",
+        "tagline": "Industrial automation, finished by hand.",
+        "brandNameRationale": "Trento and Bianchi are real Italian surnames common in Lombardy and Piedmont — the heart of Italian precision engineering. The two-partner naming and Italian suffix signal heritage and hand finishing.",
+        "industrySummary": "Luxury industrial robotics serves family-owned European manufacturers (often centuries old) automating with the same care they apply to their products. The cell is engineered, but also finished — polished metalwork, hardwood interior trim, named technicians.",
+        "competitorLandscape": "Comau (comau.com) is the Italian institutional precedent. Stäubli (staubli.com) holds the Swiss precision benchmark. Reis Robotics (reisrobotics.com) is the German peer. We sit closest to Stäubli in posture, closer to Comau in heritage.",
+        "positioningStatement": "Italian industrial automation for European manufacturers who care who built the cell.",
+        "targetAudience": {
+          "primary": "50 to 70. Family principals and plant directors at European manufacturers, often multi-generational. Buy a cell once a decade. Care about the technician's name on the warranty card.",
+          "behaviors": [
+            "Visits the factory during commissioning",
+            "Names a service technician for life",
+            "Refers other buyers at industry institutes"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Italian",
+          "Artisan",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the makers",
+            "Use Italian terms where appropriate",
+            "Speak in decades"
+          ],
+          "donts": [
+            "Use modern startup vocabulary",
+            "Run a flash sale",
+            "Photograph the robot alone"
+          ]
+        },
+        "logoDirection": "A wordmark with a stylized gear. TRENTO & BIANCHI in a classical Italian serif, ROBOTICA set smaller beneath. A small precision gear sits centered above, with five teeth. Used embossed on heavy paper.",
+        "colorPalette": [
+          {
+            "name": "Officina Red",
+            "hex": "#7E1F1A",
+            "meaning": "Italian workshop trim.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Brass Gear",
+            "hex": "#A8893E",
+            "meaning": "Precision-machined brass.",
+            "usage": "Gear, accent, foil"
+          },
+          {
+            "name": "Workshop Cream",
+            "hex": "#F1E9D2",
+            "meaning": "Workshop wall.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "Bodoni 72 for the wordmark and headlines",
+          "secondary": "Adobe Garamond for body and commissioning documents",
+          "rationale": "Bodoni for the Italian display tradition. Garamond keeps the technical correspondence warm."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +633,59 @@
           "primary": "JetBrains Mono for the wordmark, motor labels, and documentation.",
           "secondary": "Same family for specifications and software references.",
           "rationale": "One typeface across the product, the labels, and the documentation."
+        }
+      },
+      {
+        "brandName": "END",
+        "tagline": "End effectors. Nothing else.",
+        "brandNameRationale": "End is the robotics-industry term for the working tool at the end of a robot arm. Three letters. The brand promises one product category and signals it in the name.",
+        "industrySummary": "Minimal robotics serves engineering teams who need specialized end effectors — grippers, suction cups, tool changers — without the bundled platform sales motion. Single SKU, listed price, ships in 48 hours.",
+        "competitorLandscape": "Robotiq (robotiq.com) holds the end-effector benchmark. OnRobot (onrobot.com) is the closest peer. SCHUNK (schunk.com) is the precision-industrial reference. We sit closer to Robotiq in voice, narrower in scope.",
+        "positioningStatement": "End effectors with one price, one CAD file, one shipping label.",
+        "targetAudience": {
+          "primary": "28 to 45. Automation engineers and integrators at small-to-mid plants. Spec components themselves, often with procurement bypass. Care about CAD downloads, real lead times, and consistent thread specs.",
+          "behaviors": [
+            "Downloads STEP files before reading marketing",
+            "Will switch suppliers over a 5-day vs 48-hour lead",
+            "Reads the data sheet before the demo"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Quiet",
+          "Technical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the price and the lead time",
+            "Link the STEP file",
+            "Quote payload and stroke"
+          ],
+          "donts": [
+            "Sell the platform",
+            "Show the robot arm alone",
+            "Run consultative sales"
+          ]
+        },
+        "logoDirection": "A wordmark. END set in a numeric monospace with three short vertical bars after the D — suggesting the gripper closing. The three bars alone are the favicon.",
+        "colorPalette": [
+          {
+            "name": "Anodized Black",
+            "hex": "#0F0F12",
+            "meaning": "Anodized aluminum surface.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Steel",
+            "hex": "#D4D4D6",
+            "meaning": "Machined steel.",
+            "usage": "Backgrounds, web body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype Mono for the wordmark and body",
+          "secondary": "ABC Diatype Mono for everything",
+          "rationale": "One face. Monospace. The brand is the spec sheet."
         }
       }
     ],
@@ -710,6 +883,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and engineering documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Drayton Robotics Holdings",
+        "tagline": "A portfolio of automation operating companies.",
+        "brandNameRationale": "Drayton is a real English place name with a long industrial register. Robotics Holdings signals a multi-line operator across automation categories — industrial, warehouse, agricultural.",
+        "industrySummary": "Corporate robotics holding companies operate multiple automation product lines across industrial, warehouse, and service categories. The buyer is large industrial OEMs, warehouse operators, and government infrastructure programs.",
+        "competitorLandscape": "ABB Robotics (abb.com/robotics) is the institutional peer. Yaskawa (yaskawa.com) holds the multi-line operator slot. KUKA (kuka.com) is the European industrial precedent. We sit one tier below ABB with a sharper holding-company structure.",
+        "positioningStatement": "A multi-line robotics holding company spanning industrial, warehouse, and service automation.",
+        "targetAudience": {
+          "primary": "45 to 65. Procurement directors at large industrial OEMs, warehouse operators, and government infrastructure agencies. Make multi-million dollar capital equipment decisions across multiple subsidiaries.",
+          "behaviors": [
+            "Issues multi-year capital RFPs",
+            "Coordinates across multiple operating subsidiaries",
+            "Renews based on quarterly fleet uptime reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-line",
+          "Steady",
+          "Engineering-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite subsidiary uptime",
+            "Quote multi-region delivery",
+            "Reference institutional clients by tier"
+          ],
+          "donts": [
+            "Use startup vocabulary",
+            "Show single robots",
+            "Mention founders"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a stacked monogram. DRAYTON in a sharp serif, ROBOTICS HOLDINGS set smaller beneath. The monogram is three short horizontal bars stacked, suggesting multi-line operations. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Industrial Navy",
+            "hex": "#0B2545",
+            "meaning": "Industrial paint.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Steel Gray",
+            "hex": "#5A5A60",
+            "meaning": "Mill steel.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Concrete",
+            "hex": "#D8D2C4",
+            "meaning": "Factory floor.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and reports",
+          "secondary": "GT America Mono for fleet IDs and uptime tables",
+          "rationale": "GT America is the institutional Swiss benchmark. Mono carries the metrics."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1129,72 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "A neutral grotesque for robot status labels and operator documentation.",
           "rationale": "Two faces. The serif speaks; the grotesque labels."
+        }
+      },
+      {
+        "brandName": "Beep Boop & Co",
+        "tagline": "Robots that wave back.",
+        "brandNameRationale": "The most universal verbal shorthand for a robot is also the title of this brand. The name signals: we don't take ourselves too seriously, and our robots have personality.",
+        "industrySummary": "Creative robotics serves the consumer side — small home robots, museum exhibits, school programs, robot art projects. The brand has to feel like a friend, not a vendor. Personality is the moat.",
+        "competitorLandscape": "Anki (web.archive.org/anki) was the precedent for warm consumer robotics. Misty Robotics (mistyrobotics.com) holds the friendly-bot slot. iRobot (irobot.com) is the consumer-utility peer. We sit closer to Misty in voice, sharper in design.",
+        "positioningStatement": "Small robots designed to be liked, not just useful.",
+        "targetAudience": {
+          "primary": "25 to 50. Robot enthusiasts, teachers, museum operators, and indie buyers who want a robot that has a face and a name. Spend $200 to $2000 on a single unit. Post the unboxing.",
+          "behaviors": [
+            "Names the robot the day it arrives",
+            "Posts videos when the robot does something unexpected",
+            "Recommends to other enthusiasts via DM"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Funny",
+          "Curious",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Give the robot a name",
+            "Show the robot doing nothing useful",
+            "Quote the user, not the spec"
+          ],
+          "donts": [
+            "Use industrial vocabulary",
+            "Photograph robots in white voids",
+            "Promise productivity"
+          ]
+        },
+        "logoDirection": "A wordmark with a small bot face. BEEP BOOP & CO set in a friendly grotesk across two lines. Above the wordmark, a small two-eye-and-mouth pictogram suggesting a robot face. The face alone is the sticker.",
+        "colorPalette": [
+          {
+            "name": "Bot Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Cartoon robot color.",
+            "usage": "Accent, the face, certain models"
+          },
+          {
+            "name": "Friendly Pink",
+            "hex": "#F472B6",
+            "meaning": "Personality robot color.",
+            "usage": "Secondary accent, certain models"
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Default page.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type. The eyes.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT America for body and product manuals",
+          "rationale": "Mori has warmth — important when your product is a robot. GT America keeps manuals readable."
         }
       }
     ]
