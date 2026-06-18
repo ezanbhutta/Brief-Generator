@@ -17,7 +17,7 @@ create index if not exists briefs_cell_idx on public.briefs (industry_key, style
 create table if not exists public.designers (
   id         text primary key,
   name       text not null,
-  role       text not null default 'designer' check (role in ('designer', 'assigner')),
+  role       text not null default 'designer' check (role in ('designer', 'assigner', 'csr')),
   created_at timestamptz not null default now()
 );
 
