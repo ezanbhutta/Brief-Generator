@@ -8,7 +8,7 @@ import AssignModal from "./AssignModal";
 import { useToast } from "./Toast";
 
 interface Props {
-  brief: Brief;
+  brief: Brief & { id: string };
   industry: string;
   style: Style;
 }
@@ -350,6 +350,7 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
 
       {showAssign && (
         <AssignModal
+          briefId={brief.id}
           brandName={brief.brandName}
           industry={industry}
           style={style}

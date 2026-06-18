@@ -34,12 +34,14 @@ create table if not exists public.assignments (
   designer_name text not null,
   assigner_id   text,
   assigner_name text,
+  brief_id      text,
   due_date      date,
   created_at    timestamptz not null default now()
 );
 
 create index if not exists assignments_due_idx on public.assignments (due_date);
 create index if not exists assignments_created_idx on public.assignments (created_at);
+create index if not exists assignments_brief_idx on public.assignments (brief_id);
 
 -- Row level security: only the service-role key (used server-side) writes.
 alter table public.briefs       enable row level security;
