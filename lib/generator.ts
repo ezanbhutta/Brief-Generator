@@ -190,7 +190,6 @@ export function briefToPlainText(b: Brief, industry: string, style: Style): stri
     lines.push("");
   }
 
-  pushIf(lines, "WHY THIS NAME", b.brandNameRationale);
   pushIf(lines, "BRAND STORY", b.story);
   pushIf(lines, "MANIFESTO", b.manifesto);
 
@@ -212,12 +211,6 @@ export function briefToPlainText(b: Brief, industry: string, style: Style): stri
     pushBullets(lines, "Motivations:", b.targetAudience.motivations);
   }
 
-  if (b.voiceAndTone) {
-    lines.push("VOICE & TONE");
-    pushBullets(lines, "Do:", b.voiceAndTone.dos, "✓");
-    pushBullets(lines, "Don't:", b.voiceAndTone.donts, "✗");
-  }
-
   if (b.messagingPillars && b.messagingPillars.length > 0) {
     lines.push("MESSAGING PILLARS");
     for (const p of b.messagingPillars) {
@@ -227,8 +220,6 @@ export function briefToPlainText(b: Brief, industry: string, style: Style): stri
     lines.push("");
   }
 
-  pushIf(lines, "LOGO DIRECTION", b.logoDirection);
-
   if (b.colorPalette && b.colorPalette.length > 0) {
     lines.push("COLOR PALETTE");
     for (const c of b.colorPalette) {
@@ -236,14 +227,6 @@ export function briefToPlainText(b: Brief, industry: string, style: Style): stri
       if (c.meaning) lines.push(`  Meaning: ${c.meaning}`);
       if (c.usage) lines.push(`  Usage: ${c.usage}`);
     }
-    lines.push("");
-  }
-
-  if (b.typography) {
-    lines.push("TYPOGRAPHY");
-    lines.push(`Primary: ${b.typography.primary}`);
-    if (b.typography.secondary) lines.push(`Secondary: ${b.typography.secondary}`);
-    if (b.typography.rationale) lines.push(`Rationale: ${b.typography.rationale}`);
     lines.push("");
   }
 
