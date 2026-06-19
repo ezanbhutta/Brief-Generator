@@ -171,6 +171,66 @@
           "secondary": "A book serif for the printed treatment notes and member letter.",
           "rationale": "Two related serifs. The brand reads like a careful day-spa publication."
         }
+      },
+      {
+        "brandName": "WATER",
+        "tagline": "Cold. Warm. Quiet.",
+        "brandNameRationale": "Spa's essential medium is water. One word, five letters. The brand names the substance the body is moving through.",
+        "industrySummary": "Modern urban spas have shifted from luxury-pampering to recovery-focused. The opportunity is the considered urban spa — cold plunge, sauna, contrast therapy — designed for the post-workout commuter rather than the destination vacationer.",
+        "competitorLandscape": "Othership (othership.us) holds the modern contrast-therapy slot. Bathhouse (bathhouse.nyc) is the urban-considered peer. Remedy Place (remedyplace.com) sets the social-spa bar. We sit between Bathhouse and Othership in posture.",
+        "positioningStatement": "A contrast-therapy spa for the post-workout commuter.",
+        "targetAudience": {
+          "primary": "28 to 45. Urban commuters, athletes, recovery-focused professionals. Visit 1 to 4 times a month. Care about water temperature, sauna time, and a 30-minute slot fitting around a workday.",
+          "behaviors": [
+            "Reads the cold-plunge temperature on the booking screen",
+            "Books between work and home",
+            "Will switch venues over a 5-minute wait"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Quiet",
+          "Modern",
+          "Recovery-focused"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State temperatures and durations",
+            "Show the room empty",
+            "Use the word 'protocol' correctly"
+          ],
+          "donts": [
+            "Use luxury vocabulary",
+            "Photograph hands holding tea",
+            "Run a meditation podcast"
+          ]
+        },
+        "logoDirection": "A wordmark. WATER set in a tight modern grotesk with a single horizontal wave line beneath. The wave alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Cold Blue",
+            "hex": "#0F3D5F",
+            "meaning": "Cold plunge water.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Steam White",
+            "hex": "#F4F4F2",
+            "meaning": "Sauna steam.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Wood Cedar",
+            "hex": "#A07050",
+            "meaning": "Sauna cedar.",
+            "usage": "Accent, sauna imagery"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for temperatures and timers",
+          "rationale": "Söhne reads modern. Mono carries the numerical protocols."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +408,66 @@
           "secondary": "An engraver's italic for member names on bath-house cards.",
           "rationale": "Letterpress register throughout. The bath house communicates in print and in person."
         }
+      },
+      {
+        "brandName": "The Carmona Baths",
+        "tagline": "A Roman bath, restored.",
+        "brandNameRationale": "Carmona is a real Andalusian town with restored Roman baths. The brand uses a real heritage anchor — not invention — to claim the bath-house tradition.",
+        "industrySummary": "Luxury baths serve principal members and destination travelers. The product is the bath house itself — restored or built to a heritage standard, with thermal pools, marble, and named attendants.",
+        "competitorLandscape": "Aire Ancient Baths (beaire.com) is the closest restored-bath peer. The Spa at the Connaught (the-connaught.co.uk) holds the urban luxury slot. Aman Spa (aman.com) sets the destination luxury bar. We sit closest to Aire in posture.",
+        "positioningStatement": "A heritage bath house for principal members and destination guests.",
+        "targetAudience": {
+          "primary": "45 to 70. Principal members, destination travelers, hotel guests at luxury properties. Spend $400 to $800 per visit. Care about the architecture, the attendant's training, and the heritage of the tradition.",
+          "behaviors": [
+            "Books months ahead",
+            "Refers other members at private events",
+            "Pays via the household manager or family office"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Discreet",
+          "Considered",
+          "Architectural"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the architectural tradition",
+            "Name the bath master",
+            "Speak in full paragraphs"
+          ],
+          "donts": [
+            "Photograph guests",
+            "Run public marketing",
+            "Use 'wellness' vocabulary"
+          ]
+        },
+        "logoDirection": "An institutional wordmark. THE CARMONA BATHS set in a classical Roman-feel serif, all caps, tracked. A small embossed bath-house elevation mark sits above. Used on heavy paper for membership documents.",
+        "colorPalette": [
+          {
+            "name": "Travertine",
+            "hex": "#D8C8A8",
+            "meaning": "Roman travertine marble.",
+            "usage": "Primary surface"
+          },
+          {
+            "name": "Pool Deep",
+            "hex": "#1F3B47",
+            "meaning": "Deep thermal water.",
+            "usage": "Wordmark, deep type"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A8893E",
+            "meaning": "Bath house hardware.",
+            "usage": "Mark, foil, accents"
+          }
+        ],
+        "typography": {
+          "primary": "Trajan Pro for the wordmark and headlines",
+          "secondary": "Caslon for body and membership correspondence",
+          "rationale": "Trajan carries the Roman architectural tradition. Caslon keeps the body warm."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +633,65 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "Same family for the booking confirmation.",
           "rationale": "One typeface across the signage, the booking page, and the receipt."
+        }
+      },
+      {
+        "brandName": "WARM",
+        "tagline": "Forty minutes. One temperature.",
+        "brandNameRationale": "Strip the spa to its core sensation. Warm. Four letters. The brand names the only thing the body is asking for.",
+        "industrySummary": "Minimal spa serves urban operators who want one sensory experience — heat — delivered cleanly and quickly. The product is a 40-minute sauna or hammam visit at a fixed price. One service, no add-ons.",
+        "competitorLandscape": "Bath haus (bathhaus.com) holds the minimal-sauna slot. Higher Dose (higherdose.com) is the modern infrared peer. Sauna House (saunahouse.com) is the simple-service precedent. We sit closest to Bath haus in posture.",
+        "positioningStatement": "Sauna service at one price, one duration, one temperature.",
+        "targetAudience": {
+          "primary": "25 to 45. Urban commuters, athletes. Visit 1 to 3 times a week. Hate decision-making at booking. Want to walk in, sweat, leave.",
+          "behaviors": [
+            "Books the same time slot every week",
+            "Will leave a venue over a complicated menu",
+            "Pays for simplicity"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Disciplined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the duration and price",
+            "Show the room",
+            "End the booking with confirm"
+          ],
+          "donts": [
+            "Offer add-ons",
+            "Use wellness vocabulary",
+            "Run promotions"
+          ]
+        },
+        "logoDirection": "A wordmark. WARM set in a humanist sans, four letters. The whole brand is the word. Used in two sizes only.",
+        "colorPalette": [
+          {
+            "name": "Cedar",
+            "hex": "#A07050",
+            "meaning": "Sauna wall.",
+            "usage": "Accent, certain surfaces"
+          },
+          {
+            "name": "Steam",
+            "hex": "#F4F1EA",
+            "meaning": "Sauna steam.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for times and temperatures",
+          "rationale": "One family. Mono for the numbers that matter."
         }
       }
     ],
@@ -710,6 +889,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and partnership documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Western Spa Partners",
+        "tagline": "A regional spa and wellness operating group.",
+        "brandNameRationale": "Western anchors the firm regionally. Spa Partners is the corporate-trade word for a holding company across multiple spa brands and locations.",
+        "industrySummary": "Corporate spa holding companies operate multiple resort, urban, and medical spa brands across regional territories. The buyer is institutional capital, large hospitality groups, and corporate wellness program leads.",
+        "competitorLandscape": "Massage Envy (massageenvy.com) is the multi-unit operator peer. Hand & Stone (handandstone.com) holds the franchise-spa slot. Burke Williams (burkewilliams.com) is the regional luxury precedent. We sit one tier above Massage Envy with a multi-tier operating portfolio.",
+        "positioningStatement": "A Western US spa and wellness operating group across resort, urban, and medical spa brands.",
+        "targetAudience": {
+          "primary": "45 to 65. Hospitality group operators, regional spa brand CEOs, institutional capital principals. Manage spa portfolios above $50M revenue. Care about brand portfolio, occupancy, and supplier consolidation.",
+          "behaviors": [
+            "Reviews quarterly occupancy and revenue per available room",
+            "Attends ISPA conferences",
+            "Coordinates supplier agreements across portfolio brands"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Steady",
+          "Hospitality-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite portfolio brands",
+            "Quote occupancy figures",
+            "Reference institutional partners"
+          ],
+          "donts": [
+            "Use consumer wellness vocabulary",
+            "Photograph individual spa rooms",
+            "Mention founders"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a peak monogram. WESTERN in a sharp serif, SPA PARTNERS set smaller beneath. The monogram is a stylized western mountain peak, used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Mountain Navy",
+            "hex": "#0B2545",
+            "meaning": "Mountain shadow.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Sage",
+            "hex": "#7C8D75",
+            "meaning": "Western sage.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Sand",
+            "hex": "#E0D8C4",
+            "meaning": "Desert sand.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and trade communications",
+          "rationale": "Sectra carries institutional weight. GT America keeps trade communications clear."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1135,72 @@
           "primary": "A quiet display serif for the wordmark and the annual cultural programming.",
           "secondary": "A book serif for practitioner profiles and treatment notes.",
           "rationale": "Two related serifs. The brand reads like a small heritage publication on healing traditions."
+        }
+      },
+      {
+        "brandName": "The Towel Warmer Co",
+        "tagline": "Small kindnesses. Big spa.",
+        "brandNameRationale": "Most spa brands lead with the grand gesture. This one names the smallest, most universal kindness — the warm towel — and uses it as the brand's spiritual signature.",
+        "industrySummary": "Creative spa serves urban operators tired of corporate-wellness vocabulary. The brand is warm, personal, and slightly funny. The product is care, expressed in dozens of small details rather than one grand experience.",
+        "competitorLandscape": "Heyday (heydayskincare.com) holds the friendly urban-spa slot. Glossier You (glossier.com) is the warm-tone reference. Maude (getmaude.com) is the modern personal-care voice precedent. We sit closer to Heyday in posture.",
+        "positioningStatement": "Spa care expressed in small kindnesses, not grand experiences.",
+        "targetAudience": {
+          "primary": "25 to 45. Urban commuters, friends booking together, locals who want a regular spot. Visit 1 to 3 times a month. Care about the front desk's mood as much as the treatment.",
+          "behaviors": [
+            "Names the regular front-desk attendant",
+            "Brings friends",
+            "Posts the warm towel, not the treatment"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Honest",
+          "Considered",
+          "Slightly funny"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the staff",
+            "Show the small details",
+            "Use first person"
+          ],
+          "donts": [
+            "Use wellness vocabulary",
+            "Photograph candles in close-up",
+            "Run promotions"
+          ]
+        },
+        "logoDirection": "A wordmark with a folded-towel mark. THE TOWEL WARMER CO set in a warm sans across two lines. Above the wordmark, a small folded-towel rectangle. The towel mark alone is the favicon and sticker.",
+        "colorPalette": [
+          {
+            "name": "Towel Pink",
+            "hex": "#F4B6B0",
+            "meaning": "Soft cotton towel.",
+            "usage": "Accent, the towel mark"
+          },
+          {
+            "name": "Steam Cream",
+            "hex": "#FAF6EC",
+            "meaning": "Steam light.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Mint",
+            "hex": "#A8C8B0",
+            "meaning": "Eucalyptus tea.",
+            "usage": "Secondary accent"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for the treatment menu",
+          "rationale": "Mori has warmth. Sectra makes the treatment menu feel like a small magazine."
         }
       }
     ]

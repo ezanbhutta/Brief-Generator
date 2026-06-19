@@ -171,6 +171,66 @@
           "secondary": "A book serif for seasonal notes and producer features.",
           "rationale": "Two related serifs. The brand reads like a careful neighbourhood grocer's seasonal letter."
         }
+      },
+      {
+        "brandName": "STOCK & SHELF",
+        "tagline": "What you keep on hand.",
+        "brandNameRationale": "Stock is the pantry word. Shelf is where it lives. Together: the household supply, named without dressing it up.",
+        "industrySummary": "Modern grocery online has split between Amazon's logistics and Whole Foods' premium. The opportunity is the considered middle: a curated weekly box of dry goods, dairy, and produce from named farms, priced to be a household line item.",
+        "competitorLandscape": "Misfits Market (misfitsmarket.com) holds the curated-grocery slot. Imperfect Foods (imperfectfoods.com) is the produce precedent. The Rounds (therounds.co) is the modern reusable-package peer. We sit closest to The Rounds in posture.",
+        "positioningStatement": "A weekly grocery box for households who actually stock their pantry.",
+        "targetAudience": {
+          "primary": "30 to 50. Households of 2 to 5. One cook in the household. Plan meals weekly. Care where the produce comes from but won't drive across town for it. Want delivery, not the trip.",
+          "behaviors": [
+            "Reads the supplier name on each item",
+            "Will skip a week to reset the pantry",
+            "Keeps a permanent recurring order with seasonal adds"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Direct",
+          "Modern",
+          "Household-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the farm",
+            "Show the box",
+            "Quote real seasonal availability"
+          ],
+          "donts": [
+            "Use the word 'curated'",
+            "Photograph perfect produce",
+            "Run flash sales"
+          ]
+        },
+        "logoDirection": "A wordmark with a shelf line. STOCK & SHELF set across two lines in a tight grotesk. A single horizontal line beneath the wordmark suggests a pantry shelf. The shelf line alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Pantry Black",
+            "hex": "#101013",
+            "meaning": "Type. Shelf edge.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Shelf Cream",
+            "hex": "#F4EBD5",
+            "meaning": "Paper-wrapped goods.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Mason Green",
+            "hex": "#5C7C5E",
+            "meaning": "Glass jar of preserves.",
+            "usage": "Accent, certain product lines"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "GT Sectra for ingredient lists and farm names",
+          "rationale": "Söhne reads modern. Sectra carries the longer-form farm and supplier stories."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +408,66 @@
           "secondary": "An engraver's italic for customer names in the printed journal.",
           "rationale": "Letterpress register throughout. The market communicates in print and in person."
         }
+      },
+      {
+        "brandName": "The Albemarle Pantry",
+        "tagline": "A standing order for the great house.",
+        "brandNameRationale": "Albemarle is a real British place name with a long aristocratic association. Pantry is the household word. Together: a grocer serving the household as an institution, not a shopper.",
+        "industrySummary": "Luxury grocery serves households with full-time cooks, country estates, and a standing weekly order. The product is sourcing, quality, and discreet delivery to back-of-house — not the shopping experience.",
+        "competitorLandscape": "Fortnum & Mason (fortnumandmason.com) is the institutional benchmark. Daylesford Organic (daylesford.com) holds the country-estate-grocer slot. Hedonism Wines (hedonism.co.uk) sets the discreet supplier bar. We sit closest to Daylesford in posture.",
+        "positioningStatement": "A standing grocery order for households that keep cooks.",
+        "targetAudience": {
+          "primary": "50 to 75. Family principals, household managers, head chefs at country houses. Manage grocery budgets above $100K annually. Care about supplier provenance, delivery discretion, and the household manager's relationship with the buyer.",
+          "behaviors": [
+            "Holds a standing weekly order managed by the household manager",
+            "Refers other estates at private events",
+            "Pays via the family office"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Discreet",
+          "Patient",
+          "Institutional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the supplier farms",
+            "Speak to the household manager",
+            "Use heritage-correct vocabulary"
+          ],
+          "donts": [
+            "Photograph the shopper",
+            "Use seasonal marketing campaigns",
+            "Speak about price"
+          ]
+        },
+        "logoDirection": "An institutional wordmark. THE ALBEMARLE PANTRY in a classical British serif, all caps, tracked. A small embossed crest monogram with the letters A P sits centered above. Used on the delivery manifest.",
+        "colorPalette": [
+          {
+            "name": "Pantry Green",
+            "hex": "#1F3B2C",
+            "meaning": "Pantry wallpaper.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Linen",
+            "hex": "#F2EBDC",
+            "meaning": "Cloth-lined hamper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A8893E",
+            "meaning": "Pantry hardware.",
+            "usage": "Monogram, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark",
+          "secondary": "Adobe Caslon for body and order manifests",
+          "rationale": "Caslon family carries British household tradition across the system."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +633,59 @@
           "primary": "One neutral grotesque, regular only.",
           "secondary": "No second face.",
           "rationale": "One typeface across the labels, the website, and the receipt."
+        }
+      },
+      {
+        "brandName": "BAG",
+        "tagline": "One bag, every week.",
+        "brandNameRationale": "Strip grocery to the unit of purchase: the bag. One word, three letters. The brand promises one bag per week, nothing more.",
+        "industrySummary": "Minimal grocery serves operators tired of choice paralysis at the checkout. The product is a single weekly bag — same contents, same price, same day. The customer subscribes once and the bag shows up.",
+        "competitorLandscape": "Imperfect Foods (imperfectfoods.com) is the closest curated-box precedent. Misfits Market (misfitsmarket.com) holds the simple-subscription slot. Hungryroot (hungryroot.com) is the algorithm-led peer. We sit closer to Imperfect in posture, narrower in scope.",
+        "positioningStatement": "One grocery bag, one price, every week.",
+        "targetAudience": {
+          "primary": "25 to 45. One-person and two-person households. Cook three to five nights a week. Hate decision fatigue. Want the bag to show up, full, on Wednesday.",
+          "behaviors": [
+            "Subscribes once, never tweaks",
+            "Cooks from whatever's in the bag",
+            "Will replace, never accumulate"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Disciplined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the bag",
+            "State the price and day",
+            "End the screen with subscribe"
+          ],
+          "donts": [
+            "Recommend recipes",
+            "Run flash sales",
+            "Add product categories"
+          ]
+        },
+        "logoDirection": "A wordmark. BAG set in a humanist sans, three letters, slightly weighted. The whole brand is the word. Used at two sizes only — on the bag and the invoice.",
+        "colorPalette": [
+          {
+            "name": "Paper Bag",
+            "hex": "#E8DEC2",
+            "meaning": "Default grocery bag.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#0A0A0C",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for prices and dates",
+          "rationale": "One family. Mono for the dollar amount and the delivery day."
         }
       }
     ],
@@ -710,6 +883,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and supply-chain documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Continental Grocery Holdings",
+        "tagline": "A portfolio of regional grocery operating companies.",
+        "brandNameRationale": "Continental signals multi-region scope. Grocery Holdings positions the firm as an operator across multiple regional chains rather than a single brand.",
+        "industrySummary": "Corporate grocery is increasingly a roll-up game — private equity buying regional chains and consolidating distribution. The buyer is institutional capital, large suppliers, and the regional chain CEOs themselves.",
+        "competitorLandscape": "Albertsons (albertsons.com) is the institutional peer. Ahold Delhaize (aholddelhaize.com) holds the multi-brand precedent. Cerberus Grocery investments set the PE-backed bar. We sit one tier below Albertsons with a sharper regional structure.",
+        "positioningStatement": "A multi-regional grocery operating group with independent chain brands.",
+        "targetAudience": {
+          "primary": "45 to 65. Regional chain CEOs, supplier sales VPs, PE investment principals. Manage grocery portfolios above $1B revenue. Care about supplier terms, regional brand equity, and rollup execution.",
+          "behaviors": [
+            "Reads quarterly comparable-store-sales reports",
+            "Attends FMI trade conferences",
+            "Negotiates supplier agreements at the holding level"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Steady",
+          "Distribution-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite regional chains",
+            "Quote supplier scale",
+            "Reference distribution footprint"
+          ],
+          "donts": [
+            "Use consumer vocabulary",
+            "Photograph stores",
+            "Mention founders"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a stacked monogram. CONTINENTAL in a corporate serif, GROCERY HOLDINGS set smaller beneath. The monogram is three stacked horizontal bars, suggesting multiple operating brands. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Continental Navy",
+            "hex": "#0F2F47",
+            "meaning": "Institutional posture.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Aisle Gray",
+            "hex": "#7A8590",
+            "meaning": "Store fixtures.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Shelf White",
+            "hex": "#E8ECEF",
+            "meaning": "Shelf edge.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and supplier communications",
+          "rationale": "Sectra carries institutional weight. GT America keeps supplier communications efficient."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1129,72 @@
           "primary": "A quiet display serif for the wordmark and headings.",
           "secondary": "A book serif for recipes printed on the box and quarterly essays.",
           "rationale": "Two related serifs. The brand reads like a small printed home-cooking publication."
+        }
+      },
+      {
+        "brandName": "The Shopping List Co",
+        "tagline": "Grocery delivery for the actual list.",
+        "brandNameRationale": "Most grocery brands try to replace your shopping list with their algorithm. This one centers the list itself — the human document of what the household actually needs.",
+        "industrySummary": "Creative grocery serves households who write a list, want the list filled, and don't want to be sold anything extra. The brand is warm, honest, and slightly funny — a friend with a car going to the store.",
+        "competitorLandscape": "Instacart (instacart.com) holds the shopper-platform slot but feels corporate. Good Eggs (goodeggs.com) is the considered-grocery peer. Farmgirl Flowers (farmgirlflowers.com) sets the warm-DTC voice bar. We sit closer to Good Eggs in spirit.",
+        "positioningStatement": "Grocery delivery that brings exactly what's on your list.",
+        "targetAudience": {
+          "primary": "28 to 50. Households who write a list before going to the store. Tip well. Send thank-you notes via the app. Care about the relationship with the shopper.",
+          "behaviors": [
+            "Texts the shopper about substitutions",
+            "Tips above standard",
+            "Refers the shopper by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Honest",
+          "Considered",
+          "Slightly funny"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the shopper",
+            "Show the actual list",
+            "Use first person"
+          ],
+          "donts": [
+            "Run upsell prompts",
+            "Photograph the perfect cart",
+            "Use 'algorithm' vocabulary"
+          ]
+        },
+        "logoDirection": "A wordmark with a handwritten list mark. THE SHOPPING LIST CO set in a warm sans across two lines. Above the wordmark, three short horizontal lines suggesting a handwritten list. The lines alone are the favicon.",
+        "colorPalette": [
+          {
+            "name": "List Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Legal-pad yellow.",
+            "usage": "Accent, the list lines, certain stickers"
+          },
+          {
+            "name": "Notebook Cream",
+            "hex": "#FAF6EC",
+            "meaning": "Page background.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Pencil Gray",
+            "hex": "#6B7280",
+            "meaning": "Handwritten pencil.",
+            "usage": "Secondary, body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT America for body and order pages",
+          "rationale": "Mori carries warmth. GT America keeps order pages efficient."
         }
       }
     ]

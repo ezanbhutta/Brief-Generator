@@ -171,6 +171,66 @@
           "secondary": "A book serif for the customer and partner letters.",
           "rationale": "The grotesque is the operations. The serif is the relationship."
         }
+      },
+      {
+        "brandName": "NEXT MEAL",
+        "tagline": "Whatever you're eating next.",
+        "brandNameRationale": "The simplest possible name for the only question the customer is actually answering. Two words, the most universal user need, no metaphor.",
+        "industrySummary": "Modern food delivery post-2024 has consolidated around two-sided marketplaces. The opportunity is vertical specialization — a delivery service that owns a clear category (weeknight family dinner, post-workout, late office) instead of trying to ship everything.",
+        "competitorLandscape": "DoorDash (doordash.com) is the obvious platform peer. Wonder (wonder.com) holds the vertically integrated multi-restaurant slot. CookUnity (cookunity.com) is the prepared-meals precedent. We sit between DoorDash's reach and Wonder's vertical integration.",
+        "positioningStatement": "A vertical food delivery service for the weeknight dinner the household actually eats.",
+        "targetAudience": {
+          "primary": "30 to 45. Households of 2 to 5. Two working parents or roommates who eat together. Order delivery 2 to 4 nights a week. Care about repeat-order reliability more than novelty.",
+          "behaviors": [
+            "Reorders the same meal every other Tuesday",
+            "Will switch services over a wrong order",
+            "Cares more about packaging temperature than presentation"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Reliable",
+          "Modern",
+          "Household-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show real meals",
+            "Quote delivery windows in minutes",
+            "Speak to the household"
+          ],
+          "donts": [
+            "Use 'foodie' vocabulary",
+            "Photograph empty tables at golden hour",
+            "Promote a 'culinary journey'"
+          ]
+        },
+        "logoDirection": "A wordmark. NEXT MEAL set across two lines in a tight modern grotesk, with a small clock-tick mark below — the countdown to the next meal. The clock mark alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Meal Black",
+            "hex": "#101013",
+            "meaning": "Type. The plate edge.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Plate White",
+            "hex": "#FAFAF7",
+            "meaning": "The plate.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Hot Orange",
+            "hex": "#F2843C",
+            "meaning": "Out-for-delivery status.",
+            "usage": "Accent, status, the clock tick"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and UI",
+          "secondary": "Söhne Mono for delivery windows and order numbers",
+          "rationale": "Söhne reads modern. Mono carries the numerical delivery state."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +408,66 @@
           "secondary": "An engraver's italic for member names on personalised menus.",
           "rationale": "Letterpress register throughout. The service communicates in print and in person."
         }
+      },
+      {
+        "brandName": "Maison Courier",
+        "tagline": "Private delivery for private kitchens.",
+        "brandNameRationale": "Maison signals private household. Courier names the actual job rather than dressing it up. Together: a delivery service for households that already have a chef.",
+        "industrySummary": "Luxury food courier serves families with private chefs, in-home dining, and the occasional white-glove dinner. The deliverable is timing, discretion, and named personnel — not the food itself.",
+        "competitorLandscape": "Goldbelly (goldbelly.com) is the prestige specialty-shipping precedent. Daniel Boulud's private dining (danielboulud.com) sets the in-home luxury bar. The Wynward Table (existing peer) holds the adjacent slot. We sit between Goldbelly and Daniel in posture.",
+        "positioningStatement": "A discreet food courier for households with private chefs.",
+        "targetAudience": {
+          "primary": "50 to 75. Family principals, household managers, private chef coordinators. Manage household food budgets above $250K annually. Care about the courier's name, the time stamp, and the discretion.",
+          "behaviors": [
+            "Coordinates deliveries through the household manager",
+            "Keeps a regular courier on file",
+            "Refers other households at private events"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Considered",
+          "Patient",
+          "Service-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the courier on the manifest",
+            "Use the household's preferred timing",
+            "Write in full sentences"
+          ],
+          "donts": [
+            "Run public marketing",
+            "List client households",
+            "Photograph the food"
+          ]
+        },
+        "logoDirection": "A wordmark with a wax seal. MAISON COURIER set in a classical French serif, all caps, tracked. A small wax seal monogram with the letters M C sits centered above. Used on the delivery manifest and the household record.",
+        "colorPalette": [
+          {
+            "name": "Couriers Burgundy",
+            "hex": "#5C1A1B",
+            "meaning": "Wax seal.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Parchment",
+            "hex": "#F2EBDC",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Gold Leaf",
+            "hex": "#A8893E",
+            "meaning": "Seal accent.",
+            "usage": "Monogram, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Doric for the wordmark",
+          "secondary": "Adobe Caslon for body and manifests",
+          "rationale": "Caslon family carries the discreet household voice across the whole system."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +633,59 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "Same family for the daily menu listings.",
           "rationale": "One typeface across the packaging, the website, and the menu posts."
+        }
+      },
+      {
+        "brandName": "PASS",
+        "tagline": "Hand it over.",
+        "brandNameRationale": "Pass is the most universal verb for handing food to someone — at the table, at the door, at the window. One word, four letters, the entire transaction.",
+        "industrySummary": "Minimal food delivery serves operators tired of feature creep — no ratings, no upsells, no recommendation feed. Order the thing. Get the thing. Pay.",
+        "competitorLandscape": "Cooper (coopersmenu.com) and similar single-purpose order apps set the minimal precedent. The Slowdown (theslowdown.com) holds the minimal-tone reference. We sit closest to single-purpose ordering apps in posture.",
+        "positioningStatement": "Food delivery that ends with the food, not a survey.",
+        "targetAudience": {
+          "primary": "25 to 45. Single-occupant households, freelancers, late workers. Order delivery 3 to 6 nights a week. Hate scrolling, recommendations, and rating prompts.",
+          "behaviors": [
+            "Has a default order they reorder by tapping once",
+            "Will leave a service over a rating popup",
+            "Reads the receipt, not the marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Disciplined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the order",
+            "State the delivery window",
+            "End the screen with the confirm button"
+          ],
+          "donts": [
+            "Recommend dishes",
+            "Ask for ratings",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark. PASS set in a humanist sans, four letters, slightly weighted. The whole brand is the word. Used in two sizes only.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF8",
+            "meaning": "Default page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#0A0A0C",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for receipts and times",
+          "rationale": "One family. The brand carries no second voice."
         }
       }
     ],
@@ -710,6 +883,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and logistics documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Atlantic Logistics Group",
+        "tagline": "Multi-region food logistics across the Eastern seaboard.",
+        "brandNameRationale": "Atlantic anchors the firm regionally. Logistics Group is the corporate-trade word for a multi-line operator across cold chain, last-mile, and B2B distribution.",
+        "industrySummary": "Corporate food logistics serves restaurant chains, retail grocery, and institutional food service. The buyer is the SVP of supply chain, the procurement office, and large catering institutions. Contracts are multi-year and cover multiple subsidiary lines.",
+        "competitorLandscape": "Sysco (sysco.com) is the institutional peer. US Foods (usfoods.com) holds the multi-regional precedent. Performance Food Group (pfgc.com) is the institutional benchmark. We sit one tier below Sysco with a sharper Eastern regional posture.",
+        "positioningStatement": "An Eastern seaboard food logistics group spanning cold chain, last-mile, and institutional food service.",
+        "targetAudience": {
+          "primary": "45 to 60. SVPs of supply chain, food service procurement leads, regional restaurant operations directors. Manage food logistics budgets above $50M annually. Care about uptime, SLA, and multi-region delivery.",
+          "behaviors": [
+            "Issues annual RFPs",
+            "Reads industry trade press weekly",
+            "Renews based on quarterly logistics scorecards"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-region",
+          "Steady",
+          "Regulated"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote SLA terms",
+            "Cite multi-region delivery",
+            "Reference institutional clients by tier"
+          ],
+          "donts": [
+            "Use consumer food vocabulary",
+            "Photograph individual meals",
+            "Mention founders by name"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a wave monogram. ATLANTIC in a sharp serif, LOGISTICS GROUP set smaller beneath. The monogram is three short horizontal lines, suggesting an Atlantic wave, used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Atlantic Navy",
+            "hex": "#0F2F47",
+            "meaning": "Open ocean.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Coast Gray",
+            "hex": "#7A8590",
+            "meaning": "Coastal fog.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Tide",
+            "hex": "#E8ECEF",
+            "meaning": "Foam line.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and proposals",
+          "rationale": "Sectra carries institutional weight. GT America keeps proposals readable."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1129,72 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "A neutral grotesque for the night menu and partner-restaurant listings.",
           "rationale": "Two faces. The serif tells the story of the night; the grotesque carries the menu."
+        }
+      },
+      {
+        "brandName": "Knock Twice",
+        "tagline": "We'll knock twice, then leave it.",
+        "brandNameRationale": "Names the actual delivery moment — a small, kind protocol the courier uses so the customer knows it's there. The name signals: this brand thinks about the doorstep.",
+        "industrySummary": "Creative food delivery serves households who want delivery that feels human — couriers with names, notes on the bag, the occasional small kindness. The product is service personality more than software.",
+        "competitorLandscape": "Caviar (originally) held the considered-delivery slot. Goldbelly (goldbelly.com) is the gift-style precedent. The Twelve Plate Co (existing peer) holds the adjacent slot. We sit closest to original Caviar in spirit.",
+        "positioningStatement": "Food delivery that feels like a neighbor brought it.",
+        "targetAudience": {
+          "primary": "28 to 50. Households who tip well, leave notes for the courier, and remember the regular driver's name. Order delivery 2 to 4 times a week. Care about the unboxing as much as the meal.",
+          "behaviors": [
+            "Leaves a thank-you on the bag",
+            "Tips above standard",
+            "Refers friends with the driver's name attached"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Honest",
+          "Considered",
+          "Slightly funny"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the courier",
+            "Quote real notes left at the door",
+            "Use first person"
+          ],
+          "donts": [
+            "Run efficiency-themed marketing",
+            "Photograph meals on white voids",
+            "Use the word 'optimize'"
+          ]
+        },
+        "logoDirection": "A wordmark with two small knock marks. KNOCK TWICE set in a friendly grotesk. Two short hollow circle marks above the K suggest the courier's knock on the door. The two circles alone are the favicon and sticker.",
+        "colorPalette": [
+          {
+            "name": "Door Yellow",
+            "hex": "#FFC93C",
+            "meaning": "Porch light.",
+            "usage": "Accent, the knock marks"
+          },
+          {
+            "name": "Wood Brown",
+            "hex": "#8B5E34",
+            "meaning": "Front door.",
+            "usage": "Secondary, packaging"
+          },
+          {
+            "name": "Cream",
+            "hex": "#FAF6EC",
+            "meaning": "Doormat.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT America for body and order pages",
+          "rationale": "Mori for warmth. GT America keeps the order pages efficient."
         }
       }
     ]

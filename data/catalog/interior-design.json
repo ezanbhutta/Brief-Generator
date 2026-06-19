@@ -171,6 +171,66 @@
           "secondary": "A book serif for the printed portfolio body.",
           "rationale": "Two related serifs. The brand reads like a careful architecture publication."
         }
+      },
+      {
+        "brandName": "ROOM",
+        "tagline": "Designed for the room you actually live in.",
+        "brandNameRationale": "Strip the category to its unit of work: a single room. One word, four letters. The brand names what the customer is actually buying.",
+        "industrySummary": "Modern interior design online has been dominated by mood-board startups. The opportunity is the project-based middle: real designers, one room at a time, fixed price, no trade discount obfuscation.",
+        "competitorLandscape": "Havenly (havenly.com) holds the online-design platform slot. Modsy (modsy.com) was the historic precedent. Decorist (decorist.com) is the closer peer. We sit closest to Havenly in posture, with sharper room-scope.",
+        "positioningStatement": "Real designers, one room at a time, fixed price.",
+        "targetAudience": {
+          "primary": "30 to 50. First or second home owners. Renovate one room a year. Have a clear budget per room ($5K to $50K). Want a designer who shows up, gets it done, and doesn't disappear.",
+          "behaviors": [
+            "Saves Pinterest boards by room",
+            "Researches the designer's prior projects before hiring",
+            "Will refer the designer to friends if the room landed"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Direct",
+          "Modern",
+          "Project-focused"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show before-and-after",
+            "Name the designer",
+            "Quote the fixed price"
+          ],
+          "donts": [
+            "Use the word 'curated'",
+            "Photograph empty rooms with one chair",
+            "Promise transformation"
+          ]
+        },
+        "logoDirection": "A wordmark. ROOM set in a tight modern grotesk with a small rectangular outline framing the word — the room itself. The outline alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Wall White",
+            "hex": "#F4F1EA",
+            "meaning": "Limewash interior wall.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Trim Black",
+            "hex": "#1A1A1A",
+            "meaning": "Door trim. Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A37E3B",
+            "meaning": "Hardware accent.",
+            "usage": "Accent, frames"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "GT Sectra for project briefs and product specs",
+          "rationale": "Söhne reads modern. Sectra carries the longer-form room-by-room project briefs."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +408,66 @@
           "secondary": "An engraver's italic for the principal's signature on commissions.",
           "rationale": "Letterpress register. The atelier communicates almost entirely in printed Italian and English."
         }
+      },
+      {
+        "brandName": "Davenport & Howell",
+        "tagline": "Country house interiors. Considered.",
+        "brandNameRationale": "Davenport and Howell are real British surnames with long associations to furniture and interior design. The two-partner naming convention signals senior-led practice with London and country house clients.",
+        "industrySummary": "Luxury interior design serves country house principals, family principals, and very specific London clients. Each project is two to five years. The deliverable is the room, the staircase, the joinery, and the named makers behind every piece.",
+        "competitorLandscape": "Studio Indigo (studioindigo.co.uk) holds the institutional-London slot. Rose Uniacke (roseuniacke.com) is the considered-modern peer. Robert Kime (robertkime.com) is the country-house precedent. We sit between Uniacke and Kime in posture.",
+        "positioningStatement": "Country house and considered London interiors, designed and made over years, not months.",
+        "targetAudience": {
+          "primary": "55 to 75. Family principals, estate trustees, country house owners. Projects of $1M to $10M per house. Manage timelines in years, not months. Care about the makers, the joinery, and the antique provenance.",
+          "behaviors": [
+            "Visits the workshop with the designer",
+            "Refers other principals at country house events",
+            "Pays through the family office"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Discreet",
+          "Patient",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the makers",
+            "Quote the antique provenance",
+            "Speak in years"
+          ],
+          "donts": [
+            "Photograph completed projects on social",
+            "List clients publicly",
+            "Use modern trend vocabulary"
+          ]
+        },
+        "logoDirection": "An institutional wordmark. DAVENPORT & HOWELL set in a sharp British serif, all caps, tracked. A small ampersand monogram with bracket serifs sits centered above. Used embossed on heavy paper for project SOWs.",
+        "colorPalette": [
+          {
+            "name": "Library Green",
+            "hex": "#1F3B2C",
+            "meaning": "Country library wallpaper.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Linen",
+            "hex": "#F1E8D5",
+            "meaning": "Loose-cover linen.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Iron",
+            "hex": "#3A3A40",
+            "meaning": "Wrought-iron hardware.",
+            "usage": "Body, dark surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Adobe Caslon for body and project correspondence",
+          "rationale": "Caslon family across the system carries British country-house tradition."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +633,59 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "Same family for technical specifications.",
           "rationale": "One typeface across the website, the templates, and the engagement letter."
+        }
+      },
+      {
+        "brandName": "WALL",
+        "tagline": "Start with the wall.",
+        "brandNameRationale": "Strip interior design to its most basic surface: the wall. One word, four letters. The brand promises to do one thing — wall finishes — and nothing else.",
+        "industrySummary": "Minimal interior design serves operators who want a single specialty done correctly. The product is wall finishes: paint, plaster, wood paneling, considered tile. One specialty, transparently priced.",
+        "competitorLandscape": "Farrow & Ball (farrow-ball.com) is the considered-paint reference. Bauwerk Colour (bauwerkcolour.com) holds the limewash slot. Portola Paints (portolapaints.com) is the modern lime peer. We sit closer to Bauwerk in posture.",
+        "positioningStatement": "Wall finishes done by one team, transparently priced.",
+        "targetAudience": {
+          "primary": "30 to 50. Homeowners renovating one room at a time. Have specific opinions about paint and plaster. Will pay 2x for limewash over standard paint. Care about the finisher's name.",
+          "behaviors": [
+            "Reads paint pigment composition",
+            "Will choose limewash over premium paint",
+            "Refers the finisher by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Specialty-focused"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the finisher",
+            "Show the wall",
+            "Quote square-foot price"
+          ],
+          "donts": [
+            "Show full rooms",
+            "Use design-blog vocabulary",
+            "Sell furniture"
+          ]
+        },
+        "logoDirection": "A wordmark. WALL set in a humanist sans, four letters, slightly weighted. The whole brand is the word. Used in two sizes only.",
+        "colorPalette": [
+          {
+            "name": "Limewash White",
+            "hex": "#F4F1EA",
+            "meaning": "Default wall.",
+            "usage": "Backgrounds, primary"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for measurements and prices",
+          "rationale": "One family. Mono for the actual numerical work."
         }
       }
     ],
@@ -710,6 +883,66 @@
           "secondary": "A clean enterprise grotesque for project documentation and operational tables.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Atlas Interiors Group",
+        "tagline": "Multi-region commercial interior services.",
+        "brandNameRationale": "Atlas signals global scope and load-bearing structure. Interiors Group positions the firm as a multi-line operator across commercial, hospitality, and corporate interior services.",
+        "industrySummary": "Corporate interior design services operate at commercial scale — office build-outs, hospital interiors, hotel chains. The buyer is the SVP of real estate, the hospitality operator, and large healthcare systems. Contracts span years and multiple properties.",
+        "competitorLandscape": "Gensler (gensler.com) is the institutional peer. HOK (hok.com) holds the multi-region precedent. Perkins+Will (perkinswill.com) sets the institutional bar. We sit one tier below Gensler with a sharper interior-only focus.",
+        "positioningStatement": "A multi-region interior design group for commercial, hospitality, and healthcare clients.",
+        "targetAudience": {
+          "primary": "45 to 60. SVPs of corporate real estate, hospitality operators, healthcare system facility leads. Manage interior services budgets above $20M annually. Care about delivery schedule, code compliance, and multi-property consistency.",
+          "behaviors": [
+            "Issues multi-property RFPs",
+            "Reviews vendor delivery records by region",
+            "Renews based on annual program reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-region",
+          "Steady",
+          "Code-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite project tiers",
+            "Quote delivery schedules",
+            "Reference institutional clients"
+          ],
+          "donts": [
+            "Use design-blog vocabulary",
+            "Photograph residential spaces",
+            "Mention individual designers"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a globe monogram. ATLAS in a sharp serif, INTERIORS GROUP set smaller beneath. The monogram is a stylized hemisphere, used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Atlas Navy",
+            "hex": "#0B2545",
+            "meaning": "Architectural drawing ink.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Drafting Gray",
+            "hex": "#5A5A60",
+            "meaning": "Concrete and steel.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#EDEAE3",
+            "meaning": "Architectural vellum.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and project documentation",
+          "rationale": "Sectra carries institutional weight. GT America keeps technical documentation clear."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1129,72 @@
           "primary": "A quiet display serif for the wordmark and the annual zine.",
           "secondary": "A book serif for the practice's project narratives.",
           "rationale": "Two related serifs. The brand reads like a small printed publication on domestic life."
+        }
+      },
+      {
+        "brandName": "The Throw Pillow Co",
+        "tagline": "Interior design that starts with one thing.",
+        "brandNameRationale": "Most interior design brands position the whole room. This one names the smallest, most common starting purchase — the throw pillow — and uses it as the entry point to bigger work.",
+        "industrySummary": "Creative interior design targets renters, first-home owners, and decorators who want personality, not perfection. The brand starts with small purchases — pillows, throws, art prints — and grows into full rooms over time.",
+        "competitorLandscape": "Schoolhouse (schoolhouse.com) holds the considered-warm slot. Coming Soon (comingsoonnewyork.com) is the playful-design store reference. Goodee (goodeeworld.com) is the modern-ethical peer. We sit closer to Coming Soon in voice.",
+        "positioningStatement": "Interior design that begins with a pillow.",
+        "targetAudience": {
+          "primary": "25 to 40. Renters, first-home owners, decorators. Buy three to five pieces a year. Care about the maker's story. Post the new pillow before the new sofa.",
+          "behaviors": [
+            "Buys the pillow before the chair",
+            "Names individual pieces",
+            "Posts each new addition individually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Curious",
+          "Honest",
+          "Slightly funny"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the maker",
+            "Show the piece alone",
+            "Use first person"
+          ],
+          "donts": [
+            "Photograph perfectly staged rooms",
+            "Use the word 'curated'",
+            "Run flash sales"
+          ]
+        },
+        "logoDirection": "A wordmark with a small tassel mark. THE THROW PILLOW CO set in a warm sans across two lines. A small tassel mark above the T suggests the pillow detail. The tassel alone is a sticker.",
+        "colorPalette": [
+          {
+            "name": "Pillow Pink",
+            "hex": "#F4B6B0",
+            "meaning": "Faded pink linen pillow.",
+            "usage": "Accent, certain pieces, tassels"
+          },
+          {
+            "name": "Wheat",
+            "hex": "#E8DFC9",
+            "meaning": "Natural linen.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Mint",
+            "hex": "#A8C8B0",
+            "meaning": "Faded mint pillow.",
+            "usage": "Secondary accent, certain pieces"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for product descriptions",
+          "rationale": "Mori carries warmth. Sectra makes the product copy feel like a small magazine."
         }
       }
     ]
