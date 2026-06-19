@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Copy, Check, UserPlus, FileText } from "lucide-react";
 import type { Brief, Style } from "@/lib/generator";
 import { briefToPlainText } from "@/lib/generator";
@@ -10,9 +10,31 @@ import {
   CardsFormat,
   EditorialFormat,
   ParagraphFormat,
-  pickFormat,
   FORMAT_LABELS,
+  type FormatId,
 } from "./BriefFormats";
+
+const LAST_FORMAT_KEY = "bbg.lastFormat";
+const ALL_FORMATS: FormatId[] = ["paragraph", "cards", "editorial"];
+
+function pickFreshFormat(): FormatId {
+  if (typeof window === "undefined") return "paragraph";
+  let last: FormatId | null = null;
+  try {
+    const raw = window.localStorage.getItem(LAST_FORMAT_KEY);
+    if (raw && ALL_FORMATS.includes(raw as FormatId)) last = raw as FormatId;
+  } catch {
+    /* ignore */
+  }
+  const candidates = last ? ALL_FORMATS.filter((f) => f !== last) : ALL_FORMATS;
+  const next = candidates[Math.floor(Math.random() * candidates.length)];
+  try {
+    window.localStorage.setItem(LAST_FORMAT_KEY, next);
+  } catch {
+    /* ignore */
+  }
+  return next;
+}
 
 interface Props {
   brief: Brief & { id: string };
@@ -30,7 +52,16 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
   const [showAssign, setShowAssign] = useState(false);
   const [assignedTo, setAssignedTo] = useState<string | null>(null);
 
-  const format = pickFormat(brief.id);
+  const [format, setFormat] = useState<FormatId>(() => pickFreshFormat());
+  const didMount = useRef(false);
+  useEffect(() => {
+    // Skip the first run — useState already picked. Re-pick on every new brief.id.
+    if (!didMount.current) {
+      didMount.current = true;
+      return;
+    }
+    setFormat(pickFreshFormat());
+  }, [brief.id]);
 
   async function copyAll() {
     const text = briefToPlainText(brief, industry, style);
