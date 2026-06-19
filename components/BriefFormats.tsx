@@ -1,47 +1,133 @@
 "use client";
 
 import type { Brief, SectionKey } from "@/lib/generator";
-import { DEFAULT_SECTION_ORDER, DEFAULT_SECTION_TITLES } from "@/lib/generator";
+import { DEFAULT_SECTION_TITLES } from "@/lib/generator";
 
 export type FormatId = "paragraph" | "cards" | "editorial";
 
-export const FORMAT_LABELS: Record<FormatId, string> = {
-  paragraph: "Paragraph",
-  cards: "Cards",
-  editorial: "Editorial",
-};
+// ── Templates ────────────────────────────────────────────────────────────
+// A template combines a visual format with a specific section order and a
+// section subset. Picking a template gives the brief a different shape —
+// different ordering, different size, different visual treatment.
 
-// Stable-per-brief format selection. Same brief always renders the same way;
-// different briefs spread across the available formats.
-export function pickFormat(briefId: string): FormatId {
-  let h = 0;
-  for (let i = 0; i < briefId.length; i++) h = (h * 31 + briefId.charCodeAt(i)) >>> 0;
-  const formats: FormatId[] = ["paragraph", "cards", "editorial"];
-  return formats[h % formats.length];
+export type TemplateId =
+  | "designerBrief"
+  | "founderMemo"
+  | "quickReference"
+  | "strategyDeck"
+  | "brandStory"
+  | "fullBrief";
+
+export interface Template {
+  id: TemplateId;
+  label: string;
+  format: FormatId;
+  sections: SectionKey[];
+}
+
+// Sections we never render anywhere — copy excludes them too.
+const SUPPRESSED: SectionKey[] = [
+  "brandNameRationale",
+  "voiceAndTone",
+  "logoDirection",
+  "typography",
+];
+
+export const TEMPLATES: Template[] = [
+  {
+    id: "designerBrief",
+    label: "Designer Brief",
+    format: "cards",
+    sections: [
+      "brandDescription",
+      "scope",
+      "positioning",
+      "targetAudience",
+      "colorPalette",
+      "visualIdentityIdeas",
+      "messagingPillars",
+      "mission",
+    ],
+  },
+  {
+    id: "founderMemo",
+    label: "Founder Memo",
+    format: "editorial",
+    sections: [
+      "positioning",
+      "industrySummary",
+      "competitorLandscape",
+      "targetAudience",
+      "mission",
+      "vision",
+    ],
+  },
+  {
+    id: "quickReference",
+    label: "Quick Reference",
+    format: "paragraph",
+    sections: ["brandDescription", "positioning", "targetAudience", "personality"],
+  },
+  {
+    id: "strategyDeck",
+    label: "Strategy Deck",
+    format: "cards",
+    sections: [
+      "industrySummary",
+      "competitorLandscape",
+      "positioning",
+      "targetAudience",
+      "messagingPillars",
+      "personality",
+    ],
+  },
+  {
+    id: "brandStory",
+    label: "Brand Story",
+    format: "editorial",
+    sections: ["manifesto", "story", "mission", "vision", "positioning", "coreValues"],
+  },
+  {
+    id: "fullBrief",
+    label: "Full Brief",
+    format: "paragraph",
+    sections: [
+      "brandDescription",
+      "scope",
+      "mission",
+      "vision",
+      "coreValues",
+      "personality",
+      "story",
+      "manifesto",
+      "industrySummary",
+      "competitorLandscape",
+      "positioning",
+      "targetAudience",
+      "messagingPillars",
+      "colorPalette",
+      "visualIdentityIdeas",
+    ],
+  },
+];
+
+export function getTemplate(id: TemplateId): Template | undefined {
+  return TEMPLATES.find((t) => t.id === id);
 }
 
 function hasText(s?: string | null): s is string {
   return typeof s === "string" && s.trim().length > 0;
 }
 
-interface BriefSectionData {
-  ordered: SectionKey[];
-  custom: { title: string; body: string }[];
-}
-
-export function getBriefSections(brief: Brief): BriefSectionData {
+// Filter a template's section list down to ones the brief actually has data
+// for. Suppressed sections are always dropped.
+export function resolveSections(brief: Brief, template: Template): SectionKey[] {
   const audience = brief.targetAudience;
   const hasAudience =
     audience &&
     (hasText(audience.primary) ||
       (audience.behaviors && audience.behaviors.length > 0) ||
       (audience.motivations && audience.motivations.length > 0));
-  const voice = brief.voiceAndTone;
-  const hasVoice =
-    voice && ((voice.dos && voice.dos.length > 0) || (voice.donts && voice.donts.length > 0));
-  const typo = brief.typography;
-  const hasTypo =
-    typo && (hasText(typo.primary) || hasText(typo.secondary) || hasText(typo.rationale));
   const sectionHasData: Record<SectionKey, boolean> = {
     brandDescription: hasText(brief.brandDescription),
     scope: hasText(brief.scope),
@@ -56,39 +142,24 @@ export function getBriefSections(brief: Brief): BriefSectionData {
     competitorLandscape: hasText(brief.competitorLandscape),
     positioning: hasText(brief.positioningStatement) || hasText(brief.positioningRationale),
     targetAudience: !!hasAudience,
-    voiceAndTone: !!hasVoice,
+    voiceAndTone: false,
     messagingPillars: (brief.messagingPillars ?? []).length > 0,
-    logoDirection: hasText(brief.logoDirection),
+    logoDirection: false,
     colorPalette: (brief.colorPalette ?? []).length > 0,
-    typography: !!hasTypo,
+    typography: false,
     visualIdentityIdeas: (brief.visualIdentityIdeas ?? []).length > 0,
   };
-  // Sections that don't render anywhere in the UI — copy excludes them too.
-  const SUPPRESSED: SectionKey[] = ["brandNameRationale", "voiceAndTone", "logoDirection", "typography"];
-  return {
-    ordered: DEFAULT_SECTION_ORDER.filter((k) => sectionHasData[k] && !SUPPRESSED.includes(k)),
-    custom: brief.customSections ?? [],
-  };
+  return template.sections.filter((k) => sectionHasData[k] && !SUPPRESSED.includes(k));
 }
 
-// ── Shared section content renderer (used by every format) ─────────────────
-// Returns the raw inner content for a section. Each format wraps this
-// content in its own visual container.
-
-interface InnerProps {
-  brief: Brief;
-}
-
-function SectionInner({ keyName, brief }: { keyName: SectionKey } & InnerProps): React.ReactNode {
+// ── Shared section content renderer ──────────────────────────────────────
+function SectionInner({ keyName, brief }: { keyName: SectionKey; brief: Brief }): React.ReactNode {
   const palette = brief.colorPalette ?? [];
   const traits = brief.brandPersonalityTraits ?? [];
   const values = brief.coreValues ?? [];
   const pillars = brief.messagingPillars ?? [];
   const visuals = brief.visualIdentityIdeas ?? [];
   const audience = brief.targetAudience;
-  const voice = brief.voiceAndTone;
-  const typo = brief.typography;
-
   switch (keyName) {
     case "brandDescription":
       return <p>{brief.brandDescription}</p>;
@@ -108,8 +179,6 @@ function SectionInner({ keyName, brief }: { keyName: SectionKey } & InnerProps):
       );
     case "personality":
       return <p>{traits.join(", ")}.</p>;
-    case "brandNameRationale":
-      return <p>{brief.brandNameRationale}</p>;
     case "story":
       return <p className="whitespace-pre-line">{brief.story}</p>;
     case "manifesto":
@@ -148,24 +217,6 @@ function SectionInner({ keyName, brief }: { keyName: SectionKey } & InnerProps):
           )}
         </>
       );
-    case "voiceAndTone":
-      if (!voice) return null;
-      return (
-        <>
-          {voice.dos && voice.dos.length > 0 && (
-            <p>
-              <span className="font-medium text-mint">Do. </span>
-              {voice.dos.join(" ")}
-            </p>
-          )}
-          {voice.donts && voice.donts.length > 0 && (
-            <p className="mt-1.5">
-              <span className="font-medium text-coral">Don&apos;t. </span>
-              {voice.donts.join(" ")}
-            </p>
-          )}
-        </>
-      );
     case "messagingPillars":
       return (
         <div className="space-y-2">
@@ -177,8 +228,6 @@ function SectionInner({ keyName, brief }: { keyName: SectionKey } & InnerProps):
           ))}
         </div>
       );
-    case "logoDirection":
-      return <p className="whitespace-pre-line">{brief.logoDirection}</p>;
     case "colorPalette":
       return (
         <ul className="space-y-1.5">
@@ -199,30 +248,6 @@ function SectionInner({ keyName, brief }: { keyName: SectionKey } & InnerProps):
           ))}
         </ul>
       );
-    case "typography":
-      if (!typo) return null;
-      return (
-        <>
-          {hasText(typo.primary) && (
-            <p>
-              <span className="font-medium text-ink">Primary. </span>
-              {typo.primary}
-            </p>
-          )}
-          {hasText(typo.secondary) && (
-            <p className="mt-1">
-              <span className="font-medium text-ink">Secondary. </span>
-              {typo.secondary}
-            </p>
-          )}
-          {hasText(typo.rationale) && (
-            <p className="mt-1">
-              <span className="font-medium text-ink">Rationale. </span>
-              {typo.rationale}
-            </p>
-          )}
-        </>
-      );
     case "visualIdentityIdeas":
       return (
         <ul className="list-disc space-y-0.5 pl-5 marker:text-dim">
@@ -231,27 +256,31 @@ function SectionInner({ keyName, brief }: { keyName: SectionKey } & InnerProps):
           ))}
         </ul>
       );
+    default:
+      return null;
   }
 }
 
 function shortSection(keyName: SectionKey): boolean {
-  // Sections that read well as a single-sentence paragraph with a lead-in.
   return [
     "brandDescription",
     "mission",
     "vision",
     "personality",
-    "brandNameRationale",
     "industrySummary",
     "competitorLandscape",
   ].includes(keyName);
 }
 
-// ── Format 1: Paragraph ────────────────────────────────────────────────────
-// Sections flow inline. Short ones use a bold lead-in; longer ones stack.
+// ── Format renderers ─────────────────────────────────────────────────────
+// Each format takes a Brief + the resolved ordered section list.
 
-export function ParagraphFormat({ brief }: InnerProps) {
-  const { ordered, custom } = getBriefSections(brief);
+interface RenderProps {
+  brief: Brief;
+  ordered: SectionKey[];
+}
+
+export function ParagraphFormat({ brief, ordered }: RenderProps) {
   return (
     <div className="px-6 sm:px-8 pt-4 pb-8 mt-2 space-y-4">
       {ordered.map((key) => {
@@ -273,102 +302,63 @@ export function ParagraphFormat({ brief }: InnerProps) {
           </div>
         );
       })}
-      {custom.map((s) => (
-        <div key={s.title} className="text-[15px] leading-relaxed text-ink/85">
-          <span className="font-semibold text-ink">{s.title}.</span>
-          <p className="mt-1.5 whitespace-pre-line">{s.body}</p>
-        </div>
-      ))}
     </div>
   );
 }
 
-// ── Format 2: Cards ────────────────────────────────────────────────────────
-// Numbered, bordered cards — easier to scan, feels like a deliverables list.
-
-export function CardsFormat({ brief }: InnerProps) {
-  const { ordered, custom } = getBriefSections(brief);
-  const items: { label: string; key: string; node: React.ReactNode }[] = [
-    ...ordered.map((k) => ({
-      label: DEFAULT_SECTION_TITLES[k],
-      key: k,
-      node: <SectionInner keyName={k} brief={brief} />,
-    })),
-    ...custom.map((s) => ({
-      label: s.title,
-      key: `custom-${s.title}`,
-      node: <p className="whitespace-pre-line">{s.body}</p>,
-    })),
-  ];
+export function CardsFormat({ brief, ordered }: RenderProps) {
   return (
     <div className="px-6 sm:px-8 pt-4 pb-8 mt-2 grid gap-3 sm:grid-cols-2">
-      {items.map((item, i) => (
-        <div
-          key={item.key}
-          className="rounded-lg border border-border bg-bg-raised/40 p-4"
-        >
+      {ordered.map((key, i) => (
+        <div key={key} className="rounded-lg border border-border bg-bg-raised/40 p-4">
           <div className="mb-2 flex items-center gap-2">
             <span className="mono text-[10px] font-semibold text-violet">
               {String(i + 1).padStart(2, "0")}
             </span>
             <span className="text-[10px] font-semibold uppercase tracking-label text-dim">
-              {item.label}
+              {DEFAULT_SECTION_TITLES[key]}
             </span>
           </div>
-          <div className="text-[14px] leading-relaxed text-ink/85">{item.node}</div>
+          <div className="text-[14px] leading-relaxed text-ink/85">
+            <SectionInner keyName={key} brief={brief} />
+          </div>
         </div>
       ))}
     </div>
   );
 }
 
-// ── Format 3: Editorial ────────────────────────────────────────────────────
-// Magazine layout — drop cap on the first section, oversized section labels,
-// pull-quote treatment on positioning.
-
-export function EditorialFormat({ brief }: InnerProps) {
-  const { ordered, custom } = getBriefSections(brief);
+export function EditorialFormat({ brief, ordered }: RenderProps) {
   const positioningStatement = brief.positioningStatement;
+  // If positioning is in the section list, hoist it to the pull quote and skip the body section.
+  const showPullQuote = ordered.includes("positioning") && hasText(positioningStatement);
+  const body = showPullQuote ? ordered.filter((k) => k !== "positioning") : ordered;
   return (
     <div className="px-6 sm:px-10 pt-6 pb-10 mt-2">
-      {hasText(positioningStatement) && (
+      {showPullQuote && (
         <blockquote className="mb-6 border-l-2 border-violet pl-4 py-1">
           <p className="text-lg sm:text-xl font-semibold tracking-tight text-ink leading-snug">
             &ldquo;{positioningStatement}&rdquo;
           </p>
           <p className="mt-1.5 text-[11px] uppercase tracking-label text-dim">
-            Positioning statement
+            Positioning
           </p>
         </blockquote>
       )}
       <div className="space-y-6">
-        {ordered.map((key, i) => {
-          if (key === "positioning") return null;
-          const label = DEFAULT_SECTION_TITLES[key];
-          return (
-            <section key={key}>
-              <h3 className="mb-2 text-[11px] font-semibold uppercase tracking-label text-violet">
-                {label}
-              </h3>
-              <div
-                className={
-                  "text-[15px] leading-relaxed text-ink/85" +
-                  (i === 0 ? " editorial-dropcap" : "")
-                }
-              >
-                <SectionInner keyName={key} brief={brief} />
-              </div>
-            </section>
-          );
-        })}
-        {custom.map((s) => (
-          <section key={s.title}>
+        {body.map((key, i) => (
+          <section key={key}>
             <h3 className="mb-2 text-[11px] font-semibold uppercase tracking-label text-violet">
-              {s.title}
+              {DEFAULT_SECTION_TITLES[key]}
             </h3>
-            <p className="text-[15px] leading-relaxed text-ink/85 whitespace-pre-line">
-              {s.body}
-            </p>
+            <div
+              className={
+                "text-[15px] leading-relaxed text-ink/85" +
+                (i === 0 ? " editorial-dropcap" : "")
+              }
+            >
+              <SectionInner keyName={key} brief={brief} />
+            </div>
           </section>
         ))}
       </div>

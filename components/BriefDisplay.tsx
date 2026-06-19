@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Copy, Check, UserPlus, FileText } from "lucide-react";
 import type { Brief, Style } from "@/lib/generator";
 import { briefToPlainText } from "@/lib/generator";
@@ -10,8 +10,10 @@ import {
   CardsFormat,
   EditorialFormat,
   ParagraphFormat,
-  pickFormat,
-  FORMAT_LABELS,
+  TEMPLATES,
+  resolveSections,
+  type Template,
+  type TemplateId,
 } from "./BriefFormats";
 
 interface Props {
@@ -24,13 +26,44 @@ function hasText(s?: string | null): s is string {
   return typeof s === "string" && s.trim().length > 0;
 }
 
+const LAST_TEMPLATE_KEY = "bbg.lastTemplate";
+
+// Pick a template that isn't the one we showed last time. Persists the
+// choice in localStorage so the cycle survives page reloads.
+function pickFreshTemplate(): Template {
+  if (typeof window === "undefined") return TEMPLATES[0];
+  let last: TemplateId | null = null;
+  try {
+    const raw = window.localStorage.getItem(LAST_TEMPLATE_KEY);
+    if (raw && TEMPLATES.some((t) => t.id === raw)) last = raw as TemplateId;
+  } catch {
+    /* ignore */
+  }
+  const pool = last ? TEMPLATES.filter((t) => t.id !== last) : TEMPLATES;
+  const picked = pool[Math.floor(Math.random() * pool.length)];
+  try {
+    window.localStorage.setItem(LAST_TEMPLATE_KEY, picked.id);
+  } catch {
+    /* ignore */
+  }
+  return picked;
+}
+
 export default function BriefDisplay({ brief, industry, style }: Props) {
   const toast = useToast();
   const [copied, setCopied] = useState(false);
   const [showAssign, setShowAssign] = useState(false);
   const [assignedTo, setAssignedTo] = useState<string | null>(null);
 
-  const format = pickFormat(brief.id);
+  const [template, setTemplate] = useState<Template>(() => pickFreshTemplate());
+  const didMount = useRef(false);
+  useEffect(() => {
+    if (!didMount.current) {
+      didMount.current = true;
+      return;
+    }
+    setTemplate(pickFreshTemplate());
+  }, [brief.id]);
 
   async function copyAll() {
     const text = briefToPlainText(brief, industry, style);
@@ -49,8 +82,13 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
     setTimeout(() => setCopied(false), 1800);
   }
 
+  const ordered = resolveSections(brief, template);
   const Body =
-    format === "cards" ? CardsFormat : format === "editorial" ? EditorialFormat : ParagraphFormat;
+    template.format === "cards"
+      ? CardsFormat
+      : template.format === "editorial"
+      ? EditorialFormat
+      : ParagraphFormat;
 
   return (
     <>
@@ -63,9 +101,11 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
           </div>
           <div className="mono text-[11px] uppercase tracking-[0.12em] text-muted flex items-center gap-3">
             <span className="rounded border border-violet/20 bg-violet-bg px-1.5 py-0.5 text-[9px] font-semibold tracking-label text-violet-dim">
-              {FORMAT_LABELS[format]}
+              {template.label}
             </span>
-            <span>{style} · {industry}</span>
+            <span>
+              {style} · {industry}
+            </span>
           </div>
         </div>
 
@@ -114,8 +154,8 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
           </div>
         </header>
 
-        {/* Body — format-dependent */}
-        <Body brief={brief} />
+        {/* Body — template-dependent ordering + format */}
+        <Body brief={brief} ordered={ordered} />
       </article>
 
       {showAssign && (
