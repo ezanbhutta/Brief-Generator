@@ -171,6 +171,66 @@
           "secondary": "A book serif for the issue body and features.",
           "rationale": "Two related serifs. The newsletter reads like a careful weekly publication."
         }
+      },
+      {
+        "brandName": "ISSUE",
+        "tagline": "The next one drops Sunday.",
+        "brandNameRationale": "Issue is the publication's most universal unit of work. Each one ships, then the next. The brand names the rhythm.",
+        "industrySummary": "Modern newsletters in 2026 are a category between independent writers and full media businesses. The opportunity is the considered weekly — one polished issue per week, with a real editorial process and a real reader relationship.",
+        "competitorLandscape": "Substack (substack.com) is the platform. Lenny's Newsletter (lennysnewsletter.com) holds the considered-weekly slot. The Generalist (generalist.com) sets the production-value bar. We sit between Lenny's and Generalist in voice.",
+        "positioningStatement": "A weekly newsletter for readers who want one good issue, not a feed.",
+        "targetAudience": {
+          "primary": "28 to 50. Professionals who read carefully on Sunday morning. Subscribe to three to five weekly newsletters. Pay for the ones that land. Care about edit quality and pace.",
+          "behaviors": [
+            "Reads on Sunday morning, not weekday",
+            "Will pay for editing over volume",
+            "Refers issues by URL with a quote attached"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Editorial",
+          "Modern",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the takeaway",
+            "Show real reader notes",
+            "Edit twice before send"
+          ],
+          "donts": [
+            "Run growth gimmicks",
+            "Use the word 'community'",
+            "Send daily"
+          ]
+        },
+        "logoDirection": "A wordmark. ISSUE set in a sharp modern grotesk, with a small issue-number set in subscript beside it (ISSUE 042). The number alone is the favicon, updated each week.",
+        "colorPalette": [
+          {
+            "name": "Issue Black",
+            "hex": "#101013",
+            "meaning": "Type. The ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Default newspaper page.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Highlight Yellow",
+            "hex": "#F5C518",
+            "meaning": "Reader's highlighter.",
+            "usage": "Accent, certain pull-quotes"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and body",
+          "secondary": "Söhne for headlines and section labels",
+          "rationale": "Sectra carries editorial weight in the body. Söhne keeps the chrome modern."
+        }
       }
     ],
     "Luxury": [
@@ -348,6 +408,66 @@
           "secondary": "An engraver's italic for the founder's signature on each letter.",
           "rationale": "Letterpress register throughout. The letter reads like a private weekly publication in the heritage essayist tradition."
         }
+      },
+      {
+        "brandName": "The Friday Folio",
+        "tagline": "A reading for the weekend.",
+        "brandNameRationale": "Folio is the bibliographic word for a leaf or large sheet of paper — a publishing tradition word, not a software one. Friday positions the publication as the weekend's reading.",
+        "industrySummary": "Luxury newsletters serve readers who pay $250 to $2000 a year for considered editorial — long-form essays, art commentary, archival editing. Often written by a single editor with letters from named contributors.",
+        "competitorLandscape": "The Browser (thebrowser.com) holds the curated-essay slot. The Convivial Society (theconvivialsociety.org) is the considered-essayist peer. Honestly with Bari Weiss (thefp.com) sets the high-paid-subscription bar. We sit closer to The Browser in posture.",
+        "positioningStatement": "A weekly folio of essays, art, and letters for readers who want to read.",
+        "targetAudience": {
+          "primary": "45 to 70. Lifelong readers, retired editors, art collectors. Pay above $500 per year for considered editorial. Read in print where possible. Care about the editor's name on the masthead.",
+          "behaviors": [
+            "Reads on paper, prints the issue",
+            "Writes letters in reply",
+            "Refers other readers in private correspondence"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Editorial",
+          "Patient",
+          "Old-publication"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign issues with the editor's name",
+            "Print the masthead",
+            "Write in full paragraphs"
+          ],
+          "donts": [
+            "Run growth gimmicks",
+            "Send mid-week",
+            "Speak about 'engagement'"
+          ]
+        },
+        "logoDirection": "A wordmark. THE FRIDAY FOLIO set in a classical serif, all caps, with a small foliated leaf mark above. Used embossed on the print edition's slipcase.",
+        "colorPalette": [
+          {
+            "name": "Folio Green",
+            "hex": "#1F3B2C",
+            "meaning": "Bookplate green.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F2EBDC",
+            "meaning": "Heavy uncoated paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#A8893E",
+            "meaning": "Cover stamping.",
+            "usage": "Leaf mark, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and body",
+          "secondary": "Caslon for everything",
+          "rationale": "One classical family across the system. The brand is a publication, not a software product."
+        }
       }
     ],
     "Minimal": [
@@ -513,6 +633,59 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "A book serif for the issue body.",
           "rationale": "Two faces. The grotesque is the masthead; the serif is the reading."
+        }
+      },
+      {
+        "brandName": "OPEN",
+        "tagline": "The newsletter platform that just sends.",
+        "brandNameRationale": "Open is the only metric that matters in email. The brand names the verb the reader performs and the metric the writer cares about.",
+        "industrySummary": "Minimal newsletter platforms target writers tired of feature-creep on Substack. The product is sending — write the issue, send it, get the receipt. No tipping, no chat, no recommendations.",
+        "competitorLandscape": "Buttondown (buttondown.com) is the closest minimal-platform peer. Ghost (ghost.org) holds the open-source minimal slot. Mailbrew (mailbrew.com) was the simple-sending precedent. We sit closest to Buttondown in posture.",
+        "positioningStatement": "An email newsletter platform that does exactly one thing.",
+        "targetAudience": {
+          "primary": "25 to 45. Independent writers, technical writers, side-project newsletter operators. Send 1 to 4 issues a month. Hate platform complexity. Pay for simplicity.",
+          "behaviors": [
+            "Reads CHANGELOG.md before installing",
+            "Will switch platforms over feature creep",
+            "Posts the open rate, not the subscriber count"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Writer-first"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the editor",
+            "State the price",
+            "Use lowercase headlines"
+          ],
+          "donts": [
+            "Add features",
+            "Run growth campaigns",
+            "Use the word 'monetize'"
+          ]
+        },
+        "logoDirection": "A wordmark. OPEN set in a humanist sans, four letters. The whole brand is the word. The favicon is just the O.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF8",
+            "meaning": "Default page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#0A0A0C",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for analytics and metrics",
+          "rationale": "One family. Mono for the open rate."
         }
       }
     ],
@@ -710,6 +883,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and subscription tables.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Editorial Holdings Group",
+        "tagline": "A portfolio of editorial newsletters and trade publications.",
+        "brandNameRationale": "Editorial Holdings positions the firm as the institutional owner of multiple newsletter and trade publication brands. Group signals multi-property structure.",
+        "industrySummary": "Corporate newsletter and trade publishing operates portfolios of business-to-business and trade publications. The buyer is the institutional advertiser, the trade association, and the multi-property subscriber.",
+        "competitorLandscape": "Industry Dive (industrydive.com) is the modern institutional peer. The Information (theinformation.com) holds the premium-trade slot. Politico (politico.com) is the institutional-paid precedent. We sit one tier below Industry Dive with a sharper trade focus.",
+        "positioningStatement": "A holding company for trade newsletters and B2B publications.",
+        "targetAudience": {
+          "primary": "45 to 60. Institutional advertisers, trade association directors, B2B media buyers. Manage trade media budgets above $1M annually. Care about reach within specific verticals.",
+          "behaviors": [
+            "Issues annual trade media RFPs",
+            "Reads trade press industry reports",
+            "Renews based on quarterly reach reports"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-line",
+          "Steady",
+          "Trade-focused"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite vertical reach",
+            "Quote subscription bases",
+            "Reference trade press"
+          ],
+          "donts": [
+            "Use consumer publishing vocabulary",
+            "Show individual writers",
+            "Run growth campaigns"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a stacked monogram. EDITORIAL in a sharp serif, HOLDINGS GROUP set smaller beneath. The monogram is three stacked horizontal bars suggesting multiple publication lines, used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Trade Navy",
+            "hex": "#0B2545",
+            "meaning": "Trade publication banner.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Press Gray",
+            "hex": "#5A5A60",
+            "meaning": "Newsprint masthead.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Paper",
+            "hex": "#EDEAE3",
+            "meaning": "Newsprint.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and trade communications",
+          "rationale": "Sectra carries editorial weight. GT America keeps trade communications efficient."
+        }
       }
     ],
     "Creative": [
@@ -896,6 +1129,72 @@
           "primary": "Foundry type from the working press, set by hand for every issue.",
           "secondary": "A digital book serif for the email transcription.",
           "rationale": "The broadsheet uses real foundry metal type; the email transcription matches the metal-type proportions as closely as possible."
+        }
+      },
+      {
+        "brandName": "Wandering Press",
+        "tagline": "A newsletter from wherever I am this week.",
+        "brandNameRationale": "Most newsletters position the editor in a fixed seat. This one centers the journey — a publication that ships from wherever the writer happens to be, and treats the location as part of the issue.",
+        "industrySummary": "Creative newsletters serve readers who want personality and place — a publication that feels like a long letter from a specific corner of the world. The brand is the writer's voice and the writer's setting, in equal measure.",
+        "competitorLandscape": "Field Notes from a Small Country (substack-typical reference) holds the personal-place slot in spirit. The Frontier Within (substack) is a peer reference. Letters of Note (lettersofnote.com) holds the editorial-letter precedent. We sit closer to small personal-place newsletters in voice.",
+        "positioningStatement": "A weekly letter from wherever the editor's working from this month.",
+        "targetAudience": {
+          "primary": "30 to 55. Readers of considered first-person nonfiction. Subscribe to two or three personal newsletters. Care about the writer's setting as much as the writing.",
+          "behaviors": [
+            "Reads slowly on Sunday morning",
+            "Replies to issues with their own letter",
+            "Refers issues with the location attached"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Personal",
+          "Considered",
+          "Curious"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the location",
+            "Use first person",
+            "Reply to reader letters"
+          ],
+          "donts": [
+            "Run growth marketing",
+            "Use the word 'audience'",
+            "Send sponsored issues"
+          ]
+        },
+        "logoDirection": "A wordmark with a small place mark. WANDERING PRESS set in a warm serif. Above the W, a small map pin updates each week to wherever the writer is sending from. The map pin alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Map Yellow",
+            "hex": "#F5C518",
+            "meaning": "Pencil-yellow road on the map.",
+            "usage": "Accent, the pin"
+          },
+          {
+            "name": "Letter Cream",
+            "hex": "#F4EBD5",
+            "meaning": "Letter paper.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Ink Brown",
+            "hex": "#5C3A21",
+            "meaning": "Fountain pen ink, brown.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Stamp Red",
+            "hex": "#7E1F1A",
+            "meaning": "Stamp on the envelope.",
+            "usage": "Accent, certain section heads"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and body",
+          "secondary": "PP Mori for headlines and reader-letter sections",
+          "rationale": "Sectra carries personal-essay weight. Mori keeps the reader-letters warm."
         }
       }
     ]
