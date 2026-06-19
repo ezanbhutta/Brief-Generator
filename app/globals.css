@@ -26,6 +26,16 @@ body {
   font-family: var(--font-mono), ui-monospace, monospace;
 }
 
+/* Editorial brief layout — drop cap on the first paragraph of the first section. */
+.editorial-dropcap > p:first-child::first-letter {
+  float: left;
+  font-size: 3em;
+  line-height: 0.9;
+  margin: 0.05em 0.1em 0 0;
+  font-weight: 600;
+  color: #160a33;
+}
+
 ::selection {
   background: #7229ff;
   color: #ffffff;
