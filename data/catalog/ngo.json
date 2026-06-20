@@ -137,6 +137,66 @@
           "secondary": "Söhne Mono for numbers and tables",
           "rationale": "Söhne reads modern. Mono carries the numerical evidence."
         }
+      },
+      {
+        "brandName": "METRIC",
+        "tagline": "Outcomes, measured.",
+        "brandNameRationale": "Modern NGO donors want the metric. The brand names the unit of accountability in the title.",
+        "industrySummary": "Modern NGOs split between glossy mission-led brands and rigorous outcome-driven ones. The opportunity is the rigorous side with the polish previously reserved for mission marketing.",
+        "competitorLandscape": "GiveDirectly (givedirectly.org) holds the evidence-led tier. GiveWell (givewell.org) is the analyst-precedent. The Life You Can Save (thelifeyoucansave.org) is the considered-platform peer. We sit closest to GiveDirectly in posture.",
+        "positioningStatement": "An NGO that reports outcomes the way operators report KPIs.",
+        "targetAudience": {
+          "primary": "30 to 50. Engineers, product managers, family-office program officers. Give $1K to $25K annually. Read the 990 before the website. Care about cost per outcome.",
+          "behaviors": [
+            "Reads the quarterly outcome report",
+            "Compares cost-per-outcome across charities",
+            "Will move money based on a new RCT"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Rigorous",
+          "Modern",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote the outcome per dollar",
+            "Link the study",
+            "Show the dashboard"
+          ],
+          "donts": [
+            "Use sentimental music",
+            "Photograph grateful beneficiaries",
+            "Run heartstring campaigns"
+          ]
+        },
+        "logoDirection": "A wordmark. METRIC set in a tight grotesk with a small bar-chart mark beneath — three ascending bars. The chart alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Audit Black",
+            "hex": "#0B0B0E",
+            "meaning": "Type. The line item.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Outcome Green",
+            "hex": "#22C55E",
+            "meaning": "Confirmed outcome.",
+            "usage": "Accent, CTAs"
+          },
+          {
+            "name": "Page",
+            "hex": "#F8F6F0",
+            "meaning": "Annual report page.",
+            "usage": "Backgrounds, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for numbers and tables",
+          "rationale": "Söhne reads modern. Mono carries the numerical evidence."
+        }
       }
     ],
     "Luxury": [
@@ -279,6 +339,66 @@
           "secondary": "Adobe Caslon for body and grant correspondence",
           "rationale": "Caslon carries the weight of three centuries of American letters. Used across the system for one unified institutional voice."
         }
+      },
+      {
+        "brandName": "The Holroyd Trust",
+        "tagline": "Quiet capital. Long horizons.",
+        "brandNameRationale": "Holroyd is a real surname with charitable lineage in British and American letters. Trust signals fiduciary permanence — not foundation, not fund, but trust.",
+        "industrySummary": "Luxury philanthropy serves family-office principals making seven- and eight-figure gifts over multi-decade horizons. The work is institution-building — naming a chair, endowing a fellowship, restoring a public building.",
+        "competitorLandscape": "The Pew Charitable Trusts (pewtrusts.org) holds the institutional-civic slot. The Mellon Foundation (mellon.org) is the considered-academic peer. The Wellcome Trust (wellcome.org) is the global precedent. We sit closest to Mellon in posture.",
+        "positioningStatement": "A trust for donors building institutions meant to outlast their lifetime.",
+        "targetAudience": {
+          "primary": "55 to 80. Family principals, foundation directors, trustees of family offices. Manage charitable budgets above $10M annually. Care about institutional legacy and named giving.",
+          "behaviors": [
+            "Plans gifts in five- and ten-year arcs",
+            "Names buildings, chairs, and fellowships",
+            "Refers business at trustee dinners"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Patient",
+          "Discreet",
+          "Generational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite institutions endowed",
+            "Speak in decades",
+            "Write full sentences"
+          ],
+          "donts": [
+            "Use urgency language",
+            "Publish impact infographics",
+            "Photograph beneficiaries"
+          ]
+        },
+        "logoDirection": "A wordmark with a small seal. THE HOLROYD TRUST in a classical serif, tracked. A small circular seal monogram with H T sits above. Used on grant letters and building dedications.",
+        "colorPalette": [
+          {
+            "name": "Trust Green",
+            "hex": "#1F3B2C",
+            "meaning": "Reading room.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Parchment",
+            "hex": "#F2EBDC",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A8893E",
+            "meaning": "Plaque.",
+            "usage": "Seal, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and body",
+          "secondary": "Caslon Pro for everything",
+          "rationale": "Caslon family across the system carries British charitable tradition."
+        }
       }
     ],
     "Minimal": [
@@ -410,6 +530,65 @@
           "primary": "ABC Diatype for the wordmark and body",
           "secondary": "ABC Diatype Mono for program reports",
           "rationale": "One family, two cuts. The brand stays consistent across donor and program reporting."
+        }
+      },
+      {
+        "brandName": "SHARE",
+        "tagline": "Direct cash. Documented impact.",
+        "brandNameRationale": "Share is what the donor is doing — handing money to someone who needs it. One word. The brand names the act.",
+        "industrySummary": "Minimal NGO branding serves donors exhausted by cause marketing. The product is one program — usually a direct cash transfer or a single high-evidence intervention — reported transparently with no merchandise and no campaign cycle.",
+        "competitorLandscape": "GiveDirectly (givedirectly.org) holds the direct-cash slot. GiveWell (givewell.org) is the analyst precedent. Founders Pledge (founderspledge.com) is the institutional-pledge peer. We sit closest to GiveDirectly.",
+        "positioningStatement": "One program. Direct cash. Quarterly reports.",
+        "targetAudience": {
+          "primary": "30 to 50. Donors who give $1K to $25K annually. Want clarity over narrative. Will set up a recurring gift after reading one paragraph.",
+          "behaviors": [
+            "Reads the program description twice",
+            "Sets up recurring gifts in one session",
+            "Refers donors via private message"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the program in one paragraph",
+            "Quote unit cost",
+            "End the page with donate"
+          ],
+          "donts": [
+            "Run year-end urgency",
+            "Publish merch",
+            "Photograph beneficiaries"
+          ]
+        },
+        "logoDirection": "A wordmark. SHARE set in a humanist sans, slightly weighted. A small two-way arrow between H and A — the share signal. The arrow alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Share Green",
+            "hex": "#2E6B4A",
+            "meaning": "Cash leaf.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Linen",
+            "hex": "#F4F0E6",
+            "meaning": "Quiet background.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Body type.",
+            "usage": "Body, secondary"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for unit costs",
+          "rationale": "One family. Mono for the dollar amount."
         }
       }
     ],
@@ -572,6 +751,66 @@
           "secondary": "GT America for body and proposals",
           "rationale": "Sectra carries civic weight. GT America keeps multi-stakeholder reporting clear."
         }
+      },
+      {
+        "brandName": "National Civic Holdings",
+        "tagline": "Civic capital across infrastructure, education, and public health.",
+        "brandNameRationale": "National signals federated scope. Civic Holdings positions the firm as a holding company of civic operating programs.",
+        "industrySummary": "Corporate civic philanthropy operates multi-program portfolios across infrastructure, education, and public health. The buyer is government partners, public-private partnership leads, and institutional foundations.",
+        "competitorLandscape": "Bloomberg Philanthropies (bloomberg.org) is the institutional peer. The Rockefeller Foundation (rockefellerfoundation.org) holds the multi-program slot. The Knight Foundation (knightfoundation.org) is the considered civic peer. We sit one tier below Bloomberg with a sharper federated structure.",
+        "positioningStatement": "A national civic holding company across infrastructure, education, and public health programs.",
+        "targetAudience": {
+          "primary": "50 to 70. Mayors, city managers, public-private partnership leads, foundation program officers. Manage civic budgets above $50M. Care about multi-stakeholder coordination.",
+          "behaviors": [
+            "Reads city budget reports",
+            "Attends civic philanthropy conferences",
+            "Coordinates across foundation, government, and corporate channels"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Civic",
+          "Multi-program",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite civic outcomes",
+            "Name the public partners",
+            "Quote policy alignment"
+          ],
+          "donts": [
+            "Use philanthropic urgency language",
+            "Photograph beneficiaries",
+            "Run consumer-style campaigns"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a civic seal. NATIONAL CIVIC HOLDINGS in a sharp serif. A seal monogram with N C and a small column motif. Used on grant letters and building dedications.",
+        "colorPalette": [
+          {
+            "name": "Civic Navy",
+            "hex": "#0B2545",
+            "meaning": "Public-building granite.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Marble",
+            "hex": "#EDEAE3",
+            "meaning": "Public square stone.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9C7A3C",
+            "meaning": "Plaque on the building.",
+            "usage": "Seal, foil"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and proposals",
+          "rationale": "Sectra carries civic weight. GT America keeps multi-stakeholder reporting clear."
+        }
       }
     ],
     "Creative": [
@@ -723,6 +962,72 @@
             "hex": "#2E7D5A",
             "meaning": "The trust line.",
             "usage": "Donate, status, success"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT America for body and project reports",
+          "rationale": "Mori carries warmth. GT America keeps reporting readable across campaigns."
+        }
+      },
+      {
+        "brandName": "We Were There",
+        "tagline": "Showing up is the whole work.",
+        "brandNameRationale": "Most NGO brands center their results. This one centers the act of showing up — the moment of presence that often matters more than the metric.",
+        "industrySummary": "Creative NGOs serve donors and volunteers who want to feel like collaborators. The brand centers participation, presence, and the documented act of showing up. The product is the photo of the room, with names attached.",
+        "competitorLandscape": "Crisis Text Line (crisistextline.org) holds the volunteer-coordination slot. DoSomething (dosomething.org) is the youth-participation peer. charity: water (charitywater.org) is the modern storytelling precedent. We sit between DoSomething and charity: water in posture.",
+        "positioningStatement": "An NGO that names everyone who showed up.",
+        "targetAudience": {
+          "primary": "20 to 45. Donors and volunteers, often the same person. Give $25 to $500 annually. Care about who else is in the room. Share campaigns with friends and ask them to come along.",
+          "behaviors": [
+            "Names volunteers on social before themselves",
+            "Brings friends to events",
+            "Will increase gifts after seeing the contributor list"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Collective",
+          "Honest",
+          "Documentary"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the contributors",
+            "Show the room",
+            "Use first-person plural"
+          ],
+          "donts": [
+            "Center the executive director",
+            "Run lone-hero campaigns",
+            "Photograph beneficiaries from above"
+          ]
+        },
+        "logoDirection": "A wordmark with stacked names. WE WERE THERE set across two lines in a warm sans. Beneath, a thin running list of small first names rotates with each project. The first-name line alone is a sticker.",
+        "colorPalette": [
+          {
+            "name": "Show Up Orange",
+            "hex": "#F2843C",
+            "meaning": "Sunset on the volunteer day.",
+            "usage": "Accent, the running line, CTAs"
+          },
+          {
+            "name": "Room Cream",
+            "hex": "#FAF6EC",
+            "meaning": "The room's light.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Trust Green",
+            "hex": "#2E7D5A",
+            "meaning": "Donate confirm.",
+            "usage": "Donate, status"
           }
         ],
         "typography": {

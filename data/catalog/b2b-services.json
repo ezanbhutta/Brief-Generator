@@ -136,6 +136,66 @@
           "secondary": "Söhne Mono for invoices, timelines, and code blocks",
           "rationale": "One family, two weights. Same as how the brand operates: tight, repeatable, no surprises."
         }
+      },
+      {
+        "brandName": "BACKING",
+        "tagline": "Back-office that has your back.",
+        "brandNameRationale": "Backing is what a band has, what a check has, what a friend gives. The brand owns the word for unseen support and puts it in the title.",
+        "industrySummary": "Modern back-office B2B services post-2024 is consolidating around verticalized players. Mid-market operators want HR, finance ops, and IT support delivered by one team with a clear Slack channel and a tight playbook.",
+        "competitorLandscape": "Justworks (justworks.com) holds the back-office PEO slot. Rippling (rippling.com) is the modern HR-and-IT platform peer. Pilot (pilot.com) sets the bookkeeping-as-a-service bar. We sit between Justworks and Pilot in posture.",
+        "positioningStatement": "Back-office operations as one team, one Slack channel, one fixed monthly rate.",
+        "targetAudience": {
+          "primary": "30 to 50. COOs, Heads of People, founder-CEOs at companies of 30 to 300 people. Burned by a fractional model that disappeared. Want one team that picks up the phone.",
+          "behaviors": [
+            "Will fire a vendor over a slow Slack reply",
+            "Wants the same person on every weekly call",
+            "Reads the monthly invoice line by line"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Reliable",
+          "Modern",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the team",
+            "Quote real response times",
+            "Lead with what we do this week"
+          ],
+          "donts": [
+            "Use 'fractional' as a noun",
+            "Promote a 'future of work' thesis",
+            "Photograph a logo wall"
+          ]
+        },
+        "logoDirection": "A wordmark. BACKING set in a tight modern grotesk with a small left-pointing arrow under the K — the back-up signal. The arrow alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Back Black",
+            "hex": "#101013",
+            "meaning": "The arrow. Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Backup Yellow",
+            "hex": "#F5C518",
+            "meaning": "Hazard tape. The reminder.",
+            "usage": "Accent, the arrow"
+          },
+          {
+            "name": "Surface",
+            "hex": "#F4F2EE",
+            "meaning": "Quiet space.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and body",
+          "secondary": "Söhne Mono for invoice line items",
+          "rationale": "One family, two cuts. Same operating posture: predictable."
+        }
       }
     ],
     "Luxury": [
@@ -278,6 +338,66 @@
           "secondary": "GT Sectra for body and correspondence",
           "rationale": "Caslon carries 250 years of authority. Sectra keeps the body readable on the page."
         }
+      },
+      {
+        "brandName": "Heath & Stoneham",
+        "tagline": "Counsel by appointment.",
+        "brandNameRationale": "Heath and Stoneham are real British surnames with City of London associations. Two-partner naming signals senior practice with no junior bench.",
+        "industrySummary": "Luxury B2B advisory serves the chair, the principal, the family-owned operator. Engagements are by referral. Each year produces one slim recommendation document and twelve long Sunday phone calls.",
+        "competitorLandscape": "Spencer Stuart (spencerstuart.com) is the institutional executive-counsel peer. Egon Zehnder (egonzehnder.com) holds the considered-advisory tier. Boyden (boyden.com) is the discreet-references precedent. We sit closest to Egon Zehnder in posture.",
+        "positioningStatement": "An operating-counsel firm for principals who already turned down the management consultants.",
+        "targetAudience": {
+          "primary": "50 to 75. Chairs, family principals, owner-operators at companies of $100M to $1B revenue. Read FT in print on Saturday. Refer business by phone, never by email.",
+          "behaviors": [
+            "Holds two annual two-day strategy retreats",
+            "Refers business at private dinners",
+            "Pays via the family office"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Considered",
+          "Patient",
+          "Old-City"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in counsel",
+            "Write in full sentences",
+            "Reference institutions"
+          ],
+          "donts": [
+            "Publish a public client list",
+            "Run a podcast",
+            "Speak about 'transformation'"
+          ]
+        },
+        "logoDirection": "An ampersand wordmark. HEATH & STONEHAM set in a sharp old-style serif, ampersand at exact midweight, slightly oversized. Used embossed on heavy stock business cards.",
+        "colorPalette": [
+          {
+            "name": "City Navy",
+            "hex": "#0E1B33",
+            "meaning": "City of London fountain pen ink.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Foxed Cream",
+            "hex": "#F2EBDC",
+            "meaning": "Old book endpaper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#A8893E",
+            "meaning": "Foil stamping.",
+            "usage": "Ampersand, accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and correspondence",
+          "secondary": "GT Sectra Text for body",
+          "rationale": "Sectra family carries British editorial weight across the whole system."
+        }
       }
     ],
     "Minimal": [
@@ -403,6 +523,59 @@
           "primary": "ABC Diatype for the wordmark and body",
           "secondary": "ABC Diatype Mono for any number",
           "rationale": "One family. The brand doesn't need a second voice."
+        }
+      },
+      {
+        "brandName": "SHIFT",
+        "tagline": "Operations, handled this week.",
+        "brandNameRationale": "Shift is the unit of operations work. One word, five letters. The brand names the rhythm of the job.",
+        "industrySummary": "Minimal B2B services target operators tired of QBR theater. The product is a weekly shift: one team, one report on Monday, no decks.",
+        "competitorLandscape": "Linear (linear.app) is the SaaS-minimal precedent we model posture on. Common Thread Collective (commonthreadco.com) holds the no-frills services slot. We sit closer to Linear in voice.",
+        "positioningStatement": "Operations as a weekly shift, not a quarterly engagement.",
+        "targetAudience": {
+          "primary": "28 to 45. Founders, operators, small-team leads. Want a Monday report. Hate decks. Will fire a vendor over a verbose status email.",
+          "behaviors": [
+            "Reads the Monday report and replies with one word",
+            "Will not attend a quarterly business review",
+            "Pays via Stripe, never invoice"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Precise"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the week's work",
+            "End emails with the next step",
+            "Use one word where two will do"
+          ],
+          "donts": [
+            "Schedule a kickoff call",
+            "Produce a deck",
+            "Send marketing"
+          ]
+        },
+        "logoDirection": "A wordmark. SHIFT set in a humanist sans, five letters, slightly weighted. Used in two sizes only.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF8",
+            "meaning": "Default page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#0A0A0C",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for the weekly report",
+          "rationale": "One family. Two cuts. No second voice."
         }
       }
     ],
@@ -565,6 +738,66 @@
           "secondary": "GT America for body and reports",
           "rationale": "Sectra carries civic gravity. GT America keeps the body institutional and readable."
         }
+      },
+      {
+        "brandName": "National Operations Group",
+        "tagline": "Enterprise back-office across regulated industries.",
+        "brandNameRationale": "National signals federated scope. Operations Group is the corporate-trade word for a multi-line back-office holding company.",
+        "industrySummary": "Corporate B2B operations serves regulated enterprise — banking, insurance, healthcare. The buyer is the SVP of operations, procurement, compliance. Contracts last years and span multiple subsidiaries.",
+        "competitorLandscape": "Accenture Operations (accenture.com) is the institutional benchmark. Genpact (genpact.com) holds the operations-services precedent. WNS (wns.com) is the multi-region peer. We sit one tier below Accenture with a sharper regulated-industries posture.",
+        "positioningStatement": "An enterprise back-office services group for regulated industries.",
+        "targetAudience": {
+          "primary": "45 to 65. SVPs of Operations, Chief Procurement Officers, Compliance Heads at Fortune 1000 in banking, insurance, healthcare. Manage operations budgets above $50M annually.",
+          "behaviors": [
+            "Issues annual RFPs",
+            "Reviews SOC 2 and ISO certifications quarterly",
+            "Renews based on quarterly delivery scorecards"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Regulated",
+          "Multi-region",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite compliance certifications",
+            "Quote SLA terms",
+            "Reference institutional clients by sector"
+          ],
+          "donts": [
+            "Use startup vocabulary",
+            "Speak about 'innovation'",
+            "Photograph individual employees"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a federated monogram. NATIONAL in a sharp serif, OPERATIONS GROUP set smaller beneath. The monogram is three vertical stripes — the federated structure. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Federation Navy",
+            "hex": "#0B2545",
+            "meaning": "Institutional posture.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A5A60",
+            "meaning": "Operations infrastructure.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Marble",
+            "hex": "#EDEAE3",
+            "meaning": "Public building stone.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and SOWs",
+          "rationale": "Sectra reads institutional. GT America keeps SOWs efficient."
+        }
       }
     ],
     "Creative": [
@@ -722,6 +955,66 @@
           "primary": "PP Mori for the wordmark and headlines",
           "secondary": "ABC Diatype Mono for receipts and timestamps",
           "rationale": "Mori has warmth. Diatype Mono makes invoices feel like a friend's text, not a vendor's email."
+        }
+      },
+      {
+        "brandName": "Permission Slip",
+        "tagline": "We take the awkward stuff off your plate.",
+        "brandNameRationale": "A permission slip is the moment someone else takes care of a small obligation for you. The brand owns the universal feeling of relief.",
+        "industrySummary": "Creative B2B services targets founders who hate the admin parts of running a company. The brand should feel like a friend who handles the awkward email so the founder can stay in the work they actually like.",
+        "competitorLandscape": "Marble (marblelabs.com) holds the back-office-for-founders slot. Pilot (pilot.com) is the considered peer. WorkOS (workos.com) is the developer-facing precedent. We sit closer to Marble in spirit.",
+        "positioningStatement": "The B2B services firm that handles the awkward parts.",
+        "targetAudience": {
+          "primary": "25 to 45. Solo founders, small-team CEOs, agency owners. Hate vendor calls, expense reports, compliance forms. Will pay for someone to handle the things they're avoiding.",
+          "behaviors": [
+            "Photographs the avoided pile of paperwork",
+            "Will recommend a vendor for the moment they made something annoying go away",
+            "Pays via card, never wire"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Funny",
+          "Honest",
+          "Capable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the awkward thing",
+            "Make a small joke",
+            "End with the action you'll take"
+          ],
+          "donts": [
+            "Use 'partnership' as a verb",
+            "Schedule a 30-minute discovery call",
+            "Send a SOW PDF first"
+          ]
+        },
+        "logoDirection": "A wordmark with a small folded-paper mark. PERMISSION SLIP set in a warm sans across two lines. Above the wordmark, a small folded-paper rectangle suggesting the slip itself. The paper mark alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Slip Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Carbon-copy yellow.",
+            "usage": "Accent, the slip mark"
+          },
+          {
+            "name": "Slip Cream",
+            "hex": "#FAF6EC",
+            "meaning": "Paper.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT America for body and order pages",
+          "rationale": "Mori carries warmth. GT America keeps the order page from feeling like a kids' menu."
         }
       }
     ]
