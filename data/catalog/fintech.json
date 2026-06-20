@@ -250,6 +250,66 @@
           "secondary": "A neutral grotesque for fee tables and rate listings.",
           "rationale": "The serif speaks; the grotesque measures."
         }
+      },
+      {
+        "brandName": "YIELD",
+        "tagline": "What your money is for.",
+        "brandNameRationale": "Yield is the return on an investment expressed as a percentage. It's the only number long-term investors actually optimize for. Five letters. The brand puts the metric in the title.",
+        "industrySummary": "Modern fintech for savers and investors splits between high-yield deposit apps and full brokerage platforms. The opportunity is a focused yield platform that does one thing — money-market and Treasury access — with a clean rate display and same-day settlement.",
+        "competitorLandscape": "Wealthfront Cash (wealthfront.com) holds the high-yield deposit slot. Mercury Treasury (mercury.com) is the modern-business peer. Public.com (public.com) is the Treasury-bill DTC precedent. We sit between Wealthfront and Public in posture.",
+        "positioningStatement": "A yield-only platform that shows you the rate and the settlement date.",
+        "targetAudience": {
+          "primary": "28 to 45. Software engineers, product managers, founder-CEOs. Have a savings account and a brokerage account and want a third thing that just sits at the prevailing rate.",
+          "behaviors": [
+            "Reads the FOMC release the day it ships",
+            "Will switch apps over a 25 bps rate difference",
+            "Hates push notifications"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Direct",
+          "Modern",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the rate",
+            "Show the settlement",
+            "Reference the benchmark"
+          ],
+          "donts": [
+            "Promise market-beating returns",
+            "Photograph stock charts",
+            "Run referral campaigns"
+          ]
+        },
+        "logoDirection": "A wordmark. YIELD set in a tight modern grotesk with a small percentage mark above the Y. The percentage mark alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Yield Black",
+            "hex": "#0A0A0F",
+            "meaning": "Type. The rate.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Confirm Green",
+            "hex": "#22C55E",
+            "meaning": "Positive yield.",
+            "usage": "Accent, current rate display"
+          },
+          {
+            "name": "Surface",
+            "hex": "#F4F4F7",
+            "meaning": "Card background.",
+            "usage": "UI surfaces, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and UI",
+          "secondary": "JetBrains Mono for rates and settlement dates",
+          "rationale": "Inter reads modern. Mono carries the rate to two decimals."
+        }
       }
     ],
     "Luxury": [
@@ -507,6 +567,66 @@
           "secondary": "An engraver's italic for trustee signatures and trust identifiers.",
           "rationale": "Letterpress register throughout."
         }
+      },
+      {
+        "brandName": "Drummond Private Office",
+        "tagline": "Family banking since 1717.",
+        "brandNameRationale": "Drummonds Bank was founded in London in 1717 by Andrew Drummond, became a private bank to British royalty and aristocracy, and was acquired by RBS in the 1920s but still operates as the Drummonds branch in Charing Cross. Naming a new private office after this lineage claims three centuries of British private banking tradition.",
+        "industrySummary": "Luxury fintech at the family office tier serves principal-managed wealth above $50M. The deliverable is custody, reporting, and discreet introductions to investments and private bankers worldwide.",
+        "competitorLandscape": "C. Hoare & Co (hoaresbank.co.uk) is the institutional British private bank peer (founded 1672). Coutts (coutts.com) holds the institutional luxury slot. Pictet (pictet.com) is the Swiss family office precedent. We sit closest to Hoare in posture.",
+        "positioningStatement": "A British private office for principals managing multi-generational family wealth.",
+        "targetAudience": {
+          "primary": "55 to 80. Family principals, succession trustees, multi-generational household principals. Manage family wealth above $50M. Read FT, The Spectator. Refer business in person, never by email.",
+          "behaviors": [
+            "Holds quarterly review meetings in person",
+            "Refers business at private clubs",
+            "Pays for discretion"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Heritage",
+          "Patient",
+          "Old-City"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in counsel",
+            "Reference institutional tradition",
+            "Write in full paragraphs"
+          ],
+          "donts": [
+            "Run a public website beyond contact",
+            "Publish client materials",
+            "Speak about returns"
+          ]
+        },
+        "logoDirection": "A wordmark with a small Scottish-thistle monogram (the Drummond family heraldic mark). DRUMMOND PRIVATE OFFICE in a classical British serif, all caps, tracked. Used embossed on heavy stock correspondence only.",
+        "colorPalette": [
+          {
+            "name": "Drummond Tartan Green",
+            "hex": "#1F3B2C",
+            "meaning": "Drummond clan green.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Bank Cream",
+            "hex": "#F2EBDC",
+            "meaning": "Bank ledger paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#A8893E",
+            "meaning": "Branch plaque.",
+            "usage": "Monogram, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and body",
+          "secondary": "Caslon Pro for everything",
+          "rationale": "One classical family across the system. The brand is a bank, not a software product."
+        }
       }
     ],
     "Minimal": [
@@ -743,6 +863,65 @@
           "primary": "One neutral grotesque, regular and bold.",
           "secondary": "Same family for the number display.",
           "rationale": "One typeface across the app, the marketing, and the receipt."
+        }
+      },
+      {
+        "brandName": "PENNY",
+        "tagline": "The smallest unit of money.",
+        "brandNameRationale": "A penny is the smallest unit of US currency in continuous circulation since 1793. It's also the affectionate word for any small amount ('a penny saved'). The brand names the foundational unit and treats small amounts with respect.",
+        "industrySummary": "Minimal fintech for savers serves the customer who's tired of fee-heavy apps and rewards-card noise. The product is a single account: deposit, save, withdraw. No tiers, no rewards, one screen.",
+        "competitorLandscape": "Chime (chime.com) holds the simple-savings slot. Aspiration (aspiration.com) is the values-aligned peer. SoFi Money (sofi.com) is the multi-product precedent. We sit closer to Chime in posture, narrower in scope.",
+        "positioningStatement": "A savings account with no tiers, no rewards, no notifications.",
+        "targetAudience": {
+          "primary": "25 to 45. Saving for a first home or a six-month emergency fund. Hate financial-product upsells. Want a single account that just works.",
+          "behaviors": [
+            "Sets up auto-deposit and forgets it",
+            "Will leave a bank over a fee surprise",
+            "Reads the privacy policy"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the rate and the fee (zero)",
+            "Show the balance",
+            "End the page with sign up"
+          ],
+          "donts": [
+            "Add product categories",
+            "Run referral campaigns",
+            "Use 'wealth' vocabulary"
+          ]
+        },
+        "logoDirection": "A wordmark. PENNY set in a humanist sans, five letters, slightly weighted. A small circular outline (the penny) sits above the Y. The circle alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Copper",
+            "hex": "#A37E5A",
+            "meaning": "Penny copper.",
+            "usage": "Accent, the circle"
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF8",
+            "meaning": "Default page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#0A0A0C",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for the balance",
+          "rationale": "One family. Mono for the dollar amount."
         }
       }
     ],
@@ -1039,6 +1218,66 @@
           "secondary": "A clean enterprise grotesque for regulatory documentation, capital adequacy reports, and operational tables.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Brandywine Capital Partners",
+        "tagline": "Mid-market private credit since 1983.",
+        "brandNameRationale": "The Brandywine Valley straddles southeastern Pennsylvania and northern Delaware — the historic American banking corridor (Wilmington was the credit-card capital, the duPont family wealth originated here). Naming the firm after this geographic anchor signals deep American capital-markets heritage.",
+        "industrySummary": "Corporate private credit for the lower middle market serves family businesses and mid-cap operators seeking growth, recap, and refi capital outside the syndicated market. The buyer is the CFO, the family principal, and the private-equity sponsor.",
+        "competitorLandscape": "Twin Brook Capital Partners (twincp.com) is the institutional peer. Antares Capital (antares.com) holds the lower-middle market slot. Ares Capital (arescapital.com) is the institutional BDC precedent. We sit one tier below Antares with a sharper Eastern regional posture.",
+        "positioningStatement": "A private credit partner for lower middle market operators in the Mid-Atlantic.",
+        "targetAudience": {
+          "primary": "45 to 65. CFOs at $50M to $500M revenue businesses. Private equity sponsors. Family-business principals. Care about flexible terms, repeat-borrower relationships, and named loan officers.",
+          "behaviors": [
+            "Reviews term sheets with the family lawyer",
+            "Refers business at industry conferences",
+            "Renews with the same loan officer over multiple cycles"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Mid-Atlantic",
+          "Patient",
+          "Relationship-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite portfolio borrowers (anonymized)",
+            "Quote tenor and rate",
+            "Reference industry tradition"
+          ],
+          "donts": [
+            "Use startup vocabulary",
+            "Photograph trading floors",
+            "Speak about quarters"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a creek-line monogram. BRANDYWINE in a sharp serif, CAPITAL PARTNERS set smaller beneath. A small meandering line — the Brandywine Creek — sits above. Used on credit agreements and annual reports.",
+        "colorPalette": [
+          {
+            "name": "Brandywine Green",
+            "hex": "#1F3B2C",
+            "meaning": "Creek valley forest.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Stone",
+            "hex": "#7A7670",
+            "meaning": "Brandywine bluestone.",
+            "usage": "Secondary"
+          },
+          {
+            "name": "Paper",
+            "hex": "#EDEAE3",
+            "meaning": "Credit agreement paper.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and credit documents",
+          "rationale": "Sectra carries institutional weight. GT America keeps credit documents clear."
+        }
       }
     ],
     "Creative": [
@@ -1315,6 +1554,72 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "A book serif for side-pocket records and customer correspondence.",
           "rationale": "The brand reads like a small printed publication on personal savings."
+        }
+      },
+      {
+        "brandName": "The Tip Jar Co",
+        "tagline": "Small payments, on purpose.",
+        "brandNameRationale": "A tip jar is the universal symbol of a small, voluntary payment for service. Naming the brand after the jar signals the product's posture: small payments, low friction, no contract.",
+        "industrySummary": "Creative fintech for small payments serves baristas, buskers, freelance writers, and indie creators who want a tip-or-pay tool that doesn't feel like a corporate processor. The brand is named, voiced, and designed for the receiver, not the payer.",
+        "competitorLandscape": "Buy Me a Coffee (buymeacoffee.com) holds the creator-tipping slot. Ko-fi (ko-fi.com) is the playful peer. Cash App (cash.app) is the consumer-payments precedent. We sit closer to Buy Me a Coffee in voice.",
+        "positioningStatement": "A tip-and-small-payment app named after the jar.",
+        "targetAudience": {
+          "primary": "20 to 45. Baristas, buskers, freelance writers, indie creators, podcasters. Receive 5 to 50 small payments a month. Want the funds in their account today, not next week.",
+          "behaviors": [
+            "Names the tip jar after a private joke",
+            "Will share the link with a thank-you note",
+            "Cares about same-day settlement"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Honest",
+          "Slightly funny",
+          "Receiver-first"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the receiver",
+            "Show the tip total",
+            "Use first person"
+          ],
+          "donts": [
+            "Use enterprise payments vocabulary",
+            "Photograph executives",
+            "Add product tiers"
+          ]
+        },
+        "logoDirection": "A wordmark with a small mason jar mark. THE TIP JAR CO set in a warm sans across two lines. Above the wordmark, a small mason jar outline with a single coin slot — the tip jar. The jar alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Tip Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Coin yellow.",
+            "usage": "Accent, the jar, certain stickers"
+          },
+          {
+            "name": "Counter Cream",
+            "hex": "#FAF6EC",
+            "meaning": "Cafe counter.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Settle Green",
+            "hex": "#1F8B4C",
+            "meaning": "Settled payment.",
+            "usage": "Status, success"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for amounts and timestamps",
+          "rationale": "Mori carries warmth. Mono for the dollar amount."
         }
       }
     ]

@@ -246,6 +246,66 @@
           "secondary": "A book serif for the printed catalog and mill stories.",
           "rationale": "Two related serifs. The brand reads like a careful textile publication."
         }
+      },
+      {
+        "brandName": "BOLT",
+        "tagline": "Cut from one bolt.",
+        "brandNameRationale": "A bolt is the standard unit a textile mill ships fabric in — typically 40 to 100 yards. Designers buy by the bolt. Naming the brand after the unit of raw material signals the production-first sourcing posture: we know where the fabric came from.",
+        "industrySummary": "Modern fashion brands post-2024 are increasingly transparent about fabric sourcing. The opportunity is to claim a single fabric origin — one mill, one bolt, one collection — and build a brand around the supply-chain clarity that creates.",
+        "competitorLandscape": "Lemaire (lemaire.fr) is the modern-considered fabric brand. Margaret Howell (margarethowell.co.uk) holds the considered-cotton slot. Toogood (toogood.com) sets the single-fabric collection precedent. We sit closer to Margaret Howell in posture.",
+        "positioningStatement": "Each collection built from one bolt of one fabric.",
+        "targetAudience": {
+          "primary": "28 to 50. Buys two to four pieces a year. Reads the inside label before the price tag. Will pay 3x for one piece that lasts ten years.",
+          "behaviors": [
+            "Tracks fabric mills by region",
+            "Will refuse a piece without a fiber-content label",
+            "Refers pieces by mill name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Sourcing-led",
+          "Modern",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the mill",
+            "Quote the bolt yardage",
+            "Show the fabric edge"
+          ],
+          "donts": [
+            "Use fast-fashion marketing",
+            "Photograph models on the move",
+            "Run flash sales"
+          ]
+        },
+        "logoDirection": "A wordmark. BOLT set in a tight modern grotesk with a small fabric-edge line above the word — the selvedge. The selvedge alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Mill Black",
+            "hex": "#0F0F12",
+            "meaning": "Undyed wool warp.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Unbleached",
+            "hex": "#F2EBDC",
+            "meaning": "Raw cotton.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Selvedge Red",
+            "hex": "#7E1F1A",
+            "meaning": "Traditional selvedge thread.",
+            "usage": "Accent, the edge line"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "GT Sectra for fabric specifications",
+          "rationale": "Söhne reads modern. Sectra carries the longer-form mill stories."
+        }
       }
     ],
     "Luxury": [
@@ -503,6 +563,66 @@
           "secondary": "An engraver's italic for the principal's signature on commissions.",
           "rationale": "Letterpress register throughout. The atelier communicates in printed Italian and English."
         }
+      },
+      {
+        "brandName": "Sartoria Como",
+        "tagline": "Silk from the lake.",
+        "brandNameRationale": "Como is the lake-and-town anchor of Italian silk production. The Como silk district has produced fabrics for couture houses since the 1500s — Mantero, Ratti, and others are still there. Sartoria means tailoring shop. Naming a luxury brand 'Tailoring shop in Como' is the most direct possible claim on the heritage.",
+        "industrySummary": "Luxury fashion at the silk and bespoke tier serves the buyer with a personal tailor and a Como-mill scarf collection. The product is one perfect piece per season, fitted in-person, made of fabric from a named mill.",
+        "competitorLandscape": "Loro Piana (loropiana.com) is the institutional Italian luxury benchmark. Brunello Cucinelli (brunellocucinelli.com) holds the considered-warm slot. Cesare Attolini (cesareattolini.com) is the bespoke peer. We sit closer to Cesare Attolini in posture.",
+        "positioningStatement": "Italian silk tailoring from one Como mill, fitted in person.",
+        "targetAudience": {
+          "primary": "50 to 75. Owns a personal tailor. Travels to Italy each spring. Reads Monocle. Pays for fittings, not for delivery.",
+          "behaviors": [
+            "Visits the mill annually",
+            "Names his fabric merchant",
+            "Pays via wire over six months"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Italian",
+          "Artisan",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the mill and the weaver",
+            "Use Italian where appropriate",
+            "Speak in seasons"
+          ],
+          "donts": [
+            "Photograph models alone",
+            "Run sales",
+            "Speak about price"
+          ]
+        },
+        "logoDirection": "An ornate wordmark with a small lake-of-Como contour mark. SARTORIA COMO in a classical Italian serif, all caps. A small drawn outline of Lake Como sits above. Used embossed on leather hangtags.",
+        "colorPalette": [
+          {
+            "name": "Como Blue",
+            "hex": "#1F3A4D",
+            "meaning": "Lake Como water.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Mill Gold",
+            "hex": "#A8893E",
+            "meaning": "Silk-thread brass.",
+            "usage": "Accent, foil"
+          },
+          {
+            "name": "Linen",
+            "hex": "#F2EBDC",
+            "meaning": "Workshop cloth.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "Bodoni 72 for the wordmark",
+          "secondary": "Adobe Garamond for body and product cards",
+          "rationale": "Bodoni carries the Italian display tradition. Garamond keeps the body warm."
+        }
       }
     ],
     "Minimal": [
@@ -703,6 +823,59 @@
           "primary": "One neutral grotesque, regular only.",
           "secondary": "No second face.",
           "rationale": "One typeface across the labels, the website, and the receipt."
+        }
+      },
+      {
+        "brandName": "INSEAM",
+        "tagline": "Cut to the inseam.",
+        "brandNameRationale": "Inseam is the tailor's measurement from crotch to ankle on the inside of the leg — the foundational fit dimension for trousers, jeans, and chinos. Six letters. Naming the brand after the measurement signals the fit-first posture.",
+        "industrySummary": "Minimal fashion targets the buyer who wants one perfect pair of trousers, in three colors. The product is a single silhouette, fitted to the inseam, sold by exact dimension rather than nominal size.",
+        "competitorLandscape": "COS (cos.com) holds the minimal-fashion slot. Everlane (everlane.com) is the considered-DTC peer. Asket (asket.com) is the dimensional-fit precedent. We sit closer to Asket in posture.",
+        "positioningStatement": "One trouser silhouette, three colors, six inseams.",
+        "targetAudience": {
+          "primary": "25 to 45. Has a tape measure at home. Knows their inseam to the half inch. Will return for a perfect dimension over a perfect color.",
+          "behaviors": [
+            "Measures own inseam before ordering",
+            "Will order three of the same trouser",
+            "Reads materials by GSM"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Quiet",
+          "Fit-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the dimension",
+            "Show the trouser alone",
+            "End the screen with order"
+          ],
+          "donts": [
+            "Show a styled outfit",
+            "Run sales",
+            "Use seasonal vocabulary"
+          ]
+        },
+        "logoDirection": "A wordmark. INSEAM set in a humanist sans, six letters, slightly weighted. The whole brand is the word. The favicon is a small tape-measure tick mark.",
+        "colorPalette": [
+          {
+            "name": "Inseam Black",
+            "hex": "#0F0F12",
+            "meaning": "Tailor's chalk on dark cloth.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Tape Cream",
+            "hex": "#F4F1EA",
+            "meaning": "Tape measure.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for measurements",
+          "rationale": "One family. Mono for the dimension."
         }
       }
     ],
@@ -935,6 +1108,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and supply-chain documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Garment District Holdings",
+        "tagline": "A multi-brand apparel operating group anchored in New York.",
+        "brandNameRationale": "The Garment District is the historic Midtown Manhattan neighborhood where the American apparel industry was built (and partially survives). Naming the firm after the district claims American apparel manufacturing heritage as the operating identity.",
+        "industrySummary": "Corporate apparel holdings own portfolios of mid-tier brands across women's, men's, and accessories categories. The buyer is large retail wholesale, department store buyers, and institutional licensing partners.",
+        "competitorLandscape": "PVH Corp (pvh.com) is the institutional peer. Authentic Brands Group (authentic.com) holds the multi-brand licensing slot. G-III Apparel (g-iii.com) is the closest competitor. We sit one tier below PVH with a sharper Garment District anchor.",
+        "positioningStatement": "A New York multi-brand apparel operating group across women's, men's, and accessories.",
+        "targetAudience": {
+          "primary": "45 to 65. Retail buyers at large American chains. Department store fashion directors. Institutional licensing partners. Manage apparel portfolios above $100M revenue.",
+          "behaviors": [
+            "Plans seasonal buys 12 to 18 months out",
+            "Attends MAGIC and Coterie",
+            "Requires SKU-level margin analysis"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Heritage",
+          "New York"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite portfolio brands",
+            "Quote NY operating heritage",
+            "Reference institutional partners"
+          ],
+          "donts": [
+            "Use consumer fashion vocabulary",
+            "Photograph runway shows",
+            "Mention individual designers"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a Manhattan-grid monogram. GARMENT DISTRICT in a sharp serif, HOLDINGS set smaller beneath. The monogram is a stylized Manhattan street grid intersection. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Garment Navy",
+            "hex": "#0B2545",
+            "meaning": "Institutional posture.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Tweed",
+            "hex": "#7A7670",
+            "meaning": "Wool tweed.",
+            "usage": "Secondary"
+          },
+          {
+            "name": "Pattern Cream",
+            "hex": "#EDEAE3",
+            "meaning": "Pattern paper.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and trade communications",
+          "rationale": "Sectra reads institutional. GT America keeps trade communications efficient."
+        }
       }
     ],
     "Creative": [
@@ -1156,6 +1389,72 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "A book serif for construction notes and customer correspondence.",
           "rationale": "Two related serifs. The brand reads like a small printed publication on garment construction."
+        }
+      },
+      {
+        "brandName": "The Pattern Cutter Co",
+        "tagline": "Cut by people who still cut.",
+        "brandNameRationale": "The pattern cutter is the artisan who translates a designer's sketch into the paper pattern that becomes the garment. It's a fast-disappearing role — most modern brands skip it via digital pattern-making software. Naming the brand after the cutter signals: real pattern-making, by real cutters.",
+        "industrySummary": "Creative fashion serves customers tired of mass-produced fast fashion. The brand should feel like a small workshop where actual humans cut pieces by hand and the cutter's name is on the inside label.",
+        "competitorLandscape": "Bode (bode.com) holds the considered-craft slot. Wales Bonner (walesbonner.net) is the heritage-craft peer. Studio Nicholson (studionicholson.com) is the considered-modern precedent. We sit closer to Bode in voice.",
+        "positioningStatement": "Garments cut by named cutters in a small workshop.",
+        "targetAudience": {
+          "primary": "25 to 45. Buys three to six pieces a year. Cares about who made it. Will pay 2x for a named cutter's piece. Posts the inside label.",
+          "behaviors": [
+            "Photographs the inside label",
+            "Names the cutter when recommending",
+            "Returns to the same cutter season after season"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Craft",
+          "Honest",
+          "Slightly funny"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cutter",
+            "Show the pattern paper",
+            "Use first person"
+          ],
+          "donts": [
+            "Photograph models alone",
+            "Use trend vocabulary",
+            "Run sales"
+          ]
+        },
+        "logoDirection": "A wordmark with a small scissors mark. THE PATTERN CUTTER CO set in a warm sans across two lines. Above the wordmark, a small open-scissors pictogram. The scissors alone is a sticker.",
+        "colorPalette": [
+          {
+            "name": "Pattern Yellow",
+            "hex": "#F5C518",
+            "meaning": "Pattern-paper yellow.",
+            "usage": "Accent, the scissors"
+          },
+          {
+            "name": "Cloth Cream",
+            "hex": "#FAF6EC",
+            "meaning": "Unbleached muslin.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Pencil Gray",
+            "hex": "#6B7280",
+            "meaning": "Pattern pencil.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for product descriptions",
+          "rationale": "Mori carries warmth. Sectra makes the product copy feel like a small magazine."
         }
       }
     ]

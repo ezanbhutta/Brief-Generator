@@ -266,6 +266,72 @@
           "secondary": "A book serif for grain-bill notes.",
           "rationale": "Two related serifs."
         }
+      },
+      {
+        "brandName": "Single Hop Brewing",
+        "tagline": "One variety. One beer.",
+        "brandNameRationale": "Single hop is a brewing technique that uses one variety of hop in a beer, so the drinker can taste exactly what that hop tastes like (rather than a complex blend). Specialty breweries occasionally release a single-hop series. Naming the whole brewery after the technique signals: every beer we make is built around exactly one hop.",
+        "industrySummary": "Modern craft brewing in 2025+ has saturated the IPA market and is fragmenting. The opportunity is rigorous, hop-forward identity — a brewery that releases beers tied to specific hop varieties (Citra, Mosaic, Galaxy, Strata) and educates drinkers about the differences.",
+        "competitorLandscape": "Other Half Brewing (otherhalfbrewing.com) holds the modern-hop-forward slot. Trillium (trilliumbrewing.com) is the considered IPA peer. Equilibrium Brewery (eqbrew.com) is the considered-brewing precedent. We sit closer to Other Half in posture.",
+        "positioningStatement": "Every beer brewed with one hop variety, named on the can.",
+        "targetAudience": {
+          "primary": "25 to 45. IPA-literate craft drinker. Knows three hop varieties by smell. Buys by hop variety, not by style. Posts the hop name on Untappd.",
+          "behaviors": [
+            "Buys beers by hop variety release",
+            "Reads brewer's notes",
+            "Will travel for a fresh small-batch release"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Hop-forward",
+          "Modern",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the hop",
+            "Quote IBUs and alpha acid",
+            "Show the cone"
+          ],
+          "donts": [
+            "Use the word 'craft' generically",
+            "Photograph the brewer's beard",
+            "Brew a stout"
+          ]
+        },
+        "logoDirection": "A wordmark with a hop-cone mark. SINGLE HOP BREWING set across two lines in a tight modern grotesk. Above the wordmark, a single hop-cone pictogram. The hop cone alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Hop Green",
+            "hex": "#5C7C5E",
+            "meaning": "Fresh hop cone.",
+            "usage": "Wordmark, the cone"
+          },
+          {
+            "name": "Wort Gold",
+            "hex": "#F5C518",
+            "meaning": "Wort in the kettle.",
+            "usage": "Accent, certain cans"
+          },
+          {
+            "name": "Can Aluminum",
+            "hex": "#D4D4D6",
+            "meaning": "Bare can.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for IBU and ABV specs",
+          "rationale": "Söhne reads modern. Mono carries the brewing data."
+        }
       }
     ],
     "Luxury": [
@@ -538,6 +604,66 @@
           "secondary": "An engraver's italic for the founding year.",
           "rationale": "Letterpress register."
         }
+      },
+      {
+        "brandName": "Brouwerij De Klok",
+        "tagline": "Slow beer from a small town.",
+        "brandNameRationale": "Brouwerij means brewery in Dutch. De Klok means 'The Clock' — a name that signals the brewery is anchored in the town square, marking time as breweries have for centuries. The name is in Dutch because Belgium and the Netherlands together carry the most considered slow-brewing tradition in Europe.",
+        "industrySummary": "Luxury beer at the Belgian Trappist / Dutch small-brewery tier serves drinkers who want slow-fermented, bottle-conditioned beer with a clear provenance. The product is one or two beers per season, sold in 75cl corked bottles, distributed to a small number of named accounts.",
+        "competitorLandscape": "Westvleteren (sintsixtus.be) is the institutional Belgian Trappist peer. Cantillon (cantillon.be) holds the lambic-specialist slot. De Garre (degarre.be) is the considered Bruges precedent. We sit closer to Cantillon in posture.",
+        "positioningStatement": "A small Dutch-Belgian brewery making two slow-fermented beers per season.",
+        "targetAudience": {
+          "primary": "40 to 65. Beer collector with a cellar. Subscribes to Beer Connoisseur. Travels to Belgium twice a year. Pays €40 a bottle without complaint.",
+          "behaviors": [
+            "Holds bottles in a temperature-controlled cellar",
+            "Trades bottles with other collectors",
+            "Visits the brewery during the seasonal release"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Slow",
+          "Trappist-adjacent",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the town square",
+            "Use Dutch where appropriate",
+            "Speak in seasons"
+          ],
+          "donts": [
+            "Photograph the brewer in flannel",
+            "Run a tap room launch",
+            "Use 'craft' vocabulary"
+          ]
+        },
+        "logoDirection": "A wordmark with a small clock-tower mark. BROUWERIJ DE KLOK in a classical serif. Above the wordmark, a small clock tower outline in profile. Used embossed on the cork tag.",
+        "colorPalette": [
+          {
+            "name": "Square Brown",
+            "hex": "#5C3A21",
+            "meaning": "Town square cobblestone.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Brick Red",
+            "hex": "#7E1F1A",
+            "meaning": "Town square brick.",
+            "usage": "Accent, the clock"
+          },
+          {
+            "name": "Foam Cream",
+            "hex": "#F2EBDC",
+            "meaning": "Beer head.",
+            "usage": "Backgrounds, label"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark",
+          "secondary": "Adobe Caslon for body and bottle notes",
+          "rationale": "Caslon family across the system carries European editorial tradition."
+        }
       }
     ],
     "Minimal": [
@@ -796,6 +922,65 @@
           "primary": "One neutral grotesque, regular and medium.",
           "secondary": "Same family.",
           "rationale": "One typeface."
+        }
+      },
+      {
+        "brandName": "POUR",
+        "tagline": "Glass, beer, settle.",
+        "brandNameRationale": "Pour is the verb the drinker performs. Four letters. The brand names the act.",
+        "industrySummary": "Minimal brewing serves drinkers tired of crowded shelves and busy labels. The product is one beer in two formats — bottle and on tap — sold in plain glass with a single label line.",
+        "competitorLandscape": "Suarez Family Brewery (suarezfamilybrewery.com) holds the considered-minimal slot. Sketchbook Brewing (sketchbookbrewing.com) is the small-batch peer. Live Oak Brewing (liveoakbrewing.com) is the single-style precedent. We sit closer to Suarez in posture.",
+        "positioningStatement": "One beer, one format, one label.",
+        "targetAudience": {
+          "primary": "25 to 45. Drinks one beer a night. Doesn't follow trends. Will buy the same six-pack for a decade. Hates seasonal release calendars.",
+          "behaviors": [
+            "Buys the same beer weekly",
+            "Will not switch to a seasonal",
+            "Reads the ABV and the IBU and nothing else"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Disciplined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the style and the ABV",
+            "Show the bottle alone",
+            "End the page with order"
+          ],
+          "donts": [
+            "Run seasonal release campaigns",
+            "Use 'craft' vocabulary",
+            "Photograph the tap handle"
+          ]
+        },
+        "logoDirection": "A wordmark. POUR set in a humanist sans, four letters. The whole brand is the word. The favicon is a single horizontal line — the beer's settle line in the glass.",
+        "colorPalette": [
+          {
+            "name": "Beer Amber",
+            "hex": "#A37E3B",
+            "meaning": "Beer color.",
+            "usage": "Accent, label"
+          },
+          {
+            "name": "Glass Cream",
+            "hex": "#F4F1EA",
+            "meaning": "Settle foam.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for ABV and IBU",
+          "rationale": "One family. Mono for the spec."
         }
       }
     ],
@@ -1088,6 +1273,66 @@
           "secondary": "A clean enterprise grotesque for operational reports.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "The Tied House Group",
+        "tagline": "A multi-brand brewery and pub operating group.",
+        "brandNameRationale": "A 'tied house' is the historic British structure where a pub is contractually tied to a single brewery and sells only that brewery's beer. The term comes from 19th-century brewing economics. Naming a corporate holding 'The Tied House Group' signals: we own breweries and pubs together, in the classic British structure.",
+        "industrySummary": "Corporate brewery holdings own portfolios of breweries, distribution agreements, and pub estates. The buyer is institutional capital, large distributors, and pub-chain operators.",
+        "competitorLandscape": "Marston's (marstons.co.uk) is the British pub-and-brewery group peer. Greene King (greeneking.co.uk) holds the institutional slot. Anheuser-Busch InBev (ab-inbev.com) is the global precedent. We sit one tier below Marston's with a sharper tied-house structure.",
+        "positioningStatement": "A British brewery-and-pub holding company operating tied-house estates.",
+        "targetAudience": {
+          "primary": "45 to 65. Institutional investors in pub estates. Pub operators. Distribution partners. Manage portfolios above £100M revenue.",
+          "behaviors": [
+            "Reads trade press (Morning Advertiser, BeerToday)",
+            "Attends industry trade fairs",
+            "Coordinates supplier agreements across estates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "British",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite portfolio breweries and pubs",
+            "Quote estate footprint",
+            "Reference institutional partners"
+          ],
+          "donts": [
+            "Use consumer brewing vocabulary",
+            "Photograph individual pints",
+            "Mention founders"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a pub-sign monogram. THE TIED HOUSE GROUP in a sharp serif. A small hanging pub-sign rectangle sits above. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Tied House Brown",
+            "hex": "#5C3A21",
+            "meaning": "Pub mahogany.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A8893E",
+            "meaning": "Pub-sign brass.",
+            "usage": "Accent, monogram"
+          },
+          {
+            "name": "Bar Cream",
+            "hex": "#EDEAE3",
+            "meaning": "Pub wall.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and trade communications",
+          "rationale": "Sectra carries institutional weight. GT America keeps trade communications efficient."
+        }
       }
     ],
     "Creative": [
@@ -1369,6 +1614,72 @@
           "primary": "A quiet display serif for the wordmark.",
           "secondary": "A book serif for the quarterly essay.",
           "rationale": "Two related serifs."
+        }
+      },
+      {
+        "brandName": "Yeast & Co",
+        "tagline": "The actually important ingredient.",
+        "brandNameRationale": "Yeast is the microorganism that does the entire job of brewing — converting sugar to alcohol. Brewers obsess over it; drinkers rarely think about it. Naming the brewery 'Yeast & Co' centers the unsung hero of the process and signals: we know what's actually doing the work.",
+        "industrySummary": "Creative brewing serves drinkers who want personality and process literacy from their brewery. The brand should feel like a homebrewing friend who happens to scale up and who never lets you forget that the yeast is the star.",
+        "competitorLandscape": "De Garde Brewing (degardebrewing.com) holds the yeast-forward slot. Side Project Brewing (sideprojectbrewing.com) is the considered-mixed-fermentation peer. Casey Brewing (caseybrewing.com) is the wild-yeast precedent. We sit closer to Side Project in voice.",
+        "positioningStatement": "A brewery that lets the yeast be the star.",
+        "targetAudience": {
+          "primary": "30 to 50. Homebrewing-literate drinker. Knows the difference between Brettanomyces and Saccharomyces. Reads the yeast strain on the label. Trades bottles with friends.",
+          "behaviors": [
+            "Reads the strain code on the label",
+            "Maintains a homebrew log",
+            "Refers other beer-curious friends to the brewery"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Process-literate",
+          "Honest",
+          "Slightly nerdy"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the yeast strain",
+            "Show the fermenter",
+            "Use first person"
+          ],
+          "donts": [
+            "Use 'craft' vocabulary",
+            "Photograph the brewer's flannel",
+            "Run hop-forward marketing"
+          ]
+        },
+        "logoDirection": "A wordmark with a small yeast-bud mark. YEAST & CO set in a warm sans across two lines. Above the wordmark, a small budding-yeast pictogram — two attached circles, the bud forming off the mother cell. The bud alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Fermenter Steel",
+            "hex": "#5A5A60",
+            "meaning": "Stainless fermenter.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Krausen Cream",
+            "hex": "#FAF6EC",
+            "meaning": "Krausen foam at active fermentation.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Wort Gold",
+            "hex": "#F5C518",
+            "meaning": "Wort color.",
+            "usage": "Accent, the bud"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT America for body and brew logs",
+          "rationale": "Mori carries warmth. GT America keeps the brew logs readable."
         }
       }
     ]
