@@ -266,6 +266,66 @@
           "secondary": "A book serif for project narratives.",
           "rationale": "Two faces."
         }
+      },
+      {
+        "brandName": "CANTILEVER",
+        "tagline": "Build what shouldn't stand up.",
+        "brandNameRationale": "A cantilever is a structural member supported at only one end. Frank Lloyd Wright used it to drop Fallingwater's terraces over a waterfall. Mies used it in the Barcelona Pavilion's chair. Naming the practice after this single move signals: we are the structural-engineering-first studio. We do the audacious thing only when it actually stands up.",
+        "industrySummary": "Modern architecture practices in 2025+ split between fast-iteration residential studios and slow-cycle institutional firms. The opportunity is the structurally ambitious mid-size studio that takes on commissions where the engineering is the architecture.",
+        "competitorLandscape": "Studio Gang (studiogang.com) is the structurally inventive peer. SANAA (sanaa.co.jp) holds the engineering-first international slot. Diller Scofidio + Renfro (dsrny.com) sets the institutional ambition bar. We sit closer to Studio Gang in scale.",
+        "positioningStatement": "An architecture practice where structure leads the form.",
+        "targetAudience": {
+          "primary": "40 to 60. Cultural commission directors, ambitious private clients, mid-tier institutional principals. Have built before. Want a studio that says yes to the difficult geometry and means it.",
+          "behaviors": [
+            "Reads the structural calculations before the renderings",
+            "Visits the engineering office during design development",
+            "Will pay for an extra round of finite element analysis"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Ambitious",
+          "Modern",
+          "Engineering-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote the span",
+            "Name the engineer",
+            "Show the structural diagram"
+          ],
+          "donts": [
+            "Render at golden hour without a person",
+            "Use 'innovative' loosely",
+            "Hide the column"
+          ]
+        },
+        "logoDirection": "A wordmark with a single horizontal beam extending past the C. CANTILEVER set in a tight modern grotesk, with a thin horizontal line projecting 30% past the left edge — the cantilever. The beam alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Beam Black",
+            "hex": "#0F1014",
+            "meaning": "Steel beam.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Concrete",
+            "hex": "#B8B8B5",
+            "meaning": "Poured form.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Drawing Red",
+            "hex": "#D7263D",
+            "meaning": "Annotation pen.",
+            "usage": "Single accent, annotations"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne Breit for the wordmark",
+          "secondary": "Söhne Mono for structural notes and spans",
+          "rationale": "Breit for the wordmark's structural stance. Mono carries the calculation."
+        }
       }
     ],
     "Luxury": [
@@ -538,6 +598,66 @@
           "secondary": "An old-style serif for body.",
           "rationale": "Letterpress register."
         }
+      },
+      {
+        "brandName": "Vauban Architects",
+        "tagline": "Considered fortification.",
+        "brandNameRationale": "Sébastien Le Prestre de Vauban (1633–1707) was Louis XIV's military engineer, designer of 33 new fortified citadels and renovator of 300 more. His name has come to mean rigorous, strategic, geometrically perfect design. Twelve of his fortifications are UNESCO World Heritage sites. Naming the practice after Vauban signals: we design with three-century horizons.",
+        "industrySummary": "Luxury architecture at the country house and institutional tier serves clients building or restoring buildings meant to outlast them. The deliverable is a slim drawing set, four years of construction, and a building that ages into its setting.",
+        "competitorLandscape": "Atelier de l'Île (atelierdelile.fr) is the French luxury heritage precedent. Foster + Partners (fosterandpartners.com) holds the institutional luxury slot. Robert A.M. Stern Architects (ramsa.com) is the American country-house peer. We sit closer to Atelier de l'Île in posture.",
+        "positioningStatement": "An architecture practice for clients building three-century buildings.",
+        "targetAudience": {
+          "primary": "55 to 75. Family principals, cultural institution chairs, estate trustees. Projects of $20M and up. Plan in years and decades. Care about how the building will be talked about in 2125.",
+          "behaviors": [
+            "Walks the site with the architect monthly",
+            "Reads architectural history before consulting peers",
+            "Pays through the family office over four-year drawdowns"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Strategic",
+          "Patient",
+          "Geometric"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite precedent buildings",
+            "Speak in decades",
+            "Write in full paragraphs"
+          ],
+          "donts": [
+            "Render in glossy magazine style",
+            "Publish on Instagram",
+            "Speak about 'innovation'"
+          ]
+        },
+        "logoDirection": "An institutional wordmark. VAUBAN ARCHITECTS in a sharp classical serif, all caps, tracked. A small star-fort plan diagram (the Vauban signature: pentagonal bastions) sits above. Used embossed on the project drawing cover sheet.",
+        "colorPalette": [
+          {
+            "name": "Citadel Stone",
+            "hex": "#7A7670",
+            "meaning": "Limestone fortification.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Ink Navy",
+            "hex": "#0E1B33",
+            "meaning": "Plan drawing ink.",
+            "usage": "Type, secondary"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F1EBDC",
+            "meaning": "Architectural vellum.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark",
+          "secondary": "GT Sectra Text for body and correspondence",
+          "rationale": "Sectra family carries French institutional weight across the system."
+        }
       }
     ],
     "Minimal": [
@@ -796,6 +916,59 @@
           "primary": "A precise grotesque for the wordmark and captions.",
           "secondary": "Same family for drawing labels.",
           "rationale": "One typeface."
+        }
+      },
+      {
+        "brandName": "PLUMB",
+        "tagline": "Vertical and right.",
+        "brandNameRationale": "Plumb is the architectural and building word for true vertical — the reference line dropped by gravity. Carpenters say 'true and plumb' when a wall is correct. Five letters. The brand names the most basic test of architectural rightness.",
+        "industrySummary": "Minimal architecture practices target clients who want one good move done correctly — a thoughtful renovation, a single new room, a quiet pavilion. Single-project focus, fixed price, no upsell into a multi-phase program.",
+        "competitorLandscape": "Studio Saxe (studiosaxe.com) holds the minimal-residential slot. Office of Architecture (officeofarchitecture.com) is the closest peer. Architects Workshop (architectsworkshop.com) is the small-scope precedent. We sit closer to Office of Architecture in posture.",
+        "positioningStatement": "Architecture practice that takes one project, finishes it, and leaves.",
+        "targetAudience": {
+          "primary": "35 to 55. Homeowner planning one major renovation. Has been burned by a multi-phase architect engagement. Wants a clear scope, a fixed price, and a finished room by spring.",
+          "behaviors": [
+            "Reads the contract before the renderings",
+            "Will not commit to phase two during phase one",
+            "Pays a single retainer up front"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Single-scope"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the scope clearly",
+            "Show the finished work",
+            "End the page with contact"
+          ],
+          "donts": [
+            "Discuss future phases",
+            "Render speculative work",
+            "Run a portfolio reel"
+          ]
+        },
+        "logoDirection": "A wordmark. PLUMB set in a humanist sans, five letters, slightly weighted. A small plumb-bob mark hangs from the P — the gravity reference. The plumb-bob alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Plumb Black",
+            "hex": "#0F0F12",
+            "meaning": "Plumb-bob iron.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Drafting Cream",
+            "hex": "#F4F1EA",
+            "meaning": "Drafting paper.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for dimensions",
+          "rationale": "One family. Mono for the measurement."
         }
       }
     ],
@@ -1088,6 +1261,66 @@
           "secondary": "A clean enterprise grotesque for operational reports.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Bishop & Lefebvre Group",
+        "tagline": "An architecture and planning group across three continents.",
+        "brandNameRationale": "Lefebvre is the surname of Henri Lefebvre (1901–1991), the French sociologist whose The Production of Space (1974) is the foundational theory text of modern urbanism. Naming the firm with this surname (paired with Bishop, an English anchor) signals a planning practice that takes social theory seriously alongside the drawing set.",
+        "industrySummary": "Corporate architecture groups deliver multi-discipline practice across architecture, planning, landscape, and engineering. The buyer is institutional clients — corporate campuses, mixed-use developers, public infrastructure agencies.",
+        "competitorLandscape": "AECOM (aecom.com) is the institutional peer. Arup (arup.com) holds the engineering-led precedent. HKS (hksinc.com) is the multi-discipline reference. We sit one tier below AECOM with a sharper planning-theory posture.",
+        "positioningStatement": "A multi-discipline architecture and planning group for institutional clients.",
+        "targetAudience": {
+          "primary": "45 to 60. Heads of corporate real estate, public agency commissioners, mixed-use developers. Manage project budgets above $50M. Care about delivery schedule, planning approvals, and multi-discipline coordination.",
+          "behaviors": [
+            "Issues multi-discipline RFPs",
+            "Reviews vendor planning permits regularly",
+            "Renews based on multi-year framework agreements"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-discipline",
+          "Steady",
+          "Theory-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite multi-discipline delivery",
+            "Reference planning frameworks",
+            "Quote framework agreements"
+          ],
+          "donts": [
+            "Use startup vocabulary",
+            "Photograph individual buildings",
+            "Mention founders by name"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a planning-grid monogram. BISHOP & LEFEBVRE GROUP in a classical serif. A small grid monogram of crossed planning lines sits above, used on framework agreements.",
+        "colorPalette": [
+          {
+            "name": "Civic Navy",
+            "hex": "#0B2545",
+            "meaning": "Civic posture.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Granite",
+            "hex": "#5A5A60",
+            "meaning": "Public-building stone.",
+            "usage": "Secondary"
+          },
+          {
+            "name": "Drafting Cream",
+            "hex": "#EDEAE3",
+            "meaning": "Drafting paper.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and tender documents",
+          "rationale": "Sectra carries institutional weight. GT America keeps tender documents efficient."
+        }
       }
     ],
     "Creative": [
@@ -1369,6 +1602,72 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "A book serif for drawing captions.",
           "rationale": "Two related serifs."
+        }
+      },
+      {
+        "brandName": "The Stair Hall Co",
+        "tagline": "Architecture for the moment between floors.",
+        "brandNameRationale": "The stair hall is the architectural moment everyone uses but no one designs. It's where the architecture changes from a public space to a more private one — the threshold. Naming the studio after this overlooked moment signals: we design what no one else notices.",
+        "industrySummary": "Creative architecture studios serve clients who want personality, voice, and small details over grand gestures. The brand should feel like a friend who happens to draw — and who's especially good at the parts most architects skip.",
+        "competitorLandscape": "Studio MUTT (studio-mutt.com) holds the considered-detail-led slot. Office S&M (officesandm.com) is the playful peer. Apparata (apparata.com) is the modern-considered precedent. We sit closer to Office S&M in voice.",
+        "positioningStatement": "An architecture studio that does the parts other architects skip.",
+        "targetAudience": {
+          "primary": "30 to 50. First-home renovators, friend-group developers, small commercial clients. Have specific opinions about handrails. Want an architect who'll respond to their text message.",
+          "behaviors": [
+            "Photographs the handrail, not the elevation",
+            "Refers the architect by first name",
+            "Brings the architect to dinner"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Detail-led",
+          "Honest",
+          "Slightly funny"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the detail",
+            "Name the contractor",
+            "Use first person"
+          ],
+          "donts": [
+            "Photograph buildings at dusk without a person",
+            "Use the word 'iconic'",
+            "Speak about 'design language'"
+          ]
+        },
+        "logoDirection": "A wordmark with a small stair pictogram. THE STAIR HALL CO set in a warm sans across two lines. Above the wordmark, a small four-step staircase in profile — the stair the studio is named after. The stair alone is the favicon and sticker.",
+        "colorPalette": [
+          {
+            "name": "Stair Cream",
+            "hex": "#F4EBD5",
+            "meaning": "Limewashed stair wall.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Handrail Brown",
+            "hex": "#5C3A21",
+            "meaning": "Oiled wood handrail.",
+            "usage": "Wordmark, accent"
+          },
+          {
+            "name": "Slate",
+            "hex": "#3A3A40",
+            "meaning": "Stair tread slate.",
+            "usage": "Body, type"
+          },
+          {
+            "name": "Newel Brass",
+            "hex": "#A8893E",
+            "meaning": "Newel cap brass.",
+            "usage": "Accent, foil"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for project descriptions",
+          "rationale": "Mori has warmth. Sectra carries the longer-form project stories."
         }
       }
     ]

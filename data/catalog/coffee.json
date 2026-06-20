@@ -254,6 +254,66 @@
           "secondary": "A book serif for the producer farm features.",
           "rationale": "Two related serifs. The brand reads like a careful coffee publication."
         }
+      },
+      {
+        "brandName": "HUSK",
+        "tagline": "The whole cherry, not just the bean.",
+        "brandNameRationale": "The husk is the dried skin and pulp of the coffee cherry — what farmers used to throw away. Cascara (Spanish for husk) is now the third wave's most considered byproduct: brewed as a tea, dried as a sweetener, used in syrups. Naming the brand after the husk signals the producer-first sourcing posture: we buy the whole cherry, not just the seed inside.",
+        "industrySummary": "Modern specialty coffee post-2024 is fragmenting between the precision-roaster premium tier and the experiential-cafe tier. The whole-cherry movement (cascara, honey-process, anaerobic) is the next opportunity — a category that didn't exist in 2018.",
+        "competitorLandscape": "Sey Coffee (seycoffee.com) is the precision-roaster benchmark. Onyx Coffee Lab (onyxcoffeelab.com) holds the producer-first slot. Cometeer (cometeer.com) sets the modern format precedent. We sit closer to Sey in posture, with sharper whole-cherry sourcing.",
+        "positioningStatement": "A roaster that buys the whole cherry and brews every part of it.",
+        "targetAudience": {
+          "primary": "28 to 45. Home brewer with a Fellow Ode and a Wilfa Svart. Buys beans by origin and process, not roast level. Reads producer interviews on Sprudge. Has tried cascara at least once.",
+          "behaviors": [
+            "Refers to coffees by farm name",
+            "Will pay $35/12oz for a small lot",
+            "Stocks two grinders for two brew methods"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Producer-first",
+          "Modern",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the farm and the producer",
+            "Quote the processing method",
+            "Show the cherry"
+          ],
+          "donts": [
+            "Use the word 'craft'",
+            "Photograph latte art",
+            "Lecture about brew ratios on the bag"
+          ]
+        },
+        "logoDirection": "A wordmark. HUSK set in a tight modern grotesk, with a single dotted outline around the word — the shape of the cherry's husk after the seed is removed. The dotted outline alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Cherry Red",
+            "hex": "#8B1A1A",
+            "meaning": "Ripe coffee cherry at harvest.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Husk",
+            "hex": "#A37E5A",
+            "meaning": "Dried cherry skin. The cascara color.",
+            "usage": "Accent, bags"
+          },
+          {
+            "name": "Pulp Cream",
+            "hex": "#F4EBD5",
+            "meaning": "Inner pulp before drying.",
+            "usage": "Backgrounds, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "GT Sectra for producer interviews and origin notes",
+          "rationale": "Söhne reads modern. Sectra carries the longer-form producer stories."
+        }
       }
     ],
     "Luxury": [
@@ -510,6 +570,72 @@
           "secondary": "An engraver's italic for member names in the annual journal.",
           "rationale": "Letterpress register throughout. The society communicates primarily in print."
         }
+      },
+      {
+        "brandName": "Cafezinho House",
+        "tagline": "The small coffee, all day.",
+        "brandNameRationale": "Cafezinho is the Portuguese word for the small, strong, often sweetened cup served all day in Brazilian households — to guests, to neighbors, between meals. The word literally means 'little coffee.' Naming the brand after this domestic ritual claims Brazilian hospitality as the posture, not Italian espresso theater.",
+        "industrySummary": "Luxury Brazilian-origin coffee serves the buyer who knows that Brazil produces a third of the world's coffee but rarely gets the prestige treatment. The opportunity is to build a single-origin Brazilian brand at the same tier as the Geisha-from-Panama buyer.",
+        "competitorLandscape": "Daterra (daterracoffee.com.br) is the Brazilian-luxury origin precedent. Hacienda La Esmeralda (haciendaesmeralda.com) holds the single-estate benchmark in Panama. Café Granja La Esperanza (cafegranjalaesperanza.com) is the Colombian peer. We sit closest to Daterra, claiming the Brazilian seat.",
+        "positioningStatement": "A Brazilian household coffee, sourced from one fazenda.",
+        "targetAudience": {
+          "primary": "45 to 65. Coffee connoisseur with two espresso machines and an income that allows it. Travels to origin. Knows the names of three farmers. Drinks Brazilian coffee for breakfast and Geisha after dinner.",
+          "behaviors": [
+            "Visits the fazenda annually",
+            "Buys 5kg lots from named producers",
+            "Pays via wire"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Domestic",
+          "Patient",
+          "Brazilian"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the fazenda and the family",
+            "Use Portuguese terms where right",
+            "Speak about household, not cafe"
+          ],
+          "donts": [
+            "Use Italian terms inappropriately",
+            "Photograph latte art",
+            "Run a flash sale"
+          ]
+        },
+        "logoDirection": "A wordmark with a small porcelain cup. CAFEZINHO HOUSE in a classical Portuguese serif, all caps. Above the wordmark, a small thimble-size porcelain cup outline — the cafezinho cup itself. Used embossed on the tin.",
+        "colorPalette": [
+          {
+            "name": "Fazenda Green",
+            "hex": "#1F3B2C",
+            "meaning": "Brazilian coffee plantation hedge.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Roasted Brown",
+            "hex": "#3A2A1F",
+            "meaning": "Medium-dark Brazilian roast.",
+            "usage": "Secondary, type"
+          },
+          {
+            "name": "Porcelain",
+            "hex": "#F2EBDC",
+            "meaning": "Cafezinho cup.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#A8893E",
+            "meaning": "Tin stamping.",
+            "usage": "Cup mark, foil"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and body",
+          "secondary": "Adobe Caslon for producer letters",
+          "rationale": "Sectra carries Brazilian editorial weight. Caslon makes producer correspondence feel hand-written."
+        }
       }
     ],
     "Minimal": [
@@ -746,6 +872,65 @@
           "primary": "One neutral grotesque, regular only.",
           "secondary": "No second face.",
           "rationale": "One typeface across the counter sign, the receipt, and the website."
+        }
+      },
+      {
+        "brandName": "TARE",
+        "tagline": "Subtract the cup.",
+        "brandNameRationale": "Tare is the barista's first move — placing the empty cup on the scale and zeroing it out, so the next measurement reads only what was added. Four letters. Names the foundational act of precision in specialty coffee.",
+        "industrySummary": "Minimal coffee brands serve precision-obsessed home brewers. The product is one or two beans, transparently sourced, sold on a single landing page with weight, origin, and process. No subscription manipulation, no merchandise.",
+        "competitorLandscape": "Cometeer (cometeer.com) holds the minimal-format slot. Black & White Roasters (blackwhiteroasters.com) is the no-frills peer. Verve Coffee (vervecoffee.com) sets the considered minimal bar. We sit closer to Black & White in posture.",
+        "positioningStatement": "One bean. One price. One landing page.",
+        "targetAudience": {
+          "primary": "25 to 45. Home brewer with a Acaia scale. Pulls espresso shots within 0.1 gram. Reads grind size in microns. Will switch roasters over an ungraded variable.",
+          "behaviors": [
+            "Weighs every shot",
+            "Reads CHANGELOG-style release notes on bean lots",
+            "Pins one bean for daily and one for weekend"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Quiet",
+          "Technical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State weight, origin, process",
+            "Use the gram",
+            "End the page with order"
+          ],
+          "donts": [
+            "Photograph latte art",
+            "Run cafe content",
+            "Recommend brew methods"
+          ]
+        },
+        "logoDirection": "A wordmark. TARE set in a numeric monospace, four letters. The whole brand is the word. The favicon is a small zero — the tare display.",
+        "colorPalette": [
+          {
+            "name": "Scale Black",
+            "hex": "#0A0A0C",
+            "meaning": "Scale background.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Display Green",
+            "hex": "#22C55E",
+            "meaning": "Scale LED.",
+            "usage": "Accent, the zero"
+          },
+          {
+            "name": "Bench",
+            "hex": "#FAFAF8",
+            "meaning": "Bench surface.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype Mono for the wordmark",
+          "secondary": "ABC Diatype Mono for everything",
+          "rationale": "One face. Monospace. The brand is the gram."
         }
       }
     ],
@@ -1040,6 +1225,66 @@
           "secondary": "A clean enterprise grotesque for operational reports and sourcing documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Equator Trading Group",
+        "tagline": "Coffee from the bean belt to the buying desk.",
+        "brandNameRationale": "All commercial coffee grows in a narrow band on either side of the equator — the 'bean belt' (roughly 25°N to 30°S). Naming the firm after that band signals the geographic scope of the buying operation.",
+        "industrySummary": "Corporate coffee trading sits between origin cooperatives and roaster buying desks. The firm handles green coffee from over a dozen producing countries, with hedging, quality control, and multi-warehouse logistics.",
+        "competitorLandscape": "Volcafe (volcafe.com) is the institutional trading peer. Olam Coffee (olamgroup.com) holds the global-trading slot. Sucafina (sucafina.com) is the modern-trading precedent. We sit one tier below Volcafe with a sharper origin-direct posture.",
+        "positioningStatement": "A green coffee trading group with origin desks in twelve producing countries.",
+        "targetAudience": {
+          "primary": "45 to 60. Green coffee buyers, roaster procurement directors, hedging desks at large roasting companies. Manage coffee buying budgets above $10M annually. Care about lot consistency, hedging, and warehouse delivery.",
+          "behaviors": [
+            "Trades on the C-market daily",
+            "Reads ICO and SCA reports weekly",
+            "Visits two origin countries per year"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-region",
+          "Trade-aware",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite origin desks",
+            "Quote C-market benchmarks",
+            "Reference warehouse footprint"
+          ],
+          "donts": [
+            "Use consumer coffee vocabulary",
+            "Photograph cafes",
+            "Speak about latte art"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a horizontal-line monogram — the equator. EQUATOR in a sharp serif, TRADING GROUP set smaller beneath. The single horizontal line bisecting a circle is the favicon and the seal.",
+        "colorPalette": [
+          {
+            "name": "Trade Green",
+            "hex": "#1F3B2C",
+            "meaning": "Green coffee. Bean before roast.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Jute",
+            "hex": "#A8893E",
+            "meaning": "Coffee bag burlap.",
+            "usage": "Accent, body type"
+          },
+          {
+            "name": "Paper",
+            "hex": "#EDEAE3",
+            "meaning": "Trade contract paper.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America Mono for C-market quotes",
+          "rationale": "Sectra reads institutional. Mono carries the market data."
+        }
       }
     ],
     "Creative": [
@@ -1314,6 +1559,72 @@
           "primary": "A quiet display serif for the wordmark and the quarterly essay.",
           "secondary": "A book serif for brewing guides and blend descriptions.",
           "rationale": "Two related serifs. The brand reads like a small printed publication on morning coffee."
+        }
+      },
+      {
+        "brandName": "Bicerin & Co",
+        "tagline": "Coffee, chocolate, cream. In that order.",
+        "brandNameRationale": "Bicerin is a real drink from Torino, Piemonte — three layered measures of strong espresso, dense melted chocolate, and cold whipped cream, never stirred. The drink is served at one famous cafe (Al Bicerin, since 1763) and is genuinely beloved by locals. Naming the brand after this specific regional drink signals deep coffee culture and a specific point of view: layered, not blended.",
+        "industrySummary": "Creative coffee brands serve customers who treat coffee as a small daily luxury. The opportunity is to claim a specific regional ritual as the brand's anchor, rather than inventing a vague aesthetic.",
+        "competitorLandscape": "Joe Coffee (joecoffeecompany.com) holds the warm-urban slot. Sant'Eustachio (santeustachioilcaffe.it) is the Italian-cafe precedent. Devoción (devocion.com) is the lush-warehouse peer. We sit closer to Sant'Eustachio in spirit.",
+        "positioningStatement": "A small chain of cafes built around one Torinese drink and the espresso that anchors it.",
+        "targetAudience": {
+          "primary": "28 to 50. Lives in a city with the time to sit. Reads Cherry Bombe and Pellicano. Travels to Italy for a long weekend twice a year. Knows the bicerin from a 2019 trip to Torino.",
+          "behaviors": [
+            "Photographs the layered drink before stirring",
+            "Visits the same cafe daily for the morning espresso",
+            "Refers friends with the address attached"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Layered",
+          "Italian-rooted",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the drink",
+            "Reference Torino",
+            "Speak in three parts"
+          ],
+          "donts": [
+            "Run iced-coffee marketing",
+            "Photograph fast-paced workflows",
+            "Use 'craft' or 'curated'"
+          ]
+        },
+        "logoDirection": "A wordmark with three small horizontal bars — coffee, chocolate, cream, in that order. BICERIN & CO in a warm sans across two lines. The three bars alone are the favicon: dark brown, mid brown, cream.",
+        "colorPalette": [
+          {
+            "name": "Espresso Brown",
+            "hex": "#2A1A0F",
+            "meaning": "Bottom layer.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Chocolate",
+            "hex": "#5C3A21",
+            "meaning": "Middle layer.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4EBD5",
+            "meaning": "Top layer.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and body",
+          "secondary": "PP Mori for the cafe menu",
+          "rationale": "Sectra reads Italian editorial. Mori keeps the menu warm."
         }
       }
     ]
