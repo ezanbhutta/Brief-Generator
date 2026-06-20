@@ -27,22 +27,31 @@ function hasText(s?: string | null): s is string {
 }
 
 const LAST_TEMPLATE_KEY = "bbg.lastTemplate";
+const LAST_FORMAT_KEY = "bbg.lastFormat";
 
-// Pick a template that isn't the one we showed last time. Persists the
-// choice in localStorage so the cycle survives page reloads.
+// Pick a template so that BOTH the template id AND the visual format differ
+// from the previous generation. Without the format check, two cards-based
+// templates can land back-to-back and feel identical at a glance.
 function pickFreshTemplate(): Template {
   if (typeof window === "undefined") return TEMPLATES[0];
-  let last: TemplateId | null = null;
+  let lastId: TemplateId | null = null;
+  let lastFormat: string | null = null;
   try {
-    const raw = window.localStorage.getItem(LAST_TEMPLATE_KEY);
-    if (raw && TEMPLATES.some((t) => t.id === raw)) last = raw as TemplateId;
+    const rawId = window.localStorage.getItem(LAST_TEMPLATE_KEY);
+    if (rawId && TEMPLATES.some((t) => t.id === rawId)) lastId = rawId as TemplateId;
+    lastFormat = window.localStorage.getItem(LAST_FORMAT_KEY);
   } catch {
     /* ignore */
   }
-  const pool = last ? TEMPLATES.filter((t) => t.id !== last) : TEMPLATES;
-  const picked = pool[Math.floor(Math.random() * pool.length)];
+  const strict = TEMPLATES.filter(
+    (t) => t.id !== lastId && (lastFormat ? t.format !== lastFormat : true),
+  );
+  const pool = strict.length > 0 ? strict : TEMPLATES.filter((t) => t.id !== lastId);
+  const candidates = pool.length > 0 ? pool : TEMPLATES;
+  const picked = candidates[Math.floor(Math.random() * candidates.length)];
   try {
     window.localStorage.setItem(LAST_TEMPLATE_KEY, picked.id);
+    window.localStorage.setItem(LAST_FORMAT_KEY, picked.format);
   } catch {
     /* ignore */
   }
