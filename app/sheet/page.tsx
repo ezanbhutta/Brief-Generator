@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import { Sheet, Copy, Check, Trash2, AlertCircle, Loader2, Search, X } from "lucide-react";
 import Nav from "@/components/Nav";
 import ConfirmDialog from "@/components/ConfirmDialog";
+import SheetDetailModal from "@/components/SheetDetailModal";
 import { useToast } from "@/components/Toast";
 import {
   getAssignments,
@@ -40,6 +41,7 @@ export default function SheetPage() {
   const [copied, setCopied] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [confirmRemove, setConfirmRemove] = useState<Assignment | null>(null);
+  const [openAssignment, setOpenAssignment] = useState<Assignment | null>(null);
   const [query, setQuery] = useState("");
   const [designerFilter, setDesignerFilter] = useState("");
   const [styleFilter, setStyleFilter] = useState("");
@@ -278,7 +280,11 @@ export default function SheetPage() {
               </thead>
               <tbody className="divide-y divide-border">
                 {sorted.map((a) => (
-                  <tr key={a.id} className="transition hover:bg-bg-hover">
+                  <tr
+                    key={a.id}
+                    onClick={() => setOpenAssignment(a)}
+                    className="cursor-pointer transition hover:bg-bg-hover"
+                  >
                     <td className="px-4 sm:px-5 py-3 whitespace-nowrap">
                       <span className="mono text-[13px] text-ink">{formatDate(a.dueDate)}</span>
                     </td>
@@ -293,7 +299,10 @@ export default function SheetPage() {
                     <td className="px-2 py-3">
                       <button
                         type="button"
-                        onClick={() => setConfirmRemove(a)}
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setConfirmRemove(a);
+                        }}
                         className="inline-flex h-7 w-7 items-center justify-center rounded-md text-dim transition hover:bg-coral-bg hover:text-coral"
                         aria-label={`Remove ${a.brandName}`}
                       >
@@ -314,6 +323,13 @@ export default function SheetPage() {
           </p>
         )}
       </main>
+
+      {openAssignment && (
+        <SheetDetailModal
+          assignment={openAssignment}
+          onClose={() => setOpenAssignment(null)}
+        />
+      )}
 
       {confirmRemove && (
         <ConfirmDialog
