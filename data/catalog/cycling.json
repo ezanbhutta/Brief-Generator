@@ -134,6 +134,72 @@
           "secondary": "Söhne Mono for ride data and stats",
           "rationale": "Söhne reads modern and Swiss. Breit gives the wordmark stance on a kit panel."
         }
+      },
+      {
+        "brandName": "WATTAGE",
+        "tagline": "If it doesn't show on the meter, it didn't happen.",
+        "brandNameRationale": "Wattage is the single metric that defines modern road cycling. Naming the brand after the unit of work signals that every product decision is measured against it.",
+        "industrySummary": "Modern cycling 2025+ is power-meter native. The opportunity is the data-aware roadie — kit, accessories, and small tools designed by people who actually own a Wahoo and look at numbers.",
+        "competitorLandscape": "Wahoo Fitness (wahoofitness.com) is the data-platform peer. SRAM (sram.com) holds the wireless-shifting precedent. Hammerhead (hammerhead.io) sets the modern head-unit bar. We sit between Wahoo and SRAM as a kit-and-accessories brand.",
+        "positioningStatement": "Cycling kit and gear for riders who train by the number.",
+        "targetAudience": {
+          "primary": "28 to 45. FTP threshold 250 to 350. Rides with power. Owns a Wahoo or Hammerhead. Trains by zone. Posts the file, not the ride.",
+          "behaviors": [
+            "Knows their FTP within 2 watts",
+            "Reads the post-ride analysis before the cafe stop",
+            "Will buy gear for the data benefit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Direct",
+          "Modern",
+          "Athletic"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote watts and FTP",
+            "Reference power zones",
+            "Show the ride file"
+          ],
+          "donts": [
+            "Photograph the cafe stop",
+            "Use the word 'community'",
+            "Run a Tour de France campaign"
+          ]
+        },
+        "logoDirection": "A wordmark. WATTAGE set in a tight modern grotesk with a small power-bar pattern beneath — the rider's FTP curve. The power-bar alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Zone Black",
+            "hex": "#0F0F12",
+            "meaning": "Wahoo screen background.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "FTP Green",
+            "hex": "#22C55E",
+            "meaning": "Sweet-spot zone color.",
+            "usage": "Accent, certain panels"
+          },
+          {
+            "name": "Threshold Red",
+            "hex": "#EF4444",
+            "meaning": "Threshold zone color.",
+            "usage": "Secondary accent, status"
+          },
+          {
+            "name": "Surface",
+            "hex": "#E8E4DA",
+            "meaning": "Road marking.",
+            "usage": "Backgrounds, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne Breit for the wordmark",
+          "secondary": "Söhne Mono for ride data and FTP charts",
+          "rationale": "Breit gives the wordmark stance. Mono carries the numbers — power-meter data deserves a monospace face."
+        }
       }
     ],
     "Luxury": [
@@ -276,6 +342,66 @@
           "secondary": "Adobe Garamond for body and product cards",
           "rationale": "Bodoni is the canonical Italian display face. Garamond carries the body without breaking heritage."
         }
+      },
+      {
+        "brandName": "Solothurn Cyclewear",
+        "tagline": "Swiss-finished kit, woven in canton.",
+        "brandNameRationale": "Solothurn is a Swiss canton with a long textile and watchmaking tradition. Naming the brand after the place signals provenance and quiet precision.",
+        "industrySummary": "Luxury cycling kit serves the rider with multiple bikes worth $15K each, a wardrobe of considered kit, and a strong opinion about chamois construction. The product must be Swiss-made (or Italian — but Swiss in this case).",
+        "competitorLandscape": "Assos (assos.com) is the canonical Swiss-cycling-luxury peer. ASSOS was founded in Lugano. Café du Cycliste (cafeducycliste.com) holds the lifestyle slot. La Passione (lapassione.cc) is the Italian heritage reference. We sit closest to Assos in posture.",
+        "positioningStatement": "Swiss-made cycling kit for riders who own multiple bikes.",
+        "targetAudience": {
+          "primary": "45 to 65. Owns three road bikes. Rides 200 to 400 miles per week in spring and summer. Reads Rouleur in print. Spends part of the year in Switzerland or the Dolomites.",
+          "behaviors": [
+            "Knows the seamstress who made his bib shorts",
+            "Replaces kit every two years, never sooner",
+            "Pays via wire"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Considered",
+          "Swiss",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the canton",
+            "Speak about fabric weights",
+            "Reference the climb, not the rider"
+          ],
+          "donts": [
+            "Mention prizes",
+            "Use the word 'luxury'",
+            "Run flash sales"
+          ]
+        },
+        "logoDirection": "A wordmark with a small canton crest. SOLOTHURN in a classical Swiss serif, CYCLEWEAR set smaller beneath. A small heraldic shield with two horizontal bands sits above. Used embossed on a leather hangtag.",
+        "colorPalette": [
+          {
+            "name": "Canton Red",
+            "hex": "#7E1F1A",
+            "meaning": "Swiss heraldic red.",
+            "usage": "Wordmark, hangtag accent"
+          },
+          {
+            "name": "Lake Blue",
+            "hex": "#1F3A4D",
+            "meaning": "Lake Solothurn.",
+            "usage": "Primary kit, body type"
+          },
+          {
+            "name": "Snow",
+            "hex": "#F2EFEA",
+            "meaning": "Alpine snow.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Doric for the wordmark",
+          "secondary": "Adobe Garamond for body and product cards",
+          "rationale": "Caslon Doric carries Swiss precision in display. Garamond keeps the body warm and readable."
+        }
       }
     ],
     "Minimal": [
@@ -407,6 +533,65 @@
           "primary": "Neue Haas Grotesk for the wordmark and headlines",
           "secondary": "Neue Haas Mono for stats and timing",
           "rationale": "Haas is the Swiss benchmark. Anything else would be over-claim."
+        }
+      },
+      {
+        "brandName": "TUCK",
+        "tagline": "Get small. Go fast.",
+        "brandNameRationale": "Tuck is the cyclist's word for the aerodynamic crouch. Four letters. The brand names the position.",
+        "industrySummary": "Minimal cycling kit serves the data-aware rider who hates pattern-heavy graphics. The product is solid colors, clean panels, aero-cut everything.",
+        "competitorLandscape": "Pas Normal Studios (pasnormalstudios.com) is the minimal benchmark. Black Sheep Cycling (blacksheepcycling.com) holds the all-black slot. Universal Colours (universalcolours.com) is the closest peer. We sit closest to Black Sheep in attitude.",
+        "positioningStatement": "Aero-cut kit in solid colors only.",
+        "targetAudience": {
+          "primary": "28 to 45. Rides in solid black, gray, or dark blue. Cares about CdA. Will not wear a logo bigger than 25mm. Owns the same jersey in two colors.",
+          "behaviors": [
+            "Will refuse a kit with a sponsor logo",
+            "Owns three identical bib shorts",
+            "Reviews kit by GSM"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Quiet",
+          "Disciplined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the kit on the bike",
+            "Quote fabric weight",
+            "End the page with order"
+          ],
+          "donts": [
+            "Run team-kit campaigns",
+            "Photograph riders smiling",
+            "Use slogans"
+          ]
+        },
+        "logoDirection": "A wordmark. TUCK set in a numeric grotesk, four letters. The whole brand is the word. Sized 12mm on the kit, 6mm in the bib.",
+        "colorPalette": [
+          {
+            "name": "Tuck Black",
+            "hex": "#0F0F12",
+            "meaning": "Default kit.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Aero Gray",
+            "hex": "#6E7480",
+            "meaning": "Wind tunnel smoke.",
+            "usage": "Secondary kit"
+          },
+          {
+            "name": "Marker White",
+            "hex": "#FAFAF8",
+            "meaning": "Race numbers.",
+            "usage": "Type, backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark",
+          "secondary": "Neue Haas Mono for stats",
+          "rationale": "Haas family. Swiss benchmark. Nothing else."
         }
       }
     ],
@@ -569,6 +754,66 @@
           "secondary": "GT America Mono for fleet IDs and timetables",
           "rationale": "GT America reads institutional without being stuffy. Mono carries fleet identifiers in a single visual system."
         }
+      },
+      {
+        "brandName": "Allied Cycle Holdings",
+        "tagline": "A portfolio of cycling brands across road, gravel, and e-bike.",
+        "brandNameRationale": "Allied signals federated structure. Cycle Holdings positions the firm as a multi-line operator across discipline categories.",
+        "industrySummary": "Corporate cycling holding companies own portfolios of bike brands, component lines, and dealer networks. The buyer is large dealer groups, fleet operators, and institutional capital.",
+        "competitorLandscape": "Pon Holdings (pon.com) is the multi-brand cycling holding peer. Accell Group (accell-group.com) holds the European bike-portfolio slot. Specialized Bicycles (specialized.com) is the integrated-brand precedent. We sit closer to Pon in structure.",
+        "positioningStatement": "A multi-brand cycling holding company across road, gravel, and e-bike categories.",
+        "targetAudience": {
+          "primary": "45 to 65. Dealer group principals, fleet program directors, institutional investors. Manage cycling portfolios above $100M revenue. Care about brand equity across categories and dealer footprint.",
+          "behaviors": [
+            "Reads Bicycle Retailer industry reports",
+            "Attends Eurobike and Sea Otter annually",
+            "Coordinates supplier agreements across portfolio brands"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Steady",
+          "Trade-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite portfolio brands",
+            "Quote dealer footprint",
+            "Reference institutional partners"
+          ],
+          "donts": [
+            "Use consumer cycling vocabulary",
+            "Photograph individual bikes",
+            "Speak about racing"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a federated monogram. ALLIED in a sharp serif, CYCLE HOLDINGS set smaller beneath. The monogram is three radiating spokes from a center hub. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Allied Navy",
+            "hex": "#0F2F47",
+            "meaning": "Institutional posture.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Spoke Steel",
+            "hex": "#7A8590",
+            "meaning": "Polished spoke.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Tire Black",
+            "hex": "#1B1B1B",
+            "meaning": "Tubeless rubber.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and supplier communications",
+          "rationale": "Sectra reads institutional. GT America keeps trade communications efficient."
+        }
       }
     ],
     "Creative": [
@@ -726,6 +971,72 @@
           "primary": "PP Mori for the wordmark and headlines",
           "secondary": "Caslon for cafe menus and product cards",
           "rationale": "Mori has warmth. Caslon makes the cafe menu feel like an actual cafe menu."
+        }
+      },
+      {
+        "brandName": "The Bonk Shop",
+        "tagline": "Snacks for when the legs go.",
+        "brandNameRationale": "Bonk is the cyclist's word for hitting the wall — running out of glycogen mid-ride. The brand owns the failure mode and turns it into the category of snacks designed to prevent it.",
+        "industrySummary": "Creative cycling nutrition serves the rider who treats the cafe stop and the in-ride snack as part of the experience. The brand should feel like a friend with a great rolled oat bar and a sense of humor about the bonk.",
+        "competitorLandscape": "Skratch Labs (skratchlabs.com) holds the modern cycling-nutrition slot. Spring Energy (springenergy.com) is the gel peer. Untapped (untappedmaple.com) is the maple-syrup precedent. We sit closer to Skratch in voice.",
+        "positioningStatement": "Snacks made for the mid-ride bonk.",
+        "targetAudience": {
+          "primary": "30 to 50. Rides 50 to 150 miles a week. Stops at one cafe per ride. Carries a snack in the back pocket. Knows the bonk and respects it.",
+          "behaviors": [
+            "Quotes the time and distance when they bonked",
+            "Trades snacks at the cafe stop",
+            "Stocks snacks by season"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Honest",
+          "Slightly funny",
+          "Practical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the bonk story",
+            "Quote the snack's ride time",
+            "Use first person"
+          ],
+          "donts": [
+            "Promise peak performance",
+            "Use chemistry vocabulary",
+            "Photograph a lab"
+          ]
+        },
+        "logoDirection": "A wordmark with a small wilting flower. THE BONK SHOP set in a warm sans across two lines. Above the T, a small wilting flower icon suggesting the bonked rider. The flower alone is a sticker.",
+        "colorPalette": [
+          {
+            "name": "Bonk Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Banana yellow.",
+            "usage": "Accent, certain wrappers"
+          },
+          {
+            "name": "Maple Brown",
+            "hex": "#8B5E34",
+            "meaning": "Maple syrup.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Oat Cream",
+            "hex": "#F4EBD5",
+            "meaning": "Rolled oats.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Pocket Black",
+            "hex": "#1A1A1A",
+            "meaning": "Wrapper outline.",
+            "usage": "Type"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT America for body and recipe pages",
+          "rationale": "Mori for warmth. GT America keeps the nutrition label readable."
         }
       }
     ]

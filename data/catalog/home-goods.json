@@ -136,6 +136,66 @@
           "secondary": "GT Sectra for product descriptions",
           "rationale": "Söhne reads modern. Sectra carries the longer-form material descriptions without breaking pace."
         }
+      },
+      {
+        "brandName": "KEEP",
+        "tagline": "Things worth keeping.",
+        "brandNameRationale": "Keep is the verb the customer is performing — choosing what stays in the home. Four letters. The brand names the act.",
+        "industrySummary": "Modern home goods online is past the DTC bedding wars. The opportunity is durable, repairable, pieces sold with a story about how they age — not how they look on day one.",
+        "competitorLandscape": "Hawkins New York (hawkinsnewyork.com) holds the considered-modern slot. Schoolhouse (schoolhouse.com) is the made-in-USA peer. Coyuchi (coyuchi.com) sets the modern textile bar. We sit closest to Hawkins in posture.",
+        "positioningStatement": "Home goods designed to age, repair, and outlast a move.",
+        "targetAudience": {
+          "primary": "30 to 50. Owns one home, plans to keep it. Has moved at least once and lost a chair to a moving truck. Cares about repair-ability over warranty. Reads the materials list on every product.",
+          "behaviors": [
+            "Will pay 2x for repairable hardware",
+            "Keeps the receipt and the warranty card",
+            "Refers products by maker name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Honest",
+          "Modern",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the materials and the maker",
+            "Show the piece aging",
+            "Document the repair"
+          ],
+          "donts": [
+            "Photograph perfect new pieces",
+            "Use trend language",
+            "Run flash sales"
+          ]
+        },
+        "logoDirection": "A wordmark. KEEP set in a tight modern grotesk with a small horizontal line beneath the word — the shelf the piece will live on. The shelf line alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Keep Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type. The shelf edge.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Shelf Cream",
+            "hex": "#F2EFE8",
+            "meaning": "Unfinished wood.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A37E3B",
+            "meaning": "Hardware accent.",
+            "usage": "Hardware photos, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and body",
+          "secondary": "GT Sectra for product descriptions and repair guides",
+          "rationale": "Söhne reads modern. Sectra carries the repair documentation."
+        }
       }
     ],
     "Luxury": [
@@ -278,6 +338,66 @@
           "secondary": "Adobe Caslon for body and product cards",
           "rationale": "Caslon family across the system carries 250 years of British printing tradition."
         }
+      },
+      {
+        "brandName": "Pemberley & Co",
+        "tagline": "An English country store, since the family kept the house.",
+        "brandNameRationale": "Pemberley is the literary anchor for an English country house (Pride and Prejudice). Naming the brand after the famous estate signals heritage, household, and English tradition.",
+        "industrySummary": "Luxury home goods at the country-house tier serves multi-generational households. The product is sourcing — wool from one farm, ceramics from one kiln, table linens from one weaver. The story is the value.",
+        "competitorLandscape": "Soane Britain (soane.co.uk) holds the institutional-British-luxury slot. Sibyl Colefax & John Fowler (sibylcolefax.com) is the country-house precedent. The Cloth Shop (theclothshop.net) is the considered textile peer. We sit between Soane and Sibyl Colefax in posture.",
+        "positioningStatement": "An English country house brand for households that keep their homes for generations.",
+        "targetAudience": {
+          "primary": "55 to 80. Multi-generational country house principals. Spends weekends restoring a house. Reads The World of Interiors and Country Life. Considers replacement an admission of failure.",
+          "behaviors": [
+            "Visits the maker at the workshop",
+            "Sends pieces down by hand",
+            "Pays for repair, never replacement"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Generational",
+          "Discreet",
+          "English"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the makers",
+            "Speak in decades",
+            "Reference the house"
+          ],
+          "donts": [
+            "Run sales",
+            "Photograph empty rooms",
+            "Use trend vocabulary"
+          ]
+        },
+        "logoDirection": "A wordmark with a small estate crest. PEMBERLEY & CO in a classical British serif, all caps, very tight kerning. Above, a small heraldic crest with an ampersand. Used embossed on a linen hangtag.",
+        "colorPalette": [
+          {
+            "name": "Library Green",
+            "hex": "#1F3B2C",
+            "meaning": "Library wallpaper.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Linen",
+            "hex": "#F1E8D5",
+            "meaning": "Loose-cover linen.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Stable Brass",
+            "hex": "#A8893E",
+            "meaning": "Stable door hardware.",
+            "usage": "Foil, crest"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and body",
+          "secondary": "Caslon Pro for everything",
+          "rationale": "One classical family across the system. The brand is a country house, not a software product."
+        }
       }
     ],
     "Minimal": [
@@ -403,6 +523,59 @@
           "primary": "ABC Diatype for the wordmark and body",
           "secondary": "ABC Diatype Mono for product specs",
           "rationale": "One family. The brand can't carry a second."
+        }
+      },
+      {
+        "brandName": "USE",
+        "tagline": "Three of each thing.",
+        "brandNameRationale": "Use is the only word that matters for an object in a home. Three letters. The brand names the function.",
+        "industrySummary": "Minimal home goods serves the operator who's tired of household clutter and wants one good version of each thing, sized to a small household. Each product comes in three sizes, two colors, one finish.",
+        "competitorLandscape": "Muji (muji.com) is the global minimal precedent. Tekla (teklafabrics.com) holds the minimal-luxury textile slot. Areaware (areaware.com) is the modern reference. We sit closest to Tekla in spirit.",
+        "positioningStatement": "Three sizes of each thing, in two colors.",
+        "targetAudience": {
+          "primary": "25 to 45. One- or two-person households. Owns three mugs and uses two. Cares about how a folded tea towel stacks. Will replace rather than add.",
+          "behaviors": [
+            "Replaces stained towels with the same one",
+            "Reads weight and dimension specs",
+            "Does not own a junk drawer"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "List sizes and materials",
+            "Show the product alone",
+            "Use one word where two will do"
+          ],
+          "donts": [
+            "Photograph styled rooms",
+            "Run flash sales",
+            "Use the word 'curated'"
+          ]
+        },
+        "logoDirection": "A wordmark. USE set in a humanist sans, three letters, slightly tracked. The whole brand is the word. Used in two sizes only.",
+        "colorPalette": [
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Unbleached linen.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1B1B1B",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for measurements",
+          "rationale": "One family. Mono for the actual numbers."
         }
       }
     ],
@@ -565,6 +738,66 @@
           "secondary": "GT America for body and product cards",
           "rationale": "Sectra reads institutional. GT America keeps trade communications efficient."
         }
+      },
+      {
+        "brandName": "Western Home Brands",
+        "tagline": "Multi-regional home goods operating across the West.",
+        "brandNameRationale": "Western signals regional scope. Home Brands positions the firm as a multi-brand operator across home goods categories.",
+        "industrySummary": "Corporate home goods is a roll-up category — private equity buying mid-tier DTC home brands and consolidating distribution. The buyer is large retail wholesale, hospitality groups, and institutional distribution.",
+        "competitorLandscape": "Newell Brands (newellbrands.com) is the institutional peer. Williams-Sonoma Inc (williams-sonoma.com) holds the retail-anchored slot. Lifetime Brands (lifetimebrands.com) is the closest competitor. We sit one tier below Williams-Sonoma with a sharper Western regional structure.",
+        "positioningStatement": "A Western US home goods holding company with multi-brand retail and hospitality distribution.",
+        "targetAudience": {
+          "primary": "45 to 60. Retail buyers at large Western chains. Hospitality procurement directors. Distribution principals. Manage home goods portfolios above $50M revenue.",
+          "behaviors": [
+            "Plans seasonal buys 18 months out",
+            "Attends High Point Market and ICFF",
+            "Requires SKU-level margin breakdowns"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Regional",
+          "Distribution-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite portfolio brands",
+            "Quote margin tiers",
+            "Reference institutional partners"
+          ],
+          "donts": [
+            "Use consumer vocabulary",
+            "Photograph homes",
+            "Mention founders"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a mountain monogram. WESTERN in a sharp serif, HOME BRANDS set smaller beneath. The monogram is a stylized Western peak. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Mountain Navy",
+            "hex": "#0F2F47",
+            "meaning": "Mountain shadow.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Sage",
+            "hex": "#7C8D75",
+            "meaning": "Sage brush.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Sand",
+            "hex": "#E0D8C4",
+            "meaning": "Desert sand.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and trade communications",
+          "rationale": "Sectra carries institutional weight. GT America keeps trade communications clear."
+        }
       }
     ],
     "Creative": [
@@ -722,6 +955,72 @@
           "primary": "PP Mori for the wordmark and headlines",
           "secondary": "GT Sectra for product descriptions",
           "rationale": "Mori has personality. Sectra carries the longer-form product story without breaking the warmth."
+        }
+      },
+      {
+        "brandName": "The Spare Room Co",
+        "tagline": "Furniture for the room you forgot to design.",
+        "brandNameRationale": "Every house has the spare room — the room that gets the leftover furniture, the unhung art, the boxes never unpacked. The brand names the room and turns it into a design opportunity.",
+        "industrySummary": "Creative home goods serves the renter, the first-home owner, and the decorator who's tired of perfectly staged interiors. The brand sells small, personal pieces designed for rooms that aren't on the Pinterest board.",
+        "competitorLandscape": "Coming Soon (comingsoonnewyork.com) holds the playful-design store slot. Goodee (goodeeworld.com) is the modern-ethical peer. East Fork (eastfork.com) holds the personal-pottery precedent. We sit closer to Coming Soon in voice.",
+        "positioningStatement": "Small home goods for the rooms nobody plans.",
+        "targetAudience": {
+          "primary": "25 to 45. Renters, first-home owners, decorators. Buy small pieces frequently. Care about the maker. Post the new piece in the spare room before the new sofa.",
+          "behaviors": [
+            "Names rooms by what's in them",
+            "Posts the spare-room transformation",
+            "Buys from independent makers via DM"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Honest",
+          "Slightly funny",
+          "Crafted"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the maker",
+            "Show the piece in a real room",
+            "Use first person"
+          ],
+          "donts": [
+            "Photograph hotel-style interiors",
+            "Use the word 'curated'",
+            "Run flash sales"
+          ]
+        },
+        "logoDirection": "A wordmark with a small door icon. THE SPARE ROOM CO set in a warm sans across two lines. Above the wordmark, a small open-door pictogram. The door alone is a sticker.",
+        "colorPalette": [
+          {
+            "name": "Spare Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Light through the open door.",
+            "usage": "Accent, the door"
+          },
+          {
+            "name": "Wall Cream",
+            "hex": "#FAF6EC",
+            "meaning": "Off-white wall.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Pencil Gray",
+            "hex": "#6B7280",
+            "meaning": "Designer's pencil.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for product descriptions",
+          "rationale": "Mori carries warmth. Sectra makes the product copy feel like a small magazine."
         }
       }
     ]

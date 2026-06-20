@@ -136,6 +136,66 @@
           "secondary": "Söhne Mono for client receipts and reports",
           "rationale": "Söhne reads modern Swiss. Mono carries the actual numerical reporting in a single visual system."
         }
+      },
+      {
+        "brandName": "SIGNAL",
+        "tagline": "Marketing that cuts through.",
+        "brandNameRationale": "Signal is the marketer's holy word — the part of the noise that matters. The brand promises to be the signal, not the noise.",
+        "industrySummary": "Modern marketing agencies in 2025+ are split between performance shops obsessed with attribution and brand studios obsessed with social. The opportunity is the integrated middle that runs both with a single team.",
+        "competitorLandscape": "Gradient (gradient.studio) holds the modern hybrid slot. Power Digital (powerdigitalmarketing.com) is the performance peer. R/GA (rga.com) sets the integrated bar. We sit between Gradient and Power.",
+        "positioningStatement": "An integrated marketing agency that runs brand and performance from one team.",
+        "targetAudience": {
+          "primary": "30 to 45. VPs of Marketing, growth leads at companies of $20M to $200M revenue. Want one agency for brand and performance. Hate the holding-company sales pitch.",
+          "behaviors": [
+            "Will fire an agency over a missed CAC target",
+            "Wants a Slack channel, not a QBR",
+            "Reads the receipts before the strategy"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Accountable",
+          "Modern",
+          "Tactical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the number",
+            "Show real attribution",
+            "Quote outcomes by tier"
+          ],
+          "donts": [
+            "Use the word 'storytelling'",
+            "Promise viral",
+            "Photograph teams in front of murals"
+          ]
+        },
+        "logoDirection": "A wordmark with a single bar. SIGNAL set in a tight grotesk with a small vertical bar at the L's foot — the strongest signal bar. The bar alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Signal Black",
+            "hex": "#0A0A0C",
+            "meaning": "Type. The bar.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Confirm Green",
+            "hex": "#1F8B4C",
+            "meaning": "Conversion confirm.",
+            "usage": "Accent, CTAs"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F8F5EC",
+            "meaning": "Print page.",
+            "usage": "Backgrounds, web body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne Breit for the wordmark",
+          "secondary": "Söhne Mono for KPIs and reports",
+          "rationale": "Breit for the wordmark stance. Mono for the receipt."
+        }
       }
     ],
     "Luxury": [
@@ -278,6 +338,66 @@
           "secondary": "GT Sectra Text for body and correspondence",
           "rationale": "Sectra carries British editorial weight. Display for the room, Text for the page."
         }
+      },
+      {
+        "brandName": "The Lyman House",
+        "tagline": "Brand counsel by appointment.",
+        "brandNameRationale": "Lyman is a real American surname with associations to publishing and editorial. House signals the firm is institutional — bigger than a partnership, smaller than an agency.",
+        "industrySummary": "Luxury brand counsel serves founder-CEOs and family principals making once-in-a-decade brand decisions. The deliverable is a single annual strategy, drafted over months, presented over a weekend.",
+        "competitorLandscape": "Co:collective (cocollective.com) holds the considered-strategy slot. Wolff Olins (wolffolins.com) is the heritage-rebrand peer. Sullivan (sullivannyc.com) is the modern brand-house precedent. We sit between Co:collective and Sullivan in posture.",
+        "positioningStatement": "A brand house for founders making once-in-a-decade decisions.",
+        "targetAudience": {
+          "primary": "45 to 70. Founder-CEOs, family principals, chairs of board. Companies between $100M and $1B revenue. Plan brand decisions in years, not quarters. Pay for taste and discretion.",
+          "behaviors": [
+            "Refers business at private dinners",
+            "Will pay above market for a Sunday phone call",
+            "Reads the FT in print on Saturday"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Considered",
+          "Editorial",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in counsel",
+            "Write in full paragraphs",
+            "Reference institutions"
+          ],
+          "donts": [
+            "Publish a public client list",
+            "Run a podcast",
+            "Speak about 'engagement'"
+          ]
+        },
+        "logoDirection": "An editorial wordmark. THE LYMAN HOUSE set in a sharp old-style serif, all caps, tracked. A small embossed editorial mark sits centered above. Used on heavy stock for client correspondence.",
+        "colorPalette": [
+          {
+            "name": "Editorial Navy",
+            "hex": "#0E1B33",
+            "meaning": "Fountain pen ink.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F2EBDC",
+            "meaning": "Letterpress page.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#A8893E",
+            "meaning": "Stamped on the corner.",
+            "usage": "Foil, accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark",
+          "secondary": "GT Sectra Text for body and correspondence",
+          "rationale": "Sectra family carries editorial weight across the system."
+        }
       }
     ],
     "Minimal": [
@@ -403,6 +523,59 @@
           "primary": "ABC Diatype for the wordmark and body",
           "secondary": "ABC Diatype Mono for invoices and reports",
           "rationale": "One family. The brand carries no second voice."
+        }
+      },
+      {
+        "brandName": "TRACK",
+        "tagline": "What was sent. What was opened.",
+        "brandNameRationale": "Track is what the marketer is doing. One word, five letters. The brand names the verb.",
+        "industrySummary": "Minimal marketing tooling targets operators tired of analytics dashboards with twenty widgets. The product is one metric per email, one metric per campaign, one screen.",
+        "competitorLandscape": "Plausible (plausible.io) holds the minimal-analytics slot. Buttondown (buttondown.com) is the minimal-newsletter peer. Splitbee (splitbee.io) was a precedent. We sit closest to Plausible in posture.",
+        "positioningStatement": "Marketing analytics with one number per screen.",
+        "targetAudience": {
+          "primary": "28 to 45. Solo marketers, small-team growth leads. Want one chart per metric. Will switch tools over a dashboard with too many widgets.",
+          "behaviors": [
+            "Reads only the open rate",
+            "Will leave a tool over a 20-widget homepage",
+            "Pays via card, never invoice"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Direct",
+          "Precise"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the number",
+            "Use lowercase headlines",
+            "End the page with subscribe"
+          ],
+          "donts": [
+            "Add features",
+            "Show dashboards",
+            "Use the word 'unify'"
+          ]
+        },
+        "logoDirection": "A wordmark. TRACK set in a humanist sans, five letters, slightly weighted. The whole brand is the word. Used in two sizes only.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#FAFAF8",
+            "meaning": "Default page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#0A0A0C",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for metrics",
+          "rationale": "One family. Mono for the number that matters."
         }
       }
     ],
@@ -565,6 +738,66 @@
           "secondary": "GT America for body and proposals",
           "rationale": "Sectra carries institutional gravitas. GT America keeps proposals readable."
         }
+      },
+      {
+        "brandName": "Atlantic Marketing Holdings",
+        "tagline": "A multi-line marketing services group across the Eastern seaboard.",
+        "brandNameRationale": "Atlantic anchors the firm regionally. Marketing Holdings positions it as a multi-line operator across brand, media, and creative subsidiaries.",
+        "industrySummary": "Corporate marketing services groups operate portfolios of agency brands across regional territories. The buyer is institutional advertisers, large CPG and pharma marketers, and government communication budgets.",
+        "competitorLandscape": "Interpublic Group (interpublic.com) is the institutional peer. Stagwell (stagwellglobal.com) holds the modern roll-up slot. Dentsu (dentsu.com) is the global precedent. We sit one tier below IPG with a sharper Eastern regional posture.",
+        "positioningStatement": "An Eastern seaboard marketing services group with portfolio agency brands.",
+        "targetAudience": {
+          "primary": "45 to 65. CMOs, procurement leads, institutional advertisers at Fortune 1000 and government agencies. Manage marketing budgets above $50M annually.",
+          "behaviors": [
+            "Issues annual RFPs at the holding level",
+            "Reads industry quarterly trade press",
+            "Renews based on annual partnership reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Steady",
+          "Regional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite portfolio brands",
+            "Quote multi-region delivery",
+            "Reference institutional partners"
+          ],
+          "donts": [
+            "Use startup vocabulary",
+            "Photograph creative work",
+            "Speak about 'disruption'"
+          ]
+        },
+        "logoDirection": "A corporate wordmark with a wave monogram. ATLANTIC in a sharp serif, MARKETING HOLDINGS set smaller beneath. The monogram is three horizontal lines suggesting an Atlantic wave. Used on annual reports.",
+        "colorPalette": [
+          {
+            "name": "Atlantic Navy",
+            "hex": "#0F2F47",
+            "meaning": "Open ocean.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "Coast Gray",
+            "hex": "#7A8590",
+            "meaning": "Coastal fog.",
+            "usage": "Secondary, charts"
+          },
+          {
+            "name": "Tide",
+            "hex": "#E8ECEF",
+            "meaning": "Foam line.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and reports",
+          "secondary": "GT America for body and proposals",
+          "rationale": "Sectra reads institutional. GT America keeps proposals efficient."
+        }
       }
     ],
     "Creative": [
@@ -722,6 +955,72 @@
           "primary": "PP Mori for the wordmark and headlines",
           "secondary": "ABC Diatype Mono for receipts and timestamps",
           "rationale": "Mori for the room. Mono for the metric."
+        }
+      },
+      {
+        "brandName": "Buy This Now Studio",
+        "tagline": "We make the ads that make you click.",
+        "brandNameRationale": "Marketing's job is to get the click. The studio names the call to action in the title and stops pretending the work is anything more elevated.",
+        "industrySummary": "Creative marketing serves brand-led founders tired of self-serious agencies. The shop is named, voiced, and run by people who own the absurdity of the work and earn trust by being funny first.",
+        "competitorLandscape": "Mischief (mischief.com) holds the funny-as-strategy slot. Anomaly (anomaly.com) is the creative-led precedent. Gut (gut-agency.com) is the international peer. We sit closer to Mischief in voice.",
+        "positioningStatement": "The marketing studio that admits it makes ads.",
+        "targetAudience": {
+          "primary": "30 to 50. CMOs, founders, brand leads. Companies $10M to $100M revenue. Came up through performance, learned brand. Want the agency to make them laugh in the kickoff.",
+          "behaviors": [
+            "Will recommend an agency over text",
+            "Cares about the email subject line as much as the deck",
+            "Refers based on a single ad"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Funny",
+          "Honest",
+          "Self-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Open with a joke",
+            "Show the ad",
+            "Quote the click-through rate"
+          ],
+          "donts": [
+            "Use the phrase 'brand story'",
+            "Photograph open-plan offices",
+            "Run a 'culture' page"
+          ]
+        },
+        "logoDirection": "A wordmark with a click-cursor. BUY THIS NOW STUDIO set in a warm sans across two lines. Above the wordmark, a small arrow cursor with a click pulse. The cursor alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Click Yellow",
+            "hex": "#FFC93C",
+            "meaning": "Highlighted call to action.",
+            "usage": "Accent, the cursor, CTAs"
+          },
+          {
+            "name": "Studio White",
+            "hex": "#FAF6EC",
+            "meaning": "Default backdrop.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type only.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Conversion Green",
+            "hex": "#1F8B4C",
+            "meaning": "Successful click.",
+            "usage": "Status, certain certificates"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for CTRs and stats",
+          "rationale": "Mori for warmth in the brief. Mono for the actual metric."
         }
       }
     ]
