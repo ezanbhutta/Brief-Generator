@@ -1,0 +1,915 @@
+{
+  "industry": "distillery",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Wash Back Spirits",
+        "tagline": "Process, in the open.",
+        "brandNameRationale": "Anchor: The wash back \u2014 the wooden or stainless fermentation vessel in a whisky distillery where wort becomes wash before distillation. Picked from A's three for the cleanest trade-vocabulary anchor.",
+        "industrySummary": "Process-transparent craft distilling \u2014 distilleries that document the wash, the cut, and the cask online \u2014 is the modern category's editorial top. Whisky drinkers want to see the still-house.",
+        "competitorLandscape": "Westland Distillery (westlanddistillery.com) plays the modern American single-malt peer. Stranahan's (stranahans.com) holds the Colorado craft middle. Kilchoman (kilchomandistillery.com) is the modern Scotch reference. We sit alongside Westland with sharper visual identity.",
+        "positioningStatement": "Wash Back Spirits is a process-transparent craft distiller making single-malt and grain whiskies with documented cuts and casks.",
+        "targetAudience": {
+          "primary": "Whisky enthusiasts 30\u201355 who follow distilleries, not just brands.",
+          "behaviors": [
+            "Read distillery blogs",
+            "Travel for distillery tours",
+            "Care about cask provenance"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Process-led",
+          "Plainspoken",
+          "Modern",
+          "Quietly proud"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Document the wash and the cut",
+            "Name the cask and the year",
+            "Show the still-house, not the bar"
+          ],
+          "donts": [
+            "Sell 'rare' as the entire pitch",
+            "Hide the source cask",
+            "Use Highland imagery if you're in Brooklyn"
+          ]
+        },
+        "logoDirection": "Wordmark: WASH BACK SPIRITS in a precise grotesk, two lines. A small mark \u2014 a single circular vessel-top view \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Wash Wood",
+            "hex": "#5C402A",
+            "meaning": "Wash-back oak.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Still Cream",
+            "hex": "#F1EBD8",
+            "meaning": "Mash paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Spirit Black",
+            "hex": "#141518",
+            "meaning": "New-make ink.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for cask notes and ABVs",
+          "rationale": "A modern grotesk plus its mono \u2014 the still-house ledger register."
+        }
+      },
+      {
+        "brandName": "Spirit Safe Co",
+        "tagline": "The cuts, by the book.",
+        "brandNameRationale": "Anchor: The spirit safe \u2014 the brass-and-glass locked box (mandated under UK Excise from 1823) where the stillman cuts heads, hearts, and tails. Picked from A's three for the most genuinely insider whisky-trade anchor.",
+        "industrySummary": "Precision-cuts craft distilling \u2014 brands that obsess about heads/hearts/tails timing and publish their cutting points \u2014 is a small editorial niche, mostly serving the single-malt enthusiast.",
+        "competitorLandscape": "Lost Spirits (lostspirits.net) plays the experimental-process peer. Compass Box (compassboxwhisky.com) holds the editorial-blending middle. Cotswolds Distillery (cotswoldsdistillery.com) is the English single-malt reference. We sit as a cuts-led craft distillery.",
+        "positioningStatement": "Spirit Safe Co is a precision-cuts craft distillery publishing the cutting points behind every bottling.",
+        "targetAudience": {
+          "primary": "Single-malt enthusiasts and cocktail buyers who read distillery threads.",
+          "behaviors": [
+            "Read whisky enthusiasts' forums",
+            "Care about ABV and cut timing",
+            "Travel for the distillery tour"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Process-led",
+          "Modern",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the cut times",
+            "Name the stillman",
+            "Show the spirit-safe glass"
+          ],
+          "donts": [
+            "Hide the cuts",
+            "Brand as 'heritage' if you're three years old",
+            "Use 'craft' as the whole pitch"
+          ]
+        },
+        "logoDirection": "Wordmark: SPIRIT SAFE CO in a precise sans, three lines. A small mark \u2014 a brass-spirit-safe silhouette \u2014 used on cask labels.",
+        "colorPalette": [
+          {
+            "name": "Brass",
+            "hex": "#A07A2E",
+            "meaning": "Spirit-safe brass.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Spirit Cream",
+            "hex": "#F1ECD8",
+            "meaning": "Distillery paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Still Black",
+            "hex": "#131418",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for ABV and cut times",
+          "rationale": "A modern grotesk plus a mono \u2014 the cuts-ledger register."
+        }
+      },
+      {
+        "brandName": "Coffey Still Distillers",
+        "tagline": "Continuous, since 1830.",
+        "brandNameRationale": "Anchor: Aeneas Coffey's column still, patented 1830, which made continuous distillation possible and birthed modern grain whisky. Picked from A's three for the strongest engineering-pedigree anchor.",
+        "industrySummary": "Modern grain-spirit brands \u2014 gins, vodkas, and grain whiskies \u2014 increasingly compete on engineering pedigree. A column-still-led brand can credibly own the modern, technical side of the category.",
+        "competitorLandscape": "Bruichladdich (bruichladdich.com) plays the modern-engineering Scotch peer. Lochlea (lochleadistillery.com) holds the modern Scottish single-estate middle. Sipsmith (sipsmith.com) is the modern London gin reference. We sit as a grain-led modern brand with engineering frame.",
+        "positioningStatement": "Coffey Still Distillers makes modern grain spirits \u2014 gin, vodka, and light grain whiskies \u2014 with column-still engineering pedigree.",
+        "targetAudience": {
+          "primary": "Cocktail bartenders and modern-spirits buyers 28\u201348 in major cities.",
+          "behaviors": [
+            "Read distillery engineering articles",
+            "Care about base spirit, not just the botanicals",
+            "Try new gin releases monthly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Engineering-led",
+          "Modern",
+          "Precise",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the still and the cut",
+            "Show the column",
+            "Quote in ABV and proof"
+          ],
+          "donts": [
+            "Sell 'small batch' as the differentiator",
+            "Hide the base spirit",
+            "Use kilts and tartan if you're in London"
+          ]
+        },
+        "logoDirection": "Wordmark: COFFEY STILL above, DISTILLERS below, in a confident industrial grotesk. A small mark \u2014 a column-still silhouette \u2014 used on cask labels.",
+        "colorPalette": [
+          {
+            "name": "Column Steel",
+            "hex": "#3B3F44",
+            "meaning": "Copper-and-steel column.",
+            "usage": "Body"
+          },
+          {
+            "name": "Spirit Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Distillery paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pot Copper",
+            "hex": "#A0552F",
+            "meaning": "Copper still.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for ABV",
+          "rationale": "A confident grotesk plus its mono \u2014 the engineering register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Cooper's Reserve",
+        "tagline": "Cask-led, properly aged.",
+        "brandNameRationale": "Anchor: The cooper's craft \u2014 the centuries-old oak-barrel trade that gives whisky and rum their color and depth, still hand-built at Speyside Cooperage. Picked from A's three for the strongest cask-craft anchor.",
+        "industrySummary": "Cask-led luxury whisky houses \u2014 brands that select, finish, and bottle single casks for a UHNW market \u2014 are the editorial top of the category. Buyers pay for cask provenance.",
+        "competitorLandscape": "The Macallan (themacallan.com) is the institutional reference (we sit alongside). Compass Box (compassboxwhisky.com) plays the editorial peer. Brora reissued by Diageo (broradistillery.com) holds the rare-old middle. We sit as a cask-house with a cooperage frame.",
+        "positioningStatement": "Cooper's Reserve is a cask-led luxury whisky house selecting and bottling rare single casks for collectors and patrons.",
+        "targetAudience": {
+          "primary": "Whisky collectors, auction buyers, and UHNW gift buyers.",
+          "behaviors": [
+            "Bid at Bonhams whisky auctions",
+            "Travel for cask tastings",
+            "Read whisky-collector magazines"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Cask-led",
+          "Patient",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cask, the year, and the cooper",
+            "Treat the wax-sealed bottle as the artifact",
+            "Print provenance with each release"
+          ],
+          "donts": [
+            "Use 'luxury' anywhere on the label",
+            "Skip the cask provenance",
+            "Photograph in front of a fireplace stock image"
+          ]
+        },
+        "logoDirection": "Wordmark: COOPER'S RESERVE in a refined Scottish serif, two lines. A small mark \u2014 a single barrel-end with cooper's mark \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cooperage Oak",
+            "hex": "#5C4128",
+            "meaning": "Charred oak.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Cask Cream",
+            "hex": "#F1EBD4",
+            "meaning": "Cask-card paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sherry Brown",
+            "hex": "#7E4828",
+            "meaning": "Sherry-aged whisky.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body",
+          "rationale": "Two classical serifs \u2014 the cask-house register."
+        }
+      },
+      {
+        "brandName": "Angels' Share & Co",
+        "tagline": "The 2% the cask keeps.",
+        "brandNameRationale": "Anchor: The 'angels' share' \u2014 the 2% of cask spirit lost annually to evaporation, a centuries-old distiller's term from Cognac and Scotland. Picked from A's three \u2014 REJECTED Bushmills Charter (active TM). Angels' share is a public trade term used freely.",
+        "industrySummary": "Aged-spirits luxury brands \u2014 Cognacs, aged rums, aged whiskies bottled as single casks or vintages \u2014 compete on age, cask, and quiet branding. The 'angels' share' as a concept is underused as a brand.",
+        "competitorLandscape": "Hennessy (hennessy.com) is the institutional Cognac reference. Hine (hinecognac.com) plays the editorial-Cognac middle. Foursquare (foursquarerum.com) is the editorial-aged-rum peer. We sit as an aged-spirits brand with a quiet Cognac/Scotch frame.",
+        "positioningStatement": "Angels' Share & Co is an aged-spirits luxury brand bottling vintage casks of Cognac, rum, and whisky.",
+        "targetAudience": {
+          "primary": "Aged-spirits collectors, gift buyers, and luxury restaurant cellars.",
+          "behaviors": [
+            "Buy by vintage",
+            "Care about cask provenance",
+            "Travel for aged-spirits tastings"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Quietly French-Scottish",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the vintage and the cask",
+            "Treat the bottle and box as the artifact",
+            "Print evaporation losses with each release"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Skip the vintage",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: ANGELS' SHARE & CO in a refined didone-flavored serif, two lines. A small mark \u2014 a single rising-vapor line drawing \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cellar Ink",
+            "hex": "#141417",
+            "meaning": "Cellar ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Aged Cream",
+            "hex": "#F1EAD3",
+            "meaning": "Aged paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cognac",
+            "hex": "#7E4823",
+            "meaning": "Vintage Cognac.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A French didone-flavored serif plus a reading serif \u2014 the aged-spirits register."
+        }
+      },
+      {
+        "brandName": "Dunnage House",
+        "tagline": "The warehouse where whisky sleeps.",
+        "brandNameRationale": "Anchor: The dunnage warehouse \u2014 the traditional low-ceilinged Scottish whisky warehouse with earth floors and three-cask-high stacking, used since the 19th c. and still the gold-standard maturation environment. Counter-proposal third luxury option (cleaner than 'Bushmills Charter' which Agent A flagged).",
+        "industrySummary": "Dunnage-warehouse maturation is the cask-collector's gold standard. Brands that own the dunnage-house concept can credibly position as the patient, traditional alternative to racked-warehouse mass aging.",
+        "competitorLandscape": "Springbank (springbank.scot) plays the traditional-warehouse peer. Cadenhead's (cadenhead.scot) holds the independent bottler middle. Gordon & MacPhail (gordonandmacphail.com) is the heritage-independent reference. We sit as a dunnage-led independent house.",
+        "positioningStatement": "Dunnage House is an independent bottler and maturation house specializing in casks aged in traditional Scottish dunnage warehouses.",
+        "targetAudience": {
+          "primary": "Whisky enthusiasts, independent-bottler buyers, and collectors.",
+          "behaviors": [
+            "Visit Campbeltown and Speyside",
+            "Read whisky-independent reviews",
+            "Buy single-cask releases"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Patient",
+          "Pedigreed",
+          "Quietly traditional",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the warehouse and the cask",
+            "Treat the wax-seal bottle as the artifact",
+            "Print cask data with each release"
+          ],
+          "donts": [
+            "Skip the maturation detail",
+            "Use 'rare' as the whole pitch",
+            "Brand as new-luxury"
+          ]
+        },
+        "logoDirection": "Wordmark: DUNNAGE HOUSE in a refined Scottish serif, two lines. A small mark \u2014 a single dunnage-warehouse silhouette (low roof) \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Warehouse Slate",
+            "hex": "#3B3F43",
+            "meaning": "Slate roof.",
+            "usage": "Body"
+          },
+          {
+            "name": "Cask Cream",
+            "hex": "#F1EBD4",
+            "meaning": "Cask paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sherry",
+            "hex": "#7E4828",
+            "meaning": "Sherry-cask whisky.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body",
+          "rationale": "Two classical English serifs \u2014 the dunnage-house register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Pot Still",
+        "tagline": "Copper, slow.",
+        "brandNameRationale": "Anchor: The copper pot still \u2014 the foundational vessel of Scotch, Irish, and most craft spirits, used since the alchemists of Alexandria. Picked from A's three for the cleanest minimal anchor.",
+        "industrySummary": "Minimalist craft distilleries serve a real urban-bar and bottle-shop market. The brand reads as quiet, single-act, no marketing scaffolding.",
+        "competitorLandscape": "Sipsmith (sipsmith.com) plays the modern London peer. St. George Spirits (stgeorgespirits.com) holds the California craft middle. Westward Whiskey (westwardwhiskey.com) is the modern American single-malt reference. We sit as a minimal pot-still brand.",
+        "positioningStatement": "Pot Still is a minimalist craft distillery making single pot-still whisky, gin, and brandy.",
+        "targetAudience": {
+          "primary": "Bottle-shop buyers and bartenders 28\u201345 who want a clean modern spirit.",
+          "behaviors": [
+            "Buy from independent bottle shops",
+            "Care about pot-still distillation",
+            "Read distillery blogs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Modern",
+          "Quiet",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the still",
+            "Use white space generously",
+            "Name the cut and the cask"
+          ],
+          "donts": [
+            "Sell 'small-batch' as the whole pitch",
+            "Photograph stock bar imagery",
+            "Crowd the label"
+          ]
+        },
+        "logoDirection": "Wordmark: POT STILL set very large in a clean modern sans, two words on one line. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Copper",
+            "hex": "#A0552F",
+            "meaning": "Pot-still copper.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Spirit Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Distillery paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Still Black",
+            "hex": "#141518",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for ABV",
+          "rationale": "A quiet grotesk plus its mono \u2014 the minimal distillery register."
+        }
+      },
+      {
+        "brandName": "Cut",
+        "tagline": "Heads. Hearts. Tails.",
+        "brandNameRationale": "Anchor: The 'cut' \u2014 the distiller's decision to separate heads, hearts, and tails of the spirit run, the single most important act in distilling. Picked from A's three for the most genuinely insider single-word anchor.",
+        "industrySummary": "Stripped-back craft spirits brands work the bottle-shop market well, especially with bartenders. The brand has to live on a single act.",
+        "competitorLandscape": "Compass Box (compassboxwhisky.com) plays the editorial peer (different position). Lost Spirits (lostspirits.net) holds the process-led middle. Westland (westlanddistillery.com) is the modern American single-malt reference. We sit as a single-act craft brand.",
+        "positioningStatement": "Cut is a stripped-back craft spirits brand built on the single act of the spirit cut.",
+        "targetAudience": {
+          "primary": "Bartenders and bottle-shop buyers who care about heads/hearts/tails timing.",
+          "behaviors": [
+            "Read distillery blogs",
+            "Care about cut timing",
+            "Buy bottle-shop releases monthly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Process-led",
+          "Modern",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the cut times",
+            "Show the spirit safe",
+            "Use white space"
+          ],
+          "donts": [
+            "Hide the cuts",
+            "Sell 'craft' as the whole pitch",
+            "Use clich\u00e9 whisky imagery"
+          ]
+        },
+        "logoDirection": "Wordmark: CUT set very large in a clean modern sans, three letters, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Spirit Black",
+            "hex": "#131316",
+            "meaning": "Wordmark.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Cut Cream",
+            "hex": "#F1ECD9",
+            "meaning": "Lab-card paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A07A2E",
+            "meaning": "Spirit-safe brass.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for cut times and ABV",
+          "rationale": "Clean Diatype with its mono \u2014 the spirit-safe register."
+        }
+      },
+      {
+        "brandName": "Mash",
+        "tagline": "Grain, water, time.",
+        "brandNameRationale": "Anchor: The mash \u2014 the cooked grain-and-water mixture that begins every grain spirit, the first step in the still-house. Picked from A's three for the cleanest grain-forward anchor.",
+        "industrySummary": "Spare, grain-forward whisky brands work the modern bottle-shop and bar market \u2014 buyers who want to see the grain bill before the marketing.",
+        "competitorLandscape": "Westward Whiskey (westwardwhiskey.com) plays the modern American single-malt peer. Tullibardine (tullibardine.com) holds the modern Scotch middle. Glenfiddich Grand series (glenfiddich.com) is the institutional reference. We sit as a grain-led modern brand.",
+        "positioningStatement": "Mash is a spare, grain-forward whisky brand built on the mash bill and the still.",
+        "targetAudience": {
+          "primary": "Bartenders and bottle-shop buyers who care about grain bills.",
+          "behaviors": [
+            "Read the mash bill on the label",
+            "Compare grain spirits side by side",
+            "Care about new-make character"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Grain-led",
+          "Modern",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the mash bill on the label",
+            "Name the grain and the source",
+            "Use white space"
+          ],
+          "donts": [
+            "Hide the mash bill",
+            "Sell 'tradition' as the whole pitch",
+            "Crowd the label"
+          ]
+        },
+        "logoDirection": "Wordmark: MASH set very large in a clean modern sans, four letters, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Grain Cream",
+            "hex": "#F1ECD8",
+            "meaning": "Mash paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Mash Brown",
+            "hex": "#5C402A",
+            "meaning": "Mash tun wood.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Still Black",
+            "hex": "#141518",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for mash bills and ABV",
+          "rationale": "A quiet grotesk plus its mono \u2014 the still-house ledger register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Excise & Bond",
+        "tagline": "The regulated spirits group.",
+        "brandNameRationale": "Anchor: The bonded warehouse and excise duty system \u2014 the regulatory backbone of distilling since the British Excise Act of 1643. Picked from A's three \u2014 REJECTED 'Distillers Company' (DCL flagged by Agent A) and 'Coffey & Stein' (used Coffey elsewhere). Excise & Bond is a clean institutional anchor.",
+        "industrySummary": "B2B and institutional spirits groups \u2014 bonded warehouse operators, private-cask programs, and trade-only spirits suppliers \u2014 are a real, durable category mostly hidden from consumer view.",
+        "competitorLandscape": "Edrington Group (edrington.com) plays the institutional-Scotch parent. Diageo (diageo.com) is the global incumbent. William Grant & Sons (williamgrant.com) holds the family-owned institutional middle. We sit as a bonded-warehouse and trade-spirits group.",
+        "positioningStatement": "Excise & Bond is an institutional spirits group operating bonded warehouses, private-cask programs, and trade-only spirits supply.",
+        "targetAudience": {
+          "primary": "Independent bottlers, private-cask clients, and trade buyers.",
+          "behaviors": [
+            "Buy casks privately",
+            "Care about bonded warehouse terms",
+            "Read the spirits trade press"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Quietly modern",
+          "Reliable",
+          "Pedigreed"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in casks and litres of pure alcohol",
+            "Show the warehouse ledger",
+            "Print bonded-warehouse terms as the document"
+          ],
+          "donts": [
+            "Brand as a consumer label",
+            "Hide the price book",
+            "Use lifestyle imagery"
+          ]
+        },
+        "logoDirection": "Wordmark: EXCISE & BOND set in a refined English serif, two lines centered. A small mark \u2014 a single ledger-and-cask seal \u2014 used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Bond Ink",
+            "hex": "#131418",
+            "meaning": "Ledger ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Ledger Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Ledger paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A07A2E",
+            "meaning": "Bonded seal.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and contracts",
+          "rationale": "A classical English serif plus a clean grotesk \u2014 the bonded-trade register."
+        }
+      },
+      {
+        "brandName": "Cooperage & Cask Holdings",
+        "tagline": "The cask-asset group.",
+        "brandNameRationale": "Anchor: The whisky-cask investment market, formalized through bonded-warehouse cask sales since the 1980s and now a multi-hundred-million-dollar private market. The 'cask & cooperage' combination is in widespread descriptive use. Counter-proposal corporate anchor \u2014 institutional clean.",
+        "industrySummary": "Cask-asset and bonded-storage holdings \u2014 companies that own, broker, and finance whisky casks as alternative assets \u2014 are a fast-growing institutional category, especially with HNW private bank clients.",
+        "competitorLandscape": "Whisky Investment Partners (whiskyinvestmentpartners.com) plays the institutional-cask broker. Braeburn Whisky (braeburn.com) holds the cask-investment middle. London Cask Co (londoncaskco.com) is the consumer-facing reference we sit above. We sit as a cask-holdings group.",
+        "positioningStatement": "Cooperage & Cask Holdings is a cask-asset and bonded-storage group for whisky-cask investors and private collectors.",
+        "targetAudience": {
+          "primary": "Private bank clients, family-office portfolio managers, and serious cask collectors.",
+          "behaviors": [
+            "Hold casks as alternative assets",
+            "Review portfolios annually",
+            "Care about bonded-warehouse terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Quietly modern",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cask values and storage years",
+            "Show the portfolio statement",
+            "Print bonded-warehouse certificates"
+          ],
+          "donts": [
+            "Brand as a consumer label",
+            "Promise inflated returns",
+            "Hide warehouse fees"
+          ]
+        },
+        "logoDirection": "Wordmark: COOPERAGE & CASK HOLDINGS set in an institutional serif, three lines. A small mark \u2014 a single cask-end seal \u2014 used on portfolio statements.",
+        "colorPalette": [
+          {
+            "name": "Portfolio Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Institutional.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Statement Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Statement paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cask Brown",
+            "hex": "#5C402A",
+            "meaning": "Cask oak.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and statements",
+          "rationale": "A reading serif plus a clean grotesk \u2014 the portfolio-statement register."
+        }
+      },
+      {
+        "brandName": "Bonded Warehouse Group",
+        "tagline": "The infrastructure of aging.",
+        "brandNameRationale": "Anchor: The U.S. bonded warehouse system, formalized under the Bottled-in-Bond Act of 1897, which set the institutional standard for federal-supervised whiskey aging. Counter-proposal third corporate institutional anchor (Coffey/Distillers/Cooperage already used; Bottled-in-Bond is the U.S. cleanest).",
+        "industrySummary": "Bonded-warehouse operations \u2014 third-party bonded-storage providers serving smaller distillers and independent bottlers \u2014 are a real B2B category, mostly invisible to consumers.",
+        "competitorLandscape": "Diageo's bonded operations and Brown-Forman's bonded houses dominate at scale. Buffalo Trace (buffalotracedistillery.com) plays the bonded reference. Heaven Hill Bonded (heavenhilldistillery.com) holds the U.S. bonded middle. We sit as an independent bonded-warehouse group serving craft distillers.",
+        "positioningStatement": "Bonded Warehouse Group provides bonded storage, aging, and bottling services for craft distillers and independent bottlers.",
+        "targetAudience": {
+          "primary": "Craft distillery operators, independent bottlers, and trade-only buyers.",
+          "behaviors": [
+            "Sign multi-year storage contracts",
+            "Care about federal compliance",
+            "Read the bonded-spirits trade press"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Plain",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in barrels and proof gallons",
+            "Show the warehouse and the bonded-room",
+            "Print compliance documents"
+          ],
+          "donts": [
+            "Brand as a consumer label",
+            "Hide the contract terms",
+            "Promise rate cuts"
+          ]
+        },
+        "logoDirection": "Wordmark: BONDED WAREHOUSE GROUP set in an institutional sans, three lines. A small mark \u2014 a single bonded-warehouse silhouette \u2014 used on certificates.",
+        "colorPalette": [
+          {
+            "name": "Warehouse Slate",
+            "hex": "#3B3F43",
+            "meaning": "Roof slate.",
+            "usage": "Body"
+          },
+          {
+            "name": "Certificate Cream",
+            "hex": "#F1EBD8",
+            "meaning": "Document paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bond Green",
+            "hex": "#2E4732",
+            "meaning": "Federal-document green.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Akzidenz-Grotesk for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and contracts",
+          "rationale": "An institutional grotesk plus a clean reading grotesk \u2014 the bonded-warehouse register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Old Tom & Co",
+        "tagline": "The 18th-c London gin.",
+        "brandNameRationale": "Anchor: Old Tom gin \u2014 the slightly sweetened 18th-c London style sold from wooden cat-shaped plaques on tavern walls during the gin craze. Picked from A's three for the most genuinely insider-creative gin anchor.",
+        "industrySummary": "Playful, historically literate gin brands work well in the cocktail-and-bottle-shop market, especially with bartenders who care about historical styles.",
+        "competitorLandscape": "Sipsmith VJOP (sipsmith.com) plays the modern London peer. Hayman's Old Tom (haymansgin.com) is the institutional Old-Tom reference. Tarquin's (tarquinsgin.com) holds the editorial-Cornish middle. We sit as a playful Old-Tom-and-historic-styles brand.",
+        "positioningStatement": "Old Tom & Co is a playful, historically literate gin brand reviving 18th-c London styles.",
+        "targetAudience": {
+          "primary": "Bartenders and cocktail enthusiasts who care about historical gin styles.",
+          "behaviors": [
+            "Read gin history",
+            "Care about Old Tom and Plymouth styles",
+            "Visit the Beefeater distillery on the London trip"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Historically literate",
+          "Confident",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the gin history on the label",
+            "Name the botanical bill",
+            "Use 18th-c illustrative style"
+          ],
+          "donts": [
+            "Sell 'craft gin' as the whole pitch",
+            "Skip the historical reference",
+            "Use generic botanical photography"
+          ]
+        },
+        "logoDirection": "Wordmark: OLD TOM & CO in an 18th-c-style display serif, one line. A small mark \u2014 a single black-cat-on-plaque silhouette \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Tavern Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Tavern-poster paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gin Black",
+            "hex": "#141417",
+            "meaning": "Cat silhouette.",
+            "usage": "Body"
+          },
+          {
+            "name": "London Red",
+            "hex": "#A12830",
+            "meaning": "Sign red.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Antique for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "An 18th-c display serif plus a clean grotesk \u2014 the London-tavern register, modernized."
+        }
+      },
+      {
+        "brandName": "Moonshine & Mash",
+        "tagline": "Backcountry, in a bottle.",
+        "brandNameRationale": "Anchor: Appalachian moonshine \u2014 the unaged corn whiskey tradition of the Scots-Irish southern mountains, immortalized in Prohibition lore. Picked from A's three for the strongest American-backcountry anchor.",
+        "industrySummary": "Unaged-spirits brands with American backcountry stories \u2014 white whiskey, corn whisky, and unaged moonshine \u2014 work in the bottle-shop and bar market with a clear narrative.",
+        "competitorLandscape": "Ole Smoky (olesmoky.com) plays the institutional moonshine peer. Junior Johnson's Midnight Moon (juniorjohnsonsmidnightmoon.com) holds the heritage-named middle. Death's Door (deathsdoorspirits.com) is the editorial-craft reference. We sit alongside Junior Johnson with sharper editorial framing.",
+        "positioningStatement": "Moonshine & Mash is an unaged-spirits brand with Appalachian backcountry stories.",
+        "targetAudience": {
+          "primary": "Bartenders, bottle-shop buyers, and Americana enthusiasts.",
+          "behaviors": [
+            "Read Prohibition history",
+            "Care about corn whisky and unaged spirits",
+            "Travel for distillery tours"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Story-led",
+          "American",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the backcountry story on the label",
+            "Name the corn and the mash bill",
+            "Use period photography"
+          ],
+          "donts": [
+            "Romanticize Prohibition as nostalgia",
+            "Sell 'shine' as the whole pitch",
+            "Use stock American imagery"
+          ]
+        },
+        "logoDirection": "Wordmark: MOONSHINE & MASH in a Western-flavored slab serif, two lines. A small mark \u2014 a single mason-jar silhouette \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Jar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Mason-jar paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Backwoods Green",
+            "hex": "#3E5236",
+            "meaning": "Mountain pine.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Moonshine Black",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Sentinel for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A Western-flavored slab plus a quiet grotesk \u2014 the backcountry-label register."
+        }
+      },
+      {
+        "brandName": "Hogshead Bros",
+        "tagline": "By the cask, since old English.",
+        "brandNameRationale": "Anchor: The hogshead \u2014 the 250-liter oak cask still standard for aging bourbon and Scotch, named from Old English hogges hede. Picked from A's three for the cleanest cask-vocabulary anchor.",
+        "industrySummary": "Character-led craft whisky brands work the bottle-shop and bar market with a clear cask narrative and quirky labeling. The hogshead cask is a real category-defining piece of vocabulary.",
+        "competitorLandscape": "Compass Box (compassboxwhisky.com) plays the editorial-blender peer. Westland (westlanddistillery.com) holds the modern American single-malt middle. Cotswolds Distillery (cotswoldsdistillery.com) is the English single-malt reference. We sit as a hogshead-led character brand.",
+        "positioningStatement": "Hogshead Bros is a character-led craft whisky brand built on hogshead-cask aging and editorial labeling.",
+        "targetAudience": {
+          "primary": "Whisky enthusiasts and bartenders who care about cask provenance.",
+          "behaviors": [
+            "Read cask provenance on the back",
+            "Care about hogshead versus barrel",
+            "Travel for distillery tours"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Character-led",
+          "Cask-led",
+          "Witty",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cask number and the year",
+            "Print the cask provenance on the label",
+            "Show the cask end"
+          ],
+          "donts": [
+            "Sell 'craft whisky' as the whole pitch",
+            "Skip the cask data",
+            "Use generic Highland imagery"
+          ]
+        },
+        "logoDirection": "Wordmark: HOGSHEAD BROS in a confident slab serif, two lines. A small mark \u2014 a single hogshead cask end with cooper's mark \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cooperage Oak",
+            "hex": "#5C402A",
+            "meaning": "Charred oak.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Cask Cream",
+            "hex": "#F1EBD5",
+            "meaning": "Cask paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Spirit Black",
+            "hex": "#141518",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Sentinel for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A confident slab plus a quiet grotesk \u2014 the cask-house register."
+        }
+      }
+    ]
+  }
+}

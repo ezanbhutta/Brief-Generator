@@ -1,0 +1,915 @@
+{
+  "industry": "dance",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Cunningham Lab",
+        "tagline": "Movement, decoupled.",
+        "brandNameRationale": "Anchor: Merce Cunningham (1919\u20132009), who decoupled dance from music and pioneered chance choreography with John Cage. Picked from A's three \u2014 the Cunningham Trust handles licensing of the company's works but the historical name is widely used as homage/training-method reference. REJECTED 'Graham Method' as too close to the active Martha Graham school's mark; Tanztheater was a near-pick but more abstract.",
+        "industrySummary": "Contemporary dance in 2025 is a small, fierce ecosystem of independent companies and labs. Funders prefer companies that combine performance, training, and community work \u2014 and that document everything online.",
+        "competitorLandscape": "Trisha Brown Dance Company (trishabrowncompany.org) plays the experimental-postmodern peer. Stephen Petronio Company (stephenpetronio.com) holds the New York contemporary middle. Gibney (gibneydance.org) is the dancer-led institution. We sit alongside Petronio with sharper experimental framing.",
+        "positioningStatement": "Cunningham Lab is an experimental contemporary dance company and training lab for chance-led choreography and unaccompanied work.",
+        "targetAudience": {
+          "primary": "Dancers, choreographers, and contemporary-dance audiences in major cities.",
+          "behaviors": [
+            "Attend two performances a month",
+            "Read DanceTabs and The Brooklyn Rail",
+            "Follow choreographers on Instagram"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Experimental",
+          "Disciplined",
+          "Quietly modern",
+          "Curious"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the choreographer and the chance operation",
+            "Document the rehearsal",
+            "Speak in scores, not stories"
+          ],
+          "donts": [
+            "Romanticize dancers' bodies",
+            "Sell a 'wellness' frame",
+            "Photograph performances at rehearsal lighting only"
+          ]
+        },
+        "logoDirection": "Wordmark: CUNNINGHAM LAB in a clean modern grotesk, two lines. A small mark \u2014 a single grid square with a dot in a random cell \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Studio Black",
+            "hex": "#0F0F11",
+            "meaning": "Floor.",
+            "usage": "Body"
+          },
+          {
+            "name": "Marley",
+            "hex": "#1B1B1D",
+            "meaning": "Dance-floor marley.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Chance Red",
+            "hex": "#B6322A",
+            "meaning": "A score mark.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for program notes",
+          "rationale": "A quiet grotesk plus its mono \u2014 the contemporary-program register."
+        }
+      },
+      {
+        "brandName": "Tanztheater",
+        "tagline": "Dance, with set and speech.",
+        "brandNameRationale": "Anchor: Tanztheater \u2014 the German 'dance theater' tradition crystallized by Pina Bausch at Wuppertal from 1973, blending speech, set, and movement. Picked from A's three \u2014 Bausch's company is active but 'Tanztheater' is a genre word in the public domain (used by many companies).",
+        "industrySummary": "Boundary-crossing performance \u2014 companies that mix dance, speech, set, and video \u2014 get more festival programming and editorial coverage than pure-form companies. Funders are matching the trend.",
+        "competitorLandscape": "Tanztheater Wuppertal (pina-bausch.de) is the foundational reference. NDT (ndt.nl) plays the institutional European peer. Companhia de Dan\u00e7a Deborah Colker (ciadeborahcolker.com.br) holds the Latin American middle. We sit as a smaller boundary-crossing peer with editorial branding.",
+        "positioningStatement": "Tanztheater is a boundary-crossing performance company for festival-tier dance with set, text, and music.",
+        "targetAudience": {
+          "primary": "Festival programmers, contemporary-performance audiences, and arts press.",
+          "behaviors": [
+            "Travel to festivals",
+            "Read the program note",
+            "Care about the set design as much as the choreography"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Boundary-crossing",
+          "Disciplined",
+          "Editorial",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the dramaturg and the set designer",
+            "Lead with the set image",
+            "Write program notes in plain language"
+          ],
+          "donts": [
+            "Brand as 'pure dance'",
+            "Photograph the dancer in a leotard",
+            "Use 'transformative' as a tagline"
+          ]
+        },
+        "logoDirection": "Wordmark: TANZTHEATER set in a confident slab serif, one word, one line. A small mark \u2014 a single chair tipped on its side (a Bausch reference) \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#0C0C0E",
+            "meaning": "Theater black.",
+            "usage": "Body"
+          },
+          {
+            "name": "Set Cream",
+            "hex": "#EAE3CE",
+            "meaning": "Stage paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8E2A26",
+            "meaning": "House curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Sentinel for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and program notes",
+          "rationale": "A confident slab plus a quiet grotesk \u2014 the dance-theater program register."
+        }
+      },
+      {
+        "brandName": "Release Technique",
+        "tagline": "Falling, on purpose.",
+        "brandNameRationale": "Anchor: Release Technique \u2014 the post-Cunningham movement language developed in the 1970s\u201380s by teachers like Joan Skinner and Susan Klein, built on gravity, breath, and economy of effort. A core vocabulary of modern contemporary training. Counter-proposal added a third modern option alongside Cunningham and Tanztheater for variety.",
+        "industrySummary": "Contemporary dance training has shifted from technique-school silos to a release-led, somatic-aware vocabulary that pulls from Klein, Skinner, and Feldenkrais. Studios that own this register get the serious freelance dancer market.",
+        "competitorLandscape": "Movement Research (movementresearch.org) plays the institutional peer. Gibney (gibneydance.org) holds the NYC training middle. Independent Dance (independentdance.co.uk) is the London reference. We sit alongside Movement Research with a sharper training brand.",
+        "positioningStatement": "Release Technique is a contemporary dance training studio and small company centered on release-based vocabulary for professional dancers.",
+        "targetAudience": {
+          "primary": "Independent professional dancers, choreographers, and serious advanced students.",
+          "behaviors": [
+            "Train every weekday morning",
+            "Read somatic literature",
+            "Treat the floor as the partner"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Somatic",
+          "Disciplined",
+          "Quiet",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in the vocabulary of weight and breath",
+            "Name the teacher lineage",
+            "Document the warm-up"
+          ],
+          "donts": [
+            "Sell technique as 'wellness'",
+            "Photograph dancers as decorative",
+            "Use 'mind-body' as marketing"
+          ]
+        },
+        "logoDirection": "Wordmark: RELEASE TECHNIQUE on two lines, clean sans, lowercase. A small mark \u2014 a single soft horizontal line (the floor) \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Floor",
+            "hex": "#1A1A1D",
+            "meaning": "Marley.",
+            "usage": "Body"
+          },
+          {
+            "name": "Breath",
+            "hex": "#F0EBDC",
+            "meaning": "Studio paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pulse Blue",
+            "hex": "#3B5A78",
+            "meaning": "Quiet emphasis.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for class schedules",
+          "rationale": "Clean Diatype with its mono \u2014 the contemporary-studio register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Petipa",
+        "tagline": "Classical ballet, at the highest level.",
+        "brandNameRationale": "Anchor: Marius Petipa (1818\u20131910), the French ballet master at the Imperial Russian Ballet who choreographed Swan Lake, Sleeping Beauty, and Don Quixote. Picked from A's three \u2014 Petipa's name is firmly public-domain historical.",
+        "industrySummary": "Couture-tier classical ballet academies serve a small global market of serious students bound for Paris Opera, Royal Ballet, or ABT. The brand has to read as an institution from the first page.",
+        "competitorLandscape": "Paris Opera Ballet School (operadeparis.fr/en) is the institutional reference. Princess Grace Academy (academie-princessegrace.com) plays the Monaco peer. Royal Ballet School (royalballetschool.org.uk) holds the British institutional slot. We sit as an independent atelier with classical-Russian and French pedigree.",
+        "positioningStatement": "Maison Petipa is a couture-tier classical ballet academy and chamber company for serious students and patrons.",
+        "targetAudience": {
+          "primary": "Parents of pre-professional students, principal-track dancers, and ballet patrons.",
+          "behaviors": [
+            "Audition for major schools at 11",
+            "Travel to performances internationally",
+            "Support a season subscription"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Classical",
+          "Pedigreed",
+          "Disciplined",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in Vaganova-French vocabulary",
+            "Name the variations and the years",
+            "Treat the program as the artifact"
+          ],
+          "donts": [
+            "Sell 'ballet body' aesthetics",
+            "Photograph students in soft-focus",
+            "Use Instagram dance trends"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON PETIPA set in a refined French didone, two lines centered, hairline rule beneath. A small mark \u2014 a single arabesque silhouette in line \u2014 used on programs.",
+        "colorPalette": [
+          {
+            "name": "Imperial Ink",
+            "hex": "#101418",
+            "meaning": "Program ink.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Pointe Cream",
+            "hex": "#F2EBD8",
+            "meaning": "Satin slipper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Maillot Rose",
+            "hex": "#C19A8E",
+            "meaning": "Theatrical tights tone.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and program notes",
+          "rationale": "A French-flavored didone paired with a quiet grotesk \u2014 the program-book register."
+        }
+      },
+      {
+        "brandName": "Vaganova Atelier",
+        "tagline": "St Petersburg, in the studio.",
+        "brandNameRationale": "Anchor: The Vaganova Academy in St Petersburg, founded 1738 \u2014 the oldest ballet school in the world. The Vaganova method is the most widely taught classical syllabus globally. Picked from A's three \u2014 Vaganova as a method/word is in widespread global use; only the St Petersburg academy carries the institutional mark, which we don't claim.",
+        "industrySummary": "Elite classical training is a global, parent-driven market. Vaganova-method studios in the U.S., UK, and Asia routinely command four-figure monthly tuitions for serious students.",
+        "competitorLandscape": "Bolshoi Ballet Academy (bolshoiballetacademy.com) plays the U.S.-licensed-Russian peer. Universal Ballet Academy (universalballet.org) holds the U.S. Russian-style middle. ABT JKO School (abt.org/jko-school) is the New York reference. We sit as a private Vaganova-method atelier.",
+        "positioningStatement": "Vaganova Atelier is a small, elite classical ballet atelier teaching the Vaganova syllabus to pre-professional students.",
+        "targetAudience": {
+          "primary": "Pre-professional students 8\u201318 and their parents committed to a classical track.",
+          "behaviors": [
+            "Audition annually",
+            "Train six days a week",
+            "Plan summer intensives a year ahead"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Classical",
+          "Rigorous",
+          "Russian-pedigreed",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the syllabus year",
+            "Name the r\u00e9p\u00e9titeur",
+            "Treat the studio as the discipline"
+          ],
+          "donts": [
+            "Promise 'ballet for everyone'",
+            "Mix in 'dance fitness'",
+            "Sell costumes as the brand"
+          ]
+        },
+        "logoDirection": "Wordmark: VAGANOVA ATELIER set in spaced caps of a refined serif, two lines. A small mark \u2014 a single fifth-position foot diagram \u2014 used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Neva Ink",
+            "hex": "#171A20",
+            "meaning": "St Petersburg winter.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Studio Cream",
+            "hex": "#F1EAD7",
+            "meaning": "Linen practice tunic.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Imperial Gold",
+            "hex": "#A6862F",
+            "meaning": "Theater gilding.",
+            "usage": "Accent, seals"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A reading serif paired with a quiet grotesk \u2014 the academy program register."
+        }
+      },
+      {
+        "brandName": "Diaghilev Salon",
+        "tagline": "Patronage of the moving arts.",
+        "brandNameRationale": "Anchor: Sergei Diaghilev, impresario of the Ballets Russes (1909\u20131929), who commissioned Stravinsky, Picasso, and Chanel for a single stage. Picked from A's three for the most pedigreed luxury-patronage anchor.",
+        "industrySummary": "Luxury dance patronage \u2014 private commissions, salons, restaging projects \u2014 exists for a small global tier of UHNW collectors. The product is access to choreographers, dancers, and one-night-only stagings.",
+        "competitorLandscape": "Works & Process at the Guggenheim (worksandprocess.org) plays the curated-dance peer. NYC Ballet's Spring Gala (nycballet.com) is the patron-event reference. Sadler's Wells patron program (sadlerswells.com) holds the London middle. We sit as a private-salon brand for dance commissions.",
+        "positioningStatement": "Diaghilev Salon is a luxury patronage and commissioning house for private dance commissions, restagings, and salon performances.",
+        "targetAudience": {
+          "primary": "UHNW arts patrons, collector couples, and family-foundation arts officers.",
+          "behaviors": [
+            "Underwrite restaging projects",
+            "Travel for premieres",
+            "Host private salons"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Discreet",
+          "Editorial",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the choreographer and the composer",
+            "Treat the salon invitation as the artifact",
+            "Quote in commissions, not seasons"
+          ],
+          "donts": [
+            "Publish patron lists",
+            "Sell tiered 'experiences'",
+            "Use 'luxury' anywhere on the site"
+          ]
+        },
+        "logoDirection": "Wordmark: DIAGHILEV SALON set in a refined French didone, two lines, hairline rule beneath. A small mark \u2014 a single Bakst-style line motif \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Ink",
+            "hex": "#131418",
+            "meaning": "Program ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Bakst Cream",
+            "hex": "#F2EAD3",
+            "meaning": "Program paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cocteau Blue",
+            "hex": "#2D4A6B",
+            "meaning": "Salon walls.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A French didone with a contemporary reading serif \u2014 the salon-program register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Barre",
+        "tagline": "Hold.",
+        "brandNameRationale": "Anchor: The ballet barre \u2014 the horizontal rail used since at least the 18th c. for warm-up and exercices \u00e0 la barre. Picked from A's three for the most minimal single-word dance anchor.",
+        "industrySummary": "Minimalist dance studios \u2014 barre-led, single-floor, no music tier \u2014 are a real small-market category between fitness barre and serious ballet. The brand has to read as quiet discipline, not fitness energy.",
+        "competitorLandscape": "Pure Barre (purebarre.com) is the fitness-barre mass market we're not. The Ailey Extension (alvinailey.org/extension) holds the open-class middle. Steps on Broadway (stepsnyc.com) is the professional open-class reference. We sit as a minimal-studio adult barre brand.",
+        "positioningStatement": "Barre is a minimalist adult ballet studio centered on barre work, technique, and quiet discipline.",
+        "targetAudience": {
+          "primary": "Adult ballet students 25\u201355 with prior training, returning to the barre.",
+          "behaviors": [
+            "Take 90-minute classes weekly",
+            "Care about the syllabus, not the playlist",
+            "Travel for open class"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Disciplined",
+          "Quiet",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in pli\u00e9, tendu, rond de jambe",
+            "Show the barre, not the body",
+            "Use silence between exercises"
+          ],
+          "donts": [
+            "Brand as fitness",
+            "Photograph 'sculpted' bodies",
+            "Play loud music"
+          ]
+        },
+        "logoDirection": "Wordmark: BARRE set in a clean modern serif, large, lowercase, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Studio Floor",
+            "hex": "#1B1B1D",
+            "meaning": "Marley.",
+            "usage": "Body"
+          },
+          {
+            "name": "Wall Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Studio wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Maillot",
+            "hex": "#C4A192",
+            "meaning": "Tights tone.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A clean reading serif plus a quiet grotesk \u2014 the adult-studio register."
+        }
+      },
+      {
+        "brandName": "Pli\u00e9",
+        "tagline": "The first move, every day.",
+        "brandNameRationale": "Anchor: The pli\u00e9 \u2014 the foundational bend of the knees, first codified in Pierre Beauchamp's 17th-c French academy positions. Every class begins here. Picked from A's three for the strongest single-step anchor.",
+        "industrySummary": "Spare, classical-modern training brands serve the adult intermediate market \u2014 students with classical background who want technique, not fitness. The category is underbranded.",
+        "competitorLandscape": "Steps on Broadway (stepsnyc.com) plays the professional open-class peer. The Place London (theplace.org.uk) holds the contemporary middle. Joffrey Academy (joffrey.org) is the institutional reference. We sit as a quieter adult studio.",
+        "positioningStatement": "Pli\u00e9 is a spare, technique-first dance studio for adult classical and contemporary training.",
+        "targetAudience": {
+          "primary": "Adult students 28\u201350 with prior classical or contemporary training.",
+          "behaviors": [
+            "Treat class as practice",
+            "Read the syllabus",
+            "Travel for masterclasses"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Classical-modern",
+          "Patient",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Begin with the pli\u00e9",
+            "Name the teacher",
+            "Use white space generously"
+          ],
+          "donts": [
+            "Sell 'glow-up' transformations",
+            "Mix in fitness branding",
+            "Crowd the schedule page"
+          ]
+        },
+        "logoDirection": "Wordmark: pli\u00e9 set very large in a humanist serif, lowercase, one word, with the accent intact. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Marley Black",
+            "hex": "#161618",
+            "meaning": "Floor.",
+            "usage": "Body"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9D8",
+            "meaning": "Tunic linen.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Resin Rose",
+            "hex": "#BF8E7C",
+            "meaning": "Rosin tin.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A reading serif with the proper diacritic, plus a quiet grotesk for class schedules."
+        }
+      },
+      {
+        "brandName": "Adagio",
+        "tagline": "Slow, sustained, control.",
+        "brandNameRationale": "Anchor: Adagio \u2014 the slow, sustained section of a classical pas de deux, demanding the deepest control. Picked from A's three for the strongest tempo-named anchor.",
+        "industrySummary": "Adult contemporary studios that emphasize sustained, slow work pair well with the somatic-training audience that overlaps with yoga and Pilates studios. There's room for a tempo-named brand.",
+        "competitorLandscape": "Mark Morris Dance Center (mmdg.org) plays the open-class adult peer. Gibney (gibneydance.org) holds the NYC middle. Sadler's Wells Learning (sadlerswells.com) is the London reference. We sit as a slower-tempo adult studio.",
+        "positioningStatement": "Adagio is a quiet, technique-focused contemporary dance studio for adult students working in sustained movement.",
+        "targetAudience": {
+          "primary": "Adult students 30\u201355 in major cities, often with somatic or yoga background.",
+          "behaviors": [
+            "Take 75-minute classes weekly",
+            "Read somatic literature",
+            "Care about adagio more than allegro"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Sustained",
+          "Disciplined",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in tempo and breath",
+            "Show the long line",
+            "Use white space and slow pacing"
+          ],
+          "donts": [
+            "Sell 'energy' or 'sweat'",
+            "Photograph high-velocity jumps",
+            "Use trending music"
+          ]
+        },
+        "logoDirection": "Wordmark: ADAGIO set in a humanist serif, large, lowercase, one word. A small mark \u2014 a single curved arc \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Sustain Ink",
+            "hex": "#171819",
+            "meaning": "Stage ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Breath Cream",
+            "hex": "#F1ECDD",
+            "meaning": "Quiet studio paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hold Blue",
+            "hex": "#3E5874",
+            "meaning": "Slow tempo.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A quiet reading serif plus a clean grotesk \u2014 the slow-studio register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Imperial Dance Academy",
+        "tagline": "Examined.",
+        "brandNameRationale": "Anchor: The Imperial Society of Teachers of Dancing, founded London 1904, the leading examination body for ballroom and theater dance worldwide. Picked from A's three \u2014 REJECTED 'Royal Opera Dance Trust' (protected) and 'Cecchetti Society' (active). Imperial as a positioning word is widely used; ISTD's institutional acronym is what's protected.",
+        "industrySummary": "Examination-grade dance institutes serve a real global market \u2014 parents, syllabus teachers, and certification candidates. The category lives on accreditation, examiners, and printed certificates.",
+        "competitorLandscape": "ISTD (istd.org) is the institutional reference we sit alongside. Royal Academy of Dance (royalacademyofdance.org) plays the syllabus peer. Cecchetti USA (cecchettiusa.org) is the U.S. classical-syllabus middle. We sit as a private examined-academy brand.",
+        "positioningStatement": "Imperial Dance Academy is an examination-grade dance academy and syllabus authority for serious classical and theater-dance training.",
+        "targetAudience": {
+          "primary": "Syllabus teachers, examination candidates, and parent-buyers of certified training.",
+          "behaviors": [
+            "Plan to syllabus exams",
+            "Travel for assessments",
+            "Keep certificates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Pedigreed",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the syllabus and the examiner",
+            "Treat the certificate as the artifact",
+            "Speak in grades and marks"
+          ],
+          "donts": [
+            "Mix in trending dance fitness",
+            "Use 'transformative' as a category",
+            "Sell tiered 'experiences'"
+          ]
+        },
+        "logoDirection": "Wordmark: IMPERIAL DANCE ACADEMY in spaced caps of a refined serif, three lines centered. A small mark \u2014 a single ribbon-and-laurel seal \u2014 used on certificates.",
+        "colorPalette": [
+          {
+            "name": "Academy Ink",
+            "hex": "#131417",
+            "meaning": "Certificate ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Certificate Cream",
+            "hex": "#F2EBD7",
+            "meaning": "Paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sash Gold",
+            "hex": "#A6862F",
+            "meaning": "Seal foil.",
+            "usage": "Accent, seals"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and certificates",
+          "rationale": "Classical Caslon for the seal; clean grotesk for body \u2014 the certificate register."
+        }
+      },
+      {
+        "brandName": "National Dance Trust",
+        "tagline": "The institutional company.",
+        "brandNameRationale": "Anchor: The U.S. and UK 20th-c tradition of state-supported national dance trusts and councils \u2014 National Endowment for the Arts dance funding (1966\u2013), Arts Council England, the Australia Council for the Arts \u2014 which professionalized civic dance institutions. Counter-proposal: A's corporate options included two with active-institution problems; built a generic-institutional anchor.",
+        "industrySummary": "Institutional dance trusts \u2014 companies with board governance, endowments, and civic mandates \u2014 are how serious dance survives. Mid-market cities need new institutional brands that look like museums, not studios.",
+        "competitorLandscape": "Pacific Northwest Ballet (pnb.org) plays the civic-company peer. American Ballet Theatre (abt.org) is the institutional reference. Houston Ballet (houstonballet.org) holds the second-city institutional middle. We sit as a generic civic-trust brand template.",
+        "positioningStatement": "National Dance Trust is a civic dance company and training trust with institutional governance and civic mandate.",
+        "targetAudience": {
+          "primary": "Civic-arts boards, family foundations, and season-subscriber audiences.",
+          "behaviors": [
+            "Sit on arts boards",
+            "Subscribe for a season",
+            "Donate annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Civic",
+          "Patient",
+          "Pedigreed"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Treat the program as the document",
+            "Name the board chair",
+            "Quote the season in five productions"
+          ],
+          "donts": [
+            "Promote tiktok-friendly clips as the brand",
+            "Sell tiered 'experiences' as the program",
+            "Hide the budget"
+          ]
+        },
+        "logoDirection": "Wordmark: NATIONAL DANCE TRUST on three lines, civic serif. A small mark \u2014 a single arched-stage silhouette \u2014 used on programs.",
+        "colorPalette": [
+          {
+            "name": "Civic Navy",
+            "hex": "#1A2A40",
+            "meaning": "Civic blue.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Program Cream",
+            "hex": "#F1EBD8",
+            "meaning": "Program paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#7E2A26",
+            "meaning": "House curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and programs",
+          "rationale": "A reading serif plus a quiet grotesk \u2014 the institutional-program register."
+        }
+      },
+      {
+        "brandName": "Beauchamp Council",
+        "tagline": "The syllabus authority.",
+        "brandNameRationale": "Anchor: Pierre Beauchamp (1631\u20131705), the French ballet master under Louis XIV who codified the five positions of classical ballet and is generally credited as inventor of dance notation. Picked as third corporate anchor for institutional weight without active-institution risk \u2014 Beauchamp's name is public domain and rarely used as an active mark.",
+        "industrySummary": "Syllabus and notation authorities \u2014 bodies that certify training, publish official scores, and audit teachers \u2014 are a small but durable category. Serious classical training depends on them.",
+        "competitorLandscape": "Cecchetti USA (cecchettiusa.org) plays the syllabus-society peer. Royal Academy of Dance (royalacademyofdance.org) is the syllabus institution. Dance Notation Bureau (dancenotation.org) is the notation reference. We sit as a private syllabus-and-notation council.",
+        "positioningStatement": "Beauchamp Council is a private syllabus authority and dance-notation publisher for classical training and choreographic preservation.",
+        "targetAudience": {
+          "primary": "Syllabus teachers, notation candidates, and dance archives.",
+          "behaviors": [
+            "Examine annually",
+            "Buy notation manuals",
+            "Subscribe to score libraries"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Pedigreed",
+          "Disciplined",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in syllabus and score",
+            "Name the position and the year",
+            "Treat the printed score as the artifact"
+          ],
+          "donts": [
+            "Mix in fitness barre marketing",
+            "Use trending choreography clips",
+            "Sell 'membership perks'"
+          ]
+        },
+        "logoDirection": "Wordmark: BEAUCHAMP COUNCIL set in a refined serif, two lines. A small mark \u2014 a single five-positions diagram \u2014 used on certificates.",
+        "colorPalette": [
+          {
+            "name": "Council Ink",
+            "hex": "#141519",
+            "meaning": "Certificate ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Score Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Manuscript paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Court Gold",
+            "hex": "#A6862F",
+            "meaning": "Versailles gilding.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "Classical Caslon plus a quiet grotesk \u2014 the syllabus-publisher register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Ballets Russes & Co",
+        "tagline": "A collective for the stage and beyond.",
+        "brandNameRationale": "Anchor: Diaghilev's Ballets Russes (1909\u20131929), the company that scandalized and shaped 20th-c art with Nijinsky, Nijinska, Stravinsky, Cocteau. Picked from A's three. The historical company is closed; the name is in the public domain (many tribute companies and films use it).",
+        "industrySummary": "Creative-director-led dance and brand collectives \u2014 companies that operate as dance + fashion + film studios \u2014 are a rare but visible category. Fashion houses commission them; festivals program them.",
+        "competitorLandscape": "Wayne McGregor Company (waynemcgregor.com) plays the cross-disciplinary peer. Michael Clark Company (michaelclarkcompany.com) holds the fashion-adjacent middle. Akram Khan Company (akramkhancompany.net) is the editorial reference. We sit as a collective with a Ballets Russes lineage frame.",
+        "positioningStatement": "Ballets Russes & Co is a creative-director-led dance and brand collective for stage, film, and fashion collaboration.",
+        "targetAudience": {
+          "primary": "Festival programmers, fashion brands, film studios, and arts press.",
+          "behaviors": [
+            "Commission collaborative works",
+            "Cover the company in dance and fashion press",
+            "Travel for premieres"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Boundary-crossing",
+          "Confident",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name every collaborator on the program",
+            "Lead with the design image",
+            "Cite 1913 once a year"
+          ],
+          "donts": [
+            "Use 'experience' as the noun",
+            "Sell tickets like a concert",
+            "Photograph rehearsals as decorative"
+          ]
+        },
+        "logoDirection": "Wordmark: BALLETS RUSSES on top, & CO below, set in a refined high-contrast serif. A small mark \u2014 a single line-drawn faun silhouette \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Black",
+            "hex": "#0E0E11",
+            "meaning": "Theater black.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Bakst Cream",
+            "hex": "#F1EAD3",
+            "meaning": "Program paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stravinsky Red",
+            "hex": "#A12628",
+            "meaning": "Rite-of-Spring red.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and program notes",
+          "rationale": "A high-contrast serif plus a quiet grotesk \u2014 the collective-program register."
+        }
+      },
+      {
+        "brandName": "Nijinsky Studio",
+        "tagline": "Choreography that refuses the easy step.",
+        "brandNameRationale": "Anchor: Vaslav Nijinsky (1889\u20131950), the legendary Ballets Russes dancer whose Rite of Spring premiere caused a riot in 1913. Picked from A's three for the most charged single-name anchor.",
+        "industrySummary": "Edgy contemporary studios for choreographers and dancers \u2014 co-working dance spaces with residencies, salon performances, and editorial programming \u2014 are a small but real category in dance capitals.",
+        "competitorLandscape": "Movement Research (movementresearch.org) plays the institutional peer. Gibney (gibneydance.org) holds the dancer-led middle. The Place London (theplace.org.uk) is the studio-residency reference. We sit as a small edgy studio with editorial framing.",
+        "positioningStatement": "Nijinsky Studio is an edgy contemporary studio for choreographers and dancers \u2014 residencies, open class, and salon performances.",
+        "targetAudience": {
+          "primary": "Independent choreographers, professional dancers, and dance press in major cities.",
+          "behaviors": [
+            "Apply for residencies",
+            "Read DanceTabs and the dance press",
+            "Show in-progress work on Instagram"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Edgy",
+          "Editorial",
+          "Disciplined",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the choreographer and the residency",
+            "Document the rehearsal",
+            "Lead with the salon"
+          ],
+          "donts": [
+            "Sell as 'dance fitness'",
+            "Photograph as 'beautiful dancers'",
+            "Use mainstream music trends"
+          ]
+        },
+        "logoDirection": "Wordmark: NIJINSKY STUDIO in a confident grotesk, two lines. A small mark \u2014 a single faun-leap silhouette \u2014 used on residency posters.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#0C0C0F",
+            "meaning": "Theater black.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Poster Cream",
+            "hex": "#EAE3CE",
+            "meaning": "Poster paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Faun Red",
+            "hex": "#9A2A24",
+            "meaning": "Bakst red.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for residency programs",
+          "rationale": "A quiet grotesk with its mono \u2014 the studio-residency register."
+        }
+      },
+      {
+        "brandName": "Bauschwerk",
+        "tagline": "Dance as a body of work.",
+        "brandNameRationale": "Anchor: Pina Bausch's Tanztheater Wuppertal \u2014 a portmanteau ('Bausch' + Werk, 'work') evoking her body of work, Caf\u00e9 M\u00fcller through Vollmond. Picked from A's three \u2014 note the Bausch foundation actively manages her work, so the brand uses the portmanteau as homage rather than direct claim.",
+        "industrySummary": "Experimental dance-theater collectives that mix movement, set, and text are a small editorial category. They compete on programming, not enrollment.",
+        "competitorLandscape": "Tanztheater Wuppertal (pina-bausch.de) is the foundational reference. Sasha Waltz & Guests (sashawaltz.de) plays the German peer. Peeping Tom (peepingtom.be) holds the Belgian middle. We sit as a small experimental dance-theater collective.",
+        "positioningStatement": "Bauschwerk is an experimental dance-theater collective combining movement, set, and text for festival and theater programming.",
+        "targetAudience": {
+          "primary": "Festival programmers, contemporary-performance audiences, and arts press.",
+          "behaviors": [
+            "Travel to festivals",
+            "Read the program note before the show",
+            "Talk about the chairs after"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Experimental",
+          "Editorial",
+          "Boundary-crossing",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the dramaturg, set designer, and dancers",
+            "Lead with the set",
+            "Print program notes as the artifact"
+          ],
+          "donts": [
+            "Brand as 'pure dance'",
+            "Photograph dancers as beautiful objects",
+            "Use 'transformative' as a tagline"
+          ]
+        },
+        "logoDirection": "Wordmark: BAUSCHWERK set in a confident slab serif, one word, one line. A small mark \u2014 a single chair-on-its-side silhouette \u2014 used on posters.",
+        "colorPalette": [
+          {
+            "name": "Wuppertal Black",
+            "hex": "#0D0D10",
+            "meaning": "Stage black.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Set Cream",
+            "hex": "#EAE2CB",
+            "meaning": "Set paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8E2A26",
+            "meaning": "House curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Sentinel for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A confident slab plus a quiet grotesk \u2014 the dance-theater poster register."
+        }
+      }
+    ]
+  }
+}

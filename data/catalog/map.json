@@ -1,0 +1,326 @@
+{
+  "industry": "map",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Mercator Lab",
+        "tagline": "Modern projections, custom geospatial work.",
+        "brandNameRationale": "Gerardus Mercator's 1569 cylindrical projection is the most-used map projection in history. Mercator died in 1594 — the eponym is fully public-domain. 'Lab' signals the experimental, contemporary-geospatial posture.",
+        "industrySummary": "Modern cartography has split between mass GIS platforms and a small editorial-cartography cohort. The opening is for a studio that anchors on the foundational projection work and applies it to contemporary publishing and planning briefs.",
+        "competitorLandscape": "Stamen Design (stamen.com) holds the editorial-cartography slot. Carto (carto.com) is the GIS-platform peer. Mapbox (mapbox.com) sets the developer-mapping bar. We sit closer to Stamen in editorial discipline.",
+        "positioningStatement": "Modern cartography lab — web maps, projections, custom geospatial work for publishers and planners.",
+        "targetAudience": {
+          "primary": "30 to 50. Editors, urban planners, publishing-house art directors. Commission one map every six months.",
+          "behaviors": [
+            "Commissions custom cartography",
+            "Reads about projection trade-offs",
+            "Specifies datum and projection in the brief"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Technically grounded",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the projection used",
+            "Show the source data",
+            "Speak about scale, datum, projection"
+          ],
+          "donts": [
+            "Use 'beautiful' as marketing",
+            "Hide the data source",
+            "Run consumer promotions"
+          ]
+        },
+        "logoDirection": "A wordmark — Mercator Lab in a precise modern grotesk with a small graticule (latitude-longitude grid) mark above. The graticule alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Atlas Navy",
+            "hex": "#1B2C44",
+            "meaning": "Open-ocean map blue.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Old atlas paper.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Index Red",
+            "hex": "#A8313F",
+            "meaning": "Atlas index pin.",
+            "usage": "Accent, the graticule"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for coordinates and scale bars",
+          "rationale": "One family. The mono carries the coordinates, scale, and projection metadata."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Blaeu House",
+        "tagline": "Hand-coloured atlases, in the Atlas Maior tradition.",
+        "brandNameRationale": "Willem Blaeu and Joan Blaeu were Amsterdam's pre-eminent 17th-century mapmakers. Their Atlas Maior (1662–65) is the most luxurious atlas ever produced. The Blaeu name is public-domain (the cartographers died centuries ago); 'House' closes the brand as a contemporary atelier.",
+        "industrySummary": "Luxury cartography is rare and serves the private library, the yacht owner, the institutional collector. The opening is for a small Amsterdam-style house producing hand-coloured, leather-bound atlases in the Atlas Maior tradition.",
+        "competitorLandscape": "London Map Fair dealers (e.g. Daniel Crouch Rare Books, crouchrarebooks.com) hold the rare-map peer slot. Altea Antique Maps (alteamaps.com) sits in the antique-maps peer position. Old World Auctions (oldworldauctions.com) plays the historical-cartography peer. We sit between these as a contemporary maker in the Atlas Maior tradition.",
+        "positioningStatement": "Luxury Amsterdam-tradition hand-coloured atlases for private libraries and collectors.",
+        "targetAudience": {
+          "primary": "55 to 80. Multi-generational collector. Owns a private library. Commissions one atlas every two years.",
+          "behaviors": [
+            "Commissions custom atlases",
+            "Reads the colourist's notes",
+            "Pays in installments over commission"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Heritage",
+          "Scholarly"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the Atlas Maior tradition",
+            "Name the colourist",
+            "Show the hand-laid paper"
+          ],
+          "donts": [
+            "Sell mass-printed reproductions",
+            "Use 'luxury' marketing",
+            "Run promotions"
+          ]
+        },
+        "logoDirection": "A serif wordmark — Blaeu House set in a classical Dutch roman with a small cartouche mark drawn from the Atlas Maior tradition. The mark sits on the leather cover and the certificate.",
+        "colorPalette": [
+          {
+            "name": "Atlas Blue",
+            "hex": "#1B2C44",
+            "meaning": "Atlas Maior ocean blue.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Hand-Laid Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Hand-laid 17th-c. paper.",
+            "usage": "Backgrounds, certificates"
+          },
+          {
+            "name": "Cartouche Gold",
+            "hex": "#A6843D",
+            "meaning": "Hand-applied gilt.",
+            "usage": "Foil, the cartouche"
+          },
+          {
+            "name": "Coastline Red",
+            "hex": "#7E1F1A",
+            "meaning": "Hand-coloured coastline.",
+            "usage": "Accent, body type"
+          }
+        ],
+        "typography": {
+          "primary": "Adobe Garamond for the wordmark and atlases",
+          "secondary": "Adobe Caslon for body and correspondence",
+          "rationale": "Two related serifs in the 17th-century Dutch printing tradition. The brand reads like a contemporary atlas in the Atlas Maior lineage."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Meridian",
+        "tagline": "Lines only.",
+        "brandNameRationale": "The Prime Meridian (Greenwich, established 1851; international agreement 1884) is the foundational line of longitude. The word is the line; the brand is the geometry.",
+        "industrySummary": "Minimal cartography has been crowded with line-only Etsy prints. The opening underneath is a studio that strips cartography to its abstract grammar — meridian and parallel, nothing else.",
+        "competitorLandscape": "Stamen Design (stamen.com) holds the editorial-modern slot translated to minimal. Atelier Brückner (atelier-brueckner.com) plays the considered-design peer. Areaware Maps (areaware.com) is the small-format peer. We sit further out — lines only, single colour.",
+        "positioningStatement": "Minimal cartography. Lines only. Single colour. The geometry of the grid.",
+        "targetAudience": {
+          "primary": "30 to 50. Designers, architects, publishers. Buy one piece every two years. Care about the line weight.",
+          "behaviors": [
+            "Specifies line weight",
+            "Reads the projection note",
+            "Frames the map alone"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the projection",
+            "Show the map alone",
+            "Use one colour"
+          ],
+          "donts": [
+            "Add labels",
+            "Photograph in styled rooms",
+            "Use trend vocabulary"
+          ]
+        },
+        "logoDirection": "A wordmark — Meridian set in a humanist sans with a single vertical line (the meridian) beside it. The line alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Meridian Black",
+            "hex": "#1A1A1A",
+            "meaning": "The single line.",
+            "usage": "Wordmark, the line"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F1E8",
+            "meaning": "Map paper.",
+            "usage": "Backgrounds, packaging"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for coordinates",
+          "rationale": "One family. Mono for the latitude-longitude."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Cadastre & Co.",
+        "tagline": "Land-record cartography for municipalities.",
+        "brandNameRationale": "The cadastre is the land-registry map, codified by Napoleon's 1807 cadastral law — the most economically important map type in the world. The phrase is public-domain technical vocabulary; '& Co.' closes the brand as a B2B firm.",
+        "industrySummary": "Corporate cartography for land records is a serious B2B category — parcels, easements, title-grade base maps. Municipalities, title-insurance underwriters, and utility companies need cadastral-grade accuracy.",
+        "competitorLandscape": "Esri (esri.com) is the global GIS giant. Trimble (trimble.com) holds the survey-equipment peer slot. Bentley Systems (bentley.com) plays the infrastructure-mapping peer position. We sit smaller and more cadastral-specific.",
+        "positioningStatement": "Corporate cadastral cartography for municipalities and title underwriters.",
+        "targetAudience": {
+          "primary": "45 to 60. Municipal GIS directors, title-insurance underwriters, utility-mapping VPs.",
+          "behaviors": [
+            "Specifies cadastral-grade accuracy",
+            "Requires datum and projection documentation",
+            "Renews on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the accuracy spec",
+            "Cite the datum",
+            "Show the parcel-level detail"
+          ],
+          "donts": [
+            "Use consumer-mapping language",
+            "Photograph in styled settings",
+            "Run consumer marketing"
+          ]
+        },
+        "logoDirection": "A wordmark with a small parcel-grid mark — CADASTRE & CO. set in a tight grotesk above a small grid icon. Reads cleanly on municipal RFPs, GIS-platform documentation, and trade-show banners.",
+        "colorPalette": [
+          {
+            "name": "Cadastre Navy",
+            "hex": "#0F2238",
+            "meaning": "Municipal-deck navy.",
+            "usage": "Logo, primary"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Land-record paper.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Survey-instrument steel.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Parcel Red",
+            "hex": "#A8313F",
+            "meaning": "Cadastral mark-up.",
+            "usage": "Status indicators"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed cadastral documents and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed municipal documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Here Be Dragons",
+        "tagline": "Speculative maps. Unknown territory.",
+        "brandNameRationale": "'Hic sunt dracones' — the legendary annotation on the 1510 Hunt-Lenox Globe for unknown territory — is the most famous cartographic phrase. The English translation is public-domain historical vocabulary and signals the speculative, fiction-publisher posture.",
+        "industrySummary": "Creative cartography has been crowded with literal city-print shops. The opening is for a studio leaning into the unknown-territory aesthetic — speculative maps, fantasy cartography, fiction-publisher commissions.",
+        "competitorLandscape": "Stuart Daly Studio (stuart-daly.com) holds the fantasy-cartography peer slot. Daniel Reeve (danielreeve.co.nz) is the film-cartography reference (Lord of the Rings). Atlas Obscura (atlasobscura.com) plays the speculative-geography peer. We sit closer to Reeve in commission posture.",
+        "positioningStatement": "Creative cartography for fiction publishers, game studios, and speculative briefs.",
+        "targetAudience": {
+          "primary": "30 to 50. Fiction editors, game-studio art directors, role-playing publishers. Commission one map every quarter.",
+          "behaviors": [
+            "Commissions speculative cartography",
+            "Reads about cartographic history",
+            "Cites historical maps in brief"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Slightly mystical",
+          "Crafted",
+          "Witty"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the Hunt-Lenox Globe",
+            "Show the speculative annotations",
+            "Date and sign every map"
+          ],
+          "donts": [
+            "Sell as ready-made wall art",
+            "Use 'curated' as marketing",
+            "Run promotions"
+          ]
+        },
+        "logoDirection": "A wordmark — HERE BE DRAGONS set in a display serif with a small hand-drawn sea-monster mark above. The monster alone is a sticker.",
+        "colorPalette": [
+          {
+            "name": "Manuscript Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Illuminated manuscript page.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Sea-Monster Red",
+            "hex": "#7E1F1A",
+            "meaning": "Manuscript red ink.",
+            "usage": "Accent, the mark"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Manuscript ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Gilt",
+            "hex": "#A6843D",
+            "meaning": "Manuscript gilding.",
+            "usage": "Foil, ornament"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and editorial",
+          "secondary": "PP Mori for body and product cards",
+          "rationale": "Sectra carries the manuscript register. Mori keeps the product copy warm."
+        }
+      }
+    ]
+  }
+}

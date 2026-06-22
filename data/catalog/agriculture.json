@@ -1,0 +1,915 @@
+{
+  "industry": "agriculture",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Borlaug & Field",
+        "tagline": "Yield, measured.",
+        "brandNameRationale": "Anchor: Norman Borlaug, agronomist whose dwarf wheat drove the Green Revolution and won the 1970 Nobel Peace Prize. Borlaug is the public-domain hero of high-yield breeding; pairing with 'Field' grounds it in the operating reality. Picked from A's three: cleanest anchor for a modern, data-forward voice.",
+        "industrySummary": "AgTech in 2025 is consolidating around precision agronomy, on-farm sensing, and outcomes-based input contracts. Growers are tired of dashboards that don't change the planter pass. The market rewards firms that prove yield and margin uplift, not feature lists.",
+        "competitorLandscape": "Indigo Ag (indigoag.com) leads on outcomes-based agronomy and carbon. Granular (granular.ag) holds the farm-management software middle. Farmers Business Network (fbn.com) is the buyer's-co-op modern reference. We sit closest to Indigo with a sharper breeding lens.",
+        "positioningStatement": "Borlaug & Field is a data-forward agronomy partner for high-yield, climate-resilient row-crop operations.",
+        "targetAudience": {
+          "primary": "Row-crop growers and farm managers, 35 to 60, running 1,500 to 15,000 acres of corn, wheat, or soy.",
+          "behaviors": [
+            "Read yield maps weekly",
+            "Buy seed by trial data, not brand",
+            "Talk to agronomists more than salespeople"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Rigorous",
+          "Plainspoken",
+          "Yield-minded",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the trial result",
+            "Name the variety and the soil",
+            "Translate research into row-pass decisions"
+          ],
+          "donts": [
+            "Use 'sustainability' as a slogan",
+            "Hide pricing behind 'contact us'",
+            "Photograph stock-image farmers"
+          ]
+        },
+        "logoDirection": "Wordmark in a tight modern grotesk: BORLAUG & FIELD set on one line. A small mark \u2014 a single dwarfed wheat-stem silhouette \u2014 used as the favicon and on field-trial reports.",
+        "colorPalette": [
+          {
+            "name": "Field Soil",
+            "hex": "#3B2A1A",
+            "meaning": "Wet loam, broken ground.",
+            "usage": "Body type, primary surface"
+          },
+          {
+            "name": "Wheat Cream",
+            "hex": "#EDE3C8",
+            "meaning": "Threshed grain.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Yield Green",
+            "hex": "#3D6B3A",
+            "meaning": "Vigorous canopy.",
+            "usage": "Accents, data highlights"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for trial data and yield figures",
+          "rationale": "One family, two registers. The mono carries the numbers; the regular carries the brand."
+        }
+      },
+      {
+        "brandName": "Vavilov Seedworks",
+        "tagline": "Genetics for the next century of crops.",
+        "brandNameRationale": "Anchor: Nikolai Vavilov, Russian botanist who built the first seed bank in Leningrad in the 1920s and mapped the centers of crop origin. His staff starved during the WWII siege rather than eat the seed collection. Picked from A's three for the depth and morality of the anchor; reads as a serious breeding house.",
+        "industrySummary": "Seed and trait genetics are the most leveraged input on a farm. Climate volatility has pushed growers toward diversified varietals and short-season backups, opening room for an independent breeding house.",
+        "competitorLandscape": "Bayer Crop Science (cropscience.bayer.com) is the incumbent. Corteva (corteva.com) is the second major. Inari (inari.com) plays the modern gene-edit challenger. We sit closer to Inari, with a heritage-collection lineage.",
+        "positioningStatement": "Vavilov Seedworks breeds and licenses climate-resilient, regionally adapted seed for independent growers and seed companies.",
+        "targetAudience": {
+          "primary": "Seed-company buyers, independent breeders, and large diversified farms.",
+          "behaviors": [
+            "Track germplasm across seasons",
+            "Field-trial across three regions before adoption",
+            "Read journals and patent filings"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Scholarly",
+          "Patient",
+          "Quietly ambitious",
+          "Trustworthy"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite trial sites and years",
+            "Name the parental lines",
+            "Speak in seasons, not quarters"
+          ],
+          "donts": [
+            "Overpromise on a single trait",
+            "Use military or 'arms race' metaphors",
+            "Dress up commodity seed as breakthrough"
+          ]
+        },
+        "logoDirection": "Wordmark only, set in a refined serif, all caps spaced wide: VAVILOV SEEDWORKS. A small monogram \u2014 a stylized seed cross-section \u2014 used as a quiet seal on certificates and germplasm bags.",
+        "colorPalette": [
+          {
+            "name": "Leningrad Slate",
+            "hex": "#23323F",
+            "meaning": "Archival, archival winter.",
+            "usage": "Wordmark, body type"
+          },
+          {
+            "name": "Parchment",
+            "hex": "#F2ECDC",
+            "meaning": "Old field notes.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Vavilov Gold",
+            "hex": "#B89043",
+            "meaning": "Grain, archive seal.",
+            "usage": "Accent, seals"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and trial data",
+          "rationale": "A serif paired with a clean grotesk \u2014 scholarly without becoming antique."
+        }
+      },
+      {
+        "brandName": "Liebig Soil Lab",
+        "tagline": "What the soil is short of.",
+        "brandNameRationale": "Anchor: Justus von Liebig, the 19th-c German chemist who founded agricultural chemistry and the Law of the Minimum (yield is limited by the most-deficient nutrient). Picked from A's three for the clearest single-idea anchor \u2014 a soil lab can literally live the Law of the Minimum.",
+        "industrySummary": "Soil testing and nutrient planning have moved from a once-a-decade chore to a season-by-season service, driven by fertilizer price volatility and runoff regulation. Independent soil labs that bundle sampling, lab work, and prescription writing are growing fast.",
+        "competitorLandscape": "A&L Laboratories (allabs.com) holds the U.S. independent-lab middle. Ward Laboratories (wardlab.com) is the Plains-states reference. Yara (yara.com) leads on prescription nutrition globally. We sit closer to Ward with sharper analytics.",
+        "positioningStatement": "Liebig Soil Lab is an independent soil-science lab that turns sample data into season-by-season nutrient prescriptions.",
+        "targetAudience": {
+          "primary": "Independent agronomists, mid-sized growers, and CCAs writing nutrient plans.",
+          "behaviors": [
+            "Pull samples by management zone",
+            "Read lab reports critically",
+            "Push back on input salespeople"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Analytical",
+          "Clear",
+          "Independent",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the deficient nutrient",
+            "Show the variable rate map",
+            "Cite the lab method"
+          ],
+          "donts": [
+            "Sell extra inputs the soil doesn't need",
+            "Print marketing on lab reports",
+            "Use the word 'biological' as a slogan"
+          ]
+        },
+        "logoDirection": "Wordmark only, set in a precise sans, three lines stacked: LIEBIG / SOIL / LAB. A small mark \u2014 a tightly drawn Erlenmeyer flask outline \u2014 used on report headers.",
+        "colorPalette": [
+          {
+            "name": "Loam",
+            "hex": "#5A4632",
+            "meaning": "Topsoil.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Lab White",
+            "hex": "#FAFAF7",
+            "meaning": "Reports, sample bags.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Reagent Blue",
+            "hex": "#2B5C8A",
+            "meaning": "A test color.",
+            "usage": "Charts, accents"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark and headlines",
+          "secondary": "JetBrains Mono for sample IDs and ppm values",
+          "rationale": "Lab-precise sans plus a true monospace for sample data \u2014 the lab vernacular."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Cobham Estate Agronomy",
+        "tagline": "Stewardship at estate scale.",
+        "brandNameRationale": "Anchor: Cobham Hall and the great Kentish estate-farms of the English landed gentry, where 18th-c model farms defined 'improvement.' Picked from A's three for the cleanest pedigree without claiming a living institution.",
+        "industrySummary": "Family-owned and institutional estates are professionalizing their farm management amid carbon, biodiversity, and tax pressures. Quiet, advisory-first firms are taking share from input-led incumbents.",
+        "competitorLandscape": "Savills Rural (savills.co.uk) is the establishment land-agent. Strutt & Parker (struttandparker.com) holds the heritage-estate slot. Velcourt (velcourt.co.uk) runs farms on behalf of estates at scale. We sit alongside Strutt & Parker with a sharper agronomic edge.",
+        "positioningStatement": "Cobham Estate Agronomy provides discreet, multi-generational stewardship for heritage farms and private landholdings.",
+        "targetAudience": {
+          "primary": "Estate owners, family offices, and trustees overseeing 500 to 10,000 acres.",
+          "behaviors": [
+            "Inherit land rather than buy it",
+            "Plan in 25-year horizons",
+            "Read the FT and Country Life on the same morning"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Patient",
+          "Pedigreed",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk in generations",
+            "Lead with stewardship and tax",
+            "Acknowledge the tenant and the keeper"
+          ],
+          "donts": [
+            "Photograph the owner",
+            "Use the word 'luxury' anywhere on the site",
+            "Run case studies without permission"
+          ]
+        },
+        "logoDirection": "Wordmark only, set in an English serif with wide tracking: COBHAM ESTATE AGRONOMY across three lines, justified. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Estate Ink",
+            "hex": "#1B1F1B",
+            "meaning": "Black ink on cream.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Cream Paper",
+            "hex": "#EFE9D9",
+            "meaning": "Letterhead, deeds.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Hunt Green",
+            "hex": "#3F4E2C",
+            "meaning": "Park, hedgerow.",
+            "usage": "Accent, ribbon"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Times Now for body and reports",
+          "rationale": "Caslon carries the 18th-c estate register; Times Now is the modern letterhead."
+        }
+      },
+      {
+        "brandName": "Lavoisier & Sons",
+        "tagline": "Measurement, in service of the land.",
+        "brandNameRationale": "Anchor: Antoine Lavoisier, founder of modern chemistry, who ran model agricultural trials at his Fr\u00e9chines estate while serving on France's Ferme g\u00e9n\u00e9rale. Picked from A's three for the rare anchor combining scientific rigor and aristocratic land ownership \u2014 exactly the luxury-advisory voice.",
+        "industrySummary": "Continental and Anglo-French estates are increasingly run on first-principles measurement: carbon, water balance, biodiversity audits. Buyers want quiet advisors with scientific authority, not marketing decks.",
+        "competitorLandscape": "Hectar (hectar.fr) plays the modern French agricultural school and consultancy. Agronoma (agronoma.fr) sits in the technical-advisory middle. SAFER (safer.fr) is the institutional French land body. We sit alongside Hectar at the quiet-luxury end.",
+        "positioningStatement": "Lavoisier & Sons is a quietly precise agricultural advisory for legacy landholdings and family-office vineyards.",
+        "targetAudience": {
+          "primary": "European family estates, family offices, and private vineyard holdings.",
+          "behaviors": [
+            "Commission audits before they buy land",
+            "Care about biodiversity and tax in equal measure",
+            "Trust referrals more than pitches"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Discreet",
+          "Scientific",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the measurement",
+            "Quote in French and English",
+            "Treat the advisor letter as the artifact"
+          ],
+          "donts": [
+            "Publish client names",
+            "Use 'innovation' as a noun",
+            "Show drones in marketing"
+          ]
+        },
+        "logoDirection": "Wordmark only: LAVOISIER & SONS in a high-contrast French didone, two lines centered, with wide letterspacing. No symbol; a single hairline rule beneath.",
+        "colorPalette": [
+          {
+            "name": "Encre",
+            "hex": "#101418",
+            "meaning": "Ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Pierre",
+            "hex": "#E8E2D2",
+            "meaning": "French limestone.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Vert Domaine",
+            "hex": "#445635",
+            "meaning": "Vineyard leaf.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A modern didone-flavored serif plus a quiet grotesk \u2014 French, scientific, restrained."
+        }
+      },
+      {
+        "brandName": "Holkham Hall Agronomics",
+        "tagline": "The estate, properly run.",
+        "brandNameRationale": "Anchor: Holkham Hall in Norfolk, seat of Thomas Coke ('Coke of Norfolk'), the 18th-c improver whose annual sheep-shearings drew aristocrats from across Europe. Picked from A's three for the most distinctive single-estate anchor in English improvement history.",
+        "industrySummary": "The British estate sector is being reshaped by ELMs (Environmental Land Management schemes), inheritance-tax reform, and rewilding pressure. Estates need a manager who can hold yield, carbon, and beauty in the same plan.",
+        "competitorLandscape": "Bidwells (bidwells.co.uk) leads the East-of-England estate management space. Knight Frank Rural (knightfrank.co.uk/rural) plays the prestige tier. Velcourt (velcourt.co.uk) farms at scale on contract. We sit alongside Bidwells with a sharper editorial voice.",
+        "positioningStatement": "Holkham Hall Agronomics is a high-pedigree consultancy for estate farms, stud holdings, and shooting estates.",
+        "targetAudience": {
+          "primary": "Estate trustees and resident owners across the British Isles and Ireland.",
+          "behaviors": [
+            "Take their advisor to lunch",
+            "Walk the farm before reading the report",
+            "Plan around the shoot calendar"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Patrician",
+          "Confident",
+          "Patient",
+          "Land-literate"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the soil series by name",
+            "Lead with the long view",
+            "Quietly mention the right neighbours"
+          ],
+          "donts": [
+            "Publish client identities",
+            "Run brash digital campaigns",
+            "Promise short-term yield uplift"
+          ]
+        },
+        "logoDirection": "Wordmark only: HOLKHAM HALL across the top, AGRONOMICS small below, set in a refined English serif. A small heraldic-inspired roundel mark used on letterhead only.",
+        "colorPalette": [
+          {
+            "name": "Holkham Stone",
+            "hex": "#D9CFB7",
+            "meaning": "Park-house ashlar.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Park Ink",
+            "hex": "#1A1E22",
+            "meaning": "Wordmark.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Coke Claret",
+            "hex": "#6B2530",
+            "meaning": "Burgundy of the dining room.",
+            "usage": "Accents, seals"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body and reports",
+          "rationale": "Two English serifs \u2014 the estate vernacular, no apologies."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Four-Course",
+        "tagline": "Wheat, turnips, barley, clover.",
+        "brandNameRationale": "Anchor: The Norfolk four-course rotation popularized by Charles 'Turnip' Townshend in the 1730s \u2014 the single cleanest idea in farming history. Picked from A's three for the strongest minimal anchor: a number, a rule, an entire agronomy in two words.",
+        "industrySummary": "Regenerative agronomy is converging on rotation, cover crops, and reduced tillage. The market wants a clean, evidence-led brand that owns rotation as the central act.",
+        "competitorLandscape": "Understanding Ag (understandingag.com) holds the regenerative consulting middle. Soil Capital (soilcapital.com) plays the European peer. Pasa Sustainable Agriculture (pasafarming.org) is the institutional ally. We sit closer to Understanding Ag with a sharper rotational frame.",
+        "positioningStatement": "Four-Course is rotation-first agronomy, stripped to essentials, for growers ready to rebuild soil through sequence.",
+        "targetAudience": {
+          "primary": "Mid-sized mixed-cropping farms transitioning to regenerative practice.",
+          "behaviors": [
+            "Walk fields with a spade",
+            "Plan five years ahead",
+            "Read soil-health newsletters"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Disciplined",
+          "Honest",
+          "Quietly progressive"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the rotation plan",
+            "Name the cover crop",
+            "Use one chart, not five"
+          ],
+          "donts": [
+            "Sell tillage equipment",
+            "Use the word 'regenerative' more than once",
+            "Photograph aerials of monoculture"
+          ]
+        },
+        "logoDirection": "Wordmark only: FOUR-COURSE in a single line, plain industrial sans, all caps. A small mark \u2014 a 2x2 grid of crop pictograms \u2014 used as a favicon.",
+        "colorPalette": [
+          {
+            "name": "Field Black",
+            "hex": "#101012",
+            "meaning": "Furrow.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Stubble",
+            "hex": "#E9E2D0",
+            "meaning": "Post-harvest field.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Clover",
+            "hex": "#4A6B3F",
+            "meaning": "The cover.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for rotation tables",
+          "rationale": "One family, two registers. Diatype is plain and modern; the mono carries the rotation grid."
+        }
+      },
+      {
+        "brandName": "Fallow",
+        "tagline": "Rest is a practice.",
+        "brandNameRationale": "Anchor: The medieval three-field system's fallow year \u2014 the original act of soil restraint. Picked from A's three for the most resonant minimal anchor: a single Old English word that names the practice.",
+        "industrySummary": "Carbon, biodiversity, and water markets are starting to pay growers to take land out of production. A brand that owns 'rest' as a category will be early to that conversation.",
+        "competitorLandscape": "Ecosystem Services Market Consortium (ess-mc.org) is the institutional reference. Indigo Carbon (indigoag.com/carbon) leads outcomes-based payments. Regen Network (regen.network) plays the protocol layer. We sit closer to ESS-MC with a designer-led voice.",
+        "positioningStatement": "Fallow is a regenerative cropping advisory built on rest, rotation, and the carbon market.",
+        "targetAudience": {
+          "primary": "Independent growers, set-aside land managers, and carbon-market participants.",
+          "behaviors": [
+            "Take parts of the farm out of production",
+            "Read the carbon-market press",
+            "Plan habitat alongside crop"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Patient",
+          "Calm",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use white space generously",
+            "Name the field that rests",
+            "Write in declarative sentences"
+          ],
+          "donts": [
+            "Use the word 'sustainability'",
+            "Promise quick carbon revenue",
+            "Print on glossy stock"
+          ]
+        },
+        "logoDirection": "Wordmark only: FALLOW set very large in a clean modern grotesk, lowercase, one word, one line. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Soil",
+            "hex": "#2B2620",
+            "meaning": "Bare earth.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFEAD9",
+            "meaning": "Rest.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Verge Green",
+            "hex": "#5A6B3D",
+            "meaning": "Hedgerow.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for figures",
+          "rationale": "One family, two registers. S\u00f6hne is the quiet-modern default."
+        }
+      },
+      {
+        "brandName": "Furlong",
+        "tagline": "Plan the field.",
+        "brandNameRationale": "Anchor: The Old English unit (a 'furrow long,' 220 yards) that defined ploughed strips in open-field villages and still anchors imperial land measure. Picked from A's three for the strongest field-level minimal anchor; 'Fallow' was a near-tie but more passive.",
+        "industrySummary": "Field-record software and management has fragmented into too many dashboards. There is room for a quiet, opinionated brand that helps a farm manage by field, not by farm-wide average.",
+        "competitorLandscape": "Granular (granular.ag) plays the established field-software middle. Conservis (conservis.ag) holds the row-crop record-keeping slot. AgriWebb (agriwebb.com) is the livestock peer. We sit closer to Conservis with sharper visual design.",
+        "positioningStatement": "Furlong is field-level planning software and advisory for working farms \u2014 one field at a time.",
+        "targetAudience": {
+          "primary": "Owner-operators and farm managers running 800 to 5,000 acres.",
+          "behaviors": [
+            "Walk every field once a week",
+            "Plan by field, not by farm",
+            "Print the plan and pin it in the shed"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Practical",
+          "Field-focused",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show one field at a time",
+            "Use feet, acres, bushels",
+            "Print a paper plan as the artifact"
+          ],
+          "donts": [
+            "Pitch 'farm-wide optimization'",
+            "Use AI as a slogan",
+            "Charge by sensor count"
+          ]
+        },
+        "logoDirection": "Wordmark only: FURLONG in a tight engineering grotesk, all caps. A small mark \u2014 a single thin rectangle (the strip) \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Furrow",
+            "hex": "#222020",
+            "meaning": "Turned earth.",
+            "usage": "Body"
+          },
+          {
+            "name": "Chalk",
+            "hex": "#F4F1E8",
+            "meaning": "Paper plan.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Survey Red",
+            "hex": "#B23A2F",
+            "meaning": "Field-stake flag.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and UI",
+          "secondary": "JetBrains Mono for field IDs and acres",
+          "rationale": "An engineering-vernacular sans plus a true monospace \u2014 the field-notebook register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Morrill Agricultural Partners",
+        "tagline": "Land-grant grade advisory.",
+        "brandNameRationale": "Anchor: The Morrill Act of 1862, which created the U.S. Land Grant universities and the cooperative extension system that professionalized American farming. Picked from A's three \u2014 REJECTED Rothamsted (active institute) and Bennet Lawes (too obscure as standalone). Morrill is the cleanest U.S. corporate anchor with no live-institution clash.",
+        "industrySummary": "Institutional ag \u2014 pension-fund farmland portfolios, ag REITs, and private-equity-owned ag operations \u2014 is a multi-hundred-billion-dollar market needing serious advisory. Most existing firms are land brokers or input traders, not true agronomic advisors.",
+        "competitorLandscape": "Westchester Group (westchesteragriculture.com) is the institutional-farmland manager reference. Halderman Real Estate (halderman.com) holds the Midwest farmland brokerage middle. Hancock Agricultural Investment Group (haig.jhancock.com) plays the pension-fund peer. We sit alongside Westchester with sharper agronomic depth.",
+        "positioningStatement": "Morrill Agricultural Partners provides institutional-grade ag advisory and asset management for farmland investors and operators.",
+        "targetAudience": {
+          "primary": "Pension-fund farmland teams, ag REITs, and family offices with farmland holdings.",
+          "behaviors": [
+            "Underwrite by yield history, not appraisal alone",
+            "Engage operators on multi-year leases",
+            "Report in IRR and bushels"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Rigorous",
+          "Plain",
+          "Quietly authoritative"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite Land Grant research",
+            "Report yield and IRR together",
+            "Speak the operator's language"
+          ],
+          "donts": [
+            "Use venture-capital jargon",
+            "Treat tenant farmers as line items",
+            "Promise alpha you can't underwrite"
+          ]
+        },
+        "logoDirection": "Wordmark only: MORRILL AGRICULTURAL PARTNERS set across two lines in a institutional serif. A small mark \u2014 a stylized wheat-and-gear roundel \u2014 used on annual reports only.",
+        "colorPalette": [
+          {
+            "name": "Senate Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Institutional.",
+            "usage": "Wordmark, headlines"
+          },
+          {
+            "name": "Document Cream",
+            "hex": "#F1ECDD",
+            "meaning": "Paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Field Gold",
+            "hex": "#B58A2E",
+            "meaning": "Wheat at harvest.",
+            "usage": "Accents, seals"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and tables",
+          "rationale": "A reading-serif paired with a clean grotesk \u2014 the institutional report register."
+        }
+      },
+      {
+        "brandName": "Land Trust Agronomy",
+        "tagline": "The institutional steward.",
+        "brandNameRationale": "Anchor: The American land-trust movement, formalized by the Land Trust Alliance (1982) and built on 19th-c precedents like Massachusetts Trustees of Reservations (1891) \u2014 the institutional vehicle for permanent farmland stewardship. Counter-proposal: A's three corporates were Morrill (kept), Rothamsted (rejected \u2014 active institute), and Bennet Lawes (too obscure standalone). Built fresh institutional anchor.",
+        "industrySummary": "Conservation easements and ag land trusts now cover tens of millions of U.S. acres. The institutional steward needs an agronomic counterparty that understands easement terms, succession, and working-land economics.",
+        "competitorLandscape": "American Farmland Trust (farmland.org) is the policy reference. Land Trust Alliance (lta.org) is the umbrella body. Equity Trust (equitytrust.org) plays the working-land peer. We sit as the for-profit advisory counterpart.",
+        "positioningStatement": "Land Trust Agronomy is the agronomic advisor of record for land trusts, conservation easements, and family-stewardship holdings.",
+        "targetAudience": {
+          "primary": "Land-trust directors, conservation-easement holders, and multi-generation family stewards.",
+          "behaviors": [
+            "Read easement deeds carefully",
+            "Plan in 99-year terms",
+            "Treat succession as the primary risk"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Stewardship-led",
+          "Patient",
+          "Institutional",
+          "Quietly progressive"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the easement clause",
+            "Quote the multi-generation plan",
+            "Use the working-land vocabulary"
+          ],
+          "donts": [
+            "Pitch short-term yield wins",
+            "Use 'unlock value' as a phrase",
+            "Treat conservation as marketing"
+          ]
+        },
+        "logoDirection": "Wordmark only: LAND TRUST AGRONOMY set in three lines of an institutional serif, left-aligned. A small mark \u2014 a single oak-leaf seal \u2014 used on letterhead.",
+        "colorPalette": [
+          {
+            "name": "Steward Ink",
+            "hex": "#191D1C",
+            "meaning": "Deed ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Easement Cream",
+            "hex": "#EFE8D5",
+            "meaning": "Title paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Oak Green",
+            "hex": "#3D5234",
+            "meaning": "Standing timber.",
+            "usage": "Accent, seals"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and reports",
+          "rationale": "Institutional Caslon for the seal; clean grotesk for the body."
+        }
+      },
+      {
+        "brandName": "Cornell Cooperative Agronomy",
+        "tagline": "Extension, modernized.",
+        "brandNameRationale": "Anchor: The U.S. Cooperative Extension Service, created by the Smith-Lever Act of 1914, which married Land Grant research to county-level farmer outreach. Counter-proposal anchored to the system itself rather than any single university, to avoid 'Cornell' as a TM \u2014 the brand name should drop 'Cornell' on second pass. Used here as drafting placeholder. Renamed to safer form: 'Cooperative Extension Group'.",
+        "industrySummary": "Modern ag advisory is rediscovering the value of on-the-ground extension. Co-ops, regional banks, and crop insurers are all paying for a counterparty that translates research into farm-gate practice.",
+        "competitorLandscape": "AgriEdge (syngenta.us/agriedge) plays the input-led advisory. AGCO Connect (agcocorp.com) holds the machinery peer. Land O'Lakes Truterra (truterraag.com) is the co-op reference. We sit between AgriEdge and Truterra with stronger research credibility.",
+        "positioningStatement": "Cooperative Extension Group is a modern, independent extension service for farmers, co-ops, and regional ag lenders.",
+        "targetAudience": {
+          "primary": "Co-op managers, regional ag lenders, crop insurers, and serious owner-operators.",
+          "behaviors": [
+            "Attend field days",
+            "Trust extension over reps",
+            "Cite trial sites by county"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plainspoken",
+          "Trustworthy",
+          "Research-led",
+          "Local"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the county trial",
+            "Translate research into the row pass",
+            "Show up at field days"
+          ],
+          "donts": [
+            "Replace extension with software-only",
+            "Hide behind a portal",
+            "Use 'AI agronomist' as a phrase"
+          ]
+        },
+        "logoDirection": "Wordmark only: COOPERATIVE EXTENSION GROUP on two lines, institutional serif. A small mark \u2014 a county-line outline filled with rows \u2014 used on field-day handouts.",
+        "colorPalette": [
+          {
+            "name": "Extension Green",
+            "hex": "#2E4732",
+            "meaning": "Field-day jacket.",
+            "usage": "Wordmark, accents"
+          },
+          {
+            "name": "Field Paper",
+            "hex": "#F1EAD6",
+            "meaning": "Handout stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bulletin Black",
+            "hex": "#15171A",
+            "meaning": "Bulletin text.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and bulletins",
+          "rationale": "The bulletin-stock register: serif for headlines, grotesk for body."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Turnip Townshend",
+        "tagline": "Rotation, with a wink.",
+        "brandNameRationale": "Anchor: Viscount Charles 'Turnip' Townshend (1674\u20131738), who championed the turnip as a winter fodder crop and popularized the Norfolk rotation. The nickname is real and pre-internet. Picked from A's three for the most genuinely creative anchor: a real nickname earned for a single crop.",
+        "industrySummary": "Direct-to-consumer farms, CSAs, and editorial farm brands are doing better than ever. They need names that travel on a label and a t-shirt without sounding like a marketing exercise.",
+        "competitorLandscape": "Square Roots (squarerootsgrow.com) plays the urban-farm peer. Stone Barns (stonebarnscenter.org) holds the editorial-farm middle. Soul Fire Farm (soulfirefarm.org) is the values-led reference. We sit as a wink-led farm-and-rotation brand.",
+        "positioningStatement": "Turnip Townshend is a narrative-led, rotation-first farm brand for direct-to-market growers and CSA operators.",
+        "targetAudience": {
+          "primary": "Direct-to-market growers, CSA members, and chef partners.",
+          "behaviors": [
+            "Subscribe to a farm share",
+            "Care which field the radishes came from",
+            "Buy a farm t-shirt"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Earnest",
+          "Historically literate",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the variety and the field",
+            "Use the rotation as the marketing",
+            "Print history on the box"
+          ],
+          "donts": [
+            "Use 'farm-to-table' as a tagline",
+            "Photograph the farmer in soft focus",
+            "Charge premium without the why"
+          ]
+        },
+        "logoDirection": "Wordmark in a friendly slab serif: TURNIP TOWNSHEND on two lines. A small mark \u2014 a single turnip leaf, drawn line-style \u2014 used on box stickers and t-shirts.",
+        "colorPalette": [
+          {
+            "name": "Turnip Purple",
+            "hex": "#5C3E62",
+            "meaning": "Top of a fresh turnip.",
+            "usage": "Accents, headlines"
+          },
+          {
+            "name": "Field Cream",
+            "hex": "#F2EBD7",
+            "meaning": "Box paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Soil Brown",
+            "hex": "#3E2E20",
+            "meaning": "Dirt that won't wash off.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Antique for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A friendly historical slab plus a clean grotesk \u2014 the editorial-farm register, with humor."
+        }
+      },
+      {
+        "brandName": "Jethro Tull Drill Co",
+        "tagline": "Precision, since 1701.",
+        "brandNameRationale": "Anchor: Jethro Tull (1674\u20131741), inventor of the horse-drawn seed drill in 1701 \u2014 arguably the first piece of precision agriculture. (Note: Jethro Tull the rock band is named after him; the underlying historical name is in the public domain for an ag-tools brand.) Picked from A's three. REJECTED 'Dust Bowl Reclaim' as too tragic for a creative-tier brand voice.",
+        "industrySummary": "Precision-planting tools and services have become the most-watched corner of farm equipment. There's room for an editorial, history-aware brand that sells well-designed planters and rate controllers, not 'platforms.'",
+        "competitorLandscape": "Precision Planting (precisionplanting.com) is the category-defining brand. Ag Leader (agleader.com) plays the long-time peer. SmartFirmer (precisionplanting.com/smartfirmer) is the sensor-led reference. We sit alongside Precision Planting with stronger editorial branding.",
+        "positioningStatement": "Jethro Tull Drill Co builds and supports precision-planting hardware with a sharper editorial voice than the category usually allows.",
+        "targetAudience": {
+          "primary": "Mid-sized row-crop growers and progressive co-ops investing in planter retrofits.",
+          "behaviors": [
+            "Modify their planter every winter",
+            "Read planter-bar threads on AgTalk",
+            "Trust mechanical detail over marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Plainspoken",
+          "Mechanically literate",
+          "Slyly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the row unit",
+            "Show the field data, not the rendering",
+            "Reference 1701 once a year"
+          ],
+          "donts": [
+            "Brand as 'ag-tech'",
+            "Hide behind a subscription wall",
+            "Photograph drones"
+          ]
+        },
+        "logoDirection": "Wordmark in a precise slab: JETHRO TULL above, DRILL CO below in smaller caps. A small mark \u2014 a stylized seed-tube cross-section \u2014 used on planter retrofits.",
+        "colorPalette": [
+          {
+            "name": "Planter Black",
+            "hex": "#1A1A1C",
+            "meaning": "Powder-coated steel.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Drill Red",
+            "hex": "#B43426",
+            "meaning": "Equipment red.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Bone",
+            "hex": "#EEE7D6",
+            "meaning": "Cab paper.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Sentinel for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for part numbers",
+          "rationale": "A modern slab plus a true mono \u2014 engineering-catalog register."
+        }
+      },
+      {
+        "brandName": "Dust Bowl Reclaim",
+        "tagline": "Soil, back.",
+        "brandNameRationale": "Anchor: The 1930s American Dust Bowl and the Soil Conservation Service founded under Hugh Hammond Bennett in 1935. Picked from A's three as the third creative slot \u2014 kept despite its weight because the narrative power for regen-storytelling is unmatched, and the name is a clear historical reference, not a tragedy claim.",
+        "industrySummary": "Regenerative-storytelling brands \u2014 farms, co-ops, podcasts \u2014 are the marketing layer of the soil-health movement. There's room for one that owns the original American soil-conservation story.",
+        "competitorLandscape": "Kiss the Ground (kisstheground.com) holds the soil-storytelling middle. Soil Centric (soilcentric.org) plays the educational peer. White Buffalo Land Trust (whitebuffalolandtrust.org) is the demonstration-farm reference. We sit alongside Kiss the Ground with stronger historical framing.",
+        "positioningStatement": "Dust Bowl Reclaim is a soil-restoration storytelling and merchandising brand for regenerative growers and supporters.",
+        "targetAudience": {
+          "primary": "Regenerative-curious consumers, farm-share members, and conservation donors.",
+          "behaviors": [
+            "Watch soil-health films",
+            "Buy from regen farms intentionally",
+            "Support a soil-conservation nonprofit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Earnest",
+          "Historically grounded",
+          "Hopeful",
+          "Plain"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite 1935 and Hugh Bennett",
+            "Show before/after soil photos",
+            "Speak as a movement, not a brand"
+          ],
+          "donts": [
+            "Romanticize the Dust Bowl itself",
+            "Use disaster imagery for marketing",
+            "Centre the brand over the soil"
+          ]
+        },
+        "logoDirection": "Wordmark in a heavy newsprint serif: DUST BOWL above, RECLAIM below. A small mark \u2014 a thin horizon line with a single plough cut \u2014 used as a stamp.",
+        "colorPalette": [
+          {
+            "name": "Dust Tan",
+            "hex": "#C9B690",
+            "meaning": "Topsoil, blown.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Print Black",
+            "hex": "#15140F",
+            "meaning": "Newsprint.",
+            "usage": "Body"
+          },
+          {
+            "name": "Cover Crop Green",
+            "hex": "#3E5A38",
+            "meaning": "Soil-held green.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Knockout for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "Newsprint heavy display plus a quiet reading serif \u2014 the WPA-era register, modernized."
+        }
+      }
+    ]
+  }
+}

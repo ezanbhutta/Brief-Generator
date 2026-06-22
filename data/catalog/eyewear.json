@@ -1,0 +1,320 @@
+{
+  "industry": "eyewear",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Snellen Frames",
+        "tagline": "Vision first. Frame second.",
+        "brandNameRationale": "Hermann Snellen, the Dutch ophthalmologist, designed the Snellen eye chart in 1862 — the universal vision-testing standard, used in every optometrist's office worldwide. The eponym is public-domain (Snellen died in 1908) and signals an optometry-led posture.",
+        "industrySummary": "Modern eyewear has been crowded with DTC frame brands competing on style. The opening is for a brand that puts vision testing in the brand position — frame design built around the eye exam, not the runway.",
+        "competitorLandscape": "Warby Parker (warbyparker.com) holds the considered-DTC slot. MOSCOT (moscot.com) is the heritage-American peer. Cubitts (cubitts.com) plays the heritage-British position. We sit closer to Cubitts with a sharper optometry-led identity.",
+        "positioningStatement": "Modern eyewear built around the eye exam.",
+        "targetAudience": {
+          "primary": "28 to 50. Wears glasses daily. Visits the optometrist annually. Reads the prescription before the frame.",
+          "behaviors": [
+            "Reads the prescription on the eye chart",
+            "Visits the optometrist annually",
+            "Buys one new frame every two years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Vision-led",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the eye exam",
+            "Cite the Snellen chart",
+            "Photograph the frame on a real face"
+          ],
+          "donts": [
+            "Use 'luxury' marketing",
+            "Photograph on white backgrounds only",
+            "Run seasonal collections"
+          ]
+        },
+        "logoDirection": "A wordmark — Snellen Frames in a precise modern grotesk with the famous Snellen 'E' tucked above the word as a hallmark. The 'E' alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Chart Black",
+            "hex": "#1A1A1A",
+            "meaning": "Snellen chart letters.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Chart White",
+            "hex": "#F4F1E8",
+            "meaning": "Eye-chart background.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Exam Red",
+            "hex": "#7E1F1A",
+            "meaning": "Optometrist's red pen.",
+            "usage": "Accent, the 'E' mark"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for prescriptions and measurements",
+          "rationale": "One family. The mono carries the prescription, the PD, and the dimensions."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Lunetier Pillet",
+        "tagline": "Parisian spectacle-making, atelier-made.",
+        "brandNameRationale": "'Lunetier' is the French term for spectacle-maker (in use since the 17th century). Pillet evokes the Parisian Belle-Époque optical houses on the Rue de la Paix — the surname is suggestive of the era without colliding with an active mark. The pair grounds the brand in the French luxury-optical tradition.",
+        "industrySummary": "Luxury eyewear is dominated by fashion-house licensed frames. The opening is for a small atelier reviving the Parisian lunetier tradition — horn, gold, hand-bevelled lenses, made by appointment.",
+        "competitorLandscape": "Jacques Marie Mage (jacquesmariemage.com) holds the haute-eyewear peer slot. Lunetterie Générale (lunetteriegenerale.com) is the considered-luxury peer. E.B. Meyrowitz (meyrowitz.uk) plays the heritage-bespoke position. We sit between Lunetterie Générale and Meyrowitz in posture.",
+        "positioningStatement": "A Parisian lunetier reviving the Belle-Époque spectacle tradition.",
+        "targetAudience": {
+          "primary": "45 to 70. Owns multiple pairs of high-end frames. Visits the atelier for fitting. Will pay for horn and gold.",
+          "behaviors": [
+            "Visits the atelier annually",
+            "Owns at least one horn frame",
+            "Replaces lenses, not frames"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use French where appropriate",
+            "Cite the materials (buffalo horn, gold-fill)",
+            "Speak about the fitting"
+          ],
+          "donts": [
+            "Sell at department-store volume",
+            "Use 'luxury' marketing",
+            "Run promotions"
+          ]
+        },
+        "logoDirection": "A serif wordmark — Lunetier Pillet set in a thin neoclassical Didot with a small hand-drawn lorgnette mark above. The mark appears on the certificate and the case.",
+        "colorPalette": [
+          {
+            "name": "Paris Black",
+            "hex": "#1A1A1A",
+            "meaning": "Buffalo horn.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Atelier Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Hand-laid Belle-Époque paper.",
+            "usage": "Backgrounds, certificates"
+          },
+          {
+            "name": "Gold-Fill",
+            "hex": "#A6843D",
+            "meaning": "Gold-fill temple.",
+            "usage": "Foil, the mark"
+          }
+        ],
+        "typography": {
+          "primary": "Didot for the wordmark and certificates",
+          "secondary": "Adobe Garamond for body and correspondence",
+          "rationale": "Didot carries the Parisian Belle-Époque tradition. Garamond keeps the correspondence warm."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Rivet Hinge",
+        "tagline": "The smallest part of the spectacle.",
+        "brandNameRationale": "The rivet hinge — the small metal pin joining temple to frame-front — was invented in the mid-19th century. It is the smallest mechanical element in eyewear, and the part that fails first. Naming the brand after the smallest part signals attention to the underlying construction.",
+        "industrySummary": "Minimal eyewear has been crowded with rebranded acetate frames. The opening underneath is a brand that names the smallest engineering element — the hinge — and lets that detail define the catalog.",
+        "competitorLandscape": "Mykita (mykita.com) holds the minimal-engineered slot. Götti (gotti.ch) is the Swiss-minimal peer. Lindberg (lindberg.com) sets the rimless-minimal bar. We sit closer to Götti with a sharper hinge-led identity.",
+        "positioningStatement": "Minimal eyewear named for the smallest part of the spectacle.",
+        "targetAudience": {
+          "primary": "30 to 55. Owns one or two pairs. Replaces only when broken. Reads the screws.",
+          "behaviors": [
+            "Replaces screws rather than frames",
+            "Reads the hinge construction",
+            "Buys one frame every five years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Engineering-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the hinge under magnification",
+            "Quote the hinge tolerance",
+            "List the materials by weight"
+          ],
+          "donts": [
+            "Photograph in styled portraits",
+            "Use trend vocabulary",
+            "Run seasonal colorways"
+          ]
+        },
+        "logoDirection": "A wordmark — Rivet Hinge in a humanist sans with a single dot (the rivet) above the word. The dot alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Hinge Steel",
+            "hex": "#5A6776",
+            "meaning": "Titanium hinge.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F1E8",
+            "meaning": "Tracing paper.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Body type.",
+            "usage": "Headlines"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for measurements and tolerances",
+          "rationale": "One family. Mono for the engineering data."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Frame & Lens",
+        "tagline": "Frame production and lens edging, vertically integrated.",
+        "brandNameRationale": "Frame manufacturing and lens grinding are the two historical sub-trades of the optical industry — separate businesses since the 17th century. The pair names the vertical integration: both halves of the supply chain under one company.",
+        "industrySummary": "Corporate eyewear supply is split between low-cost frame importers and a few vertically integrated firms. The opening is for a B2B supplier that does both halves — frame and lens — under one contract.",
+        "competitorLandscape": "EssilorLuxottica (essilorluxottica.com) is the global giant. Marchon (marchon.com) holds the wholesale-frame peer. Safilo (safilo.com) plays the licensed-frame peer position. We sit smaller and more vertically focused than these.",
+        "positioningStatement": "Vertically integrated corporate eyewear supply — frame and lens under one contract.",
+        "targetAudience": {
+          "primary": "40 to 60. Procurement directors at vision-benefits programs, independent optometrist chains, and corporate wellness platforms.",
+          "behaviors": [
+            "Specifies by frame-and-lens contract",
+            "Requests SKU-level margin",
+            "Renews on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the integrated supply",
+            "Show production capacity",
+            "Quote SKU-level margin"
+          ],
+          "donts": [
+            "Use consumer eyewear marketing",
+            "Photograph on models",
+            "Run consumer promotions"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark — FRAME & LENS set in a tight grotesk with two small circles (a frame outline) to the left. Reads cleanly on procurement decks and trade-show banners.",
+        "colorPalette": [
+          {
+            "name": "Optical Navy",
+            "hex": "#0F2238",
+            "meaning": "Procurement deck.",
+            "usage": "Logo, primary"
+          },
+          {
+            "name": "Lens Cream",
+            "hex": "#F2EFE8",
+            "meaning": "Lens-paper clean.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structural metal.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Frame Red",
+            "hex": "#A8313F",
+            "meaning": "Mark-up red.",
+            "usage": "Status indicators"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed catalogs and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Cartoucheur",
+        "tagline": "Every pair signed inside the temple.",
+        "brandNameRationale": "In the 19th century, spectacle-makers signed their work inside the temple with an engraved cartouche — a small decorative panel bearing the maker's name and date. The word 'Cartoucheur' (the engraver of cartouches) names the practice and centers the brand on the signature inside every pair.",
+        "industrySummary": "Creative eyewear has been crowded with patterned-acetate brands. The opening is for a house that signs every pair on the inside — a small engraving the wearer sees and the world doesn't.",
+        "competitorLandscape": "Jacques Marie Mage (jacquesmariemage.com) holds the creative-haute peer slot. Garrett Leight (garrettleight.com) sits in the considered-creative position. Ahlem (ahlemeyewear.com) plays the Parisian-creative peer. We sit closer to Ahlem with a sharper signature-engraving identity.",
+        "positioningStatement": "Creative eyewear with engraved interior cartouches — every pair signed, dated, numbered.",
+        "targetAudience": {
+          "primary": "30 to 55. Design-literate buyer. Owns multiple pairs of independent eyewear. Cares about provenance and signature.",
+          "behaviors": [
+            "Photographs the inside of the temple",
+            "Numbers and dates each pair",
+            "Follows individual eyewear makers"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Considered",
+          "Signature-led",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the engraving",
+            "Number every pair",
+            "Date every order"
+          ],
+          "donts": [
+            "Photograph only the outside",
+            "Use trend vocabulary",
+            "Run sales"
+          ]
+        },
+        "logoDirection": "A wordmark — Cartoucheur set in a decorative engraver's italic with a small cartouche mark (an oval ornamental panel) as the hallmark.",
+        "colorPalette": [
+          {
+            "name": "Engraver Black",
+            "hex": "#1A1A1A",
+            "meaning": "Engraver's burin ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Cartouche backing.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Engraved cartouche fill.",
+            "usage": "Foil, the mark"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and editorial",
+          "secondary": "An engraver's italic for the signature line",
+          "rationale": "Sectra carries the catalogue register. The italic carries the signature."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "industry": "antiques",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Grand Tour Trade",
+        "tagline": "Souvenirs of the original cultural tourism.",
+        "brandNameRationale": "The Grand Tour (1660s–1840s) was the European aristocratic coming-of-age circuit that established Western collecting — Roman bronzes, Venetian glass, Florentine intarsia. The phrase is public-domain art-historical vocabulary; 'Trade' names the dealer posture.",
+        "industrySummary": "Modern antiques has split between fairs and online platforms. The opening is for a dealer who anchors on the Grand-Tour provenance category — small, documented objects with the original collecting context.",
+        "competitorLandscape": "Galerie Steinitz (steinitz.fr) holds the Grand-Tour peer slot. Tomasso Brothers (tomassobrothers.co.uk) is the antiquities peer. Robilant + Voena (robilantvoena.com) plays the European decorative peer. We sit smaller than these, focused on documented Grand-Tour-provenance objects.",
+        "positioningStatement": "A modern antiques dealer in documented Grand-Tour-provenance objects.",
+        "targetAudience": {
+          "primary": "45 to 70. Multi-generational collector. Furnishes a country house. Pays a premium for provenance.",
+          "behaviors": [
+            "Buys at TEFAF and Frieze Masters",
+            "Requests provenance documentation first",
+            "Reads the catalogue raisonné"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Scholarly",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the Grand-Tour provenance",
+            "Show the lot's collection history",
+            "Speak in object names, not styles"
+          ],
+          "donts": [
+            "Use 'antique' as marketing",
+            "Photograph in styled rooms",
+            "Sell without documented provenance"
+          ]
+        },
+        "logoDirection": "A wordmark — Grand Tour Trade in a calm modern serif with a small itinerary-map mark above. The mark sits on certificates and the printed catalogue.",
+        "colorPalette": [
+          {
+            "name": "Roma Red",
+            "hex": "#7E1F1A",
+            "meaning": "Roman bronze patination.",
+            "usage": "Primary, accent"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Hand-laid certificate paper.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Catalogue body.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Patina",
+            "hex": "#5A6776",
+            "meaning": "Bronze patina.",
+            "usage": "Secondary, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and catalogue",
+          "secondary": "Adobe Garamond for body and condition reports",
+          "rationale": "Sectra carries the scholarly register. Garamond keeps the long-form copy warm."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Antiquarian Society",
+        "tagline": "Society-level scholarship, every lot.",
+        "brandNameRationale": "The Society of Antiquaries of London was founded in 1707 and chartered in 1751 — the oldest learned society for the study of the past. The phrase 'Antiquarian Society' is the public-domain category name, not the institution's mark; it signals society-level scholarship.",
+        "industrySummary": "Luxury antiques is dominated by the big three auction houses. The opening is for a small house with documented society-level cataloguing — every lot researched by a fellow, every provenance documented.",
+        "competitorLandscape": "Sotheby's (sothebys.com) is the global benchmark. Christie's (christies.com) holds the institutional-luxury slot. Mallett (mallettantiques.com) plays the heritage-decorative peer position. We sit smaller and more scholarly than these.",
+        "positioningStatement": "A luxury antiques house with society-level scholarship on every lot.",
+        "targetAudience": {
+          "primary": "50 to 80. Multi-generational collector. Donates to museums. Requires documented provenance.",
+          "behaviors": [
+            "Reads the catalogue raisonné first",
+            "Pays a premium for documented provenance",
+            "Donates lots to museums"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Scholarly",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the fellow who catalogued the lot",
+            "Publish the provenance chain",
+            "Use the language of attribution"
+          ],
+          "donts": [
+            "Sell without documented provenance",
+            "Photograph in styled rooms",
+            "Run promotional pricing"
+          ]
+        },
+        "logoDirection": "A serif wordmark — Antiquarian Society set in a classical English roman with a small society-seal mark above (a stylized antiquarian's lens). The mark appears on the catalogue cover and every lot certificate.",
+        "colorPalette": [
+          {
+            "name": "Society Green",
+            "hex": "#1E3A30",
+            "meaning": "Society hall walls.",
+            "usage": "Primary, signage"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Hand-laid catalogue paper.",
+            "usage": "Backgrounds, certificates"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Society plaque.",
+            "usage": "Foil, the seal"
+          },
+          {
+            "name": "Catalogue Ink",
+            "hex": "#2A2D2E",
+            "meaning": "Catalogue body.",
+            "usage": "Body, structure"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and catalogue",
+          "secondary": "Adobe Garamond for condition reports and correspondence",
+          "rationale": "Caslon carries 250 years of British scholarly printing. Garamond handles the longer-form copy."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Patina Co.",
+        "tagline": "Surface only. Never restored.",
+        "brandNameRationale": "Patina — the surface layer (oxidized bronze, waxed wood, worn silver) — authenticates age in the antiques trade. The brand sits on the single most important word in dealer vocabulary, and treats it as a non-negotiable: surface only, untouched, never restored.",
+        "industrySummary": "Minimal antiques is an oxymoron in a category obsessed with provenance stories. The opening is for a dealer who strips the narrative and sells purely on surface: patina-only, no restoration, no story.",
+        "competitorLandscape": "BDDW (bddw.com) holds the minimal-considered-design slot translated to antiques. Drag-On Antiques (no peer URL) sits in the minimal-antiquarian position. The Future Perfect (thefutureperfect.com) plays the considered-modern peer reference. We sit further out — surface-only, untouched.",
+        "positioningStatement": "Minimal antiques. Surface only. Never restored.",
+        "targetAudience": {
+          "primary": "35 to 60. Owns one home, furnishes slowly. Cares about surface integrity over completeness. Reads the patina before the receipt.",
+          "behaviors": [
+            "Refuses restored pieces",
+            "Reads the wear pattern",
+            "Buys one piece every two years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the surface in raking light",
+            "List the wear by region",
+            "Skip the narrative"
+          ],
+          "donts": [
+            "Restore the surface",
+            "Photograph in styled rooms",
+            "Use 'restored to original' as marketing"
+          ]
+        },
+        "logoDirection": "A wordmark — Patina Co. in a humanist sans with a small patina-swatch icon (a soft oxidized circle) above. The icon alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Verdigris",
+            "hex": "#5A6776",
+            "meaning": "Oxidized bronze.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Tracing paper.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Aged Brass",
+            "hex": "#A6843D",
+            "meaning": "Worn brass.",
+            "usage": "Accent, the icon"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for condition reports",
+          "rationale": "One family. Mono for the wear data."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Provenance Group",
+        "tagline": "Title-grade provenance research and due diligence.",
+        "brandNameRationale": "Provenance — the chain-of-ownership record — is the single most valuable attribute in the antiques and fine-art trade, especially post-Washington Principles (1998) and post-restitution legislation. The phrase names the firm's only product: title-grade research.",
+        "industrySummary": "Corporate antiques is a serious B2B category — provenance research, restitution review, title insurance. Institutional collectors, museum acquisition committees, and estate executors need due-diligence-grade documentation, not retail catalogues.",
+        "competitorLandscape": "Art Loss Register (artloss.com) holds the registry-and-research slot. ArtIndex (no peer URL) sits in the provenance-research position. Constance Lowenthal Associates (no peer URL) plays the restitution-research peer. We sit between these as a multi-service provenance firm.",
+        "positioningStatement": "Corporate provenance research and title due diligence for institutional collectors.",
+        "targetAudience": {
+          "primary": "45 to 65. Museum acquisition committees, institutional collectors, estate executors, title-insurance underwriters.",
+          "behaviors": [
+            "Commissions due-diligence reports before acquisition",
+            "Requires Art Loss Register checks",
+            "Renews on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Scholarly",
+          "Direct",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the research methodology",
+            "Cite restitution case law",
+            "Quote due-diligence standards"
+          ],
+          "donts": [
+            "Use consumer-antiques language",
+            "Sell objects",
+            "Photograph in showroom settings"
+          ]
+        },
+        "logoDirection": "A wordmark with a small chain-link mark — PROVENANCE GROUP set in a tight grotesk above a single linked-chain icon. Reads cleanly on title-insurance documents, museum reports, and trade-show banners.",
+        "colorPalette": [
+          {
+            "name": "Research Navy",
+            "hex": "#0F2238",
+            "meaning": "Title-insurance navy.",
+            "usage": "Logo, primary"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Archival paper.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structural metal.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Document seal.",
+            "usage": "Foil, accents"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed research reports and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed due-diligence documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Vide-Grenier",
+        "tagline": "Empty the attic. No two visits the same.",
+        "brandNameRationale": "Vide-grenier ('empty the attic') is the French neighborhood flea-market tradition codified in the 1970s. The phrase is public-domain French vernacular; it names the rotating-stock posture of a small creative shop.",
+        "industrySummary": "Creative antiques is crowded with curated 'vintage' shops. The opening is for a French-flea-market-style dealer with no fixed catalogue — rotating stock, no online inventory, no two visits alike.",
+        "competitorLandscape": "Marché aux Puces de Saint-Ouen (marcheauxpuces-saintouen.com) is the institutional flea-market reference. Cabana Magazine (cabanamagazine.com) holds the creative-eclectic peer slot. Casa Lopez (casalopez.com) plays the Parisian-creative peer position. We sit closer to Casa Lopez in scope with a sharper rotating-stock identity.",
+        "positioningStatement": "A French-flea-market-style creative antiques dealer with rotating stock and no fixed catalogue.",
+        "targetAudience": {
+          "primary": "30 to 55. Renters or first-home owners. Visit the shop in person. Buy on the day, not from a website.",
+          "behaviors": [
+            "Visits the shop weekly",
+            "Buys on the day",
+            "Photographs finds before unpacking"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Slightly funny",
+          "Crafted",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the shop floor today",
+            "Date every visit",
+            "Use first person"
+          ],
+          "donts": [
+            "Maintain an online inventory",
+            "Photograph in styled rooms",
+            "Use 'curated' as marketing"
+          ]
+        },
+        "logoDirection": "A wordmark — Vide-Grenier set in a friendly French sans with a small hand-drawn attic-door icon above. The icon appears on stickers and shop bags.",
+        "colorPalette": [
+          {
+            "name": "Market Yellow",
+            "hex": "#F2C14E",
+            "meaning": "Flea-market stall awning.",
+            "usage": "Accent, the icon"
+          },
+          {
+            "name": "Linen",
+            "hex": "#F0EAD8",
+            "meaning": "Market-table linen.",
+            "usage": "Backgrounds, web body"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1B1B1B",
+            "meaning": "Body type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Vintage Red",
+            "hex": "#A8313F",
+            "meaning": "Old shop signage.",
+            "usage": "Accent, hand-drawn marks"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for object descriptions",
+          "rationale": "Mori carries the friendly French shop register. Sectra makes the object descriptions feel like a small magazine."
+        }
+      }
+    ]
+  }
+}

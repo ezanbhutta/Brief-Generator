@@ -1,0 +1,915 @@
+{
+  "industry": "construction",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Plumb & Line",
+        "tagline": "Built straight.",
+        "brandNameRationale": "Anchor: The plumb bob and chalk line \u2014 two of the oldest tools on any jobsite, used by Egyptian and Roman masons. Picked from A's three for the cleanest trade-vocabulary anchor.",
+        "industrySummary": "Residential construction in 2025 is split between premium custom builders and price-driven volume firms. The opening is for a clean, design-literate general contractor that documents its work and quotes precisely.",
+        "competitorLandscape": "BUILD LLC (buildllc.com) plays the design-led residential GC. Sundberg Kennedy Ly-Au Young (skyresidential.com) holds the architect-builder middle. Hutker Architects (hutkerarchitects.com) is a design-build peer. We sit alongside BUILD LLC with sharper visual identity.",
+        "positioningStatement": "Plumb & Line is a clean-built residential and light-commercial general contractor that runs a documented, design-literate jobsite.",
+        "targetAudience": {
+          "primary": "Homeowners and architects commissioning $1M to $8M custom homes and small commercial fit-outs.",
+          "behaviors": [
+            "Have an architect already",
+            "Read shop drawings",
+            "Ask about subcontractor lists"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Disciplined",
+          "Precise",
+          "Modern",
+          "Trustworthy"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the spec, not the render",
+            "Name the trades on the job",
+            "Photograph the finished detail"
+          ],
+          "donts": [
+            "Promise 'turnkey luxury'",
+            "Hide pricing behind 'contact us'",
+            "Use stock home photos"
+          ]
+        },
+        "logoDirection": "Wordmark in a tight modern grotesk: PLUMB & LINE on one line. A small mark \u2014 a thin vertical line with a dot at the bottom (the plumb bob) \u2014 used as the favicon and on stamps.",
+        "colorPalette": [
+          {
+            "name": "Concrete",
+            "hex": "#2E2E30",
+            "meaning": "Wet-poured.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Drywall White",
+            "hex": "#F5F2EC",
+            "meaning": "Primer-ready.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Chalk Blue",
+            "hex": "#2B4D6B",
+            "meaning": "Chalk-line snap.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for room dimensions and specs",
+          "rationale": "A construction-vernacular sans plus a mono for the spec \u2014 the modern jobsite register."
+        }
+      },
+      {
+        "brandName": "Bauh\u00fctte Build",
+        "tagline": "Lodge-disciplined construction.",
+        "brandNameRationale": "Anchor: The medieval German Bauh\u00fctte \u2014 the masons' lodge that organized stonework on Gothic cathedrals like Strasbourg and Cologne, with apprentice-journeyman-master grades. Picked from A's three for the cleanest craft-discipline anchor.",
+        "industrySummary": "The 'craft GC' is a real and growing tier \u2014 builders who refuse subcontractor sloppiness and document the chain of work the way German guilds did. Customers pay 15\u201325% more for that discipline.",
+        "competitorLandscape": "Hammer & Hand (hammerandhand.com) plays the craft-led GC reference. New Energy Works (newenergyworks.com) holds the timber-craft middle. Sundberg Kennedy (skyresidential.com) is the design-build peer. We sit alongside Hammer & Hand with a heritage frame.",
+        "positioningStatement": "Bauh\u00fctte Build is a craft-disciplined general contractor for high-design residential and small commercial work.",
+        "targetAudience": {
+          "primary": "Architects, designers, and design-literate owners commissioning $1.5M\u2013$10M custom builds.",
+          "behaviors": [
+            "Visit the jobsite weekly",
+            "Care about joinery and detail",
+            "Read building-science blogs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Disciplined",
+          "Craft-led",
+          "Patient",
+          "Quietly proud"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the trades and the journeymen",
+            "Show the joinery, not the staging",
+            "Document the chain of work"
+          ],
+          "donts": [
+            "Promise speed",
+            "Hire trades sight unseen",
+            "Use 'luxury' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark only: BAUH\u00dcTTE BUILD on two lines in a confident geometric sans. A small mark \u2014 a stylized lodge-roof line with a hammer crossbar \u2014 used on plaque and seal.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#222629",
+            "meaning": "Roof slate.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Limewash",
+            "hex": "#EAE3D2",
+            "meaning": "Lime plaster.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Oxblood",
+            "hex": "#7A2E2A",
+            "meaning": "Lodge seal wax.",
+            "usage": "Accent, seals"
+          }
+        ],
+        "typography": {
+          "primary": "Founders Grotesk for the wordmark and headlines",
+          "secondary": "Founders Grotesk Mono for specs",
+          "rationale": "A confident grotesk paired with its mono \u2014 the modern craft-GC register."
+        }
+      },
+      {
+        "brandName": "Soffit & Co",
+        "tagline": "The detail that finishes the build.",
+        "brandNameRationale": "Anchor: The soffit \u2014 the underside of a structural element (from Italian soffitto, ceiling). A trade word every framer and trim carpenter knows. Picked from A's three for the most genuinely insider anchor.",
+        "industrySummary": "Detail-obsessed residential builders are the operators that designers send work to. There is room for a brand that names a single detail and operates the whole house from that level of care.",
+        "competitorLandscape": "Tinker & Son (tinkerandson.com) plays the small-batch luxury-residential peer. Forsey + Hood (forseyhood.com) holds the design-led middle. Plant Architects (branchplant.com) is the architect-builder cousin. We sit closer to Tinker with sharper trade vocabulary.",
+        "positioningStatement": "Soffit & Co is a detail-obsessed residential builder for designers, architects, and clients who care about the trim.",
+        "targetAudience": {
+          "primary": "Architects, designers, and design-literate homeowners on $1M\u2013$5M renovations and new builds.",
+          "behaviors": [
+            "Argue about trim profiles",
+            "Read door-and-window catalogs",
+            "Walk the site with a tape measure"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Detail-obsessed",
+          "Modern",
+          "Confident",
+          "Quietly proud"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the trim, not the kitchen",
+            "Name the carpenter",
+            "Print door schedules as the brochure"
+          ],
+          "donts": [
+            "Lead with the lifestyle shot",
+            "Use 'bespoke' more than once",
+            "Skip the punch list"
+          ]
+        },
+        "logoDirection": "Wordmark: SOFFIT & CO in a tight architectural sans, one line. A small mark \u2014 a single cornice-line cross-section \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Trim White",
+            "hex": "#F8F4EA",
+            "meaning": "Primed casing.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Walnut",
+            "hex": "#3B2A20",
+            "meaning": "Finish trim.",
+            "usage": "Body"
+          },
+          {
+            "name": "Drafting Blue",
+            "hex": "#234E78",
+            "meaning": "Pencil line.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "GT America Mono for door schedules",
+          "rationale": "An architectural sans plus a mono for the schedule \u2014 the designer-builder register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Wren & Hawksmoor",
+        "tagline": "Building, for a long time.",
+        "brandNameRationale": "Anchor: Sir Christopher Wren and his prot\u00e9g\u00e9 Nicholas Hawksmoor, who rebuilt London after the 1666 Great Fire \u2014 St Paul's, the City churches, the Royal Naval Hospital. Picked from A's three for the most genuinely pedigreed English construction anchor.",
+        "industrySummary": "Heritage-grade construction \u2014 landmark restoration, listed-building work, country-house extensions \u2014 is a small, prestige tier. Buyers want firms that can read a stone-mason's letter and a planning officer in the same morning.",
+        "competitorLandscape": "Walters & Cohen (waltersandcohen.com) plays the heritage-design middle. R W Armstrong (rwarmstrong.com) holds the country-house contractor slot. Stonewest (stonewest.co.uk) is the masonry-restoration reference. We sit alongside R W Armstrong with sharper editorial branding.",
+        "positioningStatement": "Wren & Hawksmoor is a heritage-grade construction firm for listed buildings, country houses, and landmark projects.",
+        "targetAudience": {
+          "primary": "Heritage architects, country-estate trustees, and high-net-worth owners of listed properties.",
+          "behaviors": [
+            "Hire a heritage architect first",
+            "Read Country Life",
+            "Take five years to finish a project"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Patient",
+          "Pedigreed",
+          "Quietly modern",
+          "Craft-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the lime mortar specification",
+            "Name the master mason",
+            "Speak in seasons of stonework"
+          ],
+          "donts": [
+            "Publish project addresses",
+            "Promise modern speed",
+            "Use 'luxury' anywhere on the site"
+          ]
+        },
+        "logoDirection": "Wordmark: WREN & HAWKSMOOR set in an English serif with wide tracking, two lines. A small mark \u2014 a single column-and-arch silhouette \u2014 used on the foundation-stone plaque.",
+        "colorPalette": [
+          {
+            "name": "Portland Stone",
+            "hex": "#E2DAC4",
+            "meaning": "London facade stone.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lead",
+            "hex": "#3C3F44",
+            "meaning": "Church roof.",
+            "usage": "Body"
+          },
+          {
+            "name": "Gilt",
+            "hex": "#A6862F",
+            "meaning": "St Paul's detail.",
+            "usage": "Accent, seals"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body",
+          "rationale": "Two English serifs \u2014 the heritage-construction register, no apologies."
+        }
+      },
+      {
+        "brandName": "Vitruvius Atelier",
+        "tagline": "Firmitas. Utilitas. Venustas.",
+        "brandNameRationale": "Anchor: Marcus Vitruvius Pollio, the Roman architect whose De Architectura (c. 30 BC) defined firmitas (firmness), utilitas (commodity), venustas (delight) \u2014 the trinity of good building. Picked from A's three for the most genuinely first-principles anchor available.",
+        "industrySummary": "First-principles construction for high-design homes is a small luxury tier \u2014 clients who already commissioned a 'name' architect want a builder who can hold the line on the detail. Atelier-scale firms are taking that work.",
+        "competitorLandscape": "Quezada Architecture (qarch.com) plays the design-build atelier. Faulkner Architects (faulknerarchitects.com) holds the high-design home middle. Olson Kundig Builders (olsonkundig.com) is the editorial-architect peer. We sit alongside Quezada with stronger classical framing.",
+        "positioningStatement": "Vitruvius Atelier is first-principles construction for high-design custom homes and ateliers.",
+        "targetAudience": {
+          "primary": "Architects and design-literate clients commissioning $5M\u2013$25M residences.",
+          "behaviors": [
+            "Read shop drawings",
+            "Argue about cornice profiles",
+            "Care about the structural detail"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "First-principles",
+          "Quietly classical",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the Vitruvian three",
+            "Show the structural detail",
+            "Speak in proportions"
+          ],
+          "donts": [
+            "Use rendering glamour",
+            "Photograph furniture stand-ins",
+            "Promise a glossy magazine cover"
+          ]
+        },
+        "logoDirection": "Wordmark: VITRUVIUS in a refined Trajan-inspired serif on top, ATELIER in spaced caps below. A small mark \u2014 a single proportional rectangle (the Vitruvian module) \u2014 used on seals.",
+        "colorPalette": [
+          {
+            "name": "Travertine",
+            "hex": "#E5DDC9",
+            "meaning": "Roman stone.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#15171A",
+            "meaning": "Drafting ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Verdigris",
+            "hex": "#577F73",
+            "meaning": "Aged bronze.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Trajan Pro for the wordmark",
+          "secondary": "Tiempos Text for body and headlines",
+          "rationale": "Trajan for the wordmark only (with restraint); Tiempos for the reading body \u2014 a classical-modern pair."
+        }
+      },
+      {
+        "brandName": "Palladio Build Co",
+        "tagline": "Proportioned.",
+        "brandNameRationale": "Anchor: Andrea Palladio (1508\u20131580), Venetian master whose villas and Quattro Libri shaped country-house construction from England to Virginia. Picked from A's three for the most enduring single-architect anchor for residential luxury construction.",
+        "industrySummary": "Classical residential construction is alive in a quiet luxury tier \u2014 buyers commissioning new-classical homes from architects like Robert A.M. Stern need builders who can deliver the proportion and detail.",
+        "competitorLandscape": "RAMSA-trained builders like Sherrill Canet collaborate with classical architects. Eric J. Smith Architect (ejsarch.com) plays the classical-residential peer. Andrew Cogar/Historical Concepts (historicalconcepts.com) is the Southern reference. We sit as the builder counterpart to that tier.",
+        "positioningStatement": "Palladio Build Co is a classically proportioned residential construction firm for new-classical homes and serious renovations.",
+        "targetAudience": {
+          "primary": "Classical architects and clients commissioning $3M\u2013$15M new-classical homes.",
+          "behaviors": [
+            "Read Palladio in translation",
+            "Visit Veneto villas",
+            "Argue about pediment heights"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Classical",
+          "Patient",
+          "Proportioned",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in proportions",
+            "Cite the four books",
+            "Show the elevation, not just the room"
+          ],
+          "donts": [
+            "Use 'modern luxury' as a phrase",
+            "Build pastiche",
+            "Cut the cornice budget"
+          ]
+        },
+        "logoDirection": "Wordmark: PALLADIO BUILD CO set in a classical serif, three lines stacked. A small mark \u2014 a Palladian-window arch silhouette \u2014 used on the foundation seal.",
+        "colorPalette": [
+          {
+            "name": "Vicenza Stone",
+            "hex": "#E8DFCB",
+            "meaning": "Veneto limestone.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1B1D",
+            "meaning": "Engraving ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Veneto Red",
+            "hex": "#7D2A24",
+            "meaning": "Villa shutter.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Bembo for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A Venetian-Renaissance serif paired with a contemporary reading serif \u2014 Palladio, modernized."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Dado",
+        "tagline": "The lower wall.",
+        "brandNameRationale": "Anchor: The dado \u2014 the lower portion of an interior wall, from the Italian die-shaped pedestal. Real trade word, three letters. Picked from A's three for the most genuinely minimal trade-vocabulary anchor.",
+        "industrySummary": "Minimalist build-and-joinery firms work the high-design renovation tier where clients have already hired a designer. The brand has to look like a designer's brand, not a contractor's truck.",
+        "competitorLandscape": "Studio MUTT (studiomutt.com) plays the design-led builder. Spacecutter (spacecutter.co) holds the minimal-renovation middle. McLaren Excell (mclarenexcell.com) is the architect-as-builder reference. We sit alongside Spacecutter with cleaner identity.",
+        "positioningStatement": "Dado is a minimalist build and joinery firm for design-led renovations and small new builds.",
+        "targetAudience": {
+          "primary": "Interior designers, architects, and design-literate homeowners on $500k\u2013$3M renovations.",
+          "behaviors": [
+            "Have a Pinterest board of moldings",
+            "Argue about reveals",
+            "Hire by past joinery work"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Disciplined",
+          "Quiet",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the joinery detail",
+            "Use white space generously",
+            "Speak in millimeters"
+          ],
+          "donts": [
+            "Photograph soft-furnishings",
+            "Use 'luxe' anywhere",
+            "Crowd the case study"
+          ]
+        },
+        "logoDirection": "Wordmark: DADO set very large in a clean modern sans, four letters, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Plaster",
+            "hex": "#EFEAE0",
+            "meaning": "Fresh wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Charcoal",
+            "hex": "#1F1F22",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Putty",
+            "hex": "#B7AFA1",
+            "meaning": "Mid-tone joinery.",
+            "usage": "Secondary surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for spec",
+          "rationale": "One family, two registers. Diatype is the minimal default for design-led firms."
+        }
+      },
+      {
+        "brandName": "Parapet",
+        "tagline": "Quiet at the roofline.",
+        "brandNameRationale": "Anchor: The parapet wall \u2014 from Italian parapetto ('chest-high') \u2014 the low protective wall at a roof edge, on every commercial structure. Picked from A's three for the strongest minimal commercial-construction anchor.",
+        "industrySummary": "Small commercial fit-outs \u2014 boutiques, studios, single-tenant warehouses \u2014 are usually built by anonymous GCs. There is room for a design-led builder that owns the spare-commercial tier.",
+        "competitorLandscape": "Spacecutter (spacecutter.co) plays the design-led commercial peer. STUDIO ZAK (studiozak.com) holds the small-commercial fit-out middle. ID Studio (idstudiogroup.com) is the retail-build reference. We sit closest to Spacecutter on the commercial side.",
+        "positioningStatement": "Parapet is a design-led commercial builder for boutiques, studios, and small mixed-use projects.",
+        "targetAudience": {
+          "primary": "Brand owners, retail architects, and operators of design-forward commercial spaces.",
+          "behaviors": [
+            "Hire an architect before the GC",
+            "Care about the storefront detail",
+            "Plan a five-year lease properly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Modern",
+          "Patient",
+          "Detail-oriented"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the elevation, not the interior styling",
+            "Name the storefront system",
+            "Quote in line items"
+          ],
+          "donts": [
+            "Use 'turnkey retail' as a phrase",
+            "Photograph mannequins",
+            "Stage the case study"
+          ]
+        },
+        "logoDirection": "Wordmark: PARAPET set in a precise grotesk, all caps. A small mark \u2014 a thin horizontal line above a slightly thicker block (the parapet profile) \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Concrete",
+            "hex": "#3B3B3D",
+            "meaning": "Tilt-up wall.",
+            "usage": "Body"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F1ECDE",
+            "meaning": "Stucco.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Roof Black",
+            "hex": "#0E0E10",
+            "meaning": "EPDM roof.",
+            "usage": "Wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for spec",
+          "rationale": "A quiet-modern grotesk with its mono \u2014 the design-led commercial register."
+        }
+      },
+      {
+        "brandName": "Course & Bond",
+        "tagline": "Brick-first builders.",
+        "brandNameRationale": "Anchor: Brickwork courses and bonding patterns (Flemish, English, stretcher) \u2014 the fundamental grammar of masonry. Picked from A's three for the strongest masonry-vernacular anchor.",
+        "industrySummary": "Masonry-led construction \u2014 load-bearing brick, exposed-brick interiors, reclaimed-brick facades \u2014 is reemerging in design-led residential and small commercial. The market lacks a confident masonry-first brand.",
+        "competitorLandscape": "Strong Brick Construction (strongbrickconstruction.com) plays the masonry-trade middle. Bricklayers Local 1 (bricklayers.org) is the trade reference. EskewDumezRipple (eskewdumezripple.com) is the architect-of-masonry peer. We sit as a masonry-first builder with editorial voice.",
+        "positioningStatement": "Course & Bond is a masonry-first builder for brick-led residential and small commercial projects.",
+        "targetAudience": {
+          "primary": "Architects specifying load-bearing or feature masonry, and design-literate clients on brick projects.",
+          "behaviors": [
+            "Specify Flemish bond on the elevation",
+            "Source reclaimed brick",
+            "Care about mortar color"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Craft-led",
+          "Confident",
+          "Masonry-literate"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the bond and the mortar",
+            "Show the course count",
+            "Photograph the wall at dusk"
+          ],
+          "donts": [
+            "Use 'rustic' as a marketing word",
+            "Cover brick with stucco",
+            "Skip the lintel detail"
+          ]
+        },
+        "logoDirection": "Wordmark: COURSE & BOND in a confident grotesk, one line. A small mark \u2014 a 2x2 brick-pattern square \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Brick",
+            "hex": "#7D3B2C",
+            "meaning": "Common red brick.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Mortar",
+            "hex": "#C8BFAE",
+            "meaning": "Lime mortar.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Soot",
+            "hex": "#1A1A1C",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for spec",
+          "rationale": "A quiet-modern grotesk plus mono \u2014 masonry confidence without ornament."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Cubitt & Holland",
+        "tagline": "The vertically integrated builder.",
+        "brandNameRationale": "Anchor: Thomas Cubitt (1788\u20131855), London master builder of Belgravia and Osborne House, who pioneered the modern general-contracting firm by employing all trades in-house. Picked from A's three for the most genuinely corporate-construction anchor \u2014 Cubitt literally invented the model.",
+        "industrySummary": "Vertically integrated commercial construction \u2014 keeping framing, MEP, and finishes in-house \u2014 is making a comeback as subcontractor markets get squeezed. Mid-cap GCs that can run the model win larger contracts.",
+        "competitorLandscape": "Suffolk Construction (suffolk.com) plays the modern mid-cap commercial GC. Skanska USA (usa.skanska.com) holds the institutional peer. Whiting-Turner (whiting-turner.com) is the relationship-led reference. We sit alongside Suffolk with a heritage frame.",
+        "positioningStatement": "Cubitt & Holland is a vertically integrated commercial construction firm for $20M\u2013$200M institutional, mixed-use, and education projects.",
+        "targetAudience": {
+          "primary": "Owners' reps, developers, and institutional clients (universities, hospitals, civic).",
+          "behaviors": [
+            "Issue an RFP, not a phone call",
+            "Compare bonded GCs",
+            "Care about safety record and schedule"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Plain",
+          "Vertically integrated"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the trades kept in-house",
+            "Show the schedule",
+            "Quote the safety record"
+          ],
+          "donts": [
+            "Use 'partner' as a synonym for client",
+            "Promise lowest price",
+            "Hide the change-order policy"
+          ]
+        },
+        "logoDirection": "Wordmark: CUBITT & HOLLAND in a serif on top with a heavier date line '\u2014 EST.' below. A small mark \u2014 a single keystone silhouette \u2014 used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Senate Navy",
+            "hex": "#1B2A3F",
+            "meaning": "Institutional.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Document Cream",
+            "hex": "#F0EBDB",
+            "meaning": "Paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A07A2E",
+            "meaning": "Plaque metal.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and tables",
+          "rationale": "A reading serif plus a clean grotesk \u2014 the institutional-GC register."
+        }
+      },
+      {
+        "brandName": "Bessemer Construction Group",
+        "tagline": "Heavy commercial, built right.",
+        "brandNameRationale": "Anchor: Sir Henry Bessemer, whose 1856 converter made cheap structural steel possible and enabled the modern skyline. Picked from A's three for the strongest heavy-commercial / structural-steel anchor.",
+        "industrySummary": "Heavy commercial \u2014 data centers, logistics hubs, industrial facilities \u2014 has become the fastest-growing GC segment. Owners are searching for firms that can self-perform structural steel and concrete.",
+        "competitorLandscape": "Clayco (claycorp.com) plays the heavy-commercial mid-cap leader. Mortenson (mortenson.com) holds the industrial-and-data-center middle. The Walsh Group (walshgroup.com) is the heavy-civil peer. We sit alongside Clayco with sharper identity.",
+        "positioningStatement": "Bessemer Construction Group is a heavy-commercial general contractor specializing in structural-steel-led data centers, industrial buildings, and logistics hubs.",
+        "targetAudience": {
+          "primary": "Hyperscaler real-estate teams, industrial REITs, and large logistics operators.",
+          "behaviors": [
+            "Issue technical RFPs",
+            "Care about MW capacity and pour rates",
+            "Run multiple builders against each other"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Industrial",
+          "Confident",
+          "Engineering-led",
+          "Plain"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in MW, square feet, pour days",
+            "Show the structural-steel detail",
+            "Publish safety hours"
+          ],
+          "donts": [
+            "Use 'innovative' as a category descriptor",
+            "Show pre-rendered animations as proof",
+            "Hide schedule risk"
+          ]
+        },
+        "logoDirection": "Wordmark: BESSEMER above, CONSTRUCTION GROUP below, set in an industrial sans. A small mark \u2014 a Bessemer-converter silhouette \u2014 used on hard-hat decals.",
+        "colorPalette": [
+          {
+            "name": "Steel",
+            "hex": "#3D4146",
+            "meaning": "I-beam.",
+            "usage": "Body"
+          },
+          {
+            "name": "Hi-Vis",
+            "hex": "#F2B22A",
+            "meaning": "Hi-vis vest, restrained.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Site Cream",
+            "hex": "#EFEBDE",
+            "meaning": "Site notice paper.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Akzidenz-Grotesk for the wordmark and headlines",
+          "secondary": "JetBrains Mono for spec",
+          "rationale": "An industrial grotesk plus a true mono \u2014 the heavy-commercial vernacular."
+        }
+      },
+      {
+        "brandName": "Cornerstone Trust Builders",
+        "tagline": "The civic builder of record.",
+        "brandNameRationale": "Anchor: The cornerstone \u2014 the first stone set in a foundation, ceremonially laid since Mesopotamian temple construction. Picked from A's three for the cleanest civic-builder anchor.",
+        "industrySummary": "Civic construction \u2014 schools, libraries, courthouses, municipal buildings \u2014 is funded by long-term bonds and requires a relationship-led GC. The category is dominated by quiet, multi-generation firms.",
+        "competitorLandscape": "Gilbane Building (gilbaneco.com) plays the institutional peer. Turner Construction (turnerconstruction.com) is the civic incumbent. Sundt Construction (sundt.com) holds the public-works middle. We sit alongside Sundt with sharper identity.",
+        "positioningStatement": "Cornerstone Trust Builders is a civic and institutional general contractor for schools, libraries, courthouses, and municipal buildings.",
+        "targetAudience": {
+          "primary": "School-district facilities directors, municipal capital-projects leads, and civic-bond authorities.",
+          "behaviors": [
+            "Sit on bond-oversight committees",
+            "Issue prequalification RFPs",
+            "Care about LEED and lifecycle cost"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Civic",
+          "Reliable",
+          "Patient",
+          "Quietly proud"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the bond-vote yardage",
+            "Photograph the ribbon cutting",
+            "Quote lifecycle cost"
+          ],
+          "donts": [
+            "Use 'disruption' anywhere",
+            "Skip the public meeting",
+            "Treat the client as the developer"
+          ]
+        },
+        "logoDirection": "Wordmark: CORNERSTONE TRUST BUILDERS on three lines, civic serif. A small mark \u2014 a square-cut cornerstone silhouette with date \u2014 used on the plaque.",
+        "colorPalette": [
+          {
+            "name": "Civic Navy",
+            "hex": "#1A2A40",
+            "meaning": "Courthouse blue.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Limestone",
+            "hex": "#E5DEC9",
+            "meaning": "Civic facade.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bronze",
+            "hex": "#7A5A2E",
+            "meaning": "Plaque.",
+            "usage": "Accent, seals"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and bond documents",
+          "rationale": "A civic serif plus a modern grotesk \u2014 the bond-document register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Master Mason",
+        "tagline": "The lead craftsman, still.",
+        "brandNameRationale": "Anchor: The master mason \u2014 the medieval lead craftsman who designed and ran cathedral sites before 'architect' existed as a profession (e.g. William of Sens at Canterbury, 1175). Picked from A's three. REJECTED 'Sears Kit Homes' (active trademark, flagged by Agent A). Master Mason is the cleanest narrative anchor.",
+        "industrySummary": "Story-led craft builders \u2014 firms that operate as both contractor and storyteller \u2014 are the visible top of the small-luxury residential market. They feed on press, podcasts, and architect referrals.",
+        "competitorLandscape": "Workshop/APD (workshopapd.com) plays the design-build storyteller. Pirie Associates (pirieassociates.com) holds the craft-led middle. Mark Reilly Architecture (markreillyarchitecture.com) is a design-build cousin. We sit as the builder counterpart, sharper on craft narrative.",
+        "positioningStatement": "Master Mason is a story-led craft builder for bespoke homes and small civic restoration projects.",
+        "targetAudience": {
+          "primary": "Architects, design press, and design-literate clients building once.",
+          "behaviors": [
+            "Read House & Garden and Dezeen on the same day",
+            "Hire by past projects in print",
+            "Walk the cathedral on the trip"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Narrative",
+          "Craft-led",
+          "Patient",
+          "Quietly proud"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the mason and the joiner",
+            "Lead with the lintel, not the foyer",
+            "Print the build log as a small book"
+          ],
+          "donts": [
+            "Run a 'before' photo without consent",
+            "Use stock home interiors",
+            "Promise speed"
+          ]
+        },
+        "logoDirection": "Wordmark: MASTER MASON in a heavy cut humanist serif, two lines. A small mark \u2014 a single mason's mark glyph \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cathedral Stone",
+            "hex": "#D6CDB6",
+            "meaning": "Quarry limestone.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181A1D",
+            "meaning": "Print.",
+            "usage": "Body"
+          },
+          {
+            "name": "Lichen",
+            "hex": "#6E7858",
+            "meaning": "Old-stone green.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Romain BP for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A confident humanist serif plus a quiet grotesk \u2014 the craft-storytelling register."
+        }
+      },
+      {
+        "brandName": "Pattern Book Co",
+        "tagline": "Houses by the page.",
+        "brandNameRationale": "Anchor: The 18th\u201319th c pattern-book tradition \u2014 Asher Benjamin's American Builder's Companion (1806), Andrew Jackson Downing's Cottage Residences (1842) \u2014 which gave carpenters across America a shared catalog of plans and details. Counter-proposal: A's creative third was 'Sears Kit Homes' which is an active trademark (Agent A flagged). Pattern Book Co is the cleanest kit-homes-without-the-TM anchor.",
+        "industrySummary": "Pre-designed plan catalogs and modular kit-of-parts homes are growing fast, driven by housing affordability and ADU policy. There's room for a brand that revives the American pattern-book tradition.",
+        "competitorLandscape": "Cottage Home Company (cottagehomecompany.com) plays the modern pattern-book peer. Tumbleweed Tiny House (tumbleweedhouses.com) holds the kit-home middle. Plant Prefab (plantprefab.com) is the modular reference. We sit alongside Cottage Home with stronger historical framing.",
+        "positioningStatement": "Pattern Book Co sells pre-designed home plans and kit-of-parts builds in the American pattern-book tradition.",
+        "targetAudience": {
+          "primary": "First-time custom-home buyers, ADU owners, and small builders.",
+          "behaviors": [
+            "Read plan books late at night",
+            "Care about porch depth and roof pitch",
+            "Build once with a small budget"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Historically literate",
+          "Honest",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the elevation and the plan side by side",
+            "Quote total cost honestly",
+            "Print a catalog every year"
+          ],
+          "donts": [
+            "Hide the price",
+            "Sell 'custom' that isn't",
+            "Use rendering glamour"
+          ]
+        },
+        "logoDirection": "Wordmark: PATTERN BOOK CO in a pattern-book-era display serif, three lines. A small mark \u2014 a single house-elevation thumbnail \u2014 used as a chapter marker.",
+        "colorPalette": [
+          {
+            "name": "Catalog Cream",
+            "hex": "#EFE7CE",
+            "meaning": "Pattern-book paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1817",
+            "meaning": "Print ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Shutter Green",
+            "hex": "#385139",
+            "meaning": "Cottage shutter.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Antique for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A pattern-book-period serif plus a contemporary reading serif \u2014 the catalog register."
+        }
+      },
+      {
+        "brandName": "Brunel & Bridge",
+        "tagline": "Audacious build.",
+        "brandNameRationale": "Anchor: Isambard Kingdom Brunel (1806\u20131859), engineer of the Clifton Suspension Bridge, the Great Western Railway, and the SS Great Britain \u2014 Victorian Britain's most audacious builder. Picked from A's three for the most ambitious design-build anchor.",
+        "industrySummary": "Big-idea design-build firms work the editorial top of the residential and small-civic market \u2014 the kind of practice that publishes books and lectures, and gets called for the impossible site.",
+        "competitorLandscape": "Olson Kundig (olsonkundig.com) plays the ambitious design-build peer. Sn\u00f8hetta (snohetta.com) holds the audacious-architect middle. ZGF Architects (zgf.com) is the institutional reference. We sit as a design-build counterpart with engineering pedigree.",
+        "positioningStatement": "Brunel & Bridge is a big-idea design-build firm for ambitious clients on hard sites \u2014 residential, civic, and adaptive reuse.",
+        "targetAudience": {
+          "primary": "Visionary private clients and small civic owners on $5M\u2013$50M projects with hard sites or hard programs.",
+          "behaviors": [
+            "Walk the site twice before committing",
+            "Hire by past audacity",
+            "Care about structural drama"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Audacious",
+          "Engineering-led",
+          "Confident",
+          "Slyly Victorian"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the structural diagram",
+            "Name the engineer",
+            "Print a black-book of past projects"
+          ],
+          "donts": [
+            "Promise easy",
+            "Hide the site challenge",
+            "Use 'turnkey' anywhere"
+          ]
+        },
+        "logoDirection": "Wordmark: BRUNEL & BRIDGE in a confident industrial slab serif, one line. A small mark \u2014 a single suspension-bridge cable silhouette \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Engineer Black",
+            "hex": "#101115",
+            "meaning": "Iron.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Drawing Cream",
+            "hex": "#EFE9D6",
+            "meaning": "Linen paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rivet Red",
+            "hex": "#9C3A2A",
+            "meaning": "Bridge minium.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Sentinel for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A confident slab paired with a quiet grotesk \u2014 the Victorian-engineer register, modernized."
+        }
+      }
+    ]
+  }
+}
