@@ -1,0 +1,332 @@
+{
+  "industry": "chocolate",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Conche No. 1",
+        "tagline": "Bean-to-bar, named for the defining process.",
+        "brandNameRationale": "Conching \u2014 the process invented by Rodolphe Lindt in Berne in 1879, in which chocolate is slowly agitated for hours or days to develop flavour and texture; the single technique that defines fine chocolate. Strongest of Agent A's three for modern: 'Theobroma & Co' is taxonomically precise but used by other bean-to-bar brands; 'Criollo Bar Co' is varietal-led but Criollo is broadly known. Conche No. 1 names the actual technique that separates fine chocolate from confection \u2014 and No. 1 reads as a small-maker production-batch register.",
+        "industrySummary": "Modern bean-to-bar in 2025+ has matured. Dandelion, Raaka, and a long tail of small makers compete on origin and process. The opening is for a brand that names the process \u2014 the conche \u2014 and treats the bar as a production batch.",
+        "competitorLandscape": "Dandelion Chocolate (dandelionchocolate.com) holds the modern bean-to-bar peer. Raaka (raakachocolate.com) sits in the unroasted-process tier. Dick Taylor (dicktaylorchocolate.com) is the small-batch peer. Mast (mastbrothers.com) does the design-led middle. We sit closer to Dandelion in posture.",
+        "positioningStatement": "A bean-to-bar chocolate maker named for the technique.",
+        "targetAudience": {
+          "primary": "28 to 45. Buys bars by origin and process, not brand. Will pay $12 for a 70g bar. Reads tasting notes from Bar & Cocoa. Has a strong opinion about Forastero vs Criollo.",
+          "behaviors": [
+            "Refers to bars by origin and roast date",
+            "Buys multi-bar tasting flights",
+            "Stocks bars by percentage in a cupboard"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Considered",
+          "Modern",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the conche hours on every bar",
+            "Name the origin and the harvest",
+            "Show the production batch number"
+          ],
+          "donts": [
+            "Use 'artisan' or 'craft' copy",
+            "Photograph bars on marble",
+            "Run holiday-themed packaging"
+          ]
+        },
+        "logoDirection": "A wordmark only. Conche No. 1 in a tight modern grotesk, with the No. 1 set as a small numeric monospace badge. The badge alone is the favicon and the bar-edge stamp.",
+        "colorPalette": [
+          {
+            "name": "Conche Brown",
+            "hex": "#3D2418",
+            "meaning": "Roasted nib at the end of conching.",
+            "usage": "Wordmark, primary, packaging."
+          },
+          {
+            "name": "Wrapper Cream",
+            "hex": "#F4F0E6",
+            "meaning": "The bar wrapper.",
+            "usage": "Backgrounds, packaging."
+          },
+          {
+            "name": "Batch Orange",
+            "hex": "#FF6A2A",
+            "meaning": "Single accent. The batch-number stamp.",
+            "usage": "The No. 1 badge, batch stamps."
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for origin and batch data",
+          "rationale": "One family. The mono carries production data; the regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Gianduja House",
+        "tagline": "A Piedmontese praline house.",
+        "brandNameRationale": "Gianduja \u2014 the hazelnut-chocolate paste invented in Turin in 1865 by Caffarel during the Napoleonic cocoa shortage; the parent of every modern praline and Nutella. Counter-rejecting Agent A's two flagged options: 'Bicerin Maison' collides with the existing 'Bicerin & Co' in coffee/Creative, and 'Maison Debauve & Gallais' uses an active trademark. Gianduja House is the cleanest of the three \u2014 a real Piedmontese tradition, no trademark exposure, deeply tied to luxury praline craft (Caffarel, Venchi, Guido Gobino all trade on this).",
+        "industrySummary": "Luxury chocolate in 2025+ serves the gift-giver and the collector. The category is dominated by Pierre Herm\u00e9, La Maison du Chocolat, and a few independent maisons. The opening is for a Piedmontese-tradition praline house with serious hazelnut-craft credibility.",
+        "competitorLandscape": "La Maison du Chocolat (lamaisonduchocolat.com) holds the Parisian luxury peer. Pierre Herm\u00e9 (pierreherme.com) sits at the same tier. Guido Gobino (guidogobino.com) is the Piedmontese peer reference. Venchi (venchi.com) does the heritage Turin slot. We sit closer to Guido Gobino in posture.",
+        "positioningStatement": "A Piedmontese praline house in the gianduja tradition.",
+        "targetAudience": {
+          "primary": "45 to 70. Gift-giver. Buys boxes for clients and host gifts. Travels to Turin. Knows the difference between gianduja and ganache. Pays for the box as much as the chocolate.",
+          "behaviors": [
+            "Orders by the season",
+            "Sends pralines as host gifts",
+            "Returns to the same maison annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Heritage",
+          "Patient",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use Italian terms where right",
+            "Print the IGP hazelnut origin on every box",
+            "Hand-pack every assortment"
+          ],
+          "donts": [
+            "Run flash sales",
+            "Photograph chocolates against marble",
+            "Use 'indulgence' marketing"
+          ]
+        },
+        "logoDirection": "A serif wordmark with a small hand-drawn hazelnut-leaf hallmark. The hallmark appears on the box ribbon, the wax seal of every gift card, and the brass plate of the maison door.",
+        "colorPalette": [
+          {
+            "name": "Gianduja Brown",
+            "hex": "#5C3F2A",
+            "meaning": "The paste itself.",
+            "usage": "Wordmark, primary, packaging."
+          },
+          {
+            "name": "Nocciola Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hazelnut interior, the box lining.",
+            "usage": "Boxes, paper, stationery."
+          },
+          {
+            "name": "Turin Red",
+            "hex": "#5B1A2B",
+            "meaning": "The Piedmontese ribbon.",
+            "usage": "Ribbon, accents, wax seal."
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#A6843D",
+            "meaning": "Box stamping.",
+            "usage": "Foil, hallmark, hardware."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and printed material",
+          "secondary": "Adobe Caslon for the assortment cards",
+          "rationale": "Sectra carries the Piedmontese editorial weight; Caslon makes the assortment notes feel hand-set."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Nib",
+        "tagline": "The bean, broken.",
+        "brandNameRationale": "The cacao nib \u2014 the broken roasted bean from which all chocolate is made; the raw, unsweetened essence of cacao that bean-to-bar makers sell loose. Strongest of Agent A's three for minimal: '70%' is good but a number alone reads gimmicky; 'Bean to Bar' is a movement, not a brand. Nib is the actual single-syllable trade word for the raw essence \u2014 three letters, perfectly minimal, and the noun itself is what the brand sells.",
+        "industrySummary": "Minimal chocolate brands serve home-bakers, pastry chefs, and the bean-to-bar curious. The opening is for a brand that sells just the nib, loose, by weight, with no flavored bars.",
+        "competitorLandscape": "Valrhona's pastry-chef line and Cacao Barry hold the professional peer. Raaka (raakachocolate.com) sells nibs as part of their range. Marou (marouchocolate.com) does the single-origin slot. We sit closer to a single-product apothecary register.",
+        "positioningStatement": "One product. Roasted cacao nibs, by weight.",
+        "targetAudience": {
+          "primary": "Pastry chefs, home bakers, and bean-to-bar curious adults. They buy by weight, store in a jar, and use across savoury and sweet cooking. They don't want a finished bar.",
+          "behaviors": [
+            "Buys 500g at a time",
+            "Stores in a labelled jar",
+            "Uses across granola, mole, and ice cream"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sell by weight, in plain packaging",
+            "Print the origin and roast date",
+            "Confirm orders in one line"
+          ],
+          "donts": [
+            "Run flavored bars",
+            "Promote subscription boxes",
+            "Send seasonal marketing"
+          ]
+        },
+        "logoDirection": "A wordmark only. NIB in a single-weight grotesk, wide kerned, all caps, three letters with generous space. No icon. The jar label, the website, and the shipping box all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, packaging, jars."
+          },
+          {
+            "name": "Nib Brown",
+            "hex": "#3D2418",
+            "meaning": "The roasted nib itself.",
+            "usage": "Secondary, packaging accent."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The jar, the page, and the box all carry the same wordmark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "S\u00e3o Tom\u00e9 Cacao Co",
+        "tagline": "Single-origin sourcing from West Africa.",
+        "brandNameRationale": "S\u00e3o Tom\u00e9 and Pr\u00edncipe \u2014 the West African island nation that in the 1900s was the world's largest cocoa producer; its plantation (ro\u00e7a) system shaped the modern cocoa trade and its single-origin beans remain prized. Counter-rejecting Agent A's flagged option: 'Valrhona Estates Group' uses an active trademark; Agent A flagged this. Of the remaining two, S\u00e3o Tom\u00e9 Cacao Co is stronger than 'Forastero Holdings' \u2014 S\u00e3o Tom\u00e9 has real terroir prestige and a credible sourcing-and-trading register, while Forastero reads as the commodity bean.",
+        "industrySummary": "Corporate cocoa sourcing and B2B couverture in 2025+ is dominated by Barry Callebaut, Cargill, and Olam. The opening is for a single-origin sourcing house with West African plantation relationships, supplying chocolatiers and pastry chefs.",
+        "competitorLandscape": "Barry Callebaut (barry-callebaut.com) holds the global couverture peer. Cargill Cocoa & Chocolate (cargill.com) sits at the same tier. Olam Food Ingredients (ofi.com) is the trading peer. Cacao Barry (cacao-barry.com) does the chef-facing slot. We sit smaller, single-origin focused.",
+        "positioningStatement": "A West African single-origin cocoa sourcing and trading company.",
+        "targetAudience": {
+          "primary": "B2B procurement leads at chocolatiers, pastry kitchens, and ice-cream manufacturers. They contract by tonnage, by origin, and by harvest. They want traceability, consistency, and direct producer relationships.",
+          "behaviors": [
+            "Contracts by harvest year",
+            "Reviews bean-quality reports per shipment",
+            "Renews on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with origin, harvest, and tonnage",
+            "Speak the language of B2B procurement",
+            "Publish quarterly producer letters"
+          ],
+          "donts": [
+            "Use consumer chocolate language",
+            "Run social media at the trade level",
+            "Promote individual bars"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left \u2014 a single cacao-pod silhouette reduced to one rounded shape. Reads cleanly on a trade catalog, a procurement deck, and a shipping seal.",
+        "colorPalette": [
+          {
+            "name": "Ro\u00e7a Brown",
+            "hex": "#3D2418",
+            "meaning": "The plantation soil, the roasted bean.",
+            "usage": "Wordmark, primary."
+          },
+          {
+            "name": "Pod Green",
+            "hex": "#1F3A2E",
+            "meaning": "The unripe cacao pod.",
+            "usage": "Secondary, headers."
+          },
+          {
+            "name": "Cargo Cream",
+            "hex": "#F4F2EE",
+            "meaning": "Sack hessian.",
+            "usage": "Backgrounds, paper."
+          },
+          {
+            "name": "Harvest Gold",
+            "hex": "#A6843D",
+            "meaning": "Quiet accent.",
+            "usage": "Foil on annual reports, hover states."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for digital and procurement decks",
+          "secondary": "Source Serif Pro for printed quarterly producer letters",
+          "rationale": "Inter scales clean across the trade portal; the serif handles printed quarterly trade letters."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Metate Studio",
+        "tagline": "Stone-ground chocolate, the Mesoamerican way.",
+        "brandNameRationale": "The metate \u2014 the volcanic-stone grinding slab on which Maya and Aztec cooks ground cacao with chilli and maize for the original xocol\u0101tl drink, c. 1500 BCE onward; still used by Mexican artisanal makers. Strongest of Agent A's three for creative: 'Xocol\u0101tl' is etymologically beautiful but hard to pronounce and the typography is awkward; 'Madagascar No. 6' is a terroir naming convention that several makers use. Metate is the physical tool \u2014 a volcanic-stone slab \u2014 that gives the brand a concrete craft artefact, with deep Mesoamerican credibility.",
+        "industrySummary": "Creative craft-chocolate brands in 2025+ are reviving stone-ground, Mesoamerican-style chocolate (Taza, Tejas, Wild Mountain). The category is small but design-forward, often single-maker, and rooted in food-history. The opening is for a studio that treats the metate as the brand artefact.",
+        "competitorLandscape": "Taza Chocolate (tazachocolate.com) holds the stone-ground peer. Tejas Chocolate (tejaschocolate.com) sits in the Texas-Mexican middle. Solstice Chocolate (solsticechocolate.com) is the small-maker peer. We sit warmer, more art-historical.",
+        "positioningStatement": "A stone-ground chocolate studio rooted in Mesoamerican craft.",
+        "targetAudience": {
+          "primary": "30 to 50. Cooks at home, follows Diana Kennedy and Pati Jinich, has been to Oaxaca. Buys bars by origin and process, treats chocolate as ingredient as much as confection.",
+          "behaviors": [
+            "Cooks mole from scratch",
+            "Buys whole-bar tablets for grating",
+            "Photographs the metate at the studio"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Warm",
+          "Curious",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference Mesoamerican history in every drop",
+            "Photograph the stone grinder",
+            "Name each bar after a region or a year"
+          ],
+          "donts": [
+            "Use 'artisan' or 'craft' as filler",
+            "Photograph bars against marble",
+            "Run Valentine's promotions"
+          ]
+        },
+        "logoDirection": "A wordmark in a chunky display serif with a small woodblock-style metate illustration above. The metate icon alone works on the wax seal, the tablet wrap, and the studio door.",
+        "colorPalette": [
+          {
+            "name": "Volcanic Black",
+            "hex": "#1A1A1A",
+            "meaning": "Volcanic basalt, the metate stone.",
+            "usage": "Wordmark, body, illustrations."
+          },
+          {
+            "name": "Maize Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Ground maize, the tablet wrap.",
+            "usage": "Backgrounds, packaging."
+          },
+          {
+            "name": "Chilli Red",
+            "hex": "#A8313F",
+            "meaning": "Single accent. The chilli in the original drink.",
+            "usage": "Wax seals, the metate inset, headlines."
+          },
+          {
+            "name": "Cacao Brown",
+            "hex": "#3D2418",
+            "meaning": "The tablet itself.",
+            "usage": "Secondary, type accents."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and wax seal",
+          "secondary": "GT Sectra Book for body and food-history notes",
+          "rationale": "One family. The display reads as woodblock; the book weight carries the long-form food-history copy."
+        }
+      }
+    ]
+  }
+}

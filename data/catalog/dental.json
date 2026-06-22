@@ -1,0 +1,326 @@
+{
+  "industry": "dental",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Angle & Co",
+        "tagline": "Orthodontics, from the source.",
+        "brandNameRationale": "Edward Hartley Angle (1855-1930) is the American dentist universally regarded as the father of modern orthodontics. He founded the first orthodontic school (Angle School of Orthodontia, 1900) and devised the Angle Classification of malocclusion still used in every dental school today. Strongest of Agent A's three \u2014 Fauchard is older but more generic in feel, and Cusp & Crown reads like a wordplay rather than a real lineage. Angle is a specific named originator.",
+        "industrySummary": "Modern orthodontic practices in 2025+ are competing with direct-to-consumer aligner brands (SmileDirectClub's collapse aside, Byte and Candid remain) and high-volume DSO chains. The opening is for a practice that positions on clinical heritage and clear-aligner expertise without theatre. Patients are 25-40, design-literate, and skeptical of both the strip-mall ortho and the DTC pitch.",
+        "competitorLandscape": "Tend (tend.com) sets the modern dental-design template in the US. Invisalign (invisalign.com) holds the consumer aligner brand. Smile Direct's collapse left a trust gap. Byte (byte.com) and Candid (candidco.com) compete in remote ortho but face clinical-credibility pressure.",
+        "positioningStatement": "Orthodontics traced back to the man who invented the field.",
+        "targetAudience": {
+          "primary": "28 to 45. Urban professionals who put off ortho in their twenties and now want it done right. Reads reviews carefully. Will pay a premium for a practice that demonstrates clinical seriousness. Hates the DSO waiting-room feel.",
+          "behaviors": [
+            "Researches the orthodontist's CV before booking",
+            "Asks about Angle Classification by name",
+            "Prefers in-person scans over mail-in aligners"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Clinical",
+          "Considered",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the Angle Classification in patient education",
+            "Show the orthodontist by name and training",
+            "Quote treatment in weeks, not 'phases'"
+          ],
+          "donts": [
+            "Use cartoon teeth",
+            "Run flash sales on Invisalign",
+            "Photograph staff in matching scrubs against beige"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Angle & Co set in a precise modern serif, with the A slightly tilted to suggest the angle of a malocclusion classification diagram. The tilted A alone works as the favicon and on the clear retainer case.",
+        "colorPalette": [
+          {
+            "name": "Clinic White",
+            "hex": "#FAFAF7",
+            "meaning": "Calm, clinical, the colour of an enamel surface.",
+            "usage": "Backgrounds, packaging, paper."
+          },
+          {
+            "name": "Angle Navy",
+            "hex": "#1E2A3A",
+            "meaning": "Clinical authority. The colour of a textbook spine.",
+            "usage": "Wordmark, headers, body type."
+          },
+          {
+            "name": "Bicuspid Brass",
+            "hex": "#A8843D",
+            "meaning": "Single accent \u2014 restrained, professional.",
+            "usage": "The tilted A, foil on appointment cards."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and patient letters",
+          "secondary": "S\u00f6hne for body and digital",
+          "rationale": "Sectra carries the clinical-heritage weight; S\u00f6hne keeps the booking flow modern."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Harley Practice",
+        "tagline": "Private dentistry in the Harley Street tradition.",
+        "brandNameRationale": "Harley Street, London has been synonymous since the 1800s with elite private medical and dental practice. Strongest of Agent A's three \u2014 Maison Pfaff is historically precise but reads as faintly clinical-academic, Garengeot is too obscure for the luxury patient. Harley Street is the single most recognisable address in private medicine globally, and a practice named after it inherits 200 years of meaning instantly.",
+        "industrySummary": "Luxury dentistry in 2025+ serves the patient who treats the dentist like a private banker \u2014 discreet, long relationship, no waiting room. The category is small, conservative, and resistant to digital marketing. The opening is for a practice that revives the consulting-rooms posture of the original Harley Street firms.",
+        "competitorLandscape": "Harley Street Dental Studio (harleystreetdentalstudio.com) is the literal address peer. The Wimpole Street Practice (wimpoledental.com) sits at the same tier. Lowenstein Dental (lowensteindental.com) is the NYC peer. We sit smaller, more discreet than all of them.",
+        "positioningStatement": "A discreet private dental practice in the consulting-rooms tradition.",
+        "targetAudience": {
+          "primary": "45 to 70. Established wealth. Has a private GP, a private dentist, and a private dermatologist, all from referrals. Travels often, is rarely impressed, and pays the invoice the same day it arrives.",
+          "behaviors": [
+            "Books by phone, never by app",
+            "Refers friends by quiet introduction",
+            "Expects to see the same clinician for every visit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Refined",
+          "Patient",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address patients by surname",
+            "Send paper invoices",
+            "Confirm appointments the day before, by call"
+          ],
+          "donts": [
+            "Run social media campaigns",
+            "Publish prices",
+            "Display 'before/afters' on the site"
+          ]
+        },
+        "logoDirection": "A serif wordmark with elegant ligatures. A small embossed door-plate mark \u2014 a single brass rectangle \u2014 sits beneath the wordmark, used on the practice card, the appointment letter, and the surgery door itself.",
+        "colorPalette": [
+          {
+            "name": "Consulting Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid letter paper, the consulting-room wall.",
+            "usage": "Stationery, paper, packaging."
+          },
+          {
+            "name": "Practice Green",
+            "hex": "#1F3A2E",
+            "meaning": "The colour of a quiet private surgery.",
+            "usage": "Wordmark, primary signage."
+          },
+          {
+            "name": "Brass Plate",
+            "hex": "#A6843D",
+            "meaning": "The door plate.",
+            "usage": "Foil, plate mark, hardware."
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "S\u00f6hne for the booking confirmation",
+          "rationale": "A high-contrast classical serif carries the consulting-rooms register; the grotesk handles the one digital surface."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Enamel",
+        "tagline": "The hardest thing in the body.",
+        "brandNameRationale": "Tooth enamel \u2014 the hardest substance in the human body, 96% hydroxyapatite by weight, the outermost layer and the entire surface a dentist treats. Strongest of Agent A's three for minimal: single word, deeply specific to the practice, and the noun is itself a statement of strength. Incisor and Probe both work but Enamel is more universal and reads cleaner on a sign.",
+        "industrySummary": "Minimal dentistry serves patients who want one thing done well \u2014 cleanings, fillings, the occasional veneer \u2014 without the upsell. The opening is for a practice that publishes its price list and sees patients on time.",
+        "competitorLandscape": "Tend (tend.com) holds the modern-clean peer slot. Quip (getquip.com) sets the minimal oral-care brand template, though product-led. Smyle (smyle.com) and similar boutique practices compete on aesthetics. We are quieter than all of them.",
+        "positioningStatement": "A small dental practice. Published prices. On time.",
+        "targetAudience": {
+          "primary": "Adults 25-50 who want a clean, fast cleaning and a fair price. They don't want to be sold a whitening package. They want the appointment to start when it was booked.",
+          "behaviors": [
+            "Books a six-month cleaning the day they leave",
+            "Reads the price list before booking",
+            "Will switch dentists over a single upsell"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the price list on the home page",
+            "Confirm appointments in one sentence",
+            "Start on time"
+          ],
+          "donts": [
+            "Upsell whitening at the cleaning",
+            "Run loyalty programs",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark only. ENAMEL set in a single-weight grotesk, wide kerned, all caps. No icon. The wordmark works on the door, the cup at the basin, and the appointment card. That is the whole system.",
+        "colorPalette": [
+          {
+            "name": "Enamel White",
+            "hex": "#FAFAF7",
+            "meaning": "The substance itself.",
+            "usage": "Backgrounds, walls, paper."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type."
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The sign, the card, and the site all carry the same wordmark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Hunter Dental Partners",
+        "tagline": "A multi-site dental partnership in the Hunterian tradition.",
+        "brandNameRationale": "John Hunter (1728-1793), the Scottish surgeon whose Natural History of the Human Teeth (1771) gave dentistry its anatomical vocabulary \u2014 incisor, cuspid, bicuspid, molar \u2014 still used by every practitioner. Strongest of Agent A's three for corporate: Angle Classification Group reads more clinical than corporate, Black's Dental Group is fine but Hunter has broader name recognition (the Hunterian Museum, Hunterian Society). A DSO that aligns with anatomical-tradition reads as serious to procurement.",
+        "industrySummary": "Corporate dentistry (DSOs) in 2025+ is consolidating fast. Heartland Dental, Aspen, and Pacific Dental dominate, and the next tier competes on clinician retention and clinical-quality differentiation. The opening is for a partnership-model group that positions on clinical seniority rather than franchise mechanics.",
+        "competitorLandscape": "Heartland Dental (heartland.com) is the largest US DSO. Aspen Dental (aspendental.com) holds the consumer-volume tier. Pacific Dental Services (pacificdentalservices.com) sits in the partnership middle. We sit smaller, more clinically led.",
+        "positioningStatement": "A clinician-led dental partnership grounded in the anatomical tradition.",
+        "targetAudience": {
+          "primary": "Procurement officers at insurers, HR directors at large employers, and dentist-owners considering joining a group. They sign multi-year contracts and care about clinician retention, clinical outcomes data, and operational reliability.",
+          "behaviors": [
+            "Reviews clinical KPIs before partnership",
+            "Negotiates multi-year terms",
+            "Values clinician retention rate as a buying signal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Clinical",
+          "Professional",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with clinician retention and clinical KPIs",
+            "Speak the language of insurance and procurement",
+            "Publish quarterly clinical-outcome letters"
+          ],
+          "donts": [
+            "Use consumer dental language",
+            "Run social media campaigns",
+            "Promote individual practices on national channels"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left \u2014 three short horizontal lines stacked, suggesting the strata of a tooth (enamel, dentin, pulp). Reads cleanly on uniforms, signage, and procurement decks.",
+        "colorPalette": [
+          {
+            "name": "Hunter Navy",
+            "hex": "#102236",
+            "meaning": "Clinical authority. The textbook colour.",
+            "usage": "Logo, primary surfaces, uniforms."
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper."
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body text, dividers."
+          },
+          {
+            "name": "Brass",
+            "hex": "#B08D52",
+            "meaning": "Quiet accent.",
+            "usage": "Highlights, hover states."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed clinical reviews",
+          "rationale": "Inter scales clean across procurement decks; the serif handles printed clinical-outcome reports."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Molar Press",
+        "tagline": "A creative paediatric and family practice.",
+        "brandNameRationale": "The molar, from Latin mola ('millstone') \u2014 the grinding tooth at the back of the jaw, named for its function as the body's own mill. Strongest of Agent A's three for creative: Tooth Fairy Studio is fine but slightly twee; Conching Smile Lab is too oblique (Agent A even flagged this). The Molar Press carries a printer's-shop register that supports a craft-studio identity, and the millstone etymology gives it real depth.",
+        "industrySummary": "Creative paediatric and family dentistry serves parents who want a practice that feels nothing like the white-coat institution. The opening is for a brand with print-shop, illustrated, slightly bookish aesthetics that doesn't condescend to kids.",
+        "competitorLandscape": "Tend (tend.com) sets the modern dental-aesthetic template. Smile Generation (smilegeneration.com) holds the family-friendly DSO. Chompers (chompersapp.com) is the kids' oral-care brand reference. We sit warmer and more design-led than any of them.",
+        "positioningStatement": "A family practice that runs like a print shop.",
+        "targetAudience": {
+          "primary": "Parents 30-45 with kids 3-12. Design-literate. Reads Cup of Jo. Wants a practice where the waiting room has good books, not iPads. Will switch over the wallpaper.",
+          "behaviors": [
+            "Photographs the waiting room for their friends",
+            "Buys the practice's illustrated tooth chart for the kitchen",
+            "Books both kids' cleanings in one appointment"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Crafted",
+          "Curious",
+          "Playful"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print everything \u2014 appointment cards, post-visit notes, sticker sheets",
+            "Commission a yearly illustrated tooth chart",
+            "Name each room after a typesetting term"
+          ],
+          "donts": [
+            "Use cartoon clip-art teeth",
+            "Run themed seasonal social posts",
+            "Hand out plastic toys"
+          ]
+        },
+        "logoDirection": "A wordmark in a chunky display serif with letterpress-impression texture. The O of MOLAR is set as a small woodblock-style millstone illustration. A standalone millstone icon for stickers and the appointment card.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#1A1A1A",
+            "meaning": "Letterpress ink.",
+            "usage": "Wordmark, body, illustrations."
+          },
+          {
+            "name": "Mill Stone",
+            "hex": "#C9C2B5",
+            "meaning": "The millstone itself.",
+            "usage": "Secondary surfaces, paper."
+          },
+          {
+            "name": "Block Red",
+            "hex": "#A8313F",
+            "meaning": "Single accent. The colour of a printer's stamp.",
+            "usage": "Stickers, headlines, sale signage."
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Heavy paper.",
+            "usage": "Backgrounds, cards, walls."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and illustrated charts",
+          "secondary": "GT Sectra Book for body and post-visit notes",
+          "rationale": "One family, two cuts. The display weight reads as woodblock; the book weight handles the parenting copy."
+        }
+      }
+    ]
+  }
+}

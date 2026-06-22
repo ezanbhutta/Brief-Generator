@@ -1,0 +1,332 @@
+{
+  "industry": "logistics",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "TEU & Co",
+        "tagline": "Container freight in the trade's universal unit.",
+        "brandNameRationale": "TEU \u2014 Twenty-foot Equivalent Unit, the universal capacity unit of container shipping, defined by the ISO 668 standard; every port, ship, and rate sheet in the world is denominated in TEU. Strongest of Agent A's three for modern: 'McLean Freight' is fine but reads as a generic surname (and slightly heritage); 'Ideal X Logistics' is specific but obscure. TEU is the actual trade-word every freight forwarder uses every day, instantly readable to anyone in shipping.",
+        "industrySummary": "Modern container brokerage in 2025+ serves shippers who used to use a forwarder and now want a digital interface. Flexport, Forto, and Beacon set the template. The opening is for a brand that talks rate, TEU, and lane in plain language.",
+        "competitorLandscape": "Flexport (flexport.com) holds the digital-forwarder peer position. Forto (forto.com) is the European equivalent. Beacon (beacon.io) sits in the visibility tier. Freightos (freightos.com) is the marketplace peer. We sit closer to Flexport, sharper on rate.",
+        "positioningStatement": "A digital container broker named for the trade's universal unit.",
+        "targetAudience": {
+          "primary": "Operations and supply-chain leads at 50-2000 person product companies. Books 20-2000 TEU/year. Wants real-time rates, one named contact, and a portal that shows the box on a map.",
+          "behaviors": [
+            "Books by lane, not by carrier",
+            "Tracks ETA by container number",
+            "Will switch forwarders over a single missed cutoff"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Specific",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with rate, lane, and TEU",
+            "Publish the cutoff and the ETA",
+            "Sign quotes by the named broker"
+          ],
+          "donts": [
+            "Use 'global logistics partner' copy",
+            "Photograph stylised ports at sunset",
+            "Run flash promotions"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 TEU & Co in a tight modern grotesk, all caps. The negative space inside the U is a tiny container-shape rectangle. The U-as-container alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Container Black",
+            "hex": "#101012",
+            "meaning": "The box at the port.",
+            "usage": "Wordmark, body type."
+          },
+          {
+            "name": "Cargo Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Bill of lading paper.",
+            "usage": "Backgrounds, packaging."
+          },
+          {
+            "name": "Stack Orange",
+            "hex": "#FF6A2A",
+            "meaning": "Single accent. The colour of a Hapag-Lloyd box.",
+            "usage": "CTAs, status pills, headlines."
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for container numbers and rates",
+          "rationale": "One family. The mono carries the unit data; the regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Hanseatic Freight House",
+        "tagline": "White-glove freight in the merchant-league tradition.",
+        "brandNameRationale": "The Hanseatic League \u2014 the medieval commercial confederation of north-German and Baltic merchant cities (L\u00fcbeck, Hamburg, Bremen, Bergen) that dominated European trade from the 12th to 17th centuries and codified maritime law. Strongest of Agent A's three for luxury: 'Lascaris & Co' is historically rich but obscure; 'Bill of Lading House' is too document-specific. Hanseatic is broadly recognisable, signals serious maritime heritage, and supports a premium white-glove positioning for fine-art and high-value freight.",
+        "industrySummary": "Luxury freight in 2025+ serves auction houses, fine-art dealers, fashion houses, and HNW individuals moving high-value goods. The category is dominated by Crozier, Atelier 4, and a few European specialists. The opening is for a brand with merchant-house heritage register.",
+        "competitorLandscape": "Crozier Fine Arts (crozierfinearts.com) holds the fine-art-logistics peer. Atelier 4 (atelier4.com) sits at the same tier. Constantine Group (constantine.co.uk) is the UK heritage peer. Hasenkamp (hasenkamp.com) does the German equivalent. We sit smaller, more discreet.",
+        "positioningStatement": "A white-glove freight house in the Hanseatic merchant tradition.",
+        "targetAudience": {
+          "primary": "Auction-house operations directors, fashion-house logistics leads, private collectors with multi-residence shipping needs. They book by call, expect named handlers, and pay against itemised certificates.",
+          "behaviors": [
+            "Schedules every consignment with a named handler",
+            "Pays against itemised paperwork",
+            "Expects continuity of relationship over years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Refined",
+          "Heritage",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname",
+            "Send paper consignment notes",
+            "Name the handler on every shipment"
+          ],
+          "donts": [
+            "Publish rates",
+            "Run digital advertising",
+            "Use 'logistics solutions' language"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with a small embossed cog-and-anchor seal \u2014 the Hanseatic merchant mark \u2014 used on the consignment note, the wax seal, and the brass door plate.",
+        "colorPalette": [
+          {
+            "name": "Hanse Blue",
+            "hex": "#1F2A4A",
+            "meaning": "The Baltic at dawn, the merchant-league livery.",
+            "usage": "Wordmark, primary."
+          },
+          {
+            "name": "Ledger Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid merchant paper.",
+            "usage": "Stationery, consignment notes."
+          },
+          {
+            "name": "Seal Gold",
+            "hex": "#A6843D",
+            "meaning": "The merchant seal.",
+            "usage": "Foil, embossing, accents."
+          },
+          {
+            "name": "Cargo Brown",
+            "hex": "#5A3E20",
+            "meaning": "Worn leather, sealed crate.",
+            "usage": "Body type, secondary."
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "S\u00f6hne for the secure client portal",
+          "rationale": "A high-contrast classical serif carries the merchant-house weight; the grotesk handles digital."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Bay 7",
+        "tagline": "A small 3PL. By the dock.",
+        "brandNameRationale": "The numbered loading dock \u2014 the universal physical unit of warehouse and cross-dock operations; 'Bay 7' is the kind of address a freight dispatcher actually uses. Strongest of Agent A's three for minimal: 'Hub' is good but generic, 'Long Haul' is fine but US-only register. Bay 7 has the specificity of a real address \u2014 it reads as a working warehouse, not a brand.",
+        "industrySummary": "Minimal 3PL serves DTC brands and small importers who don't need a national network \u2014 they need one warehouse that picks accurately and ships same-day. The opening is for a brand that names its dock.",
+        "competitorLandscape": "ShipBob (shipbob.com) holds the DTC-3PL peer. Shippo (goshippo.com) is the multi-carrier rate peer. Easyship (easyship.com) sits in the cross-border tier. ShipMonk (shipmonk.com) does the volume DTC slot. We sit smaller, single-dock.",
+        "positioningStatement": "A single-dock 3PL. Same-day pick. One named contact.",
+        "targetAudience": {
+          "primary": "DTC operations leads at 10-100 person brands shipping 50-5000 orders/day. They want one warehouse, one carrier mix, and one person who answers the phone.",
+          "behaviors": [
+            "Books the warehouse tour before signing",
+            "Wants daily pick-rate emailed",
+            "Will switch 3PLs over a missed cutoff"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Operational",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the cutoff time on the home page",
+            "Confirm orders by SKU and dock",
+            "Email the daily pick rate"
+          ],
+          "donts": [
+            "Use 'global logistics partner' copy",
+            "Promote scale",
+            "Run referral programs"
+          ]
+        },
+        "logoDirection": "A wordmark only. BAY 7 in a single-weight grotesk, with the 7 set as the dispatch numeral on a loading-bay sign. The numeral alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Dock Black",
+            "hex": "#181818",
+            "meaning": "Asphalt at the dock.",
+            "usage": "Wordmark, body."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Picking-slip paper.",
+            "usage": "Backgrounds, packaging."
+          },
+          {
+            "name": "Bay Yellow",
+            "hex": "#F2C200",
+            "meaning": "Dock-line paint.",
+            "usage": "The numeral, CTAs, status pills."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Neue Haas Grotesk Mono for tracking numbers",
+          "rationale": "One face. The mono carries the SKU and tracking; the regular carries the brand."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Memphis Hub Logistics",
+        "tagline": "Air-freight integration from the founding hub city.",
+        "brandNameRationale": "Memphis, Tennessee \u2014 chosen by Fred Smith in 1973 as the FedEx superhub because of its central US location, mild weather, and underused airport; now the world's second-busiest cargo airport. Strongest of Agent A's three for corporate: 'Hapag Forwarding Group' has German maritime weight but reads less broadly to procurement; 'Lloyd's Register Freight' has trademark risk that Agent A flagged. Memphis Hub is the actual hub of global air-freight, broadly recognisable, no trademark exposure.",
+        "industrySummary": "Corporate air-freight integration in 2025+ is dominated by FedEx, UPS, DHL, and a handful of regional players. The opening is for a mid-tier integrator with hub discipline serving e-commerce, pharma cold-chain, and aerospace AOG.",
+        "competitorLandscape": "FedEx (fedex.com) holds the founding peer. UPS (ups.com) sits at the same tier. DHL Express (dhl.com) is the international peer. Atlas Air (atlasair.com) does the wide-body cargo middle. We sit smaller, mid-market.",
+        "positioningStatement": "A mid-tier air-freight integrator built on the original hub model.",
+        "targetAudience": {
+          "primary": "Supply-chain directors at e-commerce, pharma, and aerospace companies. They contract by lane and by time-definite product, and they care about on-time-delivery KPIs more than rate.",
+          "behaviors": [
+            "Books by time-definite product",
+            "Reviews OTP scorecard quarterly",
+            "Renews on multi-year contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Operational",
+          "Professional",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with on-time-delivery and lane capacity",
+            "Speak the language of supply-chain procurement",
+            "Publish quarterly OTP scorecards"
+          ],
+          "donts": [
+            "Use consumer e-commerce language",
+            "Promote individual shipments on social",
+            "Run flash sales"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left \u2014 three radiating lines from a single point, suggesting the hub-and-spoke network. Reads cleanly on aircraft livery, uniforms, and procurement decks.",
+        "colorPalette": [
+          {
+            "name": "Tarmac Navy",
+            "hex": "#102236",
+            "meaning": "Night ramp, the cargo aircraft livery.",
+            "usage": "Logo, primary surfaces."
+          },
+          {
+            "name": "Hub White",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper."
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body text, dividers."
+          },
+          {
+            "name": "Beacon Orange",
+            "hex": "#FF6A2A",
+            "meaning": "Ramp-marshal flag colour.",
+            "usage": "CTAs, status pills, hover states."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for digital and procurement decks",
+          "secondary": "Source Serif Pro for printed scorecards and SLAs",
+          "rationale": "Inter scales clean; the serif handles printed quarterly business reviews."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Manifest",
+        "tagline": "The document that makes cargo real.",
+        "brandNameRationale": "The cargo manifest \u2014 the master list of everything on board a ship or aircraft, required by customs authorities worldwide; the single document that summons a load into existence. Strongest of Agent A's three for creative: 'Last Mile Studio' is good but the phrase is overused in logistics; 'Bonded Warehouse Co' is specific but niche. Manifest has a double meaning (the document; the verb 'to make real') that gives the brand creative depth, and it's the one piece of paperwork every freight nerd recognises.",
+        "industrySummary": "Creative freight-tech brands in 2025+ are a small but growing category \u2014 Project44, Flexport, and Loadsmart all do parts of the visibility/orchestration story. The opening is for a creative D2C/DTC freight brand that treats every shipment like a small editorial moment.",
+        "competitorLandscape": "Project44 (project44.com) holds the visibility-platform peer. Convoy's collapse left a brand gap. Loadsmart (loadsmart.com) sits in the modern brokerage middle. Sennder (sennder.com) is the European peer. We sit warmer, more design-led.",
+        "positioningStatement": "A freight-tech brand for shippers who want every load to tell its own story.",
+        "targetAudience": {
+          "primary": "Operations and brand leads at DTC and specialty-product brands. They care about the unboxing as much as the delivery, and they want the freight provider to participate in the brand.",
+          "behaviors": [
+            "Photographs every shipment",
+            "Wants the carrier branded on the LTL slip",
+            "Will pay a premium for the right paperwork design"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Crafted",
+          "Specific",
+          "Curious"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Design the bill of lading like a magazine spread",
+            "Publish the manifest as a weekly newsletter",
+            "Name every lane after a place"
+          ],
+          "donts": [
+            "Use 'global logistics partner' copy",
+            "Photograph stylised ports",
+            "Run rate promotions"
+          ]
+        },
+        "logoDirection": "A wordmark in a chunky display serif. The S of MANIFEST is set with a small ship-prow flourish. A standalone prow icon for stickers, social, and the LTL slip stamp.",
+        "colorPalette": [
+          {
+            "name": "Manifest Black",
+            "hex": "#1A1A1A",
+            "meaning": "Letterpress ink, the document stamp.",
+            "usage": "Wordmark, body."
+          },
+          {
+            "name": "Ledger Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Heavy paper.",
+            "usage": "Backgrounds, slips, cards."
+          },
+          {
+            "name": "Bond Red",
+            "hex": "#A8313F",
+            "meaning": "Customs stamp, single accent.",
+            "usage": "Stamp marks, CTAs, headlines."
+          },
+          {
+            "name": "Sea Green",
+            "hex": "#3D4D2F",
+            "meaning": "The cargo-hold light.",
+            "usage": "Secondary surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and newsletter",
+          "secondary": "GT America Mono for waybill data",
+          "rationale": "The serif reads as printed document; the mono carries the cargo data."
+        }
+      }
+    ]
+  }
+}
