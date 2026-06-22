@@ -100,6 +100,11 @@ export const INDUSTRIES: IndustryEntry[] = [
   { key: "shaving", label: "Shaving & Men's Grooming", aliases: ["shaving", "shave", "razor", "wet shaving", "barber", "men's grooming", "shaving brand"] },
   { key: "printing", label: "Printing & Letterpress", aliases: ["printing", "letterpress", "print shop", "printmaking", "fine printing", "offset", "screen printing"] },
   { key: "carpet", label: "Carpets & Rugs", aliases: ["carpet", "rug", "rugs", "carpet shop", "rug maker", "kilim", "persian rug"] },
+  { key: "dermatology", label: "Dermatology & Skin Clinics", aliases: ["dermatology", "dermatologist", "skin clinic", "dermatology practice", "skin doctor"] },
+  { key: "candles", label: "Candles & Home Fragrance", aliases: ["candles", "candle", "candlemaker", "scented candles", "soy candle", "home fragrance"] },
+  { key: "pottery", label: "Pottery & Ceramics", aliases: ["pottery", "ceramics", "ceramic studio", "potter", "ceramic artist", "stoneware"] },
+  { key: "butcher", label: "Butcher & Charcuterie", aliases: ["butcher", "butchery", "butcher shop", "charcuterie", "meat shop", "whole-animal butcher"] },
+  { key: "gardening", label: "Gardening & Landscape", aliases: ["gardening", "garden", "landscape", "gardener", "landscape design", "garden design"] },
 ];
 
 export const INDUSTRY_KEYS = INDUSTRIES.map((i) => i.key);

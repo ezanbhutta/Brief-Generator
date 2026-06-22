@@ -1,0 +1,915 @@
+{
+  "industry": "dermatology",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Fitzpatrick & Co.",
+        "tagline": "Skin type, properly read.",
+        "brandNameRationale": "Anchor: the Fitzpatrick skin-type scale (Thomas B. Fitzpatrick, Harvard, 1975), the unregistered scientific eponym that organizes dermatology around inclusive skin-type-aware care. Picked from A's three as the strongest modern anchor — names the discipline's own classification system.",
+        "industrySummary": "Modern derm has bifurcated: cosmetic-led med-spa clinics and insurance-led general derm. The opening is a modern medical derm practice built around inclusive, skin-type-aware care, not laser packages.",
+        "competitorLandscape": "Forward Dermatology (forwarddermatology.com) plays the modern general-derm peer. One Medical's derm (onemedical.com) holds the membership-clinic middle. Curology (curology.com) is the DTC reference. We sit alongside Forward with a sharper skin-type frame.",
+        "positioningStatement": "Fitzpatrick & Co. is a modern dermatology practice organized around inclusive, skin-type-aware diagnosis and treatment.",
+        "targetAudience": {
+          "primary": "Patients 25–55 across skin types I–VI, mixed cosmetic and medical concerns.",
+          "behaviors": [
+            "Book annual skin checks",
+            "Ask which protocol works for their skin type",
+            "Read the chart notes after the visit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Inclusive",
+          "Evidence-led",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the skin type on the chart",
+            "Show treatment options by type",
+            "Print the protocol plainly"
+          ],
+          "donts": [
+            "Use 'flawless' as a category",
+            "Photograph one skin type only",
+            "Hide which lasers are safe for which type"
+          ]
+        },
+        "logoDirection": "Wordmark: FITZPATRICK & CO. in a precise modern grotesk, one line. A small mark — a six-square skin-type gradient swatch — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Chart Ink",
+            "hex": "#161618",
+            "meaning": "Chart note ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F2ECDB",
+            "meaning": "Chart paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Clinic Coral",
+            "hex": "#D8716A",
+            "meaning": "Inflammation marker.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for chart labels and dosing",
+          "rationale": "A modern grotesk plus a mono — the chart-note register."
+        }
+      },
+      {
+        "brandName": "Willan Skin Co.",
+        "tagline": "Evidence-led skin care.",
+        "brandNameRationale": "Anchor: Robert Willan (1757–1812), author of On Cutaneous Diseases (1808) and the founder of British dermatology. A founder-name anchor with deep public-domain provenance.",
+        "industrySummary": "Founder-named modern derm clinics — Forward, Heyday, Curology — have built the category. There is room for a quietly literate founder-named practice that nods to the discipline's actual origin.",
+        "competitorLandscape": "Forward Dermatology (forwarddermatology.com) plays the modern peer. Heyday (heydayskincare.com) holds the membership-facial middle. Curology (curology.com) is the DTC reference. We sit alongside Forward with a sharper founder story.",
+        "positioningStatement": "Willan Skin Co. is a modern dermatology clinic that takes its name and method from the founder of British dermatology.",
+        "targetAudience": {
+          "primary": "Patients 28–55 wanting a clinical, evidence-led modern practice.",
+          "behaviors": [
+            "Book annual skin checks",
+            "Read the doctor's notes",
+            "Care about the citation behind the protocol"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evidence-led",
+          "Modern",
+          "Quietly literate",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the protocol",
+            "Name the active and the percentage",
+            "Show the chart, not the model"
+          ],
+          "donts": [
+            "Use 'glow' as a category",
+            "Photograph against marble",
+            "Hide the price list"
+          ]
+        },
+        "logoDirection": "Wordmark: WILLAN SKIN CO. in a quiet modern grotesk, two lines. A small mark — a single hand-drawn cutis cross-section — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Chart Ink",
+            "hex": "#141416",
+            "meaning": "Chart ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Chart paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Clinic Teal",
+            "hex": "#3C6E6A",
+            "meaning": "Clinic gown.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and patient letters",
+          "rationale": "A quiet grotesk and a reading serif — the clinical-letter register."
+        }
+      },
+      {
+        "brandName": "Cutis Clinic",
+        "tagline": "The skin, named plainly.",
+        "brandNameRationale": "Anchor: cutis — the Latin word for skin, used by Willan in On Cutaneous Diseases as the discipline's foundational term. Counter-proposal: a third modern slot that keeps the founder reference without the surname, so the brand reads as a discipline-named practice.",
+        "industrySummary": "Single-word Latin-anatomy names — Stratum, Cutis — read as quietly modern in derm. There's a real opening for a literal-discipline modern practice.",
+        "competitorLandscape": "Forward Dermatology (forwarddermatology.com) plays the modern peer. Schweiger Dermatology (schweigerderm.com) holds the multi-site middle. MDacne (mdacne.com) is the DTC reference. We sit as a literally-named modern clinic.",
+        "positioningStatement": "Cutis Clinic is a modern dermatology practice named for the discipline's own foundational term — the skin itself.",
+        "targetAudience": {
+          "primary": "Patients 28–50 wanting a literally-named, clinical-feeling modern derm.",
+          "behaviors": [
+            "Read the chart notes",
+            "Ask the doctor by name",
+            "Care about the active percentages"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Clinical",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the active and the percentage",
+            "Print the chart plainly",
+            "Show the room, not the model"
+          ],
+          "donts": [
+            "Use 'radiance' as a category",
+            "Photograph against pastel",
+            "Hide the doctor's name"
+          ]
+        },
+        "logoDirection": "Wordmark: CUTIS CLINIC in a modern grotesk, one line. A small mark — a single dotted skin-layer line — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Cutis Cream",
+            "hex": "#F2ECDC",
+            "meaning": "Skin tone neutral.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Chart Ink",
+            "hex": "#151517",
+            "meaning": "Chart ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Slide Pink",
+            "hex": "#D78A8A",
+            "meaning": "Histology slide.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the literal-modern clinic register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Vienna Skin Atelier",
+        "tagline": "The Vienna School, restored.",
+        "brandNameRationale": "Anchor: the Vienna School of Dermatology (Ferdinand von Hebra, Moriz Kaposi, 19th c.), which set the global standard for clinical derm. Picked from A's three — Hôtel Dermatologique feels gimmicky and Maison Willan competes with Modern's Willan pick.",
+        "industrySummary": "Top-end derm sits in two registers: cosmetic concierge clinics (Dr. Barbara Sturm) and medical luxury practices (Dr. Howard Sobel). The opening is an old-world prestige practice that anchors on the Vienna School.",
+        "competitorLandscape": "Dr. Barbara Sturm (drsturm.com) plays the concierge cosmetic peer. Dr. Howard Sobel (sobelskin.com) holds the medical-luxury middle. Lanserhof (lanserhof.com) is the European wellness-clinic reference. We sit as a Vienna-School-rooted luxury practice.",
+        "positioningStatement": "Vienna Skin Atelier is a concierge dermatology atelier rooted in the Vienna School clinical tradition.",
+        "targetAudience": {
+          "primary": "UHNW patients 35–65 in major metros wanting old-world clinical luxury.",
+          "behaviors": [
+            "Book the founder by name",
+            "Travel for treatment",
+            "Pay out-of-pocket without a quote"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Clinical",
+          "Quietly European",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the Vienna School",
+            "Print the protocol on cream stock",
+            "Address patients by surname"
+          ],
+          "donts": [
+            "Run public marketing",
+            "Photograph the patient",
+            "Use 'glow' anywhere"
+          ]
+        },
+        "logoDirection": "Wordmark: VIENNA SKIN ATELIER in a refined European serif, three lines centered. A small mark — a single 19th-century anatomical-plate skin-layer line — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Atelier Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Plate paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Vienna Green",
+            "hex": "#2F4A3A",
+            "meaning": "Clinic-room green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Plate Ink",
+            "hex": "#141417",
+            "meaning": "Engraving.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and patient correspondence",
+          "rationale": "A high-contrast serif plus a reading serif — the Vienna-clinic register."
+        }
+      },
+      {
+        "brandName": "Maison Willan",
+        "tagline": "Concierge dermatology, properly held.",
+        "brandNameRationale": "Anchor: Robert Willan reframed as a maison — the French commercial-house convention applied to British derm's founder. Picked from A's three for the cleanest founder-named luxury anchor.",
+        "industrySummary": "Concierge dermatology serves the UHNW market with annual retainers, full-service care, and named physicians. The brand sits at the top of the medical-luxury tier.",
+        "competitorLandscape": "Dr. Barbara Sturm (drsturm.com) plays the concierge peer. Dr. Howard Sobel (sobelskin.com) holds the medical-luxury middle. Dr. Lara Devgan (laradevganmd.com) is the New York reference. We sit alongside Sturm with a founder-named heritage frame.",
+        "positioningStatement": "Maison Willan is a concierge dermatology house for annual-retainer patients in major metros.",
+        "targetAudience": {
+          "primary": "UHNW patients 35–65 on annual retainer.",
+          "behaviors": [
+            "Sign annual retainers",
+            "Travel for the named physician",
+            "Carry the maison's printed protocol card"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Discreet",
+          "Quietly clinical",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address patients by surname",
+            "Print the protocol on cream stock",
+            "Speak in the language of the practice"
+          ],
+          "donts": [
+            "Photograph the patient",
+            "Run public marketing",
+            "Use 'wellness' vocabulary"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON WILLAN in a refined didone, two lines centered. A small mark — a hand-drawn Willan-era anatomical detail — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Maison Cream",
+            "hex": "#F0EAD2",
+            "meaning": "Letterhead stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Doorplate.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Print Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and patient correspondence",
+          "rationale": "A high-contrast didone plus a reading serif — the maison-clinic register."
+        }
+      },
+      {
+        "brandName": "Bazin Dermatologie",
+        "tagline": "Heritage Paris dermatology.",
+        "brandNameRationale": "Anchor: Pierre-Antoine-Ernest Bazin (1807–1878), the Hôpital Saint-Louis dermatologist who founded the French clinical-derm tradition. Counter-proposal third luxury option — Hôpital Saint-Louis is the Paris derm cradle (founded 1801) and Bazin is its archetypal physician. Cleaner than 'Hôtel Dermatologique' which reads as a med-spa.",
+        "industrySummary": "French dermatology has its own school — Bazin, Besnier, Hôpital Saint-Louis — that the Paris luxury skin tradition still draws on. There is room for a quietly Parisian luxury derm rooted in that lineage.",
+        "competitorLandscape": "Dr. Barbara Sturm (drsturm.com) plays the concierge peer. Biologique Recherche (biologique-recherche.com) holds the Parisian skin-clinic middle. La Prairie (laprairie.com) is the luxury reference. We sit as a Paris-derm luxury clinic.",
+        "positioningStatement": "Bazin Dermatologie is a Parisian luxury dermatology practice rooted in the Hôpital Saint-Louis tradition.",
+        "targetAudience": {
+          "primary": "UHNW patients 35–65 wanting Paris-tradition luxury derm.",
+          "behaviors": [
+            "Travel to Paris for treatment",
+            "Carry the printed protocol",
+            "Reference Saint-Louis by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Parisian",
+          "Pedigreed",
+          "Discreet",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the Saint-Louis tradition",
+            "Print the protocol on cream stock",
+            "Address patients in formal French register"
+          ],
+          "donts": [
+            "Photograph the patient",
+            "Run influencer campaigns",
+            "Use 'glow' anywhere"
+          ]
+        },
+        "logoDirection": "Wordmark: BAZIN DERMATOLOGIE in a refined French didone, two lines. A small mark — a Saint-Louis-courtyard arch silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Saint-Louis Cream",
+            "hex": "#F1EAD0",
+            "meaning": "Hospital stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Courtyard Brick",
+            "hex": "#A45A48",
+            "meaning": "Saint-Louis brick.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Plate Ink",
+            "hex": "#131316",
+            "meaning": "Engraving.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and patient correspondence",
+          "rationale": "A French-didone plus a reading serif — the Paris-clinic register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Stratum",
+        "tagline": "The layer, named.",
+        "brandNameRationale": "Anchor: stratum corneum — the Latin anatomy of the skin's outermost layer. Single-word, clinically literal, archaic. Picked from A's three as the strongest minimal anchor (Willan. duplicates Modern; Skin Practice is descriptive and TM-risky).",
+        "industrySummary": "Single-word minimal derm brands — Curology, Heyday — have shown the category works. Stratum sits as a literal-anatomy clinic name with a cleaner clinical register.",
+        "competitorLandscape": "Curology (curology.com) plays the DTC peer. Heyday (heydayskincare.com) holds the membership-facial middle. Dieux Skin (dieuxskin.com) is the minimal-skincare reference. We sit as a literal-anatomy minimal clinic.",
+        "positioningStatement": "Stratum is a minimal dermatology clinic named for the skin's outermost layer.",
+        "targetAudience": {
+          "primary": "Patients 25–45 wanting a quiet, literal, clinical minimal clinic.",
+          "behaviors": [
+            "Book the same doctor each visit",
+            "Read the active percentage",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Clinical",
+          "Modern",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the active and the percentage",
+            "Show the room empty",
+            "Print plainly"
+          ],
+          "donts": [
+            "Use 'glow' anywhere",
+            "Photograph against marble",
+            "Sell lifestyle bundles"
+          ]
+        },
+        "logoDirection": "Wordmark: STRATUM set large in a clean modern sans, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Stratum Cream",
+            "hex": "#F2ECDC",
+            "meaning": "Skin neutral.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Layer Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Slide Pink",
+            "hex": "#D78A88",
+            "meaning": "Histology slide.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for chart labels",
+          "rationale": "One family, two registers — the minimal-clinic chart register."
+        }
+      },
+      {
+        "brandName": "Willan.",
+        "tagline": "Skin, by Willan.",
+        "brandNameRationale": "Anchor: Robert Willan, stripped to a single word with a closing period as the mark. Lowercase, archive-style. Picked from A's three for the cleanest minimal founder-name anchor.",
+        "industrySummary": "One-name minimal practices — Curology, Heyday — sit in a real space in derm. Willan. as a single-word, period-as-logo brand is a clean minimal entry.",
+        "competitorLandscape": "Curology (curology.com) plays the DTC peer. Heyday (heydayskincare.com) holds the membership middle. Dieux Skin (dieuxskin.com) is the minimal-skincare reference. We sit as a founder-name minimal clinic.",
+        "positioningStatement": "Willan. is a minimal dermatology practice named for the founder of British dermatology.",
+        "targetAudience": {
+          "primary": "Patients 28–50 wanting a quietly-named, clinical minimal clinic.",
+          "behaviors": [
+            "Book the same doctor each visit",
+            "Read the chart notes",
+            "Skip cosmetic upsells"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Clinical",
+          "Quietly literate",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the active and the percentage",
+            "Sign correspondence by the doctor",
+            "Print plainly"
+          ],
+          "donts": [
+            "Use 'flawless' anywhere",
+            "Photograph the patient",
+            "Sell lifestyle packages"
+          ]
+        },
+        "logoDirection": "Wordmark: willan. set in a quiet humanist sans, lowercase, with the period as the only mark. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F2EDDC",
+            "meaning": "Chart paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#151517",
+            "meaning": "Chart ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Clinic Sage",
+            "hex": "#7C9085",
+            "meaning": "Clinic gown.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for chart notes",
+          "rationale": "One family, two registers — the founder-minimal clinic register."
+        }
+      },
+      {
+        "brandName": "Derma",
+        "tagline": "Skin, plainly.",
+        "brandNameRationale": "Anchor: derma — the Greek root the discipline itself is named for. Single-word, the most foundational possible anchor. Counter-proposal third minimal option (rejecting Skin Practice as descriptive/TM-risky).",
+        "industrySummary": "Single-word category-name brands sit cleanly in minimal derm. Derma names the root that gives the discipline its name.",
+        "competitorLandscape": "Curology (curology.com) plays the DTC peer. Heyday (heydayskincare.com) holds the membership middle. Skinceuticals (skinceuticals.com) is the discipline-named reference. We sit as a root-word minimal clinic.",
+        "positioningStatement": "Derma is a minimal dermatology clinic named for the root the discipline takes its name from.",
+        "targetAudience": {
+          "primary": "Patients 25–45 wanting a root-named, clinical minimal clinic.",
+          "behaviors": [
+            "Book quickly online",
+            "Read the chart notes",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Clinical",
+          "Plain",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the active plainly",
+            "Show the room empty",
+            "Print plainly"
+          ],
+          "donts": [
+            "Use 'glow' anywhere",
+            "Photograph against marble",
+            "Bundle lifestyle products"
+          ]
+        },
+        "logoDirection": "Wordmark: DERMA in a clean modern sans, one word, five letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Page",
+            "hex": "#F2ECDB",
+            "meaning": "Chart paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Slide Pink",
+            "hex": "#D58787",
+            "meaning": "Histology slide.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the root-word minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Linnaean Dermatology",
+        "tagline": "Classification, applied to the skin.",
+        "brandNameRationale": "Anchor: Carl Linnaeus's binomial taxonomy, applied to early dermatologic classification (Willan's 1808 morphologic scheme borrowed directly from Linnaean method). Picked from A's three for the strongest research-corporate anchor.",
+        "industrySummary": "Corporate derm is dominated by PE-backed rollups (US Dermatology Partners, Schweiger). The opening is a research-forward corporate derm with an academic medical center register.",
+        "competitorLandscape": "US Dermatology Partners (usdermatologypartners.com) plays the rollup peer. Schweiger Dermatology (schweigerderm.com) holds the multi-site middle. Forefront Dermatology (forefrontdermatology.com) is the reference. We sit as a research-forward corporate derm.",
+        "positioningStatement": "Linnaean Dermatology is a research-forward corporate derm group serving academic medical centers and multi-site practices.",
+        "targetAudience": {
+          "primary": "Hospital system leaders, multi-site derm leadership, and academic medical center chairs.",
+          "behaviors": [
+            "Sign multi-year operating contracts",
+            "Care about research participation",
+            "Issue institutional RFPs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Research-forward",
+          "Refined",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the research",
+            "Quote in plain English",
+            "Print quarterly operating reports"
+          ],
+          "donts": [
+            "Brand as a med-spa",
+            "Photograph the patient",
+            "Use 'glow' anywhere"
+          ]
+        },
+        "logoDirection": "Wordmark: LINNAEAN DERMATOLOGY in a refined research-grade serif, two lines. A small mark — a Linnaean-plate-style line drawing of skin-condition morphology — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Plate Cream",
+            "hex": "#F1EBD6",
+            "meaning": "Plate paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Research Green",
+            "hex": "#2F4A38",
+            "meaning": "Plate vegetation.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Print Ink",
+            "hex": "#141518",
+            "meaning": "Engraving.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the academic-medical-center register."
+        }
+      },
+      {
+        "brandName": "Hebra Health Partners",
+        "tagline": "Multi-site dermatology, operationally serious.",
+        "brandNameRationale": "Anchor: Ferdinand von Hebra, the Vienna School. Picked from A's three as the cleanest corporate-rollup naming pattern.",
+        "industrySummary": "PE-backed derm rollups are the dominant corporate model. The opening is a multi-site corporate derm with a Vienna-School heritage register that gives the operating brand quiet weight.",
+        "competitorLandscape": "US Dermatology Partners (usdermatologypartners.com) plays the rollup peer. Schweiger Dermatology (schweigerderm.com) holds the multi-site middle. Anne Arundel Dermatology (aadermatology.com) is the reference. We sit as an institutional multi-site derm.",
+        "positioningStatement": "Hebra Health Partners is a multi-site corporate dermatology group operating across regional markets.",
+        "targetAudience": {
+          "primary": "PE principals, hospital system leaders, and regional derm-group founders considering sale.",
+          "behaviors": [
+            "Negotiate multi-year operating terms",
+            "Review monthly P&L",
+            "Compare rollup operators"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in plain English",
+            "Print quarterly operating reports",
+            "Reference the Vienna-School heritage"
+          ],
+          "donts": [
+            "Brand as a med-spa",
+            "Photograph the patient",
+            "Use consumer-wellness vocabulary"
+          ]
+        },
+        "logoDirection": "Wordmark: HEBRA HEALTH PARTNERS in a clean institutional serif, two lines. A small mark — a serif H monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Director's Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the rollup-operator register."
+        }
+      },
+      {
+        "brandName": "Willan Dermatology Group",
+        "tagline": "Multi-site medical dermatology.",
+        "brandNameRationale": "Anchor: Willan. Picked from A's three as the cleanest founder-named corporate naming pattern.",
+        "industrySummary": "Multi-site corporate derm — payer-facing, multi-MD, formal — is the dominant corporate format. The opening is a founder-named institutional group with a quiet heritage register.",
+        "competitorLandscape": "Schweiger Dermatology (schweigerderm.com) plays the multi-site peer. US Dermatology Partners (usdermatologypartners.com) holds the rollup middle. Anne Arundel Dermatology (aadermatology.com) is the regional reference. We sit alongside Schweiger with a founder-named heritage frame.",
+        "positioningStatement": "Willan Dermatology Group is a multi-site medical dermatology group operating across regional markets.",
+        "targetAudience": {
+          "primary": "Payers, regional health system leaders, and multi-MD derm groups considering merger.",
+          "behaviors": [
+            "Negotiate payer contracts",
+            "Review quarterly operating reports",
+            "Care about MD retention"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Formal",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the operating record",
+            "Quote in plain English",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a med-spa",
+            "Photograph the patient",
+            "Use consumer-wellness vocabulary"
+          ]
+        },
+        "logoDirection": "Wordmark: WILLAN above, DERMATOLOGY GROUP below, in a confident institutional serif. A small W monogram used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Group Navy",
+            "hex": "#11243A",
+            "meaning": "Boardroom.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Clinic Sage",
+            "hex": "#6B8579",
+            "meaning": "Clinic gown.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Söhne for body and operating reports",
+          "rationale": "A classical serif plus a clean grotesk — the institutional-medical-group register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Cutis & Co.",
+        "tagline": "Skin, properly written about.",
+        "brandNameRationale": "Anchor: cutis — the Latin word Willan used in On Cutaneous Diseases. Picked from A's three for the strongest playful-clinical creative anchor.",
+        "industrySummary": "Editorial-clinical derm — a clinic that publishes — sits in a small but real creative space. There's room for a brand that reads like a small magazine about skin.",
+        "competitorLandscape": "Dieux Skin (dieuxskin.com) plays the editorial peer. Heyday (heydayskincare.com) holds the membership middle. Topicals (topicals.com) is the editorial reference. We sit as an editorial-clinical creative brand.",
+        "positioningStatement": "Cutis & Co. is an editorial dermatology practice that publishes as much as it prescribes.",
+        "targetAudience": {
+          "primary": "Patients 25–45 who follow skincare editorial.",
+          "behaviors": [
+            "Read the clinic journal",
+            "Care about the active percentage",
+            "Share the protocol card"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Clinical",
+          "Playful",
+          "Quietly literate"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the active and the percentage",
+            "Print the journal seasonally",
+            "Cite the source"
+          ],
+          "donts": [
+            "Use 'glow' as a category",
+            "Photograph against pastel",
+            "Hide the citation"
+          ]
+        },
+        "logoDirection": "Wordmark: CUTIS & CO. in a confident editorial serif, one line. A small mark — a single hand-drawn anatomical-plate skin section — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Plate Ink",
+            "hex": "#141416",
+            "meaning": "Engraving.",
+            "usage": "Body"
+          },
+          {
+            "name": "Slide Pink",
+            "hex": "#D88788",
+            "meaning": "Histology slide.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal copy",
+          "rationale": "A reading serif plus a quiet grotesk — the editorial-clinic register."
+        }
+      },
+      {
+        "brandName": "The Skin School",
+        "tagline": "The discipline, taught.",
+        "brandNameRationale": "Anchor: the Vienna Skin School (Hebra, Kaposi). Picked from A's three for the strongest education-forward creative anchor.",
+        "industrySummary": "Education-forward derm brands — content-led, podcast-adjacent — are a small creative tier. The opening is a clinic that teaches the public the discipline.",
+        "competitorLandscape": "Dr. Shereene Idriss (idrissderm.com) plays the content-derm peer. Topicals (topicals.com) holds the editorial middle. Hyram (hyram.com) is the education-derm reference. We sit as a teaching-clinic creative brand.",
+        "positioningStatement": "The Skin School is an education-forward dermatology brand — a clinic, a podcast, and a curriculum.",
+        "targetAudience": {
+          "primary": "Skincare-literate patients 22–40 who follow derm content.",
+          "behaviors": [
+            "Listen to the clinic podcast",
+            "Read the lesson notes",
+            "Care about active percentages"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Educational",
+          "Playful",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Teach the lesson plainly",
+            "Cite the source",
+            "Show the slide"
+          ],
+          "donts": [
+            "Use 'glow' as a category",
+            "Bundle lifestyle products",
+            "Hide the citation"
+          ]
+        },
+        "logoDirection": "Wordmark: THE SKIN SCHOOL in a confident editorial serif, three lines centered. A small mark — a Vienna-School-style classroom slate — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A3340",
+            "meaning": "Classroom slate.",
+            "usage": "Body"
+          },
+          {
+            "name": "Chalk Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Chalk paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Coral",
+            "hex": "#D87168",
+            "meaning": "Lesson accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and lesson notes",
+          "rationale": "A reading serif plus a clean grotesk — the editorial-school register."
+        }
+      },
+      {
+        "brandName": "Paper Skin Studio",
+        "tagline": "Editorial dermatology.",
+        "brandNameRationale": "Anchor: the papyraceous (paper-like) descriptor in early dermatologic literature for thin, atrophic skin. Picked from A's three for the most editorial creative anchor.",
+        "industrySummary": "Editorial derm brands paired with photography — Topicals, Dieux — sit at the creative top of the category. There's room for a paper-named editorial clinic.",
+        "competitorLandscape": "Topicals (topicals.com) plays the editorial peer. Dieux Skin (dieuxskin.com) holds the editorial-clinic middle. Glossier (glossier.com) is the adjacent reference. We sit as an editorial creative-derm brand.",
+        "positioningStatement": "Paper Skin Studio is an editorial dermatology brand paired with original photography and a clinic.",
+        "targetAudience": {
+          "primary": "Editorial-literate patients 25–40 in major metros.",
+          "behaviors": [
+            "Follow the clinic editorial",
+            "Share the protocol card",
+            "Care about the photography"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Refined",
+          "Playful",
+          "Quietly clinical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the photography",
+            "Print the protocol card",
+            "Name the active plainly"
+          ],
+          "donts": [
+            "Use 'glow' as a category",
+            "Photograph against marble",
+            "Bundle lifestyle products"
+          ]
+        },
+        "logoDirection": "Wordmark: PAPER SKIN STUDIO in a quiet editorial serif, three lines. A small mark — a single folded-paper line drawing — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Paper",
+            "hex": "#F2ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Editorial Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          },
+          {
+            "name": "Slide Pink",
+            "hex": "#D78888",
+            "meaning": "Histology slide.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and editorial",
+          "rationale": "A high-contrast serif plus a reading serif — the editorial-derm register."
+        }
+      }
+    ]
+  }
+}

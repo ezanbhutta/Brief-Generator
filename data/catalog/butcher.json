@@ -1,0 +1,915 @@
+{
+  "industry": "butcher",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Smithfield & Son",
+        "tagline": "Heritage-market butchery.",
+        "brandNameRationale": "Anchor: Smithfield Market, London (chartered 1174, continuous meat market). Picked from A's three for the strongest heritage-market modern anchor. Note: Smithfield Foods is a US TM in foods; this brand is scoped to butcher-shop services and would need counsel review in US class.",
+        "industrySummary": "Modern butchers — Beast & Cleaver, Marrow — have grown a small craft niche. The opening is a heritage-market-named modern butcher with urban-shop format.",
+        "competitorLandscape": "Marrow (marrowto.com) plays the modern craft-butcher peer. Beast & Cleaver (beastandcleaver.com) holds the urban middle. Ginger Pig (thegingerpig.co.uk) is the heritage-market reference. We sit alongside The Ginger Pig with a sharper market frame.",
+        "positioningStatement": "Smithfield & Son is a modern urban butcher rooted in the Smithfield Market heritage.",
+        "targetAudience": {
+          "primary": "Home cooks 30–55 in cities buying for the week.",
+          "behaviors": [
+            "Buy whole cuts",
+            "Care about provenance",
+            "Ask the butcher by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Heritage",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the farm and the cut",
+            "Show the case plainly",
+            "Print the cuts board daily"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the farm"
+          ]
+        },
+        "logoDirection": "Wordmark: SMITHFIELD & SON in a tight modern grotesk, one line. A small mark — a single market-arch silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Block Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher block.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Market Black",
+            "hex": "#141416",
+            "meaning": "Apron ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Market Red",
+            "hex": "#A53528",
+            "meaning": "Beef cut.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for cut labels and prices",
+          "rationale": "A modern grotesk plus a mono — the cuts-board register."
+        }
+      },
+      {
+        "brandName": "The Rib Primal",
+        "tagline": "Whole-animal butchery.",
+        "brandNameRationale": "Anchor: the rib primal — one of the eight beef primals (trade-literate term). Picked from A's three for the strongest trade-literate modern anchor.",
+        "industrySummary": "Whole-animal butcher shops — a small craft tier — work in primal-cut vocabulary. The opening is a primal-named modern butcher.",
+        "competitorLandscape": "Marrow (marrowto.com) plays the modern craft-butcher peer. Beast & Cleaver (beastandcleaver.com) holds the urban middle. Belcampo (belcampo.com) is the whole-animal reference. We sit as a primal-named whole-animal butcher.",
+        "positioningStatement": "The Rib Primal is a modern whole-animal butcher trading in primal-cut vocabulary.",
+        "targetAudience": {
+          "primary": "Home cooks 30–55 who know primals.",
+          "behaviors": [
+            "Buy whole primals",
+            "Care about the farm and the breed",
+            "Ask the butcher by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Trade-literate",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the primal and the cut",
+            "Print the primal map",
+            "Show the whole animal weekly"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Sell pre-cut only"
+          ]
+        },
+        "logoDirection": "Wordmark: THE RIB PRIMAL in a tight modern grotesk, two lines. A small mark — a beef primal-map line drawing — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Block Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher block.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Market Red",
+            "hex": "#A53528",
+            "meaning": "Beef cut.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for cut labels",
+          "rationale": "A quiet grotesk plus a mono — the primal-map register."
+        }
+      },
+      {
+        "brandName": "Boucher & Co.",
+        "tagline": "Modern neighborhood butcher.",
+        "brandNameRationale": "Anchor: French boucher — the butcher trade. Picked from A's three for the cleanest French-leaning modern anchor.",
+        "industrySummary": "French-leaning modern butchers — small neighborhood shops with charcuterie — sit in a real craft niche. The opening is a boucher-named modern butcher.",
+        "competitorLandscape": "Marrow (marrowto.com) plays the modern craft-butcher peer. Beast & Cleaver (beastandcleaver.com) holds the urban middle. The Ginger Pig (thegingerpig.co.uk) is the heritage reference. We sit as a French-leaning modern butcher.",
+        "positioningStatement": "Boucher & Co. is a modern neighborhood butcher with a French-leaning charcuterie program.",
+        "targetAudience": {
+          "primary": "Home cooks 28–50 in cities.",
+          "behaviors": [
+            "Buy weekly",
+            "Care about charcuterie",
+            "Ask the butcher by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "French-leaning",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cut in French and English",
+            "Show the charcuterie case",
+            "Print the daily list"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the farm"
+          ]
+        },
+        "logoDirection": "Wordmark: BOUCHER & CO. in a quiet modern grotesk, one line. A small mark — a cleaver silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Block Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher block.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Charcuterie Red",
+            "hex": "#A53528",
+            "meaning": "Charcuterie.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter Mono for cut labels",
+          "rationale": "One family, two registers — the modern neighborhood register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Norcina",
+        "tagline": "Luxury salumi house.",
+        "brandNameRationale": "Anchor: Italian norcineria — the Norcia (Umbria) pork-butchery tradition since medieval times. Picked from A's three for the strongest salumi-luxury anchor.",
+        "industrySummary": "Luxury charcuterie houses — Salumeria Roscioli, La Quercia — sit at the top of the salumi market. The opening is a Norcia-rooted luxury salumi maison.",
+        "competitorLandscape": "Salumeria Roscioli (salumeriaroscioli.com) plays the luxury salumi peer. La Quercia (laquercia.us) holds the artisan-cured middle. Jamón Ibérico Cinco Jotas (cincojotas.com) is the heritage reference. We sit as a Norcia-rooted luxury maison.",
+        "positioningStatement": "Maison Norcina is a luxury salumi maison rooted in the Umbrian Norcia tradition.",
+        "targetAudience": {
+          "primary": "UHNW food buyers, top restaurants, and luxury food halls.",
+          "behaviors": [
+            "Order whole legs",
+            "Care about the curing time",
+            "Travel to Norcia"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Italian",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the curing months",
+            "Print the cellar protocol",
+            "Photograph the curing room"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON NORCINA in a refined Italian serif, two lines centered. A small mark — a single hand-drawn cured leg silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured-meat color.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the Italian-maison register."
+        }
+      },
+      {
+        "brandName": "Maître Boucher",
+        "tagline": "Master butcher, chef-facing.",
+        "brandNameRationale": "Anchor: maître boucher — the master butcher title from French guild tradition. Picked from A's three for the strongest French-guild luxury anchor.",
+        "industrySummary": "Chef-facing luxury butchers — DeBragga, Pat LaFrieda's top-tier — supply Michelin kitchens. The opening is a maître-boucher-named luxury butcher.",
+        "competitorLandscape": "Pat LaFrieda (lafrieda.com) plays the chef-facing peer. DeBragga (debragga.com) holds the luxury-butcher middle. Adam Perry Lang (adamperrylang.com) is the chef-butcher reference. We sit as a French-guild luxury butcher.",
+        "positioningStatement": "Maître Boucher is a chef-facing luxury whole-animal butcher in the French guild tradition.",
+        "targetAudience": {
+          "primary": "Michelin chefs, luxury restaurants, and UHNW home cooks.",
+          "behaviors": [
+            "Order whole animals",
+            "Care about the master butcher's cut",
+            "Pay full chef-program rates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "French-guild",
+          "Refined",
+          "Quietly clinical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the master and the cut",
+            "Print the chef-program protocol",
+            "Photograph the cut bench"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: MAÎTRE BOUCHER in a refined French serif, two lines centered. A small mark — a single cleaver silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Bench Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cut bench.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Charcuterie Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the French-guild register."
+        }
+      },
+      {
+        "brandName": "Smithfield Charcuterie",
+        "tagline": "London-rooted luxury charcuterie.",
+        "brandNameRationale": "Anchor: Smithfield Market, applied to luxury charcuterie. Picked from A's three for the strongest London-rooted luxury anchor.",
+        "industrySummary": "London-rooted luxury charcuterie — hotel and restaurant supply — sits in a real luxury tier. The opening is a Smithfield-anchored luxury charcuterie house.",
+        "competitorLandscape": "Tom Hixson of Smithfield (tomhixson.co.uk) plays the heritage Smithfield peer. The Ginger Pig (thegingerpig.co.uk) holds the heritage-market middle. Fortnum & Mason charcuterie (fortnumandmason.com) is the luxury reference. We sit alongside Tom Hixson with a sharper luxury frame.",
+        "positioningStatement": "Smithfield Charcuterie is a London-rooted luxury charcuterie house supplying hotels and top restaurants.",
+        "targetAudience": {
+          "primary": "Hotel F&B directors, luxury restaurants, and UHNW home cooks.",
+          "behaviors": [
+            "Order weekly programs",
+            "Care about the curing time",
+            "Sign annual contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "London",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference Smithfield by name",
+            "Print the cellar protocol",
+            "Photograph the curing room"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: SMITHFIELD CHARCUTERIE in a refined English serif, two lines centered. A small mark — a single market-arch silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Charcuterie Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Market Black",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A classical English serif plus a reading serif — the Smithfield register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Primal",
+        "tagline": "The cut, named.",
+        "brandNameRationale": "Anchor: the primal cut (industry term for the eight beef primals). Single-word, trade-honest. Picked from A's three for the cleanest minimal anchor.",
+        "industrySummary": "Single-word minimal butcher brands — Belcampo's spirit — leave room for a trade-named entry. Primal sits as the industry baseline.",
+        "competitorLandscape": "Belcampo (belcampo.com) plays the whole-animal peer. Porter Road (porterroad.com) holds the DTC middle. Crowd Cow (crowdcow.com) is the DTC reference. We sit as a trade-named minimal butcher.",
+        "positioningStatement": "Primal is a minimal whole-animal butcher named for the trade's basic cut unit.",
+        "targetAudience": {
+          "primary": "Home cooks 25–45 who know primals.",
+          "behaviors": [
+            "Buy whole primals",
+            "Care about the farm and breed",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Trade-honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the primal plainly",
+            "Show the cut on a plain board",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Sell pre-cut only"
+          ]
+        },
+        "logoDirection": "Wordmark: PRIMAL set large in a clean modern sans, one word, six letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Block Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher block.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Market Red",
+            "hex": "#A53528",
+            "meaning": "Beef cut.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for cut labels",
+          "rationale": "One family, two registers — the primal-minimal register."
+        }
+      },
+      {
+        "brandName": "Cut.",
+        "tagline": "The act.",
+        "brandNameRationale": "Anchor: the cut itself, the butcher's act. Single-word, period as logo. Picked from A's three for the cleanest minimal verb anchor.",
+        "industrySummary": "Verb-named minimal brands sit cleanly in butchery. Cut. names the basic act.",
+        "competitorLandscape": "Belcampo (belcampo.com) plays the whole-animal peer. Porter Road (porterroad.com) holds the DTC middle. Crowd Cow (crowdcow.com) is the DTC reference. We sit as a verb-named minimal butcher.",
+        "positioningStatement": "Cut. is a minimal whole-animal butcher named for the butcher's basic act.",
+        "targetAudience": {
+          "primary": "Home cooks 25–45.",
+          "behaviors": [
+            "Buy whole primals",
+            "Care about the cut",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cut plainly",
+            "Show the act on the board",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Sell pre-cut only"
+          ]
+        },
+        "logoDirection": "Wordmark: cut. set large in a clean humanist sans, lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Block Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher block.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Market Red",
+            "hex": "#A53528",
+            "meaning": "Beef cut.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for cut labels",
+          "rationale": "One family, two registers — the verb-minimal register."
+        }
+      },
+      {
+        "brandName": "Whole Animal",
+        "tagline": "The whole-animal movement.",
+        "brandNameRationale": "Anchor: the whole-animal butchery movement. Picked from A's three for the strongest movement-named minimal anchor.",
+        "industrySummary": "Movement-named minimal brands sit cleanly in butchery. Whole Animal names the ethic on the label.",
+        "competitorLandscape": "Belcampo (belcampo.com) plays the whole-animal peer. Porter Road (porterroad.com) holds the DTC middle. Marrow (marrowto.com) is the craft reference. We sit as a movement-named minimal butcher.",
+        "positioningStatement": "Whole Animal is a minimal butcher built on the whole-animal butchery ethic.",
+        "targetAudience": {
+          "primary": "Home cooks 25–45 who care about the whole-animal ethic.",
+          "behaviors": [
+            "Buy whole primals",
+            "Care about the ethic on the label",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Ethic-forward",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the ethic plainly",
+            "Show the whole animal weekly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Sell pre-cut only"
+          ]
+        },
+        "logoDirection": "Wordmark: WHOLE ANIMAL in a clean modern sans, two words stacked. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Block Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher block.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Market Red",
+            "hex": "#A53528",
+            "meaning": "Beef cut.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the movement-minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "The Butchers' Hall",
+        "tagline": "Chartered trade.",
+        "brandNameRationale": "Anchor: the Worshipful Company of Butchers (London livery, chartered 1605). Picked from A's three for the strongest corporate-guild anchor (Smithfield Meat Co. has US TM exposure with Smithfield Foods).",
+        "industrySummary": "Trade-association-flavored corporate butcher brands sit in a real institutional space. The opening is a chartered-guild corporate butcher.",
+        "competitorLandscape": "Aubrey Allen (aubreyallen.co.uk) plays the trade corporate peer. Tom Hixson of Smithfield (tomhixson.co.uk) holds the heritage middle. The Ginger Pig (thegingerpig.co.uk) is the heritage-market reference. We sit as a chartered-guild corporate brand.",
+        "positioningStatement": "The Butchers' Hall is a corporate butcher and charcuterie operator anchored on the Worshipful Company of Butchers heritage.",
+        "targetAudience": {
+          "primary": "Hotel F&B directors, luxury restaurants, and corporate gift programs.",
+          "behaviors": [
+            "Sign annual wholesale contracts",
+            "Care about case-pack consistency",
+            "Reference the guild charter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Institutional",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Reference the chartered guild",
+            "Print contracts plainly"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: THE BUTCHERS' HALL in a confident institutional serif, two lines. A small mark — a guild-shield silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Hall Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Guild Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Foil.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Inter for body and contracts",
+          "rationale": "A classical serif plus a clean grotesk — the chartered-guild register."
+        }
+      },
+      {
+        "brandName": "Norcina Group",
+        "tagline": "Salumi holding company.",
+        "brandNameRationale": "Anchor: norcineria (the Norcia tradition). Picked from A's three for the strongest salumi-corporate anchor.",
+        "industrySummary": "Salumi holding companies — multi-brand operators across cured-meat houses — sit at the top of the salumi-corporate market. The opening is a Norcia-anchored multi-brand operator.",
+        "competitorLandscape": "Cinco Jotas (cincojotas.com) plays the heritage salumi peer. La Quercia (laquercia.us) holds the artisan-cured middle. Citterio USA (citteriousa.com) is the multi-brand reference. We sit as a Norcia-anchored multi-brand operator.",
+        "positioningStatement": "Norcina Group is a multi-brand salumi corporate operator across cured-meat houses.",
+        "targetAudience": {
+          "primary": "Hospitality groups, luxury food halls, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about cellar-cycle consistency",
+            "Compare salumi vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Italian"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: NORCINA GROUP in a clean institutional serif, two lines. A small mark — a serif N monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the salumi-operator register."
+        }
+      },
+      {
+        "brandName": "Boucher Holdings",
+        "tagline": "Multi-brand butcher operator.",
+        "brandNameRationale": "Anchor: French boucher applied to a holding-company register. Counter-proposal third corporate option (rejecting Smithfield Meat Co. for Smithfield Foods US TM exposure).",
+        "industrySummary": "Multi-brand butcher holding companies — Pat LaFrieda's diversified operations, Aubrey Allen's institutional supply — sit in a real corporate tier. The opening is a boucher-anchored multi-brand operator.",
+        "competitorLandscape": "Pat LaFrieda (lafrieda.com) plays the multi-brand peer. Aubrey Allen (aubreyallen.co.uk) holds the institutional-supply middle. Sysco protein (sysco.com) is the multi-brand reference. We sit as a boucher-anchored multi-brand operator.",
+        "positioningStatement": "Boucher Holdings is a multi-brand butcher corporate operator for hospitality and institutional clients.",
+        "targetAudience": {
+          "primary": "Hotel F&B directors, luxury restaurants, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare protein vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: BOUCHER HOLDINGS in a clean institutional serif, two lines. A small mark — a serif B monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Market Red",
+            "hex": "#A53528",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A classical serif plus a clean grotesk — the multi-brand operator register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Dry-Aged & Co.",
+        "tagline": "Method as name.",
+        "brandNameRationale": "Anchor: the dry-aging tradition (35–60+ days). Picked from A's three for the strongest method-as-name creative anchor.",
+        "industrySummary": "Method-named creative butchers — DeBragga, dry-aged-focused shops — sit in a small but real creative niche. The opening is a method-named editorial butcher.",
+        "competitorLandscape": "Marrow (marrowto.com) plays the modern craft-butcher peer. Beast & Cleaver (beastandcleaver.com) holds the urban middle. DeBragga (debragga.com) is the dry-aging reference. We sit as a method-named editorial butcher.",
+        "positioningStatement": "Dry-Aged & Co. is a creative butcher and charcuterie brand built on the dry-aging tradition.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers and chef-cooks 28–50.",
+          "behaviors": [
+            "Order by aging cycle",
+            "Read the brand journal",
+            "Care about the locker provenance"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Method-forward",
+          "Warm",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the aging days",
+            "Print the locker protocol",
+            "Photograph the aging room"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the aging days"
+          ]
+        },
+        "logoDirection": "Wordmark: DRY-AGED & CO. in a confident editorial serif, one line. A small mark — a single dry-aging-locker line drawing — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Locker Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Locker tag stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Aging Red",
+            "hex": "#8B2A28",
+            "meaning": "Dry-aged crust.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the dry-aging editorial register."
+        }
+      },
+      {
+        "brandName": "Norcino",
+        "tagline": "The Norcia pork butcher.",
+        "brandNameRationale": "Anchor: norcino — the singular form of norcini, the Norcia pork butchers. Picked from A's three for the cleanest single-word storytelling anchor.",
+        "industrySummary": "Storytelling charcuterie brands sit at the editorial top of the salumi category. The opening is a norcino-named editorial charcuterie brand.",
+        "competitorLandscape": "Salumeria Roscioli (salumeriaroscioli.com) plays the editorial salumi peer. La Quercia (laquercia.us) holds the artisan-cured middle. Olympia Provisions (olympiaprovisions.com) is the editorial reference. We sit as a norcino-named editorial brand.",
+        "positioningStatement": "Norcino is a creative charcuterie brand named for the Norcia pork butcher tradition.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers 28–50.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the curing time",
+            "Travel to Norcia"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Italian",
+          "Patient",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference Norcia plainly",
+            "Print the journal seasonally",
+            "Photograph the curing room"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the tradition"
+          ]
+        },
+        "logoDirection": "Wordmark: NORCINO in a confident editorial serif, one line. A small mark — a single hand-drawn cured leg silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Cellar light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and journal",
+          "rationale": "A high-contrast serif plus a reading serif — the Norcia-editorial register."
+        }
+      },
+      {
+        "brandName": "The Hook & The Block",
+        "tagline": "Two icons of the trade.",
+        "brandNameRationale": "Anchor: meat hook + butcher's block — the two icons of the trade. Picked from A's three for the strongest cookbook-adjacent creative anchor.",
+        "industrySummary": "Paired-icon editorial butcher brands sit at the creative top. The opening is a paired-icon editorial brand with a cookbook-adjacent register.",
+        "competitorLandscape": "Marrow (marrowto.com) plays the modern craft-butcher peer. Beast & Cleaver (beastandcleaver.com) holds the urban middle. The Whole Beast (cookbook reference) is the editorial reference. We sit as a paired-icon editorial brand.",
+        "positioningStatement": "The Hook & The Block is an editorial butcher brand with a cookbook-adjacent publishing program.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers and cookbook-collectors 28–50.",
+          "behaviors": [
+            "Read the brand cookbook",
+            "Care about the whole-animal cut",
+            "Subscribe to the journal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Cookbook-adjacent",
+          "Warm",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the cookbook program",
+            "Print the journal seasonally",
+            "Photograph the hook and the block"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the publishing"
+          ]
+        },
+        "logoDirection": "Wordmark: THE HOOK & THE BLOCK in a confident editorial serif, three lines centered. A small mark — a paired hook-and-block silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cookbook Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Cookbook stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Market Red",
+            "hex": "#A53528",
+            "meaning": "Beef cut.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the cookbook-editorial register."
+        }
+      }
+    ]
+  }
+}
