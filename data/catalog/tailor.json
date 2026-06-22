@@ -1,0 +1,315 @@
+{
+  "industry": "tailor",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Basted & Co.",
+        "tagline": "Built around the basted fitting.",
+        "brandNameRationale": "Anchor: the basted fitting — the first try-on stage of a bespoke suit, with the canvas hand-tacked in white thread. Counter to using a famous surname (Henry Poole is an active TM in tailoring). Basted names the process, not a heritage firm.",
+        "industrySummary": "Modern bespoke is shifting from heritage signaling toward process literacy. Customers want to know what stage they're in, what's being hand-stitched, and what the second fitting will fix.",
+        "competitorLandscape": "Saman Amel (samanamel.com) plays the modern atelier peer. Drake's (drakes.com) holds the considered-tailoring middle. Anderson & Sheppard (anderson-sheppard.co.uk) is the Savile Row reference. We sit as a process-named modern bespoke house.",
+        "positioningStatement": "Basted & Co. is a modern bespoke tailor that names its trade by the basted fitting, not by a heritage surname.",
+        "targetAudience": {
+          "primary": "Men 30-50 commissioning their first or second bespoke suit and reading about half canvas before they book.",
+          "behaviors": [
+            "Research construction terminology before commissioning",
+            "Ask about canvas and shoulder build",
+            "Return for a second commission within 24 months"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Modern",
+          "Plainspoken",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the fitting stage on every appointment confirmation",
+            "List what's hand-stitched and what's machined",
+            "Show the basted garment, white thread visible"
+          ],
+          "donts": [
+            "Lean on borrowed Savile Row mythology",
+            "Use the word craftsmanship",
+            "Photograph the cutter in soft focus"
+          ]
+        },
+        "logoDirection": "Wordmark: BASTED & CO. set in a precise grotesk, all caps, ampersand drawn slightly heavier. Small mark: a single basted seam, three white tacking stitches on a navy ground, used on the inside ticket pocket.",
+        "colorPalette": [
+          {
+            "name": "Basted Navy",
+            "hex": "#1F2A3A",
+            "meaning": "Suiting cloth",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Tacking White",
+            "hex": "#F6F2E8",
+            "meaning": "Basting thread",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Chalk",
+            "hex": "#D7D2C4",
+            "meaning": "Tailor's chalk",
+            "usage": "Secondary"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for measurements and fitting notes",
+          "rationale": "One grotesk family plus its mono — the fitting-card register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Conduit Bespoke",
+        "tagline": "A house on the street behind the Row.",
+        "brandNameRationale": "Anchor: Conduit Street, which runs one block north of Savile Row and houses several of the great bespoke firms (Huntsman's old courtyard, the Henry Poole archive). Counter to Henry Poole & Co. (active TM) and to any direct Savile Row claim. Conduit places the brand in the right square mile without copying a protected name.",
+        "industrySummary": "Luxury bespoke remains a small institutional category — twelve to fifteen houses in London, a similar number in Naples, each measured on cutter pedigree and clientele continuity.",
+        "competitorLandscape": "Huntsman (huntsmansavilerow.com) plays the heritage-Row peer. Anderson & Sheppard (anderson-sheppard.co.uk) holds the drape-cut reference. Rubinacci (marianorubinacci.net) is the Neapolitan reference. We sit as a quieter Conduit Street house in the same register.",
+        "positioningStatement": "Conduit Bespoke is a London bespoke tailoring house operating one block off Savile Row in the Conduit Street tradition.",
+        "targetAudience": {
+          "primary": "Long-standing bespoke clients commissioning two to four suits a year, often through a family relationship with the cutter.",
+          "behaviors": [
+            "Commission across multiple cutters in the same house",
+            "Travel internationally for trunk shows",
+            "Refer family members by introduction only"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Discreet",
+          "Patient",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Name the cutter and the coatmaker",
+            "Send a hand-signed letter with each commission"
+          ],
+          "donts": [
+            "Publish a price list",
+            "Photograph clients in lifestyle settings",
+            "Use the word luxury"
+          ]
+        },
+        "logoDirection": "Wordmark: CONDUIT BESPOKE set in a refined English serif, two lines centered, with a small house-number flourish. A hallmark — a single scissor silhouette — used on the order book and the cutter's calling card.",
+        "colorPalette": [
+          {
+            "name": "Conduit Navy",
+            "hex": "#15203A",
+            "meaning": "House navy",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#EFE7D2",
+            "meaning": "Order-book paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gold Hallmark",
+            "hex": "#A6843D",
+            "meaning": "Gilded house number",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and the order book",
+          "secondary": "Garamond Premier Pro for client letters",
+          "rationale": "Two classical English serifs — the Conduit Street letter register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Chalk",
+        "tagline": "One trade.",
+        "brandNameRationale": "Anchor: tailor's chalk — the cutter's first mark on the cloth. Counter to Cut (too generic) and Seam. (punctuation-led, harder to register). Chalk is the specific trade noun, single syllable.",
+        "industrySummary": "Minimal tailoring brands serve the design-literate professional buying their first considered suit. The opening is for a single-syllable trade-noun house with no surname, no Row claim, no story.",
+        "competitorLandscape": "Saman Amel (samanamel.com) plays the modern-minimal peer. The Anthology (theanthology.cc) holds the considered-modern middle. Drake's (drakes.com) is the broader reference. We sit as the single-word minimal option.",
+        "positioningStatement": "Chalk is a minimal bespoke tailor — one cutter, one fit, one rate card.",
+        "targetAudience": {
+          "primary": "Professionals 28-45 commissioning their first considered suit and wanting the appointment over with in two fittings.",
+          "behaviors": [
+            "Book the first fitting online",
+            "Want the rate card visible",
+            "Skip the heritage story"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Plain",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the rate card on the home page",
+            "Show the cloth, not the lifestyle",
+            "Confirm the fitting in one line"
+          ],
+          "donts": [
+            "Romanticize the cutter",
+            "Use the word bespoke as marketing",
+            "Photograph in styled interiors"
+          ]
+        },
+        "logoDirection": "Wordmark: CHALK set very large in a clean modern sans, five letters, one word. No symbol. The chalk mark itself — a single curved line — used as the secondary mark on the inside label.",
+        "colorPalette": [
+          {
+            "name": "Chalk White",
+            "hex": "#F4F0E6",
+            "meaning": "Tailor's chalk",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cloth Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Cloth Grey",
+            "hex": "#9A9690",
+            "meaning": "Worsted grey",
+            "usage": "Secondary"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for measurements",
+          "rationale": "Clean Diatype with its mono — the single-trade register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Cavendish Tailoring Co.",
+        "tagline": "Bespoke and made-to-measure, at scale.",
+        "brandNameRationale": "Anchor: Cavendish Square — a real London square adjacent to the bespoke trade quarter, and a long-running British surname used by institutional firms. Counter to Henry Poole & Co. (active TM). Cavendish reads as an established trade-house name without conflict.",
+        "industrySummary": "Corporate bespoke and made-to-measure operates at the intersection of trunk shows, multi-city showrooms, and uniform programs for finance and law firms. The buyer is a partner, a HR director, or a head of corporate gifting.",
+        "competitorLandscape": "Ede & Ravenscroft (edeandravenscroft.com) plays the institutional-uniform peer. Gieves & Hawkes (gievesandhawkes.com) holds the corporate-heritage middle. Brioni (brioni.com) is the international corporate reference. We sit as a multi-city corporate tailoring firm in the Cavendish register.",
+        "positioningStatement": "Cavendish Tailoring Co. provides bespoke and made-to-measure tailoring to professional firms, multi-city showrooms, and corporate gifting programs.",
+        "targetAudience": {
+          "primary": "Managing partners, HR directors, and heads of corporate gifting at finance, law, and consulting firms.",
+          "behaviors": [
+            "Negotiate multi-year tailoring agreements",
+            "Coordinate trunk shows across offices",
+            "Renew on three-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the firm program, not the single suit",
+            "Publish the trunk-show calendar",
+            "Speak to partners and HR directors"
+          ],
+          "donts": [
+            "Run consumer-facing campaigns",
+            "Discount on the website",
+            "Press-release individual commissions"
+          ]
+        },
+        "logoDirection": "Wordmark: CAVENDISH TAILORING CO. set in an institutional serif, three lines centered. A small house mark — a stylized square with a single rule beneath — used on the contract cover.",
+        "colorPalette": [
+          {
+            "name": "Cavendish Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Corporate suiting",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Document Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Contract paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Heritage trade accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the institutional tailoring register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Thimble & Thread",
+        "tagline": "Two tools. One trade.",
+        "brandNameRationale": "Anchor: the thimble and the thread — the smallest and oldest tools on the cutter's bench, used together by every hand-stitcher in the trade. Counter to overplayed creative names (The Basted Fox felt costume-y; Cut, Pinned, Pressed reads as a tagline, not a brand). Thimble & Thread is the artisan pairing that lives on signage and a label tag.",
+        "industrySummary": "Creative bespoke brands sit between alterations and full bespoke, often run by a single tailor-owner with a strong artisan identity. The opening is for a brand that names the tools rather than the trade.",
+        "competitorLandscape": "Drake's (drakes.com) plays the artisan-modern peer. The Anthology (theanthology.cc) holds the considered-creative middle. Husbands Paris (husbands-paris.com) is the cutter-led reference. We sit as a tools-named creative tailoring house.",
+        "positioningStatement": "Thimble & Thread is a creative bespoke tailor named for the two oldest tools on the cutter's bench.",
+        "targetAudience": {
+          "primary": "Design-aware professionals 28-45 commissioning a first suit or jacket with a story they can tell.",
+          "behaviors": [
+            "Care about the maker's name",
+            "Photograph the inside label",
+            "Return for a second commission within 18 months"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Witty",
+          "Confident",
+          "Artisan"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the tailor on the inside label",
+            "Show the thimble and the thread, plainly",
+            "Write the appointment confirmation in the tailor's voice"
+          ],
+          "donts": [
+            "Sound corporate",
+            "Photograph the workshop in soft focus",
+            "Use the word luxury"
+          ]
+        },
+        "logoDirection": "Wordmark: THIMBLE & THREAD set in a warm display serif with a hand-drawn ampersand. A small mark — a single thimble with one looped thread — used as the inside-label stamp.",
+        "colorPalette": [
+          {
+            "name": "Thimble Silver",
+            "hex": "#B7B2A6",
+            "meaning": "Aged silver thimble",
+            "usage": "Accent"
+          },
+          {
+            "name": "Thread Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Spool cream",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Workshop Ink",
+            "hex": "#1B1B1B",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "A warm display serif plus a clean grotesk — the artisan tailoring register."
+        }
+      }
+    ]
+  }
+}

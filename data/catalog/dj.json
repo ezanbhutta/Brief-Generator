@@ -1,0 +1,311 @@
+{
+  "industry": "dj",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Crossfader",
+        "tagline": "Between the decks.",
+        "brandNameRationale": "The crossfader is the slider on a DJ mixer that moves the audio between two decks \u2014 the fundamental DJ control. Naming the brand for the control itself puts the act of mixing at the front.",
+        "industrySummary": "Modern DJ brands compete on residency, mix series, and label output. There is room for a label-and-residency built around the most foundational mixer control \u2014 one name, one slider, a mix series in the middle.",
+        "competitorLandscape": "Mixmag (mixmag.net) holds the institutional DJ-media peer. Dekmantel (dekmantel.com) is the considered-modern label-and-festival precedent. Resident Advisor (ra.co) is the global listings reference. We sit closer to Dekmantel in posture.",
+        "positioningStatement": "A modern label and residency built around the crossfader.",
+        "targetAudience": {
+          "primary": "25 to 40. Goes out twice a month. Reads the lineup before the venue. Will travel for a residency.",
+          "behaviors": [
+            "Buys tickets two weeks ahead",
+            "Reads the lineup before the night",
+            "Follows three labels on Bandcamp"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the lineup and the times",
+            "Photograph the booth",
+            "Quote the residency calendar"
+          ],
+          "donts": [
+            "Use the word vibe",
+            "Photograph dancers",
+            "Run a 'best of' list"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 CROSSFADER set in a tight modern grotesk, with a small horizontal slider as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Booth Black",
+            "hex": "#101012",
+            "meaning": "Booth lighting.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Vinyl Cream",
+            "hex": "#EFEAD8",
+            "meaning": "Sleeve cream.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Fader Red",
+            "hex": "#B72A2A",
+            "meaning": "Cue-light red.",
+            "usage": "Accent, the slider"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and lineups",
+          "secondary": "GT America Mono for set times and BPM",
+          "rationale": "One family. The mono carries the data, the regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Loft 1970",
+        "tagline": "After David Mancuso, 1970.",
+        "brandNameRationale": "David Mancuso's invitation-only party The Loft began in 1970 in his Broadway loft \u2014 the originating ritual of the New York club tradition that led to Paradise Garage and the modern club. Loft 1970 places the brand in that lineage as a small-membership listening room.",
+        "industrySummary": "Heritage dance-music spaces are rare. There is room for a small-membership listening room in the Loft tradition \u2014 invitation-only, a single sound system, no phones, an annual membership fee.",
+        "competitorLandscape": "Smalls Jazz Club (smallslive.com) holds the small-membership music-room peer. Brilliant Corners (brilliantcornerslondon.co.uk) is the considered-listening-bar precedent. Spiritland (spiritland.com) is the hi-fi peer. We sit closer to Brilliant Corners in posture, sharper on the membership ritual.",
+        "positioningStatement": "An invitation-only listening room in the Loft tradition.",
+        "targetAudience": {
+          "primary": "40 to 65. Owns a serious sound system. Knows the canon \u2014 Mancuso, Levan, Knuckles. Pays an annual membership for the room.",
+          "behaviors": [
+            "Holds an annual membership",
+            "Brings a record to the night",
+            "Pays via wire"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Heritage",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Send paper invitations",
+            "Name the sound system",
+            "Address the member by surname"
+          ],
+          "donts": [
+            "Photograph the floor",
+            "Use the word luxury",
+            "Promote on Instagram"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Loft 1970 set in a high-contrast classical serif, with a small woofer-cone pictogram as the hallmark, foiled in brass on the membership card.",
+        "colorPalette": [
+          {
+            "name": "Loft Brown",
+            "hex": "#5C3A24",
+            "meaning": "Hardwood floor.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F0E8D6",
+            "meaning": "Invitation paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A8893E",
+            "meaning": "Foil on the card.",
+            "usage": "Hallmark, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Adobe Jenson for the wordmark and invitations",
+          "secondary": "S\u00f6hne for the secure member portal",
+          "rationale": "Jenson carries the heritage register. S\u00f6hne handles the member portal."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Cuepoint",
+        "tagline": "Mark the moment.",
+        "brandNameRationale": "A cue point is the marker a digital DJ sets at a specific beat in a track \u2014 the place to drop in, the place to loop, the place to fly. Naming the brand for the marker itself puts the precision of the digital DJ at the front.",
+        "industrySummary": "Minimal DJ brands are uncommon \u2014 the category leans maximalist. There is room for a small label and software-adjacent brand whose entire identity is the cue marker \u2014 one word, one symbol, one job.",
+        "competitorLandscape": "Beatport (beatport.com) holds the institutional-store peer. Bandcamp (bandcamp.com) is the artist-direct precedent. Mixcloud (mixcloud.com) is the mix-platform reference. We sit smaller, sharper on the marker.",
+        "positioningStatement": "A minimal label organized around the cue point.",
+        "targetAudience": {
+          "primary": "28 to 45. DJs at home and once a month at a friend's bar. Owns a controller and a USB. Buys tracks individually.",
+          "behaviors": [
+            "Buys tracks one at a time",
+            "Follows two labels on Bandcamp",
+            "Sets cue points before the night"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Precise",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the BPM and the key",
+            "Quote the cue points in the release notes",
+            "Sign the artist by name"
+          ],
+          "donts": [
+            "Run a subscription",
+            "Use the word vibe",
+            "Photograph the floor"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Cuepoint set in a single-weight grotesk, lowercase. The favicon is a small triangle (the cue-point glyph).",
+        "colorPalette": [
+          {
+            "name": "Cue Orange",
+            "hex": "#F08A24",
+            "meaning": "Cue-point orange.",
+            "usage": "Accent, the triangle"
+          },
+          {
+            "name": "Daw Gray",
+            "hex": "#C9C2B5",
+            "meaning": "DAW background.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark",
+          "secondary": "S\u00f6hne Mono for BPM and key data",
+          "rationale": "One family. The mono carries the data, the regular carries the brand."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "The Long Mix",
+        "tagline": "Extended, blended, sustained.",
+        "brandNameRationale": "The long mix is the disco-era extended blend \u2014 the twelve-inch single, the ten-minute version, the seamless transition. Naming the operator for the form puts the editorial discipline of the mix at the front.",
+        "industrySummary": "Corporate-feeling DJ operators run agencies, residency-management firms, and mix-series labels. There is room for an operator built around mix-series curation and residency placement for working DJs.",
+        "competitorLandscape": "Defected (defected.com) holds the institutional house-music brand peer. Anjunabeats (anjunabeats.com) plays the agency-and-label precedent. Solid Grooves (solidgrooves.com) sits in the residency middle. We sit smaller, focused on long-form mixes.",
+        "positioningStatement": "A residency-and-mix-series operator for working DJs.",
+        "targetAudience": {
+          "primary": "Venue programmers, festival bookers, and brand-event planners booking residencies and long-form mix sets.",
+          "behaviors": [
+            "Books residencies twelve months out",
+            "Manages a roster of touring DJs",
+            "Renews annual booking contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the residency calendar",
+            "Quote the technical rider",
+            "Speak to the booker, not the dancer"
+          ],
+          "donts": [
+            "Run a consumer promotion",
+            "Use the word vibe",
+            "Photograph the floor"
+          ]
+        },
+        "logoDirection": "A wordmark with a hallmark \u2014 The Long Mix set in a clean grotesk, paired with a long horizontal bar as the favicon \u2014 the timeline of the mix.",
+        "colorPalette": [
+          {
+            "name": "Booker Navy",
+            "hex": "#1A2B4F",
+            "meaning": "Operator navy.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Booth Cream",
+            "hex": "#EFE7D2",
+            "meaning": "Rider paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Mix Gold",
+            "hex": "#A8893E",
+            "meaning": "House-light accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and decks",
+          "secondary": "Source Serif Pro for printed riders and tour books",
+          "rationale": "Inter scales clean across decks. The serif handles the printed rider."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Beatmatch Club",
+        "tagline": "Two records. One pulse.",
+        "brandNameRationale": "Beatmatching is the foundational DJ skill \u2014 adjusting the pitch of one record so its tempo locks with another, the prerequisite for every blend. Naming the club for the skill frames the brand around the craft rather than the night.",
+        "industrySummary": "Creative DJ brands lean on visual swagger. There is room for a small workshop-and-night operator built around teaching the craft and running a friendly monthly residency for graduates.",
+        "competitorLandscape": "Point Blank Music School (pointblankmusicschool.com) holds the institutional DJ-education peer. Phase One (phaseone.world) is the considered-night precedent. Subtle Radio (subtleradio.com) is the workshop-and-radio peer. We sit closer to Subtle, sharper on the workshop.",
+        "positioningStatement": "A creative DJ workshop and graduate residency.",
+        "targetAudience": {
+          "primary": "22 to 35. Learning to DJ. Has a controller at home and a USB at the friend's bar. Wants to play out once a month.",
+          "behaviors": [
+            "Attends a monthly workshop",
+            "Plays out at the graduate residency",
+            "Posts the set on SoundCloud"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Friendly",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the graduate roster",
+            "Publish the workshop calendar",
+            "Photograph the booth, not the dancers"
+          ],
+          "donts": [
+            "Run a 'best of' list",
+            "Use the word vibe",
+            "Charge for the residency"
+          ]
+        },
+        "logoDirection": "A wordmark with a hand-drawn mark \u2014 Beatmatch Club set in a friendly humanist sans, with two small overlapping circles (two records) as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Vinyl Yellow",
+            "hex": "#F5C518",
+            "meaning": "Center-label yellow.",
+            "usage": "Accent, the circles"
+          },
+          {
+            "name": "Sleeve Cream",
+            "hex": "#EFEAD8",
+            "meaning": "Inner sleeve cream.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type and the records.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and signage",
+          "secondary": "ABC Diatype Mono for workshop dates",
+          "rationale": "One family. The mono carries the dates, the regular carries the club."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "industry": "massage",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Lingfold",
+        "tagline": "The Swedish line, refolded.",
+        "brandNameRationale": "Per Henrik Ling (1776–1839) is the documented Swedish physiologist who systematized what became Swedish massage at the Royal Gymnastic Central Institute in Stockholm (founded 1813). 'Fold' is a soft-tissue term for the layered release of fascia and muscle. Ling died in 1839; the surname is in the public domain when attached to a tradition word.",
+        "industrySummary": "Modern massage brands have split into wellness-tech apps (Zeel, Soothe) and boutique studio chains (Massage Envy, Heyday). The opening is for a modern studio brand sited on the documented Swedish-massage lineage — clean, clinical-adjacent, but warm.",
+        "competitorLandscape": "Heyday (heydayskincare.com) is the modern boutique peer, but skin-led. Zeel (zeel.com) holds the on-demand modern slot. Massage Envy (massageenvy.com) is the broad-market institutional middle. We sit closer to Heyday with a Swedish-tradition specialism.",
+        "positioningStatement": "A modern massage studio built on the Swedish line.",
+        "targetAudience": {
+          "primary": "28 to 45. Books monthly. Reads the modality before booking. Pays for the 75-minute slot.",
+          "behaviors": [
+            "Books recurring slots",
+            "Reads therapist bios",
+            "Tracks recovery"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the modality and the pressure",
+            "List the therapist's training",
+            "Confirm the booking in one line"
+          ],
+          "donts": [
+            "Use the word pamper",
+            "Photograph candles",
+            "Run a spa-day promotion"
+          ]
+        },
+        "logoDirection": "A wordmark — Lingfold in a precise modern grotesque, with a small folded-line glyph beneath that reads as fascia layered in profile.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFEAE0",
+            "meaning": "Clean table sheet.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Eucalyptus",
+            "hex": "#6B8E7F",
+            "meaning": "Single accent — Swedish forest.",
+            "usage": "Accents, CTA"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for booking times and modality codes",
+          "rationale": "The mono carries the schedule. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Ling",
+        "tagline": "The Swedish line, in the Parisian register.",
+        "brandNameRationale": "Per Henrik Ling (1776–1839) founded the Royal Gymnastic Central Institute in Stockholm in 1813 and codified what became Swedish massage. 'Maison' places the brand in the Parisian luxury frame (Maison Margiela, Maison Goyard convention). Ling died in 1839; the surname is in the public domain. The pairing reads as a small Right-Bank treatment house.",
+        "industrySummary": "Luxury massage sits inside hotel spas (Aman, Four Seasons) or independent ateliers (Biologique Recherche treatment rooms). The opening is for a stand-alone luxury treatment house with documented Swedish-tradition roots — a Parisian register, not a hotel-spa register.",
+        "competitorLandscape": "Biologique Recherche (biologique-recherche.com) holds the Parisian treatment-house peer slot. La Mer (cremedelamer.com) plays the heritage luxury reference. The Aman Spa (aman.com) sits in the hotel-spa luxury middle. We belong with Biologique Recherche, stand-alone and treatment-led.",
+        "positioningStatement": "A Parisian treatment house in the Swedish line, by appointment.",
+        "targetAudience": {
+          "primary": "40 to 65. Books quarterly. Travels for the appointment. Pays in cash.",
+          "behaviors": [
+            "Books standing appointments",
+            "Travels for the therapist",
+            "Buys the home program"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname",
+            "Confirm by hand-written card",
+            "Print the protocol on cotton paper"
+          ],
+          "donts": [
+            "Publish a price list openly",
+            "Photograph the therapist",
+            "Run a seasonal promotion"
+          ]
+        },
+        "logoDirection": "A serif wordmark — Maison Ling in a classical book serif with a small embossed Swedish-cross mark on the cotton card.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Cotton paper.",
+            "usage": "All correspondence"
+          },
+          {
+            "name": "Forest",
+            "hex": "#1F3329",
+            "meaning": "Type and primary.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and printed cards",
+          "secondary": "An engraver's italic for client correspondence",
+          "rationale": "Letterpress register throughout."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Ling Co.",
+        "tagline": "Swedish massage. One room.",
+        "brandNameRationale": "Per Henrik Ling (1776–1839) is the documented founder of Swedish massage. 'Co.' is the smallest commercial suffix — a single-word surname plus the trade tag. The brand names the tradition and stops there.",
+        "industrySummary": "Most massage brands accumulate menus — hot stones, aromatherapy, cupping, sound baths. There's an opening for a brand that offers one modality in one room at one price.",
+        "competitorLandscape": "Most boutique studios fail this purity test. The closest peers in spirit are some single-room Japanese shiatsu shops and certain old-school physiotherapy practices.",
+        "positioningStatement": "One modality. One room. One price.",
+        "targetAudience": {
+          "primary": "Clients who already know they want Swedish massage and want the time, the cost, and the booking link.",
+          "behaviors": [
+            "Books the same slot weekly",
+            "Skips the add-on menu",
+            "Pays in advance"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the price, the duration, the booking link",
+            "Confirm in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Sell retail product",
+            "Sell add-ons",
+            "Run a wellness campaign"
+          ]
+        },
+        "logoDirection": "Ling Co. set in a single-weight grotesque, lowercase. The mark appears on the door, the receipt, and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Space.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Eucalyptus",
+            "hex": "#6B8E7F",
+            "meaning": "Single accent.",
+            "usage": "Door colour"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The door, the receipt, the booking page share the same mark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Meridian Bodywork Group",
+        "tagline": "Manual therapy at clinical standard.",
+        "brandNameRationale": "Meridian references the documented shiatsu meridian system codified by Tokujiro Namikoshi (1905–2000) at the Japan Shiatsu College. As a brand anchor for a clinical bodywork operator, it signals serious manual-therapy depth. 'Group' follows the heritage clinical naming convention (Mayo Clinic, Cleveland Clinic).",
+        "industrySummary": "Clinical bodywork — manual therapy supplied to corporate wellness programs, insurance networks, and orthopedic referrals — is a B2B category dominated by mid-tier operators (Massage Envy Franchising, Hand & Stone). The opening is a mid-tier operator with multi-clinic capacity and insurance-grade reliability.",
+        "competitorLandscape": "Hand & Stone (handandstone.com) holds the mid-tier clinical peer slot. Massage Envy (massageenvy.com) is the broad-market institutional middle. Athletico (athletico.com) plays the clinical PT peer. We sit closer to Athletico with a manual-therapy specialism.",
+        "positioningStatement": "Clinical manual therapy supplied to corporate wellness and orthopedic referral.",
+        "targetAudience": {
+          "primary": "Corporate wellness directors, orthopedic clinic referral managers, and insurance network procurement teams sourcing manual therapy at scale.",
+          "motivations": [
+            "Licensed therapists with documented continuing education",
+            "Insurance-billing and HSA/FSA compliance",
+            "Multi-clinic capacity across a metro region"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Clinical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with licensure and continuing-education credits",
+            "Show case studies with named referral partners",
+            "Publish protocols and outcome data"
+          ],
+          "donts": [
+            "Use spa marketing language",
+            "Photograph candles or stones",
+            "Run consumer promotions"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Licensed manual therapy",
+            "description": "Every therapist is state-licensed with documented continuing education in shiatsu, Swedish, and trigger-point work."
+          },
+          {
+            "name": "Insurance-grade",
+            "description": "HSA, FSA, and major-network billing supported across all clinics."
+          },
+          {
+            "name": "Referral support",
+            "description": "Dedicated programs for orthopedic clinics and corporate wellness."
+          }
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left — a single meridian line traced as a vertical glyph. Reads cleanly on a spec deck and clinic door.",
+        "colorPalette": [
+          {
+            "name": "Clinic Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and structured.",
+            "usage": "Backgrounds, catalogs"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5A6776",
+            "meaning": "Clinical neutral.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Eucalyptus",
+            "hex": "#6B8E7F",
+            "meaning": "Treatment accent.",
+            "usage": "Callouts"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed contracts and clinical protocols",
+          "rationale": "Inter scales clean across digital. The serif handles printed contracts and protocol documents."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Pink Tiger",
+        "tagline": "A bodywork house for the long undoing.",
+        "brandNameRationale": "The Pink Tiger evokes the California-Esalen wellness era (Big Sur, 1962 onward) without using the trademarked 'Esalen' name. Pink for warmth and skin; Tiger for the body's strength under release. The pairing reads as a warm, character-driven bodywork house with a Californian register.",
+        "manifesto": "Most massage brands sell the hour. We sell the undoing. The week after the session. The breath that finally lengthens at minute forty. The shoulder that drops two inches on the drive home. The brand is for the long undoing, not the quick fix.",
+        "industrySummary": "Massage branding has been clinical, sterile, and a little cold. There's room for one that's warm, narrative, character-driven, and serious about the slow release.",
+        "competitorLandscape": "Heyday (heydayskincare.com) holds the modern boutique peer slot. Zeel (zeel.com) does the on-demand institutional middle. Olympia Wellness (olympiawellness.com) sits in the boutique-spa peer position. We sit warmer and more body-focused than any of them.",
+        "positioningStatement": "A bodywork house for the long undoing.",
+        "targetAudience": {
+          "primary": "30 to 55. Books monthly. Reads the somatic books. Drives across town for the right therapist.",
+          "behaviors": [
+            "Books recurring 90-minute sessions",
+            "Reads somatic and trauma-release books",
+            "Brings a journal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Narrative",
+          "Playful",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph at the table and the cup of tea after",
+            "Tell the story of the release, not the session",
+            "Send a body-care note with each booking"
+          ],
+          "donts": [
+            "Use the word pamper",
+            "Photograph candles alone",
+            "Run a spa-day campaign"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with a small tiger-stripe glyph replacing the article. The tiger stands alone on the door card and the sticker.",
+        "colorPalette": [
+          {
+            "name": "Tiger Pink",
+            "hex": "#E07A8C",
+            "meaning": "Skin warmth.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Bay Fog",
+            "hex": "#C5C3B8",
+            "meaning": "California morning.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Cream",
+            "hex": "#FBF6E9",
+            "meaning": "The page at candlelight.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Redwood",
+            "hex": "#5A2E1C",
+            "meaning": "Big Sur treeline.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and session notes",
+          "rationale": "Migra has personality. Neue Montreal handles the session notes."
+        }
+      }
+    ]
+  }
+}

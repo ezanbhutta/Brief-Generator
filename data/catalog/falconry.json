@@ -1,0 +1,350 @@
+{
+  "industry": "falconry",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Gauntlet Field Co.",
+        "tagline": "Falconry equipment for the modern field day.",
+        "brandNameRationale": "The gauntlet is the documented leather glove worn on the falconer's fist since the medieval European tradition (depicted in Frederick II's De Arte Venandi cum Avibus, c. 1240s). 'Field' names the practice ground; 'Co.' is the modern brand suffix. The pairing reads as a modern outdoor brand for working falconers without colliding with any heritage club name.",
+        "industrySummary": "Modern falconry equipment is supplied by a handful of specialists (Mike's Falconry Supplies, Northwoods Falconry, Western Sporting). The opening is for a modern brand sited on the documented gauntlet/field practice — a clean, outfitter register rather than a renaissance-fair register.",
+        "competitorLandscape": "Mike's Falconry Supplies (mikesfalconry.com) is the institutional supplier peer. Northwoods Falconry (northwoodsfalconry.com) holds the working-falconer peer slot. Western Sporting (westernsporting.com) plays the broad-spec outfitter middle. We sit closer to Northwoods with a modern brand-design specialism.",
+        "positioningStatement": "Modern falconry equipment for the working field day.",
+        "targetAudience": {
+          "primary": "30 to 55. Holds a state falconry license. Hunts most weekends in season. Maintains the same bird for years.",
+          "behaviors": [
+            "Holds a state apprentice or general falconry license",
+            "Hunts weekly in season",
+            "Re-buys gear for life"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Technical",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the bird species and the quarry",
+            "Photograph the field, not the studio",
+            "Publish field reports with the gear"
+          ],
+          "donts": [
+            "Use renaissance-fair language",
+            "Photograph the bird in heraldic poses",
+            "Run a costume promotion"
+          ]
+        },
+        "logoDirection": "A wordmark — Gauntlet Field Co. in a precise modern grotesque, with a small leather-glove glyph beneath that reads as the fist in profile.",
+        "colorPalette": [
+          {
+            "name": "Leather",
+            "hex": "#6B4A2B",
+            "meaning": "Gauntlet leather.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Field",
+            "hex": "#7A8059",
+            "meaning": "Late autumn pasture.",
+            "usage": "Body"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EDDF",
+            "meaning": "The page.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for bird weights and tracker codes",
+          "rationale": "The mono carries the weights. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Khan's Mews",
+        "tagline": "Falconry equipment in the Khan tradition.",
+        "brandNameRationale": "The Mongol Khan tradition of falconry is documented from the 13th century — Marco Polo described Kublai Khan hunting with five hundred falcons. 'Mews' is the documented historical term for the housing where hawks are kept while moulting (Latin mutare, to change). The pairing places the brand in the Central Asian heritage register, distinct from the European Frederick II tradition, and reads as a small luxe atelier.",
+        "industrySummary": "Luxury falconry equipment is rare and concentrated in the Gulf (where falconry is a cultural anchor — UAE, Qatar). The opening is for a luxury atelier rooted in the Mongol-Central Asian tradition, producing high-craft furniture (perches, blocks, mews fittings) and bespoke equipment.",
+        "competitorLandscape": "Falconry Heritage Trust (falconryheritage.org) holds the cultural-heritage peer slot. Northwoods Falconry (northwoodsfalconry.com) is the high-spec working middle. Mews Productions (in UAE) plays the Gulf-luxury reference. We belong with the UAE atelier register, with a Mongol-tradition anchor.",
+        "positioningStatement": "A heritage falconry atelier in the Khan tradition.",
+        "targetAudience": {
+          "primary": "45 to 70. Holds a private mews. Commissions perches and fittings. Hunts seasonally in Central Asia or the Gulf.",
+          "behaviors": [
+            "Commissions bespoke fittings",
+            "Maintains a private mews",
+            "Travels for the seasonal hunt"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address commissioners by title",
+            "Confirm by hand-written card",
+            "Print the commission paper on cotton stock"
+          ],
+          "donts": [
+            "Stock for immediate delivery",
+            "Run promotional pricing",
+            "Photograph the bird in marketing material"
+          ]
+        },
+        "logoDirection": "A serif wordmark — The Khan's Mews in a classical book serif with a small embossed perch-and-bell mark on the commission card.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Cotton commission paper.",
+            "usage": "All correspondence"
+          },
+          {
+            "name": "Khan Indigo",
+            "hex": "#1F2A3F",
+            "meaning": "Type and primary.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent — the bell.",
+            "usage": "Embossed hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and commission paper",
+          "secondary": "An engraver's italic for the master's signature",
+          "rationale": "Letterpress register throughout."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Mews.",
+        "tagline": "Housing for the hawk.",
+        "brandNameRationale": "Mews is the documented term — from Latin mutare (to change) via Old French — for the housing where a hawk is kept during moult. In falconry literature since the medieval period it names the central piece of falconry infrastructure. A single syllable, full stop. The brand names the one thing and stops.",
+        "industrySummary": "Most falconry suppliers accumulate catalogs — gauntlets, hoods, perches, bells, transmitters, lures, scales. There's an opening for a brand that supplies one product class.",
+        "competitorLandscape": "Most suppliers fail this purity test. The closest peers in spirit are some single-product European leather workshops and certain old-school perch makers.",
+        "positioningStatement": "One mews. One spec.",
+        "targetAudience": {
+          "primary": "Falconers who need a mews built and want the spec, the price, and the lead time.",
+          "behaviors": [
+            "Commissions one mews for life",
+            "Skips the catalog",
+            "Reads the build specification"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the build, the spec, the price",
+            "Confirm in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Sell hoods and gauntlets",
+            "Sell bells",
+            "Run a renaissance-fair promotion"
+          ]
+        },
+        "logoDirection": "Mews. set in a single-weight grotesque, lowercase, with a small full stop. The mark appears on the build plate, the invoice, and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Space.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Leather",
+            "hex": "#6B4A2B",
+            "meaning": "Single accent.",
+            "usage": "Build plate colour"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The build plate, the invoice, the booking page share the same mark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Raptor Heritage Holdings",
+        "tagline": "Falconry programs for cultural institutions and estates.",
+        "brandNameRationale": "Raptor is the documented zoological-and-legal term for birds of prey (US Migratory Bird Treaty Act; CITES). Heritage signals the cultural-preservation register (UNESCO recognized falconry as Intangible Cultural Heritage of Humanity in 2010). 'Holdings' is the corporate operator suffix. The pairing reads as a serious cultural-institution operator without colliding with any specific heritage club mark.",
+        "industrySummary": "Cultural-institution falconry programs — supplied to estates, raptor-conservation parks, airport-clearance services, and heritage societies — is a B2B category with a handful of operators (Sky Falconry, Falcon Force, English Hawking Centre). The opening is a corporate operator with multi-program capacity.",
+        "competitorLandscape": "Falcon Force (in Netherlands) holds the airport-clearance peer slot. Sky Falconry (skyfalconry.com) plays the estate-program peer. The English Hawking Centre (hawking.co.uk) sits in the heritage-program middle. We sit closer to Falcon Force with a multi-program specialism.",
+        "positioningStatement": "Multi-program falconry operations for estates, airports, and heritage societies.",
+        "targetAudience": {
+          "primary": "Estate managers, airport operations directors, and heritage-society program leads sourcing falconry programs at scale.",
+          "motivations": [
+            "Licensed and insured operations",
+            "Multi-program capability across pest-control, display, and conservation",
+            "A serious operator with institutional-grade reliability"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Institutional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with licensure and insurance documentation",
+            "Show case studies with named institutional partners",
+            "Publish program metrics"
+          ],
+          "donts": [
+            "Use renaissance-fair language",
+            "Photograph the bird in heraldic poses",
+            "Run consumer promotions"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Licensed operations",
+            "description": "All operations under state and federal raptor permits with full insurance."
+          },
+          {
+            "name": "Multi-program",
+            "description": "Pest control, display falconry, and conservation programs from one operator."
+          },
+          {
+            "name": "Institutional support",
+            "description": "Dedicated programs for estates, airports, and heritage societies."
+          }
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left — a single hooded-falcon silhouette. Reads cleanly on a spec deck and contract.",
+        "colorPalette": [
+          {
+            "name": "Heritage Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and structured.",
+            "usage": "Backgrounds, catalogs"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5A6776",
+            "meaning": "Institutional neutral.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Leather",
+            "hex": "#6B4A2B",
+            "meaning": "Gauntlet accent.",
+            "usage": "Callouts"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed contracts and permit documentation",
+          "rationale": "Inter scales clean across digital. The serif handles printed contracts."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Frederick's Gauntlet",
+        "tagline": "A falconry house for the long field season.",
+        "brandNameRationale": "Frederick II of Hohenstaufen (Holy Roman Emperor, 1194–1250) wrote De Arte Venandi cum Avibus (The Art of Hunting with Birds) c. 1240s — the foundational European falconry treatise, written from his own observation. He died in 1250; the name is in the historical public domain. The gauntlet is the documented falconer's glove. The pairing reads as a warm, character-driven house with the documented foundational anchor of European falconry.",
+        "manifesto": "Most falconry brands sell the bird. We sell the field season. The October dawn at the meadow's edge. The half-mile flight after a rabbit. The hour at the perch cleaning the jesses. The brand is for the long season, not the medieval cosplay.",
+        "industrySummary": "Falconry branding has been heraldic, renaissance-fair, and a little cold. There's room for one that's warm, narrative, character-driven, and serious about the field season.",
+        "competitorLandscape": "Northwoods Falconry (northwoodsfalconry.com) holds the working peer middle. Mike's Falconry Supplies (mikesfalconry.com) does the broad-spec institutional middle. Western Sporting (westernsporting.com) sits in the multi-line peer position. We sit warmer and more season-focused than any of them.",
+        "positioningStatement": "A falconry house for the long field season.",
+        "targetAudience": {
+          "primary": "30 to 60. Holds a license. Flies the bird most weekends in season. Reads De Arte Venandi for pleasure.",
+          "behaviors": [
+            "Holds a state license",
+            "Flies weekly in season",
+            "Reads the historical literature"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Narrative",
+          "Playful",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the field at dawn",
+            "Tell the story of the flight, not the bird",
+            "Send a field note with each order"
+          ],
+          "donts": [
+            "Use the word noble",
+            "Photograph the bird in heraldic poses",
+            "Run a renaissance-fair promotion"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with a small gauntlet silhouette replacing the apostrophe-s. The gauntlet stands alone on the hangtag and the sticker.",
+        "colorPalette": [
+          {
+            "name": "Leather",
+            "hex": "#6B4A2B",
+            "meaning": "Gauntlet leather.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Field",
+            "hex": "#7A8059",
+            "meaning": "Late autumn pasture.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#FBF6E9",
+            "meaning": "The page at the perch.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Falcon Slate",
+            "hex": "#3D4554",
+            "meaning": "Peregrine back feathers.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and field notes",
+          "rationale": "Migra has personality. Neue Montreal handles the field notes."
+        }
+      }
+    ]
+  }
+}

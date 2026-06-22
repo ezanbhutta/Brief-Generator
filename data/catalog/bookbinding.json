@@ -1,0 +1,365 @@
+{
+  "industry": "bookbinding",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Coptic & Co.",
+        "tagline": "Bound with the oldest stitch.",
+        "brandNameRationale": "Anchor: the Coptic stitch — the chain-stitched binding developed by early Christian communities in Egypt from the 2nd century, the earliest codex binding still in use. '& Co.' frames the brand as a modern small studio in the trade register.",
+        "industrySummary": "Modern bookbinding is a small editorial category — small studios serving artists, small presses, and conservation clients. The opening is for a stitch-named studio that publishes the technique and the materials of every binding.",
+        "competitorLandscape": "Mr Cup (mr-cup.com) plays the editorial reference. The Society of Bookbinders (societyofbookbinders.com) holds the craft middle. Hewit & Sons (hewit.com) is the leather-and-supplies peer. We sit as a single-stitch modern studio.",
+        "positioningStatement": "Coptic & Co. is a modern bookbinding studio specialising in Coptic-stitch bindings for small presses and artists.",
+        "targetAudience": {
+          "primary": "Small-press publishers and artists commissioning short-run bindings.",
+          "behaviors": [
+            "Commission editions of 50-200 copies",
+            "Care about visible stitch and exposed spine",
+            "Pay per binding, not per page"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Process-led",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the stitch and the thread",
+            "Show the exposed spine",
+            "Publish the materials list"
+          ],
+          "donts": [
+            "Use 'artisanal' as a pitch",
+            "Photograph the binder's hands at work",
+            "Hide the per-binding price"
+          ]
+        },
+        "logoDirection": "Wordmark: COPTIC & CO. set in a confident modern grotesk, two words on one line. Small mark: a single chain-stitch silhouette used on the colophon.",
+        "colorPalette": [
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Bookcloth",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Thread Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#D7C9A8",
+            "meaning": "Page accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for material lists and binding numbers",
+          "rationale": "A modern grotesk plus its mono — the colophon register."
+        },
+        "brandDescription": "Coptic & Co. is a modern bookbinding studio specialising in Coptic-stitch bindings for small presses and artists.",
+        "scope": "Coptic & Co. works across the bookbinding & restoration category with a single editorial register.",
+        "mission": "Coptic & Co. is a modern bookbinding studio specialising in Coptic-stitch bindings for small presses and artists.",
+        "vision": "Coptic & Co. held in its register, indefinitely.",
+        "coreValues": [
+          "Considered — operating principle.",
+          "Modern — operating principle.",
+          "Process-led — operating principle.",
+          "Plainspoken — operating principle."
+        ]
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Powell & Daughters",
+        "tagline": "A bindery, three generations on.",
+        "brandNameRationale": "Anchor: Roger Powell (1896-1990), the 20th-century master bookbinder whose Trinity College Dublin work re-set the standard for conservation binding. Powell is a surname, not a live marque trademark; 'Daughters' frames the brand as a family atelier across generations.",
+        "industrySummary": "Luxury bookbinding is a narrow editorial category — small family ateliers serving libraries, collectors, and conservation clients. The opening is for a family-named bindery in the conservation register.",
+        "competitorLandscape": "Shepherds Bookbinders (bookbinding.co.uk) plays the heritage London peer. Designer Bookbinders (designerbookbinders.org.uk) holds the master-craft middle. Hewit & Sons (hewit.com) is the leather-supplies reference. We belong with Shepherds in the family-atelier register.",
+        "positioningStatement": "Powell & Daughters is a heritage bindery making conservation and fine bindings for libraries and collectors, in the Roger Powell tradition.",
+        "targetAudience": {
+          "primary": "Library conservators, rare-book collectors, and institutional clients.",
+          "behaviors": [
+            "Commission single bindings",
+            "Specify materials and conservation method",
+            "Wait six to eighteen months on a single piece"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Heritage",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the conservator and the year",
+            "Treat the book as the artefact",
+            "Print the binding card with the work"
+          ],
+          "donts": [
+            "Use 'luxury' on the brochure",
+            "Photograph the work on Instagram",
+            "Discount, ever"
+          ]
+        },
+        "logoDirection": "Wordmark: POWELL & DAUGHTERS set in a classical book serif, three lines centered. Small mark: a single tooled corner ornament used as the embossed seal.",
+        "colorPalette": [
+          {
+            "name": "Library Burgundy",
+            "hex": "#5A2230",
+            "meaning": "Conservation leather",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Page",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gilded Brass",
+            "hex": "#A6843D",
+            "meaning": "Tooling brass",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and signage",
+          "secondary": "Garamond Premier Pro for body and the binding card",
+          "rationale": "A classical serif plus a reading serif — the conservation-bindery register."
+        },
+        "brandDescription": "Powell & Daughters is a heritage bindery making conservation and fine bindings for libraries and collectors, in the Roger Powell tradition.",
+        "scope": "Powell & Daughters works across the bookbinding & restoration category with a single editorial register.",
+        "mission": "Powell & Daughters is a heritage bindery making conservation and fine bindings for libraries and collectors, in the Roger Powell tradition.",
+        "vision": "Powell & Daughters held in its register, indefinitely.",
+        "coreValues": [
+          "Refined — operating principle.",
+          "Heritage — operating principle.",
+          "Discreet — operating principle.",
+          "Patient — operating principle."
+        ]
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Endpaper",
+        "tagline": "The page before the book.",
+        "brandNameRationale": "Anchor: the endpaper — the printed or marbled sheet that holds the bookblock to the case, the threshold page of every bound book. One trade word, instantly legible to anyone who handles books seriously.",
+        "industrySummary": "Minimal bookbinding brands serve the design-literate small-press and stationery buyer — one binding, one stock, one label.",
+        "competitorLandscape": "Most binderies publish a long menu of finishes. The minimal end is largely empty. Mr Cup (mr-cup.com) is the closest editorial reference. We sit as the single-word minimal option.",
+        "positioningStatement": "Endpaper is a minimal bookbinder offering one binding format on one marbled endpaper stock.",
+        "targetAudience": {
+          "primary": "Small-press publishers and stationery buyers 28-50 who want one format done well.",
+          "behaviors": [
+            "Skip the swatch book",
+            "Re-order the same format yearly",
+            "Care about the endpaper, not the cover"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Considered",
+          "Plain"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the endpaper",
+            "Name the marbler",
+            "Use white space generously"
+          ],
+          "donts": [
+            "Add a second format",
+            "Crowd the colophon",
+            "Use ornament on the cover"
+          ]
+        },
+        "logoDirection": "Wordmark: ENDPAPER set very large in a clean modern sans, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Endpaper Cream",
+            "hex": "#F4EFE3",
+            "meaning": "Marbled cream",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Binding Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Marbled Blue",
+            "hex": "#2E4A6A",
+            "meaning": "Endpaper accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for the binding numbers",
+          "rationale": "Clean Diatype with its mono — the single-format register."
+        },
+        "brandDescription": "Endpaper is a minimal bookbinder offering one binding format on one marbled endpaper stock.",
+        "scope": "Endpaper works across the bookbinding & restoration category with a single editorial register.",
+        "mission": "Endpaper is a minimal bookbinder offering one binding format on one marbled endpaper stock.",
+        "vision": "Endpaper held in its register, indefinitely.",
+        "coreValues": [
+          "Spare — operating principle.",
+          "Direct — operating principle.",
+          "Considered — operating principle.",
+          "Plain — operating principle."
+        ]
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Case-Bound Archives Co.",
+        "tagline": "Archival binding, at institutional scale.",
+        "brandNameRationale": "Anchor: case binding — the hardcover binding format that has been the standard for archival and library books since the 19th century. 'Archives Co.' frames the brand as a B2B archival-binding operator.",
+        "industrySummary": "Archival binding is a small institutional category serving libraries, museums, government archives, and corporate records departments. The opening is for a heritage-named operator with documented archival standards.",
+        "competitorLandscape": "ICI Bookbinders (icibookbinders.com) plays the institutional peer. Houchen Bindery (houchenbindery.com) holds the library middle. HF Group (hfgroup.net) is the multi-service reference. We sit as a case-binding-led archival operator.",
+        "positioningStatement": "Case-Bound Archives Co. is a B2B archival binding operator serving libraries, museums, and corporate records departments to documented archival standards.",
+        "targetAudience": {
+          "primary": "Library conservators, museum registrars, and corporate records managers.",
+          "behaviors": [
+            "Negotiate multi-year binding contracts",
+            "Specify ANSI/NISO archival standards",
+            "Renew on three to five-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with archival standards and certifications",
+            "Publish quarterly category letters",
+            "Refer to client institutions by name"
+          ],
+          "donts": [
+            "No consumer-facing marketing",
+            "No social media at the parent level",
+            "No press-release hype cadence"
+          ]
+        },
+        "logoDirection": "Wordmark: CASE-BOUND ARCHIVES CO. set in an institutional serif, three lines. A small mark — a stylised closed book silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Archive Slate",
+            "hex": "#2A3340",
+            "meaning": "Institutional",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#EFE9DD",
+            "meaning": "Page",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Tooling brass",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the institutional archive register."
+        },
+        "brandDescription": "Case-Bound Archives Co. is a B2B archival binding operator serving libraries, museums, and corporate records departments to documented archival standards.",
+        "scope": "Case-Bound Archives Co. works across the bookbinding & restoration category with a single editorial register.",
+        "mission": "Case-Bound Archives Co. is a B2B archival binding operator serving libraries, museums, and corporate records departments to documented archival standards.",
+        "vision": "Case-Bound Archives Co. held in its register, indefinitely.",
+        "coreValues": [
+          "Senior — operating principle.",
+          "Operational — operating principle.",
+          "Reliable — operating principle.",
+          "Discreet — operating principle."
+        ]
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Ebru Room",
+        "tagline": "Marbled paper, one sheet at a time.",
+        "brandNameRationale": "Anchor: ebru — the Turkish marbled-paper tradition dating to the 15th century, used for endpapers in Ottoman manuscript binding. UNESCO inscribed ebru on its Representative List of Intangible Cultural Heritage in 2014. 'The Ebru Room' frames the brand as a single studio focused on the marbled sheet.",
+        "industrySummary": "Creative bookbinding brands play on a single material or process as the editorial frame. Ebru as a brand frame is rich and under-used outside Turkey.",
+        "competitorLandscape": "Cockerell Marbled Papers (cockerellmarbledpapers.com) plays the editorial peer. Hatip Hattat (hatiphattat.com) holds the heritage Turkish middle. Jemma Lewis Marbling (jemmalewismarbling.co.uk) is the modern reference. We sit as a single-room ebru studio in the editorial register.",
+        "positioningStatement": "The Ebru Room is a creative bookbinding studio built on hand-marbled ebru endpapers — sold as sheets and bound into editions.",
+        "targetAudience": {
+          "primary": "Small-press publishers, stationery buyers, and collectors 25-50 who want hand-marbled work.",
+          "behaviors": [
+            "Buy single sheets",
+            "Commission custom endpapers",
+            "Read about Turkish marbling history"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Story-led",
+          "Warm",
+          "Editorial",
+          "Hand-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the ebru history on the wrapper",
+            "Name the marbler",
+            "Show the marbling tray"
+          ],
+          "donts": [
+            "Use printed-marble imitations",
+            "Sell at scale",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: THE EBRU ROOM set in a warm display serif, three lines centered. Small mark: a single marbled-paper swirl used on sheet wrappers.",
+        "colorPalette": [
+          {
+            "name": "Ebru Indigo",
+            "hex": "#27406A",
+            "meaning": "Marbled indigo",
+            "usage": "Accent"
+          },
+          {
+            "name": "Marbler Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Wrapper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tray Ink",
+            "hex": "#141417",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Söhne for body and the sheet notes",
+          "rationale": "A warm display serif plus a clean grotesk — the editorial marbling register."
+        },
+        "brandDescription": "The Ebru Room is a creative bookbinding studio built on hand-marbled ebru endpapers — sold as sheets and bound into editions.",
+        "scope": "The Ebru Room works across the bookbinding & restoration category with a single editorial register.",
+        "mission": "The Ebru Room is a creative bookbinding studio built on hand-marbled ebru endpapers — sold as sheets and bound into editions.",
+        "vision": "The Ebru Room held in its register, indefinitely.",
+        "coreValues": [
+          "Story-led — operating principle.",
+          "Warm — operating principle.",
+          "Editorial — operating principle.",
+          "Hand-led — operating principle."
+        ]
+      }
+    ]
+  }
+}

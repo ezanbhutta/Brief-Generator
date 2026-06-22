@@ -1,0 +1,906 @@
+{
+  "industry": "bbq",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Offset & Oak",
+        "tagline": "Offset smoker. Post oak.",
+        "brandNameRationale": "Offset names the offset smoker (the Hill Country pit standard); oak names post oak (the Hill Country wood). Two trade nouns, modern compound.",
+        "industrySummary": "Modern BBQ joints compete on technique and wood. The opening is a technique-and-wood name in the Hill Country tradition.",
+        "competitorLandscape": "Franklin Barbecue (franklinbbq.com) plays the technique peer. La Barbecue (labarbecue.com) holds the Austin middle. Goldee's (goldeesbbq.com) is the modern reference. We sit alongside Goldee's with a wood-and-pit frame.",
+        "positioningStatement": "Offset & Oak is a modern BBQ joint built on the offset smoker and post oak.",
+        "targetAudience": {
+          "primary": "Urban BBQ pilgrims 28–55 who track release calendars and travel for brisket.",
+          "behaviors": [
+            "Drive for brisket",
+            "Read the wood and the cook time",
+            "Tip in cash"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Technique-forward",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the wood and the cook",
+            "Print the menu honestly",
+            "Show the pit"
+          ],
+          "donts": [
+            "Use 'low and slow' as marketing",
+            "Sell sauce as the hero",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: OFFSET & OAK in a tight modern grotesk, one line. A small mark — an offset-smoker silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Smoke",
+            "hex": "#3A3833",
+            "meaning": "Smoke ring.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for the menu and prices",
+          "rationale": "One family — the modern joint register."
+        }
+      },
+      {
+        "brandName": "Pit Theory",
+        "tagline": "Technique-forward BBQ.",
+        "brandNameRationale": "Pit names the pit; Theory names the technique-forward register. Two-word, trade-honest.",
+        "industrySummary": "Modern BBQ joints compete on the science of smoke. The opening is a theory-forward technique-named joint.",
+        "competitorLandscape": "Franklin Barbecue (franklinbbq.com) plays the technique peer. La Barbecue (labarbecue.com) holds the Austin middle. Lewis Barbecue (lewisbarbecue.com) is the modern reference. We sit alongside Lewis with a theory-forward frame.",
+        "positioningStatement": "Pit Theory is a modern BBQ joint built on technique, smoke, and the pit.",
+        "targetAudience": {
+          "primary": "BBQ pilgrims 28–55.",
+          "behaviors": [
+            "Drive for brisket",
+            "Read the technique notes",
+            "Talk smoke time"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Technique-forward",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the technique notes",
+            "Print the menu honestly",
+            "Show the pit"
+          ],
+          "donts": [
+            "Use 'low and slow' as marketing",
+            "Sell sauce as the hero",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: PIT THEORY in a tight modern grotesk, two lines. A small mark — a single pit silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Smoke",
+            "hex": "#3A3833",
+            "meaning": "Smoke ring.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark",
+          "secondary": "Söhne Mono for menu",
+          "rationale": "One family — the modern joint register."
+        }
+      },
+      {
+        "brandName": "Smoke Standard",
+        "tagline": "The new standard for smoke.",
+        "brandNameRationale": "Smoke names the medium; Standard names the bar. Two-word, modern declaration.",
+        "industrySummary": "Modern BBQ joints declare a standard. The opening is a standard-named modern joint.",
+        "competitorLandscape": "Franklin Barbecue (franklinbbq.com) plays the technique peer. Lewis Barbecue (lewisbarbecue.com) holds the modern middle. Goldee's (goldeesbbq.com) is the reference. We sit as a standard-named modern joint.",
+        "positioningStatement": "Smoke Standard is a modern BBQ joint set on a single standard for smoke.",
+        "targetAudience": {
+          "primary": "BBQ pilgrims 28–55.",
+          "behaviors": [
+            "Drive for brisket",
+            "Read technique notes",
+            "Care about the smoke ring"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "Standard-bearing"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the standard plainly",
+            "Show the pit",
+            "Name the wood"
+          ],
+          "donts": [
+            "Use 'low and slow' as marketing",
+            "Sell sauce as the hero",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: SMOKE STANDARD in a tight modern grotesk, two lines.",
+        "colorPalette": [
+          {
+            "name": "Smoke",
+            "hex": "#3A3833",
+            "meaning": "Smoke ring.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark",
+          "secondary": "Inter Mono for menu",
+          "rationale": "One family — the modern joint register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Hickory & Heirloom",
+        "tagline": "Wood. Provenance.",
+        "brandNameRationale": "Hickory names the wood; Heirloom names the provenance language (heirloom breeds, heirloom recipes). Two-noun pairing in the luxury food register.",
+        "industrySummary": "Luxury BBQ programs compete on wood and breed. The opening is a wood-and-provenance luxury smokehouse.",
+        "competitorLandscape": "Husk (huskrestaurant.com) plays the heritage Southern peer. Cochon Butcher (cochonbutcher.com) holds the heirloom middle. Husk Nashville (husknashville.com) is the modern luxury reference. We sit as a wood-and-provenance luxury smokehouse.",
+        "positioningStatement": "Hickory & Heirloom is a luxury smokehouse built on hickory wood and heirloom breeds.",
+        "targetAudience": {
+          "primary": "Top restaurants, hotel F&B, and UHNW BBQ buyers.",
+          "behaviors": [
+            "Order whole briskets",
+            "Care about the breed and the wood",
+            "Travel for the program"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the breed and the wood",
+            "Print the cellar protocol",
+            "Photograph the smokehouse"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell on Amazon"
+          ]
+        },
+        "logoDirection": "Wordmark: HICKORY & HEIRLOOM in a refined American serif, two lines centered. A small mark — a hickory leaf silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hickory",
+            "hex": "#5A3220",
+            "meaning": "Hickory wood.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember",
+            "hex": "#8B2A28",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif — the heritage food register."
+        }
+      },
+      {
+        "brandName": "The Pitmaster's Table",
+        "tagline": "Chef's-table BBQ.",
+        "brandNameRationale": "The pitmaster is the trade title; the table is the chef's-table register. Definite-article + trade + ritual.",
+        "industrySummary": "Luxury BBQ programs trade on the chef's table. The opening is a pitmaster-table named luxury program.",
+        "competitorLandscape": "Husk (huskrestaurant.com) plays the heritage Southern peer. Lewis Barbecue (lewisbarbecue.com) holds the modern middle. Cochon Butcher (cochonbutcher.com) is the reference. We sit as a pitmaster-table luxury program.",
+        "positioningStatement": "The Pitmaster's Table is a luxury chef's-table BBQ program built around the pitmaster.",
+        "targetAudience": {
+          "primary": "UHNW guests booking the table months out.",
+          "behaviors": [
+            "Book months ahead",
+            "Pay the chef's-table tariff",
+            "Trust the pitmaster's call"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the pitmaster",
+            "Print the menu the day of",
+            "Photograph the pit"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell on Amazon"
+          ]
+        },
+        "logoDirection": "Wordmark: THE PITMASTER'S TABLE in a refined American serif, three lines centered. A small mark — a single pit silhouette — used on the menu.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pit Black",
+            "hex": "#1A1816",
+            "meaning": "Pit iron.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember",
+            "hex": "#8B2A28",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "Reading-serif family — the chef's-table register."
+        }
+      },
+      {
+        "brandName": "The Brisket Cellar",
+        "tagline": "Aged brisket program.",
+        "brandNameRationale": "Brisket is the cut; cellar is the aging register borrowed from wine. Two-word, provenance-forward.",
+        "industrySummary": "Luxury BBQ programs trade on aging and breed. The opening is a brisket-aging cellar program.",
+        "competitorLandscape": "Husk (huskrestaurant.com) plays the heritage Southern peer. Lewis Barbecue (lewisbarbecue.com) holds the modern middle. Cochon Butcher (cochonbutcher.com) is the reference. We sit as a brisket-aging cellar program.",
+        "positioningStatement": "The Brisket Cellar is a luxury aged-brisket program for top restaurants and UHNW buyers.",
+        "targetAudience": {
+          "primary": "Top restaurants, hotel F&B, and UHNW BBQ buyers.",
+          "behaviors": [
+            "Order whole briskets aged to date",
+            "Care about aging days",
+            "Pay full program rates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the aging days",
+            "Print the cellar protocol",
+            "Photograph the cellar"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell on Amazon"
+          ]
+        },
+        "logoDirection": "Wordmark: THE BRISKET CELLAR in a refined American serif, three lines centered.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cellar Brown",
+            "hex": "#5A3220",
+            "meaning": "Cellar wood.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember",
+            "hex": "#8B2A28",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Oak",
+        "tagline": "The wood.",
+        "brandNameRationale": "Oak names the post-oak wood (Hill Country pit standard). Single word.",
+        "industrySummary": "Minimal BBQ joints name themselves after the medium. The opening is a wood-named joint.",
+        "competitorLandscape": "Franklin Barbecue (franklinbbq.com) plays the technique peer. Goldee's (goldeesbbq.com) holds the modern middle. La Barbecue (labarbecue.com) is the reference. We sit at single-word minimal.",
+        "positioningStatement": "Oak is a minimal BBQ joint named for the post-oak that powers the pit.",
+        "targetAudience": {
+          "primary": "BBQ pilgrims 28–55 who want plate, paper, brisket.",
+          "behaviors": [
+            "Drive for brisket",
+            "Skip the side dishes",
+            "Eat at the counter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the cut and the price",
+            "Show the pit",
+            "Name the wood"
+          ],
+          "donts": [
+            "Use 'low and slow' as marketing",
+            "Sell sauce as the hero",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: OAK in a precise modern grotesk, all caps, three letters, generous tracking.",
+        "colorPalette": [
+          {
+            "name": "Smoke",
+            "hex": "#3A3833",
+            "meaning": "Smoke ring.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark",
+          "secondary": "Neue Haas Grotesk for body",
+          "rationale": "One family across the system."
+        }
+      },
+      {
+        "brandName": "Pit.",
+        "tagline": "One word.",
+        "brandNameRationale": "Pit names the pit. Period as logo.",
+        "industrySummary": "Minimal BBQ joints strip to the object. The opening is a period-as-mark joint.",
+        "competitorLandscape": "Franklin Barbecue (franklinbbq.com) plays the technique peer. Goldee's (goldeesbbq.com) holds the modern middle. Lewis Barbecue (lewisbarbecue.com) is the reference. We sit at period-as-mark minimal.",
+        "positioningStatement": "Pit. is a minimal BBQ joint named for the pit.",
+        "targetAudience": {
+          "primary": "BBQ pilgrims 28–55.",
+          "behaviors": [
+            "Drive for brisket",
+            "Eat at the counter",
+            "Skip sides"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the pit",
+            "Print the cut and the price",
+            "Name the wood"
+          ],
+          "donts": [
+            "Use 'low and slow' as marketing",
+            "Sell sauce as the hero",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: pit. in a clean humanist sans, all lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Smoke",
+            "hex": "#3A3833",
+            "meaning": "Smoke ring.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark",
+          "secondary": "ABC Diatype for body",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "Smoke",
+        "tagline": "The medium.",
+        "brandNameRationale": "Smoke names the medium. Single word, verb and noun.",
+        "industrySummary": "Minimal BBQ joints name the medium. The opening is a smoke-named joint.",
+        "competitorLandscape": "Franklin Barbecue (franklinbbq.com) plays the technique peer. Goldee's (goldeesbbq.com) holds the modern middle. La Barbecue (labarbecue.com) is the reference. We sit at single-word minimal.",
+        "positioningStatement": "Smoke is a minimal BBQ joint named for the medium.",
+        "targetAudience": {
+          "primary": "BBQ pilgrims 28–55.",
+          "behaviors": [
+            "Drive for brisket",
+            "Eat at the counter",
+            "Skip sides"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the pit",
+            "Print the cut and the price",
+            "Name the wood"
+          ],
+          "donts": [
+            "Use 'low and slow' as marketing",
+            "Sell sauce as the hero",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: SMOKE in a precise modern grotesk, all caps, five letters, generous tracking.",
+        "colorPalette": [
+          {
+            "name": "Smoke",
+            "hex": "#3A3833",
+            "meaning": "Smoke ring.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "One family."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Hill Country Smokehouse Co.",
+        "tagline": "Regional BBQ at scale.",
+        "brandNameRationale": "Hill Country names the Texas BBQ region; Smokehouse names the format; Co. closes it as a trade company. Geographic + format + Co.",
+        "industrySummary": "Regional BBQ operators consolidate joints under one back office. The opening is a Hill-Country-anchored multi-location operator.",
+        "competitorLandscape": "Salt Lick (saltlickbbq.com) plays the regional peer. Rudy's (rudysbbq.com) holds the multi-location middle. County Line (countyline.com) is the reference. We sit as a Hill-Country-anchored multi-location operator.",
+        "positioningStatement": "Hill Country Smokehouse Co. is a multi-location BBQ operator with shared supply and pit standards.",
+        "targetAudience": {
+          "primary": "Hospitality groups and BBQ founders considering sale.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about case-pack consistency",
+            "Compare BBQ vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Regional",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with locations and pit count",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single joint",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: HILL COUNTRY SMOKEHOUSE CO. in a clean institutional serif, three lines. A small mark — a single pit silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Reading serif plus clean grotesk — the operator register."
+        }
+      },
+      {
+        "brandName": "Ember & Iron Holdings",
+        "tagline": "Multi-brand smokehouse operator.",
+        "brandNameRationale": "Ember names the fuel; Iron names the smoker steel. Holdings closes it as a multi-brand operator.",
+        "industrySummary": "Multi-brand BBQ holding companies consolidate brands under one operator. The opening is a fuel-and-steel named holding.",
+        "competitorLandscape": "Salt Lick (saltlickbbq.com) plays the regional peer. Rudy's (rudysbbq.com) holds the multi-location middle. County Line (countyline.com) is the reference. We sit as a multi-brand operator.",
+        "positioningStatement": "Ember & Iron Holdings is a multi-brand BBQ holding operator with shared supply and pit standards.",
+        "targetAudience": {
+          "primary": "Hospitality groups and BBQ founders considering sale.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about case-pack consistency",
+            "Compare protein vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-brand",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand count",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single joint",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: EMBER & IRON HOLDINGS in a clean institutional serif, two lines. A small mark — a single ember-and-iron silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Classical serif plus clean grotesk — the operator register."
+        }
+      },
+      {
+        "brandName": "Pit Standard Group",
+        "tagline": "Multi-location smokehouse operator.",
+        "brandNameRationale": "Pit Standard names the operating standard across pits; Group closes it as a multi-location operator.",
+        "industrySummary": "Multi-location BBQ operators trade on pit standards. The opening is a standard-named multi-location operator.",
+        "competitorLandscape": "Salt Lick (saltlickbbq.com) plays the regional peer. Rudy's (rudysbbq.com) holds the multi-location middle. County Line (countyline.com) is the reference. We sit as a standard-named operator.",
+        "positioningStatement": "Pit Standard Group is a multi-location BBQ operator with a single published pit standard.",
+        "targetAudience": {
+          "primary": "Hospitality groups and BBQ founders considering sale.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about pit consistency",
+            "Compare BBQ vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the pit standard",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single joint",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: PIT STANDARD GROUP in a clean institutional serif, two lines.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Butcher Paper",
+        "tagline": "Unwrap.",
+        "brandNameRationale": "Butcher paper is the Franklin-school staple — the ritual of unwrapping the brisket. Editorial anchor on the ritual.",
+        "industrySummary": "Editorial BBQ brands trade on the ritual. The opening is a butcher-paper named editorial joint with a journal program.",
+        "competitorLandscape": "Franklin Barbecue (franklinbbq.com) plays the technique peer. Goldee's (goldeesbbq.com) holds the modern middle. Lewis Barbecue (lewisbarbecue.com) is the reference. We sit as an editorial butcher-paper-named joint.",
+        "positioningStatement": "Butcher Paper is a creative BBQ joint built on the unwrapping ritual and a printed journal.",
+        "targetAudience": {
+          "primary": "Editorial BBQ pilgrims 28–55.",
+          "behaviors": [
+            "Read the journal",
+            "Care about the unwrapping ritual",
+            "Eat at the counter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Warm",
+          "Patient",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal seasonally",
+            "Photograph the unwrap",
+            "Name the wood and cut"
+          ],
+          "donts": [
+            "Use 'low and slow' as marketing",
+            "Sell sauce as the hero",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: BUTCHER PAPER in a confident editorial serif, two lines. A small mark — a folded paper edge — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Butcher Paper",
+            "hex": "#F1ECDB",
+            "meaning": "Pink butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Smoke",
+            "hex": "#3A3833",
+            "meaning": "Smoke ring.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body and journal",
+          "rationale": "Reading serif plus clean grotesk — the editorial register."
+        }
+      },
+      {
+        "brandName": "The Bark Room",
+        "tagline": "The crust on smoked meat.",
+        "brandNameRationale": "Bark is the trade term for the crust on smoked meat. The bark room is the editorial register on the crust.",
+        "industrySummary": "Editorial BBQ brands trade on a trade term. The opening is a bark-named editorial joint.",
+        "competitorLandscape": "Franklin Barbecue (franklinbbq.com) plays the technique peer. Goldee's (goldeesbbq.com) holds the modern middle. Lewis Barbecue (lewisbarbecue.com) is the reference. We sit as a bark-named editorial joint.",
+        "positioningStatement": "The Bark Room is a creative BBQ joint built on the bark — the crust of smoked meat.",
+        "targetAudience": {
+          "primary": "Editorial BBQ pilgrims 28–55.",
+          "behaviors": [
+            "Read the journal",
+            "Care about the bark",
+            "Eat at the counter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Warm",
+          "Specialist"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal seasonally",
+            "Photograph the bark",
+            "Name the cut and wood"
+          ],
+          "donts": [
+            "Use 'low and slow' as marketing",
+            "Sell sauce as the hero",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: THE BARK ROOM in a confident editorial serif, three lines centered. A small mark — a single bark-edge silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Butcher Paper",
+            "hex": "#F1ECDB",
+            "meaning": "Pink butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bark",
+            "hex": "#3A2418",
+            "meaning": "Crust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "High-contrast serif plus clean grotesk — the editorial register."
+        }
+      },
+      {
+        "brandName": "Low & Slow Society",
+        "tagline": "Method as a club.",
+        "brandNameRationale": "Low & Slow is the method; Society names it as a club. Method-as-club creative register.",
+        "industrySummary": "Editorial BBQ brands trade on a method. The opening is a method-as-club editorial program.",
+        "competitorLandscape": "Franklin Barbecue (franklinbbq.com) plays the technique peer. Goldee's (goldeesbbq.com) holds the modern middle. Lewis Barbecue (lewisbarbecue.com) is the reference. We sit as a method-as-club editorial program.",
+        "positioningStatement": "Low & Slow Society is a creative BBQ membership program built on the method.",
+        "targetAudience": {
+          "primary": "Editorial BBQ pilgrims 28–55 who want a club.",
+          "behaviors": [
+            "Pay annual dues",
+            "Read the journal",
+            "Eat at the counter on member nights"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Warm",
+          "Community"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal",
+            "Run member nights",
+            "Sign correspondence"
+          ],
+          "donts": [
+            "Use 'low and slow' as marketing externally",
+            "Discount the program",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: LOW & SLOW SOCIETY in a confident editorial serif, three lines centered. A small mark — a single ember silhouette — used on the membership card.",
+        "colorPalette": [
+          {
+            "name": "Butcher Paper",
+            "hex": "#F1ECDB",
+            "meaning": "Pink butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Smoke",
+            "hex": "#3A3833",
+            "meaning": "Smoke ring.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember",
+            "hex": "#A53528",
+            "meaning": "Ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      }
+    ]
+  }
+}

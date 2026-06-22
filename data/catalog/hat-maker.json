@@ -1,0 +1,326 @@
+{
+  "industry": "hat-maker",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Crown & Co.",
+        "tagline": "Hats made on the block, in the city.",
+        "brandNameRationale": "The crown is the part of a hat that sits on the head \u2014 the structural centre of every hat ever made. Strongest of Agent A's modern row: Brim Studio is fine but the brim is secondary, Felt & Form is too abstract. Crown & Co. is a clean two-word wordmark that names the most important part of the object and reads like a credible modern hatter without referencing the protected legacy houses (Lock, Stetson, Borsalino).",
+        "industrySummary": "Modern hat-making in 2025+ sits between the heritage houses (Lock & Co, Stetson, Borsalino) and the streetwear caps (New Era). The opening is for a small-batch modern hatter that makes a tight range \u2014 a fedora, a panama, a flat cap \u2014 and posts the hatter's name. Customers are 30-50, dress better than their friends, and want a hat made for their head.",
+        "competitorLandscape": "Lock & Co. (lockhatters.com) holds the heritage tier at 350 years. Stetson (stetson.com) holds the western-American legacy. Optimo Hats (optimo.com) is the closest modern peer in Chicago. We sit smaller, urban, and made-to-order.",
+        "positioningStatement": "A modern hatter making a tight range, to the head.",
+        "targetAudience": {
+          "primary": "30 to 50. Dresses with intent. Owns a good overcoat. Has wanted a real fedora since their twenties and is finally going to do it. Will travel for the fitting.",
+          "behaviors": [
+            "Books a fitting and a measure",
+            "Asks about felt weight and rabbit-vs-beaver",
+            "Wears the hat the day they get it"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Crafted",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the hatter who blocked the hat",
+            "Show the block in use",
+            "Quote felt origin and grade"
+          ],
+          "donts": [
+            "Sell baseball caps",
+            "Run flash sales",
+            "Photograph hats on mannequin heads"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 CROWN & CO. set in a precise modern serif. A small abstract crown form (the top of a hat seen from above) sits as the favicon and the inside-band stamp. The mark is foil-stamped into the leather sweatband.",
+        "colorPalette": [
+          {
+            "name": "Felt Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Raw beaver felt before dye.",
+            "usage": "Backgrounds, packaging, paper."
+          },
+          {
+            "name": "Block Brown",
+            "hex": "#3E2C20",
+            "meaning": "The wooden milliner's block.",
+            "usage": "Wordmark, headers, body type."
+          },
+          {
+            "name": "Hatband Gold",
+            "hex": "#A8843D",
+            "meaning": "Foil on the sweatband.",
+            "usage": "Foil, the crown mark, hover."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and printed material",
+          "secondary": "S\u00f6hne for the booking and body",
+          "rationale": "Sectra carries the hatter-craft register; S\u00f6hne keeps the booking modern."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Alessandria Hat Co.",
+        "tagline": "Felt hats in the Alessandria tradition.",
+        "brandNameRationale": "Alessandria, Piedmont is the home of Italian hat-making \u2014 Borsalino was founded there in 1857, and the town's hat industry predates and outlasts any single house. Strongest of Agent A's place row for luxury: St James's Block borrows from Lock & Co's actual address, Cuenca Panama is correct for panamas only. Alessandria is the city that defines Italian felt and is itself unbranded, sidestepping the Borsalino TM that Agent A flagged.",
+        "industrySummary": "Luxury hat-making serves the customer who already owns the Borsalino and the Lock and wants the next one bespoke. The opening is a small Italian-tradition hatter making to measure, with a register that nods to Piedmont craft rather than mass production.",
+        "competitorLandscape": "Borsalino (borsalino.com) holds the Italian heritage. Lock & Co. (lockhatters.com) is the English peer at 350 years. Worth & Worth (hatshop.com) is the New York bespoke peer. We sit smaller and Alessandria-rooted.",
+        "positioningStatement": "Bespoke felt hats in the Alessandria tradition.",
+        "targetAudience": {
+          "primary": "45 to 70. Owns a Borsalino and a Lock. Travels with a hat box. Will pay for the bespoke, the felt sample, and the fitting in person.",
+          "behaviors": [
+            "Books a fitting six months ahead",
+            "Asks for the felt provenance",
+            "Keeps the hat in a wooden box"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Refined",
+          "Patient",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Refer to felt by mill and grade",
+            "Send a paper hatband-card with each delivery",
+            "Confirm fittings by call"
+          ],
+          "donts": [
+            "Run social media campaigns",
+            "Publish prices",
+            "Display 'looks' on a model"
+          ]
+        },
+        "logoDirection": "A serif wordmark with elegant ligatures. A small embossed door-plate mark \u2014 a brass hat-block in silhouette \u2014 sits beneath the wordmark, used on the hatbox, the leather sweatband, and the shop door.",
+        "colorPalette": [
+          {
+            "name": "Atelier Cream",
+            "hex": "#EFE9DB",
+            "meaning": "The atelier wall, beeswax paper.",
+            "usage": "Stationery, paper, hatbox lining."
+          },
+          {
+            "name": "Piedmont Green",
+            "hex": "#1F3A2E",
+            "meaning": "The Piedmont hill and the felt-mill drying yard.",
+            "usage": "Wordmark, primary signage."
+          },
+          {
+            "name": "Brass Block",
+            "hex": "#A6843D",
+            "meaning": "The door plate, the hatband foil.",
+            "usage": "Foil, plate, hardware."
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "S\u00f6hne for the booking confirmation",
+          "rationale": "A high-contrast classical serif carries the atelier register; the grotesk handles the one digital surface."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Brim",
+        "tagline": "A hatter. One block at a time.",
+        "brandNameRationale": "The brim is the second structural part of a hat \u2014 and 'brim' is one syllable. Strongest minimal mark of Agent A's modern row: Crown & Co. is two words (used for the modern slot), Felt & Form is too abstract. Brim alone \u2014 single English word, names the object, reads on a sign in any city.",
+        "industrySummary": "Minimal hat-making is a workshop, a block, and a hatter. The opening is a maker who publishes the range, the price, and the wait time, and ships when the hat is done. Customers want a real hat, not a brand.",
+        "competitorLandscape": "Optimo Hats (optimo.com) holds the minimal-bespoke peer. Worth & Worth (hatshop.com) competes in NYC bespoke. Local independent milliners compete on relationship. We publish less than any of them.",
+        "positioningStatement": "A hatter. Three shapes. Published prices.",
+        "targetAudience": {
+          "primary": "Adults 30-55 who want a single hat \u2014 fedora, panama, or flat cap \u2014 made to fit. They don't want the brand. They want the hat to last twenty years.",
+          "behaviors": [
+            "Books a fitting and waits",
+            "Reads the price list before booking",
+            "Sends the hat back for a re-block in year ten"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the three shapes and the prices",
+            "Confirm the order in one sentence",
+            "Quote the wait honestly"
+          ],
+          "donts": [
+            "Run sales",
+            "Bundle with accessories",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark only. BRIM set in a single-weight grotesk, wide kerned, all caps. No icon. The wordmark works on the door, the hatbox, and the inside-band stamp.",
+        "colorPalette": [
+          {
+            "name": "Felt White",
+            "hex": "#F6F4ED",
+            "meaning": "Raw felt, paper, the workshop wall.",
+            "usage": "Backgrounds, walls, paper."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type."
+          },
+          {
+            "name": "Block",
+            "hex": "#7A5A3F",
+            "meaning": "Wooden hat block \u2014 secondary anchor.",
+            "usage": "Dividers, the workshop bench."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The door, the hatbox, and the site all carry the same wordmark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Coke Brothers Hat Group",
+        "tagline": "A multi-shop hat-making partnership in the Coke tradition.",
+        "brandNameRationale": "William Coke commissioned the original bowler (the 'Coke hat') in 1849 from Lock & Co \u2014 making the Coke surname the anchor of the bowler's history without using the Lock & Co name. Strongest of Agent A's heritage row for corporate: Beaver & Felt is craft but not corporate, Bowler & Crown reads single-shop. Coke Brothers carries the surname seriously and lands as a partnership-style group, well clear of any active TM.",
+        "industrySummary": "Corporate hat-making in 2025+ is small as a category \u2014 most consolidation is in hat-and-cap distribution rather than craft. The opening is for a partnership-model group that brings together independent hatters under a serious wholesale-and-bespoke umbrella, positioned on craft seniority.",
+        "competitorLandscape": "Bollman Hat Co. (bollmanhats.com) holds the US heritage manufacturing tier. Stetson (stetson.com) is the legacy western peer. New Era (neweracap.com) holds the licensed-cap distribution. We sit smaller, partnership-model, and craft-led.",
+        "positioningStatement": "A clinician-led \u2014 sorry, hatter-led \u2014 partnership in the Coke tradition.",
+        "targetAudience": {
+          "primary": "Buyers at luxury department stores, costume directors at major productions, and independent hatters considering joining a group. They sign multi-season contracts and care about craft quality, delivery, and master-hatter retention.",
+          "behaviors": [
+            "Reviews craft sample boards before signing",
+            "Negotiates multi-season terms",
+            "Values master-hatter retention as a signal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Crafted",
+          "Professional",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with master-hatter retention and craft KPIs",
+            "Speak the language of wholesale buyers and costume",
+            "Publish quarterly craft letters"
+          ],
+          "donts": [
+            "Use streetwear language",
+            "Run social campaigns",
+            "Promote individual hatters nationally"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a single bowler-hat silhouette in cross-section \u2014 to the left. Reads cleanly on uniforms, signage, and wholesale decks.",
+        "colorPalette": [
+          {
+            "name": "Coke Navy",
+            "hex": "#102236",
+            "meaning": "Heritage authority.",
+            "usage": "Logo, primary surfaces."
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper."
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body text, dividers."
+          },
+          {
+            "name": "Brass",
+            "hex": "#B08D52",
+            "meaning": "Quiet accent.",
+            "usage": "Highlights, hover."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed quarterly letters",
+          "rationale": "Inter scales cleanly across wholesale decks; the serif handles the printed letters."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Milliner's Block",
+        "tagline": "A hatter's workshop. The block makes the hat.",
+        "brandNameRationale": "The milliner's block is the wooden form, hand-carved per size, that gives a hat its crown shape \u2014 the foundational tool of the trade. Strongest of Agent A's craft row for creative: Sweatband & Crown is two parts but not the tool, Toquilla Weave is panama-only. The Milliner's Block names the actual tool that every hat is made on, and reads as a designed workshop in the register of a printer's-shop or a luthier's bench.",
+        "industrySummary": "Creative hat-making sits in the register of a designed printer's shop or a small luthier \u2014 the workshop is the brand. Customers are design-literate, often in adjacent crafts, and want a hat made on a real block by a hatter they can name. The opening is a brand with print-shop, illustrated, tool-rich identity.",
+        "competitorLandscape": "Optimo Hats (optimo.com) holds the design-led peer in Chicago. Worth & Worth (hatshop.com) competes in NYC bespoke. Larose Paris (laroseparis.com) is the closest editorial-design peer. We sit warmer, more workshop-honest.",
+        "positioningStatement": "A hatter's workshop organised around the block.",
+        "targetAudience": {
+          "primary": "30 to 50. Editors, designers, musicians. Buys good pencils, good notebooks, and the occasional good hat. Will pay for a hat made on a block they can photograph.",
+          "behaviors": [
+            "Asks to see the block",
+            "Buys the illustrated block chart for the studio",
+            "Tells exactly one friend"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Warm",
+          "Curious",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Commission a yearly illustrated block chart",
+            "Print the price card on heavy paper",
+            "Name each block by size and shape"
+          ],
+          "donts": [
+            "Sell branded merch",
+            "Run themed seasonal posts",
+            "Use stock photos of hats on models"
+          ]
+        },
+        "logoDirection": "A wordmark in a chunky display serif with letterpress impression. The O of BLOCK is set as a small woodblock-style hat-block in cross-section. A standalone block mark for stickers and the hatbox tag.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#1A1A1A",
+            "meaning": "Letterpress ink.",
+            "usage": "Wordmark, body, illustrations."
+          },
+          {
+            "name": "Block Brown",
+            "hex": "#7A5A3F",
+            "meaning": "The wooden block itself.",
+            "usage": "Secondary surfaces, paper."
+          },
+          {
+            "name": "Hatband Red",
+            "hex": "#A8313F",
+            "meaning": "Single accent \u2014 the printer's stamp.",
+            "usage": "Stickers, headlines, the band."
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Heavy paper.",
+            "usage": "Backgrounds, cards, walls."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and illustrated charts",
+          "secondary": "GT Sectra Book for the printed price card",
+          "rationale": "One family, two cuts. The display reads woodblock; the book weight handles the price card."
+        }
+      }
+    ]
+  }
+}

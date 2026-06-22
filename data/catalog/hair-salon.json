@@ -1,0 +1,910 @@
+{
+  "industry": "hair-salon",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Sharps Studio",
+        "tagline": "Sharp lines. Sharp tools.",
+        "brandNameRationale": "Sharps doubles as the trade slang for the shears and the cut they produce; Studio places the shop in the modern stylist-studio register. Two-word, trade-honest, modern.",
+        "industrySummary": "Modern unisex salons compete on cut precision and studio feel rather than chair count. The opening is for a precision-cut studio whose name is the act and the tool.",
+        "competitorLandscape": "Blackstones (blackstonesnyc.com) plays the precision-cut peer. Hairstory (hairstory.com) holds the modern unisex middle. Rudy's Barbershop (rudysbarbershop.com) is the everyday reference. We sit alongside Blackstones with a tighter studio frame.",
+        "positioningStatement": "Sharps Studio is a modern precision-cut salon for clients who want the line, not the lifestyle.",
+        "targetAudience": {
+          "primary": "Urban professionals 25–45 who book the same stylist every six weeks.",
+          "behaviors": [
+            "Book six weeks ahead",
+            "Care about the line over the product",
+            "Tip the same stylist for years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Precise",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the cut from three angles",
+            "Quote the cut time honestly",
+            "Print the menu plainly"
+          ],
+          "donts": [
+            "Use 'transformation' as a category",
+            "Sell add-on treatments",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: SHARPS STUDIO in a tight modern grotesk, one line. A single hairline rule beneath, used as the studio's mark.",
+        "colorPalette": [
+          {
+            "name": "Studio White",
+            "hex": "#F4F1EA",
+            "meaning": "Studio wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sharp Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Steel",
+            "hex": "#7C8086",
+            "meaning": "Shear blade.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for the menu and prices",
+          "rationale": "One family, two registers — the studio register."
+        }
+      },
+      {
+        "brandName": "Parted",
+        "tagline": "The part is the cut.",
+        "brandNameRationale": "Parted names the single decisive act of styling: where the hair is parted. One past-participle word; verb-as-name in the modern unisex tradition.",
+        "industrySummary": "Modern salons compete on style philosophy. The opening is for a salon that names itself after the central styling decision — the part.",
+        "competitorLandscape": "Blackstones (blackstonesnyc.com) plays the precision-cut peer. Hairstory (hairstory.com) holds the modern unisex middle. Sally Hershberger (sallyhershberger.com) is the celebrity-stylist reference. We sit closer to Hairstory in posture.",
+        "positioningStatement": "Parted is a modern unisex salon built on the part as the central styling decision.",
+        "targetAudience": {
+          "primary": "Urban clients 25–45 who keep one part for years.",
+          "behaviors": [
+            "Maintain the same part for years",
+            "Book the same stylist",
+            "Care about the part more than product"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Considered",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the part close up",
+            "Name the part on the booking card",
+            "Print the menu plainly"
+          ],
+          "donts": [
+            "Use 'transformation' as a category",
+            "Push add-on color",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: parted in a clean humanist sans, all lowercase, with a single hairline running through the 't' as the part mark.",
+        "colorPalette": [
+          {
+            "name": "Studio White",
+            "hex": "#F4F1EA",
+            "meaning": "Studio wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Soft Rose",
+            "hex": "#D8AFA0",
+            "meaning": "Warm accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark",
+          "secondary": "ABC Diatype for body",
+          "rationale": "One family across the system."
+        }
+      },
+      {
+        "brandName": "Crop & Co.",
+        "tagline": "The crop, modern.",
+        "brandNameRationale": "Crop is the unisex short-haircut family (the French crop, the crop top). & Co. closes it as a small modern shop. Trade-honest unisex framing.",
+        "industrySummary": "Modern unisex salons trade on a single signature cut. The opening is for a crop-named shop whose menu is built around the crop family.",
+        "competitorLandscape": "Blackstones (blackstonesnyc.com) plays the precision-cut peer. Hairstory (hairstory.com) holds the modern unisex middle. Rudy's Barbershop (rudysbarbershop.com) is the everyday reference. We sit as a crop-specialist modern shop.",
+        "positioningStatement": "Crop & Co. is a modern unisex salon specializing in the crop family of haircuts.",
+        "targetAudience": {
+          "primary": "Urban clients 22–40 who want a short, considered cut.",
+          "behaviors": [
+            "Book the crop every four weeks",
+            "Care about the line",
+            "Skip the styling product upsell"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Specialist",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the crop variants on a card",
+            "Name the crop honestly",
+            "Quote the cut time"
+          ],
+          "donts": [
+            "Use 'transformation' as a category",
+            "Sell add-on treatments",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: CROP & CO. in a tight modern grotesk, one line. A small mark — a single shear silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Studio White",
+            "hex": "#F4F1EA",
+            "meaning": "Studio wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Crop Red",
+            "hex": "#A53528",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for the menu",
+          "rationale": "One family, two registers."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Mayfair Chair",
+        "tagline": "The chair, Mayfair.",
+        "brandNameRationale": "Mayfair is London's traditional barbering address (Truefitt & Hill, Geo. F. Trumper neighborhood); the chair is the throne of the trade. The definite article gives it a house register without borrowing any active mark.",
+        "industrySummary": "Luxury barbering still anchors on Mayfair and St James's. The opening is for a chair-led luxury barber whose name evokes the address without imitating any active house.",
+        "competitorLandscape": "Truefitt & Hill (truefittandhill.co.uk) plays the heritage peer. Geo. F. Trumper (trumpers.com) holds the Mayfair tradition. Pankhurst London (pankhurstlondon.com) is the modern Mayfair reference. We sit alongside Pankhurst with a chair-led frame.",
+        "positioningStatement": "The Mayfair Chair is a luxury London barber built around the chair, the hot towel, and the appointment book.",
+        "targetAudience": {
+          "primary": "UHNW men 35–70 with standing weekly appointments.",
+          "behaviors": [
+            "Book the same chair every week",
+            "Pay the annual subscription",
+            "Bring sons into the chair"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Discreet",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname",
+            "Print the appointment book",
+            "Reference the chair"
+          ],
+          "donts": [
+            "Discount the service",
+            "Photograph against marble",
+            "Sell on Amazon"
+          ]
+        },
+        "logoDirection": "Wordmark: THE MAYFAIR CHAIR in a refined English serif, three lines centered. A small mark — a single chair-back silhouette — used on the appointment card.",
+        "colorPalette": [
+          {
+            "name": "Mayfair Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Hotel paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Mahogany",
+            "hex": "#5A3220",
+            "meaning": "Chair frame.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Foil.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A classical English serif plus a reading serif — the Mayfair register."
+        }
+      },
+      {
+        "brandName": "Belgravia & Bone",
+        "tagline": "Bone-handled. Belgravia-cut.",
+        "brandNameRationale": "Belgravia anchors the address; bone names the bone-handled combs and brushes that signal heritage barbering. Two anchors, paired.",
+        "industrySummary": "Top-end London salons compete on address and the artifact at the chair. The opening is for an address-and-artifact luxury salon.",
+        "competitorLandscape": "Truefitt & Hill (truefittandhill.co.uk) plays the heritage peer. Daniel Galvin (danielgalvin.com) holds the luxury-color middle. Josh Wood Colour (joshwoodcolour.com) is the modern luxury reference. We sit as an address-and-artifact luxury salon.",
+        "positioningStatement": "Belgravia & Bone is a luxury London salon built around bone-handled combs and the Belgravia chair tradition.",
+        "targetAudience": {
+          "primary": "UHNW clients 35–65 with weekly appointments.",
+          "behaviors": [
+            "Book weekly",
+            "Care about the comb and the chair",
+            "Pay annual retainer"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Discreet",
+          "Refined",
+          "Quietly clinical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the bone-handled tools",
+            "Address by surname",
+            "Print the appointment book"
+          ],
+          "donts": [
+            "Discount the service",
+            "Photograph against marble",
+            "Sell on Amazon"
+          ]
+        },
+        "logoDirection": "Wordmark: BELGRAVIA & BONE in a refined English serif, two lines centered. A small mark — a bone-handled comb silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Bone",
+            "hex": "#EFE4CE",
+            "meaning": "Bone handle.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Belgravia Black",
+            "hex": "#161516",
+            "meaning": "Door paint.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Hardware.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A reading-serif family — the Belgravia register."
+        }
+      },
+      {
+        "brandName": "Atelier Coif",
+        "tagline": "An atelier of the coif.",
+        "brandNameRationale": "Coif is an archaic word for the head of hair; atelier names the workshop register. Two precise nouns, French-leaning.",
+        "industrySummary": "Luxury salons compete on workshop register and master-stylist relationships. The opening is for a coif-named atelier with a Parisian register.",
+        "competitorLandscape": "David Mallett (david-mallett.com) plays the Parisian luxury peer. Christophe Robin (christophe-robin.com) holds the color-master middle. Sally Hershberger (sallyhershberger.com) is the celebrity reference. We sit closer to David Mallett.",
+        "positioningStatement": "Atelier Coif is a luxury Parisian-register salon built around the master stylist and the coif as the work.",
+        "targetAudience": {
+          "primary": "UHNW clients 35–60.",
+          "behaviors": [
+            "Book the master stylist for years",
+            "Travel for the appointment",
+            "Care about the coif as the work"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "French",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign cards in the master's name",
+            "Photograph the atelier",
+            "Print the appointment book"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell on Amazon"
+          ]
+        },
+        "logoDirection": "Wordmark: ATELIER COIF in a refined French serif, two lines centered. A small mark — a single hairline curve — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Atelier Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Atelier paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#161516",
+            "meaning": "Type.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the atelier register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Comb.",
+        "tagline": "The tool.",
+        "brandNameRationale": "Comb is the smallest tool in the trade. Period as logo. Single word, single object.",
+        "industrySummary": "Most salons elaborate their names. The opening is for a one-object name and a period.",
+        "competitorLandscape": "Blackstones (blackstonesnyc.com) plays the precision-cut peer. Hairstory (hairstory.com) holds the modern minimal middle. Rudy's Barbershop (rudysbarbershop.com) is the everyday reference. We sit at the minimal extreme.",
+        "positioningStatement": "Comb. is a minimal salon named for the single basic tool of the trade.",
+        "targetAudience": {
+          "primary": "Urban clients 22–45 who want a clean cut and no brand world.",
+          "behaviors": [
+            "Book the same stylist",
+            "Care about the cut, not the product",
+            "Skip the upsell"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the cut on a plain background",
+            "Print the menu plainly",
+            "Name the cut by the cut"
+          ],
+          "donts": [
+            "Use 'transformation' as a category",
+            "Sell add-on treatments",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: comb. set large in a clean humanist sans, all lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Studio White",
+            "hex": "#F4F1EA",
+            "meaning": "Studio wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark",
+          "secondary": "ABC Diatype for body",
+          "rationale": "One family across the system."
+        }
+      },
+      {
+        "brandName": "Shear",
+        "tagline": "One verb. One tool.",
+        "brandNameRationale": "Shear is the verb and the tool at the same time. One syllable, single word.",
+        "industrySummary": "Minimal salons trade on the one act. The opening is for a verb-named shop.",
+        "competitorLandscape": "Blackstones (blackstonesnyc.com) plays the precision peer. Hairstory (hairstory.com) holds the unisex middle. Rudy's Barbershop (rudysbarbershop.com) is the everyday reference. We sit at verb-only minimal.",
+        "positioningStatement": "Shear is a minimal salon named for the single act and the single tool.",
+        "targetAudience": {
+          "primary": "Urban clients 25–45.",
+          "behaviors": [
+            "Book the same stylist",
+            "Care about the cut",
+            "Skip the upsell"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the act",
+            "Print the menu plainly",
+            "Name the cut by the cut"
+          ],
+          "donts": [
+            "Use 'transformation' as a category",
+            "Sell add-on treatments",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: SHEAR in a precise modern grotesk, all caps, five letters with generous tracking.",
+        "colorPalette": [
+          {
+            "name": "Studio White",
+            "hex": "#F4F1EA",
+            "meaning": "Studio wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Steel",
+            "hex": "#7C8086",
+            "meaning": "Shear blade.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "One family across the system."
+        }
+      },
+      {
+        "brandName": "The Apron",
+        "tagline": "The garment.",
+        "brandNameRationale": "The apron is the single garment of the barbering trade. Definite article + single noun.",
+        "industrySummary": "Minimal salons name themselves after the artifact. The opening is for a garment-named shop.",
+        "competitorLandscape": "Blackstones (blackstonesnyc.com) plays the precision peer. Rudy's Barbershop (rudysbarbershop.com) holds the everyday middle. Hairstory (hairstory.com) is the modern reference. We sit at garment-as-name minimal.",
+        "positioningStatement": "The Apron is a minimal salon named for the single garment of the trade.",
+        "targetAudience": {
+          "primary": "Urban clients 25–45.",
+          "behaviors": [
+            "Book the same chair",
+            "Care about the cut",
+            "Skip the upsell"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the apron alone",
+            "Print the menu plainly",
+            "Name the cut by the cut"
+          ],
+          "donts": [
+            "Use 'transformation' as a category",
+            "Sell add-on treatments",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: THE APRON in a clean modern grotesk, two lines centered. The favicon is a single apron silhouette.",
+        "colorPalette": [
+          {
+            "name": "Apron Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Apron canvas.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F4F1EA",
+            "meaning": "Page.",
+            "usage": "Marketing"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark",
+          "secondary": "Neue Haas Grotesk for body",
+          "rationale": "One family."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Cutwell Group",
+        "tagline": "Multi-brand salon operator.",
+        "brandNameRationale": "Cutwell is a clean compound: the cut + the trade adverb (cut well). Group closes it as a multi-brand operator.",
+        "industrySummary": "Multi-brand salon operators consolidate regional shops under one back office. The opening is for a cut-named operator.",
+        "competitorLandscape": "Regis Corporation (regiscorp.com) plays the institutional peer. Toni & Guy (toniandguy.com) holds the multi-brand middle. Hairstory (hairstory.com) is the modern reference. We sit as a regional multi-brand operator.",
+        "positioningStatement": "Cutwell Group is a multi-brand salon operator running regional shops with shared back office and supply.",
+        "targetAudience": {
+          "primary": "Salon founders considering sale, hospitality groups, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about chair utilization",
+            "Compare salon vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Quietly modern",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with chair count and footprint",
+            "Speak to founders, not clients",
+            "Publish a quarterly operator letter"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Promote consumer offers",
+            "Run social-media campaigns at the parent level"
+          ]
+        },
+        "logoDirection": "Wordmark: CUTWELL GROUP in a clean institutional serif, two lines. A small mark — a single shear silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Steel",
+            "hex": "#7C8086",
+            "meaning": "Shear blade.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the operator register."
+        }
+      },
+      {
+        "brandName": "Northchair Hair Co.",
+        "tagline": "Directional. Functional.",
+        "brandNameRationale": "Northchair pairs a directional compound (North) with the chair (the unit of work). Hair Co. closes it as a trade company.",
+        "industrySummary": "Regional salon chains compete on consistency across shops. The opening is for a directional + chair-unit operator.",
+        "competitorLandscape": "Regis Corporation (regiscorp.com) plays the institutional peer. Toni & Guy (toniandguy.com) holds the multi-brand middle. Great Clips (greatclips.com) is the volume reference. We sit as a regional operator with a chair-as-unit frame.",
+        "positioningStatement": "Northchair Hair Co. is a multi-brand regional salon operator with shared chair-management systems.",
+        "targetAudience": {
+          "primary": "Salon owners and hospitality groups considering sale.",
+          "behaviors": [
+            "Sign multi-year operating contracts",
+            "Care about chair utilization",
+            "Compare vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Operational",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with chair count",
+            "Publish quarterly",
+            "Speak to operators"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Run consumer offers from the parent",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: NORTHCHAIR HAIR CO. in a clean institutional serif, two lines. A small mark — a chair-back silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Classical serif plus clean grotesk — the operator register."
+        }
+      },
+      {
+        "brandName": "Atelier Coif Group",
+        "tagline": "Multi-atelier operator.",
+        "brandNameRationale": "Atelier Coif extends the workshop register; Group closes it as a multi-atelier operator.",
+        "industrySummary": "Luxury salon groups consolidate ateliers under one back office. The opening is for an atelier-named multi-shop operator.",
+        "competitorLandscape": "Toni & Guy (toniandguy.com) plays the multi-brand peer. Daniel Galvin (danielgalvin.com) holds the luxury middle. David Mallett (david-mallett.com) is the atelier reference. We sit as a multi-atelier operator.",
+        "positioningStatement": "Atelier Coif Group is a multi-atelier luxury salon operator with shared master-stylist program.",
+        "targetAudience": {
+          "primary": "Hospitality groups and salon founders considering sale.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about master-stylist retention",
+            "Compare luxury salon vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "French",
+          "Refined",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with atelier count",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Discount",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: ATELIER COIF GROUP in a clean institutional serif, two lines.",
+        "colorPalette": [
+          {
+            "name": "Atelier Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Atelier paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "High-contrast serif plus clean grotesk."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Geometry Hair",
+        "tagline": "The geometric cut.",
+        "brandNameRationale": "Geometry names Vidal Sassoon's geometric-cut philosophy (1960s, the bob, the five-point) without using the proper noun. Trade-literate creative anchor.",
+        "industrySummary": "Editorial salons trade on a single cut philosophy. The opening is for a geometry-named shop with a Sassoon-tradition register.",
+        "competitorLandscape": "Blackstones (blackstonesnyc.com) plays the precision peer. Hairstory (hairstory.com) holds the modern unisex middle. Sally Hershberger (sallyhershberger.com) is the celebrity reference. We sit alongside Blackstones with a geometric-cut frame.",
+        "positioningStatement": "Geometry Hair is a creative salon built on the geometric-cut tradition.",
+        "targetAudience": {
+          "primary": "Editorial clients 25–50 who care about the line and the shape.",
+          "behaviors": [
+            "Book the same stylist",
+            "Care about the geometry of the cut",
+            "Skip product upsell"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Modern",
+          "Specialist",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the geometry of the cut",
+            "Print the journal seasonally",
+            "Photograph the line"
+          ],
+          "donts": [
+            "Use 'transformation' as a category",
+            "Sell add-on treatments",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: GEOMETRY HAIR in a confident editorial serif, two lines. A small mark — a five-point geometric construction line — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Editorial Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Line Red",
+            "hex": "#A53528",
+            "meaning": "Construction-line red.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body and journal",
+          "rationale": "Reading serif plus clean grotesk — the editorial register."
+        }
+      },
+      {
+        "brandName": "Polly's Bob",
+        "tagline": "The first bob.",
+        "brandNameRationale": "Polly Peachum is the 1924 origin story of the modern bob. Given-name only avoids any trademark risk; tongue-in-cheek with a real anchor.",
+        "industrySummary": "Editorial salons trade on a single cut story. The opening is for a salon named after the 1924 bob origin.",
+        "competitorLandscape": "Blackstones (blackstonesnyc.com) plays the precision peer. Sally Hershberger (sallyhershberger.com) holds the celebrity middle. Hairstory (hairstory.com) is the modern reference. We sit at the storytelling end.",
+        "positioningStatement": "Polly's Bob is a creative salon built on the bob's origin story.",
+        "targetAudience": {
+          "primary": "Editorial clients 25–50.",
+          "behaviors": [
+            "Book the same stylist",
+            "Care about the bob",
+            "Read the brand journal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Warm",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the bob's history",
+            "Photograph the bob honestly",
+            "Name the variants"
+          ],
+          "donts": [
+            "Use 'transformation' as a category",
+            "Sell add-on treatments",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: POLLY'S BOB in a confident editorial serif, two lines centered. The favicon is a single bob silhouette.",
+        "colorPalette": [
+          {
+            "name": "Editorial Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Body"
+          },
+          {
+            "name": "Soft Rose",
+            "hex": "#D8AFA0",
+            "meaning": "Warm accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif — the editorial register."
+        }
+      },
+      {
+        "brandName": "The Five Point",
+        "tagline": "After the five-point cut.",
+        "brandNameRationale": "The five-point cut is the Sassoon geometric cut. Definite article + the cut. Editorial register, no proper noun.",
+        "industrySummary": "Editorial salons trade on a single cut. The opening is for a cut-as-name editorial shop.",
+        "competitorLandscape": "Blackstones (blackstonesnyc.com) plays the precision peer. Hairstory (hairstory.com) holds the modern unisex middle. Sally Hershberger (sallyhershberger.com) is the celebrity reference. We sit at the cut-as-name end.",
+        "positioningStatement": "The Five Point is a creative salon built on the five-point geometric cut.",
+        "targetAudience": {
+          "primary": "Editorial clients 25–50 who book the cut by name.",
+          "behaviors": [
+            "Book the cut by name",
+            "Care about the geometry",
+            "Read the brand journal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Modern",
+          "Specialist"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the five-point construction",
+            "Print the journal",
+            "Photograph the geometry"
+          ],
+          "donts": [
+            "Use 'transformation' as a category",
+            "Sell add-on treatments",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: THE FIVE POINT in a confident editorial serif, three lines centered. A small mark — a five-point geometric construction — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Editorial Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Body"
+          },
+          {
+            "name": "Line Red",
+            "hex": "#A53528",
+            "meaning": "Construction-line red.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "Reading serif plus clean grotesk — the editorial register."
+        }
+      }
+    ]
+  }
+}

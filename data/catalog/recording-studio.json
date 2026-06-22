@@ -1,0 +1,311 @@
+{
+  "industry": "recording-studio",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Tracking Room",
+        "tagline": "Where the take is captured.",
+        "brandNameRationale": "The tracking room is the technical term for the live recording space \u2014 distinct from the control room, the iso booth, and the mastering suite. Naming the studio for the architectural unit puts the work itself at the front.",
+        "industrySummary": "Modern recording studios compete on roster and gear. There is room for a studio whose entire identity is the room \u2014 a single tracking room, a control room behind glass, no marketing of the engineer or the artist.",
+        "competitorLandscape": "Electrical Audio (electricalaudio.com) holds the considered-room slot. The Bunker Studio (thebunkerstudio.com) is the modern Brooklyn peer. Rare Book Room (rarebookroomrecording.com) is the precedent. We sit closer to Electrical Audio in posture, sharper on the room-as-brand.",
+        "positioningStatement": "A modern studio whose brand is the tracking room.",
+        "targetAudience": {
+          "primary": "Independent artists and small labels booking three to ten days for a record. Sends a deposit before the first session.",
+          "behaviors": [
+            "Books in week-long blocks",
+            "Brings their own engineer",
+            "Pays a day rate, not an hourly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the room and the floor plan",
+            "Quote the day rate plainly",
+            "Name the desk"
+          ],
+          "donts": [
+            "Photograph the artist tracking",
+            "Run a 'who we worked with' list",
+            "Use the word vibe"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Tracking Room set in a tight modern grotesk, with a small floor-plan rectangle as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Console Black",
+            "hex": "#101012",
+            "meaning": "Recording-desk black.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Room Cream",
+            "hex": "#EFEAD8",
+            "meaning": "Acoustic-treatment cream.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Tape Brown",
+            "hex": "#5C3A24",
+            "meaning": "Two-inch tape.",
+            "usage": "Accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for session sheets and day rates",
+          "rationale": "One family. The mono carries the session data, the regular carries the room."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Tape Op House",
+        "tagline": "A house for the tape op.",
+        "brandNameRationale": "The tape op (tape operator) was the engineer who ran the tape machine \u2014 the role that produced the great records of the analog era at Trident, Olympic, and the Power Station. Naming the studio for the role centers the craft of capture rather than the producer's name.",
+        "industrySummary": "Heritage analog studios are a small but enduring tier. There is room for a small-tracking-and-mixing house built on a single 24-track tape machine and a roster of staff engineers in the tape-op tradition.",
+        "competitorLandscape": "Electric Lady Studios (electricladystudios.com) holds the institutional analog peer. Avast Recording (avastrecording.com) is the considered-analog precedent. The Carriage House (carriagehousestudios.com) is the country-estate peer. We sit closer to Avast in posture.",
+        "positioningStatement": "A heritage analog studio organized around tape-machine craft and staff engineers.",
+        "targetAudience": {
+          "primary": "Producers and label A&R booking three-to-six week album sessions, paying for a tracking-to-mix in-house process.",
+          "behaviors": [
+            "Books album sessions in three-to-six week blocks",
+            "Pays for the tape and the alignment",
+            "Names the staff engineer in the credits"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Heritage",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the desk, the tape, the engineer",
+            "Print the session log on heavy paper",
+            "Address the producer by surname"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Photograph the artist tracking",
+            "Sell stem packs"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Tape Op House set in a classical serif, with a small reel-to-reel pictogram as the hallmark, foiled in brass on the session log.",
+        "colorPalette": [
+          {
+            "name": "Tape Brown",
+            "hex": "#5C3A24",
+            "meaning": "Two-inch tape reel.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Session Cream",
+            "hex": "#F0E8D6",
+            "meaning": "Session-log paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A8893E",
+            "meaning": "Foiled hallmark.",
+            "usage": "Foil, the reel"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and session logs",
+          "secondary": "GT America Mono for session sheets and tape labels",
+          "rationale": "Canela carries the heritage register. The mono carries the tape labels."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Stemworks",
+        "tagline": "Stems, delivered.",
+        "brandNameRationale": "Stems are the grouped audio submixes (drums, bass, vocals, guitars) that mix and mastering engineers deliver as the final product of a session. Stemworks is a coined trade-name pairing the deliverable with the workshop suffix \u2014 a clean minimal mark for a mix-only studio.",
+        "industrySummary": "Minimal studios in the mix-only segment are rare. There is room for a studio whose entire output is stems and final mixes \u2014 no tracking, no in-house production, no artist relationship beyond the project.",
+        "competitorLandscape": "MixedByAli (mixedbyali.com) holds the personal-brand mix-engineer slot. Studio DMI (studiodmi.com) is the institutional mix precedent. Plush Recordings (plushrecordings.com) is the mix-only peer. We sit smaller, sharper on the deliverable.",
+        "positioningStatement": "A mix-only studio. Stems in, mixes out.",
+        "targetAudience": {
+          "primary": "Producers and artists who tracked elsewhere and want a finished mix. Pays per song, not per hour.",
+          "behaviors": [
+            "Sends stems via Splice or Dropbox",
+            "Approves revisions in three rounds",
+            "Pays per song, flat rate"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the per-song rate",
+            "Quote the revision policy",
+            "Send mix references on delivery"
+          ],
+          "donts": [
+            "Run a discount",
+            "Sell tracking time",
+            "Use the word vibe"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Stemworks set in a single-weight grotesk, lowercase. The favicon is a small five-stem bar chart.",
+        "colorPalette": [
+          {
+            "name": "Mix Black",
+            "hex": "#1A1A1A",
+            "meaning": "Mixdown black.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Daw Gray",
+            "hex": "#C9C2B5",
+            "meaning": "DAW background.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stem Blue",
+            "hex": "#3D5BFF",
+            "meaning": "DAW track blue.",
+            "usage": "Accent, the chart"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark",
+          "secondary": "S\u00f6hne Mono for the per-song rate sheet",
+          "rationale": "One family. The mono carries the data, the regular carries the studio."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "The Quiet Hour",
+        "tagline": "Late-night sessions, by the hour.",
+        "brandNameRationale": "The quiet hour names the late-night tracking session \u2014 the window after midnight when the building is empty, the street is quiet, and the room is at its lowest noise floor. Glenn Gould's 1955 Goldbergs were tracked in just such a session. The phrase carries both the audio condition and the editorial register.",
+        "industrySummary": "Corporate studio operators run booking platforms, multi-room facilities, and overnight session services. There is room for an operator that runs late-night-only bookings across a network of partner rooms, priced by the hour.",
+        "competitorLandscape": "Pirate Studios (pirate.com) holds the 24-hour booking-platform slot. Studiotime (studiotime.io) is the marketplace peer. Soundbetter (soundbetter.com) is the freelance precedent. We sit between Pirate and Studiotime, sharper on the late-night-only window.",
+        "positioningStatement": "Late-night-only studio bookings across a network of partner rooms.",
+        "targetAudience": {
+          "primary": "Engineers, producers, and independent artists booking late-night sessions at hourly rates.",
+          "behaviors": [
+            "Books between 10pm and 6am",
+            "Pays hourly with a four-hour minimum",
+            "Renews the membership annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the room availability",
+            "Quote the hourly rate",
+            "Speak to the booker, not the artist"
+          ],
+          "donts": [
+            "Run a consumer promotion",
+            "Photograph artists tracking",
+            "Use the word vibe"
+          ]
+        },
+        "logoDirection": "A wordmark with a hallmark \u2014 The Quiet Hour set in a clean grotesk, paired with a small crescent-moon mark as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Late Navy",
+            "hex": "#0F2238",
+            "meaning": "Night-shift navy.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Studio Cream",
+            "hex": "#EFE7D2",
+            "meaning": "Session-sheet cream.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Moon Silver",
+            "hex": "#C9C2B5",
+            "meaning": "Late-night accent.",
+            "usage": "Highlights, the moon"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and platform",
+          "secondary": "Source Serif Pro for printed session books",
+          "rationale": "Inter scales clean across the platform. The serif handles the printed session book."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Hot Mic",
+        "tagline": "Mic's on. Hit it.",
+        "brandNameRationale": "Hot mic is the engineer's call when a microphone is live \u2014 the signal that the session is rolling. Naming the studio for the call frames the brand around the moment of capture rather than the gear.",
+        "industrySummary": "Creative studios that serve podcast, voiceover, and short-form recording compete on speed and warmth. There is room for a studio built explicitly around drop-in sessions for talkers \u2014 a single vocal booth, a single engineer, walk-in rates.",
+        "competitorLandscape": "Pirate Studios (pirate.com) holds the booking-platform slot. Gimlet Studios (gimletmedia.com) is the considered-podcast peer. Pop Up Recording (popuprecording.com) is the precedent. We sit closer to Pop Up in posture, sharper on the drop-in model.",
+        "positioningStatement": "A drop-in vocal studio for podcasts, voiceover, and demos.",
+        "targetAudience": {
+          "primary": "Podcasters, voiceover artists, and demoing musicians booking one-to-three-hour sessions on short notice.",
+          "behaviors": [
+            "Books day-of for a one-hour session",
+            "Brings the script, not the engineer",
+            "Pays per session, by card"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Quick",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the booth and the times",
+            "Quote the per-session rate",
+            "Hand over the file in the hour"
+          ],
+          "donts": [
+            "Run a long-form album session",
+            "Use the word vibe",
+            "Photograph the artist tracking"
+          ]
+        },
+        "logoDirection": "A wordmark with a hand-drawn mic mark \u2014 Hot Mic set in a friendly humanist sans, with a small condenser-mic pictogram beside it.",
+        "colorPalette": [
+          {
+            "name": "Mic Red",
+            "hex": "#B72A2A",
+            "meaning": "Live-mic red light.",
+            "usage": "Accent, the mic"
+          },
+          {
+            "name": "Booth Cream",
+            "hex": "#EFEAD8",
+            "meaning": "Acoustic foam cream.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and signage",
+          "secondary": "ABC Diatype Mono for session times",
+          "rationale": "One family. The mono carries the times, the regular carries the booth."
+        }
+      }
+    ]
+  }
+}

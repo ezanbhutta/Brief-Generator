@@ -1,0 +1,313 @@
+{
+  "industry": "zines",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Staple Bound",
+        "tagline": "Saddle-stitched and unafraid.",
+        "brandNameRationale": "Saddle-stitch (the staple binding through the spine fold) is the production signature of the zine \u2014 two staples, one fold, finished. Naming the press for the binding method places the brand on the most honest production fact of the form.",
+        "industrySummary": "Indie publishing in the zine-adjacent space competes on visual swagger and editorial taste. There is room for a modern press that names itself after the binding method and runs everything in one format: 24 pages, two staples, one fold.",
+        "competitorLandscape": "Microcosm Publishing (microcosmpublishing.com) holds the modern indie-press slot. Perfectly Acceptable Press (perfectlyacceptable.co) is the considered-design peer. Issue Press (issuepress.bigcartel.com) is the small-format precedent. We sit closer to Perfectly Acceptable, sharper on the format constraint.",
+        "positioningStatement": "A modern indie press where every title is 24 pages, two staples, one fold.",
+        "targetAudience": {
+          "primary": "25 to 40. Owns a stack of zines on the desk. Reads at the kitchen table. Will pay 8 dollars for a 24-page run of 200.",
+          "behaviors": [
+            "Reads at the table, not the screen",
+            "Subscribes to one small press per year",
+            "Buys at zine fairs in person"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the page count on the cover",
+            "Name the printer",
+            "Publish a monthly issue, on time"
+          ],
+          "donts": [
+            "Use the word curated",
+            "Run a bestseller list",
+            "Sell PDFs"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Staple Bound set in a tight modern grotesk, with two small black bars to the left of the word standing in for the staples. The two bars alone are the favicon.",
+        "colorPalette": [
+          {
+            "name": "Staple Steel",
+            "hex": "#7A7C7E",
+            "meaning": "The galvanized staple.",
+            "usage": "Wordmark accent"
+          },
+          {
+            "name": "Newsprint Cream",
+            "hex": "#EFEAD8",
+            "meaning": "Cheap stock.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#101012",
+            "meaning": "Press ink.",
+            "usage": "Body type, the bars"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for issue numbering and credits",
+          "rationale": "One family. The mono carries the issue data, the regular carries the press."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Factsheet Press",
+        "tagline": "After Factsheet Five, 1982.",
+        "brandNameRationale": "Factsheet Five (1982\u201398) was the canonical directory of the zine world \u2014 Mike Gunderloy's review-of-everything, the central register that made the network legible. Factsheet Press places the imprint as the heritage cataloguer of the form, in archival editions.",
+        "industrySummary": "Luxury indie publishing is a small but durable segment served by a few archive-leaning houses. There is room for an imprint that takes the cataloguer's posture \u2014 boxed sets, archival reissues of significant zines, deeply researched introductions.",
+        "competitorLandscape": "Primary Information (primaryinformation.org) holds the archival small-press art slot. Siglio Press (sigliopress.com) is the considered-archive peer. Boo-Hooray (boo-hooray.com) is the zine-archive precedent. We sit between Siglio and Boo-Hooray, sharper on the directory tradition.",
+        "positioningStatement": "An archival imprint reissuing significant zines in boxed editions, with introductions.",
+        "targetAudience": {
+          "primary": "40 to 70. Builds an archive of small-press print. Holds boxed editions on a separate shelf. Reads the introduction first.",
+          "behaviors": [
+            "Pre-orders by edition number",
+            "Reads the introduction before the zine",
+            "Pays for slipcased archival editions"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Archival",
+          "Refined",
+          "Patient",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the print run on the colophon",
+            "Cite the original printer and year",
+            "Send paper announcements by post"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Sell digital editions",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Factsheet Press set in a high-contrast classical serif, with a small index-card rectangle as the hallmark, blind-embossed on every slipcase.",
+        "colorPalette": [
+          {
+            "name": "Index Cream",
+            "hex": "#EFE6CE",
+            "meaning": "Old card-catalog stock.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "File Brown",
+            "hex": "#5C3A24",
+            "meaning": "Manila file folder.",
+            "usage": "Slipcase, accents"
+          },
+          {
+            "name": "Press Black",
+            "hex": "#0E0E10",
+            "meaning": "Letterpress ink.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and slipcase",
+          "secondary": "GT America Mono for colophons and edition numbering",
+          "rationale": "Canela carries the archival posture. The mono carries the production data."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Mimeo",
+        "tagline": "Five letters. One press.",
+        "brandNameRationale": "Mimeo is the shortened form of mimeograph \u2014 the duplicating machine that produced the great mid-century zine and small-press output. A five-letter coined word, the smallest possible signature for the smallest possible press.",
+        "industrySummary": "Minimal indie publishing competes on the radical economy of the object. A one-word press whose entire identity is the truncated name of the duplication method has no peer in restraint.",
+        "competitorLandscape": "Inventory Press (inventorypress.com) holds the considered-minimal small-press slot. Roma Publications (romapublications.org) is the minimal-art-publishing peer. Onomatopee (onomatopee.net) is the European precedent. We sit below all three on visual noise.",
+        "positioningStatement": "A minimal indie press named for the mimeograph.",
+        "targetAudience": {
+          "primary": "28 to 45. Reads one zine a month. Buys from a small list of presses. Knows the difference between offset and risograph.",
+          "behaviors": [
+            "Buys from a fixed list of presses",
+            "Reads slowly, one sitting per issue",
+            "Follows two printers on Instagram"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Quiet",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use one image per issue",
+            "Print the issue number on the spine fold",
+            "Say nothing the colophon doesn't say"
+          ],
+          "donts": [
+            "Photograph the editor",
+            "Run a sale",
+            "Use the word curated"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Mimeo in a single-weight grotesk, lowercase. The whole brand is the word. The favicon is a single black square the height of the type.",
+        "colorPalette": [
+          {
+            "name": "Stencil Blue",
+            "hex": "#2B3E5C",
+            "meaning": "Mimeograph stencil ink.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Duplicator Cream",
+            "hex": "#F2EAD8",
+            "meaning": "Mimeograph paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#0E0E10",
+            "meaning": "Type only.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark",
+          "secondary": "S\u00f6hne Mono for credits and colophons",
+          "rationale": "One typeface family. The mono carries the publishing credits, the regular carries the press."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Cut and Paste Press",
+        "tagline": "How the zine got made.",
+        "brandNameRationale": "Cut-and-paste is the literal layout method that produced the zine \u2014 scissors, glue stick, photocopier. Naming the press for the workflow puts the production method itself at the front of the brand.",
+        "industrySummary": "There is a corporate-feeling lane between a small press, a print broker, and a zine-fair organizer that no one is filling cleanly. A house that runs printing services for independent zinemakers and operates a small in-house imprint would sit alone.",
+        "competitorLandscape": "Newspaper Club (newspaperclub.com) holds the print-on-demand-for-small-runs slot. Mixam (mixam.com) is the zine-printing services peer. Lulu (lulu.com) sits in the institutional self-publishing middle. We sit between Newspaper Club and Mixam, with an imprint alongside.",
+        "positioningStatement": "Printing services and a small imprint for independent zinemakers.",
+        "targetAudience": {
+          "primary": "Independent zinemakers, small-press editors, and zine-fair organizers running print orders of 100 to 1,000.",
+          "behaviors": [
+            "Orders short runs four times a year",
+            "Manages a fixed list of zine titles",
+            "Renews the print contract annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the price list",
+            "Quote the paper stocks",
+            "Speak to the maker, not the reader"
+          ],
+          "donts": [
+            "Use the word curated",
+            "Run a consumer promotion",
+            "Sell single copies"
+          ]
+        },
+        "logoDirection": "A wordmark with a hallmark \u2014 Cut and Paste Press set in a clean grotesk, paired with a small scissors-and-glue-stick pictogram reduced to two crossed strokes.",
+        "colorPalette": [
+          {
+            "name": "Print Navy",
+            "hex": "#1A2B4F",
+            "meaning": "Print-services navy.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#EFE7D2",
+            "meaning": "House stock.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Glue White",
+            "hex": "#F4F2EE",
+            "meaning": "Glue-stick white.",
+            "usage": "Surfaces, cards"
+          }
+        ],
+        "typography": {
+          "primary": "Aktiv Grotesk for the wordmark and headers",
+          "secondary": "Aktiv Grotesk for body and price lists",
+          "rationale": "One typeface family. Reads professional on a quote and clean on a print order."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Stapler Gang",
+        "tagline": "We assemble.",
+        "brandNameRationale": "Stapler Gang names the zine-fair assembly line \u2014 the kitchen-table crew that folds, staples, and trims a print run of 200 the night before the fair. The name puts the social fact of the form (zines are made by a group at a table) at the front.",
+        "industrySummary": "The creative-zine segment is built around the zine fair, the open call, and the community table. There is room for an imprint built explicitly as a collective, with rotating editors and a quarterly open call for contributors.",
+        "competitorLandscape": "Quimby's Bookstore (quimbys.com) holds the Chicago zine-community slot. Printed Matter (printedmatter.org) is the institutional small-press peer. People of Print (peopleofprint.com) is the network precedent. We sit between Quimby's and People of Print, sharper on the collective structure.",
+        "positioningStatement": "A creative imprint run as a collective, with quarterly open calls and rotating editors.",
+        "targetAudience": {
+          "primary": "22 to 40. Makes zines themselves. Tables at three fairs a year. Reads everyone else's zines first.",
+          "behaviors": [
+            "Tables at zine fairs three times a year",
+            "Trades zines at the table",
+            "Submits to open calls"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Lo-fi",
+          "Communal",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the contributor list on the back",
+            "Run a quarterly open call",
+            "Sign every copy by the editor of the issue"
+          ],
+          "donts": [
+            "Run a bestseller list",
+            "Sell digital editions",
+            "Use the word curated"
+          ]
+        },
+        "logoDirection": "A hand-drawn wordmark \u2014 Stapler Gang lettered in a punk-zine brush face, framed by a thin saddle-stitched-booklet outline. The booklet outline alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Photocopy Cream",
+            "hex": "#EFDFB7",
+            "meaning": "Photocopier toner cream.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Highlighter Pink",
+            "hex": "#E84B7C",
+            "meaning": "Risograph fluorescent pink.",
+            "usage": "Accent, second-color print"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#0E0E10",
+            "meaning": "Linework ink.",
+            "usage": "Wordmark, type"
+          }
+        ],
+        "typography": {
+          "primary": "A punk-zine brush face for the wordmark",
+          "secondary": "GT America Mono for issue numbering and dates",
+          "rationale": "The brush face carries the collective voice. The mono carries the quarterly rhythm."
+        }
+      }
+    ]
+  }
+}

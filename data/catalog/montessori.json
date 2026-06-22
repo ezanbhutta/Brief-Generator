@@ -1,0 +1,350 @@
+{
+  "industry": "montessori",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Malaguzzi & Co.",
+        "tagline": "The Reggio approach, in a modern school.",
+        "brandNameRationale": "Loris Malaguzzi (1920–1994) is the documented founder of the Reggio Emilia approach (1945, Reggio Emilia, Italy), one of the three landmark alternative-school traditions alongside Montessori and Steiner/Waldorf. Malaguzzi died in 1994; the surname is in the public domain and the Reggio Children Foundation governs the approach name, not the founder name. '& Co.' places the brand in a modern professional register.",
+        "industrySummary": "Modern alternative schools have split into the Montessori chains (Guidepost, Higher Ground) and the Reggio-influenced studios (small independent operators). The opening is for a modern Reggio-rooted school brand with a clear lineage anchor.",
+        "competitorLandscape": "Guidepost Montessori (guidepostmontessori.com) holds the modern Montessori-chain peer slot. Higher Ground Education (highergroundeducation.com) plays the institutional Montessori peer. Reggio Children (reggiochildren.it) is the canonical Reggio reference. We sit in the modern Reggio register, school-led not training-led.",
+        "positioningStatement": "A modern Reggio-rooted school for the long childhood.",
+        "targetAudience": {
+          "primary": "30 to 45 parents. Reads the approach before enrolling. Tours three schools. Pays full freight.",
+          "behaviors": [
+            "Reads the approach literature",
+            "Tours multiple schools",
+            "Asks about the atelier"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the approach and the project work",
+            "Photograph children working, not posing",
+            "Publish the project documentation"
+          ],
+          "donts": [
+            "Use the word elite",
+            "Photograph the building's facade",
+            "Run an admissions promotion"
+          ]
+        },
+        "logoDirection": "A wordmark — Malaguzzi & Co. in a precise modern grotesque, with a small atelier-light glyph above that reads as the window of the classroom.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Atelier paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Reggio Red",
+            "hex": "#B53A2C",
+            "meaning": "Emilia clay.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for project codes and class times",
+          "rationale": "The mono carries the schedule. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Golden Bead Academy",
+        "tagline": "The Montessori approach, in the gracious register.",
+        "brandNameRationale": "The Golden Bead Material is the documented Montessori material for teaching the decimal system (units, tens, hundreds, thousands as gold-coloured beads). Developed by Maria Montessori (1870–1952) at the Casa dei Bambini in Rome (1907). The phrase 'Montessori' is a generic descriptor in the US (lost TM status in the 1967 ruling Montessori Society v. Friends of Children); the material name is in the public domain. 'Academy' is the gracious British/American school suffix.",
+        "industrySummary": "Luxury alternative schools sit in the independent-day-school category (Spence, Brearley, Town School) but few are explicitly Montessori. The opening is for a high-tuition Montessori-rooted school in the gracious independent-school register.",
+        "competitorLandscape": "Spence School (spenceschool.org) holds the luxury independent-school peer slot. Brearley (brearley.org) plays the gracious New York peer. The Avenues World School (avenues.org) sits in the global-luxury school middle. We belong with Spence, in the Montessori register.",
+        "positioningStatement": "A gracious independent school in the Montessori line.",
+        "targetAudience": {
+          "primary": "35 to 55 parents. Pays full tuition. Reads the head of school's letter. Sits on the development committee.",
+          "behaviors": [
+            "Pays full tuition",
+            "Joins the parent association",
+            "Funds the building campaign"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address families by surname",
+            "Confirm admissions by hand-written letter",
+            "Print the year-book on cotton paper"
+          ],
+          "donts": [
+            "Publish a tuition figure openly",
+            "Photograph children's faces in admissions material",
+            "Run an open-house promotion"
+          ]
+        },
+        "logoDirection": "A serif wordmark — Golden Bead Academy in a classical book serif with a small embossed bead-line mark on the year-book cover.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Cotton year-book.",
+            "usage": "All correspondence"
+          },
+          {
+            "name": "Academic Navy",
+            "hex": "#1F2530",
+            "meaning": "Type and primary.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Gold Bead",
+            "hex": "#C9A046",
+            "meaning": "Single accent — the Material.",
+            "usage": "Embossed hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and printed year-book",
+          "secondary": "An engraver's italic for the head of school's signature",
+          "rationale": "Letterpress register throughout."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Reggio",
+        "tagline": "The approach. The school.",
+        "brandNameRationale": "Reggio Emilia is the documented Italian city where Loris Malaguzzi founded the eponymous early-childhood approach in 1945. The single word names the city, the approach, and the school in one stroke. The Reggio Children Foundation governs the trademark on commercial training products in some jurisdictions; the city-name itself is generic for a school operating in the tradition.",
+        "industrySummary": "Most alternative-school brands accumulate descriptors — international, world, academy, prep. There's an opening for a brand that names the approach and stops.",
+        "competitorLandscape": "Most schools fail this purity test. The closest peers in spirit are some single-approach European studios and certain small Italian asili.",
+        "positioningStatement": "One approach. One school.",
+        "targetAudience": {
+          "primary": "Families who already know they want a Reggio school and want the address, the year, and the application link.",
+          "behaviors": [
+            "Applies to one school",
+            "Reads the project documentation",
+            "Pays the deposit on time"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the year, the address, the application",
+            "Confirm in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Sell the brand",
+            "Sell add-ons",
+            "Run an admissions campaign"
+          ]
+        },
+        "logoDirection": "Reggio set in a single-weight grotesque, lowercase. The mark appears on the door, the form, and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Space.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Reggio Red",
+            "hex": "#B53A2C",
+            "meaning": "Single accent.",
+            "usage": "Door colour"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The door, the form, the application share the same mark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Bambini Learning Inc.",
+        "tagline": "Montessori operator services at scale.",
+        "brandNameRationale": "Bambini is the Italian word for children and the second half of Casa dei Bambini (Maria Montessori's first school, 1907, Rome). The word is generic in English-language use and clear of TM. 'Learning Inc.' follows the corporate education-services convention (Pearson Inc., Houghton Mifflin Harcourt Inc.).",
+        "industrySummary": "Montessori operator services — curriculum supply, teacher placement, and back-office support for independent Montessori schools — is a B2B category dominated by mid-tier operators (Higher Ground Education, Guidepost). The opening is a corporate operator with multi-school capacity.",
+        "competitorLandscape": "Higher Ground Education (highergroundeducation.com) holds the institutional Montessori-operator peer slot. Guidepost Montessori (guidepostmontessori.com) is the school-chain reference. KinderCare (kindercare.com) plays the broad-market early-childhood middle. We sit closer to Higher Ground with an operator-services specialism.",
+        "positioningStatement": "Back-office Montessori operator services for independent schools.",
+        "targetAudience": {
+          "primary": "Independent Montessori school heads, board chairs, and operator-services procurement leads sourcing curriculum and placement at scale.",
+          "motivations": [
+            "AMI- or AMS-aligned curriculum supply",
+            "Licensed teacher placement",
+            "A serious operator with school-grade reliability"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Educational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with AMI/AMS alignment",
+            "Show case studies with named school partners",
+            "Publish outcome data"
+          ],
+          "donts": [
+            "Use consumer marketing language",
+            "Photograph children's faces",
+            "Run consumer promotions"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Aligned curriculum",
+            "description": "All curriculum supply aligned to AMI or AMS standards with continuous review."
+          },
+          {
+            "name": "Licensed placement",
+            "description": "Teacher placement from a licensed and credentialed pool."
+          },
+          {
+            "name": "School support",
+            "description": "Dedicated programs for independent Montessori schools."
+          }
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left — a single Golden Bead unit silhouette. Reads cleanly on a spec deck and contract.",
+        "colorPalette": [
+          {
+            "name": "School Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and structured.",
+            "usage": "Backgrounds, catalogs"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5A6776",
+            "meaning": "Operator neutral.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Gold Bead",
+            "hex": "#C9A046",
+            "meaning": "Material accent.",
+            "usage": "Callouts"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed contracts and curriculum guides",
+          "rationale": "Inter scales clean across digital. The serif handles printed contracts."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Pink Tower",
+        "tagline": "A school built around the Material.",
+        "brandNameRationale": "The Pink Tower is the documented Montessori sensorial material — ten pink wooden cubes graded from 1cm to 10cm, developed by Maria Montessori (1870–1952) at the Casa dei Bambini in Rome (1907). The Pink Tower is in the public domain as material vocabulary. The phrase reads as a warm, character-driven school house with the most iconic Montessori material as the brand.",
+        "manifesto": "Most schools sell the test score. We sell the Material. The morning the child carries the Pink Tower across the room. The hour they spend re-stacking the cubes. The brand is for the long childhood, not the kindergarten race.",
+        "industrySummary": "School branding has been institutional, prep-school, and a little cold. There's room for one that's warm, narrative, character-driven, and serious about the Materials.",
+        "competitorLandscape": "Avenues World School (avenues.org) does the institutional global middle. Whittle School (whittleschool.org) holds the design-led peer slot. Acton Academy (actonacademy.org) sits in the alternative-school peer position. We sit warmer and more material-focused than any of them.",
+        "positioningStatement": "A Montessori school built around the Material.",
+        "targetAudience": {
+          "primary": "30 to 45 parents. Reads the Montessori books. Walks the child to school. Reads the project documentation on the wall.",
+          "behaviors": [
+            "Reads the approach literature",
+            "Walks the child to school",
+            "Joins the parent reading group"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Narrative",
+          "Playful",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the child with the Material",
+            "Tell the story of the morning, not the year",
+            "Send a project note home each week"
+          ],
+          "donts": [
+            "Use the word elite",
+            "Photograph the building",
+            "Run an open-house campaign"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with a small Pink Tower silhouette replacing the article. The tower stands alone on the door card and the sticker.",
+        "colorPalette": [
+          {
+            "name": "Tower Pink",
+            "hex": "#E5A8B5",
+            "meaning": "The Material colour.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Reggio Red",
+            "hex": "#B53A2C",
+            "meaning": "Emilia clay.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Cream",
+            "hex": "#FBF6E9",
+            "meaning": "The classroom wall.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Forest",
+            "hex": "#2E5339",
+            "meaning": "Playground treeline.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and project notes",
+          "rationale": "Migra has personality. Neue Montreal handles the project notes."
+        }
+      }
+    ]
+  }
+}

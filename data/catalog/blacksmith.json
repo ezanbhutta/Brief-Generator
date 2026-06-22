@@ -1,0 +1,315 @@
+{
+  "industry": "blacksmith",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Anvilsong",
+        "tagline": "The rhythm of the forge.",
+        "brandNameRationale": "Anchor: 'anvil song' — the rhythmic ringing of hammer on anvil that traditionally signaled an active forge to the village. Counter to Patternweld (technical to the point of opacity) and Forge Index (loses the craft register). Anvilsong is a single-word compound that lives on signage and a stamp.",
+        "industrySummary": "Modern blacksmithing has expanded from architectural ironwork into knife-making, sculpture, and small-run hardware. The opening is for a brand that names the rhythm of the forge plainly.",
+        "competitorLandscape": "Bigfoot Forge (bigfootironworks.com) plays the modern-architectural peer. Tools for Working Wood (toolsforworkingwood.com) holds the heritage-trade reference. Brent Bailey Forge (brentbaileyforge.com) is the knife-and-tool middle. We sit as a rhythm-named modern smithing brand.",
+        "positioningStatement": "Anvilsong is a modern blacksmithing workshop named for the rhythmic ringing of hammer on anvil.",
+        "targetAudience": {
+          "primary": "Design-aware homeowners and small architects 30-55 commissioning hand-forged hardware, knives, and small-run ironwork.",
+          "behaviors": [
+            "Commission a single piece by email",
+            "Care about hammer marks staying visible",
+            "Return for a second commission within two years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Plainspoken",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the hammer marks plainly",
+            "Name the smith on every piece",
+            "Publish the commission lead-time"
+          ],
+          "donts": [
+            "Romanticize the forge with soft focus",
+            "Sell fantasy-themed work",
+            "Use the word artisanal"
+          ]
+        },
+        "logoDirection": "Wordmark: ANVILSONG set in a confident grotesk, one word, slightly extended. Small mark: a single anvil silhouette with three short rule-lines above it — the ringing — used as the maker's stamp on the metal.",
+        "colorPalette": [
+          {
+            "name": "Forge Black",
+            "hex": "#141518",
+            "meaning": "Cold iron",
+            "usage": "Body"
+          },
+          {
+            "name": "Quench Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Quench-bucket steam",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Heat Orange",
+            "hex": "#C84A1B",
+            "meaning": "Forge heat",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for commission specs",
+          "rationale": "One grotesk family plus its mono — the commission-sheet register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "House of Damascus",
+        "tagline": "Pattern-welded steel, by commission.",
+        "brandNameRationale": "Anchor: Damascus steel — the historic pattern-welded steel tradition associated with the city of Damascus, used today as a generic technique name across knife-making and decorative ironwork. Damascus is a geographic place name, not a registered brand in this trade. Counter to Journeyman & Crown (looser) and The Worshipful Forge (treads close to a livery-company name).",
+        "industrySummary": "Luxury blacksmithing is a small commission-only category — pattern-welded blades, gates, fireplace tools, and architectural ironwork for collectors and listed buildings. The buyer is a collector, an estate manager, or an architect.",
+        "competitorLandscape": "Bob Kramer Knives (kramerknives.com) plays the high-end pattern-welded peer. Britannia Forge (britanniaforge.co.uk) holds the heritage-architectural reference. James Price Blacksmith (jamespriceblacksmith.co.uk) is the listed-buildings middle. We sit as a commission-only pattern-welded house.",
+        "positioningStatement": "House of Damascus is a commission-only blacksmithing house specializing in pattern-welded steel blades and architectural ironwork.",
+        "targetAudience": {
+          "primary": "Collectors, estate managers, and architects commissioning pattern-welded pieces with a documented process.",
+          "behaviors": [
+            "Commission by introduction or referral",
+            "Wait twelve to twenty-four months for delivery",
+            "Care about the pattern, the layers, and the smith's mark"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Discreet",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Document the pattern and the layer count",
+            "Name the smith and the commission number",
+            "Send a paper certificate with each piece"
+          ],
+          "donts": [
+            "Publish a price list",
+            "Photograph the smith in lifestyle settings",
+            "Sell finished stock"
+          ]
+        },
+        "logoDirection": "Wordmark: HOUSE OF DAMASCUS set in a refined serif, three lines centered. A hallmark — a single small Damascus-pattern swatch — used on the certificate and the maker's mark on the metal.",
+        "colorPalette": [
+          {
+            "name": "Damascus Steel",
+            "hex": "#3A3F47",
+            "meaning": "Pattern-welded steel",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#EFE7D2",
+            "meaning": "Certificate paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gold Mark",
+            "hex": "#A6843D",
+            "meaning": "Smith's mark gilding",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and certificates",
+          "secondary": "Garamond Premier Pro for body and commission letters",
+          "rationale": "Two classical English serifs — the commission-house register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Anvil",
+        "tagline": "One tool.",
+        "brandNameRationale": "Anchor: the anvil — the single object that defines the trade. Counter to Hammer. (over-punctuated) and Quench (too process-specific). Anvil is the trade noun, single syllable, the object on the floor.",
+        "industrySummary": "Minimal blacksmithing brands serve the design-literate buyer commissioning a single hand-forged piece. The opening is for a single-word trade-noun brand with no narrative theater.",
+        "competitorLandscape": "Brent Bailey Forge (brentbaileyforge.com) plays the considered-minimal peer. Smith & Forge (limited reference) holds a similar register. Pieh Tool Company (piehtoolco.com) is the heritage-supply middle. We sit as the single-word minimal option.",
+        "positioningStatement": "Anvil is a minimal blacksmithing workshop — one smith, one anvil, one rate card.",
+        "targetAudience": {
+          "primary": "Homeowners and small architects 30-50 commissioning a single hand-forged piece.",
+          "behaviors": [
+            "Email a one-line commission request",
+            "Want the rate card visible",
+            "Skip the heritage story"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Plain",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the rate card on the home page",
+            "Show the piece, not the forge",
+            "Confirm the commission in one line"
+          ],
+          "donts": [
+            "Romanticize the smith",
+            "Use the word artisanal",
+            "Photograph in styled settings"
+          ]
+        },
+        "logoDirection": "Wordmark: ANVIL set very large in a clean modern sans, five letters, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Iron Ink",
+            "hex": "#141518",
+            "meaning": "Cold iron",
+            "usage": "Body"
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Heat Orange",
+            "hex": "#C84A1B",
+            "meaning": "Forge accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for the rate card",
+          "rationale": "Clean Diatype with its mono — the single-trade register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Village Smithy Co.",
+        "tagline": "Architectural ironwork, multi-site.",
+        "brandNameRationale": "Anchor: 'the village smithy' — the long-standing trade phrase made canonical by Longfellow's 1840 poem, used today across heritage-trade firms. Counter to Henry & Hale Ironworks (paired surname risks reading as a real firm) and Blackiron Holdings (generic). Village Smithy Co. is a phrase, not a surname, with a corporate suffix.",
+        "industrySummary": "Corporate blacksmithing operates across architectural ironwork, heritage restoration, and large-scale hand-forged hardware. The buyer is an architect, an estates manager, or a heritage-restoration project lead.",
+        "competitorLandscape": "Britannia Forge (britanniaforge.co.uk) plays the heritage-architectural peer. Cambridge Architectural Mesh (cambridgearchitectural.com) holds the broader architectural-metal reference. Topp Steel (toppsteel.com) is the institutional-fabrication middle. We sit as a multi-site architectural smithing firm.",
+        "positioningStatement": "Village Smithy Co. is a multi-site architectural blacksmithing firm specializing in heritage restoration and hand-forged hardware programs.",
+        "targetAudience": {
+          "primary": "Architects, estates managers, and heritage-restoration project leads commissioning hand-forged ironwork at scale.",
+          "behaviors": [
+            "Specify by drawing and sample",
+            "Negotiate multi-year framework agreements",
+            "Renew on three-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with restoration credentials and project list",
+            "Publish certifications and conservation standards",
+            "Speak to architects and estates managers"
+          ],
+          "donts": [
+            "Run consumer-facing campaigns",
+            "Photograph individual smiths as the hero shot",
+            "Press-release single commissions"
+          ]
+        },
+        "logoDirection": "Wordmark: VILLAGE SMITHY CO. set in an institutional serif, three lines centered. A small mark — a single anvil-and-hammer silhouette — used on the contract cover.",
+        "colorPalette": [
+          {
+            "name": "Smithy Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Institutional navy",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Document Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Contract paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Forge Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Brass hardware",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the heritage-trade firm register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Bellows & Bone",
+        "tagline": "Air and handle.",
+        "brandNameRationale": "Anchor: the bellows (the forge's air supply) and the bone (a traditional knife-handle material). Counter to The Sparking Anvil (more illustrative than ownable) and John Henry's Hammer (borrows a folk-song proper noun). Bellows & Bone is the alliterative trade pairing that lives on a label.",
+        "industrySummary": "Creative blacksmithing brands lean on knife-making, small-batch hardware, and a strong maker's voice. The opening is for an alliterative paired-noun brand that names the forge's air and the knife's handle plainly.",
+        "competitorLandscape": "Brent Bailey Forge (brentbaileyforge.com) plays the maker-led peer. Cut Brooklyn (cutbrooklyn.com) holds the knife-maker middle. Smith Shop (smithshopdetroit.com) is the workshop-school reference. We sit as a paired-noun creative smithing brand.",
+        "positioningStatement": "Bellows & Bone is a creative blacksmithing and knife-making workshop named for the forge's air and the knife's handle.",
+        "targetAudience": {
+          "primary": "Home cooks and design-aware buyers 28-50 commissioning a single knife or small-run hardware.",
+          "behaviors": [
+            "Photograph the maker's mark on the blade",
+            "Care about the handle material",
+            "Re-commission for gifts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Witty",
+          "Confident",
+          "Artisan"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the smith and the handle material on every piece",
+            "Write the order confirmation in the smith's voice",
+            "Use the bellows-and-bone pairing as the visual hook"
+          ],
+          "donts": [
+            "Sound corporate",
+            "Sell fantasy-themed work",
+            "Photograph the workshop in soft focus"
+          ]
+        },
+        "logoDirection": "Wordmark: BELLOWS & BONE set in a warm display serif with a hand-drawn ampersand. Small mark: a small bellows over a single bone-handle silhouette — used as the maker's stamp.",
+        "colorPalette": [
+          {
+            "name": "Bone Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Bone handle",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Forge Ink",
+            "hex": "#1B1B1B",
+            "meaning": "Cold iron",
+            "usage": "Body"
+          },
+          {
+            "name": "Heat Orange",
+            "hex": "#C84A1B",
+            "meaning": "Forge heat",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "A warm display serif plus a clean grotesk — the maker-led register."
+        }
+      }
+    ]
+  }
+}

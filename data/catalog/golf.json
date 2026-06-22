@@ -1,0 +1,902 @@
+{
+  "industry": "golf",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Bunker & Pin",
+        "tagline": "Hazard and target.",
+        "brandNameRationale": "Bunker names the hazard; pin names the target. Two-noun trade pairing — the architecture of the shot.",
+        "industrySummary": "Modern golf brands compete on shot-shape and course design. The opening is a hazard-and-target two-noun modern brand.",
+        "competitorLandscape": "Malbon Golf (malbongolf.com) plays the modern peer. Eastside Golf (eastsidegolf.com) holds the modern middle. Bogey Boys (bogeyboys.com) is the reference. We sit as a hazard-and-target modern brand.",
+        "positioningStatement": "Bunker & Pin is a modern golf brand named for the hazard and the target.",
+        "targetAudience": {
+          "primary": "Urban golfers 25–45 who play twice a month and read the rules.",
+          "behaviors": [
+            "Play twice a month",
+            "Care about course design",
+            "Read the rules"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Trade-literate",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the course architecture",
+            "Name the hazards",
+            "Print the menu plainly"
+          ],
+          "donts": [
+            "Use 'lifestyle' as a category",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: BUNKER & PIN in a tight modern grotesk, one line. A small mark — a bunker-and-pin construction line — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Fairway.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Sand",
+            "hex": "#E8D9B0",
+            "meaning": "Bunker.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pin Red",
+            "hex": "#A53528",
+            "meaning": "Pin flag.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for scorecards",
+          "rationale": "One family — the modern golf register."
+        }
+      },
+      {
+        "brandName": "Fairway Lab",
+        "tagline": "Modern equipment and coaching.",
+        "brandNameRationale": "Fairway names the playing surface; Lab names the technical register (equipment, swing analysis). Two-noun modern compound.",
+        "industrySummary": "Modern golf brands trade on lab-and-fitting tech. The opening is a fairway-lab-named brand.",
+        "competitorLandscape": "Malbon Golf (malbongolf.com) plays the modern peer. PXG (pxg.com) holds the equipment middle. Eastside Golf (eastsidegolf.com) is the reference. We sit alongside PXG with a fairway-lab frame.",
+        "positioningStatement": "Fairway Lab is a modern golf equipment and coaching brand built on fitting and lab analysis.",
+        "targetAudience": {
+          "primary": "Urban golfers 25–45 who care about equipment.",
+          "behaviors": [
+            "Play twice a month",
+            "Care about equipment fitting",
+            "Track swing metrics"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Technical",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print fitting specs",
+            "Show the swing metrics",
+            "Name the equipment"
+          ],
+          "donts": [
+            "Use 'lifestyle' as a category",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: FAIRWAY LAB in a tight modern grotesk, two lines. A small mark — a single swing-arc line — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Fairway.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Lab.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pin Red",
+            "hex": "#A53528",
+            "meaning": "Pin flag.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark",
+          "secondary": "Söhne Mono for specs",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "Tee Line",
+        "tagline": "The line off the tee.",
+        "brandNameRationale": "Tee names the start; line names the shot shape. Modern range register.",
+        "industrySummary": "Modern golf brands trade on the range. The opening is a tee-line-named modern brand.",
+        "competitorLandscape": "Malbon Golf (malbongolf.com) plays the modern peer. Topgolf (topgolf.com) holds the range middle. Eastside Golf (eastsidegolf.com) is the reference. We sit as a tee-line-named modern brand.",
+        "positioningStatement": "Tee Line is a modern golf brand built on the driving range.",
+        "targetAudience": {
+          "primary": "Urban golfers 22–40 who hit balls more than they play 18.",
+          "behaviors": [
+            "Hit the range weekly",
+            "Care about distance",
+            "Skip the lifestyle copy"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the range",
+            "Print the menu plainly",
+            "Name the equipment"
+          ],
+          "donts": [
+            "Use 'lifestyle' as a category",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: TEE LINE in a tight modern grotesk, two lines.",
+        "colorPalette": [
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Fairway.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Range.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pin Red",
+            "hex": "#A53528",
+            "meaning": "Pin flag.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark",
+          "secondary": "Inter Mono for distances",
+          "rationale": "One family."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Old Tom's Links",
+        "tagline": "After the original green-keeper.",
+        "brandNameRationale": "Old Tom Morris (1821–1908, public domain) is the original green-keeper and a founding figure of links golf. Given-name-only borrow with full attribution; safe heritage anchor.",
+        "industrySummary": "Luxury golf brands trade on heritage and the links tradition. The opening is an Old-Tom-anchored luxury brand built on links courses.",
+        "competitorLandscape": "G/Fore (gfore.com) plays the modern luxury peer. Holderness & Bourne (holdernessandbourne.com) holds the heritage middle. Peter Millar (petermillar.com) is the country-club reference. We sit alongside Holderness & Bourne with an Old-Tom-anchored frame.",
+        "positioningStatement": "Old Tom's Links is a luxury golf brand built on the Old Tom Morris links tradition.",
+        "targetAudience": {
+          "primary": "UHNW members of links and heritage clubs.",
+          "behaviors": [
+            "Play three links courses a year",
+            "Care about course design",
+            "Pay the annual member tariff"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference Old Tom honestly",
+            "Photograph the links",
+            "Print the journal"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: OLD TOM'S LINKS in a refined English serif, two lines centered. A small mark — a single links-flag silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Links Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Heritage paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Heather",
+            "hex": "#5C3F4E",
+            "meaning": "Heather rough.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Trophy.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "Classical English serif plus reading serif — the heritage register."
+        }
+      },
+      {
+        "brandName": "Mashie & Niblick",
+        "tagline": "Pre-numbered iron names.",
+        "brandNameRationale": "Mashie (5-iron) and Niblick (9-iron) are the pre-1925 iron names — the lineage of golf-club nomenclature. Two-noun heritage pairing.",
+        "industrySummary": "Luxury golf brands trade on heritage equipment. The opening is a mashie-and-niblick heritage brand.",
+        "competitorLandscape": "G/Fore (gfore.com) plays the modern luxury peer. Holderness & Bourne (holdernessandbourne.com) holds the heritage middle. Peter Millar (petermillar.com) is the country-club reference. We sit as a heritage equipment brand.",
+        "positioningStatement": "Mashie & Niblick is a luxury golf heritage brand named for the pre-1925 iron names.",
+        "targetAudience": {
+          "primary": "UHNW members of heritage clubs and collectors.",
+          "behaviors": [
+            "Play three heritage rounds a year",
+            "Care about the equipment lineage",
+            "Pay the annual tariff"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the iron lineage",
+            "Photograph hickory shafts",
+            "Print the journal"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: MASHIE & NIBLICK in a refined English serif, two lines centered. A small mark — a hickory-shaft silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Links Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Heritage paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hickory",
+            "hex": "#5A3220",
+            "meaning": "Hickory shaft.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Trophy.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "Reading-serif family."
+        }
+      },
+      {
+        "brandName": "The Heather Lounge",
+        "tagline": "Heather rough. Club room.",
+        "brandNameRationale": "Heather names the rough of the great links courses; lounge names the country-club room. Editorial luxury pairing without naming any active club.",
+        "industrySummary": "Luxury golf brands trade on the club room. The opening is a heather-lounge-named luxury brand.",
+        "competitorLandscape": "G/Fore (gfore.com) plays the modern luxury peer. Holderness & Bourne (holdernessandbourne.com) holds the heritage middle. Peter Millar (petermillar.com) is the country-club reference. We sit as a club-lounge luxury brand.",
+        "positioningStatement": "The Heather Lounge is a luxury golf brand built on the country-club lounge tradition.",
+        "targetAudience": {
+          "primary": "UHNW members of heritage and country clubs.",
+          "behaviors": [
+            "Use the club year-round",
+            "Care about the room",
+            "Pay the annual tariff"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the lounge",
+            "Print the journal",
+            "Reference the room"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: THE HEATHER LOUNGE in a refined English serif, three lines centered.",
+        "colorPalette": [
+          {
+            "name": "Links Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Club paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Heather",
+            "hex": "#5C3F4E",
+            "meaning": "Heather rough.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Hardware.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "Classical English serif plus reading serif."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Links.",
+        "tagline": "The format.",
+        "brandNameRationale": "Links names the format of seaside golf. Period as logo. Single word.",
+        "industrySummary": "Minimal golf brands strip to the format. The opening is a period-as-mark links brand.",
+        "competitorLandscape": "Malbon Golf (malbongolf.com) plays the modern peer. Holderness & Bourne (holdernessandbourne.com) holds the heritage middle. Eastside Golf (eastsidegolf.com) is the reference. We sit at single-word minimal.",
+        "positioningStatement": "Links. is a minimal golf brand named for the format.",
+        "targetAudience": {
+          "primary": "Golfers 25–45 who play links courses and skip the lifestyle.",
+          "behaviors": [
+            "Play seasonally",
+            "Care about the format",
+            "Skip the lifestyle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the format",
+            "Print the menu plainly",
+            "Name the course"
+          ],
+          "donts": [
+            "Use 'lifestyle' as a category",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: links. in a clean humanist sans, all lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Fairway.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Sand",
+            "hex": "#E8D9B0",
+            "meaning": "Bunker.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark",
+          "secondary": "ABC Diatype for body",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "The Green",
+        "tagline": "The target.",
+        "brandNameRationale": "The green names the putting surface — the target. Definite article + single noun.",
+        "industrySummary": "Minimal golf brands strip to the target. The opening is a green-named brand.",
+        "competitorLandscape": "Malbon Golf (malbongolf.com) plays the modern peer. Holderness & Bourne (holdernessandbourne.com) holds the heritage middle. Eastside Golf (eastsidegolf.com) is the reference. We sit at single-word minimal.",
+        "positioningStatement": "The Green is a minimal golf brand named for the target.",
+        "targetAudience": {
+          "primary": "Golfers 25–45.",
+          "behaviors": [
+            "Play monthly",
+            "Care about putting",
+            "Skip the lifestyle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the green",
+            "Print the menu plainly",
+            "Name the course"
+          ],
+          "donts": [
+            "Use 'lifestyle' as a category",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: THE GREEN in a precise modern grotesk, two lines, generous tracking.",
+        "colorPalette": [
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Green.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pin Red",
+            "hex": "#A53528",
+            "meaning": "Pin.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark",
+          "secondary": "Neue Haas Grotesk for body",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "Hole",
+        "tagline": "The goal.",
+        "brandNameRationale": "Hole names the goal of every shot. Single syllable, single word.",
+        "industrySummary": "Minimal golf brands strip to the goal. The opening is a hole-named brand.",
+        "competitorLandscape": "Malbon Golf (malbongolf.com) plays the modern peer. Holderness & Bourne (holdernessandbourne.com) holds the heritage middle. Eastside Golf (eastsidegolf.com) is the reference. We sit at single-syllable minimal.",
+        "positioningStatement": "Hole is a minimal golf brand named for the goal.",
+        "targetAudience": {
+          "primary": "Golfers 22–45.",
+          "behaviors": [
+            "Play monthly",
+            "Care about scoring",
+            "Skip the lifestyle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the hole",
+            "Print the menu plainly",
+            "Name the course"
+          ],
+          "donts": [
+            "Use 'lifestyle' as a category",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: HOLE in a precise modern grotesk, all caps, four letters, generous tracking.",
+        "colorPalette": [
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Fairway.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pin Red",
+            "hex": "#A53528",
+            "meaning": "Pin.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "One family."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Fescue & Co.",
+        "tagline": "Multi-club operator.",
+        "brandNameRationale": "Fescue is the cool-season grass used on most great links courses; Co. closes it as a trade company.",
+        "industrySummary": "Multi-club operators consolidate clubs under one back office. The opening is a fescue-named multi-club operator.",
+        "competitorLandscape": "ClubCorp (clubcorp.com) plays the multi-club institutional peer. Troon (troon.com) holds the multi-club management middle. Concert Golf Partners (concertgolfpartners.com) is the reference. We sit as a grass-named multi-club operator.",
+        "positioningStatement": "Fescue & Co. is a multi-club operator with shared back office and agronomy.",
+        "targetAudience": {
+          "primary": "Club founders and hospitality groups considering sale.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about agronomy",
+            "Compare club operators"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-club"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with club count and agronomy",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single club",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: FESCUE & CO. in a clean institutional serif, two lines. A small mark — a single grass-blade silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      },
+      {
+        "brandName": "Greenkeeper Group",
+        "tagline": "Multi-club operator.",
+        "brandNameRationale": "Greenkeeper is the trade title for the head agronomist of a course; Group closes it as a multi-club operator.",
+        "industrySummary": "Multi-club operators trade on agronomy. The opening is a greenkeeper-named operator.",
+        "competitorLandscape": "ClubCorp (clubcorp.com) plays the multi-club institutional peer. Troon (troon.com) holds the multi-club management middle. Concert Golf Partners (concertgolfpartners.com) is the reference. We sit as a trade-named multi-club operator.",
+        "positioningStatement": "Greenkeeper Group is a multi-club operator with shared agronomy and back office.",
+        "targetAudience": {
+          "primary": "Club founders and hospitality groups considering sale.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about agronomy",
+            "Compare club operators"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-club",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with club count",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single club",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: GREENKEEPER GROUP in a clean institutional serif, two lines.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Classical serif plus clean grotesk."
+        }
+      },
+      {
+        "brandName": "Tee Box Holdings",
+        "tagline": "Multi-club operator.",
+        "brandNameRationale": "Tee Box names the start of every hole; Holdings closes it as a multi-brand operator.",
+        "industrySummary": "Multi-club operators consolidate clubs and ranges. The opening is a tee-box-named operator.",
+        "competitorLandscape": "ClubCorp (clubcorp.com) plays the multi-club institutional peer. Troon (troon.com) holds the multi-club management middle. Topgolf (topgolf.com) is the multi-range reference. We sit as a tee-box-named operator.",
+        "positioningStatement": "Tee Box Holdings is a multi-brand operator across clubs and ranges with shared back office.",
+        "targetAudience": {
+          "primary": "Club founders and hospitality groups considering sale.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about utilization",
+            "Compare operators"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-brand"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand count",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single club",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: TEE BOX HOLDINGS in a clean institutional serif, two lines.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Niblick Society",
+        "tagline": "Heritage iron club.",
+        "brandNameRationale": "Niblick is the pre-1925 9-iron name; Society names it as a collectors' club. Editorial heritage anchor.",
+        "industrySummary": "Editorial golf brands trade on heritage equipment. The opening is a niblick-society-named editorial brand with a journal.",
+        "competitorLandscape": "Holderness & Bourne (holdernessandbourne.com) plays the heritage peer. Linksoul (linksoul.com) holds the editorial middle. Peter Millar (petermillar.com) is the country-club reference. We sit as a heritage editorial club.",
+        "positioningStatement": "The Niblick Society is a creative golf membership program for heritage-equipment players.",
+        "targetAudience": {
+          "primary": "Editorial golfers 30–55 who collect hickory shafts.",
+          "behaviors": [
+            "Pay annual dues",
+            "Read the journal",
+            "Play heritage rounds"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Heritage",
+          "Specialist"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal",
+            "Photograph hickory shafts",
+            "Run member rounds"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: THE NIBLICK SOCIETY in a confident editorial serif, three lines centered. A small mark — a niblick-head silhouette — used on the membership card.",
+        "colorPalette": [
+          {
+            "name": "Editorial Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hickory",
+            "hex": "#5A3220",
+            "meaning": "Hickory shaft.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Trophy.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      },
+      {
+        "brandName": "Old Tom's Pocketbook",
+        "tagline": "After Old Tom's journal.",
+        "brandNameRationale": "Old Tom Morris (d. 1908) kept course notes; the pocketbook is the editorial frame. Public-domain figure, journal register.",
+        "industrySummary": "Editorial golf brands trade on heritage notes. The opening is an Old-Tom-pocketbook-named editorial journal program.",
+        "competitorLandscape": "Holderness & Bourne (holdernessandbourne.com) plays the heritage peer. Linksoul (linksoul.com) holds the editorial middle. Peter Millar (petermillar.com) is the country-club reference. We sit as a heritage editorial journal.",
+        "positioningStatement": "Old Tom's Pocketbook is a creative golf journal and brand built on Old Tom Morris's note-keeping tradition.",
+        "targetAudience": {
+          "primary": "Editorial golfers 30–55.",
+          "behaviors": [
+            "Read the journal",
+            "Play heritage rounds",
+            "Care about course architecture"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Heritage",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal seasonally",
+            "Photograph the links",
+            "Reference Old Tom"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: OLD TOM'S POCKETBOOK in a confident editorial serif, three lines centered. A small mark — a pocketbook silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Editorial Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Heather",
+            "hex": "#5C3F4E",
+            "meaning": "Heather rough.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Trophy.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif."
+        }
+      },
+      {
+        "brandName": "Bunker Sand & Soul",
+        "tagline": "The hazard, considered.",
+        "brandNameRationale": "Bunker sand names the hazard; soul names the editorial register. Alliterative scene-setting.",
+        "industrySummary": "Editorial golf brands trade on the hazard. The opening is a bunker-named editorial brand.",
+        "competitorLandscape": "Holderness & Bourne (holdernessandbourne.com) plays the heritage peer. Linksoul (linksoul.com) holds the editorial middle. Peter Millar (petermillar.com) is the country-club reference. We sit as a bunker-editorial brand.",
+        "positioningStatement": "Bunker Sand & Soul is a creative golf brand built on the hazard and a journal program.",
+        "targetAudience": {
+          "primary": "Editorial golfers 25–50.",
+          "behaviors": [
+            "Read the journal",
+            "Care about course architecture",
+            "Play seasonally"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Warm",
+          "Specialist"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal seasonally",
+            "Photograph the bunker",
+            "Name the architect"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell logo gear as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: BUNKER SAND & SOUL in a confident editorial serif, three lines centered.",
+        "colorPalette": [
+          {
+            "name": "Sand",
+            "hex": "#E8D9B0",
+            "meaning": "Bunker sand.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Fairway Green",
+            "hex": "#3E6A3E",
+            "meaning": "Fairway.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Pin Red",
+            "hex": "#A53528",
+            "meaning": "Pin.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      }
+    ]
+  }
+}

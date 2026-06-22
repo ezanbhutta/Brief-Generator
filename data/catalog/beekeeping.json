@@ -1,0 +1,338 @@
+{
+  "industry": "beekeeping",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Apiary North",
+        "tagline": "Modern apiary, cold-climate honey.",
+        "brandNameRationale": "Apiary is the working-trade word for a managed bee yard. North names the climate posture \u2014 a brand from a cold-climate beekeeping tradition. Together: a modern apiary with a sharp geographic identity, away from the Mediterranean honey clich\u00e9.",
+        "industrySummary": "Modern beekeeping has matured beyond the hobbyist forum. The opening is for a brand that names a real climate \u2014 cold-climate apiaries (Canada, Northern Europe, Scandinavia) produce distinct honey profiles and overwintering knowledge that the Mediterranean tradition does not.",
+        "competitorLandscape": "Bee Maid Honey (beemaid.com) holds the Canadian co-op peer slot. Hilltop Honey (hilltop-honey.com) plays the UK modern peer. Savannah Bee Company (savannahbee.com) is the US craft reference. We sit alongside Bee Maid with a sharper cold-climate identity.",
+        "positioningStatement": "A modern cold-climate apiary brand for honey buyers who care about overwintering and varietal source.",
+        "targetAudience": {
+          "primary": "30 to 55. Reads the label for the floral source. Buys honey at the farmers market and the specialty grocer.",
+          "behaviors": [
+            "Reads the floral source on every jar",
+            "Buys at named co-ops and farmers markets",
+            "Subscribes to a single apiary's seasonal jar"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the floral source and the harvest week",
+            "Publish the apiary location and altitude",
+            "Update the seasonal jar like a software changelog"
+          ],
+          "donts": [
+            "Use 'pure raw honey' as marketing",
+            "Photograph beekeepers in stock suits",
+            "Blend honey across apiaries"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Apiary North in a precise grotesk, with a small hexagonal cell as a hallmark, used at small scale on the jar lid.",
+        "colorPalette": [
+          {
+            "name": "Beeswax",
+            "hex": "#D7A85F",
+            "meaning": "Raw filtered beeswax.",
+            "usage": "Primary, jar accent"
+          },
+          {
+            "name": "Hive",
+            "hex": "#5A3E20",
+            "meaning": "Cedar hive box.",
+            "usage": "Wordmark, labels"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Page.",
+            "usage": "Background, web"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for harvest data on the label",
+          "rationale": "One family. Mono for the harvest week, regular for the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "House of Propolis",
+        "tagline": "Apothecary-grade honey and hive products.",
+        "brandNameRationale": "Propolis is the resinous compound bees use to seal the hive \u2014 historically the most prized hive product, used by Hippocrates and across European apothecary traditions. House of Propolis names a luxury wellness apothecary register where honey is one product among many hive medicaments.",
+        "industrySummary": "Luxury honey is dominated by manuka claims. The opening is for an apothecary-coded brand that positions hive products (honey, propolis, royal jelly, beeswax) in the wellness-medicament tradition, with documented sourcing.",
+        "competitorLandscape": "Manuka Doctor (manukadoctor.com) holds the manuka-medicament peer slot. Comvita (comvita.com) plays the global premium peer. Steens Honey (steenshoney.com) is the New Zealand small-batch reference. We sit alongside Comvita with an apothecary-coded identity beyond manuka.",
+        "positioningStatement": "A luxury apothecary brand for hive products \u2014 honey, propolis, royal jelly \u2014 in the medicament tradition.",
+        "targetAudience": {
+          "primary": "40 to 70. Buys at the apothecary and the high-end pharmacy. Reads the label for the hive-product source and the certification.",
+          "behaviors": [
+            "Reads the propolis and royal jelly source on every bottle",
+            "Pays a premium for documented hive-product certification",
+            "Buys at considered apothecaries and pharmacies"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Scholarly"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the hive's floral source and certification",
+            "Use historical apothecary language",
+            "Document each product's harvest method"
+          ],
+          "donts": [
+            "Use 'superfood' marketing",
+            "Discount, ever",
+            "Sell without batch documentation"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 House of Propolis set in a classical roman with a small embossed bee-and-hive crest. The crest appears on the apothecary jar lid.",
+        "colorPalette": [
+          {
+            "name": "Propolis",
+            "hex": "#5A2E16",
+            "meaning": "Raw propolis resin.",
+            "usage": "Wordmark, signage"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Apothecary label paper.",
+            "usage": "Page, labels"
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Hive crest foil.",
+            "usage": "Foil, the crest"
+          },
+          {
+            "name": "Wax",
+            "hex": "#D7A85F",
+            "meaning": "Beeswax.",
+            "usage": "Accent, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and labels",
+          "secondary": "Adobe Garamond for the apothecary insert",
+          "rationale": "Caslon carries the apothecary heritage register. Garamond handles the long-form insert."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Skep",
+        "tagline": "The original woven hive.",
+        "brandNameRationale": "Skep is the single archaic English word for the woven straw hive used in European beekeeping before the Langstroth movable-frame design (1851). Single-syllable, trade-specific, instantly evocative. Minimal honey brand with a real beekeeping-vocabulary anchor.",
+        "industrySummary": "Minimal honey is rare in a category obsessed with provenance stories. The opening is for a brand named on a single piece of beekeeping vocabulary, with a plain jar and a single seasonal honey.",
+        "competitorLandscape": "London Honey Company (londonhoney.co.uk) holds the small-batch urban peer slot. Bermondsey Street Bees (bermondseystreetbees.co.uk) plays the minimal urban peer. The Hive Honey Shop (thehivehoneyshop.co.uk) is the trade-vocabulary peer. We sit further out \u2014 single word, single seasonal honey.",
+        "positioningStatement": "A minimal honey brand selling one seasonal honey from a single named apiary.",
+        "targetAudience": {
+          "primary": "30 to 55. Buys honey twice a year \u2014 spring and autumn. Wants one good jar at a time.",
+          "behaviors": [
+            "Buys one jar per season",
+            "Skips multi-pack purchases",
+            "Reads the harvest week on the lid"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Quiet",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the harvest week on the lid",
+            "Name the apiary",
+            "Skip the catalog"
+          ],
+          "donts": [
+            "Sell multiple honeys at once",
+            "Use 'pure raw' marketing",
+            "Photograph the beekeeper"
+          ]
+        },
+        "logoDirection": "Skep set in a neutral grotesque, all lowercase, on the lid and the jar. A single woven-skep silhouette appears on the lid only. No second mark.",
+        "colorPalette": [
+          {
+            "name": "Straw",
+            "hex": "#D7BB7A",
+            "meaning": "Woven straw skep.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Page.",
+            "usage": "Background"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for the harvest data",
+          "rationale": "One family."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Apis Group",
+        "tagline": "Apiculture supply and breeding stock.",
+        "brandNameRationale": "Apis is the genus name for the honey bee (Apis mellifera). The Latin binomial places the brand in the apicultural-science tradition. Group names the multi-line B2B operator \u2014 breeding stock, supply, queen rearing, contract pollination.",
+        "industrySummary": "Corporate apiculture is a serious B2B category \u2014 breeding stock, queen rearing, contract pollination for almond and orchard growers. The opening is for a mid-tier multi-service operator with documented breeding lines.",
+        "competitorLandscape": "Olivarez Honey Bees (ohbees.com) holds the US queen-rearing peer slot. Mann Lake (mannlakeltd.com) plays the supply-distribution peer. Adee Honey Farms (adeehoney.com) is the contract-pollination reference. We sit alongside Olivarez with a sharper multi-line operator identity.",
+        "positioningStatement": "A corporate apiculture operator covering queen rearing, supply, and contract pollination.",
+        "targetAudience": {
+          "primary": "Almond and orchard growers, commercial beekeepers, and apicultural research institutions.",
+          "behaviors": [
+            "Contracts pollination services annually",
+            "Buys queens by the hundred",
+            "Renews on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Operational",
+          "Senior",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with breeding-line documentation",
+            "Speak the language of orchard operators",
+            "Publish queen availability quarterly"
+          ],
+          "donts": [
+            "Use consumer-honey marketing",
+            "Sell hobbyist single-jar products",
+            "Photograph in showroom settings"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 APIS in a tight engineering grotesk above GROUP in tracked small caps. A single hexagonal-cell mark appears on supply documents.",
+        "colorPalette": [
+          {
+            "name": "Apiary Navy",
+            "hex": "#0F2238",
+            "meaning": "Industry navy.",
+            "usage": "Primary, logo"
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Document page.",
+            "usage": "Reports"
+          },
+          {
+            "name": "Wax",
+            "hex": "#D7A85F",
+            "meaning": "Single accent.",
+            "usage": "Hexagonal mark"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structural metal.",
+            "usage": "Body, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for B2B materials",
+          "secondary": "Source Serif Pro for printed contract documents",
+          "rationale": "Inter scales clean across digital. The serif handles printed agreements."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Skep & Smoker",
+        "tagline": "The hive and the tool, side by side.",
+        "brandNameRationale": "Pairs the skep (the woven hive) with the smoker (the tool beekeepers use to calm a hive). Two trade-specific objects in conjunction \u2014 a creative-register honey and hive-products brand that names what's on the workbench.",
+        "industrySummary": "Creative honey is crowded with rustic-trade-shop imagery. The opening is for a brand that takes the tools of the trade as its identity \u2014 the skep, the smoker, the hive tool \u2014 and treats them as the storytelling anchor.",
+        "competitorLandscape": "Black Bee Honey (blackbeehoney.com) holds the storytelling craft peer slot. The London Honey Company (londonhoney.co.uk) plays the urban-craft peer. Bee Local (beelocal.com) is the Portland-craft reference. We sit alongside Black Bee with a sharper tools-of-the-trade identity.",
+        "positioningStatement": "A creative beekeeping brand named on the tools \u2014 selling honey, beeswax, and small hive goods.",
+        "targetAudience": {
+          "primary": "30 to 55. Buys honey at the farmers market and the design store. Reads the trade language with interest.",
+          "behaviors": [
+            "Reads the tools on the label with curiosity",
+            "Buys honey at independent stores and markets",
+            "Photographs the jar before opening it"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Crafted",
+          "Slightly editorial",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the tools on the workbench",
+            "Name the smoker fuel",
+            "Use first-person beekeeper voice"
+          ],
+          "donts": [
+            "Use stock farm imagery",
+            "Photograph in styled kitchens",
+            "Use 'artisan' as marketing"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Skep & Smoker set in a friendly humanist serif with a small skep-and-smoker silhouette to the side. The silhouette appears on stickers and the wax-paper wrap.",
+        "colorPalette": [
+          {
+            "name": "Smoke",
+            "hex": "#5C6770",
+            "meaning": "Beekeeper's smoke.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Straw",
+            "hex": "#D7BB7A",
+            "meaning": "Woven skep.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Wax",
+            "hex": "#E8D49A",
+            "meaning": "Beeswax.",
+            "usage": "Background, paper"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1B1B1B",
+            "meaning": "Body type.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "PP Mori for body and labels",
+          "rationale": "Sectra carries the editorial register. Mori keeps the body friendly."
+        }
+      }
+    ]
+  }
+}

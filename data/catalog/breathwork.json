@@ -1,0 +1,326 @@
+{
+  "industry": "breathwork",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Long Exhale",
+        "tagline": "A breathwork studio. Sit. Breathe. Leave.",
+        "brandNameRationale": "The physiological sigh \u2014 a double inhale followed by a long exhale \u2014 is the single most evidence-backed breathing technique for down-regulating the nervous system (Huberman lab, Stanford 2021). Strongest of Agent A's evocative row: Holotropic Hour is Grof-specific and clinical-feeling, Prana Tide reads wellness-app. Long Exhale is two plain English words that name what every session ends with.",
+        "industrySummary": "Modern breathwork in 2025+ sits between the Wim Hof imitators, the Holotropic facilitators, and the app tier (Othership, Open). The opening is a small in-person studio that runs short sessions without the trauma-release theatre or the ice plunge. Patrons are 28-45, app-tired, and want a room and a facilitator.",
+        "competitorLandscape": "Othership (othership.us) sets the modern in-person template with sauna pairing. Open (open.com) holds the app tier. The Breath Center (thebreathcenter.com) competes on facilitator training. We sit smaller, quieter, and physiology-grounded.",
+        "positioningStatement": "A small physiology-grounded breathwork studio. Sit. Breathe. Leave.",
+        "targetAudience": {
+          "primary": "28 to 45. Has tried the Wim Hof method on YouTube and lasted four days. Wants a room, a facilitator, and forty minutes after work. Skeptical of the trauma-release marketing.",
+          "behaviors": [
+            "Books a single session, not a package",
+            "Walks from work; pays at the door",
+            "Sits twice a week and tells nobody"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Plain",
+          "Physiological",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the physiology \u2014 vagal tone, CO2 tolerance",
+            "Publish the schedule and the facilitator",
+            "Keep the website to one page"
+          ],
+          "donts": [
+            "Promise trauma release",
+            "Sell a 'transformation' package",
+            "Photograph people screaming"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 LONG EXHALE set in a low-contrast grotesk, wide kerned. A single horizontal line beneath, suggesting the exhale, as the only mark. The line alone works as the favicon and the door plaque.",
+        "colorPalette": [
+          {
+            "name": "Studio White",
+            "hex": "#F6F3EC",
+            "meaning": "The studio at first light.",
+            "usage": "Backgrounds, walls, paper."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type and the schedule.",
+            "usage": "Type, signage."
+          },
+          {
+            "name": "Lung Rose",
+            "hex": "#B7766B",
+            "meaning": "The colour of oxygenated tissue.",
+            "usage": "Hover, the door line, ribbon."
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and schedule",
+          "secondary": "S\u00f6hne Mono for the timetable",
+          "rationale": "One family. The grotesk holds the studio register; the mono handles the printed schedule."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Prague Breath",
+        "tagline": "A private breathwork hall in the Grof tradition.",
+        "brandNameRationale": "Stanislav Grof (1931-2024) was born in Prague and developed Holotropic Breathwork in the 1970s \u2014 the foundational Western breathwork method. Strongest of Agent A's place row for luxury: Novosibirsk Method is geopolitically charged today, Rishikesh Pranayama reads tourist-yoga. Prague Breath is a quiet European address that the actual lineage runs through, and Grof died in 2024 making the heritage uncontested.",
+        "industrySummary": "Luxury breathwork is not the public-studio class \u2014 it is the private hall with a senior Grof-trained facilitator and a small membership. The opening is a discreet members' room positioned on lineage rather than amenities. Patrons are 40+, often have a therapist already, and want a serious holotropic-tradition facilitator in the city.",
+        "competitorLandscape": "Grof Legacy Training (groflegacytraining.com) certifies the senior facilitators. Holotropic Breathwork International (holotropic.com) holds the institutional peer. Othership (othership.us) competes at the public-studio tier. We sit as the private members' hall.",
+        "positioningStatement": "A members' breathwork hall in the Grof tradition.",
+        "targetAudience": {
+          "primary": "40 to 65. Often in therapy. Has done at least one Grof-tradition residential. Wants a facilitator in the city and a room that respects the depth of the work. Pays the annual fee without comment.",
+          "behaviors": [
+            "Books a monthly session and a yearly residential",
+            "Refers other members by introduction",
+            "Holds the same mat in the cupboard"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Senior",
+          "Patient",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name facilitators by training lineage",
+            "Confirm sessions by paper card",
+            "Keep the door locked outside of sessions"
+          ],
+          "donts": [
+            "Publish member names",
+            "Photograph the hall",
+            "Run any social media"
+          ]
+        },
+        "logoDirection": "A serif wordmark. PRAGUE BREATH in a quiet text serif, with a small brass disc beneath \u2014 the disc embossed on the member card and the door plate.",
+        "colorPalette": [
+          {
+            "name": "Hall Cream",
+            "hex": "#EDE7D6",
+            "meaning": "Beeswax candle, paper, the hall wall.",
+            "usage": "Stationery, paper, walls."
+          },
+          {
+            "name": "Vltava Blue",
+            "hex": "#2A3A52",
+            "meaning": "The river through Prague \u2014 quiet and deep.",
+            "usage": "Wordmark, signage."
+          },
+          {
+            "name": "Brass Disc",
+            "hex": "#A6843D",
+            "meaning": "The member's mark.",
+            "usage": "Foil, plate, hardware."
+          }
+        ],
+        "typography": {
+          "primary": "Lyon Text for the wordmark and printed material",
+          "secondary": "S\u00f6hne for the one-page schedule",
+          "rationale": "A classical text serif carries the lineage register; the grotesk handles the one digital surface."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Bellows",
+        "tagline": "A breathwork studio. The schedule is the website.",
+        "brandNameRationale": "The bellows breath (bhastrika) is the foundational forced-breath pranayama \u2014 and 'bellows' is the English word for the leather organ that fills and empties. Strongest minimal mark out of Agent A's craft row: Bellows & Lung is fine but two-word, The Diaphragm Room is too clinical, Nostril & Cycle is too descriptive. Bellows alone \u2014 one word, one image, the entire practice in five letters.",
+        "industrySummary": "Minimal breathwork is a room, a facilitator, a mat, a clock. The opening is for a studio that publishes only the schedule and the facilitator. Patrons want what they paid for \u2014 a session \u2014 and nothing else.",
+        "competitorLandscape": "Open (open.com) sets the minimal-app tier. Othership (othership.us) does in-person with theatre. Local independent facilitators compete on relationship. We publish less than any of them.",
+        "positioningStatement": "A breathwork studio. Schedule, facilitator, room. That's the website.",
+        "targetAudience": {
+          "primary": "30 to 55. Practices already. Doesn't want a guided audio. Walks in, breathes, walks out. Pays the monthly fee and reads no marketing email.",
+          "behaviors": [
+            "Books a recurring weekday session",
+            "Brings their own mat",
+            "Never opens the newsletter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Quiet",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show only schedule and facilitator on the homepage",
+            "Ring a bell at the start and end",
+            "Refund silently if the session cancels"
+          ],
+          "donts": [
+            "Send a weekly newsletter",
+            "Sell merchandise",
+            "Play music during the session"
+          ]
+        },
+        "logoDirection": "A wordmark only. BELLOWS in a single grotesk weight, all caps, wide kerned. No icon. The wordmark works on the door, the mat shelf, and the schedule card.",
+        "colorPalette": [
+          {
+            "name": "Studio White",
+            "hex": "#FAF8F2",
+            "meaning": "The studio in daylight.",
+            "usage": "Backgrounds, paper, walls."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and the schedule.",
+            "usage": "Wordmark, body, all type."
+          },
+          {
+            "name": "Leather",
+            "hex": "#7A5A3F",
+            "meaning": "The bellows \u2014 secondary anchor.",
+            "usage": "Dividers, the mat shelf."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The door, the card, and the site all carry the same wordmark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Buteyko Group",
+        "tagline": "Workplace breathing programs in the Buteyko tradition.",
+        "brandNameRationale": "Konstantin Buteyko (1923-2003) developed the Buteyko Method in Soviet medicine \u2014 a clinically studied protocol for reducing chronic over-breathing, used for asthma and anxiety. Strongest of Agent A's heritage row for corporate: Grof Hall is more therapeutic than corporate, Orr & Leonard reads as a rebirthing studio. Buteyko is taught institutionally and lands as a serious B2B partnership; Agent A flagged the TM scope \u2014 used here as the method-tradition the group works in, not as the certifying body.",
+        "industrySummary": "Corporate breathing programs in 2025+ are emerging in the same window meditation occupied a decade ago. HR buyers want evidence-grounded, in-person sessions for stress, asthma, and respiratory health. The opening is a partnership group that places trained breathing-method facilitators inside large employers.",
+        "competitorLandscape": "The Buteyko Clinic International (buteykoclinic.com) holds the institutional method peer. Oxygen Advantage (oxygenadvantage.com) is the Patrick McKeown extension. Calm Business (business.calm.com) competes at the wellness-app tier. We sit clinician-led and method-grounded.",
+        "positioningStatement": "Workplace breathing programs in the Buteyko tradition, delivered in person.",
+        "targetAudience": {
+          "primary": "HR directors and benefit consultants at large employers, plus medical directors at integrated health systems. They sign annual contracts and care about evidence, attendance, and respiratory-claim reduction.",
+          "behaviors": [
+            "Reviews facilitator training credentials",
+            "Tracks attendance and respiratory metrics",
+            "Signs annual on-site contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Serious",
+          "Reliable",
+          "Clinical",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name each facilitator's training lineage",
+            "Report attendance and outcomes",
+            "Cite the published trials"
+          ],
+          "donts": [
+            "Promise trauma release",
+            "Bundle with sauna or ice",
+            "Report on app opens"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a single horizontal stroke with a subtle taper, suggesting an exhale \u2014 to the left. Reads cleanly on uniforms, signage, and procurement decks.",
+        "colorPalette": [
+          {
+            "name": "Method Navy",
+            "hex": "#102236",
+            "meaning": "Clinical authority.",
+            "usage": "Logo, primary surfaces, uniforms."
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper."
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body text, dividers."
+          },
+          {
+            "name": "Lung Rose",
+            "hex": "#B7766B",
+            "meaning": "Quiet accent \u2014 oxygenated tissue.",
+            "usage": "Highlights, hover."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed quarterly letters",
+          "rationale": "Inter scales cleanly across procurement decks; the serif handles the printed letters."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Diaphragm Room",
+        "tagline": "A breathwork studio organised around the muscle that does the work.",
+        "brandNameRationale": "The diaphragm is the primary muscle of respiration \u2014 the actual organ of breath \u2014 and it is the thing every breathwork practice trains. Strongest of Agent A's craft row for creative: Bellows & Lung is good but the minimal slot took bellows, Nostril & Cycle is too clinical. The Diaphragm Room reads as a designed studio that names the anatomy honestly, in the register of a good independent gym or a craft butcher.",
+        "industrySummary": "Creative breathwork studios sit in the register of a designed gym or a craft anatomy lab. Patrons are design-literate, often work in adjacent creative fields, and want a studio that takes the body seriously. The opening is a brand with anatomical-illustration, slightly bookish identity that doesn't drift into wellness-clip-art.",
+        "competitorLandscape": "Othership (othership.us) holds the design-led peer. The Class (theclass.com) is the adjacent body-practice template. Inscape (inscape.life) shaped the design template before closing. We sit warmer, more anatomical, more honest about the muscle.",
+        "positioningStatement": "A breathwork studio organised around the diaphragm.",
+        "targetAudience": {
+          "primary": "28 to 42. Designers, editors, athletes. Reads anatomy books for fun. Will pay extra for a room that names the muscle honestly. Photographs the wall chart once and never again.",
+          "behaviors": [
+            "Asks which protocol the studio teaches",
+            "Buys the illustrated diaphragm chart",
+            "Tells exactly one friend"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Honest",
+          "Curious",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Commission a yearly illustrated anatomy chart",
+            "Print the schedule on heavy paper",
+            "Name each room after a respiratory structure"
+          ],
+          "donts": [
+            "Sell a 'breath kit'",
+            "Run themed seasonal posts",
+            "Use stock photos of people screaming"
+          ]
+        },
+        "logoDirection": "A wordmark in a chunky display serif with letterpress impression. The O of ROOM is set as a small woodblock-style diaphragm in cross-section. A standalone diaphragm mark for stickers and the bag tag.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#1A1A1A",
+            "meaning": "Letterpress ink.",
+            "usage": "Wordmark, body, illustrations."
+          },
+          {
+            "name": "Anatomy Rose",
+            "hex": "#B7766B",
+            "meaning": "Oxygenated tissue.",
+            "usage": "Secondary surfaces, paper."
+          },
+          {
+            "name": "Block Indigo",
+            "hex": "#2C3E66",
+            "meaning": "Single accent \u2014 the printer's stamp.",
+            "usage": "Stickers, headlines, the diaphragm."
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Heavy paper.",
+            "usage": "Backgrounds, cards, walls."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and illustrated charts",
+          "secondary": "GT Sectra Book for the printed schedule",
+          "rationale": "One family, two cuts. The display reads woodblock; the book weight handles the schedule."
+        }
+      }
+    ]
+  }
+}

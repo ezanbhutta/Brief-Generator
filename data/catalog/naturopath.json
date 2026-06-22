@@ -1,0 +1,326 @@
+{
+  "industry": "naturopath",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Telos Health",
+        "tagline": "Naturopathic medicine, grounded in purpose.",
+        "brandNameRationale": "Telos is the Greek word for purpose or end-cause, used in naturopathic vitalism to describe the body's inherent direction toward health (the vis medicatrix naturae). Strongest of Agent A's modern row: Phyto Practice is narrow (plants only), Galen & Co. risks reading as a herbal supplement brand. Telos Health is a clean two-word mark with a real philosophical anchor in the tradition.",
+        "industrySummary": "Modern naturopathy in 2025+ sits between functional-medicine clinics (Parsley, Forward) and old-school herbalists. Patients are 30-50, often post-conventional-medicine, and want clinical seriousness without the white-coat sell. The opening is a practice that owns the vitalist philosophy without the woo vocabulary.",
+        "competitorLandscape": "Parsley Health (parsleyhealth.com) is the functional-medicine peer. Forward (goforward.com) holds the membership-clinic model. Bastyr Center (bastyrcenter.org) is the academic naturopathic peer. We sit smaller, philosophy-led, and clinically credentialled.",
+        "positioningStatement": "A naturopathic practice grounded in vitalist philosophy and credentialled clinicians.",
+        "targetAudience": {
+          "primary": "32 to 52. Has been through the standard-of-care for a chronic complaint and wants a longer appointment with a real ND. Reads the practitioner's training before booking. Pays out of pocket without complaint.",
+          "behaviors": [
+            "Books a sixty-minute initial",
+            "Asks for the practitioner's licensure",
+            "Brings their own lab results"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Clinical",
+          "Warm",
+          "Philosophical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the licensure (ND, accredited program)",
+            "Cite vis medicatrix naturae as the framework",
+            "Publish appointment length and price"
+          ],
+          "donts": [
+            "Sell supplements at the front desk",
+            "Use the word 'detox'",
+            "Promise a cure"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 TELOS HEALTH set in a precise modern serif, with a single small arrowhead form above the O suggesting direction toward an end. The arrowhead alone works as the favicon and on the appointment card.",
+        "colorPalette": [
+          {
+            "name": "Clinic Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Calm, clinical, paper.",
+            "usage": "Backgrounds, paper, packaging."
+          },
+          {
+            "name": "Vital Green",
+            "hex": "#1F3A2E",
+            "meaning": "The vitalist register \u2014 living tissue.",
+            "usage": "Wordmark, headers, body type."
+          },
+          {
+            "name": "Tincture Amber",
+            "hex": "#A8843D",
+            "meaning": "The herbal tincture bottle.",
+            "usage": "Hover, the arrowhead, foil."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and patient letters",
+          "secondary": "S\u00f6hne for the booking flow and body",
+          "rationale": "Sectra carries the philosophical-clinical weight; S\u00f6hne keeps the booking flow modern."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "W\u00f6rishofen House",
+        "tagline": "A private naturopathic practice in the Kneipp tradition.",
+        "brandNameRationale": "Bad W\u00f6rishofen, Bavaria is the town where Sebastian Kneipp (1821-1897) established the hydrotherapy practice that became one of the roots of European naturopathy. Strongest of Agent A's place row for luxury: Kos Practice is too quiet for the luxury patient, Butler Hall is academically correct but unromantic. W\u00f6rishofen House inherits 150 years of European spa-medicine meaning and sidesteps the Kneipp cosmetics TM \u2014 Agent A flagged the surname; the town name is safe.",
+        "industrySummary": "Luxury naturopathy serves the patient who treats their ND like a private physician \u2014 long appointments, no waiting room, the same clinician for every visit. The opening is a practice that revives the European Kurhaus-physician posture without the spa-resort trappings.",
+        "competitorLandscape": "Lanserhof (lanserhof.com) holds the European medical-spa tier. Buchinger Wilhelmi (buchinger-wilhelmi.com) is the fasting-clinic peer. Pritikin (pritikin.com) sits adjacent in the US. We sit as the urban consulting practice, not the residential clinic.",
+        "positioningStatement": "A discreet private naturopathic practice in the Kurhaus consulting tradition.",
+        "targetAudience": {
+          "primary": "45 to 70. Splits the year between a city and a clinic in the mountains. Has a private GP and a private dentist and wants a naturopath in the same register. Pays the invoice the same day.",
+          "behaviors": [
+            "Books by phone",
+            "Refers friends by quiet introduction",
+            "Travels with the clinician's written protocol"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Refined",
+          "Patient",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address patients by surname",
+            "Send paper protocols",
+            "Confirm appointments by call"
+          ],
+          "donts": [
+            "Run social media",
+            "Publish prices",
+            "Sell a 'cleanse'"
+          ]
+        },
+        "logoDirection": "A serif wordmark with elegant ligatures. A small embossed door-plate mark \u2014 a brass leaf form \u2014 sits beneath the wordmark, used on the practice card, the protocol letter, and the surgery door.",
+        "colorPalette": [
+          {
+            "name": "Kurhaus Cream",
+            "hex": "#EFE9DB",
+            "meaning": "The consulting-room wall.",
+            "usage": "Stationery, paper, packaging."
+          },
+          {
+            "name": "Forest Green",
+            "hex": "#1E3A2C",
+            "meaning": "The Bavarian forest.",
+            "usage": "Wordmark, primary signage."
+          },
+          {
+            "name": "Brass Leaf",
+            "hex": "#A6843D",
+            "meaning": "The door plate.",
+            "usage": "Foil, plate mark, hardware."
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "S\u00f6hne for the booking confirmation",
+          "rationale": "A high-contrast classical serif carries the Kurhaus register; the grotesk handles the one digital surface."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Phyto",
+        "tagline": "A naturopathic practice. Plants. Clinicians. Time.",
+        "brandNameRationale": "Phyto, from Greek phyton \u2014 plant. The single Greek root that names what most naturopathic medicine actually does: prescribe and prepare plant-derived remedies. Strongest minimal mark of Agent A's modern row: Telos is philosophical (better for the modern brief), Galen risks reading as a supplement line. Phyto stands alone, one word, one syllable in effect, and tells the patient the entire register.",
+        "industrySummary": "Minimal naturopathy is a long appointment, a clear note, a small dispensary. The opening is a practice that publishes its prices, its dispensary, and the clinician's licensure \u2014 and stops there.",
+        "competitorLandscape": "Parsley Health (parsleyhealth.com) is the closest tech-led peer. Forward (goforward.com) holds the membership-clinic model. Local independent NDs compete on relationship. We publish less than any of them.",
+        "positioningStatement": "A naturopathic practice. Published prices. Long appointments. One clinician.",
+        "targetAudience": {
+          "primary": "Adults 30-55 who want one ND, sixty minutes, and a clear plant-medicine plan. They've left the functional-medicine clinic over the supplement upsell. They want the appointment to start when it was booked.",
+          "behaviors": [
+            "Books a long initial and a six-month follow-up",
+            "Reads the price list before booking",
+            "Refuses any 'package'"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the price list on the home page",
+            "Confirm appointments in one sentence",
+            "Start on time"
+          ],
+          "donts": [
+            "Upsell supplements",
+            "Run loyalty programs",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark only. PHYTO set in a single-weight grotesk, wide kerned, all caps. No icon. The wordmark works on the door, the dispensary jar, and the appointment card. That is the whole system.",
+        "colorPalette": [
+          {
+            "name": "Leaf White",
+            "hex": "#F6F4ED",
+            "meaning": "The dispensary wall.",
+            "usage": "Backgrounds, walls, paper."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type."
+          },
+          {
+            "name": "Stem",
+            "hex": "#3B5A3A",
+            "meaning": "Single quiet accent.",
+            "usage": "Dividers, jar labels."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The sign, the card, and the dispensary jar all carry the same wordmark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Lust Naturopathic Partners",
+        "tagline": "A multi-site naturopathic partnership in the Lust tradition.",
+        "brandNameRationale": "Benedict Lust (1872-1945) founded the first US naturopathic school in 1901 (Butler, NJ) and effectively named the American naturopathic profession. Strongest of Agent A's heritage row for corporate: the dual Lust & Kneipp risks the Kneipp cosmetics TM that Agent A flagged, the Kneipp Method Practice carries the same risk. Lust alone is safe, historically primary, and lands as a serious clinician-led group rather than a chain.",
+        "industrySummary": "Corporate naturopathy in 2025+ is consolidating around membership-clinic and integrative-medicine groups. The next tier competes on clinician retention and outcomes data rather than franchise mechanics. The opening is a partnership-model group positioned on clinical seniority and tradition.",
+        "competitorLandscape": "Parsley Health (parsleyhealth.com) is the largest functional-medicine peer. Cleveland Clinic Integrative (my.clevelandclinic.org/departments/integrative) holds the academic tier. The Institute for Functional Medicine (ifm.org) trains the practitioners. We sit clinician-led, naturopathy-rooted.",
+        "positioningStatement": "A clinician-led naturopathic partnership grounded in the Lust tradition.",
+        "targetAudience": {
+          "primary": "Procurement at self-insured employers, HR directors at large firms, and NDs considering joining a group. They sign multi-year contracts and care about clinician retention, outcomes, and licensure compliance across states.",
+          "behaviors": [
+            "Reviews clinical KPIs before partnership",
+            "Tracks ND-licensure compliance state by state",
+            "Values clinician retention rate as a buying signal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Clinical",
+          "Professional",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with clinician retention and outcomes",
+            "Speak the language of self-insured procurement",
+            "Publish quarterly clinical letters"
+          ],
+          "donts": [
+            "Use consumer wellness language",
+            "Run social campaigns",
+            "Promote individual clinicians on national channels"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 three stacked leaves abstracted as horizontal strokes \u2014 to the left. Reads cleanly on uniforms, signage, and procurement decks.",
+        "colorPalette": [
+          {
+            "name": "Lust Navy",
+            "hex": "#102236",
+            "meaning": "Clinical authority.",
+            "usage": "Logo, primary surfaces, uniforms."
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper."
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body text, dividers."
+          },
+          {
+            "name": "Leaf",
+            "hex": "#3B5A3A",
+            "meaning": "Quiet accent \u2014 the naturopathic register.",
+            "usage": "Highlights, hover."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed clinical letters",
+          "rationale": "Inter scales cleanly across procurement decks; the serif handles the printed clinical letters."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Tincture Room",
+        "tagline": "A naturopathic practice run like an apothecary.",
+        "brandNameRationale": "The tincture \u2014 an alcohol extract of a plant \u2014 is the core artefact of herbal medicine and the daily craft of a naturopathic dispensary. Strongest of Agent A's craft row for creative: Materia Medica is the textbook and reads academic, Constitutional & Co. is too inside-baseball for a public-facing creative brand. The Tincture Room reads as a designed apothecary \u2014 the practice and the dispensary as a single craft object.",
+        "industrySummary": "Creative naturopathy sits in the register of a good independent apothecary or perfumer. Patients are design-literate, often in adjacent fields, and want a practice that feels crafted \u2014 labels, jars, a printed protocol. The opening is a brand with print-shop, illustrated, apothecary aesthetics.",
+        "competitorLandscape": "Anima Mundi (animamundiherbals.com) holds the design-led herbal peer. The Herbalist (theherbalist.com) is the apothecary template. Wooden Spoon Herbs (woodenspoonherbs.com) sits adjacent. We sit as the practice with a dispensary attached, not the brand with a clinic on the side.",
+        "positioningStatement": "A naturopathic practice with an apothecary attached.",
+        "targetAudience": {
+          "primary": "30 to 48. Editors, designers, chefs. Has a relationship with a perfumer and a stationery shop. Will pay for a tincture that has been considered down to the label.",
+          "behaviors": [
+            "Asks where the bitters were sourced",
+            "Buys the dispensary jar for the kitchen",
+            "Photographs the labels \u2014 once \u2014 and never again"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Warm",
+          "Curious",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print every label",
+            "Name each dispensary cabinet after a materia medica section",
+            "Commission a yearly illustrated plant chart"
+          ],
+          "donts": [
+            "Sell a 'wellness kit'",
+            "Run themed seasonal posts",
+            "Use the word 'clean'"
+          ]
+        },
+        "logoDirection": "A wordmark in a chunky display serif with letterpress impression. The O of ROOM is set as a small woodblock-style apothecary bottle. A standalone bottle mark for labels and the bag tag.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#1A1A1A",
+            "meaning": "Letterpress ink.",
+            "usage": "Wordmark, body, labels."
+          },
+          {
+            "name": "Amber Glass",
+            "hex": "#A8843D",
+            "meaning": "The tincture bottle.",
+            "usage": "Labels, secondary surfaces."
+          },
+          {
+            "name": "Bitter Green",
+            "hex": "#3B5A3A",
+            "meaning": "Single accent \u2014 the plant.",
+            "usage": "Stickers, headlines, the bottle stripe."
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Heavy paper.",
+            "usage": "Backgrounds, cards, walls."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and illustrated charts",
+          "secondary": "GT Sectra Book for the printed protocols",
+          "rationale": "One family, two cuts. The display reads woodblock; the book weight handles the printed protocols."
+        }
+      }
+    ]
+  }
+}

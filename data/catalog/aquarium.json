@@ -1,0 +1,338 @@
+{
+  "industry": "aquarium",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Reefline",
+        "tagline": "Reef-keeping, clean and app-ready.",
+        "brandNameRationale": "Reefline is modern reef-keeping shorthand \u2014 the term hobbyists use for the visible band of coral across a tank. Single compound word, app-ready, works for retail and software.",
+        "industrySummary": "Modern reef-keeping has moved from forums to mobile-first communities. The opening is for a brand that takes the Berlin-method tradition and presents it with the discipline of a software product \u2014 clean nomenclature, structured logs, app-readable.",
+        "competitorLandscape": "Bulk Reef Supply (bulkreefsupply.com) holds the modern reef-supply slot. Tropical Marine Centre (tropicalmarinecentre.co.uk) plays the UK trade peer. Red Sea (redsea.com) is the modern system reference. We sit alongside Red Sea, with a sharper app-first identity.",
+        "positioningStatement": "A modern reef-keeping brand for hobbyists who track their tanks like software.",
+        "targetAudience": {
+          "primary": "28 to 45. Keeps a 90 to 200 gallon reef. Logs parameters weekly. Has a wavemaker schedule on their phone.",
+          "behaviors": [
+            "Logs alkalinity and calcium weekly",
+            "Buys frags from named coral farms",
+            "Reads forum threads on Berlin-method dosing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Modern",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use reef-keeping vocabulary accurately",
+            "Publish the parameter ranges",
+            "Treat the app like the brand"
+          ],
+          "donts": [
+            "Photograph the tank with filters",
+            "Use 'magical underwater world' copy",
+            "Sell livestock without acclimation guidance"
+          ]
+        },
+        "logoDirection": "A wordmark only. Reefline set in a precise grotesk, with a thin horizontal rule cutting across the baseline \u2014 the reefline itself. Used as the app icon at small scale.",
+        "colorPalette": [
+          {
+            "name": "Reef Blue",
+            "hex": "#1E5F7A",
+            "meaning": "Deep water at the reef edge.",
+            "usage": "Primary, app accent"
+          },
+          {
+            "name": "Coral",
+            "hex": "#E07A5F",
+            "meaning": "Live coral pigment.",
+            "usage": "Accent, alerts"
+          },
+          {
+            "name": "Salt",
+            "hex": "#F2EFE8",
+            "meaning": "Background.",
+            "usage": "Page, paper"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and product UI",
+          "secondary": "S\u00f6hne Mono for parameter logs",
+          "rationale": "One typeface family. Mono for the numbers, regular for the brand. Two voices, one app."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Stazione Marina",
+        "tagline": "Marine biology in the Naples tradition.",
+        "brandNameRationale": "Direct echo of the Stazione Zoologica Anton Dohrn in Naples, founded 1872 \u2014 the world's oldest marine research station. Italian phrasing, scholarly luxury register. The name does not claim institutional lineage; it places the brand in the same intellectual tradition.",
+        "industrySummary": "Luxury aquariums are dominated by hotel installations and private commissions. The opening is for an Italian-coded marine atelier with the scholarly authority of a research station \u2014 bespoke marine tanks for residences, yachts, and institutions.",
+        "competitorLandscape": "Aquarium Architecture (aquariumarchitecture.com) is the UK luxury installation reference. Living Color (livingcolor.com) holds the institutional aquarium peer. Reynolds Polymer (reynoldspolymer.com) plays the high-end acrylic specialist slot. We sit smaller and more scholarly, with Italian marine-station heritage.",
+        "positioningStatement": "A scholarly marine atelier in the Naples research-station tradition, building bespoke saltwater installations.",
+        "targetAudience": {
+          "primary": "50 to 75. Owns a coastal home or yacht. Commissions one marine installation a decade. Reads scientific monographs on Mediterranean species.",
+          "behaviors": [
+            "Commissions a private marine biologist for stocking advice",
+            "Travels to Naples and Monaco oceanographic museums",
+            "Pays a premium for documented species provenance"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Scholarly",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use the species' Latin binomial",
+            "Cite the research-station tradition",
+            "Document each specimen's source"
+          ],
+          "donts": [
+            "Use 'underwater wonderland' marketing",
+            "Photograph the tank with cinematic filters",
+            "Stock species without provenance"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Stazione Marina set in a classical Italian roman with a small engraved sea-anemone mark. Used on the commission certificate and the brass tank plate.",
+        "colorPalette": [
+          {
+            "name": "Naples Blue",
+            "hex": "#1B3A5C",
+            "meaning": "The Bay of Naples at depth.",
+            "usage": "Wordmark, signage"
+          },
+          {
+            "name": "Travertine",
+            "hex": "#EFE7D5",
+            "meaning": "Mediterranean stone.",
+            "usage": "Page, certificates"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Tank plate.",
+            "usage": "Foil, the mark"
+          },
+          {
+            "name": "Coral Red",
+            "hex": "#A8313F",
+            "meaning": "Mediterranean red coral.",
+            "usage": "Accent, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Adobe Garamond for monographs and commission letters",
+          "rationale": "Sectra carries the scholarly register. Garamond keeps long-form scientific copy warm."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Saltline",
+        "tagline": "Where the water meets the air.",
+        "brandNameRationale": "Two syllables \u2014 salinity and waterline. Saltline names the visible band at the top of every marine tank. Single compound word, period-locked register, minimal aquarium brand.",
+        "industrySummary": "Minimal in the aquarium category is rare \u2014 the trade leans toward reef-stunt imagery. The opening is for a brand that strips the visual language back to the tank itself: glass, water, salt.",
+        "competitorLandscape": "BiOrb (biorb.com) holds the design-led minimal slot. Waterbox (waterboxaquariums.com) plays the modern rimless peer. ADA (adana.co.jp) is the minimal aquascape reference. We sit alongside ADA with marine instead of freshwater focus.",
+        "positioningStatement": "A minimal saltwater brand for tanks that look like furniture.",
+        "targetAudience": {
+          "primary": "30 to 55. Lives in a small considered home. Wants one rimless tank in the living room and nothing extra.",
+          "behaviors": [
+            "Buys a single rimless cube tank",
+            "Skips colored lighting",
+            "Reads minimalist interior magazines"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the water surface",
+            "Name the salinity range",
+            "Skip the showroom copy"
+          ],
+          "donts": [
+            "Use neon lighting in photography",
+            "Sell additional accessories",
+            "Photograph the tank with branded backgrounds"
+          ]
+        },
+        "logoDirection": "Saltline set in a neutral grotesque, all lowercase, with a single thin rule beneath \u2014 the salt line itself. No icon.",
+        "colorPalette": [
+          {
+            "name": "Saltwater",
+            "hex": "#7A9AB0",
+            "meaning": "Salt water in even light.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Salt",
+            "hex": "#F2EFE8",
+            "meaning": "Page.",
+            "usage": "Background"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for parameter chips",
+          "rationale": "One family. Mono for the numbers."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Marinex Systems",
+        "tagline": "Life-support and filtration for marine installations.",
+        "brandNameRationale": "Marinex pairs marine with the -ex industrial suffix used across life-support and engineering trades. Systems names the actual product: integrated life-support architecture for public aquariums, research institutions, and large private installations.",
+        "industrySummary": "Corporate aquariums is a serious B2B category \u2014 life-support systems for public aquariums, research institutions, and aquaculture. The opening is for a mid-tier life-support specialist with documented system engineering.",
+        "competitorLandscape": "Aquatic Life Support Systems (aquaticlifesupport.com) holds the public-aquarium engineering slot. Pentair Aquatic Eco-Systems (pentairaes.com) plays the global supplier peer. Sea & Reef Aquaculture (seareef.com) sits in the aquaculture peer slot. We sit alongside Pentair AES with a sharper system-integration identity.",
+        "positioningStatement": "Corporate life-support and filtration engineering for marine installations over 1,000 gallons.",
+        "targetAudience": {
+          "primary": "Public aquarium operations managers, research-institution facility leads, and aquaculture procurement officers.",
+          "behaviors": [
+            "Negotiates multi-year service contracts",
+            "Specifies systems to AZA standards",
+            "Renews on five to ten-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Operational",
+          "Direct",
+          "Senior"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with system capacity and uptime",
+            "Speak the language of facility engineers",
+            "Publish maintenance schedules"
+          ],
+          "donts": [
+            "Use hobbyist marketing language",
+            "Sell single-tank consumer products",
+            "Photograph in showroom settings"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 MARINEX in a tight engineering grotesk above SYSTEMS in tracked small caps. A single hexagonal water-flow mark sits beside the wordmark on technical documents.",
+        "colorPalette": [
+          {
+            "name": "Deep Sea",
+            "hex": "#0F2238",
+            "meaning": "Engineering navy.",
+            "usage": "Primary, logo"
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Document page.",
+            "usage": "Reports, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structural metal.",
+            "usage": "Dividers, body"
+          },
+          {
+            "name": "Caution",
+            "hex": "#D7A85F",
+            "meaning": "Operational signage accent.",
+            "usage": "Highlights, key info"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B documents",
+          "secondary": "Source Serif Pro for printed engineering reports",
+          "rationale": "Inter scales clean across digital. The serif handles printed technical documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Glass Reef",
+        "tagline": "A gallery of water.",
+        "brandNameRationale": "The Glass Reef is editorial phrasing \u2014 the reef contained behind glass. Reads as a creative aquascaping studio that treats each tank as a gallery installation rather than equipment.",
+        "industrySummary": "Creative aquariums is dominated by hobbyist content. The opening is for an aquascaping studio with a gallery posture \u2014 bespoke planted and marine tanks photographed and exhibited like installations.",
+        "competitorLandscape": "Green Aqua (greenaqua.hu) holds the aquascape gallery peer slot. Aquarium Design Group (aquariumdesigngroup.com) plays the US bespoke peer. The Aquarium Co-Op (aquariumcoop.com) is the community-creative reference. We sit closer to Aquarium Design Group with an editorial gallery identity.",
+        "positioningStatement": "A creative aquascaping studio building tanks as gallery installations.",
+        "targetAudience": {
+          "primary": "35 to 60. Collects design objects. Treats the home tank as a piece of art, not equipment.",
+          "behaviors": [
+            "Commissions the tank like an installation",
+            "Photographs the tank monthly",
+            "Buys plants and corals from named cultivators"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Warm",
+          "Considered",
+          "Slightly editorial"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the tank as an installation",
+            "Name the cultivator and the species",
+            "Treat each commission as a one-off"
+          ],
+          "donts": [
+            "Use stock fish photography",
+            "Sell off-the-shelf tank kits",
+            "Photograph in showroom backgrounds"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 The Glass Reef in a calm editorial serif with a thin reef-silhouette rule beneath. The rule appears on the gallery catalogue and the commission certificate.",
+        "colorPalette": [
+          {
+            "name": "Glass Green",
+            "hex": "#3A5F4A",
+            "meaning": "Planted-tank green at depth.",
+            "usage": "Primary, signage"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Catalogue paper.",
+            "usage": "Page, backgrounds"
+          },
+          {
+            "name": "Coral",
+            "hex": "#E07A5F",
+            "meaning": "Live coral accent.",
+            "usage": "Accent, marks"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Body type.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and catalogue",
+          "secondary": "PP Mori for body and captions",
+          "rationale": "Sectra makes the catalogue feel like a small art journal. Mori keeps the captions calm."
+        }
+      }
+    ]
+  }
+}

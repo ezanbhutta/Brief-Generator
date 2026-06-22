@@ -1,0 +1,350 @@
+{
+  "industry": "glamping",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Gerhaus",
+        "tagline": "The ger, rebuilt for the long stay.",
+        "brandNameRationale": "Ger is the documented Mongolian word for the round felt-walled dwelling (the form Westerners call a yurt — yurt is Turkic, ger is Mongolian). 'Haus' is the German shorthand for a house brand. The compound reads as a modern travel brand grounded in the Mongolian tradition.",
+        "industrySummary": "Modern glamping brands have split into the booking platforms (Hipcamp, Tentrr) and the operator brands (Under Canvas, Collective Retreats). The opening is for a modern operator brand sited on the Mongolian ger tradition — a documented dwelling form, not a marketing tent.",
+        "competitorLandscape": "Under Canvas (undercanvas.com) is the modern operator peer at scale. Collective Retreats (collectiveretreats.com) holds the design-led modern slot. Hipcamp (hipcamp.com) is the booking-platform middle. AutoCamp (autocamp.com) plays the Airstream-modern peer. We sit closer to Collective Retreats with a ger specialism.",
+        "positioningStatement": "Modern ger camps for the long stay.",
+        "targetAudience": {
+          "primary": "30 to 50. Books for a week, not a night. Brings the laptop and the book. Reads the property's land story.",
+          "behaviors": [
+            "Books week-long stays",
+            "Travels in the shoulder season",
+            "Reads the land history before booking"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the form (ger, not tent)",
+            "Photograph the interior at dawn",
+            "List what's on the land — wood-fired stove, well water"
+          ],
+          "donts": [
+            "Use the word glamping in primary copy",
+            "Photograph champagne flutes",
+            "Run a one-night flash sale"
+          ]
+        },
+        "logoDirection": "A wordmark — Gerhaus in a precise modern grotesque, with a small circular ger-roof glyph above that reads as a felt-roof crown in plan view.",
+        "colorPalette": [
+          {
+            "name": "Felt",
+            "hex": "#E8DFC8",
+            "meaning": "Ger wall felt.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember",
+            "hex": "#9C3B1F",
+            "meaning": "Stove fire.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Steppe",
+            "hex": "#4A5538",
+            "meaning": "Mongolian grassland.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for stay codes and check-in times",
+          "rationale": "The mono carries the booking. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maharaja & Pine",
+        "tagline": "The hunting-lodge tradition, at the treeline.",
+        "brandNameRationale": "The Indian maharaja hunting lodges of the 19th and early 20th century (Sawai Madhopur, Ranthambore, Sariska) are the documented heritage anchor for luxury tented camping — silver service, Persian rugs, cotton drill tents. 'Pine' places the brand at the treeline, the geographic register of mountain luxury. The pairing reads as a heritage hunting-camp brand without naming any single dynasty.",
+        "industrySummary": "Luxury glamping sits inside operators like &Beyond, Singita, Belmond Safaris — predominantly African. The opening is for a Himalayan-and-temperate luxury tented camp brand drawing on the Indian maharaja tradition rather than the African safari tradition.",
+        "competitorLandscape": "Aman (aman.com) holds the luxury-tented peer slot, particularly Amanbagh. Singita (singita.com) plays the safari-luxury reference. Belmond Safaris (belmond.com) sits in the global heritage luxury middle. We belong with Aman, in the Indian register.",
+        "positioningStatement": "A heritage hunting-lodge brand for tented camps at the treeline.",
+        "targetAudience": {
+          "primary": "45 to 70. Books a week. Travels with a butler. Reads the property's heritage paper before arrival.",
+          "behaviors": [
+            "Books standing seasonal stays",
+            "Travels with a personal valet",
+            "Buys the bespoke tent commission"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address guests by title",
+            "Confirm by hand-written card on cotton stock",
+            "Print the seasonal program in the dak booklet"
+          ],
+          "donts": [
+            "Publish a price list openly",
+            "Photograph the tent's exterior at dusk",
+            "Run a seasonal promotion"
+          ]
+        },
+        "logoDirection": "A serif wordmark — Maharaja & Pine in a classical book serif with a small embossed elephant-and-pine mark on the dak booklet.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Cotton drill tent.",
+            "usage": "All correspondence"
+          },
+          {
+            "name": "Forest",
+            "hex": "#1F3329",
+            "meaning": "Type and primary.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and dak booklet",
+          "secondary": "An engraver's italic for the chamberlain's signature",
+          "rationale": "Letterpress register throughout."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Yurt House",
+        "tagline": "One yurt. One night.",
+        "brandNameRationale": "Yurt is the documented Turkic word for the round felt dwelling, in common English use since the 19th century. 'House' is the smallest accommodation suffix. The brand names the form and stops there.",
+        "industrySummary": "Most glamping brands accumulate property types — bell tents, treehouses, geodesic domes, safari tents, Airstreams. There's an opening for a brand that offers one form at one price.",
+        "competitorLandscape": "Most operators fail this purity test. The closest peers in spirit are some single-form Mongolian camps and certain old-school Lakeland bothies.",
+        "positioningStatement": "One yurt. One price.",
+        "targetAudience": {
+          "primary": "Guests who already know they want a yurt and want the dates, the price, and the booking link.",
+          "behaviors": [
+            "Books one yurt for two nights",
+            "Skips the add-on menu",
+            "Pays in advance"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the yurt, the dates, the price",
+            "Confirm in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Sell experiences",
+            "Sell add-ons",
+            "Run a glamping campaign"
+          ]
+        },
+        "logoDirection": "Yurt House set in a single-weight grotesque, lowercase. The mark appears on the door, the receipt, and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Felt",
+            "hex": "#F4F0E6",
+            "meaning": "Wall material.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember",
+            "hex": "#9C3B1F",
+            "meaning": "Stove fire.",
+            "usage": "Door colour"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The door, the receipt, the booking page share the same mark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Canvas Hospitality",
+        "tagline": "Tented hospitality at operator scale.",
+        "brandNameRationale": "Canvas is the documented material of the tented-camp tradition (cotton drill, used in safari and maharaja camps since the 19th century). The word is generic and clear of TM. 'Hospitality' is the standard corporate operator suffix (Hyatt Hospitality, Hilton Hospitality). The pairing reads as a serious tented-hospitality operator without colliding with the Canopy by Hilton trademark.",
+        "industrySummary": "Tented hospitality at operator scale — luxury tented camps supplied to hotel groups, REITs, and tourism boards — is a B2B category dominated by mid-tier operators (Under Canvas, Collective Retreats at scale, AutoCamp). The opening is a corporate operator with multi-property capacity and operator-grade reliability.",
+        "competitorLandscape": "Under Canvas (undercanvas.com) is the institutional peer at scale. Collective Retreats (collectiveretreats.com) holds the design-led operator slot. AutoCamp (autocamp.com) plays the Airstream-portfolio peer. We sit alongside Under Canvas with a broader form catalog.",
+        "positioningStatement": "Multi-property tented hospitality for hotel groups and tourism boards.",
+        "targetAudience": {
+          "primary": "Hotel-group development directors, REIT acquisition teams, and tourism-board procurement leads sourcing tented hospitality at scale.",
+          "motivations": [
+            "Multi-property operator capability",
+            "Code-compliant tented structures and BOH",
+            "A serious operator with hospitality-grade reliability"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with property counts and RevPAR data",
+            "Show case studies with named hotel-group partners",
+            "Publish operating metrics"
+          ],
+          "donts": [
+            "Use consumer DTC marketing language",
+            "Photograph the tent at sunset",
+            "Run consumer promotions"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Operator capability",
+            "description": "Multi-property tented hospitality with full BOH, F&B, and housekeeping at hospitality standard."
+          },
+          {
+            "name": "Code-compliant",
+            "description": "All structures engineered to local code with full permitting and inspection trail."
+          },
+          {
+            "name": "Partner support",
+            "description": "Dedicated programs for hotel groups and tourism boards."
+          }
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left — a single tent-peak silhouette. Reads cleanly on a spec deck and shipping case.",
+        "colorPalette": [
+          {
+            "name": "Hospitality Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Canvas",
+            "hex": "#F2EFE8",
+            "meaning": "Cotton drill.",
+            "usage": "Backgrounds, catalogs"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5A6776",
+            "meaning": "Operator neutral.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Ember",
+            "hex": "#9C3B1F",
+            "meaning": "Stove accent.",
+            "usage": "Callouts"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed contracts and operator manuals",
+          "rationale": "Inter scales clean across digital. The serif handles printed contracts."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Wandering Maharaja",
+        "tagline": "A camp that moves with the season.",
+        "brandNameRationale": "The maharaja hunting-camp tradition (Indian princely states, 19th–early 20th century) involved moving the camp with the seasons — cool-weather Sariska, monsoon Ranthambore. The Wandering prefix names the migration. The pairing reads as a warm, character-driven camp house with a documented historical anchor.",
+        "manifesto": "Most glamping brands sell the night. We sell the season. The camp that moves up to the cool meadow in May and down to the river fork in October. The brand is for the long traveller, not the weekend tourist.",
+        "industrySummary": "Glamping branding has been polished, Instagram-ready, and a little cold. There's room for one that's warm, narrative, character-driven, and serious about the migratory camp tradition.",
+        "competitorLandscape": "Collective Retreats (collectiveretreats.com) does the design-led institutional middle. Singita (singita.com) holds the heritage-narrative peer slot. Hipcamp (hipcamp.com) sits in the booking-platform peer position. We sit warmer and more migratory than any of them.",
+        "positioningStatement": "A migratory camp brand for the long traveller.",
+        "targetAudience": {
+          "primary": "35 to 60. Books for two weeks. Brings the children. Reads the camp's seasonal program before arrival.",
+          "behaviors": [
+            "Books two-week seasonal stays",
+            "Travels with the family",
+            "Reads the camp's natural-history pamphlet"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Narrative",
+          "Playful",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the camp during the move",
+            "Tell the story of the season, not the night",
+            "Send a natural-history note with each booking"
+          ],
+          "donts": [
+            "Use the word glamping",
+            "Photograph the bed alone",
+            "Run a one-night flash sale"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with a small elephant-on-pack glyph replacing the article. The elephant stands alone on the dak card and the sticker.",
+        "colorPalette": [
+          {
+            "name": "Maharaja Saffron",
+            "hex": "#E07A2C",
+            "meaning": "Princely robe.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Steppe",
+            "hex": "#4A5538",
+            "meaning": "Grassland.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#FBF6E9",
+            "meaning": "Cotton drill.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Forest",
+            "hex": "#1F3329",
+            "meaning": "Treeline.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and seasonal program notes",
+          "rationale": "Migra has personality. Neue Montreal handles the program."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "industry": "meditation",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Sati Co.",
+        "tagline": "A meditation studio. Sit. Notice. Leave.",
+        "brandNameRationale": "Sati is the Pali word usually translated as 'mindfulness' \u2014 the core faculty trained in Vipassana and the Satipatthana Sutta. Strongest of Agent A's modern row: Anapana is narrower (just breath-awareness), Vihara reads as a building name. Sati is the practice itself in two syllables and lands cleanly on a modern wordmark without the Sanskrit-marketing baggage.",
+        "industrySummary": "Modern meditation studios in 2025+ sit between the app-fatigued (Calm, Headspace, Insight Timer) and the retreat-curious. The opening is a small in-person studio that runs short, regular sits without scripts, soundtracks, or the wellness-industrial vocabulary. Patrons are 28-45, app-tired, and want a room and a teacher rather than a subscription.",
+        "competitorLandscape": "Headspace (headspace.com) and Calm (calm.com) hold the app tier. Insight Timer (insighttimer.com) goes deeper for practitioners. MNDFL (mndflmeditation.com) is the closest in-person peer in NYC. We sit smaller, quieter, and Vipassana-grounded.",
+        "positioningStatement": "A small Vipassana-leaning studio. Sit. Notice. Leave.",
+        "targetAudience": {
+          "primary": "28 to 45. Has done a Calm subscription and let it lapse. Has thought about a ten-day retreat but can't take the time off. Wants a room, a teacher, and forty-five minutes after work.",
+          "behaviors": [
+            "Books a single sit, not a package",
+            "Walks from work; pays at the door",
+            "Sits twice a week and tells nobody"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Plain",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the practice (anapana, body scan) without translating it",
+            "Publish the schedule and the teacher",
+            "Keep the website to one page"
+          ],
+          "donts": [
+            "Use the word 'journey'",
+            "Sell a course called 'Mindful Leader'",
+            "Photograph people sitting on a beach"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 SATI CO. set in a low-contrast grotesk, wide kerned. A single dot above the I as the only mark. The dot alone works as the favicon and the door plaque.",
+        "colorPalette": [
+          {
+            "name": "Hall White",
+            "hex": "#F6F3EC",
+            "meaning": "The colour of an empty meditation hall in morning light.",
+            "usage": "Backgrounds, walls, paper."
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "The wordmark. The schedule.",
+            "usage": "Type, signage."
+          },
+          {
+            "name": "Cushion Ochre",
+            "hex": "#B8884A",
+            "meaning": "The zafu \u2014 single warm accent.",
+            "usage": "Hover, the door dot, ribbon."
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and schedule",
+          "secondary": "S\u00f6hne Mono for the timetable",
+          "rationale": "One family. The grotesk holds the studio register; the mono handles the printed schedule on the door."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Barre Sit",
+        "tagline": "A small meditation hall in the Insight tradition.",
+        "brandNameRationale": "Barre, Massachusetts is the home of the Insight Meditation Society (founded 1976 by Joseph Goldstein, Sharon Salzberg, Jack Kornfield) \u2014 the address that established serious Vipassana practice in the West. Strongest of Agent A's place row: Igatpuri is the Goenka HQ and risks reading as a knock-off, Rangoon is geopolitically charged. Barre is the quiet American address that the actual practitioners know.",
+        "industrySummary": "Luxury meditation is not spa-luxury \u2014 it is the small private hall with a senior teacher and a six-month waiting list. The opening is a members' sitting room positioned on lineage and silence rather than amenities. Patrons are 45+, often have a teacher already, and want a room in the city that respects that.",
+        "competitorLandscape": "Insight Meditation Society (dharma.org) is the spiritual peer in Barre. Spirit Rock (spiritrock.org) holds the West Coast equivalent. Tergar (tergar.org) is the modern Tibetan-leaning peer. We sit as the urban members' hall for practitioners who already sit at IMS.",
+        "positioningStatement": "A members' sitting hall in the Insight tradition, in the city.",
+        "targetAudience": {
+          "primary": "45 to 70. Sits daily. Has done at least one IMS or Spirit Rock retreat. Wants a room with a senior teacher within walking distance of the office. Pays the annual fee without comment.",
+          "behaviors": [
+            "Sits before work, every day",
+            "Refers other members by quiet introduction",
+            "Holds the same cushion in the cupboard for years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Senior",
+          "Patient",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Refer to teachers by full name and lineage",
+            "Confirm sits by paper card",
+            "Keep the door locked outside of sittings"
+          ],
+          "donts": [
+            "Run any social media",
+            "Publish member names",
+            "Photograph the hall"
+          ]
+        },
+        "logoDirection": "A serif wordmark. BARRE SIT in a quiet text serif, with a small brass disc beneath \u2014 the disc embossed on the member card and the door plate. No icon used digitally; the disc is a physical mark only.",
+        "colorPalette": [
+          {
+            "name": "Hall Cream",
+            "hex": "#EDE7D6",
+            "meaning": "Beeswax candle, paper, the hall wall.",
+            "usage": "Stationery, paper, walls."
+          },
+          {
+            "name": "Robe Brown",
+            "hex": "#3C2E22",
+            "meaning": "The Theravada robe.",
+            "usage": "Wordmark, signage."
+          },
+          {
+            "name": "Brass Disc",
+            "hex": "#A6843D",
+            "meaning": "The member's mark.",
+            "usage": "Foil, plate, hardware."
+          }
+        ],
+        "typography": {
+          "primary": "Lyon Text for the wordmark and printed material",
+          "secondary": "S\u00f6hne for the one-page schedule",
+          "rationale": "A classical text serif carries the lineage register; the grotesk handles the single digital surface."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Ten Day Quiet",
+        "tagline": "A meditation studio. Forty-five minutes at a time.",
+        "brandNameRationale": "The ten-day silent Vipassana course (as taught in the Goenka tradition since 1969) is the canonical entry to serious practice. Strongest of Agent A's evocative row: Noble Silence is the vow but reads severe, The Witnessing Seat is too descriptive. Ten Day Quiet borrows the retreat's gravity for a studio that runs short sits \u2014 the name carries weight without claiming to deliver the retreat itself.",
+        "industrySummary": "Minimal meditation is a room, a teacher, a bell, a clock. The opening is for a studio that publishes only the schedule and the teacher's name. Patrons want what they paid for \u2014 a quiet sit \u2014 and nothing else.",
+        "competitorLandscape": "Insight Timer (insighttimer.com) holds the minimal-app tier. Othership (othership.us) does in-person well but with sauna theatre. MNDFL (mndflmeditation.com) is the closest minimal in-person peer. We publish less than any of them.",
+        "positioningStatement": "A meditation studio. Schedule, teacher, room. That's the website.",
+        "targetAudience": {
+          "primary": "30 to 55. Sits already. Doesn't want a guided audio. Walks in, sits, walks out. Pays the monthly fee and reads no marketing email.",
+          "behaviors": [
+            "Books a recurring weekday sit",
+            "Brings their own cushion",
+            "Never opens the newsletter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Quiet",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show only schedule and teacher on the homepage",
+            "Ring a bell at the start and end",
+            "Refund silently if the sit cancels"
+          ],
+          "donts": [
+            "Send a weekly newsletter",
+            "Sell merchandise",
+            "Play music in the hall"
+          ]
+        },
+        "logoDirection": "A wordmark only. TEN DAY QUIET in a single grotesk weight, three lines stacked. No icon. The wordmark works on the door, the bench, and the schedule card. That is the entire system.",
+        "colorPalette": [
+          {
+            "name": "Quiet White",
+            "hex": "#FAF8F2",
+            "meaning": "The hall in daylight.",
+            "usage": "Backgrounds, paper, walls."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and the schedule.",
+            "usage": "Wordmark, body, all type."
+          },
+          {
+            "name": "Stone",
+            "hex": "#C7BFB1",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, the bench."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The door, the card, and the site all carry the same wordmark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Sayadaw Group",
+        "tagline": "Workplace meditation programs in the Burmese Vipassana tradition.",
+        "brandNameRationale": "Sayadaw is the Burmese honorific for a senior monk-teacher (Mahasi Sayadaw, U Ba Khin, Pa Auk Sayadaw) \u2014 the lineage that gave Western Vipassana its method. Strongest of Agent A's heritage row for corporate: Goenka & Hall risks the Goenka organisation TM, Mahasi Method Studio reads single-studio. Sayadaw Group lands as a serious B2B partnership rooted in actual lineage rather than the secularised mindfulness vocabulary procurement is tired of.",
+        "industrySummary": "Corporate meditation in 2025+ has burned through the first wave \u2014 Headspace for Work, Calm Business, Modern Health. HR buyers want something quieter, in-person, and lineage-grounded rather than another app seat. The opening is a partnership-model group that places senior teachers inside large employers.",
+        "competitorLandscape": "Headspace for Work (headspace.com/work) holds the app-B2B tier. Calm Business (business.calm.com) competes on subscription seats. Modern Health (joinmodernhealth.com) sits in the middle. We sit smaller, in-person, lineage-grounded.",
+        "positioningStatement": "Workplace meditation programs run by senior teachers, in the Burmese Vipassana tradition.",
+        "targetAudience": {
+          "primary": "HR directors and chief people officers at law firms, banks, and large tech employers. They've cancelled the Calm Business contract. They want a room in the office and a real teacher, on contract.",
+          "behaviors": [
+            "Reviews teacher CVs as part of procurement",
+            "Signs annual on-site contracts",
+            "Tracks attendance not 'streaks'"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Serious",
+          "Reliable",
+          "Senior",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name each teacher with full lineage",
+            "Report attendance not engagement",
+            "Publish quarterly teacher letters"
+          ],
+          "donts": [
+            "Use the word 'wellness'",
+            "Bundle with EAP vendors",
+            "Report on app opens"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a single stacked square (the cushion seen from above) \u2014 to the left. Reads cleanly on uniforms, signage, and procurement decks.",
+        "colorPalette": [
+          {
+            "name": "Sayadaw Brown",
+            "hex": "#3A2A1E",
+            "meaning": "Robe brown, the lineage colour.",
+            "usage": "Logo, primary surfaces."
+          },
+          {
+            "name": "Hall Cream",
+            "hex": "#F2EBDA",
+            "meaning": "Paper and walls.",
+            "usage": "Backgrounds, decks."
+          },
+          {
+            "name": "Stone",
+            "hex": "#5C5247",
+            "meaning": "Body, dividers.",
+            "usage": "Body text, dividers."
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Highlights, hover."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed quarterly letters",
+          "rationale": "Inter scales cleanly across procurement decks; the serif handles the printed teacher letters."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Zafu Room",
+        "tagline": "A meditation studio built around the cushion.",
+        "brandNameRationale": "The zafu is the round buckwheat-filled cushion that has been the seat of Zen meditation for centuries. Strongest of Agent A's craft row for creative: Cushion & Mat is fine but generic, Kapok Sit is too obscure for the audience. The Zafu Room reads as a designed studio that takes the object \u2014 the cushion \u2014 as its whole identity, like a printer's-shop or a tea room.",
+        "industrySummary": "Creative meditation studios sit in the same register as a good independent tea room or stationery shop. Patrons are design-literate, often work in adjacent creative fields, and want a room that feels considered down to the cushion. The opening is a studio with a print-shop, illustrated, slightly bookish identity that doesn't drift into wellness-clip-art.",
+        "competitorLandscape": "MNDFL (mndflmeditation.com) is the closest design-led peer. The Den Meditation (thedenmeditation.com) competes on aesthetics. Inscape (inscape.life) shaped the design template before closing. We sit warmer, more craft-led, and lineage-grounded.",
+        "positioningStatement": "A meditation studio organised around the cushion.",
+        "targetAudience": {
+          "primary": "28 to 42. Designers, editors, architects. Buys good pencils and good notebooks. Will pay extra for a cushion that's been considered. Photographs the room \u2014 once \u2014 and never again.",
+          "behaviors": [
+            "Asks which zafu fill the studio uses",
+            "Buys the studio's cushion for home",
+            "Tells exactly one friend"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Warm",
+          "Curious",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Commission a yearly illustrated cushion chart",
+            "Print the schedule on heavy paper",
+            "Name each room after a fill (kapok, buckwheat, kombu)"
+          ],
+          "donts": [
+            "Sell a 'meditation kit'",
+            "Run themed seasonal posts",
+            "Use stock photos of women on cliffs"
+          ]
+        },
+        "logoDirection": "A wordmark in a chunky display serif with letterpress-impression. The O of ZAFU is set as a small woodblock-style cushion seen from above. A standalone cushion mark for stickers and the bag tag.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#1A1A1A",
+            "meaning": "Letterpress ink.",
+            "usage": "Wordmark, body, illustrations."
+          },
+          {
+            "name": "Buckwheat",
+            "hex": "#C2A878",
+            "meaning": "The cushion fill.",
+            "usage": "Secondary surfaces, paper."
+          },
+          {
+            "name": "Block Indigo",
+            "hex": "#2C3E66",
+            "meaning": "Single accent \u2014 the printer's stamp.",
+            "usage": "Stickers, headlines, the cushion piping."
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Heavy paper.",
+            "usage": "Backgrounds, cards, walls."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and illustrated charts",
+          "secondary": "GT Sectra Book for the schedule and post-sit notes",
+          "rationale": "One family, two cuts. The display reads woodblock; the book weight handles the printed schedule."
+        }
+      }
+    ]
+  }
+}

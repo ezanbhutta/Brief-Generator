@@ -1,0 +1,350 @@
+{
+  "industry": "jazz-club",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Vanguard Room",
+        "tagline": "A listening room in the Village Vanguard line.",
+        "brandNameRationale": "The Village Vanguard (NYC, opened 1935 by Max Gordon at 178 Seventh Avenue South) is the documented longest-running jazz club in the world and the site of Coltrane's 1961 and Bill Evans' 1961 live recordings. 'Room' is the modern listening-bar suffix (Public Records, Spiritland). The pairing reads as a modern listening room with a documented lineage anchor; Vanguard alone is generic enough to avoid TM conflict with the Village Vanguard mark.",
+        "industrySummary": "Modern jazz clubs have split between the listening-bar trend (Public Records NYC, Spiritland London) and the heritage clubs (Vanguard itself, Smalls). The opening is for a modern listening room sited on the Vanguard lineage — hi-fi forward, programmed for serious listeners.",
+        "competitorLandscape": "Public Records (publicrecords.nyc) holds the modern listening-bar peer slot. Spiritland (spiritland.com) plays the London listening-bar reference. Smalls Jazz Club (smallslive.com) is the heritage-modern middle. We sit closer to Public Records with a Vanguard lineage.",
+        "positioningStatement": "A modern listening room in the Vanguard line.",
+        "targetAudience": {
+          "primary": "28 to 50. Reads the personnel before the set. Owns a turntable. Sits at the front for the first set.",
+          "behaviors": [
+            "Buys advance tickets",
+            "Reads the leader's discography",
+            "Sits for the full set"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the personnel and the instrument",
+            "Photograph the bandstand, not the bar",
+            "Publish the set list after the show"
+          ],
+          "donts": [
+            "Use the word vibes",
+            "Photograph the cocktail in the foreground",
+            "Run a happy-hour promotion"
+          ]
+        },
+        "logoDirection": "A wordmark — Vanguard Room in a precise modern grotesque, with a small ride-cymbal glyph above that reads as the bandstand's spotlight.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#0F0F12",
+            "meaning": "Cabaret darkness.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#C9A046",
+            "meaning": "Horn glow.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EDDF",
+            "meaning": "The page.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for set times and personnel",
+          "rationale": "The mono carries the personnel. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Ronnie's Mayfair",
+        "tagline": "A London supper club in the Ronnie Scott's line.",
+        "brandNameRationale": "Ronnie Scott (1927–1996) opened Ronnie Scott's Jazz Club on Frith Street in Soho London in 1959 — the documented anchor of British jazz programming for sixty-five years. Scott died in 1996; the club retains the full 'Ronnie Scott's' mark, but 'Ronnie's' as a first-name diminutive paired with a Mayfair location reads as a respectful sibling rather than a TM collision. Mayfair places the brand in the documented London supper-club register (Annabel's, Mark's Club).",
+        "industrySummary": "Luxury jazz supper clubs are rare — Ronnie's Soho is the historic anchor; private clubs like Annabel's host jazz but aren't jazz-led. The opening is for a Mayfair supper club explicitly programmed around jazz at the highest level.",
+        "competitorLandscape": "Annabel's (annabelsmayfair.com) holds the Mayfair supper-club peer slot. Mark's Club (marksclub.co.uk) plays the discreet members' peer. Ronnie Scott's (ronniescotts.co.uk) is the heritage jazz-club reference. We belong with Annabel's, with a jazz programming focus.",
+        "positioningStatement": "A Mayfair supper club programmed for jazz at the highest level.",
+        "targetAudience": {
+          "primary": "45 to 70. Holds the membership. Reserves a table for the season. Brings the guest of honour.",
+          "behaviors": [
+            "Holds a membership",
+            "Reserves the same table weekly",
+            "Hosts the after-party"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Discreet",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address members by surname",
+            "Confirm reservations by hand-written card",
+            "Print the season's programme on cotton paper"
+          ],
+          "donts": [
+            "Publish the door fee openly",
+            "Photograph the celebrity guest",
+            "Run a public ticket sale"
+          ]
+        },
+        "logoDirection": "A serif wordmark — Ronnie's Mayfair in a classical book serif with a small embossed saxophone mark on the season's programme.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Cotton card.",
+            "usage": "All correspondence"
+          },
+          {
+            "name": "Stage Black",
+            "hex": "#0F0F12",
+            "meaning": "Type and primary.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and printed programme",
+          "secondary": "An engraver's italic for the maître d's signature",
+          "rationale": "Letterpress register throughout."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Vanguard",
+        "tagline": "One room. One band a night.",
+        "brandNameRationale": "Vanguard is the documented trade word for the front line — military, musical, cultural. As a single-word brand it names the position of the music without naming any club. The Village Vanguard holds a full-form mark, but 'Vanguard' alone is generic across industries (Vanguard Group in finance, Vanguard records). For a small listening room the word names the stance and stops.",
+        "industrySummary": "Most jazz clubs accumulate menus — late shows, brunch sets, special events, season tickets, merchandise. There's an opening for a room that books one band a night.",
+        "competitorLandscape": "Most clubs fail this purity test. The closest peers in spirit are some single-band European listening rooms and certain old-school New York lofts.",
+        "positioningStatement": "One band. One night. One price.",
+        "targetAudience": {
+          "primary": "Listeners who already know the band and want the time, the address, and the door price.",
+          "behaviors": [
+            "Buys advance tickets",
+            "Sits for the full set",
+            "Comes for the band, not the room"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the band, the time, the price",
+            "Confirm in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Sell merchandise",
+            "Sell add-ons",
+            "Run a happy-hour campaign"
+          ]
+        },
+        "logoDirection": "Vanguard set in a single-weight grotesque, lowercase. The mark appears on the door, the ticket, and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#0F0F12",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Space.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#C9A046",
+            "meaning": "Single accent.",
+            "usage": "Door colour"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The door, the ticket, the booking page share the same mark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Vanguard Venues Inc.",
+        "tagline": "Live music venue operations at scale.",
+        "brandNameRationale": "Vanguard, paired with the corporate venue-operator suffix, signals serious music-venue operations. The Village Vanguard holds the specific jazz-club mark; 'Vanguard Venues Inc.' as a multi-venue operator brand sits in the corporate hospitality register (Live Nation, AEG Presents) and is sufficiently differentiated. The name signals heritage without claiming the specific Vanguard room.",
+        "industrySummary": "Live music venue operations — multi-venue management for promoters, hotel groups, and cultural institutions — is a B2B category dominated by mid-tier operators (Bowery Presents, Mass Concerts). The opening is a jazz-and-listening-room specialist operator at scale.",
+        "competitorLandscape": "Bowery Presents (boweryny.com) holds the institutional venue-operator peer slot. AEG Presents (aegpresents.com) plays the global venue-operator reference. Live Nation (livenationentertainment.com) is the broad-market middle. We sit closer to Bowery Presents with a jazz-and-listening specialism.",
+        "positioningStatement": "Multi-venue jazz and listening-room operations for promoters and cultural institutions.",
+        "targetAudience": {
+          "primary": "Promoter development directors, hotel-group F&B leads, and cultural-institution programming directors sourcing venue operations at scale.",
+          "motivations": [
+            "Multi-venue operating capability",
+            "Code-compliant sound and lighting",
+            "A serious operator with venue-grade reliability"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Operational"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with venue counts and capacity data",
+            "Show case studies with named promoter partners",
+            "Publish operating metrics"
+          ],
+          "donts": [
+            "Use consumer marketing language",
+            "Photograph the stage at peak set",
+            "Run consumer promotions"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Operator capability",
+            "description": "Multi-venue operations with full FOH, sound, lighting, and bar at venue standard."
+          },
+          {
+            "name": "Code-compliant",
+            "description": "All venues fully licensed, code-compliant, and inspection-ready."
+          },
+          {
+            "name": "Partner support",
+            "description": "Dedicated programs for promoters and cultural institutions."
+          }
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left — a single bandstand spotlight silhouette. Reads cleanly on a spec deck.",
+        "colorPalette": [
+          {
+            "name": "Operator Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and structured.",
+            "usage": "Backgrounds, catalogs"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5A6776",
+            "meaning": "Operator neutral.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Brass",
+            "hex": "#C9A046",
+            "meaning": "Stage accent.",
+            "usage": "Callouts"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed contracts and venue manuals",
+          "rationale": "Inter scales clean across digital. The serif handles printed contracts."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Velvet Reed",
+        "tagline": "A jazz room for the second set.",
+        "brandNameRationale": "The reed is the documented vibrating component of the saxophone and clarinet — the literal source of the jazz tone. Velvet evokes the cabaret tradition of upholstered jazz rooms (the Cotton Club's velvet curtains, Birdland's velvet booths). The pairing reads as a warm, character-driven jazz room with documented anchors in both the instrument vocabulary and the venue tradition.",
+        "manifesto": "Most jazz rooms sell the headliner. We sell the second set. The slower one at midnight. The ballad the trio plays when most of the room has left. The brand is for the long listener, the after-hours seat, the third drink.",
+        "industrySummary": "Jazz-club branding has been polished, neon-noir, and a little cold. There's room for one that's warm, narrative, character-driven, and serious about the second-set tradition.",
+        "competitorLandscape": "Smalls Jazz Club (smallslive.com) does the after-hours peer middle. Public Records (publicrecords.nyc) holds the modern listening peer slot. Mezzrow (mezzrow.com) sits in the intimate-room peer position. We sit warmer and more second-set focused than any of them.",
+        "positioningStatement": "A jazz room for the second set.",
+        "targetAudience": {
+          "primary": "30 to 60. Comes for the late set. Stays past closing. Reads the leader's discography.",
+          "behaviors": [
+            "Comes for the second set",
+            "Stays past closing",
+            "Buys the trio's record at the door"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Narrative",
+          "Playful",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the bandstand at the second set",
+            "Tell the story of the ballad, not the headliner",
+            "Send a set list home"
+          ],
+          "donts": [
+            "Use the word vibes",
+            "Photograph the bar at peak",
+            "Run a happy-hour campaign"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with a small reed silhouette replacing the article. The reed stands alone on the door card and the sticker.",
+        "colorPalette": [
+          {
+            "name": "Velvet",
+            "hex": "#4A1F2B",
+            "meaning": "Curtain colour.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Brass",
+            "hex": "#C9A046",
+            "meaning": "Horn glow.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Cream",
+            "hex": "#FBF6E9",
+            "meaning": "The page at the booth.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Stage Black",
+            "hex": "#0F0F12",
+            "meaning": "Cabaret darkness.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and set lists",
+          "rationale": "Migra has personality. Neue Montreal handles the set list."
+        }
+      }
+    ]
+  }
+}

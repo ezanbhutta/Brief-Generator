@@ -1,0 +1,326 @@
+{
+  "industry": "sleep-clinic",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Chronotype Clinic",
+        "tagline": "Sleep medicine, organised around your chronotype.",
+        "brandNameRationale": "Chronotype \u2014 the term sleep medicine uses for an individual's circadian preference (lark, owl, in-between) \u2014 is owned by no one and useful to everyone. Strongest of Agent A's modern row: Hypnos Health was flagged by Agent A for the Hypnos Beds collision, Circadia was flagged for skincare collisions. Chronotype is the modern-clinic word that the actual evidence base uses.",
+        "industrySummary": "Modern sleep clinics in 2025+ compete with at-home wearable diagnostics (Oura, Eight Sleep) and big-box sleep labs. Patients are 30-55, often have tried melatonin and a sleep app, and want a clinical workup without the hospital-overnight feel. The opening is a clinic that owns the chronotype framework and runs in-home polysomnography.",
+        "competitorLandscape": "Stanford Sleep Center (stanfordhealthcare.org) holds the academic tier. Tuck (tuck.com) is the consumer information peer. Eight Sleep (eightsleep.com) competes from the device side. We sit smaller, clinician-led, and chronotype-organised.",
+        "positioningStatement": "A sleep clinic organised around chronotype, with in-home polysomnography.",
+        "targetAudience": {
+          "primary": "32 to 55. Has worn an Oura ring for a year and has more questions than answers. Wants a sleep physician, a real study, and a written plan. Pays out of pocket if insurance is slow.",
+          "behaviors": [
+            "Books a sleep study",
+            "Reads the physician's CV before booking",
+            "Brings their wearable data to the consult"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Clinical",
+          "Considered",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the sleep physician and their boards",
+            "Cite chronotype in patient education",
+            "Quote workup in weeks, not 'journey'"
+          ],
+          "donts": [
+            "Sell mattresses",
+            "Push CBD or melatonin",
+            "Promise a 'sleep score'"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 CHRONOTYPE CLINIC set in a precise modern serif, with a small horizontal sine-wave glyph above the O suggesting the circadian curve. The sine wave alone works as the favicon and on the appointment card.",
+        "colorPalette": [
+          {
+            "name": "Clinic White",
+            "hex": "#FAFAF7",
+            "meaning": "Calm, clinical.",
+            "usage": "Backgrounds, packaging, paper."
+          },
+          {
+            "name": "Circadian Navy",
+            "hex": "#1E2A3A",
+            "meaning": "Night sky \u2014 the clinical anchor.",
+            "usage": "Wordmark, headers, body type."
+          },
+          {
+            "name": "Dawn Amber",
+            "hex": "#B8884A",
+            "meaning": "First light \u2014 the single accent.",
+            "usage": "Hover, the sine wave, foil."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and patient letters",
+          "secondary": "S\u00f6hne for the booking flow and body",
+          "rationale": "Sectra carries the clinical-heritage weight; S\u00f6hne keeps the booking flow modern."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Kleitman Practice",
+        "tagline": "A private sleep practice in the Kleitman tradition.",
+        "brandNameRationale": "Nathaniel Kleitman (1895-1999) co-discovered REM sleep in 1953 at the University of Chicago \u2014 the founding fact of sleep medicine \u2014 and lived to 104. Strongest of Agent A's heritage row for luxury: Kleitman & Dement is fine but two-name partnership reads less elite, Dement Hall is correct but Dement died only in 2020 making the name feel more recent. The Kleitman Practice inherits 70 years of unimpeachable lineage and lands as a discreet private clinic.",
+        "industrySummary": "Luxury sleep medicine serves the patient who treats their sleep physician like a private banker \u2014 the same clinician for every visit, no waiting room, a full overnight at home with their own staff. The opening is a practice that revives the consulting-physician posture for sleep.",
+        "competitorLandscape": "Lanserhof (lanserhof.com) holds the European medical-spa tier with a sleep arm. The Cleveland Clinic Sleep Center (my.clevelandclinic.org) is the academic peer. SleepScore Labs (sleepscore.com) sits on the device side. We sit as the urban private consulting practice.",
+        "positioningStatement": "A discreet private sleep practice in the consulting-physician tradition.",
+        "targetAudience": {
+          "primary": "45 to 70. Has a private GP and a private dentist and wants a sleep physician in the same register. Travels often across time zones. Pays the invoice the same day.",
+          "behaviors": [
+            "Books by phone, never by app",
+            "Refers friends by quiet introduction",
+            "Expects the same physician for every visit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Refined",
+          "Patient",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address patients by surname",
+            "Send paper sleep reports",
+            "Confirm appointments by call"
+          ],
+          "donts": [
+            "Run social media",
+            "Publish prices",
+            "Display before/after sleep scores"
+          ]
+        },
+        "logoDirection": "A serif wordmark with elegant ligatures. A small embossed door-plate mark \u2014 a brass crescent \u2014 sits beneath the wordmark, used on the practice card, the sleep report, and the surgery door.",
+        "colorPalette": [
+          {
+            "name": "Consulting Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Letter paper, the consulting-room wall.",
+            "usage": "Stationery, paper, packaging."
+          },
+          {
+            "name": "Practice Navy",
+            "hex": "#1F2E3A",
+            "meaning": "The quiet of a private surgery at night.",
+            "usage": "Wordmark, primary signage."
+          },
+          {
+            "name": "Brass Crescent",
+            "hex": "#A6843D",
+            "meaning": "The door plate.",
+            "usage": "Foil, plate mark, hardware."
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "S\u00f6hne for the booking confirmation",
+          "rationale": "A high-contrast classical serif carries the consulting register; the grotesk handles the one digital surface."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Long Night",
+        "tagline": "A sleep clinic for the people who can't.",
+        "brandNameRationale": "Long Night names the insomniac's experience without dramatising it \u2014 and 'long' is also a clinical descriptor of sleep latency. Strongest of Agent A's evocative row for minimal: The REM Hour is warm but technical, Sleep Debt House risks reading scolding. Long Night is two plain words that the patient already says to themselves at 3am.",
+        "industrySummary": "Minimal sleep clinics serve patients who want one thing \u2014 to sleep \u2014 without the hospital workup or the consumer-tech bundle. The opening is a clinic that publishes its prices, its physician, and the wait time, and stops there.",
+        "competitorLandscape": "Tuck (tuck.com) holds the minimal information peer. Big Health (bighealth.com) is the CBT-i app peer. Local independent sleep physicians compete on relationship. We publish less than any of them.",
+        "positioningStatement": "A sleep clinic. Published prices. One physician. CBT-i and a study.",
+        "targetAudience": {
+          "primary": "Adults 30-55 who've had insomnia for more than three months. They've tried melatonin, an app, and the GP. They want a sleep physician, a written plan, and the appointment to start on time.",
+          "behaviors": [
+            "Books an initial and a follow-up",
+            "Reads the price list before booking",
+            "Refuses any 'package'"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the price list on the home page",
+            "Confirm appointments in one sentence",
+            "Start on time"
+          ],
+          "donts": [
+            "Upsell supplements",
+            "Run loyalty programs",
+            "Send marketing emails"
+          ]
+        },
+        "logoDirection": "A wordmark only. LONG NIGHT in a single-weight grotesk, wide kerned, all caps. No icon. The wordmark works on the door, the report cover, and the appointment card.",
+        "colorPalette": [
+          {
+            "name": "Night White",
+            "hex": "#F6F4ED",
+            "meaning": "Sheet, page, ceiling at 4am.",
+            "usage": "Backgrounds, walls, paper."
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type."
+          },
+          {
+            "name": "Slate",
+            "hex": "#3F4B5A",
+            "meaning": "Pre-dawn \u2014 secondary anchor.",
+            "usage": "Dividers, secondary surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The sign, the card, and the site all carry the same wordmark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Dement Sleep Partners",
+        "tagline": "A multi-site sleep medicine partnership in the Stanford tradition.",
+        "brandNameRationale": "William C. Dement (1928-2020), the founder of the Stanford Sleep Research Center in 1970 and the man who effectively created the field of clinical sleep medicine. Strongest of Agent A's heritage row for corporate: Kleitman & Dement was used for the luxury slot, Stanford Lane Sleep risks the Stanford TM. Dement alone is safe (he died 2020, public-figure name), carries the institutional weight, and lands as a serious DSO-style sleep group.",
+        "industrySummary": "Corporate sleep medicine in 2025+ is consolidating around at-home diagnostics and CPAP-adherence programs. The next tier competes on physician retention and outcomes. The opening is a partnership-model group positioned on Stanford-lineage seriousness rather than franchise mechanics.",
+        "competitorLandscape": "Sleep Number (sleepnumber.com) is the consumer adjacency. ResMed (resmed.com) holds the device-and-services peer. Stanford Sleep (stanfordhealthcare.org) is the academic peer. We sit clinician-led, multi-site, and Stanford-traditioned.",
+        "positioningStatement": "A clinician-led sleep medicine partnership in the Stanford tradition.",
+        "targetAudience": {
+          "primary": "Procurement officers at insurers, HR directors at large employers, and sleep physicians considering joining a group. They sign multi-year contracts and care about physician retention, CPAP adherence rates, and OSA-claim reduction.",
+          "behaviors": [
+            "Reviews clinical KPIs and adherence data",
+            "Negotiates multi-year terms",
+            "Values physician retention as a buying signal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Clinical",
+          "Professional",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with physician retention and adherence",
+            "Speak the language of insurance and procurement",
+            "Publish quarterly clinical-outcome letters"
+          ],
+          "donts": [
+            "Use consumer sleep-tech language",
+            "Run social media campaigns",
+            "Promote individual practices nationally"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a single horizontal sine wave (the hypnogram) \u2014 to the left. Reads cleanly on uniforms, signage, and procurement decks.",
+        "colorPalette": [
+          {
+            "name": "Dement Navy",
+            "hex": "#102236",
+            "meaning": "Clinical authority.",
+            "usage": "Logo, primary surfaces, uniforms."
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper."
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body text, dividers."
+          },
+          {
+            "name": "Brass",
+            "hex": "#B08D52",
+            "meaning": "Quiet accent.",
+            "usage": "Highlights, hover."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed clinical letters",
+          "rationale": "Inter scales cleanly across procurement decks; the serif handles the printed clinical letters."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Spindle & Stage",
+        "tagline": "A sleep clinic organised around the architecture of the night.",
+        "brandNameRationale": "Sleep spindles are the bursts of brain activity that mark Stage 2 sleep, and 'stages' are how sleep medicine maps the night (N1, N2, N3, REM). Strongest of Agent A's craft row for creative: The Polysomnogram Clinic is honest but reads hospital-PR, EEG & Pillow is fine but the EEG image is overused. Spindle & Stage names the actual architecture and reads like a craft studio rather than a sleep lab.",
+        "industrySummary": "Creative sleep clinics sit in the register of a designed bedroom shop or a craft science museum. Patients are design-literate, often in adjacent fields, and want a clinic that takes the architecture of sleep seriously and presents it beautifully. The opening is a brand with print-shop, illustrated, hypnogram-rich identity.",
+        "competitorLandscape": "Casper (casper.com) holds the design-led adjacency. Eight Sleep (eightsleep.com) competes on device aesthetics. SleepScore Labs (sleepscore.com) sits on the data-pretty side. We sit as the clinic with print and illustration, not the brand with a clinic on the side.",
+        "positioningStatement": "A sleep clinic organised around the architecture of the night.",
+        "targetAudience": {
+          "primary": "30 to 48. Editors, designers, architects. Has read Walker's Why We Sleep and finished it. Will pay for a clinic that presents the hypnogram as a craft object.",
+          "behaviors": [
+            "Asks for the printed hypnogram",
+            "Buys the illustrated stage chart for the bedroom",
+            "Photographs the report \u2014 once \u2014 and never again"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Curious",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Commission a yearly illustrated hypnogram chart",
+            "Print the report on heavy paper",
+            "Name each consult room after a sleep stage"
+          ],
+          "donts": [
+            "Sell a 'sleep kit'",
+            "Run themed seasonal posts",
+            "Use stock photos of people in bed"
+          ]
+        },
+        "logoDirection": "A wordmark in a chunky display serif with letterpress impression. The ampersand is set as a small woodblock-style sleep-spindle waveform. A standalone spindle mark for stickers and the report cover.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#1A1A1A",
+            "meaning": "Letterpress ink.",
+            "usage": "Wordmark, body, illustrations."
+          },
+          {
+            "name": "Night Indigo",
+            "hex": "#2C3E66",
+            "meaning": "The colour of the hypnogram at REM.",
+            "usage": "Secondary surfaces, paper."
+          },
+          {
+            "name": "Spindle Amber",
+            "hex": "#B8884A",
+            "meaning": "Single accent \u2014 the spindle burst.",
+            "usage": "Stickers, headlines, the spindle."
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Heavy paper.",
+            "usage": "Backgrounds, cards, walls."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and illustrated charts",
+          "secondary": "GT Sectra Book for the printed reports",
+          "rationale": "One family, two cuts. The display reads woodblock; the book weight handles the printed reports."
+        }
+      }
+    ]
+  }
+}
