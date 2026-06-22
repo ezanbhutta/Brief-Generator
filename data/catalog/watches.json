@@ -1,0 +1,315 @@
+{
+  "industry": "watches",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Le Locle Watches",
+        "tagline": "From the UNESCO town that makes watches.",
+        "brandNameRationale": "Picked over Glash\u00fctte Manufaktur (A flagged Glash\u00fctte Original trademark conflict, even with the Manufaktur variation it sits too close) and Co-Axial Timepieces (the co-axial escapement is associated specifically with Omega in commercial use). Le Locle is a UNESCO World Heritage town (with La Chaux-de-Fonds), recognized in 2009 specifically for watchmaking urban planning, and is in the public domain as a geographic indicator. Le Locle Watches is the safest and the most credible \u2014 an accessible Swiss heritage brand rooted in a real, named, UNESCO-recognized watchmaking town.",
+        "industrySummary": "Modern accessible Swiss watches in 2025+ sit between Tissot/Mido (Swatch Group entry-Swiss) and the Christopher Ward / Farer indie-Swiss tier. The opening is for a brand that owns a single specific Swiss heritage town \u2014 Le Locle \u2014 at an accessible price point.",
+        "competitorLandscape": "Christopher Ward (christopherward.com) holds the indie-Swiss-value slot. Farer (farer.com) plays the design-led indie peer. Tissot (tissot.ch) is the heritage-accessible benchmark (and is itself headquartered in Le Locle). We sit closest to Christopher Ward with a town-specific identity built around Le Locle.",
+        "positioningStatement": "Accessible Swiss watches from the UNESCO watchmaking town.",
+        "targetAudience": {
+          "primary": "30 to 50. First serious watch buyer or second-watch buyer. Reads Hodinkee. Knows the difference between Sellita and ETA movements.",
+          "behaviors": [
+            "Researches the movement before the case",
+            "Reads Hodinkee and Worn & Wound",
+            "Buys one watch every three years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Plain-spoken",
+          "Quietly confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the movement, the caliber, the maker",
+            "Cite Le Locle and its UNESCO status",
+            "Show the watch in real wrist photography"
+          ],
+          "donts": [
+            "Use 'luxury' as marketing",
+            "Photograph the watch on a velvet cushion",
+            "Discount the catalogue"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Le Locle in a precise neo-grotesk, two words on one line, with Watches in small caps below. A small geometric mark \u2014 the silhouette of Le Locle's grid plan (the UNESCO inscription cites the rectilinear urban layout designed around watchmaking) \u2014 sits as the hallmark.",
+        "colorPalette": [
+          {
+            "name": "Jura Navy",
+            "hex": "#1B2C44",
+            "meaning": "The blue of the Jura sky.",
+            "usage": "Wordmark, headers, hallmark"
+          },
+          {
+            "name": "Snow Cream",
+            "hex": "#F4F1E8",
+            "meaning": "The cream of a Jura winter.",
+            "usage": "Background, paper, packaging"
+          },
+          {
+            "name": "Brass Movement",
+            "hex": "#A88643",
+            "meaning": "The brass of a watch movement.",
+            "usage": "Accent, foil, mark detail"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for caliber and reference",
+          "rationale": "One family. The mono carries the caliber, the reference number, and the dimensions. The regular carries the brand and the town story."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Geneva Seal Horologie",
+        "tagline": "Certified by the strictest seal in watchmaking.",
+        "brandNameRationale": "Picked over Maison Breguet d'Horlogerie (A correctly flagged Breguet trademark) and Harrison Marine Chronometers. The Poin\u00e7on de Gen\u00e8ve (Geneva Seal, established 1886) is the strictest finishing certification in watchmaking, administered by the Canton of Geneva \u2014 a public certification mark, not a brand. A brand structured around certifying every piece to Geneva Seal standards is uniquely defensible. Harrison is great but marine-specific and narrower. Breguet was correctly flagged as Swatch Group property.",
+        "industrySummary": "Luxury haute horlogerie above $20,000 is dominated by Patek, AP, Vacheron, Lange. The Geneva Seal is the single most respected finishing certification \u2014 fewer than ten brands have ever achieved it. The opening is for a small brand that certifies every piece to Geneva Seal and competes purely on finishing quality.",
+        "competitorLandscape": "Roger Dubuis (rogerdubuis.com) certifies every movement to Geneva Seal \u2014 the closest direct peer. Vacheron Constantin (vacheron-constantin.com) holds the establishment-haute-horlogerie slot. Patek Philippe (patek.com) is the global benchmark. We sit closer to Roger Dubuis as a Geneva-Seal-only house.",
+        "positioningStatement": "Haute horlogerie certified to Geneva Seal on every piece.",
+        "targetAudience": {
+          "primary": "Established collectors and HNW buyers above $30,000 watches. Values finishing over complications. Reads Watchprosite and Quill & Pad.",
+          "behaviors": [
+            "Buys one watch every two to three years",
+            "Travels to Geneva for the watch",
+            "Books the watchmaker for service annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Authoritative",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the Geneva Seal twelve criteria by name",
+            "Quote production at fewer than 200 pieces a year",
+            "Show the movement before the case"
+          ],
+          "donts": [
+            "Sell limited editions monthly",
+            "Photograph the watch on a celebrity",
+            "Discount or run promotional pricing"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Geneva Seal in a thin neoclassical roman, with Horologie in small caps below. A wax-seal mark drawn from the Poin\u00e7on de Gen\u00e8ve motif (the Geneva escutcheon's eagle and key) sits as the hallmark on the certificate and the case.",
+        "colorPalette": [
+          {
+            "name": "L\u00e9man Blue",
+            "hex": "#1A2A40",
+            "meaning": "The blue of Lake Geneva.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Cotes Cream",
+            "hex": "#F5EFE0",
+            "meaning": "The cream of an haute horlogerie certificate.",
+            "usage": "Background, paper, packaging"
+          },
+          {
+            "name": "Seal Brass",
+            "hex": "#9C7A2D",
+            "meaning": "The brass of the Geneva Seal stamp.",
+            "usage": "Accent, wax seal, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Garamond Premier Pro for the wordmark and certificates",
+          "secondary": "S\u00f6hne for body and operational documents",
+          "rationale": "A neoclassical roman for the certificate and house voice; a composed grotesk for the operational documents and the client portal."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Escapement",
+        "tagline": "The heart of every mechanical watch.",
+        "brandNameRationale": "Picked over Tourbillon. and Timepiece Studio. Escapement is the most defensibly minimal \u2014 every mechanical watch has an escapement, and the word names the single mechanism that makes the watch tick. Tourbillon. is striking but tourbillons are a single (expensive) complication and the brand is too narrow. Timepiece Studio is generic. Escapement names the mechanism that defines the category and is one word.",
+        "industrySummary": "Minimalist mechanical watch brands have a real opening for the buyer who wants the movement to be the brand \u2014 the visible balance wheel, the open dial, the escapement on display. The opening is for a brand whose name is the mechanism.",
+        "competitorLandscape": "Nomos Glash\u00fctte (nomos-glashuette.com) sets the design-led minimalist Swiss benchmark. Ressence (ressence.eu) plays the mechanism-led design slot. Anordain (anordain.com) is the Glasgow craft-minimalist peer. We sit between Nomos and Ressence, mechanism-led, single-catalogue.",
+        "positioningStatement": "A minimalist mechanical watch brand named for its defining mechanism.",
+        "targetAudience": {
+          "primary": "32 to 55. Mechanical-watch collector or aspiring one. Reads Hodinkee in depth. Wants the movement visible through the case-back.",
+          "behaviors": [
+            "Reads the movement spec sheet before the price",
+            "Owns three or fewer watches at a time",
+            "Returns to the same brand for the next watch"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Technical",
+          "Direct",
+          "Quietly confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the movement",
+            "Name the caliber and the escapement type",
+            "Show the case-back as much as the dial"
+          ],
+          "donts": [
+            "Sell on dial color or strap material",
+            "Run limited editions for marketing",
+            "Hide the movement maker"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Escapement in a single thin grotesk weight, lower-case, no mark. The wordmark sits centered on the dial and on every surface.",
+        "colorPalette": [
+          {
+            "name": "Movement Steel",
+            "hex": "#C7CACE",
+            "meaning": "The steel of a polished escapement.",
+            "usage": "Background, paper, case"
+          },
+          {
+            "name": "Dial Black",
+            "hex": "#0F0F12",
+            "meaning": "The black of an open dial.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Ruby",
+            "hex": "#9A2C3A",
+            "meaning": "The red of a jewel bearing.",
+            "usage": "Accent, callout, foil"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and all type",
+          "secondary": "S\u00f6hne Mono for caliber and spec",
+          "rationale": "One family. One weight for the brand. The mono carries the caliber number and the jewel count."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Jura Horological Group",
+        "tagline": "A portfolio rooted in the Jura watchmaking arc.",
+        "brandNameRationale": "Picked over Chronometry Standards Institute and Vall\u00e9e de Joux Manufactures. The Jura arc (Vall\u00e9e de Joux, Le Locle, La Chaux-de-Fonds) is the historical watchmaking geography of Switzerland and is in the public domain as a regional identifier. Jura Horological Group is the cleanest holding-company framing. Chronometry Standards Institute is a fine B2B brand but reads more certification body than holding company. Vall\u00e9e de Joux Manufactures is more specific but overlaps with active makers (AP, JLC) located there. Jura is broader and safer.",
+        "industrySummary": "Holding-company watchmaking groups (Swatch, Richemont, LVMH) own the major maisons. The opening is for a mid-tier holding company that consolidates independent Swiss brands and movement workshops across the Jura arc \u2014 a smaller, regional portfolio.",
+        "competitorLandscape": "Swatch Group (swatchgroup.com) is the benchmark. Richemont (richemont.com) holds the luxury portfolio slot. Citizen Watch Co (citizenwatch-global.com) plays the Japanese horological group peer. We sit smaller, regional, Jura-arc-specific.",
+        "positioningStatement": "A regional Swiss watchmaking holding group anchored in the Jura arc.",
+        "targetAudience": {
+          "primary": "Independent Swiss watch brand owners considering acquisition or partnership. Retail distribution partners. Movement workshop owners.",
+          "behaviors": [
+            "Negotiates portfolio acquisitions",
+            "Manages shared movement supply",
+            "Coordinates retail distribution"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Operational",
+          "Regional",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Identify portfolio brands by name and Jura location",
+            "Publish portfolio metrics annually",
+            "Position as an alternative to the major groups"
+          ],
+          "donts": [
+            "Compete with portfolio brands at retail",
+            "Photograph the holding group with celebrities",
+            "Disclose private brand financials"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a single arc (the Jura arc viewed in profile) used on contracts, the portfolio portal, and the annual report.",
+        "colorPalette": [
+          {
+            "name": "Jura Navy",
+            "hex": "#1C2E48",
+            "meaning": "The blue of the Jura sky.",
+            "usage": "Wordmark, headers, mark"
+          },
+          {
+            "name": "Snow Grey",
+            "hex": "#E6E7EA",
+            "meaning": "The grey of a Jura winter.",
+            "usage": "Background, paper, portal"
+          },
+          {
+            "name": "Movement Brass",
+            "hex": "#A88440",
+            "meaning": "The brass of a movement plate.",
+            "usage": "Accent, callout, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and reports",
+          "secondary": "S\u00f6hne for body and portal",
+          "rationale": "A serif for the institutional weight; a grotesk for the portfolio portal and operational documents."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Daniels & Apprentice",
+        "tagline": "One master, one apprentice, twelve watches a year.",
+        "brandNameRationale": "Picked over The R\u00e9gulateur and Anchor & Balance. George Daniels (inventor of the co-axial escapement) and his apprentice Roger Smith represent the most famous master-apprentice lineage in independent English watchmaking \u2014 and the model (one master, one apprentice, hand-finishing) is uniquely defensible as a creative brand structure. The R\u00e9gulateur is a beautiful single-format brand but narrower. Anchor & Balance is good but reads as a generic mechanism-pair. Daniels & Apprentice is the most creative and the most lineage-rooted.",
+        "industrySummary": "Creative independent watchmaking has a real opening in the master-apprentice model \u2014 Roger Smith's annual output of fewer than ten watches commands six-figure waitlists. The opening is for a brand structured around the master-apprentice lineage and a tiny annual output.",
+        "competitorLandscape": "Roger W. Smith (rwsmithwatches.com) is the direct lineage holder and global benchmark for English independent watchmaking. Struthers (struthers.london) plays the London-craft peer. F.P. Journe (fpjourne.com) holds the global haute independent slot. We sit alongside Struthers, master-apprentice English tradition.",
+        "positioningStatement": "An independent watchmaker structured around the master-apprentice lineage.",
+        "targetAudience": {
+          "primary": "Established collectors of independent watchmaking. Buys one watch every five to ten years. Visits the workshop for the order.",
+          "behaviors": [
+            "Visits the workshop in person",
+            "Waits five years for the watch",
+            "Refers privately within the collectors' circle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Craft",
+          "Patient",
+          "Lineage-led",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the master and the apprentice on every dial",
+            "Publish the annual production count",
+            "Treat the watch as a multi-year commission"
+          ],
+          "donts": [
+            "Run limited editions for marketing",
+            "Photograph the workshop with celebrity owners",
+            "Quote a price without a consultation"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Daniels & Apprentice set in a warm slightly-condensed serif, two words on one line. A small line-drawing hallmark of two hands holding a balance wheel (the master and the apprentice) sits as the secondary mark on the certificate.",
+        "colorPalette": [
+          {
+            "name": "Workshop Black",
+            "hex": "#15151A",
+            "meaning": "The black of a workshop apron.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Bench Cream",
+            "hex": "#F2EBD7",
+            "meaning": "The cream of a workshop bench paper.",
+            "usage": "Background, paper, packaging"
+          },
+          {
+            "name": "Balance Brass",
+            "hex": "#9A7A35",
+            "meaning": "The brass of a balance wheel.",
+            "usage": "Accent, foil, hallmark fill"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and the annual letter",
+          "secondary": "S\u00f6hne for body and the order portal",
+          "rationale": "A serif for the workshop voice and the annual letter; a grotesk for the order portal and the operational documents."
+        }
+      }
+    ]
+  }
+}

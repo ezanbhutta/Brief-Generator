@@ -1,0 +1,315 @@
+{
+  "industry": "optometry",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Snellen & Co.",
+        "tagline": "Designed for the chart you already know.",
+        "brandNameRationale": "Picked over Donders Optical and 20/Twenty Vision. Snellen is the single most recognizable name in vision \u2014 every eye exam in 165 years has used the Snellen chart, and the customer can instantly place the reference. Donders is academically richer but obscure outside ophthalmology. 20/Twenty Vision is a generic phrase already used by many practices. Snellen & Co. owns a globally familiar surname.",
+        "industrySummary": "Modern DTC eyewear has split into the Warby Parker school (fashion-first, light on optometry) and clinical practices (slow online, no design). The opening is for a brand that brings clinical seriousness \u2014 named after the chart's inventor \u2014 to a DTC eyewear and online vision-test experience.",
+        "competitorLandscape": "Warby Parker (warbyparker.com) sets the DTC eyewear template. Zenni (zenni.com) holds the value-DTC slot. Felix Gray (shopfelixgray.com) plays the blue-light niche. We sit closest to Warby Parker with a clinical-heritage name and an in-house refraction protocol.",
+        "positioningStatement": "Eyewear and vision testing from the people who named the chart.",
+        "targetAudience": {
+          "primary": "28 to 45. Knows their prescription. Has bought from Warby Parker before but wants the clinical seriousness back. Will pay $200 for a frame if the eye exam is real.",
+          "behaviors": [
+            "Books an eye exam every two years",
+            "Reads frame reviews on r/glasses",
+            "Wants the optometrist's credentials shown"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Clinical",
+          "Modern",
+          "Considered",
+          "Plain-spoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the Snellen chart in patient education",
+            "Show the optometrist by name and training",
+            "Name the lens index and material"
+          ],
+          "donts": [
+            "Use cartoon eyes",
+            "Photograph frames floating",
+            "Sell aviators as 'doctor-approved'"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Snellen & Co. in a precise neo-grotesk, the S subtly drawn from the top E of the Snellen chart. A standalone E in the chart's exact serif works as the hallmark on the case and the favicon.",
+        "colorPalette": [
+          {
+            "name": "Chart White",
+            "hex": "#FAFAFA",
+            "meaning": "The white of a Snellen chart.",
+            "usage": "Background, packaging, exam-room"
+          },
+          {
+            "name": "Snellen Black",
+            "hex": "#0E0E10",
+            "meaning": "The black ink of the chart letters.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Lens Blue",
+            "hex": "#3D6FA3",
+            "meaning": "The blue tint of a clinical lens coating.",
+            "usage": "Accent, links, exam-card foil"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for prescription specs",
+          "rationale": "One family. The mono carries the prescription numbers. The regular carries the brand and the patient communication."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Lunetier Atelier",
+        "tagline": "The French word for a maker of spectacles.",
+        "brandNameRationale": "Picked over Helmholtz Maison and Crown & Flint. Lunetier is the historic French term for a master spectacle-maker, rooted in the Morez/Jura guild tradition since the 17th century \u2014 Morez is the French eyewear capital and the term Lunetier carries the right artisan weight. Helmholtz is a scientific anchor (great for the lab, less for an atelier). Crown & Flint is technical and beautiful but harder for a luxury customer to parse instantly. Lunetier Atelier inherits the entire French craft eyewear tradition in two words.",
+        "industrySummary": "Luxury bespoke eyewear is a small, conservative market (Maison Bonnet, E.B. Meyrowitz, Theo) where the customer wants hand-cut acetate, individual fittings, and a real atelier. The opening is for a French-rooted brand that revives the lunetier guild tradition with on-premise fitting and finishing.",
+        "competitorLandscape": "Maison Bonnet (maisonbonnet.com) is the global benchmark for bespoke spectacles (hand-cut tortoiseshell). E.B. Meyrowitz (ebmeyrowitz.co.uk) is the London peer. Theo (theo.be) holds the Belgian designer-luxury slot. We sit between Bonnet and Meyrowitz, with Morez/Jura provenance.",
+        "positioningStatement": "Bespoke spectacles in the French lunetier tradition.",
+        "targetAudience": {
+          "primary": "45 to 70. Owns three pairs from three different ateliers. Travels to Paris for the fitting. Pays for craftsmanship the way other people pay for a watch.",
+          "behaviors": [
+            "Books the fitting six months in advance",
+            "Brings the frame back for adjustment yearly",
+            "Refers privately by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Traditional",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cellulose acetate and the river of origin",
+            "Cite Morez and the lunetier guild",
+            "Quote the lead time honestly"
+          ],
+          "donts": [
+            "Use 'luxury eyewear' in marketing",
+            "Photograph the frames on a model",
+            "Sell ready-to-wear"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Lunetier in a thin neoclassical roman, with Atelier in small caps below. A wax-seal mark of a single hand-drawn frame profile, used as the hallmark on the case and the lens-cloth.",
+        "colorPalette": [
+          {
+            "name": "Acetate Black",
+            "hex": "#1A1A1C",
+            "meaning": "The black of polished cellulose acetate.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Atelier Cream",
+            "hex": "#F5EFE2",
+            "meaning": "The cream of the atelier paper.",
+            "usage": "Background, paper, lens-cloth"
+          },
+          {
+            "name": "Tortoise",
+            "hex": "#8E5A2D",
+            "meaning": "The amber of hand-cut tortoiseshell.",
+            "usage": "Accent, wax seal, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Garamond Premier Pro for the wordmark and editorial copy",
+          "secondary": "S\u00f6hne for body and prescriptions",
+          "rationale": "A neoclassical roman for the atelier voice; a composed grotesk for the technical and prescription material. The serif carries the guild tradition; the sans keeps the booking flow modern."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Lens Studio",
+        "tagline": "The lens is the product.",
+        "brandNameRationale": "Picked over Acuity. and Refraction Optical. Lens Studio names the singular object of the trade in two words, and the 'studio' framing places it as a small, craft-led practice rather than a chain. Acuity. is a clean one-word play but acuity is an abstract measurement, less concrete. Refraction Optical is heavy on jargon. Lens Studio is the most legible to a walk-in customer and the most ownable as a URL and storefront.",
+        "industrySummary": "Minimalist optometry brands have a real opening in cities where the customer wants a fast, lens-led experience \u2014 the frame is incidental, the lens is the engineering. The opening is for a studio-format optician focused on lens craft.",
+        "competitorLandscape": "MOSCOT (moscot.com) holds the heritage frame slot. Cubitts (cubitts.com) plays the London craft position. Article One (article-one.com) does the made-in-America frame story. We sit smaller, lens-led, single-storefront.",
+        "positioningStatement": "A studio optician focused on the lens, not the frame.",
+        "targetAudience": {
+          "primary": "30 to 50. Has a strong prescription. Cares about lens index, AR coating, and progressive design. Will buy frames anywhere if the lens work is right.",
+          "behaviors": [
+            "Brings their own frame for re-lensing",
+            "Asks for high-index by name",
+            "Returns yearly for a new pair"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Technical",
+          "Direct",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the lens, not the frame",
+            "Name the index, the coating, the manufacturer",
+            "Show the lens, not a face"
+          ],
+          "donts": [
+            "Sell frames as a fashion item",
+            "Use lifestyle photography",
+            "Discount the lens to sell the frame"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Lens Studio in a precise modern grotesk, lower-case, two words on one line. A thin oval (the cross-section of a lens) sits as the hallmark on the case and the favicon.",
+        "colorPalette": [
+          {
+            "name": "Lens",
+            "hex": "#E8EAEC",
+            "meaning": "The pale grey of an uncoated lens.",
+            "usage": "Background, paper, secondary surface"
+          },
+          {
+            "name": "Frame Black",
+            "hex": "#0F0F12",
+            "meaning": "The black of a polished acetate frame.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Coating Blue",
+            "hex": "#4E78A8",
+            "meaning": "The blue sheen of an AR coating.",
+            "usage": "Accent, links, foil"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for prescription specs",
+          "rationale": "One family. The mono carries the lens index and coating data. The regular carries the brand and the booking flow."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Snell Refraction Group",
+        "tagline": "Lens manufacturing, by the law that runs every lens.",
+        "brandNameRationale": "Picked over Optical Society Group and Visual Sciences Partners. A flagged that 'Optical Society' is an active trademark (Optica). Snell's Law (Willebrord Snell, 1621) is the mathematical foundation underlying every lens design and is in the public domain \u2014 the perfect B2B name for a prescription-fulfillment and lens-manufacturing group. Visual Sciences Partners is generic and reads like a PE roll-up. Snell Refraction Group carries scientific credibility and is defensibly unique.",
+        "industrySummary": "B2B lens manufacturing and prescription fulfillment is a quiet, high-margin category dominated by EssilorLuxottica and a handful of regional labs. The opening is for a mid-tier prescription-fulfillment group serving independent practices that don't want to send work to the EssilorLuxottica supply chain.",
+        "competitorLandscape": "EssilorLuxottica (essilorluxottica.com) is the global benchmark. Hoya Vision (hoyavision.com) holds the Japanese premium lens slot. Walman (walman.com) is the US independent-lab peer. We sit alongside Walman, serving independents who want a non-EssilorLuxottica partner.",
+        "positioningStatement": "A B2B lens-manufacturing and prescription-fulfillment partner for independent optometry practices.",
+        "targetAudience": {
+          "primary": "Independent optometry practice owners and small-chain procurement teams. Wants reliable lens fulfillment, transparent lead times, and an alternative to the EssilorLuxottica supply chain.",
+          "behaviors": [
+            "Compares lab lead times monthly",
+            "Audits remake rates",
+            "Negotiates annual volume contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Transparent",
+          "Technical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish remake rates and lead times",
+            "Lead with the lens science",
+            "Identify as an independents-first lab"
+          ],
+          "donts": [
+            "Use consumer brand language",
+            "Hide pricing or remake data",
+            "Compete with practices for end-customers"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a single ray refracting through a boundary line, drawn from Snell's Law geometry. Used on the invoice header, the lab packaging, and the practice portal.",
+        "colorPalette": [
+          {
+            "name": "Lab Navy",
+            "hex": "#1B2E48",
+            "meaning": "The blue of a clinical lab document.",
+            "usage": "Wordmark, headers, mark"
+          },
+          {
+            "name": "Refraction Grey",
+            "hex": "#E4E6E9",
+            "meaning": "The grey of unrefracted light.",
+            "usage": "Background, paper, portal"
+          },
+          {
+            "name": "Boundary Orange",
+            "hex": "#D86A2A",
+            "meaning": "The accent of the refracted ray.",
+            "usage": "Accent, mark detail, callout"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and reports",
+          "secondary": "S\u00f6hne for body and portal",
+          "rationale": "A serif for the institutional weight of a B2B partner; a grotesk for the lab portal and the operational documents."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Camera Obscura Optical",
+        "tagline": "The first optical instrument was a room.",
+        "brandNameRationale": "Picked over Pinhole & Prism and The Optic Nerve. Camera Obscura connects the customer directly to the deep history of optics (Kepler 1604 \u2014 the camera obscura was the model for understanding the human eye) and is a globally recognized cultural reference (art, photography, science). Pinhole & Prism is clever but reads more clinical-instrument than creative-cultural. The Optic Nerve is striking but slightly grim and harder to scale visually. Camera Obscura Optical opens a creative brand into the entire history of vision.",
+        "industrySummary": "Creative optometry brands have a rare opening \u2014 most independents play the fashion-frame card. The customer who reads about Kepler, Vermeer's use of the camera obscura, and the history of seeing wants an optometry brand that earns its design seriousness from the science of vision.",
+        "competitorLandscape": "Cubitts (cubitts.com) holds the London craft slot. l.a.Eyeworks (laeyeworks.com) plays the art-led legacy position. Native Ken (nativeken.com) is the design-led NYC peer. We sit alongside Cubitts with a deeper cultural-historical narrative built around the camera obscura.",
+        "positioningStatement": "An independent optometry studio rooted in the 400-year history of how we understand seeing.",
+        "targetAudience": {
+          "primary": "30 to 55. Reads David Hockney on Vermeer. Visits the Camera Obscura at Greenwich on holiday. Buys frames as cultural objects.",
+          "behaviors": [
+            "Reads the studio's published essays",
+            "Books exams as a quarterly ritual",
+            "Refers privately to other design-literate friends"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Curatorial",
+          "Historical",
+          "Craft",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish a small essay with every collection",
+            "Cite Kepler, Hockney, Snell by name",
+            "Treat each frame as an object with provenance"
+          ],
+          "donts": [
+            "Use fashion-week language",
+            "Run mass campaigns",
+            "Sell frames without the eye exam"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Camera Obscura set in a warm serif on two lines, Optical in small caps below. A small pinhole-circle hallmark with an inverted single-letter inside (the inverted image of the camera obscura) sits as the secondary mark.",
+        "colorPalette": [
+          {
+            "name": "Obscura Black",
+            "hex": "#121215",
+            "meaning": "The black of a darkened room.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Aperture White",
+            "hex": "#F4F1EA",
+            "meaning": "The light through the pinhole.",
+            "usage": "Background, paper, packaging"
+          },
+          {
+            "name": "Vermeer Blue",
+            "hex": "#2F4A6E",
+            "meaning": "The blue of Vermeer's lapis lazuli.",
+            "usage": "Accent, foil, hallmark fill"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and essays",
+          "secondary": "S\u00f6hne for body and shop",
+          "rationale": "A serif for the editorial and historical voice; a grotesk for the shop and the booking. The essay is the brand; the shop is the transaction."
+        }
+      }
+    ]
+  }
+}
