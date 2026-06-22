@@ -1,0 +1,308 @@
+{
+  "industry": "skateboarding",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Kicktail Supply",
+        "tagline": "Tail up. Eyes forward.",
+        "brandNameRationale": "Named for the kicktail \u2014 the upward bend at the back of a deck, introduced by Larry Stevenson at Makaha in 1969 and codified through the early 1970s. The kicktail is what turned a flat plank into a maneuverable skateboard; everything from the ollie to the modern street trick depends on it. We name the brand after the geometry that made the sport possible.",
+        "industrySummary": "Hardgoods skate brands fall into two camps: heritage labels that lean on 1970s LA mythology, or aggressive graphics-led street brands. There is a clean middle for a modern hardgoods company that talks about deck shape \u2014 concave, wheelbase, tail kick \u2014 the way a road-bike brand talks about geometry.",
+        "competitorLandscape": "Polar Skate Co. (polarskateco.com) holds the considered modern slot. Isle Skateboards (isleskateboards.com) is the art-led modern peer. Welcome Skateboards (welcomeskateboards.net) sets the shape-forward precedent. We sit closer to Isle, sharper on engineered geometry.",
+        "positioningStatement": "A modern hardgoods brand for riders who care about the shape of the deck.",
+        "targetAudience": {
+          "primary": "18 to 35. Skates three days a week. Owns two setups. Reads Closer and Free Skate Mag. Can tell a 14-inch wheelbase from a 14.5 by feel.",
+          "behaviors": [
+            "Buys decks by shape spec, not graphic",
+            "Sets up trucks by axle width and bushing duro",
+            "Watches full parts the day they drop"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Engineered",
+          "Modern",
+          "Quiet",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the concave, the tail steepness, the wheelbase",
+            "Print the shape number on the topsheet",
+            "Speak to the rider, not the spectator"
+          ],
+          "donts": [
+            "Use the word lifestyle",
+            "Run a fashion-week activation",
+            "Photograph decks on a white pedestal"
+          ]
+        },
+        "logoDirection": "A wordmark. Kicktail Supply set in a tight modern grotesk, with the K's lower leg extended into an upward kick that mirrors a tail profile. The kick alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Deck Black",
+            "hex": "#111114",
+            "meaning": "Griptape.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Maple",
+            "hex": "#D9B382",
+            "meaning": "Canadian hard-rock maple, the standard deck material.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Hazard Orange",
+            "hex": "#F2541B",
+            "meaning": "Construction cone, the color of the street.",
+            "usage": "Accents, single panel"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for shape specs and wheelbase",
+          "rationale": "The mono carries the deck specs. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Mahaka Pool Club",
+        "tagline": "Drained pools. Heavy decks.",
+        "brandNameRationale": "Named for the empty backyard pools of 1976 drought-era Los Angeles, when the Z-Boys turned drained kidney pools into the first vertical skate terrain. Mahaka evokes the era of named pools (the Dog Bowl, the Canyon, the Soul Bowl) without trading on any active mark. Treats the pool as the brand's club.",
+        "industrySummary": "Luxury in skate has been an oxymoron \u2014 the closest the market gets is heritage reissue lines and limited deck drops. There is room for a premium brand that takes the pool-skating era as its reference and treats the deck like a piece of equipment, not merch.",
+        "competitorLandscape": "Hopps (hoppsbrand.com) sits in the considered-craft niche. Antihero Skateboards (antiheroskateboards.com) holds the pool-skate heritage slot. Lowcard Mag (lowcardmag.com) is the cultural peer. We sit above all three, in a premium one-drop-per-season position.",
+        "positioningStatement": "A premium pool-skating house \u2014 heavyweight decks, brass hardware, members-only drops.",
+        "targetAudience": {
+          "primary": "30 to 55. Skated through the 90s. Owns a 9-inch pool deck. Has skated a real backyard pool. Buys one deck a year and rides it until it cracks.",
+          "behaviors": [
+            "Names the pools they've skated",
+            "Pays for hand-shaped decks",
+            "Collects original 70s graphics"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Heavy",
+          "Specific",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the pool, the coping, the year",
+            "Number every deck",
+            "Speak in the language of the bowl"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Run a streetwear collab",
+            "Photograph decks on models"
+          ]
+        },
+        "logoDirection": "A serifed wordmark. Mahaka Pool Club set in a 1970s-era condensed serif, with a pool-shape (kidney) silhouette as the hallmark. Foiled in brass on the topsheet.",
+        "colorPalette": [
+          {
+            "name": "Pool Plaster",
+            "hex": "#E8E2D2",
+            "meaning": "Drained pool wall.",
+            "usage": "Topsheet, backgrounds"
+          },
+          {
+            "name": "Coping Tile",
+            "hex": "#3B5A6B",
+            "meaning": "Original blue pool tile around the coping.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A67C2C",
+            "meaning": "Hardware. Foiled deck numbers.",
+            "usage": "Foil, hardware accents"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "GT America Mono for deck numbers and pool index",
+          "rationale": "Canela gives the brand a heritage stance. The mono carries the catalog data."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Concave",
+        "tagline": "The shape that matters.",
+        "brandNameRationale": "Named for the deck's concave \u2014 the lateral curvature, measured in millimeters from edge to center, which is the single most-discussed spec among skaters. A one-word brand pointing at the shape, not the graphic.",
+        "industrySummary": "Most skate brands compete on graphic. A minimal hardgoods brand that competes on concave depth and deck shape has space \u2014 the customer is the rider who buys blanks and pro models for the wood, not the print.",
+        "competitorLandscape": "Polar Skate Co. (polarskateco.com) is the design-minimal peer. Isle Skateboards (isleskateboards.com) holds the considered-minimal slot. Magenta Skateboards (magentaskateboards.com) is the European-minimal precedent. We sit below all three on visual noise, pure shape.",
+        "positioningStatement": "A minimal hardgoods brand built around deck shape and nothing else.",
+        "targetAudience": {
+          "primary": "22 to 40. Skates every weekend. Buys blanks or low-graphic pro decks. Knows the difference between medium and steep concave.",
+          "behaviors": [
+            "Buys decks by mold number",
+            "Sets up new decks the day they arrive",
+            "Sands down graphics they don't like"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Specific",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the concave depth on every deck",
+            "Use one typeface, one color",
+            "Say nothing the spec sheet doesn't say"
+          ],
+          "donts": [
+            "Run a graphics collab",
+            "Use the word lifestyle",
+            "Add a tagline to the topsheet"
+          ]
+        },
+        "logoDirection": "A wordmark. CONCAVE set in a tight modern grotesk, with a single curved line beneath it that mirrors a deck's cross-section. The curve alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Ply Cream",
+            "hex": "#F0EBE0",
+            "meaning": "Raw maple ply, sanded but unstained.",
+            "usage": "Primary, backgrounds"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#0E0E10",
+            "meaning": "Wordmark, spec print.",
+            "usage": "Wordmark, type"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark",
+          "secondary": "S\u00f6hne Mono for concave depth and mold numbers",
+          "rationale": "One typeface family. The mono carries the spec, the regular carries the brand."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Pacific Coast Skate Co.",
+        "tagline": "Decks for every park.",
+        "brandNameRationale": "Named for the Pacific Coast skate corridor \u2014 Venice, Huntington, Encinitas, Oceanside \u2014 the geographic backbone of US skateboarding. The Co. suffix and place-name framing position the brand as wholesale-ready, suitable for skate schools, municipal park programs, and B2B distribution.",
+        "industrySummary": "The skate hardgoods market has very few B2B-friendly umbrella brands suited to municipal skatepark contracts, skate school supply, and wholesale distribution. Most heritage brands are too rider-specific. There is room for a corporate-feeling umbrella that supplies decks, trucks, and wheels at scale.",
+        "competitorLandscape": "NHS Distribution (nhs-inc.com) is the wholesale parent peer. Dwindle Distribution (dwindledist.com) holds the multi-brand supplier slot. Skate One (skateone.com) sets the OEM precedent. We sit alongside Dwindle, with a coastal regional identity.",
+        "positioningStatement": "A wholesale-ready hardgoods house supplying decks and components to the skate corridor.",
+        "targetAudience": {
+          "primary": "Skate shop buyers, municipal parks-and-rec procurement, skate school operators. Buys by the case, not the deck.",
+          "behaviors": [
+            "Orders by SKU and lead time",
+            "Manages multi-location inventory",
+            "Runs purchase orders, not drops"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Coastal",
+          "Practical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote lead times and case quantities",
+            "Publish a wholesale price list",
+            "Speak to buyers, not riders"
+          ],
+          "donts": [
+            "Run a rider video part",
+            "Use the word vibe",
+            "Drop a collab"
+          ]
+        },
+        "logoDirection": "A wordmark with a shield. Pacific Coast Skate Co. set in a clean American sans-serif, paired with a simple shield containing a stylized wave-and-deck silhouette. The shield works on shipping cartons.",
+        "colorPalette": [
+          {
+            "name": "Pacific Navy",
+            "hex": "#1F3A5F",
+            "meaning": "Pacific Coast water at depth.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Coast Sand",
+            "hex": "#E8DCC2",
+            "meaning": "Bleached beach sand.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Signal White",
+            "hex": "#FFFFFF",
+            "meaning": "Lane stripe.",
+            "usage": "Reverse on navy"
+          }
+        ],
+        "typography": {
+          "primary": "Aktiv Grotesk for the wordmark and document headers",
+          "secondary": "Aktiv Grotesk for body and price lists",
+          "rationale": "One typeface family. Reads professional on a purchase order and clean on a shipping box."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Slappy Curb Press",
+        "tagline": "Grind first. Ollie later.",
+        "brandNameRationale": "Named for the slappy \u2014 the act of grinding a curb without ollieing onto it, the original street trick that predates the ollie's adoption on street. Curb culture is the heart of street skating before parks, and Slappy Curb Press positions the brand as a zine-and-deck creative imprint rooted in that lineage.",
+        "industrySummary": "Creative skate imprints are crowded with art-collab and graphic-led brands, but most lean on illustration rather than the actual street objects skaters interact with. There is room for a zine-and-deck imprint that takes a single street feature \u2014 the curb \u2014 as its whole identity.",
+        "competitorLandscape": "Bronze 56k (bronze56k.com) is the creative imprint peer. Quartersnacks (quartersnacks.com) holds the NYC street-culture slot. Hockey Skateboards (hockeyskateboards.com) is the art-led creative precedent. We sit alongside Bronze, sharper on curb obsession.",
+        "positioningStatement": "A creative skate imprint built around curb culture \u2014 decks, zines, hand-screened graphics.",
+        "targetAudience": {
+          "primary": "20 to 35. Skates the same three curbs every week. Owns every Bronze 56k tape. Buys decks for the graphic and the zine that comes with them.",
+          "behaviors": [
+            "Wax the curb before skating it",
+            "Collects skate zines",
+            "Films on a VX1000"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Creative",
+          "Street",
+          "Lo-fi",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the curb, the spot, the city",
+            "Pair every deck drop with a zine",
+            "Hand-screen, not print"
+          ],
+          "donts": [
+            "Photograph decks in a studio",
+            "Use the word community",
+            "Run a fashion collab"
+          ]
+        },
+        "logoDirection": "A hand-drawn wordmark. Slappy Curb Press lettered in a chunky brush script, sitting on a horizontal line that suggests a curb edge. The curb-line alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Curb Gray",
+            "hex": "#7C7E80",
+            "meaning": "Cast-concrete curb.",
+            "usage": "Backgrounds, primary"
+          },
+          {
+            "name": "Wax Yellow",
+            "hex": "#F2C744",
+            "meaning": "Skate wax rubbed into the curb edge.",
+            "usage": "Accent, deck topsheet"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#0E0E10",
+            "meaning": "Screen ink.",
+            "usage": "Wordmark, screen prints"
+          }
+        ],
+        "typography": {
+          "primary": "Hand-lettered Slappy Curb Press wordmark",
+          "secondary": "S\u00f6hne Mono for zine body copy and deck specs",
+          "rationale": "The hand-lettering carries the imprint voice. The mono carries the structural information."
+        }
+      }
+    ]
+  }
+}
