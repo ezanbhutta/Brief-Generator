@@ -1,0 +1,627 @@
+{
+  "industry": "car-detailing",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "SiO2 Studio",
+        "tagline": "Ceramic coating, by the molecule.",
+        "brandNameRationale": "SiO2 is the chemical formula for silicon dioxide — the core compound in modern ceramic coatings. Studio places the shop in the considered-modern register (Studio Proper, MR Studio). The whole name signals a chemistry-led ceramic specialist.",
+        "industrySummary": "Ceramic coating has become the durable-finish standard. The opening is for a shop that brands itself on the chemistry — SiO2, contact angle, gloss retention.",
+        "competitorLandscape": "Gtechniq (gtechniq.com) holds the chemistry-led peer. CarPro (carpro.com.tr) sits in the technical reference. System X (systemxceramics.com) is the warranty precedent. We sit closer to Gtechniq in posture.",
+        "positioningStatement": "A modern ceramic-coating studio led by the SiO2 chemistry and contact-angle measurement.",
+        "targetAudience": {
+          "primary": "28 to 50. New-car owner. Will pay once for the coat and want it done correctly.",
+          "behaviors": [
+            "Books a coat after purchase",
+            "Asks for the SiO2 percentage and the durability spec",
+            "Inspects the contact angle on water beads"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Technical",
+          "Precise",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote SiO2 percentage and durability hours",
+            "Photograph the contact angle",
+            "Sign the coating spec sheet"
+          ],
+          "donts": [
+            "Promise lifetime guarantees verbally",
+            "Use 'showroom' marketing",
+            "Skip the prep stage"
+          ]
+        },
+        "logoDirection": "A wordmark — SiO2 STUDIO set in a precise modern grotesque, mixed case with subscript 2. A small mark: a water droplet at a 110-degree contact angle. Used on the spec sheet.",
+        "colorPalette": [
+          {
+            "name": "Coat Black",
+            "hex": "#0F1213",
+            "meaning": "Coated panel.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Bead White",
+            "hex": "#F2F2EF",
+            "meaning": "Water bead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lab Blue",
+            "hex": "#1F4FFF",
+            "meaning": "Spec accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and spec sheets",
+          "secondary": "JetBrains Mono for the contact angle, durability hours, SiO2 %",
+          "rationale": "Inter scales clean. Mono for the chemistry data on the spec."
+        }
+      },
+      {
+        "brandName": "Ceramica Lab",
+        "tagline": "Ceramic finish, measured.",
+        "brandNameRationale": "Ceramica is the Italian / scientific word for ceramic; Lab places the work in a measurement context. Two words, modern register — reads as a ceramic-coating shop that thinks like a lab.",
+        "industrySummary": "Ceramic coating shops vary widely in prep, application, and post-cure measurement. The opening is for a brand that names the lab discipline.",
+        "competitorLandscape": "Gtechniq (gtechniq.com) holds the chemistry-led peer. CarPro (carpro.com.tr) sits in the technical reference. Modesta (modesta.com) is the high-end peer. We sit alongside Gtechniq with a measurement register.",
+        "positioningStatement": "A ceramic-coating lab that measures contact angle, gloss, and cure time on every job.",
+        "targetAudience": {
+          "primary": "30 to 55. Car enthusiast. Wants the lab sheet with the job.",
+          "behaviors": [
+            "Books the coat with a print-out spec request",
+            "Inspects the cure environment",
+            "Compares contact-angle readings across visits"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Measurement-led",
+          "Precise",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Issue a lab sheet per job",
+            "Photograph the panel under the gloss meter",
+            "Cite the cure spec"
+          ],
+          "donts": [
+            "Promise eternal coats",
+            "Promote in showroom-style language",
+            "Skip the lab sheet"
+          ]
+        },
+        "logoDirection": "Ceramica Lab set in a precise modern grotesque. A small gloss-meter dial mark sits to the left. Used on the lab sheet and the bay sign.",
+        "colorPalette": [
+          {
+            "name": "Lab Black",
+            "hex": "#101012",
+            "meaning": "Lab bench.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Spec White",
+            "hex": "#F4F4F2",
+            "meaning": "Lab paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gloss Blue",
+            "hex": "#2A6DB8",
+            "meaning": "Gloss accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque (e.g., Söhne)",
+          "secondary": "A grotesque mono for the measurements",
+          "rationale": "Grotesque sets the lab register. Mono for the data."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Concours & Co.",
+        "tagline": "Detail to concours standard.",
+        "brandNameRationale": "Concours d'elegance is the classic-car prestige show; Concours alone has come to mean the highest detail standard. & Co. closes it as a small firm. The whole name claims the prestige register without referencing any specific event.",
+        "industrySummary": "Premium detail competes with private collectors, auction houses, and concours preparers. The opening is for a brand in the editorial-prestige tradition.",
+        "competitorLandscape": "Topaz Detailing (topazdetailing.com) holds the premium-detail peer. Cumbria Custom Detail (cumbriacustomdetail.com) sits in the heritage-car reference. RWB Detailing precedent applies. We sit alongside Topaz with an editorial register.",
+        "positioningStatement": "A premium concours-grade detail house for collectors and auction preparers.",
+        "targetAudience": {
+          "primary": "45 to 70. Classic-car or premium-modern collector. Will pay for the multi-week preparation.",
+          "behaviors": [
+            "Prepares the car months in advance of a show",
+            "Wants the panel inspected under a paint depth gauge",
+            "Sends the car by enclosed transport"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Premium",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address the owner by surname",
+            "Photograph the panel under the lights",
+            "Sign the work by the lead detailer"
+          ],
+          "donts": [
+            "Run promotional pricing",
+            "Photograph the cars from the outside only",
+            "Use 'shine' marketing"
+          ]
+        },
+        "logoDirection": "A serif wordmark — CONCOURS & CO. set in a high-contrast editorial serif with a long ampersand. A small embossed crest mark sits to the left. Used on the work folder and the brass plate on the bay door.",
+        "colorPalette": [
+          {
+            "name": "Lacquer Black",
+            "hex": "#0F1416",
+            "meaning": "Polished paint.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Hardware.",
+            "usage": "Embossed details"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial serif (e.g., Canela)",
+          "secondary": "A grotesque for the work folder data",
+          "rationale": "Canela for the editorial register. Grotesque for the work data."
+        }
+      },
+      {
+        "brandName": "Carbon Atelier",
+        "tagline": "A small detail studio. Carbon-fibre register.",
+        "brandNameRationale": "Carbon references the carbon-fibre aesthetic of premium-modern cars; Atelier is the studio-craft suffix used by editorial fashion and product brands. Two words — premium-modern, studio-led.",
+        "industrySummary": "Premium-modern detailing serves performance-car owners who want a studio register. The opening is for a small atelier with editorial signage.",
+        "competitorLandscape": "Topaz Detailing (topazdetailing.com) holds the premium-detail peer. Modesta (modesta.com) sits in the high-end coating reference. Krystal Kleen Detail (krystalkleendetail.co.uk) is the studio precedent. We sit alongside Topaz with an atelier register.",
+        "positioningStatement": "A small premium-modern detail atelier for performance-car owners.",
+        "targetAudience": {
+          "primary": "35 to 55. Performance-car owner. Wants the studio register and the multi-day prep.",
+          "behaviors": [
+            "Books the atelier in advance",
+            "Wants the studio to handle the wheels and the carbon",
+            "Pays for the multi-day service"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Premium-modern",
+          "Studio",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the studio under the lights",
+            "Use atelier language",
+            "Sign the work by the lead"
+          ],
+          "donts": [
+            "Use 'showroom' marketing",
+            "Run loyalty programs",
+            "Photograph the cars from the outside only"
+          ]
+        },
+        "logoDirection": "A wordmark — CARBON ATELIER in a precise modern grotesque, all caps. A small embossed carbon-weave mark sits to the left.",
+        "colorPalette": [
+          {
+            "name": "Carbon Black",
+            "hex": "#0F1112",
+            "meaning": "Carbon weave.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing"
+          },
+          {
+            "name": "Brushed Steel",
+            "hex": "#8E8E8E",
+            "meaning": "Hardware accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque (e.g., Söhne)",
+          "secondary": "Söhne Mono for the spec sheet",
+          "rationale": "Grotesque for the atelier register. Mono for the work data."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Buffhouse",
+        "tagline": "A workshop. Hand-buffed.",
+        "brandNameRationale": "Buff is the polishing pass; house is the workshop suffix (Brewhouse, Bakehouse, Bookhouse). Together: a single-word workshop name in the trade register.",
+        "industrySummary": "Polish work is the trade-shop discipline at the heart of detailing. The opening is for a shop that brands itself as a workshop.",
+        "competitorLandscape": "Auto Geek (autogeek.net) holds the educational peer. Detailing World (detailingworld.co.uk) is the practitioner reference. Bowden's Own (bowdensown.com.au) is the regional precedent. We sit closer to Detailing World in posture.",
+        "positioningStatement": "A workshop polishing shop in the trade tradition.",
+        "targetAudience": {
+          "primary": "30 to 60. Cares about paint condition. Wants the polish work done by hand on a heritage car.",
+          "behaviors": [
+            "Brings the heritage car twice a year",
+            "Wants the panel inspected first",
+            "Reads the polish grade used"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Workshop",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the bench and the bonnet",
+            "Sign the work by the polisher",
+            "Reference the polish compound and pad"
+          ],
+          "donts": [
+            "Use 'restoration' marketing without scope",
+            "Promise miracles in an hour",
+            "Photograph the cars from the outside only"
+          ]
+        },
+        "logoDirection": "A wordmark — BUFFHOUSE in a heavy trade serif, one line. A small mark: a polishing pad seen flat. Used on the bay door and the work sheet.",
+        "colorPalette": [
+          {
+            "name": "Bench Black",
+            "hex": "#1A1A1A",
+            "meaning": "Workshop bench.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Polish Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Compound page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Buff Yellow",
+            "hex": "#E8B739",
+            "meaning": "Polishing pad.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A heavy trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the trade register. Grotesque for the work data."
+        }
+      },
+      {
+        "brandName": "The Detailwright",
+        "tagline": "The work is the trade.",
+        "brandNameRationale": "Wright is the heritage trade suffix — wheelwright, shipwright, playwright. Detailwright coins the detail trade in the same register. The whole name reads as a workshop in the long trade-craft tradition.",
+        "industrySummary": "Detailing in 2025+ has split between fast express washes and serious detail shops. The opening is for a brand that names the trade explicitly.",
+        "competitorLandscape": "Detailing World (detailingworld.co.uk) holds the practitioner-community peer. Adam's Polishes (adamspolishes.com) sits in the product reference. Auto Geek (autogeek.net) is the educational precedent. We sit closer to Detailing World in trade posture.",
+        "positioningStatement": "A trade-craft detail workshop named after the wright tradition.",
+        "targetAudience": {
+          "primary": "30 to 60. Heritage-car owner. Wants the work done by a tradesperson.",
+          "behaviors": [
+            "Books the workshop by referral",
+            "Asks about the bench and the tools",
+            "Trusts the craftsperson over the brand"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Heritage",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the bench, the tools, the panel",
+            "Sign the work by the detailer",
+            "Use trade language plainly"
+          ],
+          "donts": [
+            "Use 'showroom' marketing",
+            "Promise miracles in an hour",
+            "Photograph the cars only"
+          ]
+        },
+        "logoDirection": "A serif wordmark — THE DETAILWRIGHT set in a quiet trade serif, two lines. A small mark: a polishing pad seen edge-on. Used on the work sheet.",
+        "colorPalette": [
+          {
+            "name": "Trade Black",
+            "hex": "#161616",
+            "meaning": "Bench.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pad Yellow",
+            "hex": "#D9A938",
+            "meaning": "Pad colour.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A quiet trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the trade lineage. Grotesque for the work data."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Two Bucket Society",
+        "tagline": "Wash done the right way.",
+        "brandNameRationale": "The two-bucket method is the foundational hand-wash technique — one bucket of soap, one of clean rinse water — used by every serious detailer to avoid swirl marks. Society closes it as a heritage club of practitioners.",
+        "industrySummary": "Detailing splits between drive-through car washes and serious hand-detail shops. The opening is for a hand-detail shop branded on the foundational two-bucket method.",
+        "competitorLandscape": "Detailing World (detailingworld.co.uk) holds the practitioner-community peer. Adam's Polishes (adamspolishes.com) sits in the product reference. Auto Geek (autogeek.net) is the educational precedent. We sit closer to Detailing World in posture.",
+        "positioningStatement": "A hand-wash detailing shop built on the two-bucket method.",
+        "targetAudience": {
+          "primary": "30 to 60. Owns a car worth caring for. Hates swirl marks. Will pay for the wash done properly.",
+          "behaviors": [
+            "Books the same shop monthly",
+            "Asks for the wash mitt and the wash schedule",
+            "Refuses drive-through washes"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Considered",
+          "Quiet",
+          "Practiced"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the buckets and the grit guards",
+            "Speak in technique",
+            "Sign the wash by the detailer"
+          ],
+          "donts": [
+            "Use 'showroom shine' marketing",
+            "Promise miracles in 20 minutes",
+            "Run weekly specials"
+          ]
+        },
+        "logoDirection": "A serif wordmark — TWO BUCKET SOCIETY in a trade serif. A small mark: two stacked buckets seen in profile, with grit guards. Used on the bay sign and the paper receipt.",
+        "colorPalette": [
+          {
+            "name": "Bucket Black",
+            "hex": "#1A1A1A",
+            "meaning": "Wash bucket.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Soap White",
+            "hex": "#F2F0EB",
+            "meaning": "Foam.",
+            "usage": "Backgrounds, signage"
+          },
+          {
+            "name": "Bay Blue",
+            "hex": "#2A4A6A",
+            "meaning": "Detail bay light.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the wash sheet",
+          "rationale": "Serif sets the heritage trade register. Grotesque for the wash spec."
+        }
+      },
+      {
+        "brandName": "Claybar Guild",
+        "tagline": "Decontamination, by hand.",
+        "brandNameRationale": "Clay bar is the detailing tool used to lift bonded contaminants from clear coat before polish — the technique the serious detail world organised around in the 1990s. Guild positions the brand as a heritage trade body.",
+        "industrySummary": "Serious detail work begins with decontamination. The opening is for a heritage shop that brands itself on the clay-bar tradition.",
+        "competitorLandscape": "Detailing World (detailingworld.co.uk) holds the practitioner-community peer. Bowden's Own (bowdensown.com.au) sits in the regional product reference. Auto Geek (autogeek.net) is the educational precedent. We sit closer to Detailing World in posture.",
+        "positioningStatement": "A heritage detail shop built on clay-bar decontamination and hand polish.",
+        "targetAudience": {
+          "primary": "35 to 65. Owns a garaged car. Will pay for the bonded-contaminant lift and the seal afterwards.",
+          "behaviors": [
+            "Books detailing twice a year",
+            "Inspects the panel for fallout",
+            "Asks the detailer about the clay grade used"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Heritage",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the clay grade and the lubricant",
+            "Photograph the panel before and after",
+            "Sign the work by the detailer"
+          ],
+          "donts": [
+            "Use 'restoration' marketing",
+            "Promise miracles in an hour",
+            "Use machine-only language"
+          ]
+        },
+        "logoDirection": "A serif wordmark — CLAYBAR GUILD in a quiet book serif. A small mark: a clay-bar bar in profile. Used on the bay sign and the receipt.",
+        "colorPalette": [
+          {
+            "name": "Clay Grey",
+            "hex": "#7E837A",
+            "meaning": "Clay bar.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Trade page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark",
+          "secondary": "A neutral grotesque for the wash sheet",
+          "rationale": "Serif for the guild register. Grotesque for the spec."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Suds & Otter",
+        "tagline": "Sudsy. Steady.",
+        "brandNameRationale": "Suds is the foam from a hand wash; Otter is the water-loving mascot — clean, playful, steady on the bay floor. Together: a friendly detail shop with an otter mascot.",
+        "industrySummary": "Most detail shops feel either trade or premium. The opening is for a friendly neighbourhood shop with a mascot and a clear menu.",
+        "competitorLandscape": "Detail Garage (detailgarage.com) holds the friendly retail peer. Chemical Guys (chemicalguys.com) sits in the playful-product peer. Adam's Polishes (adamspolishes.com) is the enthusiast precedent. We sit closer to Detail Garage in posture.",
+        "positioningStatement": "A friendly neighbourhood detail shop with an otter mascot and a plain menu.",
+        "targetAudience": {
+          "primary": "28 to 50. Daily driver owner. Wants the wash done friendly and on time.",
+          "behaviors": [
+            "Books on Saturday morning",
+            "Brings the kids to watch the wash",
+            "Wants to know the price up front"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Playful",
+          "Plain",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the otter on the menu and the sign",
+            "List the prices clearly",
+            "Speak like a neighbourhood shop"
+          ],
+          "donts": [
+            "Use baby-talk in the copy",
+            "Hide prices behind 'starting at'",
+            "Anthropomorphise the cars"
+          ]
+        },
+        "logoDirection": "A wordmark — SUDS & OTTER in a warm geometric sans. A line-drawn otter holding a sponge sits beside the wordmark. The otter alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Otter Brown",
+            "hex": "#7A5230",
+            "meaning": "Otter fur.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Suds White",
+            "hex": "#F4F2EC",
+            "meaning": "Soap foam.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bay Blue",
+            "hex": "#3A6DAA",
+            "meaning": "Wash water.",
+            "usage": "Accent, highlights"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A warm geometric sans for the wordmark",
+          "secondary": "Same family for body copy and menu",
+          "rationale": "One family across the menu, sign, and receipt. Warm grotesque pairs with the mascot."
+        }
+      },
+      {
+        "brandName": "Squeegee Squirrel",
+        "tagline": "Quick. Tidy. Done.",
+        "brandNameRationale": "Alliteration carries the playful register; squeegee is the bay tool, squirrel the quick-handed mascot. Two words, mascot-led, easy to say at the counter.",
+        "industrySummary": "Quick-detail shops compete on speed and price. The opening is for a friendly shop with a mascot and an honest 30-minute menu.",
+        "competitorLandscape": "Detail Garage (detailgarage.com) holds the friendly retail peer. Mister Car Wash (mistercarwash.com) sits in the express peer. Bubbles Car Wash franchise model is the precedent. We sit closer to Detail Garage in posture.",
+        "positioningStatement": "A quick neighbourhood detail shop with a 30-minute menu and a squirrel mascot.",
+        "targetAudience": {
+          "primary": "25 to 45. Daily driver. Wants the wash in under an hour, priced clearly.",
+          "behaviors": [
+            "Stops in on the way home",
+            "Wants the price posted on the wall",
+            "Repeats once a month"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Quick",
+          "Plain",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Post the 30-minute menu on the wall",
+            "Show the squirrel on the bay sign",
+            "List the prices clearly"
+          ],
+          "donts": [
+            "Run gamified loyalty points",
+            "Use 'shine' marketing",
+            "Hide prices"
+          ]
+        },
+        "logoDirection": "Squeegee Squirrel set in a warm rounded grotesque. A line-drawn squirrel with a squeegee sits beside the wordmark. The squirrel alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Squirrel Red",
+            "hex": "#B8533A",
+            "meaning": "Squirrel fur.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Bay Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Squeegee Blue",
+            "hex": "#3A6DAA",
+            "meaning": "Water on glass.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A warm rounded grotesque for the wordmark",
+          "secondary": "Same family across menu and signage",
+          "rationale": "One family across signage. Pairs with the line-drawn mascot."
+        }
+      }
+    ]
+  }
+}

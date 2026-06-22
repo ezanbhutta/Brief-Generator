@@ -1,0 +1,627 @@
+{
+  "industry": "painter",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Trimline Studio",
+        "tagline": "Trim. Walls. Done.",
+        "brandNameRationale": "Trim is the cut-line work between wall and woodwork (the most-watched detail of a paint job); Line names the precision; Studio places the firm in the considered-modern register. Two words, modern register — reads as a precision-trim painter.",
+        "industrySummary": "Residential painting differentiates on the trim. The opening is for a modern firm that names the trim discipline.",
+        "competitorLandscape": "Sherwin-Williams (sherwin-williams.com) is the paint reference. CertaPro Painters (certapro.com) holds the national-franchise peer. Five Star Painting (fivestarpainting.com) is the regional precedent. We sit closer to CertaPro in modern posture.",
+        "positioningStatement": "A modern residential painting studio specialising in precision trim work.",
+        "targetAudience": {
+          "primary": "30 to 55. Modern-home owner. Wants the cut-line crisp.",
+          "behaviors": [
+            "Inspects the trim closely",
+            "Asks about the brush type used on cut-lines",
+            "Repeats annually for touch-ups"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Precise",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the trim before and after",
+            "Reference the brush and the technique",
+            "Sign the work by the foreman"
+          ],
+          "donts": [
+            "Use 'one coat' marketing",
+            "Spray the trim instead of brushing",
+            "Hide the prep cost"
+          ]
+        },
+        "logoDirection": "A wordmark — TRIMLINE STUDIO set in a precise modern grotesque, all caps. A small mark: a single sharp cut-line.",
+        "colorPalette": [
+          {
+            "name": "Cutline Black",
+            "hex": "#0F1213",
+            "meaning": "Crisp cut-line.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Wall White",
+            "hex": "#F4F2EC",
+            "meaning": "Painted wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tape Blue",
+            "hex": "#2A6DB8",
+            "meaning": "Painter's tape.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A precise modern grotesque (e.g., Söhne)",
+          "secondary": "A grotesque mono for the spec sheet",
+          "rationale": "Grotesque for the modern register. Mono for the spec data."
+        }
+      },
+      {
+        "brandName": "Coatlab",
+        "tagline": "Paint by the coat.",
+        "brandNameRationale": "Coat names the paint film; Lab places the firm in the measurement register. One compound word, modern register — reads as a measurement-led painter.",
+        "industrySummary": "Modern painting measures mil thickness, surface profile, and recoat windows. The opening is for a brand that names the lab.",
+        "competitorLandscape": "Sherwin-Williams (sherwin-williams.com) is the paint reference. CertaPro Painters (certapro.com) holds the national-franchise peer. Five Star Painting (fivestarpainting.com) is the regional precedent. We sit closer to CertaPro in modern posture.",
+        "positioningStatement": "A modern painting firm that measures mil thickness, surface profile, and recoat windows.",
+        "targetAudience": {
+          "primary": "32 to 55. Modern-home owner. Wants the lab sheet with the job.",
+          "behaviors": [
+            "Asks for the mil thickness",
+            "Reads the spec sheet",
+            "Repeats with the same firm"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Measurement-led",
+          "Precise",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Issue a lab sheet per job",
+            "Quote mil thickness and recoat",
+            "Default to plain reporting"
+          ],
+          "donts": [
+            "Run promotional pricing",
+            "Hide the lab sheet",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "Coatlab set in a precise modern grotesque, lowercase. A small mil-gauge dial mark sits to the left.",
+        "colorPalette": [
+          {
+            "name": "Lab Black",
+            "hex": "#101012",
+            "meaning": "Lab bench.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Page White",
+            "hex": "#F4F4F2",
+            "meaning": "Spec page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gauge Blue",
+            "hex": "#2A6DB8",
+            "meaning": "Gauge accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and reports",
+          "secondary": "Inter Mono for mil thickness and spec data",
+          "rationale": "Inter scales clean. Mono for the measurements."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Pigment & Press",
+        "tagline": "Pigment, prepared.",
+        "brandNameRationale": "Pigment is the painter's raw material; Press places the brand in the editorial-publication register. Two words with an ampersand — reads as an editorial-prestige painting house with a publication arm.",
+        "industrySummary": "Premium residential painting serves architecture-literate homeowners. The opening is for a Press-register editorial brand.",
+        "competitorLandscape": "Farrow & Ball (farrow-ball.com) holds the heritage-paint editorial peer. Little Greene (littlegreene.com) sits in the heritage-paint reference. Edward Bulmer Natural Paint (edwardbulmerpaint.co.uk) is the premium precedent. We sit alongside Little Greene with an editorial register.",
+        "positioningStatement": "A premium painting house publishing a small printed colour press.",
+        "targetAudience": {
+          "primary": "45 to 70. Architecture-literate homeowner. Wants the editorial register.",
+          "behaviors": [
+            "Reads the colour press",
+            "Books the painter months ahead",
+            "Pays for the multi-week prep"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Premium",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the colour press",
+            "Photograph the pigment and the panel",
+            "Sign the work by the foreman"
+          ],
+          "donts": [
+            "Run promotional pricing",
+            "Use 'one coat' marketing",
+            "Photograph the trucks only"
+          ]
+        },
+        "logoDirection": "A serif wordmark — PIGMENT & PRESS set in an editorial serif with a long ampersand. A small mark: a press-mark or printer's flower.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#0F1416",
+            "meaning": "Press ink.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing"
+          },
+          {
+            "name": "Ochre",
+            "hex": "#B07A30",
+            "meaning": "Heritage pigment.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial serif (e.g., Canela)",
+          "secondary": "A grotesque for the colour press body",
+          "rationale": "Canela for the editorial register. Grotesque for the press body."
+        }
+      },
+      {
+        "brandName": "Atelier Whitewash",
+        "tagline": "Whitewash, in the atelier.",
+        "brandNameRationale": "Whitewash is the heritage lime-and-water technique used for centuries on walls; Atelier is the studio-craft suffix. Two words — an editorial heritage-technique studio.",
+        "industrySummary": "Heritage painting techniques (limewash, whitewash, distemper) have an editorial premium register. The opening is for an atelier brand.",
+        "competitorLandscape": "Farrow & Ball (farrow-ball.com) holds the heritage-paint editorial peer. Little Greene (littlegreene.com) sits in the heritage-paint reference. Edward Bulmer Natural Paint (edwardbulmerpaint.co.uk) is the premium precedent. We sit alongside Little Greene with an atelier register.",
+        "positioningStatement": "A premium atelier specialising in whitewash, limewash, and heritage paint techniques.",
+        "targetAudience": {
+          "primary": "45 to 70. Heritage-home owner. Wants the technique done right.",
+          "behaviors": [
+            "Books the atelier months ahead",
+            "Wants the limewash batch documented",
+            "Pays for the multi-coat finish"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Heritage",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Document the limewash batch",
+            "Photograph the panel under the light",
+            "Sign the work by the foreman"
+          ],
+          "donts": [
+            "Use latex paint marketing",
+            "Spray the lime",
+            "Run promotional pricing"
+          ]
+        },
+        "logoDirection": "A serif wordmark — ATELIER WHITEWASH set in an editorial serif. A small mark: a lime-brushed panel.",
+        "colorPalette": [
+          {
+            "name": "Lime White",
+            "hex": "#F4F2EC",
+            "meaning": "Limewash.",
+            "usage": "Wordmark surface"
+          },
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Type.",
+            "usage": "Body"
+          },
+          {
+            "name": "Ochre",
+            "hex": "#B07A30",
+            "meaning": "Heritage pigment.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial serif (e.g., Canela)",
+          "secondary": "A grotesque for the work folder data",
+          "rationale": "Canela for the atelier register. Grotesque for the work data."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "The Brushwright",
+        "tagline": "Painting in the trade.",
+        "brandNameRationale": "Wright is the heritage trade suffix — wheelwright, shipwright, playwright. Brushwright coins the painting trade in the same register. The whole name reads as a trade-craft painter.",
+        "industrySummary": "Residential painting splits between franchise crews and small trade firms. The opening is for a brand that names the trade explicitly.",
+        "competitorLandscape": "Sherwin-Williams (sherwin-williams.com) is the paint reference. CertaPro Painters (certapro.com) holds the national-franchise peer. Five Star Painting (fivestarpainting.com) is the regional precedent. We sit closer to CertaPro in trade posture.",
+        "positioningStatement": "A trade-craft residential painter in the wright tradition.",
+        "targetAudience": {
+          "primary": "40 to 70. Heritage-home owner. Wants a tradesperson.",
+          "behaviors": [
+            "Books by referral",
+            "Wants the brush type referenced",
+            "Repeats over the years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Heritage",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign the work by the wright",
+            "Reference the brush and the technique",
+            "Photograph the work"
+          ],
+          "donts": [
+            "Run franchise upsells",
+            "Spray the trim",
+            "Use 'one coat' marketing"
+          ]
+        },
+        "logoDirection": "A serif wordmark — THE BRUSHWRIGHT in a quiet trade serif. A small mark: a brush flat-on.",
+        "colorPalette": [
+          {
+            "name": "Trade Black",
+            "hex": "#161616",
+            "meaning": "Bench.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brush Gold",
+            "hex": "#D9A938",
+            "meaning": "Brush bristle.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the trade lineage. Grotesque for the work data."
+        }
+      },
+      {
+        "brandName": "Boundary Trim Co.",
+        "tagline": "Cut-line, trim, boundary.",
+        "brandNameRationale": "Boundary trim is the trade term for the cut-line work between wall and ceiling, wall and trim — the discipline that separates professional work from amateur. Co. closes it as a small trade firm.",
+        "industrySummary": "Residential painting differentiates on the boundary trim work. The opening is for a brand that names the boundary discipline.",
+        "competitorLandscape": "Sherwin-Williams (sherwin-williams.com) is the paint reference. CertaPro Painters (certapro.com) holds the national-franchise peer. Five Star Painting (fivestarpainting.com) is the regional precedent. We sit closer to CertaPro in trade posture.",
+        "positioningStatement": "A trade painter specialising in boundary-trim and cut-line work.",
+        "targetAudience": {
+          "primary": "35 to 65. Heritage or considered-modern home owner. Wants the cut-line crisp.",
+          "behaviors": [
+            "Inspects the cut-line",
+            "Asks about the brush used on boundaries",
+            "Repeats with the same firm"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Precise",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the cut-line",
+            "Reference the brush type",
+            "Sign the work by the foreman"
+          ],
+          "donts": [
+            "Use 'one coat' marketing",
+            "Run franchise upsells",
+            "Spray the trim"
+          ]
+        },
+        "logoDirection": "A wordmark — BOUNDARY TRIM CO. in a heavy trade serif. A small mark: a single cut-line.",
+        "colorPalette": [
+          {
+            "name": "Trim Black",
+            "hex": "#161616",
+            "meaning": "Trim.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Wall White",
+            "hex": "#F4F2EC",
+            "meaning": "Wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tape Blue",
+            "hex": "#2A6DB8",
+            "meaning": "Painter's tape.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A heavy trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the trade register. Grotesque for the work data."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Cennini & Co.",
+        "tagline": "Painting since the Libro.",
+        "brandNameRationale": "Cennino Cennini wrote Il Libro dell'Arte in c.1390 — the foundational handbook on painting that codified pigment preparation, brush technique, and craft method. Cennini is the surname (public-domain historical) and stands as the painting-craft lineage. & Co. closes it as a small heritage firm.",
+        "industrySummary": "Residential painting splits between franchise crews and small heritage firms. The opening is for a brand named on the canonical painting-craft handbook.",
+        "competitorLandscape": "Sherwin-Williams (sherwin-williams.com) is the paint reference. CertaPro Painters (certapro.com) holds the national-franchise peer. Five Star Painting (fivestarpainting.com) is the regional precedent. We sit closer to CertaPro in heritage posture.",
+        "positioningStatement": "A heritage residential painting firm grounded in the painting-craft handbook tradition.",
+        "targetAudience": {
+          "primary": "45 to 75. Heritage-home owner. Wants the paint prep done properly.",
+          "behaviors": [
+            "Books the painter months ahead",
+            "Asks about the prep and the primer",
+            "Repeats with the same firm"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the prep stages and the primer",
+            "Sign the work by the foreman",
+            "Photograph the surface before and after"
+          ],
+          "donts": [
+            "Use 'one coat' marketing",
+            "Hide the prep cost",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "A serif wordmark — CENNINI & CO. set in a quiet book serif with a long ampersand. A small mark: a brush in profile. Used on the truck and the work sheet.",
+        "colorPalette": [
+          {
+            "name": "Pigment Black",
+            "hex": "#161616",
+            "meaning": "Ground pigment.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Primed canvas.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ochre",
+            "hex": "#B07A30",
+            "meaning": "Heritage pigment accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A book serif for the wordmark",
+          "secondary": "A neutral grotesque for the spec sheet",
+          "rationale": "Serif for the heritage craft register. Grotesque for the spec."
+        }
+      },
+      {
+        "brandName": "Il Libro Painters",
+        "tagline": "Painting from the book.",
+        "brandNameRationale": "Il Libro dell'Arte is the title of Cennino Cennini's c.1390 painting handbook (in public domain). The brand names the book directly. Painters closes it as a working firm.",
+        "industrySummary": "Heritage painting firms need a register that signals the craft lineage. The opening is for a brand that names the book.",
+        "competitorLandscape": "Sherwin-Williams (sherwin-williams.com) is the paint reference. CertaPro Painters (certapro.com) holds the national-franchise peer. Five Star Painting (fivestarpainting.com) is the regional precedent. We sit closer to CertaPro in heritage posture.",
+        "positioningStatement": "A heritage residential painting firm named on the Libro tradition.",
+        "targetAudience": {
+          "primary": "45 to 75. Heritage-home owner. Wants the craft done with the handbook in mind.",
+          "behaviors": [
+            "Books months ahead",
+            "Asks about the primer and the pigment",
+            "Repeats with the same firm"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the prep stages",
+            "Sign the work by the foreman",
+            "Photograph the surface"
+          ],
+          "donts": [
+            "Use 'one coat' marketing",
+            "Hide the prep cost",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "A serif wordmark — IL LIBRO PAINTERS set in an editorial serif. A small mark: an open book with a brush across it.",
+        "colorPalette": [
+          {
+            "name": "Pigment Black",
+            "hex": "#161616",
+            "meaning": "Ground pigment.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Vermilion",
+            "hex": "#A8392A",
+            "meaning": "Heritage pigment.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial book serif for the wordmark",
+          "secondary": "A neutral grotesque for the spec sheet",
+          "rationale": "Serif for the heritage register. Grotesque for the spec."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Roller & Roo",
+        "tagline": "Roller out. Walls done.",
+        "brandNameRationale": "Roller is the paint tool; Roo is a kangaroo mascot for the bounce of a fresh coat. Two words, warm mascot register — friendly residential painter.",
+        "industrySummary": "Residential painting is mostly impersonal. The opening is for a friendly neighbourhood firm with a mascot.",
+        "competitorLandscape": "Sherwin-Williams (sherwin-williams.com) is the paint reference. CertaPro Painters (certapro.com) holds the national-franchise peer. Five Star Painting (fivestarpainting.com) is the regional precedent. We sit closer to CertaPro in friendly posture.",
+        "positioningStatement": "A friendly neighbourhood painter with a kangaroo mascot and a plain menu.",
+        "targetAudience": {
+          "primary": "30 to 55. Homeowner. Wants the painter to be friendly and on time.",
+          "behaviors": [
+            "Books with a neighbour's referral",
+            "Wants the price posted up front",
+            "Repeats every few years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Plain",
+          "Warm",
+          "Trade"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show Roo on the truck and the work sheet",
+            "List the prices clearly",
+            "Speak like a neighbour"
+          ],
+          "donts": [
+            "Use baby-talk in the copy",
+            "Run promotional pricing",
+            "Hide prices"
+          ]
+        },
+        "logoDirection": "A wordmark — ROLLER & ROO set in a warm geometric sans. A small line-drawn kangaroo with a roller sits beside.",
+        "colorPalette": [
+          {
+            "name": "Roo Brown",
+            "hex": "#7A5230",
+            "meaning": "Kangaroo fur.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Wall Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Wall page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Roller Red",
+            "hex": "#B8533A",
+            "meaning": "Roller sleeve.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A warm geometric sans for the wordmark",
+          "secondary": "Same family across signage",
+          "rationale": "One family. Pairs with the line-drawn mascot."
+        }
+      },
+      {
+        "brandName": "Brushy Bear",
+        "tagline": "Paint done warm.",
+        "brandNameRationale": "Brushy is the brush mascot adjective; Bear is the warm, steady mascot. Together: a friendly mascot-led painter.",
+        "industrySummary": "Residential painting needs a warm register for family homeowners. The opening is for a Bear-mascot brand.",
+        "competitorLandscape": "Sherwin-Williams (sherwin-williams.com) is the paint reference. CertaPro Painters (certapro.com) holds the national-franchise peer. Five Star Painting (fivestarpainting.com) is the regional precedent. We sit closer to CertaPro in friendly posture.",
+        "positioningStatement": "A friendly residential painter with a bear mascot.",
+        "targetAudience": {
+          "primary": "30 to 55. Family homeowner. Wants the painter friendly with kids and pets.",
+          "behaviors": [
+            "Books with a referral",
+            "Wants the schedule with the school pickup window",
+            "Repeats every few years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Warm",
+          "Plain",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the bear on the truck",
+            "List the prices clearly",
+            "Speak warmly"
+          ],
+          "donts": [
+            "Use baby-talk",
+            "Run promotional pricing",
+            "Hide prices"
+          ]
+        },
+        "logoDirection": "Brushy Bear set in a warm rounded grotesque. A small line-drawn bear with a brush sits beside.",
+        "colorPalette": [
+          {
+            "name": "Bear Brown",
+            "hex": "#7A5230",
+            "meaning": "Bear fur.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Wall Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Wall page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brush Gold",
+            "hex": "#E8B739",
+            "meaning": "Brush bristle.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A warm rounded grotesque for the wordmark",
+          "secondary": "Same family across signage",
+          "rationale": "One family. Pairs with the bear mascot."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,627 @@
+{
+  "industry": "ev-charging",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Voltgrid",
+        "tagline": "Charging built on the grid.",
+        "brandNameRationale": "Voltgrid compounds voltage and grid. Two syllables, tech-network register. Reads modern, infrastructural, and clear — the network the grid runs into.",
+        "industrySummary": "EV charging networks in 2025+ are differentiated by uptime, payment friction, and grid integration. The opening is for a modern operator with clean software, plain pricing, and visible grid-interconnect engineering.",
+        "competitorLandscape": "ChargePoint (chargepoint.com) holds the broad-network peer. EVgo (evgo.com) sits in the DC fast peer. Electrify America (electrifyamerica.com) is the high-mileage reference. We sit closer to ChargePoint in modern posture.",
+        "positioningStatement": "A modern DC fast charging network with clean software and grid-aware pricing.",
+        "targetAudience": {
+          "primary": "28 to 50. Drives an EV daily. Uses three charging apps. Wants to tap and charge, not subscribe.",
+          "behaviors": [
+            "Charges 1-2 times a week away from home",
+            "Pays with the column reader, not an app",
+            "Watches grid pricing in their utility app"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Clean",
+          "Engineered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show real-time kW and price",
+            "Publish station status on the map honestly",
+            "Default to tap-to-pay"
+          ],
+          "donts": [
+            "Require an app to start",
+            "Hide idle fees",
+            "Use 'smart' as a feature"
+          ]
+        },
+        "logoDirection": "Voltgrid set in a precise modern grotesque, lowercase, one word. A small mark: two horizontal grid lines crossed by a vertical bolt. Used as favicon and column glyph.",
+        "colorPalette": [
+          {
+            "name": "Grid Blue",
+            "hex": "#1F4FFF",
+            "meaning": "Live grid.",
+            "usage": "Wordmark, app primary"
+          },
+          {
+            "name": "Cable Black",
+            "hex": "#101012",
+            "meaning": "Structural.",
+            "usage": "Type, column body"
+          },
+          {
+            "name": "Concrete",
+            "hex": "#E8E6E2",
+            "meaning": "Site surface.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark, headlines, and app",
+          "secondary": "JetBrains Mono for kW, kWh, session data",
+          "rationale": "Inter scales clean across the column screen and app. Mono carries the live data."
+        }
+      },
+      {
+        "brandName": "Kilowatt Lane",
+        "tagline": "Charging by the lane.",
+        "brandNameRationale": "Kilowatt names the unit of charging power; Lane is the roadway metaphor and the literal pull-in stall at a station. Together the name compresses unit + place — modern, plain, and infrastructural.",
+        "industrySummary": "EV charging networks are increasingly judged on session speed and lane availability. The opening is for a network that names the lane as the product unit.",
+        "competitorLandscape": "Electrify America (electrifyamerica.com) is the high-speed reference. EVgo (evgo.com) sits in the DC fast peer. ChargePoint (chargepoint.com) holds the broad-network slot. We sit closer to Electrify America in posture.",
+        "positioningStatement": "A DC fast charging network organised around the lane as the product unit.",
+        "targetAudience": {
+          "primary": "30 to 55. Drives EV on highway corridors. Cares about kW delivered and queue time.",
+          "behaviors": [
+            "Reserves lanes in advance for road trips",
+            "Watches the kW curve during a session",
+            "Skips stations with broken lanes"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Infrastructural",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the lane number and the live kW",
+            "Publish lane uptime per station",
+            "Reserve a lane on the app"
+          ],
+          "donts": [
+            "Use 'station' as the unit",
+            "Hide queue length",
+            "Promote idle fees as features"
+          ]
+        },
+        "logoDirection": "Kilowatt Lane in a wide modern grotesque, two words, one line. A small mark: a stylised lane stripe terminating in a kilobolt. Used at the lane head.",
+        "colorPalette": [
+          {
+            "name": "Lane Yellow",
+            "hex": "#F4C13A",
+            "meaning": "Lane stripe.",
+            "usage": "Wordmark, lane head"
+          },
+          {
+            "name": "Asphalt",
+            "hex": "#1A1B1D",
+            "meaning": "Road.",
+            "usage": "Type, primary surfaces"
+          },
+          {
+            "name": "Concrete",
+            "hex": "#E8E6E2",
+            "meaning": "Bay surface.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for kW, kWh, lane numbers",
+          "rationale": "Söhne scales clean on the column screen. Mono for the live session data."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Meridian Charge",
+        "tagline": "Charging on the meridian.",
+        "brandNameRationale": "Meridian carries multiple premium registers — the navigator's line, the high-noon prestige, the editorial 'meridian of taste'. Charge follows in plain. Two words, one cadence — reads as a premium charging network across the corridor.",
+        "industrySummary": "Premium EV drivers want a charging stop that matches the car. The opening is for a network with editorial design, plain pricing, and a lounge at high-mileage stops.",
+        "competitorLandscape": "Tesla (tesla.com/supercharger) holds the integrated-premium peer. IONITY (ionity.eu) sits in the high-power European reference. Rivian Adventure Network (rivian.com) is the brand-built precedent. We sit alongside IONITY with an editorial register.",
+        "positioningStatement": "A premium charging network with editorial design and a lounge at each highway stop.",
+        "targetAudience": {
+          "primary": "40 to 65. Premium EV driver. Wants the station to match the car. Reads Monocle, drives a long-range EV.",
+          "behaviors": [
+            "Plans the long drive around premium stops",
+            "Uses the lounge for an hour",
+            "Pays without thinking about price"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Quiet",
+          "Premium",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the lounge and the column",
+            "Use restraint in the signage",
+            "Sign the visitor book"
+          ],
+          "donts": [
+            "Use loyalty points",
+            "Photograph the cars charging",
+            "Run discounted Tuesdays"
+          ]
+        },
+        "logoDirection": "A serif wordmark — MERIDIAN CHARGE set in a high-contrast editorial serif, tracked. A small horizon line beneath functions as the meridian mark. Used on the column, the lounge door, the menu.",
+        "colorPalette": [
+          {
+            "name": "Meridian Black",
+            "hex": "#0F1416",
+            "meaning": "Night sky on the line.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing, lounge"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Aged hardware.",
+            "usage": "Embossed details"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial serif (e.g., Canela)",
+          "secondary": "A modern grotesque for the column screen",
+          "rationale": "Canela sets the editorial tone in print and the lounge. Grotesque on the column."
+        }
+      },
+      {
+        "brandName": "Atlas & Ampere",
+        "tagline": "A premium charging network. Coast to coast.",
+        "brandNameRationale": "Atlas references the cartographer's collected maps and the long-distance posture; Ampere is the SI unit of electrical current. Pairing the map and the unit places the brand as a corridor-spanning premium network grounded in the electrical fundamentals.",
+        "industrySummary": "Premium EV charging is a small category. The opening is for a network with an editorial map and SI-precise unit language across the corridor.",
+        "competitorLandscape": "Tesla (tesla.com/supercharger) holds the integrated-premium peer. IONITY (ionity.eu) sits in the high-power European reference. Rivian Adventure Network (rivian.com) is the brand-built precedent. We sit alongside IONITY with an editorial register.",
+        "positioningStatement": "A premium long-corridor charging network grounded in the SI electrical unit register.",
+        "targetAudience": {
+          "primary": "40 to 65. Premium EV driver on long routes. Reads charging in amps, not in marketing.",
+          "behaviors": [
+            "Drives 800 km legs on the corridor",
+            "Notes the amperage of each session",
+            "Stays in the lounge for a coffee"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Premium",
+          "Precise",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the corridor map on heavy paper",
+            "Show kW and A on the column",
+            "Address the driver by surname in the lounge"
+          ],
+          "donts": [
+            "Run sales",
+            "Use 'smart' marketing",
+            "Photograph the cars only"
+          ]
+        },
+        "logoDirection": "A serif wordmark — ATLAS & AMPERE set in a high-contrast editorial serif with a long ampersand. A small ammeter dial mark sits to the left.",
+        "colorPalette": [
+          {
+            "name": "Atlas Navy",
+            "hex": "#152138",
+            "meaning": "Old map binding.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Page Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Map page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Dial face.",
+            "usage": "Accent, embossed details"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial serif (e.g., Canela)",
+          "secondary": "A modern grotesque for kW and ampere data",
+          "rationale": "Canela for the corridor map and lounge print. Grotesque for the column data."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Conduit & Co.",
+        "tagline": "Charging as electrical trade.",
+        "brandNameRationale": "Conduit is the electrical-trade term for the protective tubing that carries wiring. & Co. closes it as a small firm. Together: a charging network that names itself after the trade lineage it belongs to.",
+        "industrySummary": "EV charging is electrical-contractor work at heart — site survey, panel upgrade, conduit, terminations, commissioning. The opening is for a network that brands itself in the electrician trade tradition.",
+        "competitorLandscape": "ChargePoint (chargepoint.com) holds the broad-network peer. EVgo (evgo.com) sits in the DC fast peer. Wallbox (wallbox.com) is the home-installer reference. We sit closer to Wallbox in trade posture.",
+        "positioningStatement": "A charging network and installer operating in the electrical-trade tradition.",
+        "targetAudience": {
+          "primary": "35 to 60. Property owner or fleet operator needing chargers installed. Hires by trade reputation.",
+          "behaviors": [
+            "Hires electricians by referral",
+            "Reads the panel schedule before deciding",
+            "Wants the conduit run done once, properly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Direct",
+          "Reliable",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference NEC sections in the proposal",
+            "Show the panel diagram and the conduit run",
+            "Sign correspondence by the journeyman"
+          ],
+          "donts": [
+            "Use 'turnkey' marketing",
+            "Hide the load calc",
+            "Subcontract the panel work"
+          ]
+        },
+        "logoDirection": "A serif wordmark — CONDUIT & CO. set in a quiet trade serif with a long ampersand. A small mark: a conduit elbow seen in profile. Used on the truck and the panel sticker.",
+        "colorPalette": [
+          {
+            "name": "EMT Grey",
+            "hex": "#7E827E",
+            "meaning": "Galvanised conduit.",
+            "usage": "Wordmark, mark"
+          },
+          {
+            "name": "Trade Black",
+            "hex": "#161616",
+            "meaning": "Type.",
+            "usage": "Body"
+          },
+          {
+            "name": "Caution Yellow",
+            "hex": "#E8B739",
+            "meaning": "Live circuit.",
+            "usage": "Status, accent"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional trade serif for the wordmark",
+          "secondary": "A neutral grotesque for spec sheets",
+          "rationale": "Serif for the trade lineage. Grotesque for the spec data on the proposal."
+        }
+      },
+      {
+        "brandName": "The Charging Forge",
+        "tagline": "Charging built on the bench.",
+        "brandNameRationale": "Forge is the trade-shop metaphor — the place metal is shaped and the tools are made. The Charging Forge names a working shop that builds charging installations one site at a time.",
+        "industrySummary": "EV charging installations vary by site — panel age, parking layout, conduit run, ground conditions. The opening is for a network that names the bench, the install crew, and the trade-shop register.",
+        "competitorLandscape": "Wallbox (wallbox.com) holds the home-install peer. ChargePoint (chargepoint.com) sits in the broad-network reference. Qmerit (qmerit.com) is the installer-network precedent. We sit closer to Qmerit in trade posture.",
+        "positioningStatement": "A charging install shop building one site at a time, in the electrical-trade tradition.",
+        "targetAudience": {
+          "primary": "35 to 60. Property owner or small-fleet operator. Wants the install done by people who think on the bench.",
+          "behaviors": [
+            "Picks installers by reputation, not lowest bid",
+            "Asks to see the panel schedule before signing",
+            "Calls the crew foreman, not the sales rep"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Workshop",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the bench, the conduit, the panel",
+            "Sign the install by the lead electrician",
+            "Reference site-specific load constraints"
+          ],
+          "donts": [
+            "Use 'smart' as a selling point",
+            "Hide the install date estimate",
+            "Send a salesperson instead of the foreman"
+          ]
+        },
+        "logoDirection": "A wordmark — THE CHARGING FORGE in a heavy trade serif, two lines. A small hammer-and-cable mark sits above. Used on the truck, the site sign, the panel sticker.",
+        "colorPalette": [
+          {
+            "name": "Forge Black",
+            "hex": "#1A1A1A",
+            "meaning": "Anvil.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Hot Orange",
+            "hex": "#D85A1F",
+            "meaning": "Hot metal, live wire.",
+            "usage": "Accent, status"
+          },
+          {
+            "name": "Workshop Tan",
+            "hex": "#D9C9A7",
+            "meaning": "Bench paper.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "A heavy trade serif for the wordmark",
+          "secondary": "A neutral grotesque for spec sheets and invoices",
+          "rationale": "Serif for the trade-shop register. Grotesque for the working documents."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "J1772 Works",
+        "tagline": "The standard, well kept.",
+        "brandNameRationale": "J1772 is the SAE connector standard for AC EV charging in North America — the literal physical interface every non-Tesla EV uses. Works carries the heritage workshop register (Powell Works, Steinway Works) and signals the brand is a working operation, not a startup. The whole name reads as a charging network that knows the standards cold.",
+        "industrySummary": "EV charging in 2025+ is split between proprietary networks (Tesla, EVgo) and open-standard networks built on J1772 / CCS. There is a clear opening for a network that anchors itself in the SAE standard tradition — reliable, interoperable, plain.",
+        "competitorLandscape": "EVgo (evgo.com) holds the public-DC-fast slot. ChargePoint (chargepoint.com) sits in the broad-network peer tier. Electrify America (electrifyamerica.com) is the high-mileage standard reference. We sit closer to ChargePoint in posture, with a heritage register.",
+        "positioningStatement": "A J1772/CCS charging network operated by people who know the standards.",
+        "targetAudience": {
+          "primary": "30 to 55. Drives a non-Tesla EV. Plans routes around chargers. Reads SAE specs. Tired of broken stations.",
+          "behaviors": [
+            "Plans charging stops two days ahead",
+            "Logs station reliability in a notes app",
+            "Carries a Type 2 adapter in the glovebox"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Standards-led",
+          "Reliable",
+          "Trade",
+          "Plain"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the connector type clearly",
+            "Publish station uptime monthly",
+            "Print the SAE reference on the column"
+          ],
+          "donts": [
+            "Use 'supercharger' language",
+            "Photograph the cars, not the stations",
+            "Run a points program"
+          ]
+        },
+        "logoDirection": "A wordmark — J1772 WORKS in a tight engineering grotesk, all caps. A small mark to the left: a stylized J1772 connector outline reduced to three pins. Used on the column, the receipt, the app.",
+        "colorPalette": [
+          {
+            "name": "Cable Black",
+            "hex": "#1C1F22",
+            "meaning": "Charging cable.",
+            "usage": "Wordmark, column body"
+          },
+          {
+            "name": "Standard White",
+            "hex": "#F2F2EF",
+            "meaning": "Reference page.",
+            "usage": "Backgrounds, signage"
+          },
+          {
+            "name": "SAE Yellow",
+            "hex": "#E8B739",
+            "meaning": "Live circuit.",
+            "usage": "Status lights, accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for kWh, kW, session data",
+          "rationale": "One family. Mono carries the live charging data; the regular carries the brand."
+        }
+      },
+      {
+        "brandName": "Type Two Trust",
+        "tagline": "A reliable charging network. Type 2 connector.",
+        "brandNameRationale": "Type 2 is the Mennekes connector — the European AC standard, also used on many DC stations via CCS Combo 2. Trust is a heritage public-utility suffix (water trust, harbour trust). The name reads as an old infrastructure firm operating on a well-known standard.",
+        "industrySummary": "European EV charging is dominated by IONITY, Fastned, and BP Pulse. There is room for a quieter operator that competes on uptime, plain pricing, and the Type 2 / CCS Combo 2 standard.",
+        "competitorLandscape": "Fastned (fastned.nl) holds the highway DC peer. IONITY (ionity.eu) sits in the high-power Combo 2 reference. Allego (allego.eu) is the broad-network precedent. We sit closer to Fastned in posture.",
+        "positioningStatement": "A Type 2 / CCS Combo 2 charging trust operating across highway corridors.",
+        "targetAudience": {
+          "primary": "30 to 60. Drives an EV across borders. Wants the price per kWh on the screen, not in the app. Reads charging maps in advance.",
+          "behaviors": [
+            "Plans long-distance EV trips weekly",
+            "Compares per-kWh prices across operators",
+            "Carries CCS and Type 2 cables"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Standards-led",
+          "Public-utility",
+          "Plain",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the price per kWh on the column",
+            "Publish uptime by station every month",
+            "Speak in plain kW and minutes"
+          ],
+          "donts": [
+            "Run loyalty programs",
+            "Mark up idle fees opaquely",
+            "Use 'smart' marketing"
+          ]
+        },
+        "logoDirection": "A serif wordmark — TYPE TWO TRUST in a quiet book serif, three lines. A small Type 2 connector outline reduced to seven pins sits to the left, used on the column and the app icon.",
+        "colorPalette": [
+          {
+            "name": "Trust Navy",
+            "hex": "#1A2A3A",
+            "meaning": "Civic utility.",
+            "usage": "Wordmark, column"
+          },
+          {
+            "name": "Corridor White",
+            "hex": "#F2EFE6",
+            "meaning": "Highway page.",
+            "usage": "Signage backgrounds"
+          },
+          {
+            "name": "Live Green",
+            "hex": "#3E8E5A",
+            "meaning": "Active session.",
+            "usage": "Status, accent"
+          }
+        ],
+        "typography": {
+          "primary": "A book serif for the wordmark and signage",
+          "secondary": "A neutral grotesque for kW, minutes, prices",
+          "rationale": "Serif for the trust register. Grotesque for the data on the column."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Bolt & Badger",
+        "tagline": "Charging with a steady badger.",
+        "brandNameRationale": "Bolt names the electric current and the moment of charge; Badger is a sturdy, no-nonsense mascot (the badger digs in and stays). Together: a friendly charging network with a working-animal mascot.",
+        "industrySummary": "EV charging networks have under-invested in approachable consumer experience. The opening is for a network with a clear mascot, plain pricing, and friendly column signage.",
+        "competitorLandscape": "ChargePoint (chargepoint.com) holds the broad-network peer. EVgo (evgo.com) sits in the DC fast peer. Blink Charging (blinkcharging.com) is the mascot precedent. We sit closer to Blink in posture.",
+        "positioningStatement": "A friendly charging network with a badger mascot, plain pricing, and clear column signage.",
+        "targetAudience": {
+          "primary": "28 to 50. Family EV driver. Wants the charge to start without a fight. Likes a mascot that doesn't condescend.",
+          "behaviors": [
+            "Charges with kids in the car",
+            "Wants pictograms on the column, not text walls",
+            "Repeats stations they trust"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Steady",
+          "Plain",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the badger on the column",
+            "Use plain words for kW, minutes, price",
+            "Speak like a station attendant"
+          ],
+          "donts": [
+            "Use cute baby-talk",
+            "Hide the price behind an app",
+            "Anthropomorphise the cars"
+          ]
+        },
+        "logoDirection": "Bolt & Badger set in a friendly geometric sans. A small line-drawn badger holding a charging cable sits beside the wordmark. The badger alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Badger Brown",
+            "hex": "#5C432A",
+            "meaning": "Mascot fur.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Bolt Yellow",
+            "hex": "#F2C73A",
+            "meaning": "Live charge.",
+            "usage": "Status, highlights"
+          },
+          {
+            "name": "Snow",
+            "hex": "#F4F2EC",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cable Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and column screens",
+          "secondary": "Inter Mono for the kW and session data",
+          "rationale": "Friendly grotesque pairs with the line-drawn mascot. Mono for the data on the column."
+        }
+      },
+      {
+        "brandName": "Buzzhound",
+        "tagline": "A friendly charging network. Pull in.",
+        "brandNameRationale": "Buzz names the live current hum; Hound is the loyal-mascot animal. Together: a charging network with a hound mascot — warm, present, dependable. Single compound word, easy to say.",
+        "industrySummary": "Public chargers feel cold. There is room for a network that feels like a friendly stop with a mascot at the door.",
+        "competitorLandscape": "ChargePoint (chargepoint.com) holds the broad-network peer. EVgo (evgo.com) sits in the DC fast peer. Blink Charging (blinkcharging.com) is the mascot precedent. We sit closer to Blink in posture.",
+        "positioningStatement": "A welcoming DC fast charging network with a hound mascot and plain operations.",
+        "targetAudience": {
+          "primary": "25 to 50. EV driver who stops at the station. Wants the column to greet them, not gate them.",
+          "behaviors": [
+            "Treats the charging stop as a break",
+            "Repeats stations they like",
+            "Tips the attendant if there is one"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Friendly",
+          "Steady",
+          "Plain"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Greet the driver on the column",
+            "Show the price and time plainly",
+            "Hand-letter the lane signs"
+          ],
+          "donts": [
+            "Run gamified loyalty points",
+            "Hide idle fees",
+            "Photograph the cars only"
+          ]
+        },
+        "logoDirection": "Buzzhound set in a warm rounded grotesque, lowercase. A small hound silhouette with a charging cable in its mouth sits beside the wordmark. The hound alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Hound Tan",
+            "hex": "#B98A4E",
+            "meaning": "Hound coat.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Buzz Yellow",
+            "hex": "#F2D040",
+            "meaning": "Live current.",
+            "usage": "Status lights"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Warm page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A warm rounded grotesque (e.g., Söhne Breit)",
+          "secondary": "A grotesque mono for the session data",
+          "rationale": "Warm grotesque sets the friendly register. Mono for kW and minutes on the column."
+        }
+      }
+    ]
+  }
+}

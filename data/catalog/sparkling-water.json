@@ -1,0 +1,915 @@
+{
+  "industry": "sparkling-water",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Source & Bead",
+        "tagline": "Spring and bubble.",
+        "brandNameRationale": "Anchor: source (the spring) + bead (the connoisseur's term for bubble). Picked from A's three for the strongest paired-attribute modern anchor.",
+        "industrySummary": "Modern sparkling-water brands — Liquid Death, Spindrift — sit in a fast-growing craft niche. The opening is a source-and-bead modern brand.",
+        "competitorLandscape": "Liquid Death (liquiddeath.com) plays the modern sparkling peer. Spindrift (drinkspindrift.com) holds the flavored middle. Topo Chico (topochico.com) is the heritage reference. We sit as a source-and-bead modern brand.",
+        "positioningStatement": "Source & Bead is a modern sparkling-water brand named for the spring source and the bubble bead.",
+        "targetAudience": {
+          "primary": "Sparkling-water drinkers 25–45 who care about the source and the bead.",
+          "behaviors": [
+            "Read the label",
+            "Care about the spring source",
+            "Skip sugar"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Source-honest",
+          "Direct",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the spring source",
+            "Print the bead size on the label",
+            "Show the label plainly"
+          ],
+          "donts": [
+            "Use 'natural' as a category",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: SOURCE & BEAD in a tight modern grotesk, one line. A small mark — a single bubble silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Spring White",
+            "hex": "#F4F8FB",
+            "meaning": "Spring water.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bead Blue",
+            "hex": "#3A7BB0",
+            "meaning": "Bubble blue.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for label specs",
+          "rationale": "A modern grotesk plus a mono — the source-label register."
+        }
+      },
+      {
+        "brandName": "Bubblesize",
+        "tagline": "The connoisseur's attribute.",
+        "brandNameRationale": "Anchor: bubble size — the technical attribute connoisseurs argue over. Picked from A's three for the cleanest technical-modern anchor.",
+        "industrySummary": "Modern sparkling-water brands with a technical register sit in a real craft niche. The opening is a bubble-size modern brand.",
+        "competitorLandscape": "Liquid Death (liquiddeath.com) plays the modern sparkling peer. Spindrift (drinkspindrift.com) holds the flavored middle. Topo Chico (topochico.com) is the heritage reference. We sit as a bubble-size technical modern brand.",
+        "positioningStatement": "Bubblesize is a modern sparkling-water brand named for the connoisseur's bubble-size attribute.",
+        "targetAudience": {
+          "primary": "Sparkling-water connoisseurs 28–45 who care about bubble size.",
+          "behaviors": [
+            "Read the bubble spec",
+            "Care about the bead",
+            "Skip sugar"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Technical",
+          "Direct",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the bubble size",
+            "Name the source",
+            "Show the label plainly"
+          ],
+          "donts": [
+            "Use 'natural' as a category",
+            "Photograph against marble",
+            "Hide the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: BUBBLESIZE in a tight modern grotesk, one word. A small mark — a small-bead silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Spring White",
+            "hex": "#F4F8FB",
+            "meaning": "Spring water.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bead Blue",
+            "hex": "#3A7BB0",
+            "meaning": "Bubble blue.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for label specs",
+          "rationale": "A quiet grotesk plus a mono — the technical-label register."
+        }
+      },
+      {
+        "brandName": "Carbonate Co.",
+        "tagline": "The gas, named.",
+        "brandNameRationale": "Anchor: carbonate — the gas that defines sparkling water. Picked from A's three for the cleanest lab-modern anchor.",
+        "industrySummary": "Lab-clean modern sparkling-water brands sit in a real craft niche. The opening is a carbonate-named modern brand.",
+        "competitorLandscape": "Liquid Death (liquiddeath.com) plays the modern sparkling peer. Spindrift (drinkspindrift.com) holds the flavored middle. Topo Chico (topochico.com) is the heritage reference. We sit as a carbonate-named modern brand.",
+        "positioningStatement": "Carbonate Co. is a modern sparkling-water brand named for the gas that defines the category.",
+        "targetAudience": {
+          "primary": "Sparkling-water drinkers 25–45.",
+          "behaviors": [
+            "Read the label",
+            "Care about carbonation level",
+            "Skip sugar"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Lab-clean",
+          "Direct",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the carbonation level",
+            "Print the source plainly",
+            "Show the label plainly"
+          ],
+          "donts": [
+            "Use 'natural' as a category",
+            "Photograph against marble",
+            "Hide the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: CARBONATE CO. in a tight modern grotesk, one line. A small mark — a small CO₂ glyph — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Spring White",
+            "hex": "#F4F8FB",
+            "meaning": "Spring water.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bead Blue",
+            "hex": "#3A7BB0",
+            "meaning": "Bubble blue.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter Mono for label specs",
+          "rationale": "One family, two registers — the lab-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison de la Source",
+        "tagline": "House of the spring.",
+        "brandNameRationale": "Anchor: 'house of the spring' — couture sparkling water in French register. Picked from A's three for the strongest French-luxury anchor.",
+        "industrySummary": "Couture sparkling-water houses — Voss, Acqua Panna's premium tier — sit at the top of the luxury water market. The opening is a maison-de-la-source brand.",
+        "competitorLandscape": "Voss (vosswater.com) plays the luxury water peer. Acqua Panna (acquapanna.com) holds the heritage middle. Saratoga Spring (saratogaspringwater.com) is the heritage reference. We sit as a maison-de-la-source couture brand.",
+        "positioningStatement": "Maison de la Source is a luxury sparkling-water house in the French spring-house tradition.",
+        "targetAudience": {
+          "primary": "UHNW beverage buyers, top restaurants, and luxury hotels.",
+          "behaviors": [
+            "Order by the case",
+            "Care about the spring source",
+            "Pay premium per bottle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "French",
+          "Refined",
+          "Source-rooted"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the spring plainly",
+            "Print the source protocol",
+            "Photograph the spring"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON DE LA SOURCE in a refined French serif, two lines centered. A small mark — a single spring-flow silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Spring Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Source Blue",
+            "hex": "#1F4F7A",
+            "meaning": "Deep spring.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the French-maison register."
+        }
+      },
+      {
+        "brandName": "Vichy Hauteville",
+        "tagline": "Spring-named luxury water.",
+        "brandNameRationale": "Anchor: invented spring name in the Vichy register (Vichy is a famed mineral-water town). Picked from A's three for the strongest invented-spring luxury anchor. Note: Vichy is a geographic origin term — screen for PGI/AOC.",
+        "industrySummary": "Vichy-tradition luxury mineral-water brands sit at the top of the luxury market. The opening is an invented-spring Vichy brand.",
+        "competitorLandscape": "Vichy Catalan (vichycatalan.com) plays the heritage Vichy peer. Acqua Panna (acquapanna.com) holds the heritage middle. Saratoga Spring (saratogaspringwater.com) is the heritage reference. We sit as an invented-spring Vichy brand.",
+        "positioningStatement": "Vichy Hauteville is a luxury sparkling-water brand built on an invented spring in the Vichy tradition.",
+        "targetAudience": {
+          "primary": "UHNW beverage buyers, top restaurants, and luxury hotels.",
+          "behaviors": [
+            "Order by the case",
+            "Care about the mineral profile",
+            "Pay premium per bottle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Heritage",
+          "Refined",
+          "Source-rooted"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the mineral profile",
+            "Name the Vichy tradition",
+            "Photograph the spring"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: VICHY HAUTEVILLE in a refined French serif, two lines centered. A small mark — a single spring-flow silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Spring Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Source Blue",
+            "hex": "#1F4F7A",
+            "meaning": "Deep spring.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the Vichy-luxury register."
+        }
+      },
+      {
+        "brandName": "Hauteville & Co.",
+        "tagline": "Old-world spring water.",
+        "brandNameRationale": "Anchor: invented spring-town name + 'and company' — old-world prestige luxury. Picked as the third luxury option (replacing 'Geneva 1783', since Schweppes is an active TM).",
+        "industrySummary": "Old-world spring-water houses sit at the top of the luxury water market. The opening is a Hauteville-named luxury brand.",
+        "competitorLandscape": "Voss (vosswater.com) plays the luxury water peer. Acqua Panna (acquapanna.com) holds the heritage middle. Saratoga Spring (saratogaspringwater.com) is the heritage reference. We sit as an invented spring-town luxury brand.",
+        "positioningStatement": "Hauteville & Co. is a luxury sparkling-water house built on an invented old-world spring town.",
+        "targetAudience": {
+          "primary": "UHNW beverage buyers, top restaurants, and luxury hotels.",
+          "behaviors": [
+            "Order by the case",
+            "Care about the spring source",
+            "Pay premium per bottle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Old-world",
+          "Refined",
+          "Source-rooted"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the source protocol",
+            "Name the spring plainly",
+            "Photograph the spring"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: HAUTEVILLE & CO. in a refined French serif, two lines centered. A small mark — a serif H monogram — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Spring Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Source Blue",
+            "hex": "#1F4F7A",
+            "meaning": "Deep spring.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the old-world spring register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Bead",
+        "tagline": "The connoisseur's word.",
+        "brandNameRationale": "Anchor: bead — the connoisseur's term for the sparkling-water bubble. Single-word minimal mark. Picked from A's three for the cleanest connoisseur-minimal anchor.",
+        "industrySummary": "Single-word minimal sparkling-water brands sit cleanly in the craft niche. Bead names the bubble.",
+        "competitorLandscape": "Liquid Death (liquiddeath.com) plays the modern sparkling peer. Spindrift (drinkspindrift.com) holds the flavored middle. Topo Chico (topochico.com) is the heritage reference. We sit as a single-word minimal brand.",
+        "positioningStatement": "Bead is a minimal sparkling-water brand named for the connoisseur's term for the bubble.",
+        "targetAudience": {
+          "primary": "Sparkling-water drinkers 25–45.",
+          "behaviors": [
+            "Read the label",
+            "Care about the bubble",
+            "Skip sugar"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the bubble plainly",
+            "Show the label plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'natural' anywhere",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: BEAD set large in a clean modern sans, one word, four letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Spring White",
+            "hex": "#F4F8FB",
+            "meaning": "Spring water.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bead Blue",
+            "hex": "#3A7BB0",
+            "meaning": "Bubble blue.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for label specs",
+          "rationale": "One family, two registers — the bead-minimal register."
+        }
+      },
+      {
+        "brandName": "Source.",
+        "tagline": "The origin.",
+        "brandNameRationale": "Anchor: source — the origin of the water. Period-locked single-word minimal mark. Picked from A's three for the cleanest origin-minimal anchor.",
+        "industrySummary": "Single-word minimal sparkling-water brands sit cleanly in the craft niche. Source. names the origin.",
+        "competitorLandscape": "Liquid Death (liquiddeath.com) plays the modern sparkling peer. Spindrift (drinkspindrift.com) holds the flavored middle. Topo Chico (topochico.com) is the heritage reference. We sit as a period-locked minimal brand.",
+        "positioningStatement": "Source. is a minimal sparkling-water brand named for the origin spring.",
+        "targetAudience": {
+          "primary": "Sparkling-water drinkers 25–45.",
+          "behaviors": [
+            "Read the label",
+            "Care about the spring source",
+            "Skip sugar"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the source plainly",
+            "Show the label plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'natural' anywhere",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: source. set large in a clean humanist sans, lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Spring White",
+            "hex": "#F4F8FB",
+            "meaning": "Spring water.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bead Blue",
+            "hex": "#3A7BB0",
+            "meaning": "Bubble blue.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for label specs",
+          "rationale": "One family, two registers — the source-minimal register."
+        }
+      },
+      {
+        "brandName": "Fizz",
+        "tagline": "Three letters.",
+        "brandNameRationale": "Anchor: fizz — the sparkling onomatopoeia. Three-letter minimal mark. Picked from A's three for the cleanest three-letter minimal anchor.",
+        "industrySummary": "Three-letter minimal sparkling-water brands sit cleanly in the craft niche. Fizz names the sound.",
+        "competitorLandscape": "Liquid Death (liquiddeath.com) plays the modern sparkling peer. Spindrift (drinkspindrift.com) holds the flavored middle. Topo Chico (topochico.com) is the heritage reference. We sit as a three-letter minimal brand.",
+        "positioningStatement": "Fizz is a minimal sparkling-water brand named for the sparkling sound.",
+        "targetAudience": {
+          "primary": "Sparkling-water drinkers 25–45.",
+          "behaviors": [
+            "Read the label",
+            "Care about the bubble",
+            "Skip sugar"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the fizz plainly",
+            "Show the label plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'natural' anywhere",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: FIZZ set large in a clean modern sans, one word, four letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Spring White",
+            "hex": "#F4F8FB",
+            "meaning": "Spring water.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bead Blue",
+            "hex": "#3A7BB0",
+            "meaning": "Bubble blue.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the fizz-minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Aquae Partners",
+        "tagline": "Beverage parent.",
+        "brandNameRationale": "Anchor: Latin aquae (plural 'waters') + corporate partners. Picked from A's three for the strongest Latin-corporate anchor.",
+        "industrySummary": "Beverage holding companies — multi-brand water operators — sit at the top of the beverage-corporate market. The opening is an Aquae-named multi-brand parent.",
+        "competitorLandscape": "Nestlé Waters (nestle-waters.com) plays the multi-brand water peer. Danone Waters (danone.com) holds the multi-brand middle. Primo Water (primowater.com) is the multi-brand reference. We sit as an Aquae-named multi-brand parent.",
+        "positioningStatement": "Aquae Partners is a multi-brand sparkling-water corporate parent across water houses.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare water vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single bottle",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: AQUAE PARTNERS in a clean institutional serif, two lines. A small mark — a serif A monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Source Blue",
+            "hex": "#1F4F7A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the Aquae-corporate register."
+        }
+      },
+      {
+        "brandName": "Carbonis Group",
+        "tagline": "Bottler umbrella.",
+        "brandNameRationale": "Anchor: Latin carbo — corporate umbrella for a bottler/distributor. Picked from A's three for the strongest bottler-corporate anchor.",
+        "industrySummary": "Bottler holding companies — multi-brand sparkling-water operators — sit at the top of the sparkling-corporate market. The opening is a Carbonis-named multi-brand bottler.",
+        "competitorLandscape": "Nestlé Waters (nestle-waters.com) plays the multi-brand water peer. Danone Waters (danone.com) holds the multi-brand middle. Primo Water (primowater.com) is the multi-brand reference. We sit as a Carbonis-named multi-brand bottler.",
+        "positioningStatement": "Carbonis Group is a multi-brand sparkling-water bottler corporate operator.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare bottler vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Latin-leaning"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single bottle",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: CARBONIS GROUP in a clean institutional serif, two lines. A small mark — a serif C monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Source Blue",
+            "hex": "#1F4F7A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A classical serif plus a clean grotesk — the Carbonis-corporate register."
+        }
+      },
+      {
+        "brandName": "Spring Holdings",
+        "tagline": "Water-source parent.",
+        "brandNameRationale": "Anchor: 'spring' — the source — applied as a holding-company register. Picked from A's three for the cleanest industry-term corporate anchor.",
+        "industrySummary": "Spring-named holding companies sit in a real institutional space. The opening is a spring-named multi-brand parent.",
+        "competitorLandscape": "Nestlé Waters (nestle-waters.com) plays the multi-brand water peer. Danone Waters (danone.com) holds the multi-brand middle. Primo Water (primowater.com) is the multi-brand reference. We sit as a Spring-named multi-brand parent.",
+        "positioningStatement": "Spring Holdings is a multi-brand sparkling-water corporate parent rooted in the spring-source register.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare water vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Source-rooted"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single bottle",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: SPRING HOLDINGS in a clean institutional serif, two lines. A small mark — a serif S monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Source Blue",
+            "hex": "#1F4F7A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the spring-corporate register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Bead & Spring",
+        "tagline": "Bubble and source.",
+        "brandNameRationale": "Anchor: bead (the bubble) + spring (the source) — pairs the connoisseur's two craft attributes. Picked from A's three for the strongest paired-attribute craft anchor.",
+        "industrySummary": "Paired-attribute editorial sparkling-water brands sit at the creative top. The opening is a bead-and-spring editorial brand.",
+        "competitorLandscape": "Liquid Death (liquiddeath.com) plays the editorial sparkling peer. Topo Chico (topochico.com) holds the heritage middle. Mountain Valley (mountainvalleyspring.com) is the spring reference. We sit as a paired-attribute editorial brand.",
+        "positioningStatement": "Bead & Spring is a creative sparkling-water brand pairing the bubble and the spring source.",
+        "targetAudience": {
+          "primary": "Editorial sparkling-water drinkers 28–45.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the bead and the spring",
+            "Subscribe to the case"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Craft",
+          "Source-rooted",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the source story",
+            "Print the bead-and-spring journal",
+            "Photograph the spring"
+          ],
+          "donts": [
+            "Use 'natural' as a category",
+            "Photograph against marble",
+            "Skip the source"
+          ]
+        },
+        "logoDirection": "Wordmark: BEAD & SPRING in a confident editorial serif, one line. A small mark — a paired bead-and-spring silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Source Blue",
+            "hex": "#1F4F7A",
+            "meaning": "Deep spring.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the bead-and-spring editorial register."
+        }
+      },
+      {
+        "brandName": "The Small Bubble",
+        "tagline": "Connoisseur's preferred bead.",
+        "brandNameRationale": "Anchor: the small bubble — connoisseurs prefer small bubbles. Picked from A's three for the strongest connoisseur-editorial anchor.",
+        "industrySummary": "Connoisseur-named editorial sparkling-water brands sit at the creative top. The opening is a small-bubble editorial brand.",
+        "competitorLandscape": "Liquid Death (liquiddeath.com) plays the editorial sparkling peer. Topo Chico (topochico.com) holds the heritage middle. Mountain Valley (mountainvalleyspring.com) is the spring reference. We sit as a small-bubble editorial brand.",
+        "positioningStatement": "The Small Bubble is an editorial sparkling-water brand named for the connoisseur's preferred bead.",
+        "targetAudience": {
+          "primary": "Editorial sparkling-water connoisseurs 28–45.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the bubble size",
+            "Subscribe to the case"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Connoisseur",
+          "Source-rooted",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the bubble spec plainly",
+            "Lead with the bead photograph",
+            "Reference the spring"
+          ],
+          "donts": [
+            "Use 'natural' as a category",
+            "Photograph against marble",
+            "Skip the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: THE SMALL BUBBLE in a confident editorial serif, two lines. A small mark — a single small-bead silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Source Blue",
+            "hex": "#1F4F7A",
+            "meaning": "Deep spring.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and journal",
+          "rationale": "A high-contrast serif plus a reading serif — the small-bubble editorial register."
+        }
+      },
+      {
+        "brandName": "The Spring Notebook",
+        "tagline": "Source-journal sparkling.",
+        "brandNameRationale": "Anchor: a spring-source journal — editorial storytelling sparkling-water brand. Picked as the third creative option (replacing 'Schweppe's Workshop', since Schweppes is an active TM).",
+        "industrySummary": "Source-journal editorial sparkling-water brands sit at the creative top. The opening is a spring-notebook editorial brand.",
+        "competitorLandscape": "Liquid Death (liquiddeath.com) plays the editorial sparkling peer. Topo Chico (topochico.com) holds the heritage middle. Mountain Valley (mountainvalleyspring.com) is the spring reference. We sit as a spring-notebook editorial brand.",
+        "positioningStatement": "The Spring Notebook is an editorial sparkling-water brand built on a source-journal program.",
+        "targetAudience": {
+          "primary": "Editorial sparkling-water connoisseurs 28–45.",
+          "behaviors": [
+            "Subscribe to the journal",
+            "Care about the spring source",
+            "Read the brand notes"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Source-rooted",
+          "Patient",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the spring journal seasonally",
+            "Photograph the spring",
+            "Name the source plainly"
+          ],
+          "donts": [
+            "Use 'natural' as a category",
+            "Photograph against marble",
+            "Skip the journal"
+          ]
+        },
+        "logoDirection": "Wordmark: THE SPRING NOTEBOOK in a confident editorial serif, three lines centered. A small mark — a single spring-flow silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Notebook Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Notebook stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Source Blue",
+            "hex": "#1F4F7A",
+            "meaning": "Deep spring.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the spring-notebook editorial register."
+        }
+      }
+    ]
+  }
+}

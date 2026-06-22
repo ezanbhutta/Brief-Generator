@@ -1,0 +1,627 @@
+{
+  "industry": "gutter-cleaning",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Flowline Roofworks",
+        "tagline": "Gutters cleared. Flow restored.",
+        "brandNameRationale": "Flowline names the water path off the roof; Roofworks closes it as a working firm. Modern compound, infrastructural register — reads as a clean-software-and-trade gutter firm.",
+        "industrySummary": "Gutter cleaning is increasingly tech-enabled (drones, online booking, route optimisation). The opening is for a modern brand that names the flow and the works.",
+        "competitorLandscape": "LeafFilter (leaffilter.com) holds the national-franchise peer. Gutter Helmet (gutterhelmet.com) sits in the leaf-guard reference. Ned Stevens (nedstevens.com) is the regional precedent. We sit closer to Ned Stevens in modern posture.",
+        "positioningStatement": "A modern gutter and roof-flow firm with online booking and clean reporting.",
+        "targetAudience": {
+          "primary": "30 to 55. Homeowner. Wants to book online and see the photos.",
+          "behaviors": [
+            "Books online",
+            "Wants the before/after photos",
+            "Repeats annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Clean",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the eave before and after",
+            "Send the report by email",
+            "Book online with plain pricing"
+          ],
+          "donts": [
+            "Use scare-marketing",
+            "Hide prices behind 'free estimate' calls",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "Flowline Roofworks set in a precise modern grotesque, two words, one line. A small mark: water flow line from gutter to downspout. Used on the truck and the email report.",
+        "colorPalette": [
+          {
+            "name": "Flow Blue",
+            "hex": "#2A6DB8",
+            "meaning": "Water flow.",
+            "usage": "Wordmark, accent"
+          },
+          {
+            "name": "Sky White",
+            "hex": "#F2F2EF",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and reports",
+          "secondary": "Inter Mono for measurements and prices",
+          "rationale": "Inter scales clean across the report. Mono for the data."
+        }
+      },
+      {
+        "brandName": "Gutterscan",
+        "tagline": "Drone-inspected. Cleared.",
+        "brandNameRationale": "Gutterscan compounds gutter + scan, naming the drone-inspection method that has become standard on multi-storey houses. One word, tech register — reads as a modern firm that inspects before cleaning.",
+        "industrySummary": "Drone inspection is increasingly standard for gutter work. The opening is for a brand that names the scan.",
+        "competitorLandscape": "LeafFilter (leaffilter.com) holds the national-franchise peer. Gutter Helmet (gutterhelmet.com) sits in the leaf-guard reference. Ned Stevens (nedstevens.com) is the regional precedent. We sit closer to Ned Stevens in modern posture.",
+        "positioningStatement": "A modern gutter firm that drone-inspects, photographs, and clears.",
+        "targetAudience": {
+          "primary": "32 to 55. Multi-storey homeowner. Wants the inspection report.",
+          "behaviors": [
+            "Books the inspection first",
+            "Reads the drone report carefully",
+            "Decides on cleaning based on the scan"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Tech-led",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Send the drone report with photos and notes",
+            "Quote based on the scan",
+            "Default to plain reporting"
+          ],
+          "donts": [
+            "Use scare-marketing in the report",
+            "Hide the scan fee",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "Gutterscan set in a precise modern grotesque, lowercase. A small drone-icon mark sits to the left. Used on the truck and the report.",
+        "colorPalette": [
+          {
+            "name": "Scan Blue",
+            "hex": "#1F4FFF",
+            "meaning": "Scan accent.",
+            "usage": "Wordmark, accent"
+          },
+          {
+            "name": "Page White",
+            "hex": "#F4F4F2",
+            "meaning": "Report page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#101012",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A modern grotesque (e.g., Söhne) for the wordmark",
+          "secondary": "A grotesque mono for the inspection data",
+          "rationale": "Grotesque scales clean. Mono for the scan data on the report."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Eaves & Editorial",
+        "tagline": "Roof line care.",
+        "brandNameRationale": "Eaves are the architectural element overhanging the wall; Editorial places the brand in the editorial-prestige register. The whole name claims gutter work as architectural care.",
+        "industrySummary": "Heritage and architect-designed homes need gutter care that respects the eaves and the roofline. The opening is for an editorial-prestige brand.",
+        "competitorLandscape": "Heritage Gutters (heritagegutters.com) holds the heritage peer. Classic Gutters Systems (classicgutters.com) sits in the architectural reference. Park City Rain Gutter (parkcityraingutter.com) is the regional precedent. We sit alongside Heritage Gutters with an editorial register.",
+        "positioningStatement": "A premium heritage gutter house caring for architectural rooflines.",
+        "targetAudience": {
+          "primary": "50 to 75. Architect-designed or heritage home owner. Wants the eave respected.",
+          "behaviors": [
+            "Books the annual care",
+            "Wants the work photographed in detail",
+            "Pays for the multi-day service"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Heritage",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the eave and the roof line",
+            "Reference the architectural style",
+            "Sign the work by the foreman"
+          ],
+          "donts": [
+            "Run promotional pricing",
+            "Use scare-marketing",
+            "Photograph the trucks only"
+          ]
+        },
+        "logoDirection": "A serif wordmark — EAVES & EDITORIAL set in a high-contrast editorial serif. A small mark: the eave seen in profile. Used on the work folder and the brass plate.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Slate roof.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing"
+          },
+          {
+            "name": "Copper",
+            "hex": "#8E5A2A",
+            "meaning": "Aged copper accent.",
+            "usage": "Embossed details"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial serif (e.g., Canela)",
+          "secondary": "A grotesque for the work folder data",
+          "rationale": "Canela for the editorial register. Grotesque for the work data."
+        }
+      },
+      {
+        "brandName": "Copperline Roofworks",
+        "tagline": "Copper gutters cared for.",
+        "brandNameRationale": "Copper gutters are the premium gutter material — they age to a green patina, last a century, and signal heritage. Copperline names the run of copper across the eave; Roofworks closes it as a working firm.",
+        "industrySummary": "Copper gutters are the heritage premium standard. The opening is for a firm that names copper as the practice.",
+        "competitorLandscape": "Heritage Gutters (heritagegutters.com) holds the heritage peer. Classic Gutters Systems (classicgutters.com) sits in the architectural reference. Park City Rain Gutter (parkcityraingutter.com) is the regional precedent. We sit alongside Heritage Gutters with a copper register.",
+        "positioningStatement": "A premium copper-gutter house — install, clean, and patina care.",
+        "targetAudience": {
+          "primary": "50 to 75. Heritage home owner with copper gutters. Wants the seam soldered properly.",
+          "behaviors": [
+            "Inspects the patina",
+            "Wants the seam soldered, not crimped",
+            "Repeats yearly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Premium",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the copper gauge and the seam method",
+            "Sign the work by the smith",
+            "Photograph the patina"
+          ],
+          "donts": [
+            "Run promotional pricing",
+            "Use 'gold' marketing",
+            "Photograph the trucks only"
+          ]
+        },
+        "logoDirection": "A serif wordmark — COPPERLINE ROOFWORKS set in an editorial serif. A small mark: a copper gutter section in profile. Used on the truck and the work folder.",
+        "colorPalette": [
+          {
+            "name": "Copper",
+            "hex": "#A8693A",
+            "meaning": "Copper gutter.",
+            "usage": "Wordmark, accent"
+          },
+          {
+            "name": "Patina Green",
+            "hex": "#5C7C66",
+            "meaning": "Aged copper patina.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial serif (e.g., Canela)",
+          "secondary": "A grotesque for the work folder data",
+          "rationale": "Canela for the editorial register. Grotesque for the work data."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "The Gutterwright",
+        "tagline": "Gutter work, by the wright.",
+        "brandNameRationale": "Wright is the heritage trade suffix — wheelwright, shipwright, playwright. Gutterwright coins the gutter trade in the same register. The whole name reads as a trade-craft firm.",
+        "industrySummary": "Gutter work splits between franchise cleaners and small trade firms. The opening is for a brand that names the trade explicitly.",
+        "competitorLandscape": "LeafFilter (leaffilter.com) holds the national-franchise peer. Gutter Helmet (gutterhelmet.com) sits in the leaf-guard reference. Ned Stevens (nedstevens.com) is the regional precedent. We sit closer to Ned Stevens in trade posture.",
+        "positioningStatement": "A trade-craft gutter firm in the wright tradition.",
+        "targetAudience": {
+          "primary": "40 to 70. Homeowner of a heritage or considered home. Wants a tradesperson.",
+          "behaviors": [
+            "Picks the firm by referral",
+            "Wants to meet the foreman",
+            "Repeats annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Heritage",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign the work by the wright",
+            "Reference the gutter profile and the seam",
+            "Photograph the work"
+          ],
+          "donts": [
+            "Use franchise upsells",
+            "Run scare-marketing",
+            "Photograph the trucks only"
+          ]
+        },
+        "logoDirection": "A serif wordmark — THE GUTTERWRIGHT in a quiet trade serif. A small mark: a gutter profile cross-section. Used on the truck and the work sheet.",
+        "colorPalette": [
+          {
+            "name": "Trade Black",
+            "hex": "#161616",
+            "meaning": "Bench.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Copper",
+            "hex": "#8E5A2A",
+            "meaning": "Copper gutter.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the trade lineage. Grotesque for the work data."
+        }
+      },
+      {
+        "brandName": "K-Style Trade Co.",
+        "tagline": "K-style done as trade.",
+        "brandNameRationale": "K-style is the dominant North American gutter profile — the modern standard since the 1960s. Trade Co. closes it as a small trade firm. The whole name claims the standard and the trade discipline.",
+        "industrySummary": "K-style gutters dominate the North American market. The opening is for a brand that names the profile and the trade.",
+        "competitorLandscape": "LeafFilter (leaffilter.com) holds the national-franchise peer. Gutter Helmet (gutterhelmet.com) sits in the leaf-guard reference. Ned Stevens (nedstevens.com) is the regional precedent. We sit closer to Ned Stevens in trade posture.",
+        "positioningStatement": "A K-style gutter trade firm, cleaning and replacement.",
+        "targetAudience": {
+          "primary": "35 to 65. Homeowner with K-style gutters. Wants the work done by people who know the profile cold.",
+          "behaviors": [
+            "Books annually",
+            "Wants the seam inspected",
+            "Reads the work sheet carefully"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Direct",
+          "Considered",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the K-style profile and the seam type",
+            "Sign the work by the foreman",
+            "Photograph the gutter"
+          ],
+          "donts": [
+            "Use scare-marketing",
+            "Run franchise upsells",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "A wordmark — K-STYLE TRADE CO. in a heavy trade serif. A small K-style profile cross-section mark sits beside.",
+        "colorPalette": [
+          {
+            "name": "Aluminum",
+            "hex": "#9C9E9F",
+            "meaning": "K-style gutter.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Trade Black",
+            "hex": "#161616",
+            "meaning": "Type.",
+            "usage": "Body"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "A heavy trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the trade register. Grotesque for the work data."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Ogee & Sons",
+        "tagline": "Gutters since the ogee profile.",
+        "brandNameRationale": "Ogee is the traditional decorative gutter profile (the S-curve) widely used on heritage homes — the curve named after the architectural moulding. & Sons closes it as a family trade firm. Together: a heritage gutter house in the traditional profile.",
+        "industrySummary": "Gutter work in 2025+ is dominated by franchise cleaners. The opening is for a heritage family firm that names the gutter profile and the trade lineage.",
+        "competitorLandscape": "LeafFilter (leaffilter.com) holds the national-franchise peer. Gutter Helmet (gutterhelmet.com) sits in the leaf-guard reference. Ned Stevens Gutter Cleaning (nedstevens.com) is the regional precedent. We sit closer to Ned Stevens in heritage posture.",
+        "positioningStatement": "A heritage family gutter firm working on Ogee, K-style, and half-round profiles.",
+        "targetAudience": {
+          "primary": "45 to 75. Homeowner of a heritage house. Wants the gutter cleared by people who know the profile.",
+          "behaviors": [
+            "Books the gutter clean twice a year",
+            "Asks for the profile to be inspected",
+            "Repeats the same firm for a decade"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade",
+          "Family-firm",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the gutter profile in the proposal",
+            "Sign the work by the crew foreman",
+            "Photograph the eave before and after"
+          ],
+          "donts": [
+            "Run 'free estimate' radio ads",
+            "Use scare-marketing about ice dams",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "A serif wordmark — OGEE & SONS set in a trade serif with a long ampersand. A small mark: the ogee gutter profile in section. Used on the truck and the work sheet.",
+        "colorPalette": [
+          {
+            "name": "Copper",
+            "hex": "#8E5A2A",
+            "meaning": "Aged copper gutter.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Trade page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the heritage register. Grotesque for the work data."
+        }
+      },
+      {
+        "brandName": "Half-Round Co.",
+        "tagline": "The classic profile, cleaned.",
+        "brandNameRationale": "Half-round is the pre-K-style classic gutter profile — semicircular, used on heritage homes and traditional architecture. Co. closes it as a small heritage firm. Together: a gutter house named after the classic profile.",
+        "industrySummary": "Gutter work splits between franchise cleaners and small heritage firms. The opening is for a brand named on the classic half-round profile.",
+        "competitorLandscape": "LeafFilter (leaffilter.com) holds the national-franchise peer. Gutter Helmet (gutterhelmet.com) sits in the leaf-guard reference. Ned Stevens Gutter Cleaning (nedstevens.com) is the regional precedent. We sit closer to Ned Stevens in posture.",
+        "positioningStatement": "A heritage gutter firm specialising in half-round gutters and traditional rooflines.",
+        "targetAudience": {
+          "primary": "45 to 75. Homeowner of a traditional home. Wants the gutter clear and inspected.",
+          "behaviors": [
+            "Books twice a year",
+            "Wants the downspout inspected",
+            "Repeats the same firm"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the half-round profile and the seam type",
+            "Sign the work by the foreman",
+            "Photograph the roof line"
+          ],
+          "donts": [
+            "Run scare-marketing",
+            "Promise 'lifetime' guarantees",
+            "Use franchise upsells"
+          ]
+        },
+        "logoDirection": "A serif wordmark — HALF-ROUND CO. in a quiet book serif. A small mark: the half-round profile in section. Used on the truck and the work sheet.",
+        "colorPalette": [
+          {
+            "name": "Copper",
+            "hex": "#8E5A2A",
+            "meaning": "Aged copper.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Trade page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A book serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the heritage register. Grotesque for the work data."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Leaf & Larry",
+        "tagline": "Leaves out. Gutters clear.",
+        "brandNameRationale": "Leaf is the literal debris; Larry is the everyman mascot name. Two words — friendly neighbourhood gutter firm.",
+        "industrySummary": "Gutter cleaning is mostly franchise-led and impersonal. The opening is for a friendly neighbourhood firm with a mascot.",
+        "competitorLandscape": "LeafFilter (leaffilter.com) holds the national-franchise peer. Gutter Helmet (gutterhelmet.com) sits in the leaf-guard reference. Ned Stevens (nedstevens.com) is the regional precedent. We sit closer to Ned Stevens in friendly posture.",
+        "positioningStatement": "A friendly neighbourhood gutter firm with a mascot and plain pricing.",
+        "targetAudience": {
+          "primary": "35 to 65. Homeowner. Wants the work done by people they recognise.",
+          "behaviors": [
+            "Books with the neighbour's recommendation",
+            "Wants to chat with the crew",
+            "Pays the same crew every spring"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Plain",
+          "Warm",
+          "Trade"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show Larry on the truck and the work sheet",
+            "Speak like a neighbour",
+            "List the prices clearly"
+          ],
+          "donts": [
+            "Use baby-talk in the copy",
+            "Run scare-marketing",
+            "Hide prices"
+          ]
+        },
+        "logoDirection": "A wordmark — LEAF & LARRY set in a warm geometric sans. A small line-drawn leaf-with-rake mascot sits beside the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Leaf Green",
+            "hex": "#5C7C5E",
+            "meaning": "Leaf.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A warm geometric sans for the wordmark",
+          "secondary": "Same family for the work sheet",
+          "rationale": "One family across signage. Pairs with the line-drawn mascot."
+        }
+      },
+      {
+        "brandName": "Gutterbird",
+        "tagline": "Gutters cleared. Birds re-housed.",
+        "brandNameRationale": "Birds nest in gutters; the brand names a gutter firm that clears gutters humanely and re-houses the nests. One compound word, mascot register.",
+        "industrySummary": "Gutter work often disturbs nesting birds. The opening is for a brand that names the bird and acts accordingly.",
+        "competitorLandscape": "LeafFilter (leaffilter.com) holds the national-franchise peer. Gutter Helmet (gutterhelmet.com) sits in the leaf-guard reference. Ned Stevens (nedstevens.com) is the regional precedent. We sit closer to Ned Stevens in friendly posture.",
+        "positioningStatement": "A gutter firm that clears gutters humanely and re-houses nests.",
+        "targetAudience": {
+          "primary": "35 to 65. Homeowner. Cares about wildlife. Wants the work done humanely.",
+          "behaviors": [
+            "Books the work in winter to avoid nesting",
+            "Asks about the nest box program",
+            "Repeats yearly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Considered",
+          "Plain",
+          "Friendly"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the bird mascot and the nest box",
+            "Reference the nesting season",
+            "List the prices clearly"
+          ],
+          "donts": [
+            "Run scare-marketing",
+            "Promise miracles",
+            "Use 'pest' language for birds"
+          ]
+        },
+        "logoDirection": "Gutterbird set in a warm rounded grotesque, lowercase. A small line-drawn bird with a leaf in beak sits beside the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Sparrow Brown",
+            "hex": "#7A5230",
+            "meaning": "Bird feather.",
+            "usage": "Mark, accent"
+          },
+          {
+            "name": "Sky Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Sky page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Leaf Green",
+            "hex": "#5C7C5E",
+            "meaning": "Leaf.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Type Black",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A warm rounded grotesque for the wordmark",
+          "secondary": "Same family across signage",
+          "rationale": "One family. Pairs with the line-drawn mascot."
+        }
+      }
+    ]
+  }
+}

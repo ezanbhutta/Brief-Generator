@@ -1,0 +1,915 @@
+{
+  "industry": "cheese-shop",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Rind & Cave",
+        "tagline": "Modern cheese counter.",
+        "brandNameRationale": "Anchor: rind (the cheese's outer crust) + cave (the aging cellar) — the two most technical monger words. Picked from A's three for the strongest modern monger anchor.",
+        "industrySummary": "Modern cheese counters — Bedford Cheese Shop, Saxelby — sit in a small craft niche. The opening is a monger-vocabulary modern shop.",
+        "competitorLandscape": "Bedford Cheese Shop (bedfordcheeseshop.com) plays the modern monger peer. Saxelby Cheesemongers (saxelbycheese.com) holds the urban middle. Formaggio Kitchen (formaggiokitchen.com) is the heritage reference. We sit as a monger-vocabulary modern counter.",
+        "positioningStatement": "Rind & Cave is a modern neighborhood cheese counter named for the rind and the aging cave.",
+        "targetAudience": {
+          "primary": "Home cooks 28–50 in cities buying cheese weekly.",
+          "behaviors": [
+            "Buy by the wedge",
+            "Care about the affineur",
+            "Ask the monger by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Monger-literate",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the affineur and the age",
+            "Show the wedge plainly",
+            "Print the cheese list daily"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the affineur"
+          ]
+        },
+        "logoDirection": "Wordmark: RIND & CAVE in a tight modern grotesk, one line. A small mark — a single wedge silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Cheese paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rind Ochre",
+            "hex": "#B0823A",
+            "meaning": "Washed rind.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for cheese labels and prices",
+          "rationale": "A modern grotesk plus a mono — the cheese-counter register."
+        }
+      },
+      {
+        "brandName": "Curd Theory",
+        "tagline": "Lactic and rennet, named.",
+        "brandNameRationale": "Anchor: the lactic-curd vs rennet-curd split (the foundational technical fork in cheesemaking). Picked from A's three for a slightly nerdy modern monger anchor.",
+        "industrySummary": "Modern cheese counters with an explanatory program sit in a real niche. The opening is a curd-theory modern shop.",
+        "competitorLandscape": "Bedford Cheese Shop (bedfordcheeseshop.com) plays the modern monger peer. Saxelby Cheesemongers (saxelbycheese.com) holds the urban middle. Cowgirl Creamery (cowgirlcreamery.com) is the producer-monger reference. We sit as a curd-theory explanatory counter.",
+        "positioningStatement": "Curd Theory is a modern cheese counter named for the lactic-vs-rennet curd split.",
+        "targetAudience": {
+          "primary": "Curious home cooks 28–45 who like the science of food.",
+          "behaviors": [
+            "Read the curd notes",
+            "Care about the make process",
+            "Trust the monger"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Nerdy",
+          "Curious",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Explain the curd type",
+            "Print a make-process card",
+            "Show the wedge with notes"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the science"
+          ]
+        },
+        "logoDirection": "Wordmark: CURD THEORY in a clean modern sans, two lines. A small mark — a single curd-drop glyph — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Cheese paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Whey",
+            "hex": "#E8DEC0",
+            "meaning": "Whey pour.",
+            "usage": "Secondary background"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for curd notes",
+          "rationale": "A quiet grotesk plus a mono — the explanatory register."
+        }
+      },
+      {
+        "brandName": "The Affineur Co.",
+        "tagline": "Aging is the craft.",
+        "brandNameRationale": "Anchor: the affineur — the cheese-aging specialist. Picked from A's three for the cleanest craft-monger modern anchor. Generic French trade term — screenable in cheese class.",
+        "industrySummary": "Modern monger brands that name the aging craft sit in a real niche. The opening is an affineur-named modern shop.",
+        "competitorLandscape": "Bedford Cheese Shop (bedfordcheeseshop.com) plays the modern monger peer. Saxelby Cheesemongers (saxelbycheese.com) holds the urban middle. Jasper Hill Farm (jasperhillfarm.com) is the affineur reference. We sit as an affineur-named modern counter.",
+        "positioningStatement": "The Affineur Co. is a modern cheese counter named for the aging craft.",
+        "targetAudience": {
+          "primary": "Home cooks 30–50 who know the affineur is the craft.",
+          "behaviors": [
+            "Buy aged-out wheels",
+            "Care about the cave",
+            "Ask the monger by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Craft",
+          "Direct",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the affineur",
+            "Print the aging months",
+            "Show the cave"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the cave"
+          ]
+        },
+        "logoDirection": "Wordmark: THE AFFINEUR CO. in a tight modern grotesk, one line. A small mark — a hand-drawn cave-arch silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Cheese paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rind Ochre",
+            "hex": "#B0823A",
+            "meaning": "Washed rind.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter Mono for cheese labels",
+          "rationale": "One family, two registers — the affineur-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison d'Affinage",
+        "tagline": "House of aging.",
+        "brandNameRationale": "Anchor: 'house of aging' — the affineur tradition in couture French register. Picked from A's three for the strongest luxury monger anchor.",
+        "industrySummary": "Luxury aging houses — Mons Fromager-Affineur, Hervé Mons — sit at the top of the cheese market. The opening is a couture maison-d'affinage brand.",
+        "competitorLandscape": "Mons Fromager-Affineur (mons-fromages.com) plays the luxury affineur peer. Hervé Mons holds the heritage middle. Bernard Antony (fromagerie-antony.com) is the affineur reference. We sit as a couture maison-d'affinage house.",
+        "positioningStatement": "Maison d'Affinage is a luxury cheese-aging house in the French affineur tradition.",
+        "targetAudience": {
+          "primary": "UHNW food buyers, top restaurants, luxury food halls.",
+          "behaviors": [
+            "Order aged-to-order wheels",
+            "Care about the cave protocol",
+            "Travel to the cave"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "French",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cave and the months",
+            "Print the affinage protocol",
+            "Photograph the cave"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON D'AFFINAGE in a refined French serif, two lines centered. A small mark — a single cave-arch silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cave Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rind Bronze",
+            "hex": "#8B6A2A",
+            "meaning": "Washed rind.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the French-maison register."
+        }
+      },
+      {
+        "brandName": "Cave Saint-Hilaire",
+        "tagline": "Aged in the saint's cave.",
+        "brandNameRationale": "Anchor: invented saint + the cave aging tradition — old-world prestige. Picked from A's three for the strongest invented-heritage luxury anchor. Verify no existing producer.",
+        "industrySummary": "Old-world heritage cheese houses sit at the top of the luxury monger market. The opening is an invented-saint cave brand.",
+        "competitorLandscape": "Mons Fromager-Affineur (mons-fromages.com) plays the luxury affineur peer. Hervé Mons holds the heritage middle. Fromagerie Antony (fromagerie-antony.com) is the affineur reference. We sit as an invented-saint cave brand.",
+        "positioningStatement": "Cave Saint-Hilaire is a luxury cheese house built on an invented old-world saint and the cave tradition.",
+        "targetAudience": {
+          "primary": "UHNW food buyers, top restaurants, and luxury hotels.",
+          "behaviors": [
+            "Order aged-to-order wheels",
+            "Care about the cave saint's story",
+            "Travel to the cave"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Old-world",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the saint's story",
+            "Print the cave protocol",
+            "Photograph the cave"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: CAVE SAINT-HILAIRE in a refined French serif, two lines centered. A small mark — a saint-arch silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cave Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Saint Gold",
+            "hex": "#A38454",
+            "meaning": "Reliquary foil.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the old-world saint register."
+        }
+      },
+      {
+        "brandName": "Fromagerie Lacthène",
+        "tagline": "Couture cheese.",
+        "brandNameRationale": "Anchor: coined from lait (milk) + a Hellenic suffix — a couture Lyon-feel mark. Picked from A's three for the strongest coined-luxury anchor.",
+        "industrySummary": "Couture fromageries sit at the top of the luxury monger market. The opening is a coined-name fromagerie.",
+        "competitorLandscape": "Mons Fromager-Affineur (mons-fromages.com) plays the luxury affineur peer. Hervé Mons holds the heritage middle. Fromagerie Antony (fromagerie-antony.com) is the affineur reference. We sit as a coined-name couture fromagerie.",
+        "positioningStatement": "Fromagerie Lacthène is a couture luxury cheese house with a coined French-Hellenic name.",
+        "targetAudience": {
+          "primary": "UHNW food buyers, top restaurants, and luxury hotels.",
+          "behaviors": [
+            "Order seasonal selections",
+            "Care about the cave protocol",
+            "Travel for cheese"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "French",
+          "Refined",
+          "Couture"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the months and the cave",
+            "Print the affinage protocol",
+            "Photograph the cave"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: FROMAGERIE LACTHÈNE in a refined French serif, two lines centered. A small mark — a serif L monogram — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cave Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rind Bronze",
+            "hex": "#8B6A2A",
+            "meaning": "Washed rind.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the couture-fromagerie register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Rind.",
+        "tagline": "The crust, named.",
+        "brandNameRationale": "Anchor: rind — the cheese's outer crust. Single-word, period-locked, monger-literate. Picked from A's three for the cleanest minimal monger anchor.",
+        "industrySummary": "Single-word minimal cheese brands sit cleanly in the monger niche. Rind. names the crust.",
+        "competitorLandscape": "Bedford Cheese Shop (bedfordcheeseshop.com) plays the modern monger peer. Saxelby (saxelbycheese.com) holds the urban middle. Formaggio Kitchen (formaggiokitchen.com) is the heritage reference. We sit as a single-word minimal counter.",
+        "positioningStatement": "Rind. is a minimal cheese counter named for the cheese's outer crust.",
+        "targetAudience": {
+          "primary": "Home cooks 25–45 who buy cheese plainly.",
+          "behaviors": [
+            "Buy by the wedge",
+            "Skip lifestyle marketing",
+            "Trust the monger"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cheese plainly",
+            "Show the wedge on plain paper",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Hide the affineur"
+          ]
+        },
+        "logoDirection": "Wordmark: rind. set large in a clean humanist sans, lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Cheese paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rind Ochre",
+            "hex": "#B0823A",
+            "meaning": "Washed rind.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for cheese labels",
+          "rationale": "One family, two registers — the rind-minimal register."
+        }
+      },
+      {
+        "brandName": "Curd",
+        "tagline": "Three letters.",
+        "brandNameRationale": "Anchor: curd — the lactic foundation of every cheese. Three-letter single-word minimal mark. Picked from A's three for the cleanest three-letter minimal anchor.",
+        "industrySummary": "Three-letter minimal cheese brands sit cleanly in the monger niche. Curd names the start of every cheese.",
+        "competitorLandscape": "Bedford Cheese Shop (bedfordcheeseshop.com) plays the modern monger peer. Saxelby (saxelbycheese.com) holds the urban middle. Cowgirl Creamery (cowgirlcreamery.com) is the producer-monger reference. We sit as a three-letter minimal counter.",
+        "positioningStatement": "Curd is a minimal cheese counter named for the lactic foundation.",
+        "targetAudience": {
+          "primary": "Home cooks 25–45.",
+          "behaviors": [
+            "Buy by the wedge",
+            "Skip lifestyle marketing",
+            "Trust the monger"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cheese plainly",
+            "Show the wedge plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Hide the affineur"
+          ]
+        },
+        "logoDirection": "Wordmark: CURD set large in a clean modern sans, one word, four letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Cheese paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Whey",
+            "hex": "#E8DEC0",
+            "meaning": "Whey pour.",
+            "usage": "Secondary background"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for cheese labels",
+          "rationale": "One family, two registers — the curd-minimal register."
+        }
+      },
+      {
+        "brandName": "Croûte",
+        "tagline": "Rind, in French.",
+        "brandNameRationale": "Anchor: croûte — French for rind, the cheese's crust. Picked from A's three for the cleanest French-minimal anchor.",
+        "industrySummary": "Single-word French-language minimal brands sit cleanly in the monger niche. Croûte names the crust in French.",
+        "competitorLandscape": "Bedford Cheese Shop (bedfordcheeseshop.com) plays the modern monger peer. Saxelby (saxelbycheese.com) holds the urban middle. Formaggio Kitchen (formaggiokitchen.com) is the heritage reference. We sit as a French-minimal counter.",
+        "positioningStatement": "Croûte is a minimal cheese counter named for the rind in French.",
+        "targetAudience": {
+          "primary": "Home cooks 25–45 who like the French monger register.",
+          "behaviors": [
+            "Buy by the wedge",
+            "Care about the rind",
+            "Trust the monger"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "French-leaning",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the rind plainly",
+            "Show the wedge plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Hide the affineur"
+          ]
+        },
+        "logoDirection": "Wordmark: CROÛTE in a clean humanist sans, one word, six letters with the circumflex. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Cheese paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rind Ochre",
+            "hex": "#B0823A",
+            "meaning": "Washed rind.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter Mono for cheese labels",
+          "rationale": "One family, two registers — the croûte-minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Affinage Group",
+        "tagline": "Cheese-aging operator.",
+        "brandNameRationale": "Anchor: affinage — the cheese-aging craft, applied to a holding-company register. Picked from A's three for the strongest cheese-corporate anchor.",
+        "industrySummary": "Cheese-aging holding companies — multi-brand affineur operators — sit at the top of the cheese-corporate market. The opening is an affinage-named multi-brand operator.",
+        "competitorLandscape": "Mons Fromager-Affineur (mons-fromages.com) plays the heritage affineur peer. Jasper Hill (jasperhillfarm.com) holds the producer-affineur middle. Saxelby Cheesemongers (saxelbycheese.com) is the urban-monger reference. We sit as an affinage-named multi-brand operator.",
+        "positioningStatement": "Affinage Group is a multi-brand cheese-aging corporate operator across affineur houses.",
+        "targetAudience": {
+          "primary": "Hospitality groups, luxury food halls, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about cellar-cycle consistency",
+            "Compare affineur vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: AFFINAGE GROUP in a clean institutional serif, two lines. A small mark — a serif A monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Rind Bronze",
+            "hex": "#8B6A2A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the affineur-operator register."
+        }
+      },
+      {
+        "brandName": "Lactea Holdings",
+        "tagline": "Dairy umbrella.",
+        "brandNameRationale": "Anchor: Latin lactea (milky) — a corporate dairy umbrella. Picked from A's three for the cleanest Latin-corporate anchor.",
+        "industrySummary": "Latin-named dairy holdings — multi-brand cheese and milk operators — sit at the top of the dairy-corporate market. The opening is a Latin-named multi-brand operator.",
+        "competitorLandscape": "Lactalis (lactalis.com) plays the multi-brand dairy peer. Saputo (saputo.com) holds the multi-brand middle. Bel Group (groupe-bel.com) is the cheese-corporate reference. We sit as a Latin-named multi-brand operator.",
+        "positioningStatement": "Lactea Holdings is a Latin-named multi-brand dairy and cheese corporate operator.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare dairy vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: LACTEA HOLDINGS in a clean institutional serif, two lines. A small mark — a serif L monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A classical serif plus a clean grotesk — the Latin-corporate register."
+        }
+      },
+      {
+        "brandName": "Caséine Partners",
+        "tagline": "Cheese-industry parent.",
+        "brandNameRationale": "Anchor: caséine — casein, the cheese protein — in a corporate-industry register. Picked from A's three for the cleanest protein-corporate anchor.",
+        "industrySummary": "Protein-named corporate cheese parents sit in a real institutional space. The opening is a caséine-named corporate parent.",
+        "competitorLandscape": "Bel Group (groupe-bel.com) plays the multi-brand cheese peer. Lactalis (lactalis.com) holds the multi-brand middle. Saputo (saputo.com) is the cheese-corporate reference. We sit as a caséine-named corporate parent.",
+        "positioningStatement": "Caséine Partners is a corporate cheese-industry parent across cheese houses.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare cheese vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "French-leaning"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: CASÉINE PARTNERS in a clean institutional serif, two lines. A small mark — a serif C monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Rind Bronze",
+            "hex": "#8B6A2A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the cheese-corporate register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Wheel & The Wedge",
+        "tagline": "Two halves of every sale.",
+        "brandNameRationale": "Anchor: the wheel (the full cheese) and the wedge (what the customer buys) — the two halves of every cheese sale. Picked from A's three for the strongest paired-icon editorial anchor.",
+        "industrySummary": "Paired-icon editorial cheese brands sit at the creative top. The opening is a paired-icon editorial counter with a publishing program.",
+        "competitorLandscape": "Bedford Cheese Shop (bedfordcheeseshop.com) plays the modern monger peer. Saxelby Cheesemongers (saxelbycheese.com) holds the urban middle. Cowgirl Creamery (cowgirlcreamery.com) is the producer-monger reference. We sit as a paired-icon editorial brand.",
+        "positioningStatement": "The Wheel & The Wedge is an editorial cheese brand with a cookbook-adjacent publishing program.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers and home cheese-collectors 28–50.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the affineur",
+            "Subscribe to the cheese club"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Cookbook-adjacent",
+          "Warm",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the cheese journal",
+            "Photograph the wheel and the wedge",
+            "Print seasonally"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the publishing"
+          ]
+        },
+        "logoDirection": "Wordmark: THE WHEEL & THE WEDGE in a confident editorial serif, three lines centered. A small mark — a paired wheel-and-wedge silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cookbook Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Cookbook stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rind Ochre",
+            "hex": "#B0823A",
+            "meaning": "Washed rind.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the cookbook-editorial register."
+        }
+      },
+      {
+        "brandName": "Mongerlight",
+        "tagline": "Lamp-lit cheese.",
+        "brandNameRationale": "Anchor: a coined word — 'mongerlight' suggests the lamp-lit cheese counter. Picked from A's three for the strongest coined-imagery creative anchor.",
+        "industrySummary": "Coined-word editorial cheese brands sit at the creative top. The opening is a mongerlight editorial brand.",
+        "competitorLandscape": "Saxelby Cheesemongers (saxelbycheese.com) plays the urban-monger peer. Bedford Cheese Shop (bedfordcheeseshop.com) holds the editorial middle. Murray's-style storytelling sits as the editorial reference. We sit as a coined-word editorial counter.",
+        "positioningStatement": "Mongerlight is a creative cheese counter named for the lamp-lit shop.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers 28–50 who love the cheese-counter atmosphere.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the counter mood",
+            "Trust the monger"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Atmospheric",
+          "Warm",
+          "Quietly nostalgic"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the lamp-lit photograph",
+            "Print the seasonal journal",
+            "Show the monger's hand"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the mood"
+          ]
+        },
+        "logoDirection": "Wordmark: MONGERLIGHT in a confident editorial serif, one line. A small mark — a single lamp glyph — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Lamp Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Lamp light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rind Ochre",
+            "hex": "#B0823A",
+            "meaning": "Washed rind.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and journal",
+          "rationale": "A high-contrast serif plus a reading serif — the lamp-lit editorial register."
+        }
+      },
+      {
+        "brandName": "Notes from the Cave",
+        "tagline": "Affineur's journal.",
+        "brandNameRationale": "Anchor: the affineur's journal kept in the aging cave — storytelling brand. Picked from A's three for the strongest editorial-journal creative anchor.",
+        "industrySummary": "Journal-named editorial cheese brands sit at the creative top. The opening is an affineur-journal editorial brand.",
+        "competitorLandscape": "Mons Fromager-Affineur (mons-fromages.com) plays the affineur peer. Saxelby Cheesemongers (saxelbycheese.com) holds the urban-monger middle. Jasper Hill Farm (jasperhillfarm.com) is the producer-affineur reference. We sit as an affineur-journal editorial brand.",
+        "positioningStatement": "Notes from the Cave is an editorial cheese brand built on the affineur's cave journal.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers 28–50 who read the affineur's notes.",
+          "behaviors": [
+            "Subscribe to the journal",
+            "Care about the cave",
+            "Read the affineur's notes"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Patient",
+          "Warm",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the affineur's journal",
+            "Photograph the cave",
+            "Name the months plainly"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the journal"
+          ]
+        },
+        "logoDirection": "Wordmark: NOTES FROM THE CAVE in a confident editorial serif, three lines centered. A small mark — a single cave-arch silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rind Ochre",
+            "hex": "#B0823A",
+            "meaning": "Washed rind.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the affineur-journal register."
+        }
+      }
+    ]
+  }
+}

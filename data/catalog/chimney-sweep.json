@@ -1,0 +1,615 @@
+{
+  "industry": "chimney-sweep",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Hearthscan",
+        "tagline": "The flue, inspected.",
+        "brandNameRationale": "Hearthscan compounds hearth + scan, naming the modern flue-camera inspection method that has become standard. One word, modern register.",
+        "industrySummary": "Modern chimney sweeping uses cameras, moisture meters, and CO sensors. The opening is for a brand that names the scan.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit closer to NCSG in modern posture.",
+        "positioningStatement": "A modern chimney sweep with camera-inspection-first reporting.",
+        "targetAudience": {
+          "primary": "35 to 60. Homeowner with a fireplace or wood stove. Wants the inspection report with the video.",
+          "behaviors": [
+            "Books the scan annually",
+            "Reads the inspection video",
+            "Decides on cleaning based on the scan"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Tech-led",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Send the inspection video with notes",
+            "Quote based on the scan",
+            "Default to plain reporting"
+          ],
+          "donts": [
+            "Run scare-marketing in the report",
+            "Hide the scan fee",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "Hearthscan set in a precise modern grotesque, lowercase. A small camera-in-flue mark sits to the left. Used on the van and the report.",
+        "colorPalette": [
+          {
+            "name": "Scan Blue",
+            "hex": "#1F4FFF",
+            "meaning": "Camera accent.",
+            "usage": "Wordmark, accent"
+          },
+          {
+            "name": "Page White",
+            "hex": "#F4F4F2",
+            "meaning": "Report page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Soot Black",
+            "hex": "#101012",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "A modern grotesque (e.g., Söhne) for the wordmark",
+          "secondary": "A grotesque mono for the inspection data",
+          "rationale": "Grotesque scales clean. Mono for the scan data on the report."
+        }
+      },
+      {
+        "brandName": "Fluemetric",
+        "tagline": "Sweep by measurement.",
+        "brandNameRationale": "Flue + metric — a flue is the chimney passage, metric the measurement register. One compound word, modern-engineering register.",
+        "industrySummary": "Modern flue inspection uses sensors and measurements. The opening is for a brand that names the metric.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit closer to NCSG in modern posture.",
+        "positioningStatement": "A measurement-led chimney sweep with CO, moisture, and creosote-thickness readings.",
+        "targetAudience": {
+          "primary": "35 to 60. Homeowner. Wants the numbers.",
+          "behaviors": [
+            "Books the inspection annually",
+            "Reads the measurement sheet",
+            "Repeats with the same firm"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Measurement-led",
+          "Precise",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Issue a measurement sheet per visit",
+            "Quote CO, moisture, creosote thickness",
+            "Default to plain reporting"
+          ],
+          "donts": [
+            "Run scare-marketing",
+            "Hide the measurement sheet",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "Fluemetric set in a precise modern grotesque, lowercase. A small mark: a measurement-meter dial. Used on the van.",
+        "colorPalette": [
+          {
+            "name": "Meter Black",
+            "hex": "#101012",
+            "meaning": "Meter.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Page White",
+            "hex": "#F4F4F2",
+            "meaning": "Report page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Reading Blue",
+            "hex": "#2A6DB8",
+            "meaning": "Reading accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "A modern grotesque (e.g., Inter) for the wordmark",
+          "secondary": "Inter Mono for the readings",
+          "rationale": "Inter scales clean. Mono for the measurement data."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Hearth & Hansom",
+        "tagline": "Hearth care in the heritage register.",
+        "brandNameRationale": "Hearth is the fireplace; Hansom is the Victorian two-wheel cab — together they invoke the 19th-century streetscape and a heritage-prestige register. Reads as an editorial-prestige chimney sweep.",
+        "industrySummary": "Heritage homes need chimney work that respects the period. The opening is for an editorial-prestige brand in the Victorian-heritage register.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit alongside NCSG with an editorial register.",
+        "positioningStatement": "A premium heritage chimney sweep house for period homes.",
+        "targetAudience": {
+          "primary": "50 to 75. Heritage-home owner. Wants the period respected.",
+          "behaviors": [
+            "Books the annual sweep",
+            "Wants the report on heavy paper",
+            "Pays for the multi-visit care"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Heritage",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the period and the hearth",
+            "Sign the work by the sweep",
+            "Print the report on heavy paper"
+          ],
+          "donts": [
+            "Run promotional pricing",
+            "Use scare-marketing",
+            "Photograph the vans only"
+          ]
+        },
+        "logoDirection": "A serif wordmark — HEARTH & HANSOM set in a high-contrast editorial serif with a long ampersand. A small mark: a hearth flame.",
+        "colorPalette": [
+          {
+            "name": "Hansom Black",
+            "hex": "#0F1416",
+            "meaning": "Hansom cab.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing"
+          },
+          {
+            "name": "Hearth Red",
+            "hex": "#8E3A2A",
+            "meaning": "Hearth flame.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial serif (e.g., Canela)",
+          "secondary": "A grotesque for the report data",
+          "rationale": "Canela for the editorial heritage register. Grotesque for the report data."
+        }
+      },
+      {
+        "brandName": "The Mantel Review",
+        "tagline": "A heritage chimney house.",
+        "brandNameRationale": "Mantel is the fireplace shelf; Review places the brand in the editorial-publication register (The Yale Review, The Paris Review). The whole name reads as an editorial-prestige chimney house.",
+        "industrySummary": "Heritage and architect-designed homes need a chimney house with editorial register. The opening is for a Review-style brand.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit alongside NCSG with an editorial register.",
+        "positioningStatement": "A premium chimney house publishing a quarterly review with each major project.",
+        "targetAudience": {
+          "primary": "45 to 75. Architecture-literate homeowner. Wants the review with the project.",
+          "behaviors": [
+            "Books the project months ahead",
+            "Reads the quarterly review",
+            "Pays for the multi-visit care"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Considered",
+          "Quiet",
+          "Premium"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the quarterly review",
+            "Photograph the mantel and the hearth",
+            "Sign the work by the sweep"
+          ],
+          "donts": [
+            "Run promotional pricing",
+            "Use scare-marketing",
+            "Photograph the vans only"
+          ]
+        },
+        "logoDirection": "A serif wordmark — THE MANTEL REVIEW set in an editorial serif. A small mark: a hearth-flame motif under the mantel.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Slate hearth.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Marketing"
+          },
+          {
+            "name": "Hearth Red",
+            "hex": "#8E3A2A",
+            "meaning": "Hearth flame.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "An editorial serif (e.g., Canela)",
+          "secondary": "A grotesque for the project sheet",
+          "rationale": "Canela for the review register. Grotesque for the project data."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "The Flue Wright",
+        "tagline": "Flue work, by the wright.",
+        "brandNameRationale": "Wright is the heritage trade suffix — wheelwright, shipwright, playwright. Flue Wright coins the chimney trade in the same register. The whole name reads as a trade-craft sweep.",
+        "industrySummary": "Chimney sweeping splits between franchise inspectors and small trade firms. The opening is for a brand that names the trade explicitly.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit closer to NCSG in trade posture.",
+        "positioningStatement": "A trade-craft chimney sweep firm in the wright tradition.",
+        "targetAudience": {
+          "primary": "40 to 70. Homeowner with a fireplace. Wants a tradesperson.",
+          "behaviors": [
+            "Books by referral",
+            "Wants the flue type referenced",
+            "Repeats annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Heritage",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign the work by the wright",
+            "Reference the flue type and the liner",
+            "Photograph the work"
+          ],
+          "donts": [
+            "Use scare-marketing",
+            "Run franchise upsells",
+            "Photograph the vans only"
+          ]
+        },
+        "logoDirection": "A serif wordmark — THE FLUE WRIGHT in a quiet trade serif. A small mark: a flue section in profile.",
+        "colorPalette": [
+          {
+            "name": "Trade Black",
+            "hex": "#161616",
+            "meaning": "Bench.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brick Red",
+            "hex": "#7E3A2A",
+            "meaning": "Brick.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the trade lineage. Grotesque for the work data."
+        }
+      },
+      {
+        "brandName": "Brick & Brush",
+        "tagline": "Brick chimney. Flue brush.",
+        "brandNameRationale": "Brick names the chimney material; Brush names the sweep tool. Two trade nouns with an ampersand — a small trade firm in the heritage tradition.",
+        "industrySummary": "Chimney sweeping is small-trade work. The opening is for a brand that names the material and the tool.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit closer to NCSG in trade posture.",
+        "positioningStatement": "A trade chimney sweep firm specialising in brick chimneys and traditional flue brushes.",
+        "targetAudience": {
+          "primary": "40 to 70. Homeowner with a brick chimney. Wants the brush passes done properly.",
+          "behaviors": [
+            "Books annually",
+            "Wants the brush type referenced",
+            "Repeats with the same firm"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Trade",
+          "Direct",
+          "Considered",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the brush diameter and the rod count",
+            "Sign the work by the sweep",
+            "Photograph the brick"
+          ],
+          "donts": [
+            "Use scare-marketing",
+            "Promise miracles",
+            "Photograph the vans only"
+          ]
+        },
+        "logoDirection": "A wordmark — BRICK & BRUSH in a heavy trade serif. A small mark: a brush head, flat-on, beside a brick.",
+        "colorPalette": [
+          {
+            "name": "Brick Red",
+            "hex": "#8E3A2A",
+            "meaning": "Brick.",
+            "usage": "Wordmark, accent"
+          },
+          {
+            "name": "Soot Black",
+            "hex": "#1A1A1A",
+            "meaning": "Soot.",
+            "usage": "Type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "A heavy trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the trade register. Grotesque for the work data."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "1840 Sweep Co.",
+        "tagline": "Chimney sweeping. The trade as it stands.",
+        "brandNameRationale": "1840 references the year of the UK Chimney Sweepers Act that ended the use of climbing boys — the year the trade became a profession of adults with rods and brushes. Sweep Co. closes it as a small trade firm. The whole name anchors the brand in the trade reform date.",
+        "industrySummary": "Chimney sweeping splits between franchise inspectors and small trade firms. The opening is for a brand named on the reform date that founded the modern trade.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit closer to NCSG in posture.",
+        "positioningStatement": "A heritage chimney sweep firm in the post-1840 trade tradition.",
+        "targetAudience": {
+          "primary": "40 to 75. Homeowner with a working fireplace. Wants the flue inspected by a sweep who knows the codes.",
+          "behaviors": [
+            "Books the sweep before winter",
+            "Wants the chimney inspected with a camera",
+            "Reads the report carefully"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the inspection level and the code",
+            "Sign the work by the sweep",
+            "Photograph the flue with the camera"
+          ],
+          "donts": [
+            "Use scare-marketing about creosote",
+            "Photograph the costume only",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "A serif wordmark — 1840 SWEEP CO. in a trade serif. A small mark: a sweep rod with a brush head, seen in profile. Used on the van and the report.",
+        "colorPalette": [
+          {
+            "name": "Soot Black",
+            "hex": "#161616",
+            "meaning": "Soot.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brick Red",
+            "hex": "#8E3A2A",
+            "meaning": "Brick.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A trade serif for the wordmark",
+          "secondary": "A neutral grotesque for the inspection report",
+          "rationale": "Serif for the heritage register. Grotesque for the report data."
+        }
+      },
+      {
+        "brandName": "Stratton & Brush",
+        "tagline": "Sweeping with the rod and the brush.",
+        "brandNameRationale": "Stratton is a heritage British surname in the trade register; Brush names the literal sweep tool. & closes it as a small firm. The whole name reads as a heritage chimney sweep house.",
+        "industrySummary": "Chimney sweeping has long been a small trade. The opening is for a heritage-register firm named with surname + tool.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit closer to NCSG in posture.",
+        "positioningStatement": "A heritage chimney sweep firm in the trade-surname tradition.",
+        "targetAudience": {
+          "primary": "40 to 75. Homeowner. Wants the work done by people who know the flue type.",
+          "behaviors": [
+            "Books annually before winter",
+            "Asks about the flue liner",
+            "Wants the inspection report on paper"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade",
+          "Considered",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sign the work by the sweep",
+            "Print the inspection report",
+            "Reference the flue type"
+          ],
+          "donts": [
+            "Use scare-marketing",
+            "Promote in costume only",
+            "Promise miracles"
+          ]
+        },
+        "logoDirection": "A serif wordmark — STRATTON & BRUSH in a quiet book serif. A small mark: a brush head, flat-on. Used on the van and the report.",
+        "colorPalette": [
+          {
+            "name": "Soot Black",
+            "hex": "#161616",
+            "meaning": "Soot.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brick Red",
+            "hex": "#7E3A2A",
+            "meaning": "Brick.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A book serif for the wordmark",
+          "secondary": "A neutral grotesque for the inspection report",
+          "rationale": "Serif for the heritage register. Grotesque for the report."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Sootpaw",
+        "tagline": "A friendly sweep.",
+        "brandNameRationale": "Soot is the literal creosote residue; Paw is the mascot motif — a paw print on the report, friendly and clear. One compound word.",
+        "industrySummary": "Chimney sweeping is often impersonal. The opening is for a friendly mascot-led firm.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit closer to NCSG in friendly posture.",
+        "positioningStatement": "A friendly neighbourhood chimney sweep with a mascot and a plain menu.",
+        "targetAudience": {
+          "primary": "30 to 60. Homeowner. Wants the sweep done friendly and on time.",
+          "behaviors": [
+            "Books in the autumn",
+            "Wants the price posted up front",
+            "Repeats annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Plain",
+          "Warm",
+          "Trade"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the paw print on the report",
+            "List the prices clearly",
+            "Speak like a neighbour"
+          ],
+          "donts": [
+            "Use baby-talk in the copy",
+            "Run scare-marketing",
+            "Hide prices"
+          ]
+        },
+        "logoDirection": "A wordmark — SOOTPAW in a warm geometric sans. A small paw-print-in-soot mark sits beside the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Soot Black",
+            "hex": "#1A1A1A",
+            "meaning": "Soot.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hearth Red",
+            "hex": "#B8533A",
+            "meaning": "Hearth glow.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A warm geometric sans for the wordmark",
+          "secondary": "Same family across signage",
+          "rationale": "One family. Pairs with the paw-print mark."
+        }
+      },
+      {
+        "brandName": "Top Hat Tom",
+        "tagline": "The traditional sweep, in person.",
+        "brandNameRationale": "Top hat references the heritage sweep uniform (the silk hat from the 19th-century trade, still worn at weddings for luck); Tom is the everyman name. Together: a friendly mascot-led sweep with heritage-uniform references.",
+        "industrySummary": "Chimney sweeping has a heritage uniform tradition (the top hat is still worn at weddings). The opening is for a brand that names the hat.",
+        "competitorLandscape": "Chimney Safety Institute of America (csia.org) is the standards reference. National Chimney Sweep Guild (ncsg.org) holds the professional peer. Wilks Chimney Sweep (wilkschimneysweep.com) is the regional precedent. We sit closer to NCSG in friendly posture.",
+        "positioningStatement": "A friendly chimney sweep firm with a heritage top-hat mascot.",
+        "targetAudience": {
+          "primary": "30 to 60. Homeowner. Wants the heritage register and the friendly visit.",
+          "behaviors": [
+            "Books in autumn",
+            "Wants the photo for the wedding scrapbook",
+            "Repeats annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Friendly",
+          "Heritage",
+          "Warm",
+          "Plain"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the top hat on the report",
+            "Wear the uniform on visits if asked",
+            "Speak warmly"
+          ],
+          "donts": [
+            "Use scare-marketing",
+            "Run promotional pricing",
+            "Photograph the soot only"
+          ]
+        },
+        "logoDirection": "Top Hat Tom set in a warm rounded serif. A small line-drawn top hat sits beside the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Hat Black",
+            "hex": "#1A1A1A",
+            "meaning": "Top hat.",
+            "usage": "Wordmark, mark"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F4EFE2",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brick Red",
+            "hex": "#8E3A2A",
+            "meaning": "Brick.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "A warm rounded serif for the wordmark",
+          "secondary": "A neutral grotesque for the work sheet",
+          "rationale": "Serif for the heritage register. Grotesque for the work data."
+        }
+      }
+    ]
+  }
+}

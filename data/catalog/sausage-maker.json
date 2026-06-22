@@ -1,0 +1,915 @@
+{
+  "industry": "sausage-maker",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Casing & Co.",
+        "tagline": "Modern sausage maker.",
+        "brandNameRationale": "Anchor: the casing — the membrane that defines a sausage. Picked from A's three for the strongest technical-element modern anchor.",
+        "industrySummary": "Modern sausage makers — Olympia Provisions, The Meat Hook — sit in a small craft niche. The opening is a casing-named modern brand.",
+        "competitorLandscape": "Olympia Provisions (olympiaprovisions.com) plays the modern craft-sausage peer. The Meat Hook (the-meathook.com) holds the urban middle. Fra' Mani (framani.com) is the artisan reference. We sit as a casing-named modern sausage maker.",
+        "positioningStatement": "Casing & Co. is a modern sausage maker named for the casing — the membrane that defines a sausage.",
+        "targetAudience": {
+          "primary": "Home cooks 30–50 who care about the casing and the link.",
+          "behaviors": [
+            "Buy whole links",
+            "Care about the casing type",
+            "Ask the maker by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "Trade-literate",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the casing type",
+            "Show the link plainly",
+            "Print the daily list"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the casing"
+          ]
+        },
+        "logoDirection": "Wordmark: CASING & CO. in a tight modern grotesk, one line. A small mark — a single link silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sausage Red",
+            "hex": "#A53528",
+            "meaning": "Cured link.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for sausage labels",
+          "rationale": "A modern grotesk plus a mono — the link-counter register."
+        }
+      },
+      {
+        "brandName": "Norcineria North",
+        "tagline": "Norcia tradition, north of it.",
+        "brandNameRationale": "Anchor: Norcia (Italian pork-butchery tradition) + geographic north. Picked from A's three for the strongest tradition-with-geography modern anchor.",
+        "industrySummary": "Modern norcineria-tradition sausage makers sit in a real craft niche. The opening is a Norcia-tradition modern brand.",
+        "competitorLandscape": "Olympia Provisions (olympiaprovisions.com) plays the modern craft-sausage peer. Salumeria Biellese (salumeriabiellese.com) holds the salumi middle. Fra' Mani (framani.com) is the artisan reference. We sit as a Norcia-tradition modern brand.",
+        "positioningStatement": "Norcineria North is a modern sausage maker rooted in the Norcia salumi tradition.",
+        "targetAudience": {
+          "primary": "Home cooks 30–50 who know the norcineria tradition.",
+          "behaviors": [
+            "Buy whole salami",
+            "Care about the curing time",
+            "Ask the maker by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Italian-leaning",
+          "Trade-literate",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the curing months",
+            "Reference Norcia plainly",
+            "Print the daily list"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the tradition"
+          ]
+        },
+        "logoDirection": "Wordmark: NORCINERIA NORTH in a tight modern grotesk, two lines. A small mark — a single salami silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for sausage labels",
+          "rationale": "A quiet grotesk plus a mono — the norcineria-modern register."
+        }
+      },
+      {
+        "brandName": "Saucisson Bureau",
+        "tagline": "Dry-sausage office.",
+        "brandNameRationale": "Anchor: saucisson sec (French dry sausage) + 'bureau' — modern editorial deli register. Picked from A's three for the strongest French-modern anchor.",
+        "industrySummary": "Modern editorial deli brands sit in a real craft niche. The opening is a saucisson-named modern brand.",
+        "competitorLandscape": "Olympia Provisions (olympiaprovisions.com) plays the modern craft-sausage peer. Brooklyn Cured (brooklyncured.com) holds the urban middle. Fra' Mani (framani.com) is the artisan reference. We sit as a saucisson-named modern brand.",
+        "positioningStatement": "Saucisson Bureau is a modern dry-sausage maker with an editorial-deli register.",
+        "targetAudience": {
+          "primary": "Home cooks 28–50 who like French dry sausage.",
+          "behaviors": [
+            "Buy whole saucisson",
+            "Care about the dry-cure time",
+            "Ask the maker by name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "French-leaning",
+          "Editorial",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the dry-cure months",
+            "Show the saucisson plainly",
+            "Print the daily list"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the saucisson"
+          ]
+        },
+        "logoDirection": "Wordmark: SAUCISSON BUREAU in a tight modern grotesk, two lines. A small mark — a single saucisson silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter Mono for sausage labels",
+          "rationale": "One family, two registers — the saucisson-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Salumeria Cervati",
+        "tagline": "Luxury Italian deli.",
+        "brandNameRationale": "Anchor: invented Italian family name + salumeria (Italian deli) — high-end cured-meats counter. Picked from A's three for the strongest invented-family luxury anchor (avoids Norcia PGI exposure and generic Lyonnais conflicts).",
+        "industrySummary": "Luxury Italian salumerie — Salumeria Roscioli, Salumeria Biellese — sit at the top of the cured-meats market. The opening is an invented-family salumeria.",
+        "competitorLandscape": "Salumeria Roscioli (salumeriaroscioli.com) plays the luxury salumi peer. Salumeria Biellese (salumeriabiellese.com) holds the artisan middle. La Quercia (laquercia.us) is the artisan-cured reference. We sit as an invented-family salumeria.",
+        "positioningStatement": "Salumeria Cervati is a luxury Italian deli built on an invented family name.",
+        "targetAudience": {
+          "primary": "UHNW food buyers, top restaurants, and luxury food halls.",
+          "behaviors": [
+            "Order whole salami",
+            "Care about the curing time",
+            "Travel for cured meats"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Italian",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the family and the cellar",
+            "Print the curing protocol",
+            "Photograph the cellar"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: SALUMERIA CERVATI in a refined Italian serif, two lines centered. A small mark — a serif C monogram — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the Italian-salumeria register."
+        }
+      },
+      {
+        "brandName": "Casa Norcina",
+        "tagline": "Norcian house.",
+        "brandNameRationale": "Anchor: 'Norcian house' — couture Italian salumi from the Norcia tradition. Picked from A's three for the strongest Norcia-rooted luxury anchor. Note: Norcia is a geographic origin term — screen for PGI conflicts on any product use.",
+        "industrySummary": "Norcia-rooted luxury salumi houses sit at the top of the cured-meats market. The opening is a casa-norcina couture brand.",
+        "competitorLandscape": "Salumeria Roscioli (salumeriaroscioli.com) plays the luxury salumi peer. La Quercia (laquercia.us) holds the artisan-cured middle. Cinco Jotas (cincojotas.com) is the heritage reference. We sit as a Norcia-rooted luxury house.",
+        "positioningStatement": "Casa Norcina is a luxury Italian salumi house rooted in the Norcia tradition.",
+        "targetAudience": {
+          "primary": "UHNW food buyers, top restaurants, and luxury food halls.",
+          "behaviors": [
+            "Order whole salami",
+            "Care about the curing time",
+            "Travel to Norcia"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Italian",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the curing months",
+            "Print the cellar protocol",
+            "Photograph the curing room"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: CASA NORCINA in a refined Italian serif, two lines centered. A small mark — a single hand-drawn salami silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the casa-norcina register."
+        }
+      },
+      {
+        "brandName": "Maison Lyonnais",
+        "tagline": "Lyon charcuterie tradition.",
+        "brandNameRationale": "Anchor: Lyon charcuterie tradition — old-world prestige. Picked from A's three for the strongest French-prestige luxury anchor. Generic — verify in class.",
+        "industrySummary": "Lyon-tradition luxury charcuterie houses sit at the top of the cured-meats market. The opening is a maison-lyonnais luxury brand.",
+        "competitorLandscape": "Salumeria Roscioli (salumeriaroscioli.com) plays the luxury salumi peer. Maison Sibilia (maisonsibilia.fr) holds the Lyon-charcuterie middle. La Quercia (laquercia.us) is the artisan-cured reference. We sit as a Lyon-rooted luxury maison.",
+        "positioningStatement": "Maison Lyonnais is a luxury charcuterie house rooted in the Lyon tradition.",
+        "targetAudience": {
+          "primary": "UHNW food buyers, top restaurants, and luxury hotels.",
+          "behaviors": [
+            "Order whole saucisson",
+            "Care about the curing time",
+            "Travel to Lyon"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "French",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the Lyon tradition",
+            "Print the cellar protocol",
+            "Photograph the cellar"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON LYONNAIS in a refined French serif, two lines centered. A small mark — a saucisson silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cellar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cellar light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Charcuterie Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the Lyon-maison register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Cure.",
+        "tagline": "The verb.",
+        "brandNameRationale": "Anchor: cure — the verb at the heart of charcuterie. Single-word, period-locked. Picked from A's three for the cleanest minimal verb anchor.",
+        "industrySummary": "Single-verb minimal sausage and cured-meat brands sit cleanly in the deli niche. Cure. names the act.",
+        "competitorLandscape": "Olympia Provisions (olympiaprovisions.com) plays the modern craft-sausage peer. Brooklyn Cured (brooklyncured.com) holds the urban middle. Fra' Mani (framani.com) is the artisan reference. We sit as a single-verb minimal brand.",
+        "positioningStatement": "Cure. is a minimal cured-meats and sausage maker named for the act of curing.",
+        "targetAudience": {
+          "primary": "Home cooks 25–45 who like dry-cured meats.",
+          "behaviors": [
+            "Buy whole links and salami",
+            "Care about the cure",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the cure plainly",
+            "Show the link on plain paper",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Hide the cure time"
+          ]
+        },
+        "logoDirection": "Wordmark: cure. set large in a clean humanist sans, lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for cure labels",
+          "rationale": "One family, two registers — the cure-minimal register."
+        }
+      },
+      {
+        "brandName": "Sec",
+        "tagline": "Dry, in French.",
+        "brandNameRationale": "Anchor: sec — French for 'dry,' the saucisson-sec register. Picked from A's three for the cleanest French-minimal anchor.",
+        "industrySummary": "Three-letter French-language minimal brands sit cleanly in the dry-sausage niche. Sec names the dry cure.",
+        "competitorLandscape": "Olympia Provisions (olympiaprovisions.com) plays the modern craft-sausage peer. Brooklyn Cured (brooklyncured.com) holds the urban middle. Fra' Mani (framani.com) is the artisan reference. We sit as a French-minimal brand.",
+        "positioningStatement": "Sec is a minimal dry-sausage maker named for the dry cure in French.",
+        "targetAudience": {
+          "primary": "Home cooks 25–45 who like French dry sausage.",
+          "behaviors": [
+            "Buy whole saucisson",
+            "Care about the dry cure",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "French-leaning",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the dry cure plainly",
+            "Show the saucisson plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Hide the cure time"
+          ]
+        },
+        "logoDirection": "Wordmark: SEC set large in a clean modern sans, one word, three letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for cure labels",
+          "rationale": "One family, two registers — the sec-minimal register."
+        }
+      },
+      {
+        "brandName": "Casing",
+        "tagline": "The membrane.",
+        "brandNameRationale": "Anchor: casing — the membrane that defines a sausage. Single-word minimal mark. Picked from A's three for the cleanest noun-minimal anchor.",
+        "industrySummary": "Single-word minimal sausage brands sit cleanly in the craft niche. Casing names the defining element.",
+        "competitorLandscape": "Olympia Provisions (olympiaprovisions.com) plays the modern craft-sausage peer. The Meat Hook (the-meathook.com) holds the urban middle. Fra' Mani (framani.com) is the artisan reference. We sit as a single-word minimal brand.",
+        "positioningStatement": "Casing is a minimal sausage maker named for the membrane that defines a sausage.",
+        "targetAudience": {
+          "primary": "Home cooks 25–45 who care about the link.",
+          "behaviors": [
+            "Buy whole links",
+            "Care about the casing type",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the casing plainly",
+            "Show the link plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Hide the casing"
+          ]
+        },
+        "logoDirection": "Wordmark: CASING set large in a clean modern sans, one word, six letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Counter Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Butcher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sausage Red",
+            "hex": "#A53528",
+            "meaning": "Cured link.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the casing-minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Salumi Group",
+        "tagline": "Cured-meats operator.",
+        "brandNameRationale": "Anchor: salumi — Italian cured meats — applied to a holding-company register. Picked from A's three for the strongest salumi-corporate anchor.",
+        "industrySummary": "Salumi holding companies — multi-brand cured-meat operators — sit at the top of the salumi-corporate market. The opening is a salumi-named multi-brand operator.",
+        "competitorLandscape": "Citterio USA (citteriousa.com) plays the multi-brand salumi peer. La Quercia (laquercia.us) holds the artisan-cured middle. Volpi Foods (volpifoods.com) is the multi-brand reference. We sit as a salumi-named multi-brand operator.",
+        "positioningStatement": "Salumi Group is a multi-brand cured-meats corporate operator across salumi houses.",
+        "targetAudience": {
+          "primary": "Hospitality groups, luxury food halls, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about cellar-cycle consistency",
+            "Compare salumi vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Italian"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: SALUMI GROUP in a clean institutional serif, two lines. A small mark — a serif S monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the salumi-operator register."
+        }
+      },
+      {
+        "brandName": "Wurstwerk Holdings",
+        "tagline": "Sausage-works parent.",
+        "brandNameRationale": "Anchor: German Wurstwerk ('sausage-works') + corporate suffix. Picked from A's three for the strongest German-corporate anchor.",
+        "industrySummary": "German-tradition sausage holding companies — multi-brand wurst operators — sit at the top of the wurst-corporate market. The opening is a Wurstwerk-named multi-brand operator.",
+        "competitorLandscape": "Schaller & Weber (schallerweber.com) plays the German-wurst peer. Usinger's (usinger.com) holds the heritage middle. Bavarian Meats (bavarianmeats.com) is the wurst reference. We sit as a Wurstwerk-named multi-brand operator.",
+        "positioningStatement": "Wurstwerk Holdings is a multi-brand German-tradition sausage corporate operator.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare wurst vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "German-leaning",
+          "Reliable",
+          "Multi-brand"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: WURSTWERK HOLDINGS in a clean institutional serif, two lines. A small mark — a serif W monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Sausage Red",
+            "hex": "#A53528",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A classical serif plus a clean grotesk — the Wurstwerk-corporate register."
+        }
+      },
+      {
+        "brandName": "Charcuterie Partners",
+        "tagline": "Cured-meats parent.",
+        "brandNameRationale": "Anchor: charcuterie — straight industry term — applied to a corporate parent. Picked from A's three for the cleanest industry-term corporate anchor.",
+        "industrySummary": "Charcuterie holding companies — multi-brand cured-meat operators — sit in a real institutional space. The opening is a charcuterie-named multi-brand parent.",
+        "competitorLandscape": "Citterio USA (citteriousa.com) plays the multi-brand salumi peer. Volpi Foods (volpifoods.com) holds the multi-brand middle. Olli Salumeria (olli.com) is the artisan-corporate reference. We sit as a charcuterie-named multi-brand parent.",
+        "positioningStatement": "Charcuterie Partners is a multi-brand cured-meats corporate parent across charcuterie houses.",
+        "targetAudience": {
+          "primary": "Hospitality groups, luxury food halls, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare charcuterie vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single shop",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: CHARCUTERIE PARTNERS in a clean institutional serif, two lines. A small mark — a serif C monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Charcuterie Red",
+            "hex": "#8B2A28",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the charcuterie-corporate register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Smoke & The Casing",
+        "tagline": "Two pillars of the craft.",
+        "brandNameRationale": "Anchor: smoke (the cure) + casing (the membrane) — the two pillars of sausage-making. Picked from A's three for the strongest paired-icon editorial anchor.",
+        "industrySummary": "Paired-icon editorial sausage brands sit at the creative top. The opening is a paired-icon editorial brand with a cookbook-adjacent register.",
+        "competitorLandscape": "Olympia Provisions (olympiaprovisions.com) plays the editorial sausage peer. Brooklyn Cured (brooklyncured.com) holds the urban middle. Fra' Mani (framani.com) is the artisan reference. We sit as a paired-icon editorial brand.",
+        "positioningStatement": "The Smoke & The Casing is an editorial sausage maker with a cookbook-adjacent publishing program.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers and home cooks 28–50.",
+          "behaviors": [
+            "Read the brand cookbook",
+            "Care about the smoke and the casing",
+            "Subscribe to the journal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Cookbook-adjacent",
+          "Warm",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the cookbook",
+            "Photograph the smoke and the link",
+            "Print seasonally"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the publishing"
+          ]
+        },
+        "logoDirection": "Wordmark: THE SMOKE & THE CASING in a confident editorial serif, three lines centered. A small mark — a paired smoke-and-link silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cookbook Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Cookbook stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sausage Red",
+            "hex": "#A53528",
+            "meaning": "Cured link.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the cookbook-editorial register."
+        }
+      },
+      {
+        "brandName": "Norcia's Notebook",
+        "tagline": "Town as author.",
+        "brandNameRationale": "Anchor: Norcia (the Italian salumi town) as the storytelling author — craft salumi journal. Picked from A's three for the strongest town-storytelling editorial anchor.",
+        "industrySummary": "Town-as-author editorial salumi brands sit at the creative top. The opening is a Norcia-journal editorial brand.",
+        "competitorLandscape": "Salumeria Roscioli (salumeriaroscioli.com) plays the editorial salumi peer. La Quercia (laquercia.us) holds the artisan-cured middle. Olympia Provisions (olympiaprovisions.com) is the editorial reference. We sit as a Norcia-journal editorial brand.",
+        "positioningStatement": "Norcia's Notebook is an editorial salumi brand built on the Norcia town's story.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers 28–50 who read about Norcia.",
+          "behaviors": [
+            "Subscribe to the journal",
+            "Care about the curing time",
+            "Travel to Norcia"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Italian",
+          "Patient",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the Norcia journal",
+            "Photograph the cellar",
+            "Reference the town"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the town"
+          ]
+        },
+        "logoDirection": "Wordmark: NORCIA'S NOTEBOOK in a confident editorial serif, two lines. A small mark — a single hand-drawn salami silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Notebook Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Notebook stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salumi Red",
+            "hex": "#8B2A28",
+            "meaning": "Cured meat.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and journal",
+          "rationale": "A high-contrast serif plus a reading serif — the Norcia-journal register."
+        }
+      },
+      {
+        "brandName": "Knot & Link",
+        "tagline": "The tied chain.",
+        "brandNameRationale": "Anchor: the tied knot and the link — the chain of a sausage rope. Picked from A's three for the playful butcher-mark editorial anchor.",
+        "industrySummary": "Playful-mark editorial sausage brands sit in a real craft niche. The opening is a knot-and-link editorial brand.",
+        "competitorLandscape": "Olympia Provisions (olympiaprovisions.com) plays the editorial sausage peer. The Meat Hook (the-meathook.com) holds the urban middle. Brooklyn Cured (brooklyncured.com) is the urban-craft reference. We sit as a knot-and-link editorial brand.",
+        "positioningStatement": "Knot & Link is a creative sausage maker named for the tied loop of a sausage chain.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers and home cooks 28–45.",
+          "behaviors": [
+            "Buy whole links",
+            "Read the brand journal",
+            "Care about the knot and the tie"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Playful",
+          "Warm",
+          "Craft"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the knot plainly",
+            "Print the seasonal journal",
+            "Photograph the chain"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the journal"
+          ]
+        },
+        "logoDirection": "Wordmark: KNOT & LINK in a confident editorial serif, one line. A small mark — a single knot glyph — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sausage Red",
+            "hex": "#A53528",
+            "meaning": "Cured link.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the knot-and-link register."
+        }
+      }
+    ]
+  }
+}
