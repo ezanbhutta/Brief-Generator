@@ -1,0 +1,321 @@
+{
+  "industry": "theater",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "The Dramaturg",
+        "tagline": "The argument behind the season.",
+        "brandNameRationale": "The dramaturg is the literary-and-context role formalized by Lessing at the Hamburg National Theatre in 1767 (Hamburgische Dramaturgie) — still the production's intellectual conscience. The brand puts the dramaturg on the marquee.",
+        "industrySummary": "Modern producing theaters have been competing on celebrity casting and Broadway-aspirant programming. There is room for a company that puts the literary intelligence behind the season on the marquee.",
+        "competitorLandscape": "Soho Rep (sohorep.org) holds the modern producing peer position. Playwrights Horizons (playwrightshorizons.org) plays the new-writing reference. Lincoln Center Theater (lct.org) sits in the institutional middle. We sit smaller and more curatorial.",
+        "positioningStatement": "A modern producing theater curated around a guest dramaturg's argument.",
+        "targetAudience": {
+          "primary": "30 to 55. Sees ten plays a year. Reads the program before the curtain. Subscribes to the literary magazines.",
+          "behaviors": [
+            "Buys a season subscription",
+            "Reads the dramaturg's note",
+            "Talks about the play afterward"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Literary",
+          "Considered",
+          "Modern",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the dramaturg's argument before the season",
+            "Name the guest dramaturg on the marquee",
+            "Print the season program as an essay"
+          ],
+          "donts": [
+            "Lead with the star",
+            "Photograph actors against brick",
+            "Run a bestseller-style ticket sale"
+          ]
+        },
+        "logoDirection": "A wordmark. The Dramaturg set in a calm modern serif, with a single underline beneath the word, suggesting the dramaturg's pencil mark on the script.",
+        "colorPalette": [
+          {
+            "name": "Script Ink",
+            "hex": "#181818",
+            "meaning": "Pencil on script.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Program Cream",
+            "hex": "#F2EEE2",
+            "meaning": "Printed program.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Stage Red",
+            "hex": "#8B1A1A",
+            "meaning": "Curtain.",
+            "usage": "Accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and the program",
+          "secondary": "Söhne for the website",
+          "rationale": "Sectra carries the literary register. Söhne handles the ticketing."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Drury & Garrick",
+        "tagline": "The actor-manager tradition, revived.",
+        "brandNameRationale": "Theatre Royal, Drury Lane (London, 1663 patent) and David Garrick — the actor-manager who ran it 1747–1776 and naturalized Shakespeare on the modern stage. The pair places the brand in the English actor-manager lineage. Drury and Garrick are historical and geographic references, not active marks.",
+        "industrySummary": "Top-end producing theater has been moving toward subscription packages and corporate hospitality. There is space for a producing house anchored in the English actor-manager tradition — a named principal company, flagship Shakespeare, a season subscription that means something.",
+        "competitorLandscape": "Royal Shakespeare Company (rsc.org.uk) holds the institutional reference. National Theatre (nationaltheatre.org.uk) plays the producing peer. Donmar Warehouse (donmarwarehouse.com) sits in the prestige middle. We sit smaller and more actor-led.",
+        "positioningStatement": "A luxury producing house anchored in the English actor-manager tradition.",
+        "targetAudience": {
+          "primary": "45 to 75. Subscribes to two opera houses. Sees the principal actor every season. Donates to the building fund.",
+          "behaviors": [
+            "Holds the same box for years",
+            "Reads the program before dinner",
+            "Travels for opening night"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Heritage",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the principal actor",
+            "Reference the Garrick tradition",
+            "Send paper invitations by post"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Run a flash sale",
+            "Promote on Instagram"
+          ]
+        },
+        "logoDirection": "A serif wordmark. Drury & Garrick set in a high-contrast classical face, with a single hand-drawn proscenium-arch hallmark, used in gold foil on the season subscription card.",
+        "colorPalette": [
+          {
+            "name": "Drury Red",
+            "hex": "#7A1F1F",
+            "meaning": "Curtain at Drury Lane.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Garrick Gold",
+            "hex": "#A8893E",
+            "meaning": "Foil on the program.",
+            "usage": "Hallmark, foil"
+          },
+          {
+            "name": "Program Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Heavy paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Pit Black",
+            "hex": "#1A1410",
+            "meaning": "Orchestra pit.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and printed program",
+          "secondary": "Söhne for the few digital surfaces",
+          "rationale": "Caslon carries the English playbill heritage. Söhne handles the seat-map confirmation."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Unities",
+        "tagline": "One place. One time. One action.",
+        "brandNameRationale": "The three Aristotelian unities (time, place, action) — the Renaissance reading of Aristotle's Poetics that governed French neoclassical drama (Racine, Corneille). The brand is the constraint.",
+        "industrySummary": "Black-box theater has been programming festivals of short pieces and crossover work. There is room for a minimal company that holds the line on the unities — one play at a time, one set, one continuous timeframe.",
+        "competitorLandscape": "The Wooster Group (thewoostergroup.org) plays the experimental minimalist peer. Big Dance Theater (bigdancetheater.org) sits in the formal-constraint middle. We sit further out — the unities are the brand.",
+        "positioningStatement": "A theater company whose programming is the formal constraint.",
+        "targetAudience": {
+          "primary": "Adults who want one play, one set, one continuous evening. They want the form to do the work."
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Considered",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the time, place, and action",
+            "Confirm the runtime in advance",
+            "Use plain English"
+          ],
+          "donts": [
+            "Program a festival",
+            "Run a multi-show season",
+            "Use the word immersive"
+          ]
+        },
+        "logoDirection": "A wordmark only. Unities in a single-weight grotesk, set wide. The favicon is a single small dot — the unity of place reduced to a point.",
+        "colorPalette": [
+          {
+            "name": "Stage Ink",
+            "hex": "#181818",
+            "meaning": "Stage floor.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Lime Wash",
+            "hex": "#F4F0E6",
+            "meaning": "Backdrop.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B1A1A",
+            "meaning": "Secondary accent.",
+            "usage": "The dot, the season mark"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The form is the brand."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "The Repertory Company",
+        "tagline": "Resident company. Rotating season.",
+        "brandNameRationale": "The repertory system — the rotating-program model adopted by the Moscow Art Theatre, the Berliner Ensemble, and Britain's regional reps (Birmingham Rep, founded 1913). The definite article + Company suffix places the brand in the institutional producing tradition.",
+        "industrySummary": "Regional producing theater has been competing for civic funding and corporate hospitality. There is space for an institution that operates on the repertory model — resident company, rotating season, standing corporate boxes.",
+        "competitorLandscape": "Steppenwolf Theatre Company (steppenwolf.org) holds the resident-ensemble reference. Manhattan Theatre Club (manhattantheatreclub.com) plays the institutional peer. Roundabout Theatre Company (roundabouttheatre.org) sits in the subscription middle. We sit closer to Steppenwolf in posture.",
+        "positioningStatement": "A resident company on a rotating-season repertory model, with civic and corporate hospitality.",
+        "targetAudience": {
+          "primary": "Corporate hospitality buyers, civic foundation officers, and season subscribers at companies and institutions with annual cultural-giving budgets.",
+          "motivations": [
+            "Standing corporate boxes",
+            "Reliable subscription program",
+            "Civic-funded institution with continuity"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Considered",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the season in spring",
+            "Name the resident ensemble",
+            "Speak to the subscriber, not the single ticket"
+          ],
+          "donts": [
+            "Lead with the star",
+            "Run a flash discount",
+            "Promote on TikTok"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a thin proscenium arch reduced to three strokes. Reads cleanly on a season subscription card, a corporate-box pass, and an email signature.",
+        "colorPalette": [
+          {
+            "name": "Civic Navy",
+            "hex": "#102236",
+            "meaning": "Civic institution.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Program Cream",
+            "hex": "#F4F2EE",
+            "meaning": "Heavy paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#7A1F1F",
+            "meaning": "House curtain.",
+            "usage": "Accents"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the website and ticketing",
+          "secondary": "Source Serif Pro for the printed season program",
+          "rationale": "Inter scales clean. The serif carries the printed season program."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Dionysia",
+        "tagline": "Three playwrights. Three days. One verdict.",
+        "brandNameRationale": "The City Dionysia — the Athenian festival (6th c. BC) where Aeschylus, Sophocles, and Euripides competed and Western tragedy was invented; the ancestor of every festival from Avignon to Edinburgh. The single word places the brand in the festival lineage.",
+        "industrySummary": "Theater festivals have been chasing celebrity directors and Hollywood programming. There is room for a creative festival structured as a competition — three playwrights, three days, an audience verdict.",
+        "competitorLandscape": "Edinburgh International Festival (eif.co.uk) holds the festival reference. Under the Radar (publictheater.org) plays the new-work festival peer. Avignon Festival (festival-avignon.com) sits in the European middle. We sit smaller and more competitive — the verdict is the form.",
+        "positioningStatement": "A theater festival structured as a competition.",
+        "targetAudience": {
+          "primary": "30 to 60. Buys a festival pass. Sees three plays in three days. Votes at the end.",
+          "behaviors": [
+            "Buys early-bird festival passes",
+            "Reads about the playwrights in advance",
+            "Talks about the verdict afterward"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Literary",
+          "Playful"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the three playwrights early",
+            "Publish the rules of the verdict",
+            "Print the ballot by hand"
+          ],
+          "donts": [
+            "Run a celebrity sponsorship",
+            "Use the word immersive",
+            "Apologize for the form"
+          ]
+        },
+        "logoDirection": "A wordmark. Dionysia set in a punchy display serif, with a single hand-drawn laurel-wreath sprig as the hallmark, used on the festival pass and the printed ballot.",
+        "colorPalette": [
+          {
+            "name": "Wine Red",
+            "hex": "#5B1A2B",
+            "meaning": "Dionysian wine.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Marble Cream",
+            "hex": "#F2EEE2",
+            "meaning": "Athenian marble.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Laurel Gold",
+            "hex": "#A8893E",
+            "meaning": "Wreath foil.",
+            "usage": "Hallmark, accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and printed material",
+          "secondary": "Söhne for the website",
+          "rationale": "Sectra carries the editorial register of the festival. Söhne handles the booking."
+        }
+      }
+    ]
+  }
+}
