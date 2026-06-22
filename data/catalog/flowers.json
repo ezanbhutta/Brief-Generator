@@ -1,0 +1,915 @@
+{
+  "industry": "flowers",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Aalsmeer & Co",
+        "tagline": "Auction-fresh.",
+        "brandNameRationale": "Anchor: Royal FloraHolland's Aalsmeer auction (founded 1912), the world's largest flower auction, where prices are still set by descending Dutch clock each morning. Picked from A's three \u2014 REJECTED Spry Atelier (Constance Spry TM concern). Aalsmeer is a place name; the auction is institutional but 'Aalsmeer & Co' as a private florist brand is clean.",
+        "industrySummary": "Modern floristry has split between high-end DTC bouquets (UrbanStems, Floom) and editorial event florists. The opening is for a source-led modern florist that talks about the auction floor.",
+        "competitorLandscape": "Floom (floom.com) plays the curated marketplace. UrbanStems (urbanstems.com) holds the DTC middle. The Sill (thesill.com) is the adjacent plant peer. We sit alongside Floom with a sharper source story.",
+        "positioningStatement": "Aalsmeer & Co is a source-led modern florist with auction-fresh stems and a clear vase-first ethic.",
+        "targetAudience": {
+          "primary": "Design-literate urban buyers 28\u201348 ordering for self and friends.",
+          "behaviors": [
+            "Order weekly stems",
+            "Care about the source and the variety name",
+            "Tip the florist for a particular hand"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Source-led",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the variety and the grower",
+            "Show the vase, not just the bouquet",
+            "Print delivery dates as the calendar"
+          ],
+          "donts": [
+            "Use 'luxury blooms' as a phrase",
+            "Photograph with rose-petal scatter",
+            "Hide the origin"
+          ]
+        },
+        "logoDirection": "Wordmark only: AALSMEER & CO in a tight modern grotesk, one line. A small mark \u2014 a single clock-face silhouette (the auction clock) \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Bucket Black",
+            "hex": "#121214",
+            "meaning": "Auction bucket.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F2ECDC",
+            "meaning": "Bouquet wrap.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tulip Coral",
+            "hex": "#D75C5A",
+            "meaning": "Tulip accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for variety names and prices",
+          "rationale": "A modern grotesk plus a mono \u2014 the variety-label register."
+        }
+      },
+      {
+        "brandName": "Floriade Studio",
+        "tagline": "Horticulture at studio scale.",
+        "brandNameRationale": "Anchor: The Floriade \u2014 the Dutch decennial horticultural world expo, first held 1960 in Rotterdam, the Olympics of flowers. Picked from A's three for the strongest horticultural-ambition anchor.",
+        "industrySummary": "Contemporary florists with horticultural ambition \u2014 those who grow some of what they sell, run their own field, and publish a journal \u2014 are the editorial top of modern floristry.",
+        "competitorLandscape": "Wagner van Dam (wagnerflowers.nl) plays the Amsterdam editorial peer. McQueens (mcqueensflowers.com) holds the London editorial middle. Saipua (saipua.com) is the Brooklyn farm-florist reference. We sit alongside Saipua with sharper modern identity.",
+        "positioningStatement": "Floriade Studio is a contemporary florist with horticultural ambition \u2014 own-grown, market-supplemented, and editorially programmed.",
+        "targetAudience": {
+          "primary": "Editors, designers, and design-literate clients commissioning weekly and event florals.",
+          "behaviors": [
+            "Read the field journal",
+            "Visit the studio in person",
+            "Order seasonal subscriptions"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Horticultural",
+          "Modern",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the species and the field",
+            "Show the field, not just the bouquet",
+            "Publish a quarterly journal"
+          ],
+          "donts": [
+            "Sell 'luxury blooms'",
+            "Use stock floral imagery",
+            "Hide the price"
+          ]
+        },
+        "logoDirection": "Wordmark: FLORIADE STUDIO in a clean modern grotesk, two lines. A small mark \u2014 a single tulip-and-stem line drawing \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Field Green",
+            "hex": "#3C5238",
+            "meaning": "Cut-flower field.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F1ECDC",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#161618",
+            "meaning": "Body ink.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "Tiempos Text for journal body",
+          "rationale": "A quiet grotesk with a reading serif for the journal \u2014 the editorial-florist register."
+        }
+      },
+      {
+        "brandName": "Stems Per Day",
+        "tagline": "Subscription flowers, honest.",
+        "brandNameRationale": "Anchor: The Dutch wholesale convention of pricing by stems-per-day delivery batch \u2014 the basic operating unit of modern florist subscription. Counter-proposal to keep three solid modern entries (Spry Atelier rejected). Strong commercial-modern anchor.",
+        "industrySummary": "Subscription-led florists are the fastest-growing modern segment. The market needs a brand that names the operating reality \u2014 stems, days, delivery \u2014 without lifestyle gloss.",
+        "competitorLandscape": "Bouqs (bouqs.com) plays the subscription peer. Floom (floom.com) holds the marketplace middle. Farmgirl Flowers (farmgirlflowers.com) is the California single-source reference. We sit alongside Bouqs with sharper, honest identity.",
+        "positioningStatement": "Stems Per Day is a subscription florist that ships the same number of fresh stems every week \u2014 no upsell, no lifestyle.",
+        "targetAudience": {
+          "primary": "Subscription-buying urban professionals 25\u201345 wanting flowers without thinking weekly.",
+          "behaviors": [
+            "Set up an auto-delivery",
+            "Care about freshness",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Honest",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the stems and the day",
+            "Show the unboxing as-is",
+            "Print the calendar plainly"
+          ],
+          "donts": [
+            "Sell 'curated bouquets'",
+            "Photograph table styling",
+            "Use 'luxury' anywhere"
+          ]
+        },
+        "logoDirection": "Wordmark: STEMS PER DAY in a modern grotesk, three lines stacked. A small mark \u2014 three vertical lines (stems) \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Stem Green",
+            "hex": "#3E5A38",
+            "meaning": "Cut stem.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Bucket Black",
+            "hex": "#131315",
+            "meaning": "Wordmark.",
+            "usage": "Body"
+          },
+          {
+            "name": "Wrap Cream",
+            "hex": "#F1ECDC",
+            "meaning": "Kraft wrap.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights \u2014 the modern subscription-DTC register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Empress Jos\u00e9phine Florals",
+        "tagline": "Heritage roses, properly served.",
+        "brandNameRationale": "Anchor: Jos\u00e9phine Bonaparte's Malmaison gardens (1799\u20131814), where she collected 250 rose varieties and made the rose a fixture of European luxury. Picked from A's three \u2014 REJECTED Maison Lachaume (active Paris business). Jos\u00e9phine is a clear public-domain heritage anchor.",
+        "industrySummary": "Heritage-rose and event floristry occupies the top of the wedding and corporate-event market. Buyers commission single-variety installations and pay accordingly.",
+        "competitorLandscape": "Putnam & Putnam (putnamflowers.com) plays the New York editorial-event peer. Eric Buterbaugh (ericbuterbaughfloraldesign.com) holds the Los Angeles luxury middle. JamJar Flowers (jamjarflowers.co.uk) is the London editorial reference. We sit alongside Putnam with a heritage-rose frame.",
+        "positioningStatement": "Empress Jos\u00e9phine Florals is a heritage-rose and event floristry house for weddings, private parties, and brand activations.",
+        "targetAudience": {
+          "primary": "Wedding planners, brand creative directors, and UHNW event hosts.",
+          "behaviors": [
+            "Commission single-variety installations",
+            "Visit growers at Malmaison or in Provence",
+            "Care about the rose variety name"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Botanical",
+          "Refined",
+          "Editorial"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the rose variety",
+            "Photograph the installation at twilight",
+            "Treat the program card as the artifact"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph stock weddings",
+            "Show price"
+          ]
+        },
+        "logoDirection": "Wordmark: EMPRESS JOS\u00c9PHINE FLORALS in a refined French didone, three lines centered. A small mark \u2014 a single rose-and-bud line drawing \u2014 used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Malmaison Cream",
+            "hex": "#F2EAD3",
+            "meaning": "Salon paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Jos\u00e9phine Rose",
+            "hex": "#C68A8E",
+            "meaning": "Rose of Malmaison.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Garden Green",
+            "hex": "#3F5236",
+            "meaning": "Boxwood.",
+            "usage": "Secondary surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A French didone paired with a quiet reading serif \u2014 the Malmaison register."
+        }
+      },
+      {
+        "brandName": "Tulipomania",
+        "tagline": "Rare bulbs, properly held.",
+        "brandNameRationale": "Anchor: The Dutch tulip mania of 1636\u201337, when a single Semper Augustus bulb traded for the price of an Amsterdam canal house. Picked from A's three for the strongest single-bulb-tier anchor.",
+        "industrySummary": "Rare-bulb and heritage-tulip floristry \u2014 installations using specific named varieties, often single-source from Dutch growers \u2014 is a small but real luxury category, mostly serving high-end weddings and brand events.",
+        "competitorLandscape": "JamJar Flowers (jamjarflowers.co.uk) plays the editorial luxury peer. Nikki Tibbles Wild at Heart (wildatheart.com) holds the London florist middle. Saipua (saipua.com) is the Brooklyn farm-florist reference. We sit as a tulip-and-rare-bulb specialist.",
+        "positioningStatement": "Tulipomania is a luxury rare-bulb and arrangement house specializing in heritage tulips and Dutch named varieties.",
+        "targetAudience": {
+          "primary": "Wedding planners, brand creative directors, and Dutch-flower enthusiasts.",
+          "behaviors": [
+            "Pre-order specific varieties a season ahead",
+            "Visit Aalsmeer for the spring",
+            "Care about Semper Augustus"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Editorial",
+          "Quietly Dutch",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the variety in Dutch and English",
+            "Treat the bulb as the brand",
+            "Print provenance with the bouquet"
+          ],
+          "donts": [
+            "Sell 'tulip bouquets' as a category",
+            "Use stock spring imagery",
+            "Skip the variety name"
+          ]
+        },
+        "logoDirection": "Wordmark: TULIPOMANIA set in a Dutch-Renaissance serif, one word, one line. A small mark \u2014 a single Semper Augustus tulip cross-section \u2014 used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Bulb Cream",
+            "hex": "#F1EAD3",
+            "meaning": "Tulip paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Augustus Red",
+            "hex": "#A12830",
+            "meaning": "Semper Augustus stripe.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Canal Black",
+            "hex": "#131418",
+            "meaning": "Amsterdam canal.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "DTL Fleischmann for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A Dutch-Renaissance serif plus a contemporary reading serif \u2014 the bulb-catalog register."
+        }
+      },
+      {
+        "brandName": "Sissinghurst Atelier",
+        "tagline": "Garden-led floristry.",
+        "brandNameRationale": "Anchor: Sissinghurst Castle Garden in Kent, the white garden created by Vita Sackville-West and Harold Nicolson in the 1930s \u2014 England's most influential garden. Counter-proposal third pick (Sissinghurst is owned by the National Trust; using as an atelier homage rather than direct claim works as 'in the Sissinghurst tradition' framing).",
+        "industrySummary": "Garden-led floristry \u2014 florists who grow most of what they cut, run an editorial brand, and command long lead times \u2014 is a small but visible top tier of the British wedding and editorial market.",
+        "competitorLandscape": "Worm London (wormlondon.com) plays the design-led foraged peer. Scarlet & Violet (scarletandviolet.com) holds the editorial-British middle. McQueens (mcqueensflowers.com) is the institutional-London reference. We sit alongside Scarlet & Violet with a sharper garden frame.",
+        "positioningStatement": "Sissinghurst Atelier is a garden-led floral design studio for editorial, wedding, and small private commissions.",
+        "targetAudience": {
+          "primary": "Editorial stylists, garden-literate brides, and design-literate UHNW clients.",
+          "behaviors": [
+            "Subscribe to House & Garden",
+            "Visit gardens annually",
+            "Care about Vita Sackville-West"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Garden-literate",
+          "Editorial",
+          "Patient",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the variety and the garden",
+            "Photograph the field at dawn",
+            "Print a seasonal pamphlet"
+          ],
+          "donts": [
+            "Sell stock spring-summer-autumn-winter packages",
+            "Use foreign hothouse stems exclusively",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: SISSINGHURST ATELIER set in a refined English serif, two lines. A small mark \u2014 a single white-rose-and-leaf line drawing \u2014 used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Garden Cream",
+            "hex": "#F0EBD8",
+            "meaning": "Sissinghurst paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "White Garden",
+            "hex": "#F8F4EA",
+            "meaning": "Famous white.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5236",
+            "meaning": "Yew hedge.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A classical English serif plus a reading serif \u2014 the English garden register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Stem",
+        "tagline": "One stem at a time.",
+        "brandNameRationale": "Anchor: The stem itself \u2014 the structural element every florist trims, conditions, and arranges. Single-syllable, trade-honest. Picked from A's three for the cleanest minimal anchor.",
+        "industrySummary": "Single-stem and small-bouquet studios serve a real urban niche \u2014 buyers who want one variety, one wrap, no fuss. The brand has to be quiet.",
+        "competitorLandscape": "The Sill (thesill.com) plays the single-product DTC peer (plants). Floom (floom.com) holds the curated marketplace middle. UrbanStems (urbanstems.com) is the subscription reference. We sit as a single-stem, single-wrap brand.",
+        "positioningStatement": "Stem is a minimalist single-stem and small-bouquet studio for urban offices, apartments, and small events.",
+        "targetAudience": {
+          "primary": "Single buyers 25\u201345 in cities, ordering one variety at a time.",
+          "behaviors": [
+            "Order single-variety bunches",
+            "Care about freshness",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show one stem on a plain background",
+            "Print the variety in plain English",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Sell 'curated bouquets'",
+            "Photograph against marble",
+            "Use 'luxe' anywhere"
+          ]
+        },
+        "logoDirection": "Wordmark: STEM set very large in a clean modern sans, one word, four letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Stem Green",
+            "hex": "#3E5A38",
+            "meaning": "Cut stem.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F2ECDB",
+            "meaning": "Wrap paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for variety labels",
+          "rationale": "One family, two registers \u2014 the minimal DTC florist register."
+        }
+      },
+      {
+        "brandName": "Floriography",
+        "tagline": "Meaning, by the stem.",
+        "brandNameRationale": "Anchor: The Victorian 'language of flowers' codified in Charlotte de la Tour's Le Langage des Fleurs (1819) and Kate Greenaway's 1884 English edition. Picked from A's three for the strongest meaning-led anchor.",
+        "industrySummary": "Meaning-led floristry \u2014 bouquets that come with the historical floriography meaning, printed on a card \u2014 is a small editorial niche, mostly serving gift and wedding markets. There's room for a quiet brand.",
+        "competitorLandscape": "Floom (floom.com) plays the curated marketplace. Bloom & Wild (bloomandwild.com) holds the DTC middle. Pop Up Florist (popupflorist.com) is the New York editorial reference. We sit as a meaning-led editorial brand.",
+        "positioningStatement": "Floriography is a quiet, meaning-led arrangement brand for gifts and small weddings \u2014 every bouquet carries the historical floriography reading.",
+        "targetAudience": {
+          "primary": "Gift buyers, wedding clients, and editorial clients wanting meaning over scale.",
+          "behaviors": [
+            "Care what the flowers say",
+            "Read Kate Greenaway",
+            "Send flowers as letters"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Meaning-led",
+          "Editorial",
+          "Quiet",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the meaning on the card",
+            "Name the variety and the source",
+            "Use white space generously"
+          ],
+          "donts": [
+            "Sell 'mystery bouquets'",
+            "Use stock floral lifestyle",
+            "Crowd the card"
+          ]
+        },
+        "logoDirection": "Wordmark: FLORIOGRAPHY in a refined English serif, one word, one line. A small mark \u2014 a single hand-drawn forget-me-not \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Letter Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Letter paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#151517",
+            "meaning": "Letter ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Forget-Me-Not",
+            "hex": "#6A86B2",
+            "meaning": "The original meaning-flower.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "Classical Caslon plus a reading serif \u2014 the Victorian-letter register, modernized."
+        }
+      },
+      {
+        "brandName": "Posy",
+        "tagline": "Hand-tied, hand-given.",
+        "brandNameRationale": "Anchor: The posy / nosegay \u2014 small hand-tied bouquets carried since the 15th c. to mask street odors, and the origin of the bridal bouquet. Picked from A's three for the cleanest small-bouquet anchor.",
+        "industrySummary": "Small-batch hand-tied florists serve the gift market and the wedding-toss market well. The brand reads as a quiet, friendly studio.",
+        "competitorLandscape": "Floom (floom.com) plays the curated marketplace. Pop Up Florist (popupflorist.com) is the editorial-New-York reference. Wild at Heart (wildatheart.com) holds the London middle. We sit as a small posy-and-gift studio.",
+        "positioningStatement": "Posy is a small-batch, hand-tied florist for gifts, small weddings, and weekday cheer.",
+        "targetAudience": {
+          "primary": "Gift buyers and small-wedding clients wanting hand-tied, hand-delivered bouquets.",
+          "behaviors": [
+            "Send flowers without occasion",
+            "Care about hand-tied versus pre-arranged",
+            "Tip the courier"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Spare",
+          "Hand-led",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the hand-tied photo",
+            "Name the courier",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Sell mass-market bouquets",
+            "Photograph against marble",
+            "Use 'curated' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: POSY in a soft humanist serif, one word, four letters. A small mark \u2014 a single hand-drawn small bouquet \u2014 used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Posy Pink",
+            "hex": "#E9B7B3",
+            "meaning": "Hand-tied tone.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Wrap Cream",
+            "hex": "#F2ECDB",
+            "meaning": "Brown-paper wrap.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#161618",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A friendly reading serif plus a quiet grotesk \u2014 the small-studio register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Covent Garden Floral Co",
+        "tagline": "Wholesale and event florals at scale.",
+        "brandNameRationale": "Anchor: The old Covent Garden flower market in central London (1670\u20131974) and its successor, New Covent Garden at Nine Elms \u2014 the trade hub of British floristry. Picked from A's three \u2014 REJECTED Royal Horticultural (protected). Covent Garden as a market location is a public name with no flower-business trademark.",
+        "industrySummary": "Wholesale and large-event floristry is a real institutional market \u2014 hotels, embassies, brand activations \u2014 that needs a serious B2B counterpart, not a designer-led atelier.",
+        "competitorLandscape": "Wild at Heart Corporate (wildatheart.com) plays the institutional London peer. Larry Walshe Studios (larrywalshe.com) holds the events-and-brand middle. Banchet Flowers (banchetflowers.com) is the New York wholesale reference. We sit as a wholesale-and-event corporate florist.",
+        "positioningStatement": "Covent Garden Floral Co provides wholesale and large-event florals at institutional scale for hotels, embassies, and brand activations.",
+        "targetAudience": {
+          "primary": "Hotel F&B directors, brand event teams, and event-production agencies.",
+          "behaviors": [
+            "RFP yearly contracts",
+            "Care about reliability and scale",
+            "Issue contracts in pounds and stems"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Plain",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in stems and stems-per-week",
+            "Show the warehouse, not just the bouquet",
+            "Print contracts as the artifact"
+          ],
+          "donts": [
+            "Pretend to be an atelier",
+            "Photograph weddings as the case study",
+            "Hide the price list"
+          ]
+        },
+        "logoDirection": "Wordmark: COVENT GARDEN above, FLORAL CO below, in a confident English serif. A small mark \u2014 a single classical market-arch silhouette \u2014 used on invoices.",
+        "colorPalette": [
+          {
+            "name": "Market Black",
+            "hex": "#1A1B1E",
+            "meaning": "Invoice ink.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Crate Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Wholesale crate.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stem Green",
+            "hex": "#3F5236",
+            "meaning": "Cut stem.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and invoices",
+          "rationale": "A classical English serif plus a clean grotesk \u2014 the wholesale-invoice register."
+        }
+      },
+      {
+        "brandName": "Linnaeus Floral Group",
+        "tagline": "Botanically rigorous.",
+        "brandNameRationale": "Anchor: Carl Linnaeus (1707\u20131778), the Swedish botanist whose binomial nomenclature gave every flower its modern Latin name. Picked from A's three \u2014 Linnaeus is the cleanest corporate-botanical anchor with no active mark conflict.",
+        "industrySummary": "Botanically rigorous corporate florists \u2014 those who quote in Latin binomials and serve institutional clients \u2014 are a small but growing tier, especially for museums, universities, and corporate HQs.",
+        "competitorLandscape": "FlowerBx (flowerbx.com) plays the institutional-DTC peer. McQueens Corporate (mcqueensflowers.com) holds the events-and-corporate middle. Banchet Flowers (banchetflowers.com) is the New York reference. We sit as a botanical-corporate florist with sharper editorial frame.",
+        "positioningStatement": "Linnaeus Floral Group is a botanically rigorous corporate florist for museums, universities, and corporate HQs.",
+        "targetAudience": {
+          "primary": "Corporate event teams, museum curators, and university advancement offices.",
+          "behaviors": [
+            "Quote in Latin and English",
+            "Care about provenance and variety",
+            "Issue institutional contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Botanical",
+          "Institutional",
+          "Refined",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the binomial name on every arrangement",
+            "Quote provenance and variety",
+            "Print contracts as the artifact"
+          ],
+          "donts": [
+            "Pretend to be a wedding atelier",
+            "Hide the price",
+            "Use lifestyle imagery as the case study"
+          ]
+        },
+        "logoDirection": "Wordmark: LINNAEUS FLORAL GROUP set in a refined botanical serif, two lines. A small mark \u2014 a Linnaean-plate-style line drawing of a single flower \u2014 used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Plate Cream",
+            "hex": "#F1EBD6",
+            "meaning": "Botanical-plate paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Botanical Green",
+            "hex": "#3D5232",
+            "meaning": "Plate leaf.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Print Ink",
+            "hex": "#141518",
+            "meaning": "Plate engraving.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A reading serif plus a quiet grotesk \u2014 the botanical-plate register."
+        }
+      },
+      {
+        "brandName": "Hortus Group",
+        "tagline": "The corporate garden.",
+        "brandNameRationale": "Anchor: Hortus \u2014 the Latin word for garden, used by botanical institutions since the 16th c. (Hortus Botanicus Leiden, founded 1590, is the oldest in northern Europe). A clean corporate-Latin anchor. Counter-proposal third corporate option to round out a strong set.",
+        "industrySummary": "Corporate landscape and interior-plant programs \u2014 annual contracts that combine cut flowers, planting, and seasonal installations \u2014 are a real B2B category, mostly delivered by large facilities firms.",
+        "competitorLandscape": "Ambius (ambius.com) is the corporate-plant incumbent. Plantscape Inc (plantscape.com) plays the U.S. middle. Indoor Landscape Solutions (ils-uk.com) holds the UK reference. We sit as a more editorial corporate-hortus brand.",
+        "positioningStatement": "Hortus Group provides corporate planting, cut-flower, and seasonal-installation programs for offices, hotels, and institutional clients.",
+        "targetAudience": {
+          "primary": "Facilities directors, hotel operations, and corporate real-estate teams.",
+          "behaviors": [
+            "Sign annual maintenance contracts",
+            "Care about reliability and aesthetics together",
+            "Compare facilities vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Quietly modern",
+          "Botanical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in annual contracts",
+            "Show the seasonal calendar",
+            "Print the variety binomial"
+          ],
+          "donts": [
+            "Brand as a wedding florist",
+            "Hide the price book",
+            "Use stock imagery"
+          ]
+        },
+        "logoDirection": "Wordmark: HORTUS GROUP in a clean Roman-flavored serif, one line. A small mark \u2014 a simple walled-garden plan view \u2014 used on invoices.",
+        "colorPalette": [
+          {
+            "name": "Hortus Green",
+            "hex": "#3F5234",
+            "meaning": "Hedge green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Stone Cream",
+            "hex": "#F0EBD7",
+            "meaning": "Garden paving.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Print Ink",
+            "hex": "#151518",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and invoices",
+          "rationale": "A classical reading serif plus a clean grotesk \u2014 the corporate-contract register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Semper Augustus",
+        "tagline": "The most expensive flower ever sold.",
+        "brandNameRationale": "Anchor: Semper Augustus \u2014 the legendary red-and-white striped tulip of the 1630s Dutch craze, the most expensive flower ever sold. Picked from A's three for the most charged creative anchor.",
+        "industrySummary": "Storytelling florists for editorial and weddings live on Instagram press, magazine features, and word of mouth in fashion and design circles. The category rewards a name that travels.",
+        "competitorLandscape": "Putnam & Putnam (putnamflowers.com) plays the editorial New York peer. Doan Ly / a.p. bio (a-p-bio.com) holds the editorial-installation middle. JamJar Flowers (jamjarflowers.co.uk) is the London reference. We sit alongside Putnam with a stronger named-anchor.",
+        "positioningStatement": "Semper Augustus is a storytelling florist for editorial, fashion, and high-end weddings \u2014 every arrangement carries a story.",
+        "targetAudience": {
+          "primary": "Editorial stylists, fashion creative directors, and editorial-tier wedding clients.",
+          "behaviors": [
+            "Pin Putnam & Putnam to a moodboard",
+            "Care about the variety name",
+            "Travel for installations"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Storytelling",
+          "Quietly historical",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the variety and the story",
+            "Photograph the install at twilight",
+            "Print the program card"
+          ],
+          "donts": [
+            "Sell 'curated bouquets'",
+            "Use stock imagery",
+            "Hide the variety"
+          ]
+        },
+        "logoDirection": "Wordmark: SEMPER AUGUSTUS in a refined Dutch-Renaissance serif, two lines. A small mark \u2014 a single Semper Augustus tulip silhouette with stripe \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Augustus Cream",
+            "hex": "#F1EBD2",
+            "meaning": "Tulip-cream petal.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Augustus Red",
+            "hex": "#A12830",
+            "meaning": "Tulip stripe.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Canal Ink",
+            "hex": "#131419",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "DTL Fleischmann for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A Dutch-Renaissance serif plus a contemporary reading serif \u2014 the tulip-mania register."
+        }
+      },
+      {
+        "brandName": "Floralia",
+        "tagline": "Roman games for the spring.",
+        "brandNameRationale": "Anchor: Floralia \u2014 the Roman festival of Flora (April 28 \u2013 May 3), goddess of flowers and spring, marked by rose-strewn games. Picked from A's three for the most playful color-forward anchor.",
+        "industrySummary": "Playful, color-forward floral studios live in the editorial wedding and brand-event market, especially for fashion brands launching seasonal capsules.",
+        "competitorLandscape": "Doan Ly / a.p. bio (a-p-bio.com) plays the editorial-color peer. JamJar Flowers (jamjarflowers.co.uk) holds the editorial-color London middle. Putnam & Putnam (putnamflowers.com) is the New York reference. We sit as a color-led festival-tier studio.",
+        "positioningStatement": "Floralia is a playful, color-forward floral studio for editorial work, fashion events, and brand activations.",
+        "targetAudience": {
+          "primary": "Editorial stylists, fashion brand creative directors, and brand event teams.",
+          "behaviors": [
+            "Commission per season",
+            "Care about color story",
+            "Travel for festivals and fashion weeks"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Color-forward",
+          "Editorial",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the color block",
+            "Name the variety and the festival",
+            "Photograph the installation in daylight"
+          ],
+          "donts": [
+            "Brand as wedding-first",
+            "Use stock imagery",
+            "Skip the color story"
+          ]
+        },
+        "logoDirection": "Wordmark: FLORALIA set in a confident slab serif, one word, one line. A small mark \u2014 a single garland silhouette \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Festival Coral",
+            "hex": "#E26F5A",
+            "meaning": "Garland tone.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Stone Cream",
+            "hex": "#F1ECD7",
+            "meaning": "Roman stone.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#161618",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Sentinel for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body",
+          "rationale": "A confident slab plus a quiet grotesk \u2014 the color-forward editorial register."
+        }
+      },
+      {
+        "brandName": "Wardian",
+        "tagline": "Greenhouse, in a case.",
+        "brandNameRationale": "Anchor: The Wardian case \u2014 the sealed glass plant terrarium invented by Nathaniel Bagshaw Ward in the 1830s, which made the global transport of live plants possible (and built the British Empire's botanical economy). Counter-proposal third creative option for variety beyond Tulipomania/Sissinghurst (already used in other slots), and a fresh creative angle.",
+        "industrySummary": "Editorial florists with a plant-and-installation focus \u2014 living installations, terrarium pieces, and editorial 'wardian' tableaux \u2014 are a small but visible niche.",
+        "competitorLandscape": "Doan Ly (a-p-bio.com) plays the editorial-installation peer. Saipua (saipua.com) holds the farm-installation middle. Studio Vandenbussche (studiovandenbussche.com) is the Belgian editorial reference. We sit as an installation-led editorial florist with a botanical-history frame.",
+        "positioningStatement": "Wardian is an editorial floral and living-plant studio for installations, editorial shoots, and brand activations.",
+        "targetAudience": {
+          "primary": "Editorial stylists, museum exhibition designers, and brand-event teams.",
+          "behaviors": [
+            "Commission living installations",
+            "Care about plant provenance",
+            "Travel for exhibitions"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Botanical",
+          "Quietly historical",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the plant binomial",
+            "Photograph the installation in situ",
+            "Print the journal entry"
+          ],
+          "donts": [
+            "Sell pre-made bouquets",
+            "Use stock plant imagery",
+            "Skip the provenance"
+          ]
+        },
+        "logoDirection": "Wordmark: WARDIAN in a refined Victorian serif, one word, one line. A small mark \u2014 a single Wardian case silhouette \u2014 used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Glass Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Wardian-case stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Fern",
+            "hex": "#3D5238",
+            "meaning": "Empire fern.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Lead",
+            "hex": "#3B3F44",
+            "meaning": "Wardian-case frame.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "DTL Fleischmann for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A Victorian-flavored serif plus a contemporary reading serif \u2014 the botanical-cabinet register."
+        }
+      }
+    ]
+  }
+}

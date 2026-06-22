@@ -1,0 +1,327 @@
+{
+  "industry": "furniture",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Form 1948",
+        "tagline": "Modern furniture in the watershed year.",
+        "brandNameRationale": "1948 was the watershed year of American modernism — Charles Eames's LCW chair, Eero Saarinen's Womb Chair, and the founding generation of the Knoll Planning Unit. The year is public-domain, the anchor is design-historical, and 'Form' names what modernism gave the living room: organic shape, clear function.",
+        "industrySummary": "Modern furniture has split between fast-fashion imports and a small considered-modern cohort. The opening is for a studio that anchors on the specific historical moment when organic modernism entered the home, and builds a small permanent catalog from that vocabulary.",
+        "competitorLandscape": "Design Within Reach (dwr.com) holds the considered-modern retail position. Blu Dot (bludot.com) sits in the design-led DTC tier. HAY (hay.com) is the Danish modern peer. We sit closer to Blu Dot in scale with sharper historical grounding.",
+        "positioningStatement": "A modern furniture studio whose forms are rooted in the 1948 organic-modern moment.",
+        "targetAudience": {
+          "primary": "32 to 55. Owns one home, furnishing it slowly. Knows the difference between Saarinen and Eames. Buys one piece every two years and keeps it.",
+          "behaviors": [
+            "Researches the designer before the purchase",
+            "Subscribes to Dwell",
+            "Will pay 3x for the right chair"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Historically grounded",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the 1948 reference forms",
+            "Name the joinery and the wood",
+            "Show the chair, not the room"
+          ],
+          "donts": [
+            "Use the word iconic",
+            "Photograph in mid-century-styled lofts",
+            "Run seasonal collections"
+          ]
+        },
+        "logoDirection": "A wordmark — Form 1948 set in a precise mid-century grotesk, with the year tucked beneath the word. A small geometric mark of a curved chair-shell silhouette serves as the hangtag stamp.",
+        "colorPalette": [
+          {
+            "name": "Walnut",
+            "hex": "#3D2A1C",
+            "meaning": "American walnut — the wood of 1948.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F4F0E6",
+            "meaning": "Drafting paper.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Form Red",
+            "hex": "#A8313F",
+            "meaning": "Eames upholstery red.",
+            "usage": "Single accent, hangtags"
+          }
+        ],
+        "typography": {
+          "primary": "Akzidenz-Grotesk for the wordmark and headlines",
+          "secondary": "Akzidenz-Grotesk for body and product cards",
+          "rationale": "One family across the system. The face was contemporary to the 1948 forms."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Boulle Maison",
+        "tagline": "Royal marquetry, revived.",
+        "brandNameRationale": "André-Charles Boulle (1642–1732) was Louis XIV's cabinetmaker who pioneered brass-and-tortoiseshell marquetry ('Boulle work'). The technique and the maker are public-domain historical references. Maison closes the brand as a French house.",
+        "industrySummary": "Luxury furniture at the couture tier is dominated by 20th-century maisons. The opening is for a small house reviving 17th-century royal marquetry for collectors who commission rather than browse.",
+        "competitorLandscape": "Linley (davidlinley.com) holds the British bespoke-luxury slot. Maison Jansen (historically) is the institutional reference. Pierre Yovanovitch (pierreyovanovitch.com) is the modern-luxury peer. We sit closer to Linley in posture with a sharper Boulle-marquetry specialty.",
+        "positioningStatement": "A couture cabinetry house reviving royal Boulle marquetry for collectors of one-off pieces.",
+        "targetAudience": {
+          "primary": "55 to 80. Multi-generational collector. Owns at least one piece by a Versailles-tradition ébéniste. Commissions rather than buys.",
+          "behaviors": [
+            "Commissions one piece a year",
+            "Travels to Paris for the atelier visit",
+            "Pays in installments over two years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite Boulle's documented techniques",
+            "Speak in the language of marquetry and ormolu",
+            "Reference completed commissions by year"
+          ],
+          "donts": [
+            "Sell ready-made",
+            "Use the word luxury",
+            "Photograph in styled rooms"
+          ]
+        },
+        "logoDirection": "A serif wordmark — Boulle Maison set in a classical French roman with a small embossed mark depicting the Boulle marquetry pattern. The mark appears on commission certificates and the atelier door.",
+        "colorPalette": [
+          {
+            "name": "Versailles Gold",
+            "hex": "#A6843D",
+            "meaning": "Ormolu gilt-bronze mounts.",
+            "usage": "Accent, foil, the mark"
+          },
+          {
+            "name": "Tortoiseshell",
+            "hex": "#5C2E1A",
+            "meaning": "Boulle-work tortoiseshell.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Atelier Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Hand-laid paper.",
+            "usage": "Backgrounds, certificates"
+          }
+        ],
+        "typography": {
+          "primary": "Didot for the wordmark and certificates",
+          "secondary": "Adobe Garamond for body and commission documents",
+          "rationale": "Didot carries the French royal display tradition. Garamond keeps the documentation warm."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Sashimono",
+        "tagline": "Japanese joinery. No nails.",
+        "brandNameRationale": "Sashimono is the Japanese tradition of furniture assembled entirely with hidden joinery — no nails, no glue. The technique is documented from the Edo period (1603–1868). The word is the technique; the brand is the practice.",
+        "industrySummary": "Minimal furniture has converged on Scandinavian visual cues. The opening underneath is the Japanese sashimono tradition — a different vocabulary of restraint, organized around the joint rather than the surface.",
+        "competitorLandscape": "Maruni (maruni.com) holds the Japanese-modern peer slot. Time & Style (timeandstyle.com) is the Japanese-luxury reference. Karimoku (karimoku-newstandard.jp) sits in the considered-Japanese position. We sit closer to Time & Style with a sashimono specialty.",
+        "positioningStatement": "Minimal furniture in the Japanese nail-less joinery tradition.",
+        "targetAudience": {
+          "primary": "30 to 55. Owns a small home. Reads Kinfolk and Real Cities. Will wait six months for the right piece.",
+          "behaviors": [
+            "Measures rooms before ordering",
+            "Studies the joint, not the surface",
+            "Buys one piece every three years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Patient",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the joint",
+            "Name the wood (kiri, paulownia, cedar)",
+            "Speak about the technique"
+          ],
+          "donts": [
+            "Use the word minimal as marketing",
+            "Photograph the piece in styled rooms",
+            "Discount the catalog"
+          ]
+        },
+        "logoDirection": "A wordmark — Sashimono set in a calm humanist sans with a small kerf-mark (a single fine line) above the word. The kerf-mark alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Kiri White",
+            "hex": "#F4F1E8",
+            "meaning": "Pale paulownia wood.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Sumi Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Sumi calligraphy ink.",
+            "usage": "Wordmark, body type"
+          },
+          {
+            "name": "Hinoki",
+            "hex": "#A78A5C",
+            "meaning": "Aged hinoki cedar.",
+            "usage": "Accent, product details"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark and body",
+          "secondary": "Same family for product specs",
+          "rationale": "One face. The brand is the joint, not the type."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Contract Hall",
+        "tagline": "Contract-grade furniture for the spec sheet.",
+        "brandNameRationale": "Contract furniture is the industry term for commercial-grade specification work (distinct from residential). Hall evokes the trade-show floor (NeoCon, since 1969). The two words name the buyer and the venue.",
+        "industrySummary": "Contract furniture is a serious B2B category. The buyers are architects, FF&E consultants, and corporate facilities directors. The vendors compete on code compliance, lead time, and durability across thousands of seats.",
+        "competitorLandscape": "Steelcase (steelcase.com) is the institutional benchmark. Haworth (haworth.com) holds the multi-line peer slot. Andreu World (andreuworld.com) is the Spanish design-led peer. We sit smaller and more design-led than Steelcase, more reliable than the boutiques.",
+        "positioningStatement": "Contract furniture for architects and FF&E consultants — durable, code-compliant, spec-ready.",
+        "targetAudience": {
+          "primary": "45 to 60. Architects, FF&E consultants, corporate facilities VPs. Manage multi-million-dollar fit-outs.",
+          "behaviors": [
+            "Specifies by code requirement",
+            "Requests spec sheets and BIM models first",
+            "Renews vendor lists annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Steady",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the spec sheet",
+            "Show BIM and CAD assets",
+            "Quote BIFMA test results"
+          ],
+          "donts": [
+            "Use consumer-furniture language",
+            "Run consumer marketing",
+            "Photograph in residential settings"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark — a stylized plan-view chair icon to the left. CONTRACT HALL set in a tight modern grotesk, suitable for spec books, name badges, and trade-show banners.",
+        "colorPalette": [
+          {
+            "name": "Spec Navy",
+            "hex": "#0F2238",
+            "meaning": "Architect's blue-line.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Tube-steel frame.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Spec Red",
+            "hex": "#A8313F",
+            "meaning": "Mark-up red.",
+            "usage": "Status indicators"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed spec books and RFPs",
+          "rationale": "Inter scales clean across digital. The serif handles printed FF&E documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Castiglioni Lab",
+        "tagline": "Found objects, elevated.",
+        "brandNameRationale": "Achille Castiglioni (1918–2002) was a Milanese designer whose Mezzadro tractor-seat stool (1957) and Arco floor lamp pioneered the readymade-as-furniture school. The surname is the designer's, public-domain as historical reference, and 'Lab' signals the experimental posture.",
+        "industrySummary": "Creative furniture has been crowded with maximalist postmodernism. The opening is for a studio working in the Castiglioni readymade tradition — found industrial objects elevated into furniture.",
+        "competitorLandscape": "Moooi (moooi.com) holds the conceptual-creative slot. Established & Sons (establishedandsons.com) sits in the design-edition tier. Magis (magisdesign.com) plays the Italian-creative peer. We sit closer to Magis with a sharper readymade specialty.",
+        "positioningStatement": "A witty, readymade-driven creative furniture lab in the Castiglioni tradition.",
+        "targetAudience": {
+          "primary": "30 to 50. Design-literate buyer. Owns at least one piece of Italian-design history. Reads Domus and Disegno. Buys for the conversation.",
+          "behaviors": [
+            "Names pieces by designer",
+            "Subscribes to Domus",
+            "Buys at design fairs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Curious",
+          "Confident",
+          "Design-literate"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the readymade source",
+            "Show the piece in a working room",
+            "Make the joke explicit"
+          ],
+          "donts": [
+            "Take itself too seriously",
+            "Photograph in pristine galleries",
+            "Hide the original object"
+          ]
+        },
+        "logoDirection": "A wordmark — Castiglioni Lab set in a punchy Italian sans with a small readymade icon (a stylized industrial bolt) as the mark. The bolt alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Milan Yellow",
+            "hex": "#F2C14E",
+            "meaning": "Industrial safety yellow.",
+            "usage": "Accent, the mark"
+          },
+          {
+            "name": "Workshop Gray",
+            "hex": "#5A6776",
+            "meaning": "Foundry concrete.",
+            "usage": "Body, secondary"
+          },
+          {
+            "name": "Catalog White",
+            "hex": "#FAFAF7",
+            "meaning": "Domus magazine page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Anchor.",
+            "usage": "Wordmark, body type"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for product descriptions and editorial",
+          "rationale": "Mori carries the wit. Sectra makes the catalog copy feel like a small design magazine."
+        }
+      }
+    ]
+  }
+}

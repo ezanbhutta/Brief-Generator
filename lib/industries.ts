@@ -70,6 +70,16 @@ export const INDUSTRIES: IndustryEntry[] = [
   { key: "theater", label: "Theater & Performing Arts", aliases: ["theater", "theatre", "performing arts", "drama", "playhouse", "stage", "theater company"] },
   { key: "vinyl", label: "Vinyl & Record Stores", aliases: ["vinyl", "record store", "records", "lp", "music shop", "record shop", "audiophile"] },
   { key: "stationery", label: "Stationery & Paper Goods", aliases: ["stationery", "paper", "pens", "notebooks", "stationery brand", "paper goods", "writing instruments"] },
+  { key: "furniture", label: "Furniture", aliases: ["furniture", "chair", "sofa", "table", "furniture brand", "furniture maker"] },
+  { key: "shoes", label: "Shoes & Footwear", aliases: ["shoes", "footwear", "sneakers", "boots", "shoemaker", "cobbler", "shoe brand"] },
+  { key: "eyewear", label: "Eyewear", aliases: ["eyewear", "glasses", "sunglasses", "spectacles", "frames", "eyewear brand"] },
+  { key: "antiques", label: "Antiques", aliases: ["antiques", "antique", "antique dealer", "antique shop", "collectibles", "auction", "estate"] },
+  { key: "map", label: "Maps & Cartography", aliases: ["maps", "map", "cartography", "atlas", "mapping", "cartographer"] },
+  { key: "agriculture", label: "Agriculture & AgTech", aliases: ["agriculture", "agtech", "farm", "farming", "agronomy", "ag", "crops", "agricultural"] },
+  { key: "construction", label: "Construction", aliases: ["construction", "builder", "contractor", "general contractor", "construction services", "building services"] },
+  { key: "dance", label: "Dance & Performance", aliases: ["dance", "ballet", "dance studio", "dance company", "choreography", "performance", "dance school"] },
+  { key: "flowers", label: "Flowers & Floristry", aliases: ["flowers", "florist", "floristry", "floral", "flower shop", "floral design", "bouquets"] },
+  { key: "distillery", label: "Distillery & Spirits", aliases: ["distillery", "spirits", "whiskey", "gin", "vodka", "rum", "distiller", "craft spirits"] },
 ];
 
 export const INDUSTRY_KEYS = INDUSTRIES.map((i) => i.key);

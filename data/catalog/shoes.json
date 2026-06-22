@@ -1,0 +1,332 @@
+{
+  "industry": "shoes",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Goodyear & Welt",
+        "tagline": "Welted soles. Resoleable for life.",
+        "brandNameRationale": "Charles Goodyear Jr.'s 1869 Goodyear welt machine mechanized the welted-construction shoe and defined quality footwear for 150 years. The technique is public-domain (the patent expired long ago); the surname refers to the technique, not to the tire company.",
+        "industrySummary": "Modern footwear is split between fast-fashion sneakers and a small Goodyear-welted cohort. The opening is for a brand that anchors on the construction itself — resoleable, repairable, built to outlive a decade.",
+        "competitorLandscape": "Allen Edmonds (allenedmonds.com) holds the American welted-shoe peer slot. Crockett & Jones (crockettandjones.com) is the British reference. Meermin (meermin.com) plays the value-Spanish position. We sit closer to Meermin in scale with sharper construction transparency.",
+        "positioningStatement": "Modern Goodyear-welted footwear, resoleable for life.",
+        "targetAudience": {
+          "primary": "30 to 55. Owns at least one good pair. Cares about construction over style. Will resole rather than replace.",
+          "behaviors": [
+            "Reads the welt under the shoe",
+            "Resoles every 18 months",
+            "Buys one pair every three years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Direct",
+          "Construction-led",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the construction (Goodyear welt)",
+            "Show the welt under the shoe",
+            "Quote the resole guarantee"
+          ],
+          "donts": [
+            "Use 'luxury' marketing",
+            "Photograph on white backgrounds only",
+            "Run seasonal drops"
+          ]
+        },
+        "logoDirection": "A wordmark — Goodyear & Welt in a precise modern grotesk with the ampersand drawn slightly bolder. A small welt-line icon (a single stitch row) serves as the hangtag stamp.",
+        "colorPalette": [
+          {
+            "name": "Leather Brown",
+            "hex": "#5C3A21",
+            "meaning": "Oak-bark-tanned shell.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Lasting paper.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Welt Red",
+            "hex": "#7E1F1A",
+            "meaning": "Welt thread.",
+            "usage": "Accent, the stitch icon"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for construction specs and resole receipts",
+          "rationale": "One family. The mono carries the technical data: size, last, construction."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Cordwainer Hall",
+        "tagline": "Livery-grade shoemaking, since 1439.",
+        "brandNameRationale": "The Worshipful Company of Cordwainers is the London livery company chartered in 1439 — the medieval guild of fine-leather shoemakers (the name comes from 'Cordovan' leather of Córdoba). The guild and its standards are public-domain historical references.",
+        "industrySummary": "Luxury bespoke shoemaking is dominated by a few St. James's Street houses. The opening is for a brand that anchors on the medieval Cordwainer guild standards — livery-grade construction with documented provenance.",
+        "competitorLandscape": "Crockett & Jones (crockettandjones.com) is the heritage-British peer. Edward Green (edwardgreen.com) holds the bespoke-British luxury slot. George Cleverley (gjcleverley.co.uk) is the bespoke-haute peer. We sit between Edward Green and Cleverley in posture.",
+        "positioningStatement": "Livery-grade luxury shoemaking in the Cordwainer guild tradition.",
+        "targetAudience": {
+          "primary": "50 to 75. Owns at least three pairs of bespoke shoes. Has a personal last. Returns for service annually.",
+          "behaviors": [
+            "Visits the workshop for fitting",
+            "Books service one year out",
+            "Pays in installments over fittings"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the Cordwainer guild standards",
+            "Name the tannery",
+            "Speak in the language of last, welt, and shell"
+          ],
+          "donts": [
+            "Sell ready-to-wear at retail volume",
+            "Use 'luxury' as marketing",
+            "Run promotions"
+          ]
+        },
+        "logoDirection": "A serif wordmark — Cordwainer Hall set in a classical English roman with a small embossed guild mark depicting crossed awls. The mark appears on the order book, the brass plaque, and the inside lining.",
+        "colorPalette": [
+          {
+            "name": "Guild Green",
+            "hex": "#1E3A30",
+            "meaning": "Livery hall walls.",
+            "usage": "Primary, signage"
+          },
+          {
+            "name": "Cordovan",
+            "hex": "#5C2E1A",
+            "meaning": "Cordovan shell leather.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper.",
+            "usage": "Stationery, backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Brass plaque.",
+            "usage": "Foil, the guild mark"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and order book",
+          "secondary": "Söhne for the few digital surfaces",
+          "rationale": "Caslon carries the British livery tradition. Söhne handles correspondence."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Plimsoll",
+        "tagline": "Canvas and rubber. Since 1830.",
+        "brandNameRationale": "The plimsoll shoe (1830s) was named for the Plimsoll line on ship hulls because the rubber-canvas seam resembled it. It is the original minimal canvas sneaker. The word is the shoe.",
+        "industrySummary": "Minimal footwear has been crowded with rebranded white sneakers. The opening underneath is the original plimsoll silhouette — canvas upper, rubber sole, the simplest construction in modern footwear.",
+        "competitorLandscape": "Veja (veja-store.com) holds the considered-minimal sneaker slot. Common Projects (commonprojects.com) is the minimal-luxury peer. Spring Court (springcourt.com) is the heritage-canvas reference. We sit closer to Spring Court with sharper construction discipline.",
+        "positioningStatement": "Minimal canvas-and-rubber footwear in the original plimsoll silhouette.",
+        "targetAudience": {
+          "primary": "25 to 45. Owns three pairs of shoes. Will pay 2x for the right canvas. Replaces the same pair when it wears out.",
+          "behaviors": [
+            "Replaces with the same model",
+            "Reads the rubber composition",
+            "Refuses leather"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State the materials",
+            "Show the shoe alone",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Photograph in styled outfits",
+            "Run seasonal colorways",
+            "Use trend vocabulary"
+          ]
+        },
+        "logoDirection": "A wordmark — Plimsoll in a humanist sans, all lowercase, with a single horizontal line (the Plimsoll line) above. The line alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Sail White",
+            "hex": "#F4F1E8",
+            "meaning": "Bleached cotton canvas.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Rubber Black",
+            "hex": "#1A1A1A",
+            "meaning": "Vulcanized rubber sole.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Hull Red",
+            "hex": "#7E1F1A",
+            "meaning": "Below-the-line hull paint.",
+            "usage": "Accent, the line"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for sizing tables",
+          "rationale": "One family. Mono for the dimensions."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Welted Works",
+        "tagline": "Resoleable footwear, spec-grade.",
+        "brandNameRationale": "Welted construction is the industry quality benchmark for resoleable shoes (distinct from cemented or Blake-stitched). The two words name the technique and the producer.",
+        "industrySummary": "Corporate-issue footwear is a serious B2B category. Hotel groups, hospitality chains, and uniformed services need durable, resoleable shoes specified by lifecycle cost rather than retail price.",
+        "competitorLandscape": "Red Wing for Business (redwingforbusiness.com) holds the workwear B2B slot. Clarks Originals Trade (clarks.com) sits in the heritage-British peer position. Caterpillar Footwear (catfootwear.com) plays the industrial peer. We sit smaller and more welted-specific than these.",
+        "positioningStatement": "Welted footwear for hospitality and uniformed services — durable, resoleable, spec-grade.",
+        "targetAudience": {
+          "primary": "40 to 60. Procurement directors at hotel groups, hospitality chains, and uniformed services. Sign multi-year supply contracts.",
+          "behaviors": [
+            "Specifies by lifecycle cost",
+            "Requests durability test results",
+            "Renews on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote resole rate per pair",
+            "Show the welt and the sole",
+            "Speak in lifecycle cost"
+          ],
+          "donts": [
+            "Use consumer-shoe marketing",
+            "Photograph in fashion settings",
+            "Run flash sales"
+          ]
+        },
+        "logoDirection": "A wordmark with a small welt-stitch mark — WELTED WORKS set in a tight grotesk above a single stitched line. Reads cleanly on spec sheets, name badges, and trade-show banners.",
+        "colorPalette": [
+          {
+            "name": "Spec Navy",
+            "hex": "#0F2238",
+            "meaning": "Procurement deck.",
+            "usage": "Logo, primary"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Industrial structure.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Welt Red",
+            "hex": "#A8313F",
+            "meaning": "Welt-thread accent.",
+            "usage": "Status indicators"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for spec sheets and RFPs",
+          "rationale": "Inter scales clean across digital. The serif handles printed B2B documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Crispin & Crispinian",
+        "tagline": "Under the patronage of the shoemaker-saints.",
+        "brandNameRationale": "Saints Crispin and Crispinian were 3rd-century patron saints of shoemakers (their feast day, October 25, is the cobblers' holiday; Shakespeare's 'St. Crispin's Day' speech anchors the cultural memory). The names are public-domain religious-historical references.",
+        "industrySummary": "Creative footwear has been crowded with novelty sneaker brands. The opening is for a house with deep symbolic anchoring — patron-saint iconography on every box, every pair.",
+        "competitorLandscape": "Camper (camper.com) holds the Spanish-creative slot. Buttero (buttero.it) sits in the Italian-craft peer position. Feit (feitdirect.com) plays the small-batch peer. We sit closer to Feit with sharper iconographic grounding.",
+        "positioningStatement": "A creative footwear house under the patronage of the shoemaker-saints.",
+        "targetAudience": {
+          "primary": "28 to 50. Design-literate buyer. Owns at least one pair of small-batch shoes. Cares about story as much as construction.",
+          "behaviors": [
+            "Buys at small workshops",
+            "Photographs the box on receipt",
+            "Follows individual cordwainers"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Slightly mystical",
+          "Crafted",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the saints' feast day",
+            "Show the workshop hand",
+            "Number every pair"
+          ],
+          "donts": [
+            "Use the iconography ironically",
+            "Photograph in pristine studios",
+            "Run promotional pricing"
+          ]
+        },
+        "logoDirection": "A wordmark — Crispin & Crispinian set in a warm display serif with a small two-figure icon (the twin saints) above. The icon appears on every box and the inside lining.",
+        "colorPalette": [
+          {
+            "name": "Chapel Red",
+            "hex": "#7E1F1A",
+            "meaning": "Stained-glass red.",
+            "usage": "Primary, the icon"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Illuminated manuscript page.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Body type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Gilt",
+            "hex": "#A6843D",
+            "meaning": "Manuscript gilding.",
+            "usage": "Foil, accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and editorial",
+          "secondary": "PP Mori for body and product cards",
+          "rationale": "Sectra carries the manuscript register. Mori keeps product copy warm."
+        }
+      }
+    ]
+  }
+}
