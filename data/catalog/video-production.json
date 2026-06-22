@@ -1,0 +1,915 @@
+{
+  "industry": "video-production",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Frame 24",
+        "tagline": "The cinema standard.",
+        "brandNameRationale": "Anchor: 24fps — the cinema frame-rate standard. Numeric-modern anchor. Picked from A's three for the strongest numeric-modern anchor.",
+        "industrySummary": "Numeric-modern video shops sit in the commercial and brand-film market. The opening is a frame-24-anchored modern shop.",
+        "competitorLandscape": "Furlined (furlined.com) plays the modern peer. Imperial Woodpecker (imperialwoodpecker.com) holds the modern middle. The Mill (themill.com) is the post reference. We sit as a numeric-modern brand-film shop.",
+        "positioningStatement": "Frame 24 is a modern video production shop named for the cinema frame-rate standard.",
+        "targetAudience": {
+          "primary": "Brand producers and agency creatives 28-45.",
+          "behaviors": [
+            "Book brand films",
+            "Care about look and rate",
+            "Read the director's reel"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Technical-precise",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the frame rate",
+            "Name the DP",
+            "Show the look"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: FRAME 24 in a modern grotesk, one line. A small mark — the numeral 24 — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Frame Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Frame page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Slate",
+            "hex": "#3A4047",
+            "meaning": "Slate.",
+            "usage": "Body"
+          },
+          {
+            "name": "Amber",
+            "hex": "#C8853A",
+            "meaning": "Tally light.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for timecode and credits",
+          "rationale": "One family, two registers — the modern-cinema register."
+        }
+      },
+      {
+        "brandName": "Codec & Co.",
+        "tagline": "Encoded for the screen.",
+        "brandNameRationale": "Anchor: codec — the encoding format that determines how video is captured and delivered. Technical-modern anchor. Picked from A's three for the strongest technical-modern anchor.",
+        "industrySummary": "Technical-modern video shops sit in the post and delivery niche. The opening is a codec-anchored modern shop.",
+        "competitorLandscape": "Light Iron (lightiron.com) plays the post peer. The Mill (themill.com) holds the post middle. Company 3 (company3.com) is the post reference. We sit as a codec-named modern shop.",
+        "positioningStatement": "Codec & Co. is a modern video post shop named for the encoding format.",
+        "targetAudience": {
+          "primary": "Post-production producers and agency producers 28-45.",
+          "behaviors": [
+            "Care about delivery specs",
+            "Book named colorists",
+            "Read the post credit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Technical-precise",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the delivery spec",
+            "Name the colorist",
+            "Show the deliverable matrix"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: CODEC & CO. in a modern grotesk, one line. A small mark — a bit-rate motif — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Post Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Post page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Slate",
+            "hex": "#3A4047",
+            "meaning": "Slate.",
+            "usage": "Body"
+          },
+          {
+            "name": "Codec Blue",
+            "hex": "#2E5A8A",
+            "meaning": "Spec blue.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for delivery specs",
+          "rationale": "A modern grotesk plus a mono — the codec-spec register."
+        }
+      },
+      {
+        "brandName": "Roll",
+        "tagline": "Slate. Camera. Roll.",
+        "brandNameRationale": "Anchor: 'roll' — the slate call that starts every take. Single-word modern. Picked from A's three for the strongest minimal-modern anchor.",
+        "industrySummary": "Single-word minimal video brands sit cleanly in the commercial and brand-film niche. The opening is a roll-named minimal shop.",
+        "competitorLandscape": "Furlined (furlined.com) plays the modern peer. Imperial Woodpecker (imperialwoodpecker.com) holds the modern middle. The Mill (themill.com) is the post reference. We sit as a single-word minimal shop.",
+        "positioningStatement": "Roll is a modern video production shop named for the slate call.",
+        "targetAudience": {
+          "primary": "Brand producers and agency creatives 28-45.",
+          "behaviors": [
+            "Book brand films",
+            "Care about the slate",
+            "Read the director's reel"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Spare",
+          "Direct",
+          "Working"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the slate",
+            "Name the director",
+            "Show the reel plainly"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the slate"
+          ]
+        },
+        "logoDirection": "Wordmark: roll set in a clean modern sans, lowercase, four letters. No mark.",
+        "colorPalette": [
+          {
+            "name": "Slate Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Slate paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Slate Black",
+            "hex": "#141417",
+            "meaning": "Slate stripes.",
+            "usage": "Body"
+          },
+          {
+            "name": "Tally Red",
+            "hex": "#A8492E",
+            "meaning": "Tally light.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for timecode",
+          "rationale": "One family, two registers — the minimal-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Negative Cutter",
+        "tagline": "The pre-digital craft.",
+        "brandNameRationale": "Anchor: negative cutter — the pre-digital craft of conforming film for printing. Deep heritage trade term. Picked from A's three for the strongest heritage anchor.",
+        "industrySummary": "Heritage trade-named video shops sit in the editorial and commercial market. The opening is a negative-cutter-anchored craft shop.",
+        "competitorLandscape": "Company 3 (company3.com) plays the post peer. Smoke & Mirrors (smokeandmirrors.com) holds the heritage middle. The Mill (themill.com) is the post reference. We sit as a negative-cutter heritage-named craft shop.",
+        "positioningStatement": "Negative Cutter is a heritage video production and post shop named for the pre-digital film craft.",
+        "targetAudience": {
+          "primary": "Directors and agency producers 35-60 commissioning heritage-grade work.",
+          "behaviors": [
+            "Care about the craft register",
+            "Book named editors",
+            "Read the editorial credit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Craft-honest",
+          "Trade-precise",
+          "Editorial"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the editor",
+            "Print the cut credit",
+            "Photograph the bay"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the credits"
+          ]
+        },
+        "logoDirection": "Wordmark: NEGATIVE CUTTER in a classical serif, two lines. A small mark — a film-strip splice silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Bay Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Film Black",
+            "hex": "#141417",
+            "meaning": "Film leader black.",
+            "usage": "Body"
+          },
+          {
+            "name": "Splice Amber",
+            "hex": "#C8853A",
+            "meaning": "Splice tape.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Söhne Mono for credit lists and timecode",
+          "rationale": "A classical serif plus a mono — the editorial-heritage register."
+        }
+      },
+      {
+        "brandName": "The Cutting Room",
+        "tagline": "Where the picture is found.",
+        "brandNameRationale": "Anchor: the cutting room — the editorial bay tradition. Picked from A's three for the strongest editorial-trade anchor.",
+        "industrySummary": "Editorial-trade video shops sit in the heritage commercial and documentary market. The opening is a cutting-room-named editorial shop.",
+        "competitorLandscape": "Final Cut (finalcut.tv) plays the editorial peer. Whitehouse Post (whitehousepost.com) holds the editorial middle. Cosmo Street (cosmostreet.com) is the editorial reference. We sit as a cutting-room editorial-named shop.",
+        "positioningStatement": "The Cutting Room is a heritage editorial video shop named for the room where the picture is found.",
+        "targetAudience": {
+          "primary": "Directors and agency producers 35-60 booking editorial.",
+          "behaviors": [
+            "Book named editors",
+            "Care about the cut",
+            "Read the editorial credit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Editorial",
+          "Craft-honest",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the editor",
+            "Print the credit",
+            "Photograph the bay"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the credit"
+          ]
+        },
+        "logoDirection": "Wordmark: THE CUTTING ROOM in a classical serif, three lines centered. A small mark — a film-splice silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Bay Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Film Black",
+            "hex": "#141417",
+            "meaning": "Film leader black.",
+            "usage": "Body"
+          },
+          {
+            "name": "Splice Amber",
+            "hex": "#C8853A",
+            "meaning": "Splice tape.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and credit lists",
+          "rationale": "A high-contrast serif plus a reading serif — the editorial-bay register."
+        }
+      },
+      {
+        "brandName": "Montage Bureau",
+        "tagline": "Editorial theory, working shop.",
+        "brandNameRationale": "Anchor: Eisenstein montage theory (1925) + 'bureau' (a small craft firm). Generic term, low TM risk. Picked from A's three for the strongest theory-heritage anchor.",
+        "industrySummary": "Theory-named heritage video shops sit in the editorial and art-film market. The opening is a montage-anchored bureau.",
+        "competitorLandscape": "Whitehouse Post (whitehousepost.com) plays the editorial peer. Final Cut (finalcut.tv) holds the editorial middle. Cosmo Street (cosmostreet.com) is the editorial reference. We sit as a theory-named editorial bureau.",
+        "positioningStatement": "Montage Bureau is a heritage editorial video shop named for the Soviet editing theory.",
+        "targetAudience": {
+          "primary": "Art-leaning directors and agency producers 35-60.",
+          "behaviors": [
+            "Read film theory",
+            "Book named editors",
+            "Care about the cut philosophy"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Editorial",
+          "Theory-engaged",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference editorial theory",
+            "Name the editor",
+            "Print the credit"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the theory"
+          ]
+        },
+        "logoDirection": "Wordmark: MONTAGE BUREAU in a classical editorial serif, two lines. A small mark — a film-splice cross silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Bureau Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Soviet Red",
+            "hex": "#9A1F1F",
+            "meaning": "Constructivist red.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Söhne Mono for credit lists and timecode",
+          "rationale": "A classical serif plus a mono — the theory-editorial register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Colorist Bay",
+        "tagline": "High-end grading suite.",
+        "brandNameRationale": "Anchor: colorist bay — the high-end grading suite. Picked from A's three for the strongest precision-trade anchor.",
+        "industrySummary": "High-end grading shops sit in the post niche. The opening is a colorist-bay-anchored precision shop.",
+        "competitorLandscape": "Company 3 (company3.com) plays the grading peer. Light Iron (lightiron.com) holds the grading middle. The Mill (themill.com) is the post reference. We sit as a colorist-bay precision shop.",
+        "positioningStatement": "Colorist Bay is a precision video post shop named for the high-end grading suite.",
+        "targetAudience": {
+          "primary": "Directors and DPs 30-55 commissioning grading.",
+          "behaviors": [
+            "Book named colorists",
+            "Care about the LUT pipeline",
+            "Read the grading credit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Trade-honest",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the colorist",
+            "Print the pipeline",
+            "Photograph the bay"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the credit"
+          ]
+        },
+        "logoDirection": "Wordmark: COLORIST BAY in a precise modern grotesk, two lines. A small mark — a color-wheel silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Bay Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Bay paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bay Black",
+            "hex": "#141417",
+            "meaning": "Suite black.",
+            "usage": "Body"
+          },
+          {
+            "name": "Vector Red",
+            "hex": "#A8492E",
+            "meaning": "Vector red.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for LUT and timecode",
+          "rationale": "A modern grotesk plus a mono — the grading-precision register."
+        }
+      },
+      {
+        "brandName": "LUT & Lens",
+        "tagline": "Look-Up Table meets glass.",
+        "brandNameRationale": "Anchor: LUT (Look-Up Table) + lens. Alliterative technical pairing. Picked from A's three for the strongest paired-precision anchor.",
+        "industrySummary": "Paired-technical video shops sit in the production-and-post niche. The opening is a LUT/lens-paired precision shop.",
+        "competitorLandscape": "Light Iron (lightiron.com) plays the post peer. Company 3 (company3.com) holds the post middle. The Mill (themill.com) is the post reference. We sit as a paired-precision shop.",
+        "positioningStatement": "LUT & Lens is a precision video shop pairing on-set look development with the lens choice.",
+        "targetAudience": {
+          "primary": "Directors and DPs 30-55 commissioning look development.",
+          "behaviors": [
+            "Build show LUTs",
+            "Care about the lens-LUT pairing",
+            "Read the technical credit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Trade-honest",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the LUT and the lens",
+            "Name the DP",
+            "Photograph the test"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: LUT & LENS in a precise modern grotesk, one line. A small mark — a lens-and-LUT silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Test Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Test paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Test Black",
+            "hex": "#141417",
+            "meaning": "Test stripe.",
+            "usage": "Body"
+          },
+          {
+            "name": "LUT Amber",
+            "hex": "#C8853A",
+            "meaning": "LUT amber.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for LUT specs",
+          "rationale": "One family, two registers — the paired-precision register."
+        }
+      },
+      {
+        "brandName": "Log Gamma",
+        "tagline": "Flat capture, graded later.",
+        "brandNameRationale": "Anchor: log gamma — the flat capture profile used before grading. Deep technical anchor. Picked from A's three for the strongest deep-technical anchor.",
+        "industrySummary": "Deep-technical video shops sit in the capture-and-post niche. The opening is a log-gamma-anchored precision shop.",
+        "competitorLandscape": "Light Iron (lightiron.com) plays the post peer. Company 3 (company3.com) holds the post middle. The Mill (themill.com) is the post reference. We sit as a log-gamma deep-technical shop.",
+        "positioningStatement": "Log Gamma is a precision video shop named for the flat capture profile before grading.",
+        "targetAudience": {
+          "primary": "DPs and colorists 30-55.",
+          "behaviors": [
+            "Care about capture profile",
+            "Read technical specs",
+            "Book named colorists"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Deep",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the capture profile",
+            "Name the colorist",
+            "Photograph the test"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: LOG GAMMA in a precise modern grotesk, two lines. A small mark — a gamma-curve motif — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Log Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Log paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Log Slate",
+            "hex": "#3A4047",
+            "meaning": "Flat log gray.",
+            "usage": "Body"
+          },
+          {
+            "name": "Gamma Amber",
+            "hex": "#C8853A",
+            "meaning": "Gamma amber.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for gamma and capture specs",
+          "rationale": "A modern grotesk plus a mono — the deep-technical register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Persistence of Vision",
+        "tagline": "What makes cinema work.",
+        "brandNameRationale": "Anchor: persistence of vision — the optical phenomenon that makes cinema work. Picked from A's three for the strongest cinema-poetic anchor.",
+        "industrySummary": "Cinema-poetic video brands sit in the editorial and brand-film market. The opening is a persistence-of-vision-anchored evocative shop.",
+        "competitorLandscape": "Furlined (furlined.com) plays the brand-film peer. PRETTYBIRD (prettybird.co) holds the editorial middle. The Mill (themill.com) is the post reference. We sit as a cinema-poetic evocative shop.",
+        "positioningStatement": "Persistence of Vision is a video production shop named for the optical phenomenon that makes cinema work.",
+        "targetAudience": {
+          "primary": "Brand and editorial producers 30-55.",
+          "behaviors": [
+            "Care about the cinema register",
+            "Book brand films",
+            "Read the director's reel"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Cinema-poetic",
+          "Editorial",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the optical phenomenon",
+            "Photograph the frame",
+            "Name the director"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: PERSISTENCE OF VISION in a confident editorial serif, three lines centered. A small mark — a film-strip silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Frame Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Frame paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Film Black",
+            "hex": "#141417",
+            "meaning": "Film black.",
+            "usage": "Body"
+          },
+          {
+            "name": "Projection Amber",
+            "hex": "#C8853A",
+            "meaning": "Projector glow.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and director statements",
+          "rationale": "A high-contrast serif plus a reading serif — the cinema-evocative register."
+        }
+      },
+      {
+        "brandName": "The Long Take",
+        "tagline": "The unbroken shot tradition.",
+        "brandNameRationale": "Anchor: the long take — the unbroken-shot tradition (Cuarón, Welles, Sokurov). Picked from A's three for the strongest cinema-craft poetic anchor.",
+        "industrySummary": "Cinema-craft evocative shops sit in the editorial market. The opening is a long-take-anchored evocative shop.",
+        "competitorLandscape": "Furlined (furlined.com) plays the brand-film peer. PRETTYBIRD (prettybird.co) holds the editorial middle. The Mill (themill.com) is the post reference. We sit as a long-take evocative shop.",
+        "positioningStatement": "The Long Take is a video production shop named for the unbroken-shot tradition.",
+        "targetAudience": {
+          "primary": "Brand and editorial producers 30-55.",
+          "behaviors": [
+            "Care about the cinema register",
+            "Book editorial work",
+            "Read the director's reel"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Cinema-craft",
+          "Editorial",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the long-take tradition",
+            "Photograph the set",
+            "Name the director"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: THE LONG TAKE in a confident editorial serif, three lines centered. A small mark — a single-frame silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Take Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Take paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Film Black",
+            "hex": "#141417",
+            "meaning": "Film black.",
+            "usage": "Body"
+          },
+          {
+            "name": "Projection Amber",
+            "hex": "#C8853A",
+            "meaning": "Projector glow.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and director statements",
+          "rationale": "A reading-serif pair — the cinema-craft register."
+        }
+      },
+      {
+        "brandName": "Last Light",
+        "tagline": "The magic-hour shoot.",
+        "brandNameRationale": "Anchor: last light / magic-hour — the golden window before sunset. Picked from A's three for the strongest light-poetic anchor.",
+        "industrySummary": "Light-poetic evocative shops sit in the editorial and brand-film market. The opening is a last-light-anchored evocative shop.",
+        "competitorLandscape": "Furlined (furlined.com) plays the brand-film peer. PRETTYBIRD (prettybird.co) holds the editorial middle. Imperial Woodpecker (imperialwoodpecker.com) is the brand-film reference. We sit as a last-light evocative shop.",
+        "positioningStatement": "Last Light is a video production shop named for the magic-hour shoot tradition.",
+        "targetAudience": {
+          "primary": "Brand and editorial producers 28-50.",
+          "behaviors": [
+            "Book magic-hour shoots",
+            "Care about light register",
+            "Read the DP reel"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Light-poetic",
+          "Editorial",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the magic hour",
+            "Photograph at last light",
+            "Name the DP"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the light"
+          ]
+        },
+        "logoDirection": "Wordmark: LAST LIGHT in a confident editorial serif, two lines centered. A small mark — a horizon-line silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Light Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Light paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Magic Amber",
+            "hex": "#C8853A",
+            "meaning": "Magic hour glow.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and DP statements",
+          "rationale": "A high-contrast serif plus a reading serif — the last-light register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Slate & Clap",
+        "tagline": "The clapperboard ritual.",
+        "brandNameRationale": "Anchor: slate + clap — the clapperboard ritual that starts every take. Picked from A's three for the strongest ritual-playful anchor.",
+        "industrySummary": "Ritual-named playful video shops sit in the brand-film and commercial market. The opening is a slate/clap-paired playful shop.",
+        "competitorLandscape": "Furlined (furlined.com) plays the modern peer. Imperial Woodpecker (imperialwoodpecker.com) holds the modern middle. PRETTYBIRD (prettybird.co) is the playful reference. We sit as a ritual-paired playful shop.",
+        "positioningStatement": "Slate & Clap is a playful video production shop named for the clapperboard ritual.",
+        "targetAudience": {
+          "primary": "Brand producers and agency creatives 28-45.",
+          "behaviors": [
+            "Book brand films",
+            "Care about the working set",
+            "Read the director's reel"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Working",
+          "Warm",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the slate clap",
+            "Name the director",
+            "Tell the set story"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the warmth"
+          ]
+        },
+        "logoDirection": "Wordmark: SLATE & CLAP in a friendly modern grotesk, one line. A small mark — a slate-stripe silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Slate Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Slate paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Slate Black",
+            "hex": "#141417",
+            "meaning": "Slate stripes.",
+            "usage": "Body"
+          },
+          {
+            "name": "Tally Red",
+            "hex": "#A8492E",
+            "meaning": "Tally.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for slate notes",
+          "rationale": "One family, two registers — the slate-playful register."
+        }
+      },
+      {
+        "brandName": "B-Roll Brothers",
+        "tagline": "The cutaway footage.",
+        "brandNameRationale": "Anchor: B-roll — the cutaway footage. Playful trade slang. Picked from A's three for the strongest playful-trade anchor.",
+        "industrySummary": "Trade-slang playful video shops sit in the documentary and commercial market. The opening is a B-roll-anchored playful shop.",
+        "competitorLandscape": "PRETTYBIRD (prettybird.co) plays the playful peer. Furlined (furlined.com) holds the modern middle. Imperial Woodpecker (imperialwoodpecker.com) is the modern reference. We sit as a trade-slang playful shop.",
+        "positioningStatement": "B-Roll Brothers is a playful video production shop named for the cutaway footage tradition.",
+        "targetAudience": {
+          "primary": "Documentary and brand producers 28-45.",
+          "behaviors": [
+            "Book documentary work",
+            "Care about the cutaway",
+            "Read the director's reel"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Working",
+          "Warm",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the cutaway",
+            "Tell the set story",
+            "Name the director"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the warmth"
+          ]
+        },
+        "logoDirection": "Wordmark: B-ROLL BROTHERS in a friendly modern grotesk, one line. A small mark — a film-strip cutaway motif — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Set Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Set paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Slate Black",
+            "hex": "#141417",
+            "meaning": "Slate stripes.",
+            "usage": "Body"
+          },
+          {
+            "name": "Tally Red",
+            "hex": "#A8492E",
+            "meaning": "Tally.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for timecode",
+          "rationale": "A modern grotesk plus a mono — the trade-slang register."
+        }
+      },
+      {
+        "brandName": "Crafty",
+        "tagline": "The on-set snack table.",
+        "brandNameRationale": "Anchor: crafty — the on-set craft-services snack table. Insider-cheeky. Picked from A's three for the strongest insider-warm anchor.",
+        "industrySummary": "Insider-warm playful video shops sit in the brand-film and commercial market. The opening is a crafty-anchored playful shop.",
+        "competitorLandscape": "PRETTYBIRD (prettybird.co) plays the playful peer. Furlined (furlined.com) holds the modern middle. Imperial Woodpecker (imperialwoodpecker.com) is the modern reference. We sit as an insider-warm playful shop.",
+        "positioningStatement": "Crafty is a playful video production shop named for the on-set craft-services tradition.",
+        "targetAudience": {
+          "primary": "Brand producers and agency creatives 28-45.",
+          "behaviors": [
+            "Book brand films",
+            "Care about set culture",
+            "Read the director's reel"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Warm",
+          "Working",
+          "Insider"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the set crew",
+            "Tell the set story warmly",
+            "Name the director"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Skip the warmth"
+          ]
+        },
+        "logoDirection": "Wordmark: CRAFTY in a friendly modern grotesk, one line. A small mark — a coffee-cup-and-bagel silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Set Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Set paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Coffee Brown",
+            "hex": "#5A3E20",
+            "meaning": "Craft coffee.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "One family — the insider-warm register."
+        }
+      }
+    ]
+  }
+}

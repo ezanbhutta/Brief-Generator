@@ -1,0 +1,915 @@
+{
+  "industry": "pet-grooming",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Coat & Co.",
+        "tagline": "The coat as the object.",
+        "brandNameRationale": "Anchor: the coat — the central object of grooming. Picked from A's three for the strongest minimal-modern anchor.",
+        "industrySummary": "Modern-minimal pet grooming brands sit between chains and DTC pet brands. The opening is a coat-anchored modern salon.",
+        "competitorLandscape": "Petco grooming (petco.com) plays the chain peer. BarkBox (barkbox.com) holds the DTC modern middle. Wild One (wildone.com) is the DTC modern reference. We sit as a coat-anchored modern salon.",
+        "positioningStatement": "Coat & Co. is a modern pet grooming brand named for the coat as the central object.",
+        "targetAudience": {
+          "primary": "Modern dog owners 28-50.",
+          "behaviors": [
+            "Book online",
+            "Care about coat health",
+            "Read the cut menu"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "Spare",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the cut menu plainly",
+            "Photograph the coat",
+            "Name the groomer"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the cut spec"
+          ]
+        },
+        "logoDirection": "Wordmark: COAT & CO. in a modern grotesk, one line. A small mark — a single tuft silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Coat Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Coat page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Coat Tan",
+            "hex": "#C8A878",
+            "meaning": "Golden-coat tone.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for cut-menu pricing",
+          "rationale": "One family, two registers — the coat-modern register."
+        }
+      },
+      {
+        "brandName": "Pawder",
+        "tagline": "Pun on powder. Pun on paw.",
+        "brandNameRationale": "Anchor: pun on 'powder' (finishing chalk) + paw. Single-word modern pun. Picked from A's three for the strongest playful-modern anchor.",
+        "industrySummary": "Playful-modern pet brands sit cleanly in the DTC and salon market. The opening is a pun-named modern salon.",
+        "competitorLandscape": "BarkBox (barkbox.com) plays the playful peer. Wild One (wildone.com) holds the modern middle. Petco grooming (petco.com) is the chain reference. We sit as a pun-named modern brand.",
+        "positioningStatement": "Pawder is a modern pet grooming brand named for finishing chalk and the paw.",
+        "targetAudience": {
+          "primary": "Modern dog owners 25-45.",
+          "behaviors": [
+            "Book online",
+            "Care about finishing details",
+            "Share photos of the result"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Playful",
+          "Warm",
+          "Spare"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the finish",
+            "Print the cut menu",
+            "Name the groomer"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the cut spec"
+          ]
+        },
+        "logoDirection": "Wordmark: PAWDER in a friendly modern grotesk, lowercase. A small mark — a paw-print silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Powder Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Finishing powder.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pink Powder",
+            "hex": "#E0A8B0",
+            "meaning": "Powder pink.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "One family — the playful-modern register."
+        }
+      },
+      {
+        "brandName": "Tuft",
+        "tagline": "A clump of fur.",
+        "brandNameRationale": "Anchor: tuft — a clump of fur, single-word minimal modern anchor. Picked from A's three for the cleanest single-word modern anchor.",
+        "industrySummary": "Single-word minimal pet brands sit cleanly in the modern salon and DTC market. The opening is a tuft-named minimal salon.",
+        "competitorLandscape": "Wild One (wildone.com) plays the modern peer. BarkBox (barkbox.com) holds the modern middle. Petco grooming (petco.com) is the chain reference. We sit as a single-word minimal brand.",
+        "positioningStatement": "Tuft is a modern pet grooming brand named for a clump of fur.",
+        "targetAudience": {
+          "primary": "Modern dog owners 25-45.",
+          "behaviors": [
+            "Book online",
+            "Care about coat health",
+            "Read the cut menu"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Spare",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the cut menu plainly",
+            "Photograph the coat",
+            "Skip lifestyle marketing"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the cut spec"
+          ]
+        },
+        "logoDirection": "Wordmark: tuft set in a clean modern sans, lowercase, four letters. No mark.",
+        "colorPalette": [
+          {
+            "name": "Tuft Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Coat page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tuft Tan",
+            "hex": "#C8A878",
+            "meaning": "Coat tan.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for cut-menu pricing",
+          "rationale": "One family, two registers — the minimal-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Clipper & Comb",
+        "tagline": "The two foundational tools.",
+        "brandNameRationale": "Anchor: clipper + comb — the two foundational grooming tools. Picked from A's three for the strongest trade-shop heritage anchor.",
+        "industrySummary": "Heritage trade-named groomers sit between corporate chains and home stylists. The opening is a tool-paired trade shop with a working register.",
+        "competitorLandscape": "Petco grooming (petco.com) plays the chain peer. PetSmart grooming (petsmart.com) holds the corporate middle. Hounds Town (houndstownusa.com) is the franchise reference. We sit alongside independent groomers with a tool-paired trade frame.",
+        "positioningStatement": "Clipper & Comb is a heritage trade-named pet grooming salon named for the two foundational tools.",
+        "targetAudience": {
+          "primary": "Dog owners 30-60 booking regular grooming appointments.",
+          "behaviors": [
+            "Book recurring monthly appointments",
+            "Care about the groomer by name",
+            "Tip well"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade-honest",
+          "Warm",
+          "Working"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the groomer",
+            "Print the cut spec",
+            "Photograph the tools"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the cut sheet"
+          ]
+        },
+        "logoDirection": "Wordmark: CLIPPER & COMB in a classical trade serif, one line. A small mark — a crossed clipper-and-comb silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Salon page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Salon brass.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Söhne for body and appointment cards",
+          "rationale": "A classical serif plus a clean grotesk — the trade-salon register."
+        }
+      },
+      {
+        "brandName": "Breed Standard",
+        "tagline": "Cut to the breed-club guide.",
+        "brandNameRationale": "Anchor: breed standard — the AKC/breed-club cut guide that defines correct grooming for each breed. Generic phrase, low TM risk. Picked from A's three for the strongest cut-spec heritage anchor.",
+        "industrySummary": "Breed-standard grooming serves show owners and breed-conscious pet owners. The opening is a standard-anchored salon.",
+        "competitorLandscape": "Hounds Town (houndstownusa.com) plays the franchise peer. Petco grooming (petco.com) holds the chain middle. Independent show groomers hold the breed-standard reference. We sit as a breed-standard-named salon.",
+        "positioningStatement": "Breed Standard is a pet grooming salon cutting to the breed-club guide.",
+        "targetAudience": {
+          "primary": "Show owners and breed-conscious pet owners 30-65.",
+          "behaviors": [
+            "Show in conformation",
+            "Care about breed-correct cuts",
+            "Book ahead of shows"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Standard-honest",
+          "Trade-precise",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the breed-club guide",
+            "Print the cut spec",
+            "Photograph the result"
+          ],
+          "donts": [
+            "Cut against the standard without disclosure",
+            "Use 'luxury' as a category",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: BREED STANDARD in a classical serif, two lines centered. A small mark — a breed-silhouette rosette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Ribbon Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Show ribbon paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ribbon Blue",
+            "hex": "#2E4A8A",
+            "meaning": "Show ribbon.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and cut sheets",
+          "rationale": "A high-contrast serif plus a reading serif — the breed-standard register."
+        }
+      },
+      {
+        "brandName": "The Grooming Table",
+        "tagline": "The elevated table, the arm, the noose.",
+        "brandNameRationale": "Anchor: the grooming table — the elevated work surface with arm and noose, the foundational salon furniture. Picked from A's three for the strongest furniture-trade anchor.",
+        "industrySummary": "Furniture-named heritage salons sit cleanly in the trade-shop niche. The opening is a grooming-table-anchored salon.",
+        "competitorLandscape": "Petco grooming (petco.com) plays the chain peer. PetSmart grooming (petsmart.com) holds the corporate middle. Independent groomers hold the table-trade reference. We sit as a grooming-table-named salon.",
+        "positioningStatement": "The Grooming Table is a heritage pet grooming salon named for the elevated work surface tradition.",
+        "targetAudience": {
+          "primary": "Dog owners 30-60 booking recurring grooming.",
+          "behaviors": [
+            "Book recurring appointments",
+            "Care about the groomer",
+            "Tip well"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade-honest",
+          "Warm",
+          "Working"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the table",
+            "Name the groomer",
+            "Print the cut spec"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the cut sheet"
+          ]
+        },
+        "logoDirection": "Wordmark: THE GROOMING TABLE in a classical trade serif, three lines centered. A small mark — a grooming-table silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Salon page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Table Steel",
+            "hex": "#5A6776",
+            "meaning": "Table steel.",
+            "usage": "Body"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Salon brass.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and appointment cards",
+          "rationale": "A reading serif plus a clean grotesk — the trade-table register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Blade Number 10",
+        "tagline": "The clipper blade everyone knows.",
+        "brandNameRationale": "Anchor: blade #10 — the most common clipper blade size for sanitary trims and prep work. Picked from A's three for the strongest insider-technical anchor.",
+        "industrySummary": "Insider-technical grooming brands sit in the precision-salon niche. The opening is a blade-number-anchored precision salon.",
+        "competitorLandscape": "Hounds Town (houndstownusa.com) plays the franchise peer. Petco grooming (petco.com) holds the chain middle. Independent show groomers hold the precision reference. We sit as a blade-number-named precision salon.",
+        "positioningStatement": "Blade Number 10 is a precision pet grooming salon named for the most common clipper blade.",
+        "targetAudience": {
+          "primary": "Precise dog owners 30-55, show owners, breed-conscious owners.",
+          "behaviors": [
+            "Care about the blade size",
+            "Book recurring appointments",
+            "Read the cut spec"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Trade-honest",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the blade number on the cut spec",
+            "Name the groomer",
+            "Photograph the tools"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: BLADE NUMBER 10 in a precise modern grotesk, two lines. A small mark — the numeral 10 — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Salon Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Salon page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Blade Steel",
+            "hex": "#3A4047",
+            "meaning": "Clipper blade.",
+            "usage": "Body"
+          },
+          {
+            "name": "Caution Amber",
+            "hex": "#C8853A",
+            "meaning": "Caution.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for blade specs",
+          "rationale": "A modern grotesk plus a mono — the blade-precision register."
+        }
+      },
+      {
+        "brandName": "Hand-Strip & Co.",
+        "tagline": "The terrier-coat tradition.",
+        "brandNameRationale": "Anchor: hand-stripping — the terrier-coat technique that uses no clippers; pulls dead hair by hand. Picked from A's three for the strongest technique-precision anchor.",
+        "industrySummary": "Hand-strip specialist salons serve terrier owners and breed-conscious owners. The opening is a hand-strip-named precision salon.",
+        "competitorLandscape": "Independent terrier groomers hold the hand-strip reference. Hounds Town (houndstownusa.com) plays the chain peer. Petco grooming (petco.com) holds the chain middle. We sit as a hand-strip-named specialist salon.",
+        "positioningStatement": "Hand-Strip & Co. is a specialist pet grooming salon named for the terrier-coat hand-stripping technique.",
+        "targetAudience": {
+          "primary": "Terrier owners 35-65 valuing breed-correct grooming.",
+          "behaviors": [
+            "Show in conformation",
+            "Care about hand-strip vs clipper",
+            "Book ahead of shows"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Specialist",
+          "Trade-honest",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the breed-club guide",
+            "Print the technique",
+            "Name the groomer"
+          ],
+          "donts": [
+            "Clip a strip coat without disclosure",
+            "Use 'luxury' as a category",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: HAND-STRIP & CO. in a precise modern grotesk, two lines. A small mark — a hand-and-coat silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Coat Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Coat page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Terrier Tan",
+            "hex": "#A6843D",
+            "meaning": "Wire-coat tan.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for technique notes",
+          "rationale": "One family, two registers — the technique-precision register."
+        }
+      },
+      {
+        "brandName": "Topknot Precision",
+        "tagline": "The finishing topknot.",
+        "brandNameRationale": "Anchor: topknot — the poodle/Yorkie/Shih-Tzu finishing knot at the crown. Picked from A's three for the strongest finishing-precision anchor.",
+        "industrySummary": "Finishing-precision salons serve poodle, Yorkie, and Shih-Tzu owners. The opening is a topknot-precision-named salon.",
+        "competitorLandscape": "Independent poodle groomers hold the topknot reference. Hounds Town (houndstownusa.com) plays the chain peer. Petco grooming (petco.com) holds the chain middle. We sit as a topknot-precision-named salon.",
+        "positioningStatement": "Topknot Precision is a finishing-precision pet grooming salon for poodles, Yorkies, and similar.",
+        "targetAudience": {
+          "primary": "Poodle and Yorkie owners 30-65 valuing finished topknots.",
+          "behaviors": [
+            "Care about the finished crown",
+            "Book recurring appointments",
+            "Show in conformation"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Finishing",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the finished topknot",
+            "Name the groomer",
+            "Print the cut spec"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: TOPKNOT PRECISION in a precise modern grotesk, two lines. A small mark — a topknot silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Salon Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Salon page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ribbon Pink",
+            "hex": "#E0A8B0",
+            "meaning": "Topknot ribbon.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for cut-spec data",
+          "rationale": "A modern grotesk plus a mono — the topknot-precision register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Soft Mouth",
+        "tagline": "Gundog grooming heritage.",
+        "brandNameRationale": "Anchor: 'soft mouth' — the gundog tradition (retrievers carrying game gently). Heritage gundog-grooming term. Picked from A's three for the strongest gundog-evocative anchor.",
+        "industrySummary": "Gundog-heritage groomers sit in a quiet niche serving retriever and spaniel owners. The opening is a soft-mouth-named evocative salon.",
+        "competitorLandscape": "Independent gundog groomers hold the heritage reference. Hounds Town (houndstownusa.com) plays the chain peer. Petco grooming (petco.com) holds the chain middle. We sit as a gundog-heritage evocative salon.",
+        "positioningStatement": "Soft Mouth is a gundog-tradition pet grooming salon for retrievers and spaniels.",
+        "targetAudience": {
+          "primary": "Retriever and spaniel owners 35-65 valuing gundog heritage.",
+          "behaviors": [
+            "Train and shoot gundogs",
+            "Care about coat-water resistance",
+            "Show in field"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Heritage",
+          "Working",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the gundog tradition",
+            "Photograph the field",
+            "Name the groomer"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the tradition"
+          ]
+        },
+        "logoDirection": "Wordmark: SOFT MOUTH in a confident editorial serif, two lines. A small mark — a retrieving-dog silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Field Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Field paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Field Green",
+            "hex": "#3D5C3D",
+            "meaning": "Field green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and field notes",
+          "rationale": "A high-contrast serif plus a reading serif — the gundog-heritage register."
+        }
+      },
+      {
+        "brandName": "Corded Coat",
+        "tagline": "The Puli and Komondor tradition.",
+        "brandNameRationale": "Anchor: corded coat — the Puli/Komondor/Bergamasco coat-cord tradition. Picked from A's three for the strongest rare-breed evocative anchor.",
+        "industrySummary": "Corded-coat specialist groomers sit in a rare-breed niche. The opening is a corded-coat-anchored evocative salon.",
+        "competitorLandscape": "Independent corded-breed groomers hold the reference. Hounds Town (houndstownusa.com) plays the chain peer. Petco grooming (petco.com) holds the chain middle. We sit as a corded-coat specialist salon.",
+        "positioningStatement": "Corded Coat is a rare-breed pet grooming salon specializing in the corded-coat tradition.",
+        "targetAudience": {
+          "primary": "Corded-breed owners 35-65 valuing coat-cord heritage.",
+          "behaviors": [
+            "Care about cord formation",
+            "Book ahead of shows",
+            "Travel for specialist grooming"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Specialist",
+          "Heritage",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the cords",
+            "Reference the breed-club guide",
+            "Name the groomer"
+          ],
+          "donts": [
+            "Cut against the tradition without disclosure",
+            "Photograph against marble",
+            "Use 'luxury' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: CORDED COAT in a confident editorial serif, two lines. A small mark — a coat-cord silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cord Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Cord page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cord Brown",
+            "hex": "#7A5A3A",
+            "meaning": "Cord brown.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and breed notes",
+          "rationale": "A high-contrast serif plus a reading serif — the corded-coat register."
+        }
+      },
+      {
+        "brandName": "The Finishing Spray",
+        "tagline": "The last step before show.",
+        "brandNameRationale": "Anchor: finishing spray — the last grooming step before the show ring. Picked from A's three for the strongest pre-show-evocative anchor.",
+        "industrySummary": "Pre-show evocative groomers sit in the show-circuit niche. The opening is a finishing-spray-anchored evocative salon.",
+        "competitorLandscape": "Independent show groomers hold the reference. Hounds Town (houndstownusa.com) plays the chain peer. Petco grooming (petco.com) holds the chain middle. We sit as a pre-show evocative salon.",
+        "positioningStatement": "The Finishing Spray is a pre-show pet grooming salon named for the last step before the ring.",
+        "targetAudience": {
+          "primary": "Show owners 35-65 booking pre-show grooming.",
+          "behaviors": [
+            "Show in conformation",
+            "Book ahead of shows",
+            "Care about ring-ready finish"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Show-ready",
+          "Trade-honest",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the finished coat",
+            "Name the show",
+            "Print the cut spec"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the show"
+          ]
+        },
+        "logoDirection": "Wordmark: THE FINISHING SPRAY in a confident editorial serif, three lines centered. A small mark — a spray-bottle silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Ring Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Ring paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ribbon Blue",
+            "hex": "#2E4A8A",
+            "meaning": "Best in show.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and show cards",
+          "rationale": "A reading serif plus a clean grotesk — the show-finish register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Wag & Lather",
+        "tagline": "The tail wag and the shampoo.",
+        "brandNameRationale": "Anchor: the tail wag + the shampoo lather. Alliterative. Picked from A's three for the strongest cheerful-paired anchor.",
+        "industrySummary": "Cheerful paired-name pet salons sit in the DTC and neighborhood market. The opening is a wag/lather-paired playful salon.",
+        "competitorLandscape": "Splash and Dash (splashanddashfordogs.com) plays the playful franchise peer. The Dog Stop (thedogstop.com) holds the middle. BarkBox (barkbox.com) is the DTC reference. We sit as an alliterative paired playful salon.",
+        "positioningStatement": "Wag & Lather is a playful pet grooming salon named for the tail wag and the shampoo lather.",
+        "targetAudience": {
+          "primary": "Dog owners 25-50 booking neighborhood grooming.",
+          "behaviors": [
+            "Book online or by text",
+            "Share photos of the result",
+            "Refer friends"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Warm",
+          "Cheerful",
+          "Neighborhood"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the wag and the bath",
+            "Name the groomer",
+            "Print the menu cheerfully"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the warmth"
+          ]
+        },
+        "logoDirection": "Wordmark: WAG & LATHER in a friendly modern serif, one line. A small mark — a wagging-tail silhouette in bubbles — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Bath Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Bath foam.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bubble Blue",
+            "hex": "#7AB0D0",
+            "meaning": "Bath bubble.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and menu",
+          "rationale": "A reading serif plus a clean grotesk — the warm-playful register."
+        }
+      },
+      {
+        "brandName": "Bubble Bark",
+        "tagline": "Bath time, with a bark.",
+        "brandNameRationale": "Anchor: alliterative bath-time playfulness — bubbles + bark. Picked from A's three for the strongest cheerful-alliterative anchor.",
+        "industrySummary": "Alliterative playful salons sit in the neighborhood and DTC market. The opening is a bubble-bark-named playful salon.",
+        "competitorLandscape": "Splash and Dash (splashanddashfordogs.com) plays the franchise peer. The Dog Stop (thedogstop.com) holds the middle. BarkBox (barkbox.com) is the DTC reference. We sit as an alliterative playful salon.",
+        "positioningStatement": "Bubble Bark is a playful pet grooming salon named for the bath and the bark.",
+        "targetAudience": {
+          "primary": "Dog owners 25-45 booking neighborhood grooming.",
+          "behaviors": [
+            "Book by app",
+            "Share photos of the result",
+            "Refer friends"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Warm",
+          "Cheerful",
+          "Neighborhood"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the bubbles",
+            "Name the dog by name",
+            "Print the menu cheerfully"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the warmth"
+          ]
+        },
+        "logoDirection": "Wordmark: BUBBLE BARK in a friendly modern grotesk, one line. A small mark — a bubble + bark silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Bath Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Bath foam.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bubble Blue",
+            "hex": "#7AB0D0",
+            "meaning": "Bath bubble.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "One family — the playful-bath register."
+        }
+      },
+      {
+        "brandName": "Tail & Tub",
+        "tagline": "The tail. The tub. The cut.",
+        "brandNameRationale": "Counter-proposal third playful option (rejecting 'The Snip Shop' over A's TM caution — 'Snip Shop' is a common chain name and risks confusion). Anchor: tail + tub — alliterative trade-paired anchor, generic terms.",
+        "industrySummary": "Alliterative trade-paired playful salons sit in the neighborhood market. The opening is a tail/tub-paired playful salon.",
+        "competitorLandscape": "Splash and Dash (splashanddashfordogs.com) plays the franchise peer. The Dog Stop (thedogstop.com) holds the middle. BarkBox (barkbox.com) is the DTC reference. We sit as a tail/tub-paired playful salon.",
+        "positioningStatement": "Tail & Tub is a playful pet grooming salon named for the tail and the tub.",
+        "targetAudience": {
+          "primary": "Dog owners 25-50 booking neighborhood grooming.",
+          "behaviors": [
+            "Book online or by text",
+            "Share photos",
+            "Refer friends"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Warm",
+          "Cheerful",
+          "Neighborhood"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the tub",
+            "Name the dog",
+            "Print the menu cheerfully"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the warmth"
+          ]
+        },
+        "logoDirection": "Wordmark: TAIL & TUB in a friendly modern serif, one line. A small mark — a tail-over-tub silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Tub Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Tub porcelain.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bubble Blue",
+            "hex": "#7AB0D0",
+            "meaning": "Bath bubble.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "A reading serif plus a clean grotesk — the playful-tub register."
+        }
+      }
+    ]
+  }
+}
