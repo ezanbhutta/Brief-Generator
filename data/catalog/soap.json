@@ -1,0 +1,345 @@
+{
+  "industry": "soap",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Seventy-Two",
+        "tagline": "Marseille soap. 72% olive oil. Nothing else.",
+        "brandNameRationale": "Seventy-Two is the documented minimum olive-oil percentage required for authentic Marseille soap by the 1688 Edict of Colbert. Spelled out, the number reads as a brand mark \u2014 distinctive, ownable, and rooted in a verifiable specification.",
+        "industrySummary": "Modern bar soap has split into the design-DTC cohort (Public Goods, Beekman 1802) and the heritage cohort (Marius Fabre, Compagnie de Provence). The opening is for a modern brand that anchors to a single specification \u2014 the 72% olive-oil minimum \u2014 and runs the catalog from there.",
+        "competitorLandscape": "Marius Fabre (marius-fabre.com) holds the heritage Marseille peer slot. Compagnie de Provence (compagniedeprovence.com) plays the modern Marseille middle. Savon Stories (savonstories.com) sits in the considered modern peer position. We sit alongside Compagnie de Provence with sharper single-spec anchoring.",
+        "positioningStatement": "A modern Marseille-format soap brand built around the 72% olive-oil minimum.",
+        "targetAudience": {
+          "primary": "28 to 50. Buys for the household. Reads ingredient lists. Replaces shower gels with bar soap.",
+          "behaviors": [
+            "Reads back-of-bar labels",
+            "Buys soap in fours",
+            "Prefers bar to bottle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the spec on the front of the bar",
+            "Name the cauldron and the saponifier",
+            "Show the bar at scale"
+          ],
+          "donts": [
+            "Add a fragrance line",
+            "Use the word 'clean'",
+            "Run a seasonal collection"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Seventy-Two set in a precise modern grotesque, with '72' as a tonal mark used alone on the bar.",
+        "colorPalette": [
+          {
+            "name": "Olive",
+            "hex": "#5C6B47",
+            "meaning": "The colour of saponified olive oil.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE9DD",
+            "meaning": "Page and packaging.",
+            "usage": "Backgrounds, wrapper"
+          },
+          {
+            "name": "Cauldron",
+            "hex": "#3D3A33",
+            "meaning": "Soap cauldron.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for percentages and weights",
+          "rationale": "The mono carries the spec. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Colbert & Olive",
+        "tagline": "A Marseille savonnerie, by appointment.",
+        "brandNameRationale": "Jean-Baptiste Colbert was the 17th-century French finance minister whose 1688 Edict mandated the 72% olive-oil Marseille soap standard. Olive is the foundational ingredient. The pair reads as a heritage savonnerie with an aristocratic founding-document anchor \u2014 without using the trademarked 'Marseille' name as the lead.",
+        "story": "Colbert & Olive is a small French savonnerie founded in 1894 in Salon-de-Provence, run by the founder's great-grandchildren. The catalog runs to eleven bars, each saponified in the original copper cauldrons of the maison.",
+        "industrySummary": "Heritage savonnerie brands are rare and remain among the most premium bar-soap presentations available. There is space for a small French maison operating in the original 1688-spec tradition.",
+        "competitorLandscape": "Marius Fabre (marius-fabre.com) is the institutional Marseille peer. Le S\u00e9rail (le-serail.com) holds the heritage Marseille slot. Savon de Marseille \u2014 Fer \u00e0 Cheval (savon-de-marseille.com) plays in the heritage middle. We belong with Le S\u00e9rail in the small heritage savonnerie category.",
+        "positioningStatement": "A French heritage savonnerie with eleven bars saponified in the original copper cauldrons since 1894.",
+        "targetAudience": {
+          "primary": "40 to 70. Buys for the household across years. Travels to Provence. Re-orders by mail.",
+          "behaviors": [
+            "Buys in fours and sixes",
+            "Travels to the maison",
+            "Re-orders by hand-written postcard"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customers in formal French and English",
+            "Reference the 1688 Edict and the founding year",
+            "Print all marketing in letterpress"
+          ],
+          "donts": [
+            "Maintain a social-media presence beyond a quiet archive",
+            "Run promotional pricing",
+            "Issue seasonal collections"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Colbert & Olive in a classical book serif with a small embossed olive-branch mark.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and packaging.",
+            "usage": "All correspondence"
+          },
+          {
+            "name": "Cauldron",
+            "hex": "#1F2530",
+            "meaning": "Primary type.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Olive Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Crest, embossed seals"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and printed catalogue",
+          "secondary": "An engraver's italic for the founding year",
+          "rationale": "Letterpress register throughout."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "72/28",
+        "tagline": "Olive oil. Water. Lye.",
+        "brandNameRationale": "72/28 is the documented Marseille saponification ratio: 72% olive oil, 28% water-and-lye system. The slash makes it read as a working specification mark, like a parts code. The brand is the ratio.",
+        "industrySummary": "Bar soap has accumulated scent libraries, gift bundles, exfoliant variants, and seasonal collections. There's an opening for a brand that ships one bar at one ratio.",
+        "competitorLandscape": "Most bar-soap brands fail this purity test. The closest peers in spirit are some single-bar Japanese bath brands and certain pharmacy-counter Marseille bricks.",
+        "positioningStatement": "One bar. One ratio. One price.",
+        "targetAudience": {
+          "primary": "Adults who use bar soap daily and want one good unscented bar.",
+          "behaviors": [
+            "Buys soap in fours",
+            "Skips fragrance",
+            "Re-buys the same bar for years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the bar, the ratio, the price",
+            "Confirm orders in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Add fragrance",
+            "Run a seasonal collection",
+            "Photograph the bar with linen"
+          ]
+        },
+        "logoDirection": "72/28 set in a single-weight grotesque, tracked tight, used at small scale on the bar itself.",
+        "colorPalette": [
+          {
+            "name": "Olive",
+            "hex": "#5C6B47",
+            "meaning": "The saponified oil.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Wrapper.",
+            "usage": "Packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "All copy"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The wrapper, the spec card, and the receipt share the same mark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Marseille Soap Works",
+        "tagline": "Saponification at scale.",
+        "brandNameRationale": "Marseille names the documented French saponification tradition (1688 Edict) without claiming the protected appellation alone. Soap Works follows the heritage industrial naming convention (Sheffield Cutlery Works, Solingen Blade Works). The pair reads as a serious manufacturing operator already on the procurement panel at major retailers.",
+        "industrySummary": "Bar soap manufacturing for hotel groups, hospitality chains, retail private-label, and brand licensees is a B2B category dominated by a handful of large saponifiers (Compagnie de Provence operations, Savon de Marseille industrial cohort). The opening is a mid-tier operator with Marseille-spec discipline and retail-grade reliability.",
+        "competitorLandscape": "Compagnie de Provence (compagniedeprovence.com) is the institutional peer at scale. Fer \u00e0 Cheval (savon-de-marseille.com) holds the heritage Marseille industrial slot. Le S\u00e9rail (le-serail.com) plays in the smaller heritage middle. Marius Fabre (marius-fabre.com) sits in the family-operator peer position. We sit closer to Fer \u00e0 Cheval with a broader hospitality and private-label offering.",
+        "positioningStatement": "Marseille-spec bar soap manufacturing for hospitality, retail private-label, and brand licensees.",
+        "targetAudience": {
+          "primary": "Hotel group procurement, retail private-label buyers, and brand licensees sourcing Marseille-spec bar soap at scale.",
+          "motivations": [
+            "Marseille-spec saponification at supply-grade reliability",
+            "Custom embossing and packaging for hospitality",
+            "A single operator across bar, liquid, and travel sizes"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with cauldron capacity and minimum orders",
+            "Show case studies with hotel groups and retailers",
+            "Publish lead times and packaging options"
+          ],
+          "donts": [
+            "Use consumer DTC marketing language",
+            "Photograph bars in lifestyle settings",
+            "Run consumer-facing promotions"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Marseille saponification",
+            "description": "Every bar is saponified to the 1688 Edict spec \u2014 72% vegetable oil, copper-cauldron process."
+          },
+          {
+            "name": "Hospitality-ready",
+            "description": "Custom embossing, packaging, and amenity programs for hotel groups."
+          },
+          {
+            "name": "Multi-tier offering",
+            "description": "Bar, liquid, and travel sizes under one supplier."
+          }
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single rectangular bar with a soft chamfer \u2014 the Marseille brick. Reads cleanly on a wholesale catalog and shipping case.",
+        "colorPalette": [
+          {
+            "name": "Olive",
+            "hex": "#5C6B47",
+            "meaning": "Primary.",
+            "usage": "Logo, headings"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and structured.",
+            "usage": "Backgrounds, catalogs"
+          },
+          {
+            "name": "Cauldron",
+            "hex": "#3D3A33",
+            "meaning": "Cauldron metal.",
+            "usage": "Body type, dividers"
+          },
+          {
+            "name": "Cuivre",
+            "hex": "#9E6A3D",
+            "meaning": "Copper-cauldron accent.",
+            "usage": "Callouts"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed catalogs and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs and hospitality programs."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Laurel Bath House",
+        "tagline": "Aleppo-style soap, made loudly.",
+        "brandNameRationale": "Laurel oil is the defining ingredient of Aleppo soap \u2014 the 8th-century olive-and-laurel formula widely cited as the world's oldest continuously made soap. Bath House frames the brand as a place, not just a product. The pair reads as a warm, character-driven house with a documented ancient anchor.",
+        "manifesto": "Most soap brands whisper. Beige labels. Calm voices. We made Laurel Bath House because the actual experience of a long bath at the end of a long week is loud, warm, and very specific. The brand is the bath. Bring a book.",
+        "industrySummary": "Bar-soap branding has been quiet, ethereal, beige, and slightly precious. There's room for one that's loud, warm, character-driven, and serious about the bath itself.",
+        "competitorLandscape": "Dr. Squatch (drsquatch.com) does the loud-DTC middle. Beekman 1802 (beekman1802.com) holds the narrative-heritage peer slot. Outlaw Soaps (outlawsoaps.com) sits in the character-driven peer position. We sit warmer and more bath-room than any of them.",
+        "positioningStatement": "A bar-soap brand for the long Friday-night bath.",
+        "targetAudience": {
+          "primary": "28 to 50. Takes baths on purpose. Reads in the tub. Owns the bath salts and the bath pillow.",
+          "behaviors": [
+            "Runs a bath at least once a week",
+            "Reads in the bath",
+            "Buys laurel oil for the cabinet"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Playful",
+          "Narrative",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the bar wet, the bath running",
+            "Name each bar after a night of the week",
+            "Send a bath playlist with each order"
+          ],
+          "donts": [
+            "Photograph the bar dry on linen",
+            "Run a 'clean beauty' campaign",
+            "Use the word 'glow'"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with a single laurel-leaf mark replacing the dot of the i in 'Bath'. The leaf stands alone on the social avatar and the soap stamp.",
+        "colorPalette": [
+          {
+            "name": "Laurel Green",
+            "hex": "#3F5A47",
+            "meaning": "Aleppo laurel oil.",
+            "usage": "Primary, packaging"
+          },
+          {
+            "name": "Bath Cream",
+            "hex": "#FBF6E9",
+            "meaning": "Bathroom tile.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Bathwater Blue",
+            "hex": "#2E6F8E",
+            "meaning": "The water.",
+            "usage": "Accent, swag"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and product names",
+          "rationale": "Migra carries the personality. Neue Montreal handles the working type."
+        }
+      }
+    ]
+  }
+}

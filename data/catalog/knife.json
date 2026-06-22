@@ -1,0 +1,351 @@
+{
+  "industry": "knife",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Sakai Edge",
+        "tagline": "Japanese kitchen knives. Sakai-forged.",
+        "brandNameRationale": "Sakai is the Japanese city (Osaka prefecture) where bladesmithing has been documented since the 14th century \u2014 originally for tobacco-cutters, then swords, now kitchen knives. Edge is the trade word for the working geometry of the blade. The pair reads as a modern Japanese knife house with its forging town on the label.",
+        "industrySummary": "Modern Japanese knife brands have split into the design-led DTC cohort (Hast, Material) and the heritage forge cohort (Tojiro, Masamoto). The opening is for a modern brand that names a single forging town \u2014 the way a wine label names an appellation.",
+        "competitorLandscape": "Material Kitchen (materialkitchen.com) holds the design-led DTC peer. Hast Knives (hastknives.com) plays the modern Japanese-style peer. Misen (misen.com) sits in the modern direct middle. Tojiro (tojiro.net) is the heritage Japanese reference. We sit alongside Hast with sharper Sakai-town anchoring.",
+        "positioningStatement": "A modern Japanese knife brand forged in Sakai, sold by the blade.",
+        "targetAudience": {
+          "primary": "30 to 55. Cooks five nights a week. Owns three knives, uses two. Reads the steel spec.",
+          "behaviors": [
+            "Sharpens on whetstones",
+            "Buys by steel (VG-10, blue paper, white paper)",
+            "Keeps knives for decades"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the steel, the smith, the geometry",
+            "Photograph the bevel",
+            "Sign emails by the Sakai partner forge"
+          ],
+          "donts": [
+            "Use the word 'culinary'",
+            "Sell knife blocks",
+            "Run a holiday bundle"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Sakai Edge in a precise modern grotesque, with a single hairline beneath that reads as the cutting edge of the blade.",
+        "colorPalette": [
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Polished blade.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F1ECDF",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Smith Black",
+            "hex": "#1A1A1C",
+            "meaning": "Forge-charred handle.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for steel grades and blade lengths",
+          "rationale": "The mono carries the spec. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Honyaki Maison",
+        "tagline": "Single-steel knives, forged by hand.",
+        "brandNameRationale": "Honyaki is the Japanese trade word for a knife forged from a single high-carbon steel \u2014 the master-class technique, requiring water-quenching and yielding the hardest, sharpest, most demanding blades. Maison places the brand in the heritage couture register. The pair reads as a small house producing honyaki knives by hand, in the lineage of Masamoto Sohonten and Sakai Takayuki at their highest tier.",
+        "story": "Honyaki Maison is a small workshop in Sakai producing single-steel knives by hand, on commission, with twelve- to twenty-week lead times. The catalog runs to seven blades \u2014 yanagiba, deba, usuba, gyuto, santoku, petty, sujihiki \u2014 each forged by named smiths.",
+        "industrySummary": "Luxury knife houses are rare and dominated by century-old Japanese forges (Masamoto, Sakai Takayuki) and a handful of European bespoke makers (Bob Kramer, Nesmuk). The opening is for a small honyaki-only maison operating in the made-to-order tradition.",
+        "competitorLandscape": "Masamoto Sohonten (masamoto-sohonten.co.jp) is the heritage Tsukiji reference. Bob Kramer (kramerknives.com) holds the bespoke American luxury slot. Nesmuk (nesmuk.com) plays the German luxury peer. Sakai Takayuki (sakaitakayuki.com) sits in the broader Sakai reference. We belong with Bob Kramer in the small bespoke-honyaki category.",
+        "positioningStatement": "A small Sakai maison producing single-steel knives by hand, on commission, with twelve- to twenty-week lead times.",
+        "targetAudience": {
+          "primary": "Chefs and serious home cooks 35\u201365 who commission knives for a kitchen they will keep for decades.",
+          "behaviors": [
+            "Commissions custom knives",
+            "Sharpens on natural Japanese stones",
+            "Maintains a working set of single-bevel knives"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address commissioners by surname",
+            "Name the smith on each invoice",
+            "Print the lead time on the order acknowledgement"
+          ],
+          "donts": [
+            "Stock for immediate delivery",
+            "Run promotional pricing",
+            "Photograph knives for fashion press"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Honyaki Maison in a classical book serif with a small embossed kanji \u672c\u713c mark.",
+        "colorPalette": [
+          {
+            "name": "Steel Black",
+            "hex": "#1A1A1C",
+            "meaning": "Single-steel honyaki blade.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#F1ECDD",
+            "meaning": "Page.",
+            "usage": "Correspondence"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Embossed hallmark.",
+            "usage": "Foil, hangtag"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and printed catalogue",
+          "secondary": "An engraver's italic for the smith's signature",
+          "rationale": "Letterpress register throughout. The catalogue is the primary surface."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Santoku.",
+        "tagline": "Three virtues. One knife.",
+        "brandNameRationale": "Santoku \u2014 literally 'three virtues' in Japanese, referring to the knife's competence at meat, fish, and vegetables. The single trade word, full stop, names the entire catalog: the brand sells one santoku.",
+        "industrySummary": "Knife brands have accumulated sets, blocks, sharpeners, steels, and seasonal handle releases. There's an opening for a brand that ships one knife.",
+        "competitorLandscape": "Most knife brands fail this purity test. The closest peers in spirit are some single-knife Japanese bladesmiths and certain ultralight backpacking kits.",
+        "positioningStatement": "One santoku. One steel. One price.",
+        "targetAudience": {
+          "primary": "Adults who cook daily and want one good knife. They will not buy a set.",
+          "behaviors": [
+            "Uses one knife for nearly every task",
+            "Skips the knife block",
+            "Re-buys the same knife for friends"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the knife, the steel, the price",
+            "Confirm orders in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Sell a paring knife",
+            "Run a holiday bundle",
+            "Photograph the knife in a fashion shoot"
+          ]
+        },
+        "logoDirection": "Santoku. set in a single-weight grotesque, lowercase, with a small full stop. The mark appears on the box, the spine, and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Space.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Steel",
+            "hex": "#A6A29A",
+            "meaning": "Quiet accent.",
+            "usage": "Hairlines, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The mark, the box, and the receipt share the same type."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Sakai Cutlery Works",
+        "tagline": "Forged in Sakai. Distributed worldwide.",
+        "brandNameRationale": "Sakai is the documented Japanese knife-forging town with continuous tradition since the 14th century. Cutlery Works follows the heritage industrial naming convention (Sheffield Cutlery, Solingen Cutlery Works). The pair reads as a serious operator: a Sakai-anchored manufacturer supplying the worldwide knife trade.",
+        "industrySummary": "Kitchen knife manufacturing and distribution is a B2B category dominated by century-old Solingen and Sakai forges and a handful of multi-brand operators (Zwilling, Kai). The opening is for a Sakai-anchored operator running multi-forge supply across the global knife retail trade.",
+        "competitorLandscape": "Kai Group (kai-group.com) is the Japanese multi-brand peer reference. Zwilling (zwilling.com) holds the German multi-brand institutional slot. Tojiro (tojiro.net) sits in the Japanese heritage middle. Sumikama (sumikama.co.jp) is the smaller Sakai operator peer. We sit closer to Kai with a Sakai-only forging mandate.",
+        "positioningStatement": "Sakai-forged kitchen knives, supplied to retailers worldwide.",
+        "targetAudience": {
+          "primary": "Specialty cookware buyers, restaurant supply houses, and kitchen retailers sourcing Japanese kitchen knives.",
+          "motivations": [
+            "Authentic Sakai forging at supply-grade reliability",
+            "Multi-line catalog across price points",
+            "A single operator across yanagiba, gyuto, santoku, and petty"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the Sakai forge and the steel",
+            "Show case studies with named retailers",
+            "Publish lead times and minimums"
+          ],
+          "donts": [
+            "Use consumer DTC marketing language",
+            "Photograph knives in lifestyle settings",
+            "Run consumer-facing promotions"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Sakai forging",
+            "description": "Every blade is forged in Sakai by partner smiths with multi-generational shops."
+          },
+          {
+            "name": "Retail-ready supply",
+            "description": "Multi-line catalog with retail packaging, EDI, and compliance handled in-house."
+          },
+          {
+            "name": "Multi-tier offering",
+            "description": "Stainless, VG-10, and blue-paper-steel lines under one supplier."
+          }
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single bevel-line \u2014 the cross-section of a Japanese knife. Reads cleanly on a wholesale catalog and shipping case.",
+        "colorPalette": [
+          {
+            "name": "Forge Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the forge.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and structured.",
+            "usage": "Backgrounds, catalogs"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5E6A75",
+            "meaning": "Blade colour.",
+            "usage": "Body type, dividers"
+          },
+          {
+            "name": "Smith Red",
+            "hex": "#B23A2C",
+            "meaning": "Forge heat accent.",
+            "usage": "Callouts, retail signage"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed catalogs and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Three Virtues",
+        "tagline": "Meat. Fish. Vegetables.",
+        "brandNameRationale": "Three Virtues is the literal English translation of santoku \u2014 the Japanese kitchen-knife trade word for a blade competent at the three foundational kitchen tasks (meat, fish, vegetables). The brand turns the translation into a storytelling object \u2014 three categories, three short stories, one knife per use.",
+        "manifesto": "Most knife brands sell the steel spec. We sell the three tasks. The fish you broke down at the counter on Friday. The shoulder of lamb you butchered for the Sunday roast. The bag of vegetables from the market on Tuesday. The brand is for those three tasks, and the knife you used.",
+        "industrySummary": "Knife branding has been polished, technical, and aimed at the gear-buyer. There's room for one that's narrative, character-driven, and aimed at the home cook who actually does the three tasks.",
+        "competitorLandscape": "Material Kitchen (materialkitchen.com) does the design-led middle. Misen (misen.com) holds the DTC peer slot. Hedley & Bennett (hedleyandbennett.com) sits in the kitchen-narrative peer position. We sit warmer and more narrative than any of them.",
+        "positioningStatement": "A knife brand for the three tasks a home cook actually does.",
+        "targetAudience": {
+          "primary": "28 to 50. Cooks at home. Reads cookbooks. Wants the knife and the recipe.",
+          "behaviors": [
+            "Breaks down a whole fish at home",
+            "Reads butchery primers",
+            "Watches one technique video per week"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Narrative",
+          "Playful",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the story of the meal the knife belongs to",
+            "Photograph the knife mid-cut",
+            "Send a recipe with each delivery"
+          ],
+          "donts": [
+            "Use the word 'culinary'",
+            "Sell a 14-piece set",
+            "Run a steel-spec landing page"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with three small horizontal marks beneath, representing the three tasks. The three marks stand alone on the hangtag and the recipe card.",
+        "colorPalette": [
+          {
+            "name": "Butcher Red",
+            "hex": "#B23A2C",
+            "meaning": "Meat.",
+            "usage": "Primary, totebags"
+          },
+          {
+            "name": "Fishmonger Blue",
+            "hex": "#2E6F8E",
+            "meaning": "Fish.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Market Green",
+            "hex": "#3F5A47",
+            "meaning": "Vegetables.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Kitchen Cream",
+            "hex": "#FBF6E9",
+            "meaning": "Counter surface.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and recipe text",
+          "rationale": "Migra has personality. Neue Montreal handles the recipe."
+        }
+      }
+    ]
+  }
+}

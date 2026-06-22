@@ -1,0 +1,315 @@
+{
+  "industry": "toys",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Froebel & Form",
+        "tagline": "Building blocks, by the gift.",
+        "brandNameRationale": "Anchor: Friedrich Froebel's 1837 'gifts' — the original pedagogical building blocks that founded the kindergarten movement and inspired Frank Lloyd Wright's design education. Picked from Agent A's three for the cleanest pedagogy-meets-design anchor.",
+        "industrySummary": "Modern toys have moved past plastic franchises toward design-led wooden goods. The opening is for a brand that names a pedagogical heritage and stays in the considered-design register.",
+        "competitorLandscape": "Grimm's (grimms.eu) plays the design-led wooden-toy peer. Plan Toys (plantoys.com) holds the considered-modern middle. Maileg (maileg.com) is the editorial-craft reference. We sit alongside Grimm's with sharper pedagogy framing.",
+        "positioningStatement": "Froebel & Form is a modern wooden-toy brand drawing on Froebel's 1837 pedagogical gifts.",
+        "targetAudience": {
+          "primary": "Parents 28-45 who buy considered wooden toys and care about pedagogy.",
+          "behaviors": [
+            "Read Montessori and Waldorf materials",
+            "Care about wood source and finish",
+            "Buy fewer, considered toys"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Pedagogical",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the gift number and the pedagogy",
+            "Show toys in real children's hands",
+            "Publish the wood source"
+          ],
+          "donts": [
+            "Use battery-powered language",
+            "Photograph in styled studio shots",
+            "Skip the pedagogy"
+          ]
+        },
+        "logoDirection": "Wordmark: FROEBEL & FORM set in a modern serif, two lines with a long ampersand. Small mark: a single cube-and-sphere silhouette (Gift #2) used on tags.",
+        "colorPalette": [
+          {
+            "name": "Beech",
+            "hex": "#C9A87C",
+            "meaning": "Untreated European beech",
+            "usage": "Primary surfaces"
+          },
+          {
+            "name": "Slate",
+            "hex": "#3B3F44",
+            "meaning": "Schoolhouse slate",
+            "usage": "Body"
+          },
+          {
+            "name": "Primary Red",
+            "hex": "#C72C2E",
+            "meaning": "Froebel's primary color",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and gift descriptions",
+          "rationale": "A contrast serif plus a clean grotesk — the design-pedagogy register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Froebel Cabinet",
+        "tagline": "Gifts for the youngest scholar.",
+        "brandNameRationale": "Anchor: Froebel's pedagogical 'gifts' as a connoisseur's cabinet of considered wooden objects. Counter to Maison Erzgebirge (region-as-name works but reads generic) and Saxony & Sons (sons-suffix overused). Cabinet evokes both the wooden case and the curator's frame.",
+        "industrySummary": "Luxury toys are a small editorial category — heirloom wooden objects, hand-finished pieces, archival-grade craft. Buyers pay for provenance and the family-archive frame.",
+        "competitorLandscape": "Vilac (vilac.com) plays the heritage French wooden-toy peer. Anamalz (anamalz.com) holds the editorial-craft middle. Ostheimer (ostheimer.de) is the heritage Waldorf reference. We sit as a cabinet-curated heritage house.",
+        "positioningStatement": "The Froebel Cabinet is a luxury wooden-toy house presenting Froebel's pedagogical gifts as hand-finished heirloom pieces.",
+        "targetAudience": {
+          "primary": "Grandparents and design-literate parents buying heirloom-grade wooden toys for grandchildren.",
+          "behaviors": [
+            "Buy heirloom-grade wooden toys",
+            "Care about hand-finishing",
+            "Pay full atelier rates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Considered",
+          "Heritage",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the gift number and the wood",
+            "Treat each piece as an archival object",
+            "Send a paper card with each order"
+          ],
+          "donts": [
+            "Use 'luxury' anywhere on the label",
+            "Run discounts",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: THE FROEBEL CABINET set in a refined book serif, three lines centered. A small mark — a single cabinet-key silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Heritage Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cabinet Walnut",
+            "hex": "#5C3A21",
+            "meaning": "Curator's cabinet wood",
+            "usage": "Body"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Cabinet hardware",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body and gift descriptions",
+          "rationale": "Two classical English serifs — the cabinet-of-curiosities register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Block",
+        "tagline": "One toy.",
+        "brandNameRationale": "Anchor: the kindergarten building block — the foundational Froebel object and the archetypal childhood toy. Single noun, deeply specific to early-years play. Picked from Agent A's three (Gift, Block, Horse) for the cleanest minimal anchor.",
+        "industrySummary": "Minimalist toy brands serve the design-literate parent market that wants one good wooden object rather than a catalog.",
+        "competitorLandscape": "Areaware (areaware.com) plays the design-object peer. Hay Kids (hay.dk) holds the modern-design middle. Naef Spiele (naefspiele.ch) is the wooden-toy-design reference. We sit as a single-block minimal brand.",
+        "positioningStatement": "Block is a minimal toy brand selling a single set of wooden building blocks.",
+        "targetAudience": {
+          "primary": "Parents 28-45 who buy one considered wooden toy.",
+          "behaviors": [
+            "Buy fewer toys",
+            "Care about wood and finish",
+            "Skip seasonal catalogs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Considered",
+          "Modern",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the block set",
+            "Name the wood and the finish",
+            "Use white space generously"
+          ],
+          "donts": [
+            "Add a second product",
+            "Crowd the page",
+            "Run seasonal collections"
+          ]
+        },
+        "logoDirection": "Wordmark: BLOCK set very large in a clean modern sans, five letters, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Beech",
+            "hex": "#C9A87C",
+            "meaning": "Untreated beech",
+            "usage": "Primary"
+          },
+          {
+            "name": "Block Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for product specs",
+          "rationale": "Clean Diatype with its mono — the single-object register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Erzgebirge Toy Works",
+        "tagline": "Wooden toys, since the Ore Mountains.",
+        "brandNameRationale": "Anchor: the Erzgebirge (Ore Mountains) region of Saxony — the centuries-old German wooden-toy heartland that produced the Seiffen craft tradition and brands like Wendt & Kühn. Toy Works follows the heritage-industrial naming convention.",
+        "industrySummary": "Multi-brand toy operators with regional heritage anchors are a real B2B category — companies that own portfolios of wooden-toy brands serving specialty retailers and licensors.",
+        "competitorLandscape": "Spin Master (spinmaster.com) plays the modern multi-brand peer. Ravensburger (ravensburger.com) holds the heritage-German peer slot. Mattel (mattel.com) is the institutional reference. We sit as a regional wooden-toy operator with Erzgebirge heritage.",
+        "positioningStatement": "Erzgebirge Toy Works operates a portfolio of wooden-toy brands rooted in the Ore Mountains craft tradition.",
+        "targetAudience": {
+          "primary": "Toy brand founders considering sale, specialty toy retail buyers, and licensing directors.",
+          "behaviors": [
+            "Review brand unit economics",
+            "Negotiate multi-year supply agreements",
+            "Care about wood sourcing and safety testing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Heritage",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the Erzgebirge heritage",
+            "Publish quarterly operator letters",
+            "Refer to brands by name"
+          ],
+          "donts": [
+            "No consumer-facing marketing",
+            "No social media at the parent level",
+            "No press-release hype"
+          ]
+        },
+        "logoDirection": "Wordmark: ERZGEBIRGE TOY WORKS set in an institutional serif, three lines. A small mark — a stylized pine-and-mountain silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Ore Slate",
+            "hex": "#2A3340",
+            "meaning": "Ore Mountains slate",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Workshop Cream",
+            "hex": "#EFE9DD",
+            "meaning": "Workshop paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pine Green",
+            "hex": "#2E4732",
+            "meaning": "Saxon pine",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the heritage-operator register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Kindergarten",
+        "tagline": "Toys for the children's garden.",
+        "brandNameRationale": "Anchor: Friedrich Froebel coined 'kindergarten' (children's garden) in 1837 to describe the educational environment his gifts were designed for. The word now belongs to the public domain across the world, but its toy-pedagogy origin is editorially rich.",
+        "industrySummary": "Creative toy brands work the editorial-pedagogy market — toys with stories, named gifts, and historical narratives. The kindergarten origin story is underused as a brand frame.",
+        "competitorLandscape": "Maileg (maileg.com) plays the editorial-craft peer. Ostheimer (ostheimer.de) holds the Waldorf-craft middle. Plan Toys (plantoys.com) is the sustainability reference. We sit as a kindergarten-pedagogy-led brand.",
+        "positioningStatement": "The Kindergarten is a creative toy brand making wooden gifts in the Froebel pedagogy tradition.",
+        "targetAudience": {
+          "primary": "Parents 28-45 who read pedagogy and buy toys with stories.",
+          "behaviors": [
+            "Read Montessori, Waldorf, and Reggio Emilia materials",
+            "Care about play narratives",
+            "Pay for considered wooden objects"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Historically literate",
+          "Warm",
+          "Playful"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the gift number and the pedagogy",
+            "Tell the kindergarten origin story",
+            "Photograph children at unstructured play"
+          ],
+          "donts": [
+            "Use stock studio photography",
+            "Sell 'educational' as the whole pitch",
+            "Skip the pedagogy"
+          ]
+        },
+        "logoDirection": "Wordmark: THE KINDERGARTEN set in a warm display serif, two lines centered. A small mark — a single seedling-and-cube silhouette — used on tags.",
+        "colorPalette": [
+          {
+            "name": "Garden Green",
+            "hex": "#3E5236",
+            "meaning": "Children's garden",
+            "usage": "Accent"
+          },
+          {
+            "name": "Beech",
+            "hex": "#C9A87C",
+            "meaning": "Wood toy",
+            "usage": "Primary"
+          },
+          {
+            "name": "Kindergarten Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Schoolhouse paper",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "A warm display serif plus a clean grotesk — the kindergarten storybook register."
+        }
+      }
+    ]
+  }
+}

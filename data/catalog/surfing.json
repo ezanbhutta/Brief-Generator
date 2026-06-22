@@ -1,0 +1,315 @@
+{
+  "industry": "surfing",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Channel & Coast",
+        "tagline": "Cold water, clean lines.",
+        "brandNameRationale": "Anchor: the Channel Islands of California — the defining cold-water surf region that produced Tom Curren, Kelly Slater training grounds, and a generation of shapers. Paired with Coast for an accessible compound. Counter to Greenough Spoon (too insider) and Leash Lab (overly tech-leaning).",
+        "industrySummary": "Modern surf brands compete on shape vocabulary and regional identity rather than tropical-beach lifestyle. The opening is for a brand that names a specific cold-water coast and stays in the shaping-and-paddling register.",
+        "competitorLandscape": "Outerknown (outerknown.com) plays the modern sustainability-led peer. Mollusk Surf Shop (mollusksurfshop.com) holds the editorial-design middle. Saturdays NYC (saturdaysnyc.com) is the urban surf reference. We sit alongside Mollusk with a sharper regional anchor.",
+        "positioningStatement": "Channel & Coast is a modern cold-water surf brand making boards, wetsuits, and apparel for the California Channel Islands tradition.",
+        "targetAudience": {
+          "primary": "Surfers 25-45 who paddle out year-round in cold water and care about shape vocabulary.",
+          "behaviors": [
+            "Read shaping forums",
+            "Travel for cold-water swells",
+            "Own multiple boards by region"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Regional",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the shaper and the foam",
+            "Show the actual coast, not Bali",
+            "Publish water-temp surf reports"
+          ],
+          "donts": [
+            "Use generic tropical imagery",
+            "Sell 'beach lifestyle' as the whole pitch",
+            "Skip the cold-water specificity"
+          ]
+        },
+        "logoDirection": "Wordmark: CHANNEL & COAST set in a confident modern grotesk, two words and an ampersand on one line. Small mark: a single channel-bottom board outline used on hangtags and the favicon.",
+        "colorPalette": [
+          {
+            "name": "Cold Water",
+            "hex": "#2B4358",
+            "meaning": "Pacific cold water",
+            "usage": "Primary surfaces"
+          },
+          {
+            "name": "Foam White",
+            "hex": "#F4F1E8",
+            "meaning": "Board foam blank",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Wax Yellow",
+            "hex": "#E8B23A",
+            "meaning": "Surfboard wax",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for board specs and water temps",
+          "rationale": "A modern grotesk plus its mono — the shaper's-spec register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Bells & Brass",
+        "tagline": "By the bell, since 1961.",
+        "brandNameRationale": "Anchor: Bells Beach, Australia — home of the Rip Curl Pro Bells Beach (the world's longest-running surf contest, since 1961), where the trophy is a literal cast bell. Bells is geographic; Brass evokes the trophy. Counter to Maison Kahanamoku (surname/estate flag) and Pipeline Atelier (Pipeline TM-crowded in surfwear).",
+        "industrySummary": "Luxury surf is a small editorial category — heritage board craft, hand-stitched wetsuits, and contest-trophy register. Buyers pay for provenance and patina.",
+        "competitorLandscape": "Almond Surfboards (almondsurfboards.com) plays the heritage-craft peer. Captain Fin Co (captainfinco.com) holds the editorial-design middle. Hodaddy (hodaddysurf.com) is the heritage reference. We sit as a contest-trophy heritage house.",
+        "positioningStatement": "Bells & Brass is a heritage surf house drawing on the Bells Beach contest tradition, with hand-shaped boards and trophy-grade craft.",
+        "targetAudience": {
+          "primary": "Surfers and collectors 35-65 who buy heritage boards and care about contest history.",
+          "behaviors": [
+            "Collect vintage boards",
+            "Travel to historic surf contests",
+            "Read surf history"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Heritage",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the shaper and the year",
+            "Treat the board as the artifact",
+            "Reference the contest trophy"
+          ],
+          "donts": [
+            "Use 'luxury' anywhere on the label",
+            "Sell to logo-collectors",
+            "Skip the heritage"
+          ]
+        },
+        "logoDirection": "Wordmark: BELLS & BRASS set in a refined serif, two lines centered. A small mark — a single cast-bell silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Trophy Brass",
+            "hex": "#A38454",
+            "meaning": "Cast-bell brass",
+            "usage": "Accent"
+          },
+          {
+            "name": "Bells Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Heritage paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Coast Ink",
+            "hex": "#141417",
+            "meaning": "Wordmark and body",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body and contest history",
+          "rationale": "Two classical English serifs — the heritage contest register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Spoon.",
+        "tagline": "One shape.",
+        "brandNameRationale": "Anchor: George Greenough's 1965 'spoon' kneeboard — the radical concave-bottom shape that triggered the shortboard revolution. Single word with a period for finality. Picked from Agent A's three for the deepest insider anchor.",
+        "industrySummary": "Minimalist surf brands serve the shaping-literate market that wants the form and the foam, not the lifestyle scaffolding.",
+        "competitorLandscape": "Album Surf (albumsurf.com) plays the modern-shape peer. Wegener Surfboards (wegenersurfboards.com) holds the shaping-craft middle. CJ Nelson Designs (cjnelsondesigns.com) is the editorial reference. We sit as a single-shape minimal brand.",
+        "positioningStatement": "Spoon. is a minimalist surf brand built on the 1965 Greenough spoon shape.",
+        "targetAudience": {
+          "primary": "Surfers 30-55 who read shaping history and own multiple boards.",
+          "behaviors": [
+            "Read Greenough biographies",
+            "Care about board concave and rocker",
+            "Buy hand-shaped boards"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Modern",
+          "Quiet",
+          "Form-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the shape",
+            "Name the foam and the glasser",
+            "Use white space generously"
+          ],
+          "donts": [
+            "Sell 'minimalism' as the pitch",
+            "Crowd the label",
+            "Use stock surf imagery"
+          ]
+        },
+        "logoDirection": "Wordmark: SPOON. set very large in a clean modern sans, one word with a period. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Foam Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Board foam",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Spoon Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Resin Amber",
+            "hex": "#A0723A",
+            "meaning": "Polyester resin tint",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for board specs",
+          "rationale": "Clean Diatype with its mono — the shaper's-spec register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Coast & Maritime Group",
+        "tagline": "Surf and water-sports operations.",
+        "brandNameRationale": "Anchor: the California cold-water surf coast — Channel Islands, Point Conception, and the broader Pacific coast as a multi-brand operating region. Counter to Channel Islands Maritime Co. (Channel Islands Surfboards is an active brand) and Kahanamoku Surf Holdings (surname/estate flag) and Bramah Coast Group (Bramah TM conflict from locksmith industry).",
+        "industrySummary": "Multi-brand surf and water-sports operators are a quietly large B2B category — companies that own portfolios of board, wetsuit, and apparel brands and serve specialty surf retailers.",
+        "competitorLandscape": "Boardriders (boardriders.com) plays the institutional multi-brand peer. Rip Curl (ripcurl.com) holds the brand reference. Hurley (hurley.com) is the corporate parent reference. We sit as a regional multi-brand operator.",
+        "positioningStatement": "Coast & Maritime Group operates a portfolio of surf, wetsuit, and water-sports brands with shared sourcing and retail distribution.",
+        "targetAudience": {
+          "primary": "Surf brand founders considering sale, specialty surf retail buyers, and institutional investors.",
+          "behaviors": [
+            "Review brand unit economics",
+            "Negotiate multi-year supply agreements",
+            "Care about wetsuit sourcing and compliance"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand portfolio and sourcing footprint",
+            "Publish quarterly operator letters",
+            "Refer to brands by name"
+          ],
+          "donts": [
+            "No consumer-facing marketing",
+            "No social media at the parent level",
+            "No press-release hype"
+          ]
+        },
+        "logoDirection": "Wordmark: COAST & MARITIME GROUP set in an institutional serif, three lines. A small mark — a coastline-and-wave silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Maritime Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Pacific cold-water institutional",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Statement Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Document paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Single accent",
+            "usage": "Wordmark detail"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the boardroom register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Long Live Short",
+        "tagline": "The revolution was a foot shorter.",
+        "brandNameRationale": "Anchor: the late-1960s shortboard revolution that overthrew the longboard establishment (Greenough, Nat Young, McTavish). 'Long Live Short' is a witty inversion that names the revolution in three words. Counter to Mickey & Malibu (Mickey Dora's family/estate concerns) and Greenough's Ghost (surname).",
+        "industrySummary": "Creative surf brands play on shape vocabulary and surf history. The shortboard-vs-longboard tension is one of the sport's defining narratives and is editorially rich.",
+        "competitorLandscape": "Captain Fin Co (captainfinco.com) plays the editorial-design peer. Mollusk Surf Shop (mollusksurfshop.com) holds the cultural middle. Sun Diego (sundiego.com) is the lifestyle reference. We sit as a shape-history-led brand.",
+        "positioningStatement": "Long Live Short is a creative surf brand celebrating the shortboard revolution with editorial labels and shape-history apparel.",
+        "targetAudience": {
+          "primary": "Surfers 25-50 who read surf history and care about shape lineage.",
+          "behaviors": [
+            "Read Drew Kampion and Matt Warshaw",
+            "Collect shape-history prints",
+            "Travel for historic surf contests"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Historically literate",
+          "Confident",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print shape history on the label",
+            "Name the shaper and the year",
+            "Use 1960s-70s illustrative style"
+          ],
+          "donts": [
+            "Use generic surf imagery",
+            "Sell 'retro' as the whole pitch",
+            "Skip the historical reference"
+          ]
+        },
+        "logoDirection": "Wordmark: LONG LIVE SHORT in a 1960s display sans, three words stacked. A small mark — a shortboard silhouette over a longboard outline — used on tags.",
+        "colorPalette": [
+          {
+            "name": "Revolution Red",
+            "hex": "#D72638",
+            "meaning": "1960s protest red",
+            "usage": "Primary accent"
+          },
+          {
+            "name": "Foam Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Board foam",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Shape Ink",
+            "hex": "#141517",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Druk for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "A confident display sans plus a quiet grotesk — the 1968-poster register."
+        }
+      }
+    ]
+  }
+}

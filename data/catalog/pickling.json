@@ -1,0 +1,315 @@
+{
+  "industry": "pickling",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Kraut Lab",
+        "tagline": "Sauerkraut, by the cabbage.",
+        "brandNameRationale": "Anchor: sauerkraut — the German wild-fermented cabbage tradition (literally 'sour cabbage'), the European workhorse of lacto-fermentation. Counter to Lacto & Co. (overly technical) and Onggi Modern (better in Luxury).",
+        "industrySummary": "Modern fermentation brands compete on transparency and cultivar literacy. The opening is for a brand that names a single fermentation tradition (sauerkraut) and publishes the cabbage and the salt ratio.",
+        "competitorLandscape": "Cleveland Kraut (clevelandkraut.com) plays the modern fermented-cabbage peer. Wildbrine (wildbrine.com) holds the modern-fermentation middle. Hawthorne Valley (hawthornevalley.org) is the heritage-craft reference. We sit alongside Cleveland Kraut with sharper editorial framing.",
+        "positioningStatement": "Kraut Lab is a modern sauerkraut brand publishing the cabbage cultivar, salt ratio, and ferment time of every batch.",
+        "targetAudience": {
+          "primary": "Home cooks and gut-health-literate buyers 28-50 who care about live cultures.",
+          "behaviors": [
+            "Read fermentation books",
+            "Care about cultivar and salt",
+            "Buy live-culture krauts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Plainspoken",
+          "Process-led"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the cultivar and salt ratio",
+            "Name the ferment time",
+            "Show the actual crock"
+          ],
+          "donts": [
+            "Use generic 'gut health' marketing",
+            "Sell pasteurized as live",
+            "Hide the salt ratio"
+          ]
+        },
+        "logoDirection": "Wordmark: KRAUT LAB set in a confident modern grotesk, two words on one line. Small mark: a single crock-jar silhouette used on labels.",
+        "colorPalette": [
+          {
+            "name": "Crock Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Stoneware crock",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cabbage Green",
+            "hex": "#6B7A3B",
+            "meaning": "Fermenting cabbage",
+            "usage": "Accent"
+          },
+          {
+            "name": "Salt Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for cultivars and salt ratios",
+          "rationale": "A modern grotesk plus its mono — the lab-ledger register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Onggi House",
+        "tagline": "Korean ferment, by the breathing jar.",
+        "brandNameRationale": "Anchor: the Korean onggi — the centuries-old porous earthenware jar that 'breathes' through its walls, used since the Three Kingdoms period (57 BCE) to ferment kimchi, doenjang, and gochujang. The onggi is recognized by the Korean government as intangible cultural heritage.",
+        "industrySummary": "Luxury fermentation is a small editorial category — heritage-vessel-led houses making single-jar kimchi, aged doenjang, and small-batch gochujang for collectors and high-end restaurants.",
+        "competitorLandscape": "Mother-in-Law's Kimchi (milkimchi.com) plays the editorial peer. Choi's Kimchi (choiskimchi.com) holds the heritage-craft middle. Lucky Foods (luckyfoods.com) is the volume reference. We sit as a vessel-led heritage house.",
+        "positioningStatement": "The Onggi House is a heritage Korean fermentation house making kimchi and pastes aged in traditional onggi.",
+        "targetAudience": {
+          "primary": "Korean-food enthusiasts, chefs, and collectors commissioning aged fermentations.",
+          "behaviors": [
+            "Commission aged doenjang",
+            "Travel to Korean fermentation farms",
+            "Pay for vessel-aged kimchi"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Heritage",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the onggi maker and the year",
+            "Treat the jar as the artifact",
+            "Print the ferment timeline"
+          ],
+          "donts": [
+            "Use 'luxury' anywhere on the label",
+            "Pasteurize the ferment",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: THE ONGGI HOUSE set in a refined book serif, three lines centered. A small mark — a single onggi-jar silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Onggi Clay",
+            "hex": "#5C3A21",
+            "meaning": "Earthenware clay",
+            "usage": "Accent"
+          },
+          {
+            "name": "Doenjang Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Aged paste paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brine Ink",
+            "hex": "#141417",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body and ferment notes",
+          "rationale": "A contrast serif plus a reading serif — the heritage-fermentation register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Brine",
+        "tagline": "Salt and water.",
+        "brandNameRationale": "Anchor: brine — the salt-water base of every pickle, fermented or vinegar-quick, used since antiquity to preserve cabbage, cucumber, fish, and meat. The single most universal pickling word in English. Counter to Kraut (used in Modern) and Onggi (used in Luxury).",
+        "industrySummary": "Minimalist pickling brands serve the design-literate home cook market — one jar, one brine, one label.",
+        "competitorLandscape": "Most pickling brands lean folksy-rustic. The minimal end is mostly empty. Brooklyn Brine (brooklynbrineco.com) is the closest editorial reference. We sit as the single-word minimal option.",
+        "positioningStatement": "Brine is a minimal pickling brand selling one cucumber pickle in one jar.",
+        "targetAudience": {
+          "primary": "Home cooks 28-50 who want one good pickle, not a catalog.",
+          "behaviors": [
+            "Buy fewer condiments",
+            "Care about salt and vinegar quality",
+            "Skip seasonal collections"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Plain",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the jar",
+            "Name the cucumber variety and the salt",
+            "Use white space generously"
+          ],
+          "donts": [
+            "Add a second product",
+            "Crowd the label",
+            "Use folksy imagery"
+          ]
+        },
+        "logoDirection": "Wordmark: BRINE set very large in a clean modern sans, five letters, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Brine Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Jar paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brine Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Dill Green",
+            "hex": "#3E5236",
+            "meaning": "Dill accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for salt ratios",
+          "rationale": "Clean Diatype with its mono — the single-jar register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Avenches Preserving Co.",
+        "tagline": "Preservation since Aventicum.",
+        "brandNameRationale": "Anchor: Avenches (Roman Aventicum), Switzerland — the Roman provincial capital where archaeologists uncovered some of Europe's earliest large-scale food preservation cellars. Heritage-firm corporate framing with a deep Roman pedigree.",
+        "industrySummary": "B2B fermentation and preserving operators — third-party fermenters, contract picklers, and preserving-co-op suppliers serving specialty grocers and food service — are a real institutional category.",
+        "competitorLandscape": "Mt. Olive (mtolivepickles.com) plays the institutional pickle peer. B&G Foods (bgfoods.com) holds the multi-brand-preserves middle. Vlasic (vlasic.com) is the consumer reference. We sit as a heritage-named preserving operator.",
+        "positioningStatement": "Avenches Preserving Co. is an institutional pickling and preserving operator running contract fermentation and private-label preserves for specialty grocers and food service.",
+        "targetAudience": {
+          "primary": "Specialty grocers, food-service buyers, and private-label brand managers.",
+          "behaviors": [
+            "Negotiate multi-year supply agreements",
+            "Care about preservation compliance",
+            "Renew on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Heritage",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with preservation capacity and certifications",
+            "Publish quarterly operator letters",
+            "Refer to client brands by name"
+          ],
+          "donts": [
+            "No consumer-facing marketing",
+            "No social media at the parent level",
+            "No press-release hype"
+          ]
+        },
+        "logoDirection": "Wordmark: AVENCHES PRESERVING CO. set in an institutional serif, three lines. A small mark — a Roman amphora silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Aventicum Slate",
+            "hex": "#2A3340",
+            "meaning": "Roman institutional",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cellar Cream",
+            "hex": "#EFE9DD",
+            "meaning": "Cellar paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Amphora Clay",
+            "hex": "#9E7D3D",
+            "meaning": "Roman amphora",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the heritage-preserving register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Kimchi Jar",
+        "tagline": "One jar, one ferment.",
+        "brandNameRationale": "Anchor: the onggi jar that defines kimchi fermentation — the porous Korean earthenware that 'breathes' and creates the microclimate for the ferment. Object-as-name creative framing, plain-spoken and editorial.",
+        "industrySummary": "Creative pickling brands play on vessel-and-narrative framing. The kimchi jar as a brand frame is editorially rich and underused outside Korea.",
+        "competitorLandscape": "Mother-in-Law's Kimchi (milkimchi.com) plays the editorial peer. Lucky Foods (luckyfoods.com) holds the volume middle. Cleveland Kitchen (clevelandkitchen.com) is the modern reference. We sit as a vessel-led creative brand.",
+        "positioningStatement": "The Kimchi Jar is a creative Korean fermentation brand built on the onggi vessel and the single-ferment narrative.",
+        "targetAudience": {
+          "primary": "Korean-food enthusiasts and home fermenters 25-45 who read fermentation books.",
+          "behaviors": [
+            "Make kimchi at home",
+            "Read Korean fermentation history",
+            "Care about the jar and the cultivar"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Story-led",
+          "Warm",
+          "Editorial"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the kimchi history on the label",
+            "Name the cabbage and the salt",
+            "Show the actual onggi"
+          ],
+          "donts": [
+            "Use stock-image kimchi photography",
+            "Pasteurize the ferment",
+            "Sell 'authentic' as the whole pitch"
+          ]
+        },
+        "logoDirection": "Wordmark: THE KIMCHI JAR set in a warm display serif, three lines centered. A small mark — a single onggi-jar silhouette — used on labels.",
+        "colorPalette": [
+          {
+            "name": "Kimchi Red",
+            "hex": "#A12830",
+            "meaning": "Gochugaru red",
+            "usage": "Accent"
+          },
+          {
+            "name": "Jar Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Label paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Onggi Ink",
+            "hex": "#141417",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Söhne for body and ferment notes",
+          "rationale": "A warm display serif plus a clean grotesk — the editorial-cookbook register."
+        }
+      }
+    ]
+  }
+}
