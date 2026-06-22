@@ -1,0 +1,915 @@
+{
+  "industry": "gardening",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Capability Gardens",
+        "tagline": "Landscape design, quietly literate.",
+        "brandNameRationale": "Anchor: Lancelot 'Capability' Brown (1716–1783), the English landscape architect whose nickname (he saw 'capability' in every estate) became part of the discipline's history. Picked from A's three for the strongest quietly-literate modern anchor.",
+        "industrySummary": "Modern garden-design studios — Hugo Bugg, Tom Stuart-Smith — sit at the top of the editorial-garden category. The opening is a Capability-anchored modern studio.",
+        "competitorLandscape": "Hugo Bugg Landscapes (hugobugg.com) plays the modern garden-design peer. Tom Stuart-Smith (tomstuartsmith.co.uk) holds the editorial-British middle. Dan Pearson Studio (danpearsonstudio.com) is the editorial reference. We sit alongside Hugo Bugg with a Capability frame.",
+        "positioningStatement": "Capability Gardens is a modern garden-design studio in the English landscape-architecture lineage.",
+        "targetAudience": {
+          "primary": "Garden-literate buyers 35–60 commissioning residential and small estate work.",
+          "behaviors": [
+            "Commission residential design",
+            "Care about the English landscape lineage",
+            "Read garden journals"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Quietly literate",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the English landscape tradition",
+            "Print the plant list",
+            "Show the garden through the seasons"
+          ],
+          "donts": [
+            "Use 'landscaping' as a category",
+            "Photograph one season only",
+            "Hide the plant list"
+          ]
+        },
+        "logoDirection": "Wordmark: CAPABILITY GARDENS in a precise modern grotesk, two lines. A small mark — a single hedge-and-tree silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5238",
+            "meaning": "Yew hedge.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Plan paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for plant lists",
+          "rationale": "A modern grotesk plus a mono — the plant-list register."
+        }
+      },
+      {
+        "brandName": "Kent & Co.",
+        "tagline": "Founder-named landscape studio.",
+        "brandNameRationale": "Anchor: William Kent (1685–1748), the English landscape-garden pioneer. Picked from A's three for the strongest founder-name modern anchor.",
+        "industrySummary": "Founder-named modern landscape studios — Tom Stuart-Smith, Dan Pearson — sit at the editorial top of the British garden-design market. The opening is a Kent-anchored modern studio.",
+        "competitorLandscape": "Tom Stuart-Smith (tomstuartsmith.co.uk) plays the founder-named peer. Dan Pearson Studio (danpearsonstudio.com) holds the editorial-British middle. Hugo Bugg Landscapes (hugobugg.com) is the modern reference. We sit alongside Tom Stuart-Smith with a Kent frame.",
+        "positioningStatement": "Kent & Co. is a modern garden-design studio in the William Kent landscape-pioneer tradition.",
+        "targetAudience": {
+          "primary": "Garden-literate residential and estate clients 35–60.",
+          "behaviors": [
+            "Commission residential design",
+            "Read the English landscape canon",
+            "Visit historic gardens"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Founder-named",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the historical reference",
+            "Print the plant list",
+            "Show the garden in plan and section"
+          ],
+          "donts": [
+            "Use 'landscaping' as a category",
+            "Photograph one season only",
+            "Hide the plan"
+          ]
+        },
+        "logoDirection": "Wordmark: KENT & CO. in a quiet modern grotesk, one line. A small mark — a single tree-and-folly silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5238",
+            "meaning": "Yew hedge.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Plan paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and plant lists",
+          "rationale": "A quiet grotesk plus a reading serif — the modern studio register."
+        }
+      },
+      {
+        "brandName": "Parterre Studio",
+        "tagline": "Formal-tradition garden design.",
+        "brandNameRationale": "Anchor: parterre — the formal French garden bed tradition (17th c., Le Nôtre). Picked from A's three for the strongest formal-tradition modern anchor.",
+        "industrySummary": "Formal-tradition modern garden studios — those who quote Le Nôtre and Versailles plan vocabulary — sit in a small but real space. The opening is a parterre-anchored modern studio.",
+        "competitorLandscape": "Tom Stuart-Smith (tomstuartsmith.co.uk) plays the editorial peer. Dan Pearson Studio (danpearsonstudio.com) holds the editorial-British middle. Arabella Lennox-Boyd (arabellalennoxboyd.com) is the formal-tradition reference. We sit as a parterre-anchored modern studio.",
+        "positioningStatement": "Parterre Studio is a modern garden-design studio rooted in the formal French parterre tradition.",
+        "targetAudience": {
+          "primary": "Formal-garden clients 35–60.",
+          "behaviors": [
+            "Commission formal design",
+            "Care about the parterre tradition",
+            "Read the canon"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Formal-tradition",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference Le Nôtre and the parterre canon",
+            "Print the plan",
+            "Show the garden in plan and section"
+          ],
+          "donts": [
+            "Use 'landscaping' as a category",
+            "Photograph one season only",
+            "Hide the plan"
+          ]
+        },
+        "logoDirection": "Wordmark: PARTERRE STUDIO in a quiet modern grotesk, two lines. A small mark — a single parterre-plan line drawing — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5238",
+            "meaning": "Yew hedge.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Plan paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter Mono for plant lists",
+          "rationale": "One family, two registers — the formal-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Farrand & Co.",
+        "tagline": "American landscape architecture, East Coast establishment.",
+        "brandNameRationale": "Anchor: Beatrix Farrand (1872–1959), the American landscape architect of Dumbarton Oaks, founding member of the ASLA, and the dominant figure in American estate landscape design. Picked from A's three for the strongest founder-name luxury anchor (Maison Sackville-West has estate exposure with Vita Sackville-West; Paradise Garden Atelier is workable but less specific).",
+        "industrySummary": "Luxury landscape architecture — Edmund Hollander, Doyle Herman — supplies UHNW estates. The opening is a Farrand-anchored luxury landscape architecture firm.",
+        "competitorLandscape": "Edmund Hollander Design (hollanderdesign.com) plays the East Coast peer. Doyle Herman Design (doyleherman.com) holds the luxury-estate middle. Janice Parker Landscape Architects (janiceparker.com) is the East Coast reference. We sit as a Farrand-rooted luxury firm.",
+        "positioningStatement": "Farrand & Co. is a luxury landscape architecture firm in the Beatrix Farrand East Coast establishment tradition.",
+        "targetAudience": {
+          "primary": "UHNW estate clients on the East Coast and major metros.",
+          "behaviors": [
+            "Commission estate masterplans",
+            "Care about the Farrand lineage",
+            "Sign multi-year design contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "East Coast",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the Farrand lineage",
+            "Print the plan on heavy stock",
+            "Photograph the garden in maturity"
+          ],
+          "donts": [
+            "Use 'landscaping' as a category",
+            "Photograph one season only",
+            "Discount the design fee"
+          ]
+        },
+        "logoDirection": "Wordmark: FARRAND & CO. in a refined American serif, one line centered. A small mark — a single garden-axis line drawing — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Plan Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Plan stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Estate Green",
+            "hex": "#2F4A38",
+            "meaning": "Boxwood.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and plant lists",
+          "rationale": "A high-contrast American serif plus a reading serif — the East Coast establishment register."
+        }
+      },
+      {
+        "brandName": "Paradise Garden Atelier",
+        "tagline": "Persian paradise-garden tradition.",
+        "brandNameRationale": "Anchor: Persian paradeisos / paradise garden — the chahar bagh (four-quartered enclosed garden). Picked from A's three for the strongest ancient-tradition luxury anchor.",
+        "industrySummary": "Ancient-tradition luxury garden studios — those quoting Persian, Mughal, Andalusian garden traditions — sit in a small but real luxury tier. The opening is a paradise-garden-anchored luxury studio.",
+        "competitorLandscape": "Edmund Hollander Design (hollanderdesign.com) plays the East Coast peer. Arabella Lennox-Boyd (arabellalennoxboyd.com) holds the formal-tradition middle. Studio MK27 landscape (studiomk27.com.br) is the cross-cultural reference. We sit as a paradise-garden-rooted luxury studio.",
+        "positioningStatement": "Paradise Garden Atelier is a luxury garden-design atelier rooted in the Persian paradise-garden tradition.",
+        "targetAudience": {
+          "primary": "UHNW clients commissioning four-quartered, water-axial gardens.",
+          "behaviors": [
+            "Commission Persian-tradition design",
+            "Care about the chahar bagh canon",
+            "Sign multi-year design contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Ancient-tradition",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the Persian paradise-garden canon",
+            "Print the plan on heavy stock",
+            "Photograph the water axis"
+          ],
+          "donts": [
+            "Use 'landscaping' as a category",
+            "Photograph one season only",
+            "Discount the design fee"
+          ]
+        },
+        "logoDirection": "Wordmark: PARADISE GARDEN ATELIER in a refined serif, three lines centered. A small mark — a chahar bagh four-quartered plan silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Plan Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Plan stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Garden Green",
+            "hex": "#2F4A38",
+            "meaning": "Cypress.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Water Blue",
+            "hex": "#3D6E7A",
+            "meaning": "Water axis.",
+            "usage": "Secondary"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the ancient-tradition register."
+        }
+      },
+      {
+        "brandName": "Le Nôtre & Co.",
+        "tagline": "Formal-French luxury landscape.",
+        "brandNameRationale": "Anchor: André Le Nôtre (1613–1700), the gardener of Versailles, founder of the formal French landscape tradition. Counter-proposal third luxury option (rejecting Maison Sackville-West for Vita Sackville-West estate exposure). Clean founder-name with deep public-domain provenance.",
+        "industrySummary": "Formal French luxury landscape firms — those working in the Le Nôtre canon — sit in a real luxury tier. The opening is a Le Nôtre-anchored luxury firm.",
+        "competitorLandscape": "Arabella Lennox-Boyd (arabellalennoxboyd.com) plays the formal-tradition peer. Edmund Hollander Design (hollanderdesign.com) holds the luxury-estate middle. Louis Benech (louisbenech.com) is the formal-French reference. We sit as a Le-Nôtre-rooted luxury firm.",
+        "positioningStatement": "Le Nôtre & Co. is a luxury formal-French landscape firm in the Versailles-canon tradition.",
+        "targetAudience": {
+          "primary": "UHNW clients commissioning formal-French gardens.",
+          "behaviors": [
+            "Commission formal design",
+            "Care about the Le Nôtre canon",
+            "Sign multi-year design contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Formal-French",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the Le Nôtre canon",
+            "Print the plan on heavy stock",
+            "Photograph the parterre"
+          ],
+          "donts": [
+            "Use 'landscaping' as a category",
+            "Photograph one season only",
+            "Discount the design fee"
+          ]
+        },
+        "logoDirection": "Wordmark: LE NÔTRE & CO. in a refined French serif, two lines centered. A small mark — a single parterre-plan silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Plan Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Plan stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Versailles Green",
+            "hex": "#2F4A38",
+            "meaning": "Boxwood parterre.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A French-flavored serif plus a reading serif — the Versailles register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Parterre",
+        "tagline": "The bed.",
+        "brandNameRationale": "Anchor: parterre — the formal French garden bed. Single-word, trade-honest. Picked from A's three for the cleanest minimal anchor.",
+        "industrySummary": "Single-word garden brands — Burpee's spirit at a different register — leave room for a tradition-named entry. Parterre sits as the formal-garden baseline.",
+        "competitorLandscape": "Hugo Bugg Landscapes (hugobugg.com) plays the modern-design peer. Dan Pearson Studio (danpearsonstudio.com) holds the editorial middle. Arabella Lennox-Boyd (arabellalennoxboyd.com) is the formal-tradition reference. We sit as a tradition-named minimal studio.",
+        "positioningStatement": "Parterre is a minimal garden-design studio named for the formal-garden bed tradition.",
+        "targetAudience": {
+          "primary": "Minimal-design buyers 30–55 wanting a formal garden.",
+          "behaviors": [
+            "Commission residential design",
+            "Care about the parterre tradition",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Tradition-honest",
+          "Considered",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the plan on a plain background",
+            "Name the plant plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'landscaping' anywhere",
+            "Photograph one season only",
+            "Hide the plan"
+          ]
+        },
+        "logoDirection": "Wordmark: PARTERRE set large in a clean modern sans, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5238",
+            "meaning": "Yew hedge.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Plan paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for plant lists",
+          "rationale": "One family, two registers — the formal-minimal register."
+        }
+      },
+      {
+        "brandName": "Garden.",
+        "tagline": "The word.",
+        "brandNameRationale": "Anchor: the word itself. Single-word, period as logo. Picked from A's three for the cleanest minimal anchor.",
+        "industrySummary": "Single-word category-name minimal brands sit cleanly in the garden category. Garden. names the category itself.",
+        "competitorLandscape": "Hugo Bugg Landscapes (hugobugg.com) plays the modern-design peer. Dan Pearson Studio (danpearsonstudio.com) holds the editorial middle. Arabella Lennox-Boyd (arabellalennoxboyd.com) is the formal-tradition reference. We sit as a category-named minimal studio.",
+        "positioningStatement": "Garden. is a minimal garden-design studio named for the category itself.",
+        "targetAudience": {
+          "primary": "Minimal-design buyers 28–50.",
+          "behaviors": [
+            "Commission residential design",
+            "Care about the plan",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Plain",
+          "Considered",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the plan on a plain background",
+            "Name the plant plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'landscaping' anywhere",
+            "Photograph one season only",
+            "Hide the plan"
+          ]
+        },
+        "logoDirection": "Wordmark: garden. set in a clean humanist sans, lowercase, with the period as the only mark. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5238",
+            "meaning": "Yew hedge.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Plan paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for plant lists",
+          "rationale": "One family, two registers — the category-minimal register."
+        }
+      },
+      {
+        "brandName": "Plot",
+        "tagline": "The allotment.",
+        "brandNameRationale": "Anchor: the garden plot (allotment tradition, UK). Single-word, everyday-gardening anchor. Picked from A's three for the strongest tool-and-service minimal anchor.",
+        "industrySummary": "Everyday-gardening minimal brands — tool-and-service brands for the home gardener — sit in a real niche. The opening is a plot-named minimal brand.",
+        "competitorLandscape": "Niwaki (niwaki.com) plays the tool-minimal peer. Bloomscape (bloomscape.com) holds the plant DTC middle. Modern Sprout (modsprout.com) is the home-gardener reference. We sit as a plot-named minimal brand.",
+        "positioningStatement": "Plot is a minimal gardening service and tool brand for the everyday allotment-style home gardener.",
+        "targetAudience": {
+          "primary": "Home gardeners 25–45.",
+          "behaviors": [
+            "Order tools and service together",
+            "Care about the plot plan",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the plot plainly",
+            "Name the tool by trade name",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'landscaping' anywhere",
+            "Photograph one season only",
+            "Sell decorative-only"
+          ]
+        },
+        "logoDirection": "Wordmark: PLOT in a clean modern sans, one word, four letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Soil Brown",
+            "hex": "#6B3F2C",
+            "meaning": "Soil.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Paper Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Plan paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the allotment-minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Brown & Partners",
+        "tagline": "Establishment landscape architecture.",
+        "brandNameRationale": "Anchor: Lancelot 'Capability' Brown applied to a partner-track institutional firm name. Picked from A's three for the strongest establishment-corporate anchor (Sissinghurst Garden Co. flagged for National Trust dilution risk).",
+        "industrySummary": "Establishment landscape-architecture firms — OLIN, SWA, James Corner Field Operations — sit at the top of the institutional landscape market. The opening is a Brown-anchored partner-track firm.",
+        "competitorLandscape": "OLIN (theolinstudio.com) plays the establishment peer. SWA Group (swagroup.com) holds the institutional middle. James Corner Field Operations (fieldoperations.net) is the urban-design reference. We sit as a Brown-rooted partner-track firm.",
+        "positioningStatement": "Brown & Partners is an establishment landscape-architecture firm for commercial, civic, and residential estate work.",
+        "targetAudience": {
+          "primary": "Real estate developers, civic clients, and institutional estate boards.",
+          "behaviors": [
+            "Sign multi-year design contracts",
+            "Care about firm credentials and the partner roster",
+            "RFP institutional projects"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Establishment",
+          "Reliable",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the partner roster",
+            "Print the plan on heavy stock",
+            "Quote on RFP terms"
+          ],
+          "donts": [
+            "Brand as a single studio",
+            "Photograph one season only",
+            "Discount the design fee"
+          ]
+        },
+        "logoDirection": "Wordmark: BROWN & PARTNERS in a confident institutional serif, one line. A small mark — a serif B monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Plan Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Plan stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5238",
+            "meaning": "Yew hedge.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Inter for body and contracts",
+          "rationale": "A classical serif plus a clean grotesk — the establishment-LA register."
+        }
+      },
+      {
+        "brandName": "Kent Landscape Group",
+        "tagline": "Multi-discipline landscape firm.",
+        "brandNameRationale": "Anchor: William Kent. Picked from A's three as the cleanest founder-named corporate naming pattern.",
+        "industrySummary": "Multi-discipline corporate landscape firms — commercial + residential + civic — dominate the institutional market. The opening is a Kent-anchored multi-discipline firm.",
+        "competitorLandscape": "OLIN (theolinstudio.com) plays the institutional peer. SWA Group (swagroup.com) holds the multi-discipline middle. Sasaki (sasaki.com) is the multi-discipline reference. We sit as a Kent-anchored multi-discipline firm.",
+        "positioningStatement": "Kent Landscape Group is a multi-discipline corporate landscape firm across commercial, civic, and residential work.",
+        "targetAudience": {
+          "primary": "Real estate developers, municipal clients, and large estate owners.",
+          "behaviors": [
+            "Sign multi-year design contracts",
+            "Care about firm credentials",
+            "RFP institutional projects"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-discipline",
+          "Reliable",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the firm portfolio",
+            "Print the plan on heavy stock",
+            "Quote on RFP terms"
+          ],
+          "donts": [
+            "Brand as a single studio",
+            "Photograph one season only",
+            "Discount the design fee"
+          ]
+        },
+        "logoDirection": "Wordmark: KENT LANDSCAPE GROUP in a confident institutional serif, two lines. A small mark — a serif K monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Plan Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Plan stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5238",
+            "meaning": "Yew hedge.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the multi-discipline LA register."
+        }
+      },
+      {
+        "brandName": "Hortus Landscape Group",
+        "tagline": "Corporate planting and landscape services.",
+        "brandNameRationale": "Anchor: Hortus — the Latin word for garden, used by botanical institutions since the 16th c. (Hortus Botanicus Leiden, 1590). Counter-proposal third corporate option (rejecting Sissinghurst Garden Co. for National Trust dilution risk).",
+        "industrySummary": "Corporate landscape and planting services — Ambius, BrightView's design tier — supply institutional clients. The opening is a hortus-anchored institutional firm.",
+        "competitorLandscape": "BrightView Design Services (brightview.com) plays the corporate landscape peer. OLIN (theolinstudio.com) holds the institutional design middle. SWA Group (swagroup.com) is the multi-discipline reference. We sit as a hortus-anchored institutional firm.",
+        "positioningStatement": "Hortus Landscape Group is a corporate landscape firm for institutional planting, design, and seasonal-program work.",
+        "targetAudience": {
+          "primary": "Facilities directors, civic clients, and corporate real-estate teams.",
+          "behaviors": [
+            "Sign annual maintenance and design contracts",
+            "Care about institutional reliability",
+            "Compare landscape vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Botanical",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in annual contracts",
+            "Print the seasonal calendar",
+            "Reference the hortus tradition"
+          ],
+          "donts": [
+            "Brand as a residential studio",
+            "Photograph one season only",
+            "Discount the design fee"
+          ]
+        },
+        "logoDirection": "Wordmark: HORTUS LANDSCAPE GROUP in a clean institutional serif, two lines. A small mark — a walled-garden plan silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Hortus Green",
+            "hex": "#3F5234",
+            "meaning": "Hedge green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Plan Cream",
+            "hex": "#F0EBD7",
+            "meaning": "Plan paving.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Print Ink",
+            "hex": "#151518",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the institutional-hortus register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Chahar Bagh",
+        "tagline": "Four-quartered paradise garden.",
+        "brandNameRationale": "Anchor: Persian chahar bagh — the four-quartered paradise garden. Picked from A's three for the strongest cross-cultural creative anchor.",
+        "industrySummary": "Cross-cultural editorial landscape studios — those quoting Persian, Mughal, Andalusian gardens — sit at the creative top of the category. The opening is a chahar-bagh-anchored editorial studio.",
+        "competitorLandscape": "Studio MK27 landscape (studiomk27.com.br) plays the cross-cultural peer. Dan Pearson Studio (danpearsonstudio.com) holds the editorial-British middle. Piet Oudolf (oudolf.com) is the editorial reference. We sit as a chahar-bagh-anchored editorial studio.",
+        "positioningStatement": "Chahar Bagh is a creative landscape studio with a cross-cultural design language rooted in the Persian paradise-garden tradition.",
+        "targetAudience": {
+          "primary": "Editorial design buyers and design-literate UHNW clients.",
+          "behaviors": [
+            "Commission cross-cultural design",
+            "Care about the chahar bagh canon",
+            "Read the studio journal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Cross-cultural",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the Persian paradise-garden canon",
+            "Print the journal seasonally",
+            "Photograph the water axis"
+          ],
+          "donts": [
+            "Use 'landscaping' as a category",
+            "Photograph one season only",
+            "Skip the canon"
+          ]
+        },
+        "logoDirection": "Wordmark: CHAHAR BAGH in a confident editorial serif, one line. A small mark — a four-quartered plan silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cypress Green",
+            "hex": "#2F4A38",
+            "meaning": "Cypress.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Water Blue",
+            "hex": "#3D6E7A",
+            "meaning": "Water axis.",
+            "usage": "Secondary"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the cross-cultural editorial register."
+        }
+      },
+      {
+        "brandName": "Kent's Folly",
+        "tagline": "Garden design and objects.",
+        "brandNameRationale": "Anchor: William Kent + the garden folly (18th c. ornamental structure). Picked from A's three for the strongest playful-historical creative anchor.",
+        "industrySummary": "Garden-design + objects creative brands — Niwaki, Burgon & Ball's editorial register — sit in a small but real creative tier. The opening is a folly-named editorial brand.",
+        "competitorLandscape": "Niwaki (niwaki.com) plays the tool-editorial peer. Dan Pearson Studio (danpearsonstudio.com) holds the editorial-British middle. Piet Oudolf (oudolf.com) is the editorial reference. We sit as a Kent's-Folly-named editorial design-and-objects brand.",
+        "positioningStatement": "Kent's Folly is a creative garden-design and objects brand built on William Kent and the 18th-century garden folly tradition.",
+        "targetAudience": {
+          "primary": "Editorial design buyers and design-literate garden owners 30–55.",
+          "behaviors": [
+            "Commission design and order objects together",
+            "Read the brand journal",
+            "Care about the historical reference"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Playful-historical",
+          "Warm",
+          "Quietly literate"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the folly tradition",
+            "Print the journal seasonally",
+            "Photograph the garden objects"
+          ],
+          "donts": [
+            "Use 'landscaping' as a category",
+            "Photograph one season only",
+            "Skip the historical reference"
+          ]
+        },
+        "logoDirection": "Wordmark: KENT'S FOLLY in a confident editorial serif, one line. A small mark — a single folly-pavilion silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5238",
+            "meaning": "Yew hedge.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and journal",
+          "rationale": "A high-contrast serif plus a reading serif — the playful-historical register."
+        }
+      },
+      {
+        "brandName": "The Walled Garden Press",
+        "tagline": "Garden writing and design.",
+        "brandNameRationale": "Anchor: the walled garden — the English kitchen-garden tradition (Heligan, West Dean) and the metaphor for the bounded, cultivated space. Counter-proposal third creative option (rejecting The White Garden as too closely tied to Sissinghurst / Sackville-West estate). Pairs garden design with editorial publishing.",
+        "industrySummary": "Garden + publishing editorial brands sit in a real creative tier (Gardens Illustrated as adjacent reference). The opening is a walled-garden-anchored design-and-publishing brand.",
+        "competitorLandscape": "Dan Pearson Studio (danpearsonstudio.com) plays the editorial-design peer. Gardens Illustrated (gardensillustrated.com) holds the publishing middle. Piet Oudolf (oudolf.com) is the editorial reference. We sit as a walled-garden editorial design-and-publishing brand.",
+        "positioningStatement": "The Walled Garden Press is a creative garden-design and publishing brand built on the English walled-garden tradition.",
+        "targetAudience": {
+          "primary": "Editorial garden buyers and design-literate clients 30–55.",
+          "behaviors": [
+            "Subscribe to the press",
+            "Commission design and read the journal",
+            "Care about the kitchen-garden canon"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Publishing",
+          "Warm",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the publishing program",
+            "Print the journal seasonally",
+            "Photograph the walled garden in season"
+          ],
+          "donts": [
+            "Use 'landscaping' as a category",
+            "Photograph one season only",
+            "Skip the canon"
+          ]
+        },
+        "logoDirection": "Wordmark: THE WALLED GARDEN PRESS in a confident editorial serif, three lines centered. A small mark — a walled-garden plan silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Wall Brick",
+            "hex": "#A45A48",
+            "meaning": "Garden-wall brick.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hedge Green",
+            "hex": "#3C5238",
+            "meaning": "Yew hedge.",
+            "usage": "Secondary"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the kitchen-garden editorial register."
+        }
+      }
+    ]
+  }
+}

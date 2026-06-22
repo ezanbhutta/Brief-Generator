@@ -1,0 +1,915 @@
+{
+  "industry": "pottery",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Leach Studio",
+        "tagline": "Studio pottery, the Anglo-Japanese line.",
+        "brandNameRationale": "Anchor: Bernard Leach, St Ives Pottery (founded 1920), the founder of British studio pottery and the Anglo-Japanese lineage. Picked from A's three for the strongest modern studio-pottery anchor.",
+        "industrySummary": "Modern studio pottery has split between editorial DTC tableware (East Fork, Year & Day) and gallery-tier studios (Heath, Mt Washington). The opening is a Leach-rooted modern studio brand.",
+        "competitorLandscape": "East Fork (eastfork.com) plays the DTC peer. Heath Ceramics (heathceramics.com) holds the gallery middle. Mt Washington Pottery (mtwashingtonpottery.com) is the studio reference. We sit alongside East Fork with a sharper Leach lineage.",
+        "positioningStatement": "Leach Studio is a modern studio pottery brand in the Anglo-Japanese Bernard Leach lineage — wheel-thrown functional ware in small batches.",
+        "targetAudience": {
+          "primary": "Design-literate buyers 28–50 for functional ware.",
+          "behaviors": [
+            "Order by maker's name",
+            "Care about glaze and firing",
+            "Visit studios in person"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Studio",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the glaze and the firing",
+            "Show the wheel and the kiln",
+            "Print the maker's mark on the base"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the maker"
+          ]
+        },
+        "logoDirection": "Wordmark: LEACH STUDIO in a precise modern grotesk, two lines. A small mark — a single bowl-profile line drawing — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Glaze Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Unglazed slip.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Kiln Black",
+            "hex": "#141416",
+            "meaning": "Reduction firing.",
+            "usage": "Body"
+          },
+          {
+            "name": "Tenmoku Brown",
+            "hex": "#5A3A28",
+            "meaning": "Tenmoku glaze.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for maker's marks and glaze names",
+          "rationale": "A modern grotesk plus a mono — the studio-label register."
+        }
+      },
+      {
+        "brandName": "Anagama Works",
+        "tagline": "Wood-fired ceramics studio.",
+        "brandNameRationale": "Anchor: anagama — the single-chamber wood-fired kiln of the Japanese tradition. Picked from A's three for the strongest kiln-anchored modern anchor.",
+        "industrySummary": "Wood-fired ceramics studios — a small but serious tier — work with anagama or noborigama kilns. The opening is a kiln-named modern studio brand.",
+        "competitorLandscape": "East Fork (eastfork.com) plays the DTC peer. Heath Ceramics (heathceramics.com) holds the gallery middle. Mt Washington Pottery (mtwashingtonpottery.com) is the studio reference. We sit as a kiln-named modern studio.",
+        "positioningStatement": "Anagama Works is a modern wood-fired ceramics studio specializing in anagama-kiln pieces.",
+        "targetAudience": {
+          "primary": "Wood-fired buyers and collectors 30–55.",
+          "behaviors": [
+            "Order by firing cycle",
+            "Care about fly ash and reduction",
+            "Visit the kiln opening"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Kiln-honest",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the firing cycle and the kiln",
+            "Show the kiln opening",
+            "Print the maker's mark"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the firing details"
+          ]
+        },
+        "logoDirection": "Wordmark: ANAGAMA WORKS in a quiet modern grotesk, two lines. A small mark — a single kiln-section line drawing — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Ash Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Fly-ash glaze.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Kiln Black",
+            "hex": "#141416",
+            "meaning": "Reduction firing.",
+            "usage": "Body"
+          },
+          {
+            "name": "Ember Red",
+            "hex": "#A84B2C",
+            "meaning": "Kiln ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for firing labels",
+          "rationale": "A quiet grotesk plus a mono — the wood-fired register."
+        }
+      },
+      {
+        "brandName": "Mashiko & Co.",
+        "tagline": "Mingei-rooted functional ware.",
+        "brandNameRationale": "Anchor: the Mashiko pottery tradition (Tochigi, Japan; Shoji Hamada's seat from the 1920s; Mingei-influenced functional ware). Picked from A's three for the strongest Mingei-modern anchor.",
+        "industrySummary": "Mingei-influenced functional ware — the everyday-object tradition — has a small but real Western studio following. The opening is a Mashiko-rooted modern functional brand.",
+        "competitorLandscape": "East Fork (eastfork.com) plays the DTC peer. Heath Ceramics (heathceramics.com) holds the gallery middle. Mt Washington Pottery (mtwashingtonpottery.com) is the studio reference. We sit alongside East Fork with a Mashiko frame.",
+        "positioningStatement": "Mashiko & Co. is a modern functional ceramics brand in the Mashiko-Mingei tradition.",
+        "targetAudience": {
+          "primary": "Functional-ware buyers 28–50.",
+          "behaviors": [
+            "Order daily-use pieces",
+            "Care about Mingei",
+            "Visit Mashiko"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Mingei-rooted",
+          "Functional",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the Mashiko tradition",
+            "Show the piece in use",
+            "Print the maker's mark"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Sell decorative-only pieces"
+          ]
+        },
+        "logoDirection": "Wordmark: MASHIKO & CO. in a quiet modern grotesk, one line. A small mark — a single tea-bowl silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Slip Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Slip glaze.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Mashiko Brown",
+            "hex": "#6B3F2C",
+            "meaning": "Mashiko clay.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter Mono for maker's marks",
+          "rationale": "One family, two registers — the Mingei-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Coper Atelier",
+        "tagline": "Sculptural vessels.",
+        "brandNameRationale": "Anchor: Hans Coper (1920–1981), the sculptural-vessel maker, Lucie Rie's collaborator. Picked from A's three for the strongest gallery-tier sculptural anchor (Maison Rie risks Lucie Rie estate exposure; St Ives Ceramics House risks Leach Pottery / St Ives trademarks).",
+        "industrySummary": "Sculptural-luxury ceramics — auction-house-adjacent, gallery-represented — sit at the top of the category. The opening is a Coper-anchored sculptural atelier.",
+        "competitorLandscape": "Heath Ceramics (heathceramics.com) plays the gallery peer. Astier de Villatte (astierdevillatte.com) holds the editorial-luxury middle. Bertozzi (bertozzi1920.com) is the heritage reference. We sit as a sculptural-luxury atelier.",
+        "positioningStatement": "Coper Atelier is a sculptural-luxury ceramics atelier producing limited-edition vessels in the Hans Coper sculptural tradition.",
+        "targetAudience": {
+          "primary": "UHNW collectors and design galleries.",
+          "behaviors": [
+            "Buy at gallery",
+            "Commission editions",
+            "Care about the maker's lineage"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Sculptural",
+          "Pedigreed",
+          "Refined",
+          "Editorial"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the maker and the lineage",
+            "Photograph the vessel in studio light",
+            "Print the edition card on cream stock"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'luxury' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: COPER ATELIER in a refined serif, two lines centered. A small mark — a single Coper-form vessel silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Coper Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Studio paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Vessel Black",
+            "hex": "#1A1A1B",
+            "meaning": "Coper black slip.",
+            "usage": "Body"
+          },
+          {
+            "name": "Ochre",
+            "hex": "#B58A3E",
+            "meaning": "Manganese wash.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the gallery-atelier register."
+        }
+      },
+      {
+        "brandName": "Maison Anagama",
+        "tagline": "Wood-fired luxury ceramics.",
+        "brandNameRationale": "Anchor: anagama — single-chamber wood-fired kiln — applied to a French maison register. Counter-proposal: cleaner than 'Maison Rie' (estate exposure) or 'St Ives Ceramics House' (Leach Pottery / St Ives proximity). Combines Japanese kiln tradition with European luxury naming.",
+        "industrySummary": "Wood-fired luxury ceramics — multi-day kiln cycles, single-firing editions — sit at the gallery top of the category. The opening is a maison-named anagama studio.",
+        "competitorLandscape": "Heath Ceramics (heathceramics.com) plays the gallery peer. Astier de Villatte (astierdevillatte.com) holds the editorial-luxury middle. Sturt Pottery (sturt.nsw.edu.au) is the wood-fired reference. We sit as a wood-fired luxury maison.",
+        "positioningStatement": "Maison Anagama is a wood-fired luxury ceramics maison producing limited editions from multi-day anagama firings.",
+        "targetAudience": {
+          "primary": "UHNW collectors and design galleries.",
+          "behaviors": [
+            "Buy at gallery",
+            "Commission editions",
+            "Visit the kiln opening"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Quietly luxurious",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the firing cycle and the kiln",
+            "Photograph the kiln opening",
+            "Print the edition card on cream stock"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'luxury' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON ANAGAMA in a refined French serif, two lines centered. A small mark — a single kiln-section silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Maison Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember Red",
+            "hex": "#A84B2C",
+            "meaning": "Kiln ember.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Kiln Black",
+            "hex": "#141417",
+            "meaning": "Reduction firing.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the wood-fired maison register."
+        }
+      },
+      {
+        "brandName": "Mashiko Maison",
+        "tagline": "Mingei-rooted luxury tableware.",
+        "brandNameRationale": "Anchor: the Mashiko tradition reframed as a luxury maison. Picked over Maison Rie / St Ives Ceramics House (both have estate / trademark exposure).",
+        "industrySummary": "Mingei-rooted luxury tableware — gallery-grade, multi-generational firing traditions — has a small but real gallery market. The opening is a Mashiko-rooted luxury maison.",
+        "competitorLandscape": "Astier de Villatte (astierdevillatte.com) plays the editorial-luxury peer. Heath Ceramics (heathceramics.com) holds the gallery middle. Yanagi Sori-designed pieces (yanagidesign.com) are the Mingei-design reference. We sit as a Mashiko-rooted luxury house.",
+        "positioningStatement": "Mashiko Maison is a luxury tableware maison rooted in the Mashiko-Mingei tradition.",
+        "targetAudience": {
+          "primary": "UHNW collectors and luxury hospitality.",
+          "behaviors": [
+            "Buy at gallery",
+            "Commission tableware sets",
+            "Care about the Mashiko firing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Mingei-rooted",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the firing and the maker",
+            "Photograph the piece in use",
+            "Print the edition card on cream stock"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'luxury' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: MASHIKO MAISON in a refined serif, two lines centered. A small mark — a single tea-bowl silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Slip Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Slip glaze.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Mashiko Brown",
+            "hex": "#6B3F2C",
+            "meaning": "Mashiko clay.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the Mingei-luxury register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Stoneware",
+        "tagline": "High-fire functional.",
+        "brandNameRationale": "Anchor: stoneware — the high-fire functional tradition. Single-word, trade-honest. Picked from A's three for the cleanest minimal anchor (Mingei flagged for TM verification; Clay. too thin).",
+        "industrySummary": "Single-word minimal ceramics brands — East Fork's spirit — leave room for a truly material-named entry. Stoneware sits as the high-fire functional baseline.",
+        "competitorLandscape": "East Fork (eastfork.com) plays the DTC peer. Year & Day (yearandday.com) holds the minimal-tableware middle. Snowe (snowehome.com) is the minimal-home reference. We sit as a material-named minimal brand.",
+        "positioningStatement": "Stoneware is a minimal high-fire functional ceramics brand.",
+        "targetAudience": {
+          "primary": "Minimal-tableware buyers 25–45.",
+          "behaviors": [
+            "Order daily-use sets",
+            "Care about the firing",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the piece on a plain background",
+            "Name the firing plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Bundle lifestyle products"
+          ]
+        },
+        "logoDirection": "Wordmark: STONEWARE set large in a clean modern sans, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Slip Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Slip glaze.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stone Grey",
+            "hex": "#7A7A78",
+            "meaning": "Stoneware tone.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for piece labels",
+          "rationale": "One family, two registers — the high-fire minimal register."
+        }
+      },
+      {
+        "brandName": "Clay.",
+        "tagline": "The material.",
+        "brandNameRationale": "Anchor: clay itself, the irreducible material. Single-word, period as logo. Picked from A's three for cleanest one-word anchor.",
+        "industrySummary": "Material-named minimal brands sit cleanly in the ceramics category. Clay. names the substance itself.",
+        "competitorLandscape": "East Fork (eastfork.com) plays the DTC peer. Year & Day (yearandday.com) holds the minimal-tableware middle. Snowe (snowehome.com) is the minimal-home reference. We sit as a material-named minimal brand.",
+        "positioningStatement": "Clay. is a minimal ceramics brand named for the material itself.",
+        "targetAudience": {
+          "primary": "Minimal-design buyers 25–45.",
+          "behaviors": [
+            "Order daily-use pieces",
+            "Care about the material",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the piece on a plain background",
+            "Name the clay body plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Bundle lifestyle products"
+          ]
+        },
+        "logoDirection": "Wordmark: clay. set in a clean humanist sans, lowercase, with the period as the only mark. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Slip Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Slip glaze.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Clay Brown",
+            "hex": "#8B5A3A",
+            "meaning": "Raw clay body.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for piece labels",
+          "rationale": "One family, two registers — the material-minimal register."
+        }
+      },
+      {
+        "brandName": "Wheel",
+        "tagline": "Thrown.",
+        "brandNameRationale": "Anchor: the wheel — the central tool of the studio-pottery tradition. Counter-proposal third minimal option (Mingei flagged TM-risk in target markets). Single-word tool-name.",
+        "industrySummary": "Tool-named minimal brands sit cleanly in ceramics. Wheel names the central act of the craft.",
+        "competitorLandscape": "East Fork (eastfork.com) plays the DTC peer. Year & Day (yearandday.com) holds the minimal-tableware middle. Snowe (snowehome.com) is the minimal-home reference. We sit as a tool-named minimal brand.",
+        "positioningStatement": "Wheel is a minimal wheel-thrown ceramics brand.",
+        "targetAudience": {
+          "primary": "Minimal-design buyers 25–45 wanting wheel-thrown pieces.",
+          "behaviors": [
+            "Order daily-use pieces",
+            "Care about throwing marks",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the throwing marks",
+            "Name the piece plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'artisanal' anywhere",
+            "Photograph against marble",
+            "Sell slip-cast pieces"
+          ]
+        },
+        "logoDirection": "Wordmark: WHEEL in a clean modern sans, one word, five letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Slip Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Slip glaze.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Wheel Grey",
+            "hex": "#7A7A78",
+            "meaning": "Wheel-head steel.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the tool-minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Kiln & Co.",
+        "tagline": "Hospitality and contract ceramics.",
+        "brandNameRationale": "Anchor: the kiln, central tool of the trade. Picked from A's three for the cleanest corporate trade-name anchor (Hamada & Partners risks Shoji Hamada estate; Leach Ceramics Group risks Leach Pottery TM).",
+        "industrySummary": "Corporate ceramics — hospitality contracts, hotel tableware programs — is dominated by Steelite, Villeroy & Boch. The opening is a smaller, design-led contract ceramics brand.",
+        "competitorLandscape": "Steelite (steelite.com) plays the contract-ceramics peer. Villeroy & Boch (villeroy-boch.com) holds the hotel-tableware middle. Heath Ceramics Commercial (heathceramics.com) is the design-led reference. We sit as a design-led contract ceramics brand.",
+        "positioningStatement": "Kiln & Co. is a corporate ceramics brand for hospitality and contract — hotels, restaurants, institutional.",
+        "targetAudience": {
+          "primary": "Hotel F&B directors, restaurant ops, and contract ceramics buyers.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about case-pack consistency",
+            "RFP for hospitality programs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Design-led",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Print contract specs plainly",
+            "Show pieces in service"
+          ],
+          "donts": [
+            "Brand as a single studio",
+            "Photograph against marble",
+            "Discount the contract line"
+          ]
+        },
+        "logoDirection": "Wordmark: KILN & CO. in a confident institutional serif, one line. A small mark — a kiln-section silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Contract Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Ember Red",
+            "hex": "#A84B2C",
+            "meaning": "Kiln ember.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the contract-ceramics register."
+        }
+      },
+      {
+        "brandName": "Stoneware Group",
+        "tagline": "Multi-brand ceramics operator.",
+        "brandNameRationale": "Anchor: stoneware as the high-fire material baseline, applied to a multi-brand operator. Counter-proposal (rejecting Hamada & Partners as estate-risky and Leach Ceramics Group as TM-risky).",
+        "industrySummary": "Multi-brand ceramics holding companies — Steelite-style consolidators — sit at the top of the contract-ceramics market. The opening is a Stoneware-named institutional operator.",
+        "competitorLandscape": "Steelite (steelite.com) plays the multi-brand peer. Villeroy & Boch (villeroy-boch.com) holds the hotel-tableware middle. RAK Porcelain (rakporcelain.com) is the multi-brand reference. We sit as a Stoneware-anchored institutional operator.",
+        "positioningStatement": "Stoneware Group is a multi-brand ceramics operator for contract, hospitality, and institutional tableware.",
+        "targetAudience": {
+          "primary": "Hospitality groups, contract-ceramics buyers, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare ceramics vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single studio",
+            "Photograph against marble",
+            "Discount the contract line"
+          ]
+        },
+        "logoDirection": "Wordmark: STONEWARE GROUP in a clean institutional serif, two lines. A small mark — a serif S monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Stone Grey",
+            "hex": "#5A6776",
+            "meaning": "Structure.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A classical serif plus a clean grotesk — the multi-brand operator register."
+        }
+      },
+      {
+        "brandName": "Anagama Industries",
+        "tagline": "Wood-fired contract ceramics.",
+        "brandNameRationale": "Anchor: anagama applied to a corporate-industrial register. Counter-proposal third corporate option (rejecting Hamada & Partners and Leach Ceramics Group as estate / TM-risky).",
+        "industrySummary": "Wood-fired contract ceramics — gallery-spec, hospitality-grade — sit in a small but real corporate tier. The opening is an industrial-named wood-fired ceramics operator.",
+        "competitorLandscape": "Heath Ceramics Commercial (heathceramics.com) plays the design-contract peer. Steelite (steelite.com) holds the contract middle. Villeroy & Boch (villeroy-boch.com) is the multi-brand reference. We sit as a wood-fired contract-ceramics operator.",
+        "positioningStatement": "Anagama Industries is a corporate wood-fired ceramics operator for contract, hospitality, and gallery clients.",
+        "targetAudience": {
+          "primary": "Hospitality groups, gallery commissions, and institutional purchasers.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about firing-cycle consistency",
+            "Commission editions"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Wood-fired",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in firings and editions",
+            "Print contract specs plainly",
+            "Show the kiln opening"
+          ],
+          "donts": [
+            "Brand as a single studio",
+            "Photograph against marble",
+            "Discount the contract line"
+          ]
+        },
+        "logoDirection": "Wordmark: ANAGAMA INDUSTRIES in a clean institutional serif, two lines. A small mark — a kiln-section silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Ash Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Fly-ash glaze.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember Red",
+            "hex": "#A84B2C",
+            "meaning": "Kiln ember.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Kiln Black",
+            "hex": "#141416",
+            "meaning": "Reduction firing.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the wood-fired industrial register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Wheel & The Kiln",
+        "tagline": "School and studio.",
+        "brandNameRationale": "Anchor: the two core tools of studio pottery. Picked from A's three for the strongest editorial school-and-studio creative anchor.",
+        "industrySummary": "Studio-and-school editorial brands — pottery schools that publish — sit at the creative top of the category. The opening is a school-and-studio editorial brand.",
+        "competitorLandscape": "East Fork (eastfork.com) plays the editorial DTC peer. Heath Ceramics (heathceramics.com) holds the gallery middle. Mt Washington Pottery (mtwashingtonpottery.com) is the studio reference. We sit as an editorial school-and-studio brand.",
+        "positioningStatement": "The Wheel & The Kiln is an editorial pottery school and studio brand publishing alongside its working studio.",
+        "targetAudience": {
+          "primary": "Studio-pottery enthusiasts and weekend students 28–55.",
+          "behaviors": [
+            "Attend weekend workshops",
+            "Read the studio journal",
+            "Care about the kiln cycle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Educational",
+          "Warm",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the lesson plan",
+            "Print the journal seasonally",
+            "Photograph the wheel and the kiln"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the firing details"
+          ]
+        },
+        "logoDirection": "Wordmark: THE WHEEL & THE KILN in a confident editorial serif, three lines centered. A small mark — a wheel-and-kiln paired silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember Red",
+            "hex": "#A84B2C",
+            "meaning": "Kiln ember.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the editorial school register."
+        }
+      },
+      {
+        "brandName": "Anagama Press",
+        "tagline": "Ceramics, in print.",
+        "brandNameRationale": "Anchor: anagama kiln + 'press' (publishing). Picked from A's three for the strongest ceramics-and-publishing hybrid anchor.",
+        "industrySummary": "Ceramics + publishing hybrids — small zine-and-objects brands — sit in a real creative tier. The opening is an anagama-named publishing-and-objects brand.",
+        "competitorLandscape": "Vista Alegre (vistaalegre.com) plays the editorial-object peer. Heath Ceramics (heathceramics.com) holds the gallery middle. Apartamento Magazine (apartamentomagazine.com) is the publishing reference. We sit as a publishing-and-objects creative brand.",
+        "positioningStatement": "Anagama Press is a creative ceramics-and-publishing hybrid — zines, monographs, and limited-edition pieces.",
+        "targetAudience": {
+          "primary": "Editorial-design buyers and ceramics collectors 28–50.",
+          "behaviors": [
+            "Subscribe to the press",
+            "Buy zines and pieces together",
+            "Care about the firing cycle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Publishing",
+          "Patient",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the publishing program",
+            "Print the zine seasonally",
+            "Photograph the kiln opening"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Hide the firing"
+          ]
+        },
+        "logoDirection": "Wordmark: ANAGAMA PRESS in a confident editorial serif, one line. A small mark — a single kiln-section silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Zine Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Zine stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember Red",
+            "hex": "#A84B2C",
+            "meaning": "Kiln ember.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and zine",
+          "rationale": "A high-contrast serif plus a reading serif — the publishing-ceramics register."
+        }
+      },
+      {
+        "brandName": "The Tea Bowl Press",
+        "tagline": "Vessels, in print.",
+        "brandNameRationale": "Anchor: the tea bowl (chawan) — the central vessel of the Japanese tea tradition, central to Mingei and to studio pottery's spiritual literature. Counter-proposal third creative option (rejecting Yanagi Studio as Yanagi family estate sensitivity).",
+        "industrySummary": "Tea-bowl-anchored editorial brands sit in a quiet creative tier. The opening is a chawan-named publishing-and-objects brand.",
+        "competitorLandscape": "East Fork (eastfork.com) plays the editorial DTC peer. Astier de Villatte (astierdevillatte.com) holds the editorial middle. Apartamento Magazine (apartamentomagazine.com) is the publishing reference. We sit as a tea-bowl-anchored editorial brand.",
+        "positioningStatement": "The Tea Bowl Press is a creative ceramics-and-publishing brand built on the chawan tradition.",
+        "targetAudience": {
+          "primary": "Editorial-design buyers and tea-culture enthusiasts 28–50.",
+          "behaviors": [
+            "Subscribe to the press",
+            "Buy chawan and zines together",
+            "Care about the tea ceremony"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Quietly historical",
+          "Patient",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the chawan tradition",
+            "Print the zine seasonally",
+            "Photograph the bowl in use"
+          ],
+          "donts": [
+            "Use 'artisanal' as a category",
+            "Photograph against marble",
+            "Skip the tradition"
+          ]
+        },
+        "logoDirection": "Wordmark: THE TEA BOWL PRESS in a confident editorial serif, three lines centered. A small mark — a single chawan-profile silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Zine Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Zine stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tea Green",
+            "hex": "#3D5238",
+            "meaning": "Matcha.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and zine",
+          "rationale": "A reading serif plus a clean grotesk — the tea-bowl editorial register."
+        }
+      }
+    ]
+  }
+}

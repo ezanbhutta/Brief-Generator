@@ -1,0 +1,915 @@
+{
+  "industry": "candles",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Chandler & Wick",
+        "tagline": "Modern candles, properly made.",
+        "brandNameRationale": "Anchor: chandler — the medieval English term for a candlemaker (preserved in the surname). Wick is the irreducible candle element. Picked from A's three for the strongest trade-name modern anchor.",
+        "industrySummary": "DTC candles are dominated by lifestyle brands (Boy Smells, Otherland). The opening is a trade-named modern candle brand that talks like a working chandler.",
+        "competitorLandscape": "Boy Smells (boysmells.com) plays the DTC peer. Otherland (otherland.com) holds the editorial-DTC middle. P.F. Candle Co. (pfcandleco.com) is the trade-named reference. We sit alongside P.F. with a sharper trade frame.",
+        "positioningStatement": "Chandler & Wick is a modern candle brand from working chandlers — single fragrance, single wax, single wick.",
+        "targetAudience": {
+          "primary": "Candle buyers 28–45 in cities ordering monthly.",
+          "behaviors": [
+            "Care about wax type and wick",
+            "Read the burn time",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Trade-honest",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the wax and the wick",
+            "Print the burn time plainly",
+            "Show the candle, not the styling"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the wax type"
+          ]
+        },
+        "logoDirection": "Wordmark: CHANDLER & WICK in a tight modern grotesk, one line. A small mark — a single hand-drawn wick silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Wax Cream",
+            "hex": "#F2ECD8",
+            "meaning": "Beeswax tone.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Wick Black",
+            "hex": "#141416",
+            "meaning": "Burnt wick.",
+            "usage": "Body"
+          },
+          {
+            "name": "Flame Amber",
+            "hex": "#C8853A",
+            "meaning": "Candle flame.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for burn-time labels and ingredients",
+          "rationale": "A modern grotesk plus a mono — the label register."
+        }
+      },
+      {
+        "brandName": "Beeswax Standard",
+        "tagline": "Clean burn, named ingredient.",
+        "brandNameRationale": "Anchor: beeswax — the pre-paraffin premium wax tradition. Picked from A's three for the strongest ingredient-forward modern anchor.",
+        "industrySummary": "Clean-burn candle brands — Public Goods, Grow Fragrance — have grown a real niche. The opening is an ingredient-forward modern brand led by beeswax.",
+        "competitorLandscape": "Big Dipper Wax Works (bigdipperwaxworks.com) plays the beeswax peer. P.F. Candle Co. (pfcandleco.com) holds the trade-named middle. Boy Smells (boysmells.com) is the DTC reference. We sit as a beeswax-led modern brand.",
+        "positioningStatement": "Beeswax Standard is a modern clean-burn candle brand led by beeswax and named for its ingredient honesty.",
+        "targetAudience": {
+          "primary": "Clean-burn buyers 28–45 who read ingredient labels.",
+          "behaviors": [
+            "Read the wax percentage",
+            "Care about indoor air quality",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Ingredient-honest",
+          "Plain",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the wax percentage plainly",
+            "Print the burn time on the label",
+            "Show the wax block"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the paraffin if any"
+          ]
+        },
+        "logoDirection": "Wordmark: BEESWAX STANDARD in a modern grotesk, two lines stacked. A small mark — a honeycomb-cell silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Honey",
+            "hex": "#C8893E",
+            "meaning": "Wax block.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Wax Cream",
+            "hex": "#F2ECD8",
+            "meaning": "Beeswax tone.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for ingredient labels",
+          "rationale": "A quiet grotesk plus a mono — the ingredient-label register."
+        }
+      },
+      {
+        "brandName": "1462 Chandlery",
+        "tagline": "Chartered candles since 1462.",
+        "brandNameRationale": "Anchor: 1462 — the royal charter date of the Worshipful Company of Tallow Chandlers in London. Picked from A's three for the strongest date-anchored modern heritage anchor.",
+        "industrySummary": "Date-anchored heritage candle brands sit in a small but real space (Cire Trudon claims 1643, Diptyque 1961). 1462 takes the older guild date as the anchor.",
+        "competitorLandscape": "Cire Trudon (trudon.com) plays the heritage peer. Diptyque (diptyqueparis.com) holds the editorial-luxury middle. Astier de Villatte (astierdevillatte.com) is the heritage reference. We sit as a chartered-guild date-anchored brand.",
+        "positioningStatement": "1462 Chandlery is a modern candle brand built on the chartered date of London's Tallow Chandlers guild.",
+        "targetAudience": {
+          "primary": "Heritage-leaning candle buyers 30–55.",
+          "behaviors": [
+            "Care about the guild date",
+            "Read the wax percentage",
+            "Buy at heritage retailers"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the 1462 charter",
+            "Print the wax type",
+            "Show the candle in studio"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Invent older dates"
+          ]
+        },
+        "logoDirection": "Wordmark: 1462 above, CHANDLERY below, in a modern grotesk. A small mark — a guild-flame silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Chartered Cream",
+            "hex": "#F1ECD7",
+            "meaning": "Charter stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Wick Black",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          },
+          {
+            "name": "Flame Amber",
+            "hex": "#C8853A",
+            "meaning": "Guild flame.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for date labels and ingredient lists",
+          "rationale": "A quiet grotesk plus a mono — the chartered-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Wax Atelier",
+        "tagline": "Bespoke beeswax tapers.",
+        "brandNameRationale": "Anchor: the atelier tradition of hand-poured beeswax tapers (e.g., the Wax Atelier studio practice). Picked from A's three for the cleanest luxury anchor (Cire & Or risks Cire Trudon adjacency in fragrance retail).",
+        "industrySummary": "Bespoke luxury candle studios — commissioned scents, hand-poured tapers, gallery-tier objects — sit at the top of the home-fragrance category. There is room for a quietly named atelier.",
+        "competitorLandscape": "Cire Trudon (trudon.com) plays the heritage peer. Diptyque (diptyqueparis.com) holds the editorial-luxury middle. Astier de Villatte (astierdevillatte.com) is the gallery-tier reference. We sit as a bespoke beeswax atelier.",
+        "positioningStatement": "The Wax Atelier is a bespoke luxury candle studio hand-pouring beeswax tapers and commissioning custom scents.",
+        "targetAudience": {
+          "primary": "UHNW collectors and interior designers commissioning custom candles.",
+          "behaviors": [
+            "Commission custom scents",
+            "Order in editions",
+            "Care about the wax provenance"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Quietly luxurious",
+          "Refined",
+          "Editorial"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the bee and the meadow",
+            "Photograph the candle in the studio",
+            "Print the commission card on cream stock"
+          ],
+          "donts": [
+            "Sell on Amazon",
+            "Photograph against marble",
+            "Use 'luxury' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: THE WAX ATELIER in a refined serif, three lines centered. A small mark — a single hand-drawn beeswax-taper silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Beeswax",
+            "hex": "#E3C18A",
+            "meaning": "Beeswax block.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Atelier Cream",
+            "hex": "#F1EAD3",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Print Ink",
+            "hex": "#141417",
+            "meaning": "Engraving.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and commission cards",
+          "rationale": "A high-contrast serif plus a reading serif — the atelier register."
+        }
+      },
+      {
+        "brandName": "Maison Chandelier",
+        "tagline": "Heritage French home fragrance.",
+        "brandNameRationale": "Anchor: French chandelier in its pre-light-fixture sense — the candle-maker. Picked from A's three for the strongest French luxury anchor.",
+        "industrySummary": "Parisian luxury home fragrance is dominated by Cire Trudon, Diptyque, Astier de Villatte. The opening is a perfumer-grade maison with a candlemaker etymology.",
+        "competitorLandscape": "Cire Trudon (trudon.com) plays the heritage peer. Diptyque (diptyqueparis.com) holds the editorial-luxury middle. Astier de Villatte (astierdevillatte.com) is the gallery reference. We sit alongside Trudon with a perfumer-named maison frame.",
+        "positioningStatement": "Maison Chandelier is a Parisian luxury home-fragrance house with perfumer-grade candles and diffusers.",
+        "targetAudience": {
+          "primary": "Luxury home-fragrance buyers 35–60 in major metros.",
+          "behaviors": [
+            "Buy at Le Bon Marché or Bergdorf",
+            "Care about the perfumer's name",
+            "Collect the gift box"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Parisian",
+          "Refined",
+          "Editorial"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the perfumer",
+            "Print on cream stock",
+            "Address customers in formal register"
+          ],
+          "donts": [
+            "Use Amazon retail",
+            "Photograph against marble",
+            "Discount the line"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON CHANDELIER in a refined French didone, two lines centered. A small mark — a single classical taper silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Maison Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Foil.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Print Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A French-didone plus a reading serif — the Paris-maison register."
+        }
+      },
+      {
+        "brandName": "Saint Lucy Candle House",
+        "tagline": "Patron of light.",
+        "brandNameRationale": "Anchor: Saint Lucy — patron of light, December candle-crown tradition in Sweden (Luciadagen, Dec 13). Counter-proposal third luxury option (A's Cire & Or risks Trudon adjacency; this lifts the saint-named tradition into luxury).",
+        "industrySummary": "Saint-named heritage candle brands sit in a real luxury niche (Santa Maria Novella's heritage). The opening is a Saint Lucy-anchored luxury candle house with a Swedish-folk register.",
+        "competitorLandscape": "Cire Trudon (trudon.com) plays the heritage peer. Diptyque (diptyqueparis.com) holds the editorial-luxury middle. Santa Maria Novella (smnovella.com) is the saint-named reference. We sit as a Saint-Lucy-anchored luxury house.",
+        "positioningStatement": "Saint Lucy Candle House is a luxury seasonal candle house anchored on the Swedish Saint Lucy candle-crown tradition.",
+        "targetAudience": {
+          "primary": "Luxury seasonal candle buyers 35–60 in Scandinavia and major metros.",
+          "behaviors": [
+            "Buy the December collection",
+            "Care about the saint-day calendar",
+            "Gift the candle crown"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Seasonal",
+          "Refined",
+          "Folk-religious"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the Luciadagen tradition",
+            "Print the saint-day calendar",
+            "Photograph the candle crown"
+          ],
+          "donts": [
+            "Discount the December line",
+            "Photograph against marble",
+            "Use 'glow' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: SAINT LUCY CANDLE HOUSE in a refined Scandinavian serif, three lines centered. A small mark — a single candle-crown silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Lucy Cream",
+            "hex": "#F1EAD0",
+            "meaning": "Letter stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Crown Brass",
+            "hex": "#B58A3E",
+            "meaning": "Candle crown.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the saint-day register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Wick.",
+        "tagline": "The wick.",
+        "brandNameRationale": "Anchor: the wick itself, the irreducible candle element. Single-word, period-as-logo. Picked from A's three for the cleanest minimal anchor.",
+        "industrySummary": "Single-word minimal candle brands — Otherland, Boy Smells lean editorial — leave room for a truly minimal one-word entry.",
+        "competitorLandscape": "Boy Smells (boysmells.com) plays the DTC peer. Otherland (otherland.com) holds the editorial-DTC middle. Public Goods (publicgoods.com) is the minimal reference. We sit as a one-word minimal candle brand.",
+        "positioningStatement": "Wick. is a minimal candle brand named for the irreducible candle element.",
+        "targetAudience": {
+          "primary": "Minimal-design buyers 25–45 in cities.",
+          "behaviors": [
+            "Order single scents",
+            "Care about burn time",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the candle on a plain background",
+            "Print the burn time plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'luxury' anywhere",
+            "Photograph against marble",
+            "Bundle lifestyle products"
+          ]
+        },
+        "logoDirection": "Wordmark: wick. set large in a clean modern sans, lowercase with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Wax Cream",
+            "hex": "#F2ECDB",
+            "meaning": "Wax tone.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Wick Black",
+            "hex": "#141416",
+            "meaning": "Burnt wick.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Flame Amber",
+            "hex": "#C8853A",
+            "meaning": "Flame.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for burn-time labels",
+          "rationale": "One family, two registers — the minimal candle register."
+        }
+      },
+      {
+        "brandName": "Tallow",
+        "tagline": "Pre-industrial wax.",
+        "brandNameRationale": "Anchor: tallow — the pre-industrial candle base. Single-word, raw-material honesty (note: actual wax can be soy/beeswax; tallow is conceptual). Picked from A's three for the second-strongest minimal anchor.",
+        "industrySummary": "Raw-material-named minimal brands sit cleanly in the candle category. Tallow names the pre-industrial baseline.",
+        "competitorLandscape": "Public Goods (publicgoods.com) plays the minimal peer. P.F. Candle Co. (pfcandleco.com) holds the trade-named middle. Big Dipper Wax Works (bigdipperwaxworks.com) is the wax-honest reference. We sit as a raw-material minimal brand.",
+        "positioningStatement": "Tallow is a minimal candle brand named for the pre-industrial candle base.",
+        "targetAudience": {
+          "primary": "Minimal-design buyers 25–45 who read labels.",
+          "behaviors": [
+            "Read the wax type",
+            "Order single scents",
+            "Care about clean burn"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the actual wax plainly",
+            "Show the candle on a plain background",
+            "Print the burn time"
+          ],
+          "donts": [
+            "Use 'luxury' anywhere",
+            "Photograph against marble",
+            "Hide the wax type"
+          ]
+        },
+        "logoDirection": "Wordmark: TALLOW in a clean modern sans, one word, six letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Tallow Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Tallow tone.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Wick Black",
+            "hex": "#141416",
+            "meaning": "Burnt wick.",
+            "usage": "Body"
+          },
+          {
+            "name": "Flame Amber",
+            "hex": "#C8843A",
+            "meaning": "Flame.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the raw-material minimal register."
+        }
+      },
+      {
+        "brandName": "Plain Wax",
+        "tagline": "Unscented or lightly scented.",
+        "brandNameRationale": "Anchor: the unscented utilitarian candle tradition. Picked from A's three for the strongest design-store minimal anchor.",
+        "industrySummary": "Design-store minimal candles — Muji, Areaware — leave room for a brand that names its restraint plainly. The opening is an unscented-or-lightly-scented line.",
+        "competitorLandscape": "Muji (muji.com) plays the design-store peer. Public Goods (publicgoods.com) holds the minimal middle. Snowe (snowehome.com) is the home-goods reference. We sit as a plain-wax minimal brand.",
+        "positioningStatement": "Plain Wax is a minimal candle brand for unscented and lightly-scented utilitarian use.",
+        "targetAudience": {
+          "primary": "Minimal-design buyers 25–45 who want unscented or lightly-scented candles.",
+          "behaviors": [
+            "Order unscented",
+            "Care about clean burn",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Plain",
+          "Honest",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print 'unscented' plainly",
+            "Show the candle on a plain background",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'luxury' anywhere",
+            "Photograph against marble",
+            "Hide the wax type"
+          ]
+        },
+        "logoDirection": "Wordmark: PLAIN WAX in a clean modern sans, two words stacked. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Plain Cream",
+            "hex": "#F2ECDB",
+            "meaning": "Plain wax.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Wick Brown",
+            "hex": "#8B5A3A",
+            "meaning": "Wick.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for burn-time labels",
+          "rationale": "One family, two registers — the design-store minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Lumen Home Fragrance",
+        "tagline": "Corporate home-fragrance house.",
+        "brandNameRationale": "Anchor: lumen — the Latin unit of light; candle as light source historically. Picked from A's three for the strongest corporate-umbrella anchor.",
+        "industrySummary": "Corporate home-fragrance houses — Yankee Candle Company, Bath & Body Works — dominate retail. The opening is a multi-line corporate umbrella with a Latin-unit anchor.",
+        "competitorLandscape": "Yankee Candle (yankeecandle.com) plays the corporate retail peer. Bath & Body Works (bathandbodyworks.com) holds the multi-line middle. NEST New York (nestnewyork.com) is the corporate-luxury reference. We sit as a Latin-named corporate umbrella.",
+        "positioningStatement": "Lumen Home Fragrance is a corporate home-fragrance house with multiple consumer sub-brands.",
+        "targetAudience": {
+          "primary": "Retail buyers, gift retailers, and corporate gift programs.",
+          "behaviors": [
+            "Sign annual wholesale contracts",
+            "Care about case-pack consistency",
+            "Compare corporate fragrance vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-brand",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Print case-pack specs",
+            "Operate sub-brands quietly"
+          ],
+          "donts": [
+            "Brand as a single boutique",
+            "Use influencer marketing at parent level",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: LUMEN HOME FRAGRANCE in a clean institutional serif, two lines. A small mark — a candle-flame silhouette in a circle — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Lumen Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Flame Amber",
+            "hex": "#C8843A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and wholesale contracts",
+          "rationale": "A reading serif plus a clean grotesk — the wholesale-house register."
+        }
+      },
+      {
+        "brandName": "Chandlers' Co.",
+        "tagline": "Chartered home-fragrance.",
+        "brandNameRationale": "Anchor: the Worshipful Company of Tallow Chandlers / Wax Chandlers (London guilds, chartered 1462 and 1484). Picked from A's three for the strongest corporate-guild anchor.",
+        "industrySummary": "Multi-line corporate home-fragrance with guild heritage occupies a quiet but real corporate space. The opening is a chartered-guild-anchored multi-line house.",
+        "competitorLandscape": "Yankee Candle (yankeecandle.com) plays the corporate retail peer. NEST New York (nestnewyork.com) holds the corporate-luxury middle. Voluspa (voluspa.com) is the multi-line reference. We sit as a chartered-guild corporate house.",
+        "positioningStatement": "Chandlers' Co. is a corporate home-fragrance house with multiple consumer sub-brands and a chartered-guild heritage register.",
+        "targetAudience": {
+          "primary": "Retail buyers, gift retailers, and corporate gift programs.",
+          "behaviors": [
+            "Sign annual wholesale contracts",
+            "Care about case-pack consistency",
+            "Reference the guild charter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Institutional",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Reference the chartered guild",
+            "Print contracts plainly"
+          ],
+          "donts": [
+            "Brand as a single boutique",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: CHANDLERS' CO. in a confident institutional serif, one line. A small mark — a guild-shield silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Guild Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Guild Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Foil.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Söhne for body and wholesale contracts",
+          "rationale": "A classical serif plus a clean grotesk — the chartered-guild register."
+        }
+      },
+      {
+        "brandName": "Hearth & Chandler",
+        "tagline": "Home-goods corporate brand.",
+        "brandNameRationale": "Anchor: hearth (domestic fire tradition) + chandler. Picked from A's three for the cleanest retail-friendly corporate anchor.",
+        "industrySummary": "Multi-line corporate home brands — Williams Sonoma's home line, Pottery Barn's candle line — dominate retail home-fragrance. The opening is a paired-name corporate home-goods brand.",
+        "competitorLandscape": "Pottery Barn (potterybarn.com) plays the home-goods retail peer. Williams Sonoma Home (williams-sonoma.com) holds the corporate-home middle. Yankee Candle (yankeecandle.com) is the candle-specialist reference. We sit as a paired-name corporate home-goods brand.",
+        "positioningStatement": "Hearth & Chandler is a corporate home-fragrance and home-goods brand with multi-line retail distribution.",
+        "targetAudience": {
+          "primary": "Retail buyers, gift retailers, and home-goods chain buyers.",
+          "behaviors": [
+            "Sign annual wholesale contracts",
+            "Care about case-pack consistency",
+            "Compare home-goods vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Warm",
+          "Retail-friendly"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Print case-pack specs",
+            "Photograph the candle at home"
+          ],
+          "donts": [
+            "Brand as a single boutique",
+            "Use influencer marketing at parent level",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: HEARTH & CHANDLER in a confident institutional serif, one line. A small mark — a hearth-flame silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Hearth Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hearth Brick",
+            "hex": "#A45A48",
+            "meaning": "Hearth brick.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and wholesale contracts",
+          "rationale": "A reading serif plus a clean grotesk — the retail-home register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Tallow & Tinder",
+        "tagline": "Pre-match fire-making kit.",
+        "brandNameRationale": "Anchor: tallow + tinder (pre-match fire-making kit). Picked from A's three for the strongest editorial-storytelling anchor.",
+        "industrySummary": "Storytelling candle brands — Otherland, Boy Smells — lead the editorial top of the category. The opening is a pre-match fire-making brand with a storytelling frame.",
+        "competitorLandscape": "Otherland (otherland.com) plays the editorial peer. Boy Smells (boysmells.com) holds the storytelling middle. Apotheke (apothekeco.com) is the editorial reference. We sit as a fire-making editorial brand.",
+        "positioningStatement": "Tallow & Tinder is an editorial candle brand built on the pre-match fire-making tradition.",
+        "targetAudience": {
+          "primary": "Editorial candle buyers 25–45 who follow storytelling brands.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the lighting ritual",
+            "Share the brand with friends"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Storytelling",
+          "Warm",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the lighting ritual story",
+            "Print the journal seasonally",
+            "Photograph the candle in candlelight"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: TALLOW & TINDER in a confident editorial serif, one line. A small mark — a hand-drawn tinder-and-flame silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Tinder Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Tinder paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ember Red",
+            "hex": "#A8492E",
+            "meaning": "Ember glow.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal copy",
+          "rationale": "A reading serif plus a clean grotesk — the editorial-fire register."
+        }
+      },
+      {
+        "brandName": "The Slow Burn",
+        "tagline": "The long-burn tradition.",
+        "brandNameRationale": "Anchor: the long-burn tradition of beeswax tapers (vs. fast-burning tallow). Picked from A's three for the strongest slow-living creative anchor.",
+        "industrySummary": "Slow-living candle brands sit at the editorial top of the category. The opening is a long-burn-anchored editorial brand.",
+        "competitorLandscape": "Otherland (otherland.com) plays the editorial peer. Boy Smells (boysmells.com) holds the storytelling middle. Apotheke (apothekeco.com) is the editorial reference. We sit as a long-burn slow-living brand.",
+        "positioningStatement": "The Slow Burn is an editorial candle brand built on the long-burn beeswax-taper tradition.",
+        "targetAudience": {
+          "primary": "Slow-living buyers 28–50 who care about candle ritual.",
+          "behaviors": [
+            "Care about burn time",
+            "Read the brand journal",
+            "Buy seasonally"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Slow",
+          "Editorial",
+          "Warm",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the burn time",
+            "Print the journal seasonally",
+            "Photograph the candle through the burn"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the burn time"
+          ]
+        },
+        "logoDirection": "Wordmark: THE SLOW BURN in a confident editorial serif, three lines centered. A small mark — a single long-taper silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Taper Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Taper wax.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Slow Amber",
+            "hex": "#C8853A",
+            "meaning": "Slow flame.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and journal",
+          "rationale": "A high-contrast serif plus a reading serif — the slow-living register."
+        }
+      },
+      {
+        "brandName": "Tinder & Taper",
+        "tagline": "Two halves of the candle ritual.",
+        "brandNameRationale": "Anchor: tinder (the spark medium) + taper (the candle form). Counter-proposal third creative option (rejecting Saint Lucy as already used in Luxury slot). Pairs the two trade objects of the candle ritual.",
+        "industrySummary": "Paired-name editorial candle brands — Boy Smells, Apotheke — sit at the editorial top. The opening is a paired-trade-object editorial brand.",
+        "competitorLandscape": "Boy Smells (boysmells.com) plays the editorial peer. Otherland (otherland.com) holds the storytelling middle. Apotheke (apothekeco.com) is the editorial reference. We sit as a paired-object creative brand.",
+        "positioningStatement": "Tinder & Taper is an editorial candle brand built on the two trade objects of the candle ritual.",
+        "targetAudience": {
+          "primary": "Editorial candle buyers 25–45.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the lighting ritual",
+            "Buy seasonally"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Warm",
+          "Storytelling",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the ritual story",
+            "Print the journal seasonally",
+            "Photograph the lighting"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: TINDER & TAPER in a confident editorial serif, one line. A small mark — a hand-drawn spark-and-taper silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Tinder Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Tinder paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Spark Amber",
+            "hex": "#C8853A",
+            "meaning": "Spark.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the editorial-ritual register."
+        }
+      }
+    ]
+  }
+}
