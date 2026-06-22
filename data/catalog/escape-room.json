@@ -1,0 +1,915 @@
+{
+  "industry": "escape-room",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Sixty Minutes",
+        "tagline": "The standard timer.",
+        "brandNameRationale": "Anchor: 60 minutes — the standard escape-room timer. Spelled-out form per A's note (safer than '60 Minutes' which is CBS-adjacent). Verified as borderline but acceptable in spelled-out form for a venue/entertainment use.",
+        "industrySummary": "Numeric-modern escape-room brands sit in the urban venue market. The opening is a 60-minute-anchored modern venue.",
+        "competitorLandscape": "The Escape Game (theescapegame.com) plays the chain peer. Escape Hunt (escapehunt.com) holds the international middle. Boxaroo (boxaroo.com) is the modern reference. We sit as a sixty-minute-anchored modern venue.",
+        "positioningStatement": "Sixty Minutes is a modern escape-room venue named for the standard timer.",
+        "targetAudience": {
+          "primary": "Urban teams 25-45 booking after-work nights.",
+          "behaviors": [
+            "Book online",
+            "Care about the time pressure",
+            "Share the result"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Timed",
+          "Direct",
+          "Spare"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the timer",
+            "Photograph the countdown",
+            "Name the room"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Hide the timer"
+          ]
+        },
+        "logoDirection": "Wordmark: SIXTY MINUTES in a modern grotesk, two lines. A small mark — a clock-face silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Timer Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Timer paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Countdown Red",
+            "hex": "#A8492E",
+            "meaning": "Countdown.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for timer and room specs",
+          "rationale": "One family, two registers — the timer-modern register."
+        }
+      },
+      {
+        "brandName": "Lockstep Games",
+        "tagline": "The lock-and-step pace.",
+        "brandNameRationale": "Anchor: pun on 'lockstep' (in unison) + locks (the puzzle prop). Picked from A's three for the strongest abstract-modern pun anchor.",
+        "industrySummary": "Abstract-modern escape-room brands sit in the urban venue and event market. The opening is a lockstep-anchored modern venue.",
+        "competitorLandscape": "The Escape Game (theescapegame.com) plays the chain peer. Escape Hunt (escapehunt.com) holds the international middle. Boxaroo (boxaroo.com) is the modern reference. We sit as an abstract-modern venue.",
+        "positioningStatement": "Lockstep Games is a modern escape-room venue named for the lock-and-step pacing of play.",
+        "targetAudience": {
+          "primary": "Urban teams 25-45 booking after-work nights.",
+          "behaviors": [
+            "Book online",
+            "Care about pacing",
+            "Share the result"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the pacing",
+            "Photograph the locks",
+            "Name the room"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Hide the pacing"
+          ]
+        },
+        "logoDirection": "Wordmark: LOCKSTEP GAMES in a modern grotesk, one line. A small mark — a lock-step motif — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Lock Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Lock paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lock Brass",
+            "hex": "#A38454",
+            "meaning": "Lock brass.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for room specs",
+          "rationale": "A modern grotesk plus a mono — the lockstep-modern register."
+        }
+      },
+      {
+        "brandName": "Loop Live",
+        "tagline": "The immersive loop.",
+        "brandNameRationale": "Anchor: loop (the immersive narrative cycle) + live (the live-game format). Clean two-word modern. Picked from A's three for the strongest immersive-modern anchor.",
+        "industrySummary": "Immersive-modern live-game venues sit in the new-immersive niche. The opening is a loop-live-anchored modern venue.",
+        "competitorLandscape": "Boxaroo (boxaroo.com) plays the immersive peer. The Escape Game (theescapegame.com) holds the chain middle. Escape Hunt (escapehunt.com) is the international reference. We sit as a loop-live immersive-modern venue.",
+        "positioningStatement": "Loop Live is a modern live-game venue named for the immersive narrative loop.",
+        "targetAudience": {
+          "primary": "Immersive-game fans 25-45.",
+          "behaviors": [
+            "Book immersive experiences",
+            "Care about narrative depth",
+            "Share the experience"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Immersive",
+          "Direct",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the narrative spine",
+            "Photograph the set",
+            "Name the room"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Hide the spine"
+          ]
+        },
+        "logoDirection": "Wordmark: LOOP LIVE in a modern grotesk, two lines. A small mark — an infinity-loop silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Loop Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Loop page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Loop Indigo",
+            "hex": "#2E3A5A",
+            "meaning": "Set indigo.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for narrative spine",
+          "rationale": "One family, two registers — the loop-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Breakout Box",
+        "tagline": "The locked-puzzle prop tradition.",
+        "brandNameRationale": "Anchor: breakout box — the locked-puzzle prop that started the escape-room form. Generic trade term. Picked from A's three for the strongest trade-heritage anchor.",
+        "industrySummary": "Trade-heritage escape rooms sit in the immersive market between flagship chains and independents. The opening is a breakout-box-anchored heritage venue.",
+        "competitorLandscape": "The Escape Game (theescapegame.com) plays the chain peer. Escape Hunt (escapehunt.com) holds the international middle. Puzzle Break (puzzlebreak.us) is the independent reference. We sit as a breakout-box-named heritage venue.",
+        "positioningStatement": "Breakout Box is a heritage escape-room venue named for the locked-puzzle prop tradition.",
+        "targetAudience": {
+          "primary": "Teams of 4-8 booking corporate or birthday escape-room nights.",
+          "behaviors": [
+            "Book group nights",
+            "Care about puzzle quality",
+            "Read reviews before booking"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade-honest",
+          "Warm",
+          "Working"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the prop",
+            "Name the puzzle designer",
+            "Print the difficulty"
+          ],
+          "donts": [
+            "Spoil the puzzle",
+            "Photograph against marble",
+            "Hide the difficulty"
+          ]
+        },
+        "logoDirection": "Wordmark: BREAKOUT BOX in a confident trade serif, one line. A small mark — a padlock silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Prop Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Prop paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Padlock Brass",
+            "hex": "#A38454",
+            "meaning": "Lock brass.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Söhne for body and booking cards",
+          "rationale": "A classical serif plus a clean grotesk — the trade-puzzle register."
+        }
+      },
+      {
+        "brandName": "The Cipher Room",
+        "tagline": "Cryptography for play.",
+        "brandNameRationale": "Anchor: cipher — the cryptography puzzle heritage (Caesar, substitution, Vigenère). Picked from A's three for the strongest puzzle-heritage anchor.",
+        "industrySummary": "Puzzle-heritage escape rooms sit in the high-craft niche. The opening is a cipher-anchored venue.",
+        "competitorLandscape": "The Escape Game (theescapegame.com) plays the chain peer. Escape Hunt (escapehunt.com) holds the international middle. Trap Door Escape Room (trapdoorescape.com) is the independent reference. We sit as a cipher-named puzzle-heritage venue.",
+        "positioningStatement": "The Cipher Room is a cipher-heritage escape-room venue for cryptography fans.",
+        "targetAudience": {
+          "primary": "Teams of 3-6 who love puzzles, codes, and ciphers.",
+          "behaviors": [
+            "Book repeat visits",
+            "Care about puzzle depth",
+            "Read puzzle-book bestsellers"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Puzzle-deep",
+          "Considered",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference cryptography lineage",
+            "Print the difficulty",
+            "Name the designer"
+          ],
+          "donts": [
+            "Spoil the cipher",
+            "Photograph against marble",
+            "Hide the difficulty"
+          ]
+        },
+        "logoDirection": "Wordmark: THE CIPHER ROOM in a classical serif, three lines centered. A small mark — a cipher-wheel silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cipher Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Cipher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cipher Ink",
+            "hex": "#141417",
+            "meaning": "Cipher ink.",
+            "usage": "Body"
+          },
+          {
+            "name": "Wax Red",
+            "hex": "#A8492E",
+            "meaning": "Wax seal.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and rules cards",
+          "rationale": "A high-contrast serif plus a reading serif — the cipher-heritage register."
+        }
+      },
+      {
+        "brandName": "Puzzle House",
+        "tagline": "A house of designed puzzles.",
+        "brandNameRationale": "Counter-proposal third heritage option (rejecting 'Mystery Hunt Co.' over MIT Mystery Hunt association risk). Anchor: puzzle house — a working trade phrase for a venue dedicated to designed puzzles. Generic, low TM risk.",
+        "industrySummary": "Puzzle-house heritage venues sit in the high-craft niche. The opening is a puzzle-house heritage venue.",
+        "competitorLandscape": "The Escape Game (theescapegame.com) plays the chain peer. Escape Hunt (escapehunt.com) holds the international middle. Trap Door Escape Room (trapdoorescape.com) is the independent reference. We sit as a puzzle-house heritage venue.",
+        "positioningStatement": "Puzzle House is a heritage escape-room venue for designed puzzles and live play.",
+        "targetAudience": {
+          "primary": "Teams of 4-8 booking puzzle-heavy nights.",
+          "behaviors": [
+            "Book repeat visits",
+            "Care about puzzle depth",
+            "Read reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Craft-honest",
+          "Warm",
+          "Working"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the puzzle designer",
+            "Print the difficulty",
+            "Photograph the prop"
+          ],
+          "donts": [
+            "Spoil the puzzle",
+            "Photograph against marble",
+            "Hide the difficulty"
+          ]
+        },
+        "logoDirection": "Wordmark: PUZZLE HOUSE in a confident trade serif, two lines. A small mark — a key-and-tumbler silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "House Cream",
+            "hex": "#F1ECDA",
+            "meaning": "House paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Key Brass",
+            "hex": "#A38454",
+            "meaning": "Key brass.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and booking cards",
+          "rationale": "A reading serif plus a clean grotesk — the puzzle-heritage register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Magnetic Reed Co.",
+        "tagline": "The reed-switch sensor for puzzle props.",
+        "brandNameRationale": "Anchor: reed switch — the magnetic sensor used in puzzle props to detect when objects are placed in correct positions. Deep-tech anchor. Picked from A's three for the strongest deep-tech anchor.",
+        "industrySummary": "Deep-tech puzzle-prop brands sit in the design-and-build niche serving venue operators. The opening is a magnetic-reed-anchored precision shop.",
+        "competitorLandscape": "Creative Escape Rooms (creativeescaperooms.com) plays the build peer. Iversoft (iversoft.com) holds the prop-tech middle. Lockpaper (lockpaper.com) is the prop reference. We sit as a magnetic-reed deep-tech precision build.",
+        "positioningStatement": "Magnetic Reed Co. is a precision puzzle-prop and escape-room build shop named for the reed-switch sensor.",
+        "targetAudience": {
+          "primary": "Venue operators and prop designers 30-50.",
+          "behaviors": [
+            "Commission custom props",
+            "Care about reliability",
+            "Read prop-tech forums"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Trade-honest",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the sensor spec",
+            "Photograph the build",
+            "Name the engineer"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Hide the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: MAGNETIC REED CO. in a precise modern grotesk, two lines. A small mark — a reed-switch schematic motif — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Build Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Build page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Build Steel",
+            "hex": "#3A4047",
+            "meaning": "Schematic steel.",
+            "usage": "Body"
+          },
+          {
+            "name": "Sensor Amber",
+            "hex": "#C8853A",
+            "meaning": "Sensor LED.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for schematics and specs",
+          "rationale": "A modern grotesk plus a mono — the sensor-precision register."
+        }
+      },
+      {
+        "brandName": "Prop Logic",
+        "tagline": "The puzzle-design discipline.",
+        "brandNameRationale": "Anchor: prop logic — the puzzle-design discipline of making props that behave reliably and signal clearly. Picked from A's three for the strongest precision-modern anchor.",
+        "industrySummary": "Prop-logic precision shops sit in the build niche. The opening is a prop-logic-anchored precision shop.",
+        "competitorLandscape": "Creative Escape Rooms (creativeescaperooms.com) plays the build peer. Iversoft (iversoft.com) holds the prop-tech middle. Lockpaper (lockpaper.com) is the prop reference. We sit as a prop-logic precision shop.",
+        "positioningStatement": "Prop Logic is a precision escape-room build shop named for the puzzle-design discipline.",
+        "targetAudience": {
+          "primary": "Venue operators and puzzle designers 30-50.",
+          "behaviors": [
+            "Commission custom logic flows",
+            "Care about signal clarity",
+            "Read prop-tech forums"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Disciplined",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the logic flow",
+            "Photograph the build",
+            "Name the designer"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Hide the flow"
+          ]
+        },
+        "logoDirection": "Wordmark: PROP LOGIC in a precise modern grotesk, one line. A small mark — a logic-gate silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Logic Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Logic page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Logic Slate",
+            "hex": "#3A4047",
+            "meaning": "Schematic slate.",
+            "usage": "Body"
+          },
+          {
+            "name": "Signal Amber",
+            "hex": "#C8853A",
+            "meaning": "Signal amber.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for logic flows",
+          "rationale": "One family, two registers — the logic-precision register."
+        }
+      },
+      {
+        "brandName": "Game-Master Bay",
+        "tagline": "The GM control booth.",
+        "brandNameRationale": "Anchor: game-master bay — the GM control booth where the operator monitors and steers play. Picked from A's three for the strongest trade-precision anchor.",
+        "industrySummary": "GM-trade precision shops sit between venue operations and build. The opening is a GM-bay-anchored precision brand.",
+        "competitorLandscape": "Creative Escape Rooms (creativeescaperooms.com) plays the build peer. Iversoft (iversoft.com) holds the prop-tech middle. Lockpaper (lockpaper.com) is the prop reference. We sit as a GM-bay trade-precision brand.",
+        "positioningStatement": "Game-Master Bay is a precision escape-room operations and control-booth build shop.",
+        "targetAudience": {
+          "primary": "Venue operators and franchisees 30-50.",
+          "behaviors": [
+            "Commission GM systems",
+            "Care about hint pacing",
+            "Read ops forums"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Trade-honest",
+          "Operational",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the GM workflow",
+            "Photograph the booth",
+            "Name the operator"
+          ],
+          "donts": [
+            "Use 'content' loosely",
+            "Photograph against marble",
+            "Hide the workflow"
+          ]
+        },
+        "logoDirection": "Wordmark: GAME-MASTER BAY in a precise modern grotesk, two lines. A small mark — a control-console silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Booth Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Booth paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Booth Slate",
+            "hex": "#3A4047",
+            "meaning": "Console slate.",
+            "usage": "Body"
+          },
+          {
+            "name": "Live Red",
+            "hex": "#A8492E",
+            "meaning": "On-air red.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for workflow",
+          "rationale": "A modern grotesk plus a mono — the GM-trade register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "The Final Code",
+        "tagline": "The climactic last cipher.",
+        "brandNameRationale": "Anchor: the final code — the climactic last cipher that opens the final lock. Picked from A's three for the strongest climactic-evocative anchor.",
+        "industrySummary": "Climactic-evocative escape-room brands sit in the immersive market. The opening is a final-code-anchored evocative venue.",
+        "competitorLandscape": "Boxaroo (boxaroo.com) plays the immersive peer. The Escape Game (theescapegame.com) holds the chain middle. Escape Hunt (escapehunt.com) is the international reference. We sit as a final-code climactic-evocative venue.",
+        "positioningStatement": "The Final Code is an evocative escape-room venue named for the climactic last cipher.",
+        "targetAudience": {
+          "primary": "Story-driven teams of 4-8 booking immersive nights.",
+          "behaviors": [
+            "Book story-heavy rooms",
+            "Care about the climax",
+            "Share the moment"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Climactic",
+          "Storytelling",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the climax",
+            "Photograph the final lock",
+            "Name the room"
+          ],
+          "donts": [
+            "Spoil the puzzle",
+            "Photograph against marble",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: THE FINAL CODE in a confident editorial serif, three lines centered. A small mark — a tumbler-cylinder silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Cipher paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Vault Steel",
+            "hex": "#3A4047",
+            "meaning": "Vault steel.",
+            "usage": "Body"
+          },
+          {
+            "name": "Wax Red",
+            "hex": "#A8492E",
+            "meaning": "Wax seal.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and room cards",
+          "rationale": "A high-contrast serif plus a reading serif — the climactic register."
+        }
+      },
+      {
+        "brandName": "Lantern & Lock",
+        "tagline": "Atmospheric Victorian puzzles.",
+        "brandNameRationale": "Anchor: lantern + lock — alliterative Victorian-puzzle pairing. Picked from A's three for the strongest atmospheric-evocative anchor.",
+        "industrySummary": "Atmospheric-Victorian escape-room brands sit in the immersive market. The opening is a lantern/lock-paired evocative venue.",
+        "competitorLandscape": "Boxaroo (boxaroo.com) plays the immersive peer. The Escape Game (theescapegame.com) holds the chain middle. Escape Hunt (escapehunt.com) is the international reference. We sit as a Victorian-atmospheric evocative venue.",
+        "positioningStatement": "Lantern & Lock is an evocative escape-room venue with a Victorian atmospheric register.",
+        "targetAudience": {
+          "primary": "Atmosphere-driven teams of 3-6 booking immersive nights.",
+          "behaviors": [
+            "Book atmospheric rooms",
+            "Care about set design",
+            "Photograph the lanterns"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Atmospheric",
+          "Victorian",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the lantern",
+            "Tell the Victorian story",
+            "Name the room"
+          ],
+          "donts": [
+            "Spoil the puzzle",
+            "Photograph against marble",
+            "Skip the atmosphere"
+          ]
+        },
+        "logoDirection": "Wordmark: LANTERN & LOCK in a confident editorial serif, one line. A small mark — a hand-drawn lantern silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lantern Amber",
+            "hex": "#C8853A",
+            "meaning": "Lantern flame.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Coal",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and room cards",
+          "rationale": "A high-contrast serif plus a reading serif — the Victorian-atmospheric register."
+        }
+      },
+      {
+        "brandName": "The Last Minute",
+        "tagline": "When the timer wins.",
+        "brandNameRationale": "Anchor: the last minute — the timer-pressure poetry of the final moments. Picked from A's three for the strongest timer-poetic anchor.",
+        "industrySummary": "Timer-pressure evocative venues sit in the immersive niche. The opening is a last-minute-anchored evocative venue.",
+        "competitorLandscape": "Boxaroo (boxaroo.com) plays the immersive peer. The Escape Game (theescapegame.com) holds the chain middle. Escape Hunt (escapehunt.com) is the international reference. We sit as a timer-pressure evocative venue.",
+        "positioningStatement": "The Last Minute is an evocative escape-room venue named for the timer-pressure of the final moments.",
+        "targetAudience": {
+          "primary": "Pressure-loving teams of 4-8 booking immersive nights.",
+          "behaviors": [
+            "Book pressure-heavy rooms",
+            "Care about the timer",
+            "Share the close call"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Pressure-poetic",
+          "Storytelling",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the last minute",
+            "Photograph the countdown",
+            "Name the room"
+          ],
+          "donts": [
+            "Spoil the puzzle",
+            "Photograph against marble",
+            "Skip the pressure"
+          ]
+        },
+        "logoDirection": "Wordmark: THE LAST MINUTE in a confident editorial serif, three lines centered. A small mark — a countdown-arrow silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Countdown Red",
+            "hex": "#A8492E",
+            "meaning": "Countdown red.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and timer cards",
+          "rationale": "A reading serif plus a clean grotesk — the timer-evocative register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Key & Kettle",
+        "tagline": "Cozy puzzles, warm room.",
+        "brandNameRationale": "Anchor: key + kettle — alliterative cozy-puzzle pairing. Picked from A's three for the strongest cozy-playful anchor.",
+        "industrySummary": "Cozy-playful escape-room brands sit in the boutique market between chains and immersive. The opening is a key/kettle-paired playful venue.",
+        "competitorLandscape": "The Escape Game (theescapegame.com) plays the chain peer. Escape Hunt (escapehunt.com) holds the international middle. Boxaroo (boxaroo.com) is the immersive reference. We sit as a cozy-paired playful venue.",
+        "positioningStatement": "Key & Kettle is a playful escape-room venue named for the cozy-puzzle pairing of key and kettle.",
+        "targetAudience": {
+          "primary": "Cozy-leaning teams of 3-6 booking weekend afternoons.",
+          "behaviors": [
+            "Book weekend slots",
+            "Care about the cozy vibe",
+            "Share photos warmly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Cozy",
+          "Warm",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the cozy set",
+            "Name the room",
+            "Tell the puzzle warmly"
+          ],
+          "donts": [
+            "Spoil the puzzle",
+            "Photograph against marble",
+            "Skip the warmth"
+          ]
+        },
+        "logoDirection": "Wordmark: KEY & KETTLE in a friendly trade serif, one line. A small mark — a key-and-kettle silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Kettle Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Kettle paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Kettle brass.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and room cards",
+          "rationale": "A reading serif plus a clean grotesk — the cozy-playful register."
+        }
+      },
+      {
+        "brandName": "The Red Herring",
+        "tagline": "The misdirection clue.",
+        "brandNameRationale": "Anchor: the red herring — the misdirection-clue trope. Picked from A's three for the strongest insider-playful anchor.",
+        "industrySummary": "Insider-playful escape-room brands sit in the boutique market. The opening is a red-herring-anchored playful venue.",
+        "competitorLandscape": "The Escape Game (theescapegame.com) plays the chain peer. Escape Hunt (escapehunt.com) holds the international middle. Boxaroo (boxaroo.com) is the immersive reference. We sit as a red-herring insider-playful venue.",
+        "positioningStatement": "The Red Herring is a playful escape-room venue named for the misdirection clue.",
+        "targetAudience": {
+          "primary": "Puzzle-literate teams of 3-6 enjoying tropes.",
+          "behaviors": [
+            "Book recurring nights",
+            "Care about puzzle craft",
+            "Share the misdirection"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Storytelling",
+          "Insider",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference puzzle tropes",
+            "Name the room",
+            "Tell the misdirection story"
+          ],
+          "donts": [
+            "Spoil the puzzle",
+            "Photograph against marble",
+            "Skip the warmth"
+          ]
+        },
+        "logoDirection": "Wordmark: THE RED HERRING in a friendly editorial serif, three lines centered. A small mark — a herring silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Herring Red",
+            "hex": "#A8492E",
+            "meaning": "Herring red.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and room cards",
+          "rationale": "A reading serif plus a clean grotesk — the trope-playful register."
+        }
+      },
+      {
+        "brandName": "Eureka Rooms",
+        "tagline": "The 'I got it' moment.",
+        "brandNameRationale": "Counter-proposal third playful option (rejecting 'Aha! Rooms' over A's TM caution that 'Aha' availability is uncertain — Aha! is also a SaaS brand). Anchor: eureka — Archimedes' 'I have found it' moment, generic and richly associated with puzzle insight.",
+        "industrySummary": "Insight-playful escape-room brands sit in the boutique market. The opening is a eureka-anchored playful venue.",
+        "competitorLandscape": "The Escape Game (theescapegame.com) plays the chain peer. Escape Hunt (escapehunt.com) holds the international middle. Boxaroo (boxaroo.com) is the immersive reference. We sit as a eureka insight-playful venue.",
+        "positioningStatement": "Eureka Rooms is a playful escape-room venue named for the 'I got it' moment of puzzle insight.",
+        "targetAudience": {
+          "primary": "Puzzle-loving teams of 3-6 booking weekend nights.",
+          "behaviors": [
+            "Book recurring nights",
+            "Care about puzzle insight",
+            "Share the moment"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Warm",
+          "Storytelling",
+          "Insight-driven"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the insight moment",
+            "Name the room",
+            "Photograph the prop"
+          ],
+          "donts": [
+            "Spoil the puzzle",
+            "Photograph against marble",
+            "Skip the warmth"
+          ]
+        },
+        "logoDirection": "Wordmark: EUREKA ROOMS in a friendly editorial serif, two lines. A small mark — a lightbulb silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Insight Amber",
+            "hex": "#C8853A",
+            "meaning": "Lightbulb glow.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and room cards",
+          "rationale": "A reading serif plus a clean grotesk — the insight-playful register."
+        }
+      }
+    ]
+  }
+}

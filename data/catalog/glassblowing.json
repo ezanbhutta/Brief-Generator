@@ -1,0 +1,915 @@
+{
+  "industry": "glassblowing",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Anneal",
+        "tagline": "The slow-cool that locks the glass.",
+        "brandNameRationale": "Anchor: anneal — the slow-cool step that locks in strength and prevents shatter. Picked from A's three for the cleanest single-word modern anchor.",
+        "industrySummary": "Single-word modern glass studios sit in a quiet but real space. The opening is a process-named workshop with a precise modern register.",
+        "competitorLandscape": "J. Hill's Standard (jhillsstandard.com) plays the modern-studio peer. Esque Studio (esque-studio.com) holds the modern middle. Simon Pearce (simonpearce.com) is the American reference. We sit as a single-word process-named brand.",
+        "positioningStatement": "Anneal is a modern hand-blown studio-glass brand named for the step that gives glass its strength.",
+        "targetAudience": {
+          "primary": "Modern-design buyers 28-50 sourcing hand-blown vessels.",
+          "behaviors": [
+            "Buy at modern design stores",
+            "Care about the process",
+            "Read maker statements"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Process-honest",
+          "Spare",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the anneal cycle",
+            "Show the lehr oven",
+            "Print the cooling-curve note"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the process"
+          ]
+        },
+        "logoDirection": "Wordmark: anneal set in a precise modern grotesk, lowercase, six letters. No mark.",
+        "colorPalette": [
+          {
+            "name": "Lehr Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Annealed glass.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cool Slate",
+            "hex": "#3A4047",
+            "meaning": "Cooled vessel.",
+            "usage": "Body"
+          },
+          {
+            "name": "Ember",
+            "hex": "#C8503A",
+            "meaning": "Lehr heat.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for cooling-cycle notes",
+          "rationale": "One family, two registers — the process-modern register."
+        }
+      },
+      {
+        "brandName": "Soda-Lime",
+        "tagline": "The everyday chemistry.",
+        "brandNameRationale": "Anchor: soda-lime — the most common glass chemistry (windows, jars, vessels). Picked from A's three for the strongest material-name modern anchor.",
+        "industrySummary": "Material-named modern brands sit cleanly in the studio-glass category. The opening is a soda-lime-anchored everyday workshop.",
+        "competitorLandscape": "Esque Studio (esque-studio.com) plays the modern peer. J. Hill's Standard (jhillsstandard.com) holds the modern middle. Simon Pearce (simonpearce.com) is the American reference. We sit as a soda-lime material-honest brand.",
+        "positioningStatement": "Soda-Lime is a modern hand-blown brand named for the everyday glass chemistry.",
+        "targetAudience": {
+          "primary": "Modern homeware buyers 28-50.",
+          "behaviors": [
+            "Read the material spec",
+            "Buy at modern design stores",
+            "Skip lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Material-honest",
+          "Spare",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the chemistry on the label",
+            "Photograph in studio",
+            "Print the COE (coefficient of expansion)"
+          ],
+          "donts": [
+            "Use 'crystal' if not lead glass",
+            "Photograph against marble",
+            "Hide the chemistry"
+          ]
+        },
+        "logoDirection": "Wordmark: SODA-LIME in a tight modern grotesk, hyphenated. A small mark — the hyphen as the only motif — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Soda Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Window cream.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lime Mineral",
+            "hex": "#B8B89A",
+            "meaning": "Limestone.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for material specs",
+          "rationale": "A modern grotesk plus a mono — the material-label register."
+        }
+      },
+      {
+        "brandName": "Vetro 1291",
+        "tagline": "Italian for glass. Murano's founding year.",
+        "brandNameRationale": "Anchor: 'vetro' — Italian for glass — plus 1291, the year Venetian glassmakers were moved to Murano by the Republic. Picked from A's three for the strongest date-anchored modern heritage.",
+        "industrySummary": "Date-anchored modern glass brands sit in a quiet but real niche. The opening is a 1291-anchored Venetian-modern workshop.",
+        "competitorLandscape": "Venini (venini.com) plays the Murano peer. Salviati (salviati.com) holds the Venetian middle. Esque Studio (esque-studio.com) is the modern reference. We sit as a 1291-anchored modern brand.",
+        "positioningStatement": "Vetro 1291 is a modern hand-blown glass brand anchored on the founding year of the Murano workshops.",
+        "targetAudience": {
+          "primary": "Heritage-leaning modern buyers 30-55.",
+          "behaviors": [
+            "Care about the founding date",
+            "Buy at design stores",
+            "Collect across a season"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Italianate",
+          "Heritage-anchored",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference the 1291 founding",
+            "Print the date plainly",
+            "Show the studio"
+          ],
+          "donts": [
+            "Claim Murano if not blown there",
+            "Photograph against marble",
+            "Use 'luxury' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: VETRO 1291 in a modern grotesk, two-line stack. A small mark — the year as the only motif — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Vetro Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Glass page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lagoon",
+            "hex": "#2E4A55",
+            "meaning": "Venetian water.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for date labels",
+          "rationale": "A quiet grotesk plus a mono — the date-anchored modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Punty & Pontil",
+        "tagline": "Hand-blown glass on the iron.",
+        "brandNameRationale": "Anchor: punty/pontil — the iron rod that holds the blown vessel after it leaves the blowpipe. Picked from A's three for the strongest trade-tool heritage anchor.",
+        "industrySummary": "Hand-blown studio glass sits between gallery work and functional homeware. Trade-named studios (Simon Pearce, Riedel-adjacent shops) leave room for a tool-named heritage anchor.",
+        "competitorLandscape": "Simon Pearce (simonpearce.com) plays the American studio-glass peer. Venini (venini.com) holds the Murano heritage middle. Esque Studio (esque-studio.com) is the trade-named reference. We sit alongside Simon Pearce with a sharper tool-name frame.",
+        "positioningStatement": "Punty & Pontil is a hand-blown studio-glass workshop named for the iron that holds every vessel.",
+        "targetAudience": {
+          "primary": "Design-store buyers and collectors 30-55 buying hand-blown vessels.",
+          "behaviors": [
+            "Buy at design stores and studios",
+            "Care about the maker's mark",
+            "Collect across a season"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade-honest",
+          "Warm",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the gaffer who blew the piece",
+            "Show the iron in studio",
+            "Print the punty mark"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the maker"
+          ]
+        },
+        "logoDirection": "Wordmark: PUNTY & PONTIL in a confident trade serif, one line. A small mark — a hand-drawn punty rod silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Furnace Iron",
+            "hex": "#2A2622",
+            "meaning": "Cooled iron rod.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Glass Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Lampworked white.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Furnace Amber",
+            "hex": "#C8853A",
+            "meaning": "Molten glow.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Söhne for body and studio cards",
+          "rationale": "A classical serif plus a clean grotesk — the trade-studio register."
+        }
+      },
+      {
+        "brandName": "Cristallo Works",
+        "tagline": "Clear glass in the Venetian tradition.",
+        "brandNameRationale": "Anchor: cristallo — the clear Venetian glass invented on Murano, a generic Italian term. Picked from A's three for the strongest tradition anchor without TM risk (rejecting Littleton Row as a surname proxy).",
+        "industrySummary": "Venetian-tradition clear glass sits in a real heritage niche. The opening is a cristallo-anchored workshop with a working register.",
+        "competitorLandscape": "Venini (venini.com) plays the Murano heritage peer. Salviati (salviati.com) holds the Venetian middle. Simon Pearce (simonpearce.com) is the American reference. We sit alongside Venini with a cristallo frame.",
+        "positioningStatement": "Cristallo Works is a hand-blown workshop in the Venetian clear-glass tradition.",
+        "targetAudience": {
+          "primary": "Collectors and homeware buyers 35-60 who value Venetian tradition.",
+          "behaviors": [
+            "Buy at heritage retailers",
+            "Care about cristallo lineage",
+            "Collect across vessels"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Italianate",
+          "Warm",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference cristallo lineage",
+            "Show the studio floor",
+            "Print the maker's name"
+          ],
+          "donts": [
+            "Claim Murano if not blown there",
+            "Photograph against marble",
+            "Use 'luxury' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: CRISTALLO WORKS in a classical serif, two lines. A small mark — a goblet silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cristallo Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Clear-glass page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lagoon",
+            "hex": "#2E4A55",
+            "meaning": "Venetian water.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and provenance cards",
+          "rationale": "A high-contrast serif plus a reading serif — the Venetian-heritage register."
+        }
+      },
+      {
+        "brandName": "The Gather Shop",
+        "tagline": "From molten gather to finished vessel.",
+        "brandNameRationale": "Anchor: the molten 'gather' on the blowpipe — the first step of every blown vessel; 'shop' lands the trade register. Counter-proposal third heritage option (rejecting Littleton Row as a surname proxy that risks confusion with the Littleton family). Strong trade-action anchor.",
+        "industrySummary": "Trade-action heritage glass studios sit cleanly between gallery work and functional ware. The opening is a gather-anchored trade shop.",
+        "competitorLandscape": "Simon Pearce (simonpearce.com) plays the American studio peer. Esque Studio (esque-studio.com) holds the trade-shop middle. Pretentious Glass (pretentiousglass.com) is the trade-action reference. We sit as a gather-anchored shop.",
+        "positioningStatement": "The Gather Shop is a hand-blown studio-glass workshop named for the first molten step of every vessel.",
+        "targetAudience": {
+          "primary": "Studio-glass buyers and gift-shop buyers 30-55.",
+          "behaviors": [
+            "Visit the studio open day",
+            "Care about the trade-step story",
+            "Buy gifts at the studio"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Trade-honest",
+          "Warm",
+          "Working"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the gather on the pipe",
+            "Name the gaffer",
+            "Print the vessel's edition number"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the studio"
+          ]
+        },
+        "logoDirection": "Wordmark: THE GATHER SHOP in a trade serif, three lines centered. A small mark — a molten-blob silhouette on a pipe — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Studio Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Studio page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gather Amber",
+            "hex": "#C8853A",
+            "meaning": "Molten glass glow.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Iron",
+            "hex": "#2A2622",
+            "meaning": "Pipe iron.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and studio cards",
+          "rationale": "A reading serif plus a clean grotesk — the trade-shop register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Borosilicate Studio",
+        "tagline": "Scientific-grade glass.",
+        "brandNameRationale": "Anchor: borosilicate — the high-temperature scientific glass (the Pyrex chemistry). Picked from A's three for the strongest material-precision anchor.",
+        "industrySummary": "Borosilicate studios serve the scientific-ware, coffee-brewer, and high-heat market. The opening is a material-named precision workshop.",
+        "competitorLandscape": "Hario (hario.com) plays the borosilicate peer in coffeeware. Kinto (kinto.co.jp) holds the precision middle. Esque Studio (esque-studio.com) is the studio reference. We sit as a borosilicate-named precision brand.",
+        "positioningStatement": "Borosilicate Studio is a precision hand-blown brand using scientific-grade borosilicate glass.",
+        "targetAudience": {
+          "primary": "Coffee-brewer buyers, lab-ware buyers, and precision-design buyers 28-50.",
+          "behaviors": [
+            "Care about thermal shock",
+            "Buy at design and specialty stores",
+            "Read the COE spec"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Material-honest",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the COE",
+            "Name the thermal range",
+            "Show the lab register"
+          ],
+          "donts": [
+            "Claim hand-blown when slumped",
+            "Photograph against marble",
+            "Hide the chemistry"
+          ]
+        },
+        "logoDirection": "Wordmark: BOROSILICATE STUDIO in a precise modern grotesk, two lines. A small mark — a beaker silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Lab Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Lab page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bunsen Blue",
+            "hex": "#2E5A8A",
+            "meaning": "Bunsen flame.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for COE and thermal specs",
+          "rationale": "A modern grotesk plus a mono — the lab-precision register."
+        }
+      },
+      {
+        "brandName": "Marver & Jacks",
+        "tagline": "The steel table and the shaping tongs.",
+        "brandNameRationale": "Anchor: marver (the steel table where glass is rolled and shaped) + jacks (the shaping tongs). Picked from A's three for the strongest tool-paired precision anchor.",
+        "industrySummary": "Tool-named precision glass studios sit cleanly in the trade-precision niche. The opening is a marver/jacks-paired tool workshop.",
+        "competitorLandscape": "Simon Pearce (simonpearce.com) plays the studio-tool peer. Esque Studio (esque-studio.com) holds the trade middle. Pretentious Glass (pretentiousglass.com) is the trade reference. We sit as a tool-paired precision brand.",
+        "positioningStatement": "Marver & Jacks is a precision hand-blown studio named for the steel table and the shaping tongs.",
+        "targetAudience": {
+          "primary": "Precision-design buyers 30-55 and trade collectors.",
+          "behaviors": [
+            "Care about the tools",
+            "Buy at studio days",
+            "Read the maker's process"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Trade-honest",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the tools on the label",
+            "Show the marver and jacks",
+            "Print the maker"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the studio"
+          ]
+        },
+        "logoDirection": "Wordmark: MARVER & JACKS in a precise modern grotesk, one line. A small mark — a crossed-tongs silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Marver steel.",
+            "usage": "Body"
+          },
+          {
+            "name": "Studio Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Studio page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Furnace Amber",
+            "hex": "#C8853A",
+            "meaning": "Molten glow.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for tool labels",
+          "rationale": "One family, two registers — the tool-precision register."
+        }
+      },
+      {
+        "brandName": "Coefficient 96",
+        "tagline": "The COE that makes glass compatible.",
+        "brandNameRationale": "Anchor: COE 96 — the coefficient of expansion that determines which glasses can be fused together (the System 96 family). Picked from A's three for the strongest deep-technical anchor.",
+        "industrySummary": "Insider-technical glass brands sit in the fusing, lampwork, and bead market. The opening is a COE-anchored precision workshop.",
+        "competitorLandscape": "Bullseye Glass (bullseyeglass.com) plays the COE peer. Esque Studio (esque-studio.com) holds the precision middle. Simon Pearce (simonpearce.com) is the studio reference. We sit as a COE-anchored deep-technical brand.",
+        "positioningStatement": "Coefficient 96 is a precision hand-blown brand named for the COE that makes glass compatible.",
+        "targetAudience": {
+          "primary": "Fuser, lampworker, and precision-collector 30-55.",
+          "behaviors": [
+            "Care about COE compatibility",
+            "Buy at specialty supply",
+            "Read technical specs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Insider-honest",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the COE on every piece",
+            "Name the compatibility system",
+            "Show the kiln"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the COE"
+          ]
+        },
+        "logoDirection": "Wordmark: COEFFICIENT 96 in a precise modern grotesk, two lines. A small mark — the number 96 as the only motif — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Kiln Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Kiln page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Compatibility Blue",
+            "hex": "#2E5A8A",
+            "meaning": "Spec blue.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for COE and spec labels",
+          "rationale": "A modern grotesk plus a mono — the COE-precision register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Breath of Cane",
+        "tagline": "A blower's breath, a color rod.",
+        "brandNameRationale": "Anchor: the breath into the blowpipe + cane (color-rod tradition for stripes and twists). Picked from A's three for the strongest poetic anchor.",
+        "industrySummary": "Poetic-trade glass brands sit in the editorial and gallery niche. The opening is a breath/cane-paired evocative workshop.",
+        "competitorLandscape": "Venini (venini.com) plays the cane peer. Esque Studio (esque-studio.com) holds the editorial middle. Simon Pearce (simonpearce.com) is the studio reference. We sit as a breath-cane evocative brand.",
+        "positioningStatement": "Breath of Cane is a hand-blown brand named for the blower's breath and the color cane.",
+        "targetAudience": {
+          "primary": "Gallery and editorial buyers 30-55.",
+          "behaviors": [
+            "Read the maker's statement",
+            "Buy at gallery shows",
+            "Care about color cane"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Poetic",
+          "Trade-warm",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the breath story",
+            "Name the cane color",
+            "Print the maker's hand"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: BREATH OF CANE in a confident editorial serif, two lines centered. A small mark — a color-cane stripe motif — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Breath Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Breath page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cane Red",
+            "hex": "#A8492E",
+            "meaning": "Color cane.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and maker statements",
+          "rationale": "A high-contrast serif plus a reading serif — the evocative-gallery register."
+        }
+      },
+      {
+        "brandName": "Molten Light",
+        "tagline": "The glow on the pipe.",
+        "brandNameRationale": "Anchor: the molten glow of the gather. Picked from A's three for the strongest pure-poetic anchor.",
+        "industrySummary": "Pure-poetic glass brands sit in the lighting, vessel, and gallery niche. The opening is a glow-named evocative workshop.",
+        "competitorLandscape": "Esque Studio (esque-studio.com) plays the editorial peer. Simon Pearce (simonpearce.com) holds the studio middle. Niche Modern (nichemodern.com) is the lighting reference. We sit as a glow-named evocative brand.",
+        "positioningStatement": "Molten Light is a hand-blown vessel and lighting brand named for the glow of the gather.",
+        "targetAudience": {
+          "primary": "Lighting and vessel buyers 30-55 in design stores.",
+          "behaviors": [
+            "Buy lighting for living rooms",
+            "Care about the glow",
+            "Read the maker's statement"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Poetic",
+          "Warm",
+          "Editorial"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the glow on the pipe",
+            "Lead with the light story",
+            "Name the maker"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: MOLTEN LIGHT in a confident editorial serif, two lines centered. A small mark — a glowing-gather silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Molten Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Light page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Glow Amber",
+            "hex": "#C8853A",
+            "meaning": "Molten glow.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and maker statements",
+          "rationale": "A reading serif pair — the evocative-light register."
+        }
+      },
+      {
+        "brandName": "Lampwork & Lattice",
+        "tagline": "Torch flame and threaded glass.",
+        "brandNameRationale": "Anchor: lampworking (torch-based glass) + latticino (Venetian threadwork). Picked from A's three for the strongest paired-evocative anchor.",
+        "industrySummary": "Paired-technique evocative brands sit in the gallery and gift niche. The opening is a lampwork/lattice-paired editorial workshop.",
+        "competitorLandscape": "Venini (venini.com) plays the latticino peer. Esque Studio (esque-studio.com) holds the editorial middle. Pretentious Glass (pretentiousglass.com) is the lampwork reference. We sit as a paired-technique evocative brand.",
+        "positioningStatement": "Lampwork & Lattice is a hand-blown brand pairing torch lampwork with Venetian threadwork.",
+        "targetAudience": {
+          "primary": "Editorial collectors and gallery buyers 30-55.",
+          "behaviors": [
+            "Read maker statements",
+            "Buy at gallery shows",
+            "Care about the technique pairing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Editorial",
+          "Technique-warm",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the technique pairing",
+            "Name the maker",
+            "Print the technique on the seal"
+          ],
+          "donts": [
+            "Use 'luxury' as a category",
+            "Photograph against marble",
+            "Hide the technique"
+          ]
+        },
+        "logoDirection": "Wordmark: LAMPWORK & LATTICE in a confident editorial serif, one line. A small mark — a torch-flame and thread motif — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Lattice Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Threadwork page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Torch Amber",
+            "hex": "#C8853A",
+            "meaning": "Torch flame.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and maker statements",
+          "rationale": "A high-contrast serif plus a reading serif — the technique-evocative register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Gather & Gaffer",
+        "tagline": "The molten blob and the lead blower.",
+        "brandNameRationale": "Anchor: the molten 'gather' plus 'gaffer' (the lead glassblower). Alliterative trade pairing. Picked from A's three for the strongest playful-trade anchor.",
+        "industrySummary": "Playful trade-paired glass studios sit cleanly in the gift-shop and studio-tour market. The opening is a gather/gaffer-paired workshop with a warm voice.",
+        "competitorLandscape": "Esque Studio (esque-studio.com) plays the playful peer. Pretentious Glass (pretentiousglass.com) holds the trade-playful middle. Simon Pearce (simonpearce.com) is the American studio reference. We sit as an alliterative trade-paired brand.",
+        "positioningStatement": "Gather & Gaffer is a hand-blown studio-glass brand named for the molten gather and the lead blower.",
+        "targetAudience": {
+          "primary": "Gift buyers and studio-tour visitors 28-55.",
+          "behaviors": [
+            "Visit on studio days",
+            "Buy gifts at the studio",
+            "Care about the maker story"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Trade-warm",
+          "Storytelling",
+          "Working"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the gaffer on the piece",
+            "Show the gather in action",
+            "Tell the trade story warmly"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Use 'luxury' as a category",
+            "Hide the maker"
+          ]
+        },
+        "logoDirection": "Wordmark: GATHER & GAFFER in a friendly trade serif, one line. A small mark — a hand-drawn gather-on-pipe silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Studio Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Studio page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gather Amber",
+            "hex": "#C8853A",
+            "meaning": "Molten glow.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Iron",
+            "hex": "#2A2622",
+            "meaning": "Pipe iron.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and studio cards",
+          "rationale": "A reading serif plus a clean grotesk — the playful-trade register."
+        }
+      },
+      {
+        "brandName": "Hot Bubble Co.",
+        "tagline": "First puff. Best puff.",
+        "brandNameRationale": "Anchor: the first inflation of the parison — the 'hot bubble' on the pipe. Picked from A's three for the strongest action-playful anchor.",
+        "industrySummary": "Action-named playful glass studios sit in the gift-shop and design-store market. The opening is a hot-bubble action-named workshop.",
+        "competitorLandscape": "Esque Studio (esque-studio.com) plays the playful peer. Pretentious Glass (pretentiousglass.com) holds the action-playful middle. Simon Pearce (simonpearce.com) is the studio reference. We sit as an action-named playful brand.",
+        "positioningStatement": "Hot Bubble Co. is a hand-blown studio brand named for the first inflation on the pipe.",
+        "targetAudience": {
+          "primary": "Gift-shop buyers and studio-tour visitors 25-45.",
+          "behaviors": [
+            "Visit on open days",
+            "Buy as gifts",
+            "Care about the action shot"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Action-warm",
+          "Working",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the first puff",
+            "Tell the trade-action story",
+            "Name the maker"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Use 'luxury' as a category",
+            "Hide the action"
+          ]
+        },
+        "logoDirection": "Wordmark: HOT BUBBLE CO. in a friendly modern grotesk, two lines. A small mark — a single bubble silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Bubble Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Bubble page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hot Amber",
+            "hex": "#C8853A",
+            "meaning": "First glow.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "One family — the playful-action register."
+        }
+      },
+      {
+        "brandName": "Latticino & Lamp",
+        "tagline": "Venetian threadwork meets lampwork.",
+        "brandNameRationale": "Anchor: latticino (Venetian threadwork tradition) + lampwork (the torch-based glass technique). Counter-proposal third playful option (rejecting Puffin Glass — bird names risk class 21 conflicts and 'Puffin' is a Penguin Random House imprint). Alliterative trade-paired anchor with strong heritage.",
+        "industrySummary": "Technique-paired playful glass brands sit in a quiet niche. The opening is a latticino/lamp-paired workshop.",
+        "competitorLandscape": "Esque Studio (esque-studio.com) plays the technique peer. Pretentious Glass (pretentiousglass.com) holds the playful middle. Venini (venini.com) is the latticino reference. We sit as a technique-paired playful brand.",
+        "positioningStatement": "Latticino & Lamp is a hand-blown brand pairing Venetian threadwork with torch-based lampwork.",
+        "targetAudience": {
+          "primary": "Collectors and gift buyers 30-55.",
+          "behaviors": [
+            "Care about the technique",
+            "Buy at studio days",
+            "Read maker statements"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Technique-honest",
+          "Warm",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the technique on the label",
+            "Show the torch and the pipe",
+            "Print the maker's name"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Hide the technique",
+            "Use 'luxury' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: LATTICINO & LAMP in a friendly trade serif, one line. A small mark — a threadwork stripe motif — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Lattice Cream",
+            "hex": "#F2ECDA",
+            "meaning": "Threadwork page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cane Red",
+            "hex": "#A8492E",
+            "meaning": "Venetian color cane.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and technique cards",
+          "rationale": "A reading serif plus a clean grotesk — the technique-playful register."
+        }
+      }
+    ]
+  }
+}

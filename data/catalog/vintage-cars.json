@@ -1,0 +1,915 @@
+{
+  "industry": "vintage-cars",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Patina Holdings",
+        "tagline": "Preserve the original surface.",
+        "brandNameRationale": "Anchor: patina — the prized original surface (vs. over-restoration). Single-word modern anchor. Picked from A's three for the strongest debate-anchored modern frame.",
+        "industrySummary": "Preservation-leaning restoration is a real and growing camp (vs. concours-perfect restoration). The opening is a patina-anchored modern shop.",
+        "competitorLandscape": "ICON 4x4 (icon4x4.com) plays the preservation-modern peer. Singer Vehicle Design holds the modern-restoration middle (TM — referenced only as market peer). Paul Russell & Company (paulrussell.com) is the heritage reference. We sit as a patina-led modern brand.",
+        "positioningStatement": "Patina Holdings is a modern vintage-car shop preserving original surfaces over over-restoration.",
+        "targetAudience": {
+          "primary": "Collectors 35-60 valuing originality and patina.",
+          "behaviors": [
+            "Buy preservation-class cars",
+            "Show at FuelFed and similar events",
+            "Care about untouched surfaces"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Preservation-honest",
+          "Considered",
+          "Quietly confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the original surface",
+            "Print the preservation notes",
+            "Name what was kept"
+          ],
+          "donts": [
+            "Repaint without disclosing",
+            "Photograph against marble",
+            "Use 'restored' loosely"
+          ]
+        },
+        "logoDirection": "Wordmark: PATINA HOLDINGS in a modern grotesk, two lines. A small mark — a patinated steel swatch — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Patina Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Aged paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Aged Brass",
+            "hex": "#A38454",
+            "meaning": "Aged brass.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for preservation notes",
+          "rationale": "A quiet grotesk plus a mono — the preservation-modern register."
+        }
+      },
+      {
+        "brandName": "Numbers Match",
+        "tagline": "Provenance, modern.",
+        "brandNameRationale": "Anchor: matching-numbers — flipped from the trade phrase, abstract and brandable. Picked from A's three for the strongest modern-flip anchor.",
+        "industrySummary": "Modern-flip provenance shops sit in a quiet space. The opening is a numbers-match-flipped modern brand.",
+        "competitorLandscape": "ICON 4x4 (icon4x4.com) plays the modern-resto peer. Paul Russell & Company (paulrussell.com) holds the provenance middle. Canepa (canepa.com) is the show-quality reference. We sit as a flipped-trade modern brand.",
+        "positioningStatement": "Numbers Match is a modern vintage-car shop named for the provenance standard, modernized.",
+        "targetAudience": {
+          "primary": "Collectors 35-60 valuing documented provenance.",
+          "behaviors": [
+            "Verify numbers before purchase",
+            "Care about build sheet",
+            "Read documented restorations"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Forensic",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the build sheet",
+            "Photograph the stampings",
+            "Document every part"
+          ],
+          "donts": [
+            "Hide replaced parts",
+            "Photograph against marble",
+            "Use 'restored' loosely"
+          ]
+        },
+        "logoDirection": "Wordmark: NUMBERS MATCH in a modern grotesk, two lines. A small mark — a serial-number motif — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Build-Sheet Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Build sheet.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stamp Steel",
+            "hex": "#3A4047",
+            "meaning": "Stamped steel.",
+            "usage": "Body"
+          },
+          {
+            "name": "Hot Amber",
+            "hex": "#C8853A",
+            "meaning": "Stamped accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for serial numbers",
+          "rationale": "A modern grotesk plus a mono — the provenance-modern register."
+        }
+      },
+      {
+        "brandName": "Vinco Auto",
+        "tagline": "Invented heritage, modern build.",
+        "brandNameRationale": "Anchor: invented from Latin 'vinco' (I conquer) + auto. Clean two-word modern. Picked from A's three for the strongest invented-modern anchor.",
+        "industrySummary": "Invented-name modern restoration shops sit between heritage and resto-modification. The opening is a Latin-coined modern brand.",
+        "competitorLandscape": "ICON 4x4 (icon4x4.com) plays the modern-resto peer. Mechatronik (mechatronik.de) holds the resto-mod middle. Paul Russell & Company (paulrussell.com) is the heritage reference. We sit as an invented-Latin modern brand.",
+        "positioningStatement": "Vinco Auto is a modern vintage-car restoration brand with an invented Latin name and a modern register.",
+        "targetAudience": {
+          "primary": "Collectors 35-55 commissioning modern restorations.",
+          "behaviors": [
+            "Commission resto-modifications",
+            "Care about modern systems in vintage shells",
+            "Read shop logs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Considered",
+          "Direct",
+          "Quietly confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Document the modernization",
+            "Print the shop log",
+            "Photograph the bay"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Discount the work",
+            "Hide the modernization"
+          ]
+        },
+        "logoDirection": "Wordmark: VINCO AUTO in a modern grotesk, one line. A small mark — a clean V monogram — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Shop Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Shop paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Vinco Red",
+            "hex": "#9A1F1F",
+            "meaning": "Latin-red accent.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for shop-log data",
+          "rationale": "A modern grotesk plus a mono — the invented-Latin modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Carrozzeria Lane",
+        "tagline": "Italian coachbuilding for restored cars.",
+        "brandNameRationale": "Anchor: carrozzeria — Italian for coachbuilder, the tradition of Pininfarina, Zagato, Bertone. Generic Italian trade word. Picked from A's three for the strongest coachbuilding heritage anchor.",
+        "industrySummary": "High-end vintage car restoration is a heritage trade competing with boutique shops worldwide. The opening is a coachbuilding-anchored restoration shop with a working Italian register.",
+        "competitorLandscape": "Pininfarina (pininfarina.it) plays the Italian coachbuilding peer. RM Sotheby's restoration partners hold the market middle. Paul Russell & Company (paulrussell.com) is the American restoration reference. We sit as a coachbuilding-named restoration shop.",
+        "positioningStatement": "Carrozzeria Lane is a vintage-car restoration shop in the Italian coachbuilding tradition.",
+        "targetAudience": {
+          "primary": "Collectors 40-70 restoring vintage Italian and European cars.",
+          "behaviors": [
+            "Commission multi-year restorations",
+            "Show at Pebble Beach and Villa d'Este",
+            "Care about coachbuilder lineage"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Italianate",
+          "Trade-honest",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the coachbuilder lineage",
+            "Photograph the shop floor",
+            "Print the restoration log"
+          ],
+          "donts": [
+            "Discount the work",
+            "Hide the hours",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: CARROZZERIA LANE in a classical serif, two lines. A small mark — a coachbuilder's hammer silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Officina Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Shop paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Italian Racing Red",
+            "hex": "#9A1F1F",
+            "meaning": "Rosso Corsa.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and restoration logs",
+          "rationale": "A classical serif plus a reading serif — the Italian-coachbuilder register."
+        }
+      },
+      {
+        "brandName": "Concours Garage",
+        "tagline": "Show-quality restoration.",
+        "brandNameRationale": "Anchor: concours d'élégance — the show-quality restoration standard. Generic French/English term. Picked from A's three for the strongest show-standard anchor.",
+        "industrySummary": "Concours-grade restoration is a small high-end niche. The opening is a show-quality-anchored garage with a working register.",
+        "competitorLandscape": "Paul Russell & Company (paulrussell.com) plays the concours peer. Canepa (canepa.com) holds the show-quality middle. RM Auto Restoration (rmautorestoration.com) is the reference. We sit as a show-quality-named restoration garage.",
+        "positioningStatement": "Concours Garage is a vintage-car restoration shop building show-quality cars to concours standard.",
+        "targetAudience": {
+          "primary": "Collectors 45-75 showing at Pebble Beach, Amelia, Villa d'Este.",
+          "behaviors": [
+            "Show at concours events",
+            "Commission to-the-bolt restorations",
+            "Care about period-correct details"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Show-quality",
+          "Trade-honest",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the restoration log",
+            "Name the show entries",
+            "Photograph the bay"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Discount the work",
+            "Hide the hours"
+          ]
+        },
+        "logoDirection": "Wordmark: CONCOURS GARAGE in a classical serif, one line. A small mark — a concours rosette silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Bay Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Shop paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "British Racing Green",
+            "hex": "#1A3A2A",
+            "meaning": "BRG.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and concours logs",
+          "rationale": "A high-contrast serif plus a reading serif — the concours register."
+        }
+      },
+      {
+        "brandName": "Matching Numbers Co.",
+        "tagline": "Original engine. Original chassis. Original body.",
+        "brandNameRationale": "Anchor: matching numbers — the collector's holy grail of provenance (engine, chassis, body all original to the car). Picked from A's three for the strongest provenance anchor.",
+        "industrySummary": "Provenance-led restoration is the heart of the vintage-car trade. The opening is a matching-numbers-anchored shop with a forensic register.",
+        "competitorLandscape": "Paul Russell & Company (paulrussell.com) plays the provenance peer. Canepa (canepa.com) holds the show-quality middle. Gooding & Company (goodingco.com) is the auction reference. We sit as a matching-numbers-named restoration shop.",
+        "positioningStatement": "Matching Numbers Co. is a vintage-car restoration shop named for the holy grail of provenance.",
+        "targetAudience": {
+          "primary": "Collectors 45-75 valuing matching-numbers provenance.",
+          "behaviors": [
+            "Verify numbers before purchase",
+            "Commission documented restorations",
+            "Care about the build sheet"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Forensic",
+          "Trade-honest",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the stampings",
+            "Print the build sheet",
+            "Document every part"
+          ],
+          "donts": [
+            "Hide replaced parts",
+            "Photograph against marble",
+            "Discount the work"
+          ]
+        },
+        "logoDirection": "Wordmark: MATCHING NUMBERS CO. in a classical serif, two lines. A small mark — a stamped serial-number silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Build-Sheet Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Build sheet.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stamp Steel",
+            "hex": "#3A4047",
+            "meaning": "Stamped steel.",
+            "usage": "Body"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Plaque brass.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Söhne Mono for serial numbers and build-sheet data",
+          "rationale": "A classical serif plus a mono — the provenance-forensic register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Torque Spec",
+        "tagline": "To the manufacturer's number.",
+        "brandNameRationale": "Anchor: torque spec — the manufacturer-exact tightening value used in factory-correct restoration. Picked from A's three for the strongest precision-shop anchor.",
+        "industrySummary": "Factory-spec restoration is a precision niche. The opening is a torque-spec-anchored precision shop.",
+        "competitorLandscape": "Paul Russell & Company (paulrussell.com) plays the precision peer. Canepa (canepa.com) holds the show-quality middle. Mechatronik (mechatronik.de) is the precision reference. We sit as a torque-spec-named precision shop.",
+        "positioningStatement": "Torque Spec is a precision vintage-car shop building to the manufacturer's number.",
+        "targetAudience": {
+          "primary": "Concours collectors 40-70 valuing factory-correct restoration.",
+          "behaviors": [
+            "Verify torque specs",
+            "Care about period-correct fasteners",
+            "Commission documented work"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Trade-honest",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the torque spec",
+            "Name the fastener spec",
+            "Photograph the workshop"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Discount the work",
+            "Hide the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: TORQUE SPEC in a precise modern grotesk, one line. A small mark — a torque-wrench silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Shop Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Shop page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Spec Steel",
+            "hex": "#3A4047",
+            "meaning": "Stamped steel.",
+            "usage": "Body"
+          },
+          {
+            "name": "Spec Amber",
+            "hex": "#C8853A",
+            "meaning": "Caution amber.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for torque values",
+          "rationale": "A modern grotesk plus a mono — the spec-precision register."
+        }
+      },
+      {
+        "brandName": "Shim & Spec",
+        "tagline": "Restoration micro-adjustments.",
+        "brandNameRationale": "Anchor: shim (the thin restoration micro-adjustment) + spec (factory specification). Picked from A's three for the strongest alliterative-precision anchor.",
+        "industrySummary": "Micro-adjustment restoration is a precision niche. The opening is a shim/spec-paired precision shop.",
+        "competitorLandscape": "Paul Russell & Company (paulrussell.com) plays the precision peer. Canepa (canepa.com) holds the show-quality middle. Mechatronik (mechatronik.de) is the precision reference. We sit as a paired-precision shop.",
+        "positioningStatement": "Shim & Spec is a precision vintage-car shop named for the micro-adjustments of restoration.",
+        "targetAudience": {
+          "primary": "Concours collectors 40-70 valuing factory-correct fitment.",
+          "behaviors": [
+            "Care about panel gap",
+            "Verify shim stacks",
+            "Commission documented work"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Precision",
+          "Trade-honest",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the panel-gap spec",
+            "Photograph the shim",
+            "Document the spec"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Discount the work",
+            "Hide the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: SHIM & SPEC in a precise modern grotesk, one line. A small mark — a stacked-shim silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Shim Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Spec page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Steel",
+            "hex": "#3A4047",
+            "meaning": "Shim steel.",
+            "usage": "Body"
+          },
+          {
+            "name": "Spec Amber",
+            "hex": "#C8853A",
+            "meaning": "Caution amber.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for spec values",
+          "rationale": "One family, two registers — the spec-precision register."
+        }
+      },
+      {
+        "brandName": "Tolerance Auto",
+        "tagline": "Engineering gap, modern register.",
+        "brandNameRationale": "Anchor: tolerance — the engineering gap between parts that determines fit. Picked from A's three for the strongest modern-technical anchor.",
+        "industrySummary": "Modern-technical restoration sits between concours and resto-mod. The opening is a tolerance-anchored modern-technical brand.",
+        "competitorLandscape": "ICON 4x4 (icon4x4.com) plays the modern-resto peer. Mechatronik (mechatronik.de) holds the precision middle. Singer Vehicle Design holds the modern-resto reference (TM — peer reference only). We sit as a tolerance-named modern-technical brand.",
+        "positioningStatement": "Tolerance Auto is a modern-technical vintage-car shop named for the engineering gap between parts.",
+        "targetAudience": {
+          "primary": "Modern collectors 35-60 commissioning precision restorations.",
+          "behaviors": [
+            "Care about panel gap",
+            "Read the shop log",
+            "Commission documented work"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Modern",
+          "Precision",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the tolerance spec",
+            "Photograph the bay",
+            "Document the work"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Discount the work",
+            "Hide the spec"
+          ]
+        },
+        "logoDirection": "Wordmark: TOLERANCE AUTO in a precise modern grotesk, one line. A small mark — a caliper silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Spec Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Spec page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Caliper Steel",
+            "hex": "#3A4047",
+            "meaning": "Caliper.",
+            "usage": "Body"
+          },
+          {
+            "name": "Spec Amber",
+            "hex": "#C8853A",
+            "meaning": "Caution amber.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for tolerance values",
+          "rationale": "A modern grotesk plus a mono — the tolerance-precision register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Long Hood Co.",
+        "tagline": "The pre-war silhouette.",
+        "brandNameRationale": "Anchor: long-hood — the evocative pre-war/early-911/E-Type silhouette. Generic descriptor with strong poetry. Picked from A's three for the strongest evocative-silhouette anchor (rejecting 'The Mille' over Mille Miglia TM proximity and 'Sunbeam Garage' over revived-marque risk).",
+        "industrySummary": "Silhouette-evocative restoration brands sit in the editorial and collector niche. The opening is a long-hood-named evocative shop.",
+        "competitorLandscape": "Petrolicious (petrolicious.com) plays the editorial peer. Paul Russell & Company (paulrussell.com) holds the restoration middle. RM Sotheby's (rmsothebys.com) is the auction reference. We sit as a silhouette-named evocative brand.",
+        "positioningStatement": "Long Hood Co. is a vintage-car restoration brand named for the pre-war silhouette tradition.",
+        "targetAudience": {
+          "primary": "Collectors 40-70 valuing pre-war and early-postwar silhouettes.",
+          "behaviors": [
+            "Read editorial features",
+            "Show at concours events",
+            "Care about the silhouette"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Heritage",
+          "Editorial",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the silhouette",
+            "Tell the era story",
+            "Name the model lineage"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Use 'luxury' as a category",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: LONG HOOD CO. in a confident editorial serif, two lines. A small mark — a long-hood silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pre-war Bronze",
+            "hex": "#7A5A3A",
+            "meaning": "Pre-war chrome patina.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and editorial",
+          "rationale": "A high-contrast serif plus a reading serif — the editorial-silhouette register."
+        }
+      },
+      {
+        "brandName": "The Open Road",
+        "tagline": "Vintage cars and the road they were made for.",
+        "brandNameRationale": "Counter-proposal first evocative option (rejecting 'The Mille' over Mille Miglia TM proximity). Anchor: the open-road tradition of pre-war and grand-tourer motoring. Generic poetic phrase, low TM risk.",
+        "industrySummary": "Open-road editorial brands sit in the editorial and gear market. The opening is an open-road-anchored evocative brand.",
+        "competitorLandscape": "Petrolicious (petrolicious.com) plays the editorial peer. Road & Track (roadandtrack.com) holds the editorial middle. Goodwood (goodwood.com) is the events reference. We sit as an open-road evocative brand.",
+        "positioningStatement": "The Open Road is a vintage-car editorial and gear brand built on the grand-tourer tradition.",
+        "targetAudience": {
+          "primary": "Enthusiast owners 35-65 driving their vintage cars long distances.",
+          "behaviors": [
+            "Plan long-distance drives",
+            "Read editorial features",
+            "Attend rallies"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Editorial",
+          "Warm",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the open road",
+            "Tell the drive story",
+            "Name the rally"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Use 'luxury' as a category",
+            "Skip the drive"
+          ]
+        },
+        "logoDirection": "Wordmark: THE OPEN ROAD in a confident editorial serif, three lines centered. A small mark — a horizon-line silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Road Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Road page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Horizon Blue",
+            "hex": "#2E4A55",
+            "meaning": "Horizon line.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and drive editorial",
+          "rationale": "A reading-serif pair — the open-road register."
+        }
+      },
+      {
+        "brandName": "Coachwork Stories",
+        "tagline": "Every car has a body builder.",
+        "brandNameRationale": "Counter-proposal third evocative option (rejecting 'Sunbeam Garage' over revived-marque risk). Anchor: coachwork — the bespoke body-building tradition (Mulliner, Saoutchik, Figoni & Falaschi). Generic trade word with strong evocative pull.",
+        "industrySummary": "Coachwork-editorial brands sit in the gallery and collector niche. The opening is a coachwork-anchored editorial brand.",
+        "competitorLandscape": "Petrolicious (petrolicious.com) plays the editorial peer. Pininfarina (pininfarina.it) holds the coachwork middle. RM Sotheby's (rmsothebys.com) is the auction reference. We sit as a coachwork-editorial evocative brand.",
+        "positioningStatement": "Coachwork Stories is a vintage-car editorial brand built on the bespoke body-building tradition.",
+        "targetAudience": {
+          "primary": "Collectors 45-75 valuing coachwork lineage.",
+          "behaviors": [
+            "Read coachwork features",
+            "Show at concours events",
+            "Care about coachbuilder lineage"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Evocative",
+          "Heritage",
+          "Editorial",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the coachbuilder",
+            "Photograph the body lines",
+            "Tell the lineage story"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Use 'luxury' as a category",
+            "Skip the lineage"
+          ]
+        },
+        "logoDirection": "Wordmark: COACHWORK STORIES in a confident editorial serif, two lines. A small mark — a coachbuilder's pen-and-rule silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Coach Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Coach paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Coach Bronze",
+            "hex": "#7A5A3A",
+            "meaning": "Coach trim.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and lineage stories",
+          "rationale": "A high-contrast serif plus a reading serif — the coachwork register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Garage Sunday",
+        "tagline": "The weekend wrench tradition.",
+        "brandNameRationale": "Anchor: the weekend-garage ritual. Picked from A's three for the strongest weekend-warm anchor.",
+        "industrySummary": "Weekend-garage-culture brands sit in the enthusiast and clubcar market. The opening is a Garage Sunday weekend-anchored brand.",
+        "competitorLandscape": "Petrolicious (petrolicious.com) plays the enthusiast-editorial peer. The Drive Tastefully scene holds the middle. ICON 4x4 (icon4x4.com) is the modern-resto reference. We sit as a weekend-garage warm brand.",
+        "positioningStatement": "Garage Sunday is a vintage-car shop and editorial brand built on the weekend-garage tradition.",
+        "targetAudience": {
+          "primary": "Enthusiast owners 30-55 spending weekends in the garage.",
+          "behaviors": [
+            "Wrench on weekends",
+            "Read enthusiast editorial",
+            "Attend cars-and-coffee"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Warm",
+          "Enthusiast",
+          "Storytelling"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the Sunday garage",
+            "Tell the weekend story",
+            "Name the tools"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Use 'luxury' as a category",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: GARAGE SUNDAY in a friendly modern grotesk, two lines. A small mark — a roll-up door silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Garage Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Shop page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Door Red",
+            "hex": "#9A1F1F",
+            "meaning": "Garage door.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "One family — the weekend-garage warm register."
+        }
+      },
+      {
+        "brandName": "Chrome & Tonic",
+        "tagline": "Cars and the after-hours cocktail.",
+        "brandNameRationale": "Anchor: chrome trim + the gin-and-tonic. Picked from A's three for the strongest cheeky cars-and-leisure anchor.",
+        "industrySummary": "Cars-and-leisure editorial brands sit in the enthusiast and lifestyle market. The opening is a Chrome & Tonic cheeky leisure brand.",
+        "competitorLandscape": "Petrolicious (petrolicious.com) plays the editorial peer. Road & Track (roadandtrack.com) holds the editorial middle. ICON 4x4 (icon4x4.com) is the modern-resto reference. We sit as a cars-and-leisure cheeky brand.",
+        "positioningStatement": "Chrome & Tonic is a vintage-car editorial and gear brand built on the cars-and-leisure tradition.",
+        "targetAudience": {
+          "primary": "Enthusiast owners 30-55 with a leisure register.",
+          "behaviors": [
+            "Drive on Sunday afternoons",
+            "Pair cars with cocktails at cars-and-coffee",
+            "Read enthusiast editorial"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Cheeky",
+          "Leisure",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the chrome",
+            "Pair the car with the drink",
+            "Tell the leisure story"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Use 'luxury' as a category",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: CHROME & TONIC in a friendly modern serif, one line. A small mark — a chrome trim and lime motif — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Tonic Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Tonic page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Chrome Steel",
+            "hex": "#C0C4C8",
+            "meaning": "Bumper chrome.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Lime",
+            "hex": "#8AA84A",
+            "meaning": "Lime wedge.",
+            "usage": "Secondary accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and editorial",
+          "rationale": "A reading serif plus a clean grotesk — the cars-and-leisure register."
+        }
+      },
+      {
+        "brandName": "Barn Find Bureau",
+        "tagline": "Forgotten cars, found again.",
+        "brandNameRationale": "Anchor: barn find — the romance of discovering a forgotten car in a barn. Picked from A's three for the strongest discovery-romance anchor.",
+        "industrySummary": "Barn-find romance is a real niche in the vintage market. The opening is a barn-find-anchored finder and editorial brand.",
+        "competitorLandscape": "Bring a Trailer (bringatrailer.com) plays the auction peer. Petrolicious (petrolicious.com) holds the editorial middle. RM Sotheby's (rmsothebys.com) is the auction reference. We sit as a barn-find-romance brand.",
+        "positioningStatement": "Barn Find Bureau is a vintage-car finder and editorial brand built on the discovery tradition.",
+        "targetAudience": {
+          "primary": "Enthusiast collectors 35-65 valuing discovery and untouched cars.",
+          "behaviors": [
+            "Follow auction listings",
+            "Travel to view finds",
+            "Read discovery stories"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Storytelling",
+          "Discovery",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the find story",
+            "Photograph the dust",
+            "Name the owner history"
+          ],
+          "donts": [
+            "Photograph against marble",
+            "Hide the condition",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: BARN FIND BUREAU in a friendly trade serif, three lines. A small mark — a barn-door silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Barn Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Barn page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Barn Red",
+            "hex": "#9A2A1F",
+            "meaning": "Barn paint.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141417",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and discovery stories",
+          "rationale": "A reading serif plus a clean grotesk — the discovery-warm register."
+        }
+      }
+    ]
+  }
+}
