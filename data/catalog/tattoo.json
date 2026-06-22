@@ -1,0 +1,307 @@
+{
+  "industry": "tattoo",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Bowery Needle",
+        "tagline": "American traditional, brought forward.",
+        "brandNameRationale": "Named for the Bowery in Lower Manhattan \u2014 the original American tattoo street, where Charlie Wagner (a student of Samuel O'Reilly, patentee of the electric tattoo machine in 1891) ran his shop into the 1950s. The Bowery is where the electric machine matured into American traditional. We name the studio after the street where the craft was modernized.",
+        "industrySummary": "Modern tattoo studios are crowded with fine-line and neo-traditional shops trading on Instagram-first aesthetics. There is room for a studio whose identity is rooted in the actual lineage of the American electric machine and bold-line traditional, brought into a clean contemporary identity.",
+        "competitorLandscape": "Bang Bang NYC (bangbangnyc.com) holds the modern celebrity-tattoo slot. Daredevil Tattoo (daredeviltattoo.com) is the lower-east-side heritage peer. Fleur Noire (fleurnoiretattoo.com) sets the modern Brooklyn bar. We sit closer to Daredevil, modernized in identity.",
+        "positioningStatement": "A modern East Coast tattoo studio rooted in American traditional lineage.",
+        "targetAudience": {
+          "primary": "25 to 45. Has two or three tattoos already. Books a year in advance. Comes in with a tight reference, not a Pinterest board.",
+          "behaviors": [
+            "Books by artist, not by walk-in",
+            "Tips 25 percent",
+            "Returns for a back piece"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Bold",
+          "Modern",
+          "Rooted"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the artist, the style, the lineage",
+            "Publish the flash, dated and numbered",
+            "Talk about line weight"
+          ],
+          "donts": [
+            "Photograph fresh tattoos with a flash",
+            "Run a Black Friday sale",
+            "Use the word ink-spiration"
+          ]
+        },
+        "logoDirection": "A wordmark with a hallmark. Bowery Needle set in a clean modern grotesk, paired with a small horizontal needle-and-tube silhouette as the hallmark. The needle alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Bowery Black",
+            "hex": "#101013",
+            "meaning": "Tattoo black, the foundation pigment.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Flash Red",
+            "hex": "#C8262C",
+            "meaning": "American traditional red \u2014 the second color of the trade.",
+            "usage": "Accent, flash sheet borders"
+          },
+          {
+            "name": "Studio Cream",
+            "hex": "#EFE9DA",
+            "meaning": "Aged flash-sheet paper.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and signage",
+          "secondary": "GT America Mono for appointment cards and aftercare instructions",
+          "rationale": "The grotesk reads modern. The mono carries the studio's operational information."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Horimono House",
+        "tagline": "The bodysuit, by appointment.",
+        "brandNameRationale": "Named for horimono \u2014 the Japanese term for traditional irezumi bodywork, executed by a horishi (a tattoo master). Horimono House positions the studio as a high-end appointment-only practice specializing in full-body composition, the most patient and most expensive form of tattooing. Horimono is a craft term, not a trademark.",
+        "industrySummary": "Luxury tattooing is a tiny segment dominated by private studios that work only by referral. The opportunity is a brand that codifies that practice \u2014 a calm, slow, appointment-only studio with a clear specialty (the bodysuit) and a quiet identity.",
+        "competitorLandscape": "Three Tides Tattoo (threetides.jp) holds the Japanese irezumi reference. Horiyoshi III's studio (horiyoshi3.com) is the master horishi peer. Diamond Jacks (diamondjacks.london) sets a different luxury-private precedent. We sit closer to Three Tides, in a Western luxury frame.",
+        "positioningStatement": "A by-appointment luxury studio specializing in full-body irezumi composition.",
+        "targetAudience": {
+          "primary": "35 to 65. Commits to a multi-year piece. Travels for sittings. Already has a half-sleeve from another shop. Reads about composition, not flash.",
+          "behaviors": [
+            "Sits for four-hour sessions",
+            "Pays for consultation in advance",
+            "Wears the bodysuit under tailoring"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Patient",
+          "Refined",
+          "Heritage",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in the language of composition",
+            "Document the piece in stages, with dates",
+            "Name the artist and the apprentice lineage"
+          ],
+          "donts": [
+            "Use the word ink",
+            "Run a walk-in day",
+            "Photograph fresh work"
+          ]
+        },
+        "logoDirection": "A wordmark with a hanko. Horimono House set in a high-contrast serif, paired with a small square hanko-style seal in red as the studio's mark. The seal alone is used on stationery and consultation cards.",
+        "colorPalette": [
+          {
+            "name": "Sumi Black",
+            "hex": "#0C0C0E",
+            "meaning": "Sumi ink, the foundation of bodysuit linework.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Hanko Red",
+            "hex": "#A8262A",
+            "meaning": "Cinnabar seal ink.",
+            "usage": "Seal, accents"
+          },
+          {
+            "name": "Tatami Cream",
+            "hex": "#E8DFC5",
+            "meaning": "Tatami mat.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and consultation documents",
+          "secondary": "S\u00f6hne for body copy and aftercare",
+          "rationale": "Canela carries the heritage. S\u00f6hne carries the operational text."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Single Needle",
+        "tagline": "One needle. One line.",
+        "brandNameRationale": "Named for the single-needle technique \u2014 the use of a single-bore needle (rather than a grouped configuration) to produce ultra-fine line work. The technique was born in 1970s Chicano Los Angeles prison tattooing and has been adopted by the modern fine-line movement worldwide. A one-word minimal brand for a one-needle practice.",
+        "industrySummary": "Fine-line tattooing is the fastest-growing studio category, but most fine-line shops trade on a generic minimal aesthetic. There is room for a studio that owns the technical term itself \u2014 single-needle \u2014 as its name and whose entire practice is built around that single tool.",
+        "competitorLandscape": "Dr. Woo (drwoo.com) holds the celebrity fine-line slot. JonBoy (jonboytattoo.com) is the minimal-script peer. Mr. K Tattoo (mrk_tats on Instagram) sets the single-needle precedent. We sit alongside Mr. K, codified as a studio brand.",
+        "positioningStatement": "A minimalist fine-line studio practicing single-needle tattooing only.",
+        "targetAudience": {
+          "primary": "22 to 40. First or second tattoo. Wants something small and exact. Reads the artist's portfolio carefully.",
+          "behaviors": [
+            "Books by portfolio, not by shop",
+            "Brings a single reference image",
+            "Returns for a second piece in the same hand"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Precise",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the line, not the studio",
+            "Speak in millimeters",
+            "Photograph healed, not fresh"
+          ],
+          "donts": [
+            "Run a flash day",
+            "Use the word vibe",
+            "Photograph color work"
+          ]
+        },
+        "logoDirection": "A wordmark. SINGLE NEEDLE set in a tight modern grotesk, with a single hairline beneath the type that runs exactly the width of the wordmark. The hairline alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Needle Black",
+            "hex": "#0E0E10",
+            "meaning": "The line itself.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Skin Cream",
+            "hex": "#F2EAD8",
+            "meaning": "Healed skin.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark",
+          "secondary": "S\u00f6hne Mono for appointment cards",
+          "rationale": "One typeface family. The mono carries the appointment data, the regular carries the brand."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Meridian Tattoo Co.",
+        "tagline": "Composition, mapped.",
+        "brandNameRationale": "Named for the meridian lines of traditional East Asian body cartography \u2014 the same lines that traditional irezumi compositions follow when wrapping a bodysuit. As a corporate name, Meridian conveys a multi-location practice with a unified compositional language, suitable for franchise and chain studio structures.",
+        "industrySummary": "Multi-location tattoo studios are growing \u2014 celebrity-led chains, airport-pop-up models, and franchise structures. There is room for a corporate-feeling umbrella that supports a multi-city studio identity without losing the craft.",
+        "competitorLandscape": "Studio City Tattoo (studiocitytattoo.com) holds the multi-location LA peer slot. Hart and Huntington (hartandhuntingtontattoo.com) is the franchise-chain precedent. Inkbox (inkbox.com) sits adjacent in the corporate-tattoo-brand space. We sit closer to Studio City, with a sharper multi-location framework.",
+        "positioningStatement": "A corporate-feeling studio chain identity for multi-city tattoo practices.",
+        "targetAudience": {
+          "primary": "Studio operators, multi-location practice managers, and franchise partners. Buys into a system, not a shop.",
+          "behaviors": [
+            "Runs three to ten studios",
+            "Standardizes aftercare and pricing",
+            "Trains apprentices in a single curriculum"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Professional",
+          "Systematic",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the apprenticeship curriculum",
+            "Standardize aftercare across locations",
+            "Quote pricing in tiers"
+          ],
+          "donts": [
+            "Run a celebrity collab",
+            "Use the word vibe",
+            "Photograph wild flash"
+          ]
+        },
+        "logoDirection": "A wordmark with a hallmark. Meridian Tattoo Co. set in a clean grotesk, paired with a simple meridian-line cartographic mark \u2014 a single arc with two terminals. The mark works at small scales on signage and aftercare boxes.",
+        "colorPalette": [
+          {
+            "name": "Meridian Navy",
+            "hex": "#1B2A44",
+            "meaning": "Compass-rose navy.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Chart Cream",
+            "hex": "#EFE7D2",
+            "meaning": "Old map paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#101013",
+            "meaning": "Tattoo black.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "Aktiv Grotesk for the wordmark and signage",
+          "secondary": "Aktiv Grotesk for body and aftercare",
+          "rationale": "One typeface family across all studio locations. Reads professional on a storefront and clean on a consent form."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Flash Sheet Press",
+        "tagline": "New flash, every month.",
+        "brandNameRationale": "Named for the flash sheet \u2014 the printed wall of standardized tattoo designs codified by Lew Alberts in the early 1900s. Flash sheets are the form's original publishing format. Flash Sheet Press positions the studio as a half-imprint, half-shop that publishes new flash monthly as a printed object.",
+        "industrySummary": "Tattoo flash is a craft tradition that most modern studios have abandoned in favor of custom-only practices. There is creative space for a studio that revives flash as a monthly publishing rhythm \u2014 flash you can tattoo, and flash you can buy as a print.",
+        "competitorLandscape": "Smith Street Tattoo (smithstreettattoo.com) holds the traditional-flash slot. Saved Tattoo (savedtattoo.com) is the artist-led peer. Sang Bleu (sangbleu.com) sets the print-imprint-meets-studio precedent. We sit between Smith Street and Sang Bleu.",
+        "positioningStatement": "A creative tattoo studio publishing a new flash sheet every month.",
+        "targetAudience": {
+          "primary": "22 to 40. Loves traditional and neo-traditional flash. Comes in on a flash day, picks from the sheet. Also buys the print.",
+          "behaviors": [
+            "Collects flash prints",
+            "Books a flash day in advance",
+            "Returns monthly for the new sheet"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Creative",
+          "Prolific",
+          "Lo-fi",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the new sheet on the first of the month",
+            "Number and date every print",
+            "Name the artist on each sheet"
+          ],
+          "donts": [
+            "Photograph in studio with a fashion lens",
+            "Run a sale",
+            "Use the word ink-spiration"
+          ]
+        },
+        "logoDirection": "A wordmark with a flash-sheet border. Flash Sheet Press set in a 1920s-style tattoo lettering revival, framed by a thin ornamental border that mirrors the old flash-sheet print format.",
+        "colorPalette": [
+          {
+            "name": "Flash Cream",
+            "hex": "#EFE2C2",
+            "meaning": "Aged flash-sheet paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Traditional Red",
+            "hex": "#C72A2C",
+            "meaning": "American traditional red.",
+            "usage": "Accent, flash sheet ink"
+          },
+          {
+            "name": "Outline Black",
+            "hex": "#101013",
+            "meaning": "Bold-line outline.",
+            "usage": "Wordmark, type"
+          }
+        ],
+        "typography": {
+          "primary": "A revival of 1920s American traditional lettering for the wordmark",
+          "secondary": "GT America Mono for date stamps and flash numbering",
+          "rationale": "The revival lettering carries the press's heritage. The mono carries the monthly publishing rhythm."
+        }
+      }
+    ]
+  }
+}

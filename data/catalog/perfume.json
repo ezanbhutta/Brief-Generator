@@ -1,0 +1,313 @@
+{
+  "industry": "perfume",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Iso E Atelier",
+        "tagline": "One molecule. Composed.",
+        "brandNameRationale": "Named for Iso E Super \u2014 the synthetic woody-amber molecule developed by IFF in 1973 \u2014 that defined minimalist molecule-forward perfumery, most famously in Escentric Molecules' Molecule 01 (2006). Iso E is a generic material name, not a trademark. The Atelier framing positions the brand as a single-perfumer house working with single materials.",
+        "industrySummary": "Modern niche perfumery is crowded with story-led brands trading on travel and memory. There is room for a molecule-forward house that treats single materials as the entire composition \u2014 a perfumery that does for fragrance what single-origin coffee did for beans.",
+        "competitorLandscape": "Escentric Molecules (escentric.com) holds the molecule-forward slot. Fr\u00e9d\u00e9ric Malle (fredericmalle.com) is the perfumer-led peer. Le Labo (lelabofragrances.com) sets the modern-niche precedent. We sit closer to Escentric, sharper on single-material composition.",
+        "positioningStatement": "A modern niche perfumery built on single-material compositions.",
+        "targetAudience": {
+          "primary": "28 to 45. Owns five perfumes, not fifty. Reads Persolaise. Knows the difference between an absolute and a concrete.",
+          "behaviors": [
+            "Buys 30ml bottles, decants the rest",
+            "Reads the pyramid before the bottle copy",
+            "Wears one fragrance per season"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Specific",
+          "Quiet",
+          "Material"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the molecule on the bottle",
+            "Print the percentage in the formula",
+            "Speak in the language of olfactive material"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Photograph the bottle against silk",
+            "Tell a journey story"
+          ]
+        },
+        "logoDirection": "A wordmark. Iso E Atelier set in a tight modern grotesk, with the molecule formula (a small structural diagram) used as the hallmark beside the wordmark. The diagram alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Lab Glass",
+            "hex": "#E8E6DE",
+            "meaning": "Clear lab glassware.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Iso Amber",
+            "hex": "#A87A3C",
+            "meaning": "Iso E Super's warm woody-amber character.",
+            "usage": "Accent, label print"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#0E0E10",
+            "meaning": "Lab print.",
+            "usage": "Wordmark, type"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for formulas and concentrations",
+          "rationale": "The mono carries the formula data. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The 1889 Hour",
+        "tagline": "The year the modern perfume began.",
+        "brandNameRationale": "Named for 1889 \u2014 the year Aim\u00e9 Guerlain composed Jicky, often cited as the first modern perfume because it was the first to combine synthetic molecules (vanillin and coumarin) with naturals. The 1889 Hour references the watershed year without trading on any active mark (Guerlain remains an actively defended brand and is avoided). A luxury imprint anchored in the year the form was reinvented.",
+        "industrySummary": "Luxury perfumery is dominated by century-old houses (Guerlain, Caron, Houbigant, Lubin) and modern luxury collectors (Maison Francis Kurkdjian, Roja Parfums). The opportunity is a luxury imprint that takes a single year \u2014 the year the form was reinvented \u2014 as its entire editorial frame, releasing one fragrance annually that references a landmark composition of that era.",
+        "competitorLandscape": "Roja Parfums (rojaparfums.com) holds the luxury-collector slot. Maison Francis Kurkdjian (franciskurkdjian.com) is the modern-luxury peer. By Kilian (bykilian.com) sets the luxury-niche precedent. We sit alongside Roja, sharper on the historical-anchor framing.",
+        "positioningStatement": "A luxury imprint releasing one fragrance a year, each anchored in the 1889 era of modern perfumery.",
+        "targetAudience": {
+          "primary": "40 to 65. Owns vintage Guerlains. Reads Octavian Coifan. Buys 100ml bottles and keeps them in a cellar.",
+          "behaviors": [
+            "Buys one annual release at full price",
+            "Reads the perfumer's notes before the marketing",
+            "Keeps a fragrance journal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Patient",
+          "Refined",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the year, the perfumer, the synthetic",
+            "Publish the perfumer's formula notes",
+            "Print the release year on the bottle"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Run a holiday sale",
+            "Release more than one fragrance a year"
+          ]
+        },
+        "logoDirection": "A serifed wordmark. The 1889 Hour set in a high-contrast classical serif, with the year 1889 set larger than the rest, used as the hallmark on every bottle. Foiled in gold on the cap.",
+        "colorPalette": [
+          {
+            "name": "Bottle Amber",
+            "hex": "#7A4F1C",
+            "meaning": "Vintage perfume bottle glass.",
+            "usage": "Bottle, label print"
+          },
+          {
+            "name": "Archive Cream",
+            "hex": "#EFE6CE",
+            "meaning": "Archival paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Gold Foil",
+            "hex": "#B0892C",
+            "meaning": "Cap and seal foil.",
+            "usage": "Foil, hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and bottle labels",
+          "secondary": "GT America Mono for batch numbers and release year",
+          "rationale": "Canela carries the imprint's archival stance. The mono carries the production data."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Sillage",
+        "tagline": "What the room remembers.",
+        "brandNameRationale": "Named for sillage \u2014 the French perfumery term for the trail a fragrance leaves behind in a room or on a passerby. A one-word minimal brand whose entire promise is about how the scent moves through space. Sillage is a craft term, not a trademark.",
+        "industrySummary": "Minimal perfumery is well-served by Le Labo's typographic identity and a handful of one-word niche brands. There is still room for a one-word brand whose entire frame is sillage \u2014 the trail \u2014 rather than the bottle, the pyramid, or the story.",
+        "competitorLandscape": "Le Labo (lelabofragrances.com) holds the typographic-minimal slot. Byredo (byredo.com) is the design-minimal peer. D.S. & Durga (dsanddurga.com) sets the niche-minimal precedent. We sit below all three on visual noise.",
+        "positioningStatement": "A minimal fragrance brand whose whole frame is the trail a scent leaves.",
+        "targetAudience": {
+          "primary": "28 to 45. Wears one fragrance a season. Decants for travel. Reads Now Smell This.",
+          "behaviors": [
+            "Tests on skin, not on paper",
+            "Decants 5ml for travel",
+            "Notes the sillage in a journal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Quiet",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Describe the trail, not the top notes",
+            "Print the sillage rating on the label",
+            "Say nothing the bottle doesn't say"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Photograph the bottle against silk",
+            "Tell a journey story"
+          ]
+        },
+        "logoDirection": "A wordmark. SILLAGE set in a tight modern grotesk, with a single thin trailing line beneath the type that tapers off to the right, suggesting a scent trail. The trail alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Air",
+            "hex": "#F2EEE5",
+            "meaning": "Empty air.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Trail Gray",
+            "hex": "#9A9590",
+            "meaning": "The fading trail.",
+            "usage": "Accents, secondary type"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#0E0E10",
+            "meaning": "Wordmark.",
+            "usage": "Wordmark, primary"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark",
+          "secondary": "S\u00f6hne Mono for sillage rating and concentration",
+          "rationale": "One typeface family. The mono carries the technical data, the regular carries the brand."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Olfactive Standard",
+        "tagline": "Organized by family.",
+        "brandNameRationale": "Named for the olfactive family classification system (floral, oriental, woody, chypre, foug\u00e8re) used by the Soci\u00e9t\u00e9 Fran\u00e7aise des Parfumeurs since 1984. As a corporate name, Olfactive Standard positions the house as catalog-organized \u2014 suits both retail and B2B private-label work. The olfactive-family taxonomy is industry-standard, not proprietary.",
+        "industrySummary": "Corporate fragrance houses (Givaudan, Firmenich, IFF, Symrise) supply the industry's compounding work but rarely brand themselves consumer-facing. There is room for a corporate-feeling fragrance house with a catalog organized strictly by olfactive family \u2014 readable to both retail buyers and B2B private-label clients.",
+        "competitorLandscape": "Givaudan (givaudan.com) holds the B2B-compounding slot. Mane (mane.com) is the family-led B2B peer. Diptyque (diptyqueparis.com) sets the catalog-retail precedent. We sit between Diptyque and Mane.",
+        "positioningStatement": "A corporate fragrance house whose catalog is organized strictly by olfactive family.",
+        "targetAudience": {
+          "primary": "Retail buyers, hospitality fragrance buyers, private-label clients. Buys by olfactive family and concentration.",
+          "behaviors": [
+            "Orders by olfactive family",
+            "Negotiates batch sizes",
+            "Manages multi-SKU catalogs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Professional",
+          "Systematic",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the olfactive family on every product",
+            "Quote concentrations by EDP/EDT/parfum",
+            "Speak to buyers, not consumers"
+          ],
+          "donts": [
+            "Tell a journey story",
+            "Use the word luxury",
+            "Photograph against silk"
+          ]
+        },
+        "logoDirection": "A wordmark with a family-key hallmark. Olfactive Standard set in a clean grotesk, paired with a five-segment family-key icon (one segment per olfactive family). The key alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Catalog Navy",
+            "hex": "#1B2A44",
+            "meaning": "Industry-catalog navy.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Spec Cream",
+            "hex": "#EFE7D2",
+            "meaning": "Spec sheet paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#0E0E10",
+            "meaning": "Body print.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "Aktiv Grotesk for the wordmark and headers",
+          "secondary": "Aktiv Grotesk for body and catalog",
+          "rationale": "One typeface family. Reads professional on a sell sheet and clean on a catalog page."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Oud Caravan",
+        "tagline": "Resin. Route. Bottle.",
+        "brandNameRationale": "Named for the historic oud trade \u2014 agarwood resin harvested in Southeast Asia and traded along the Arabian incense routes for over a thousand years. Oud Caravan positions the brand as a creative oud-forward niche imprint with a clear narrative of region, route, and material. Oud is a generic material name, not a trademark.",
+        "industrySummary": "Oud-forward niche perfumery is a crowded but real segment \u2014 Amouage, Mancera, Ajmal, By Kilian's oud lines. There is creative room for an imprint that takes the trade route itself as its editorial frame, releasing fragrances tied to specific origin regions (Assam, Borneo, Cambodia, Laos).",
+        "competitorLandscape": "Amouage (amouage.com) holds the heritage-oud slot. Mancera (mancera.com) is the contemporary-oud peer. Xerjoff (xerjoff.com) sets the luxury-oud precedent. We sit alongside Amouage, sharper on the route-and-origin framing.",
+        "positioningStatement": "A creative oud-forward imprint organized by origin region and trade route.",
+        "targetAudience": {
+          "primary": "30 to 60. Loves oud. Owns three or four oud-forward bottles. Reads about agarwood grading.",
+          "behaviors": [
+            "Buys by region of origin",
+            "Reads the grade and the country",
+            "Wears oud in winter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Creative",
+          "Specific",
+          "Rooted",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the region, the harvest, the grade",
+            "Print the trade route on the back of every bottle",
+            "Speak to the oud reader"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Blend oud with synthetic ambers",
+            "Sell a unisex story"
+          ]
+        },
+        "logoDirection": "A wordmark with a route line. Oud Caravan lettered in a contemporary serifed italic, with a small hand-drawn caravan-route line beneath that traces the historic incense route from Southeast Asia to Arabia. The route alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Resin Brown",
+            "hex": "#5A3818",
+            "meaning": "Aged agarwood resin.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Sand",
+            "hex": "#E5D3AC",
+            "meaning": "Desert route.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Ember Gold",
+            "hex": "#A8782C",
+            "meaning": "Burning oud chip.",
+            "usage": "Accent, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Canela Italic for the wordmark",
+          "secondary": "GT America Mono for region, grade, and harvest year",
+          "rationale": "The serif italic carries the imprint voice. The mono carries the origin data."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "industry": "plant-shop",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Wardian Co.",
+        "tagline": "The case that traveled the world.",
+        "brandNameRationale": "Named for the Wardian case \u2014 the sealed glass terrarium invented by Nathaniel Bagshaw Ward in 1829, which made it possible to transport live plants across oceans without losing them to salt spray. The Wardian case enabled the global houseplant trade, including the Victorian tea industry. We name the shop after the object that made indoor plants a global category. The Wardian case is a public-domain object, not a trademark.",
+        "industrySummary": "Modern plant shops are crowded with Instagram-first retailers selling the same fiddle-leaf figs and monsteras. There is room for a modern plant brand whose identity is rooted in the actual history of how indoor plants traveled \u2014 and whose product range includes glass terrariums and rare imports.",
+        "competitorLandscape": "The Sill (thesill.com) holds the modern-DTC slot. Pistils Nursery (pistilsnursery.com) is the considered-modern peer. Greenery Unlimited (greeneryunlimited.co) sets the design-led precedent. We sit closer to Pistils, sharper on the Wardian-case anchor.",
+        "positioningStatement": "A modern plant shop built around the history of the portable greenhouse.",
+        "targetAudience": {
+          "primary": "28 to 45. Owns thirty houseplants. Reads House Plant Hobbyist. Knows the difference between epiphyte and hemiepiphyte.",
+          "behaviors": [
+            "Buys terrariums and rare imports",
+            "Reads the care card",
+            "Repots seasonally"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Botanical",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the species, the origin, the care",
+            "Print the genus and species on the tag",
+            "Speak in the language of the grower"
+          ],
+          "donts": [
+            "Use the word vibe",
+            "Photograph plants against linen",
+            "Sell faux greenery"
+          ]
+        },
+        "logoDirection": "A wordmark with a Wardian-case hallmark. Wardian Co. set in a tight modern grotesk, paired with a small line-drawing of a Wardian case as the brand's hallmark. The case alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Leaf Green",
+            "hex": "#3C5A3C",
+            "meaning": "Healthy foliage.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Greenhouse Glass",
+            "hex": "#E4ECE2",
+            "meaning": "Wardian case glass.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Soil",
+            "hex": "#5C3E22",
+            "meaning": "Potting substrate.",
+            "usage": "Accents, secondary"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and signage",
+          "secondary": "GT America Mono for genus, species, and care data",
+          "rationale": "The mono carries the botanical specification. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Banks Botanical",
+        "tagline": "Specimens, from the explorer's archive.",
+        "brandNameRationale": "Named for Sir Joseph Banks, the botanist on Cook's first Endeavour voyage (1768\u20131771), whose Pacific specimen collections seeded the Royal Botanic Gardens at Kew and helped found the global botanical archive. Banks is a historical figure long out of estate (died 1820); his name is in the public domain and has been used by multiple natural-history institutions for centuries. We name the shop after the botanist whose specimens defined the field.",
+        "industrySummary": "Luxury plant retail is a small but durable segment \u2014 rare aroids, variegated monsteras, and conservatory-grade specimens. There is room for a luxury plant brand with an explorer-archive aesthetic, modeled on the 18th-century botanist's archive rather than the modern hipster plant shop.",
+        "competitorLandscape": "Pistils Nursery (pistilsnursery.com) holds the considered-luxury slot. Steve's Leaves (stevesleaves.com) is the rare-specimen peer. Logee's Greenhouses (logees.com) sets the heritage-specimen precedent. We sit above all three in retail framing.",
+        "positioningStatement": "A luxury rare-plants house with an 18th-century explorer-archive identity.",
+        "targetAudience": {
+          "primary": "40 to 65. Owns a heated conservatory or a south-facing room. Buys a single specimen for $400 and waits a year for it.",
+          "behaviors": [
+            "Pre-orders rare aroids",
+            "Pays for white-glove delivery",
+            "Keeps a specimen journal"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Refined",
+          "Botanical",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the explorer, the voyage, the herbarium",
+            "Print the botanical Latin on every tag",
+            "Issue a hand-bound care guide with every specimen"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Run a Black Friday sale",
+            "Photograph plants on white seamless"
+          ]
+        },
+        "logoDirection": "A serif wordmark with a hand-drawn specimen hallmark. Banks Botanical set in a high-contrast classical serif, paired with a single hand-illustrated leaf specimen as the mark, foiled in copper on every tag.",
+        "colorPalette": [
+          {
+            "name": "Herbarium Cream",
+            "hex": "#EFE6CE",
+            "meaning": "Pressed-specimen paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Specimen Green",
+            "hex": "#3A5A40",
+            "meaning": "Pressed leaf.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Copper",
+            "hex": "#A86A2E",
+            "meaning": "Foiled tag and stationery.",
+            "usage": "Foil, hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and signage",
+          "secondary": "GT America Mono for botanical Latin and care data",
+          "rationale": "Canela carries the archive stance. The mono carries the botanical specification."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Foliage",
+        "tagline": "Green leaves, nothing else.",
+        "brandNameRationale": "Named for foliage \u2014 the trade term for non-flowering ornamental leaves, the category that drives most houseplant retail. A one-word minimal brand whose entire range is green-leaf plants. Foliage is a generic trade term, not a trademark.",
+        "industrySummary": "Minimal plant shops can compete by claiming a single category as their entire range. A one-word brand named after the foliage category itself \u2014 green leaves only, no flowering plants \u2014 has no peer.",
+        "competitorLandscape": "The Sill (thesill.com) holds the modern-DTC slot. Greenery NYC (greenerynyc.com) is the considered-minimal peer. Leon & George (leonandgeorge.com) sets the design-minimal precedent. We sit below all three on visual noise.",
+        "positioningStatement": "A minimal plant shop selling only foliage plants.",
+        "targetAudience": {
+          "primary": "25 to 40. Lives in a one-bedroom. Owns five plants. Wants more, but not flowering ones.",
+          "behaviors": [
+            "Buys one plant a season",
+            "Reads the care card",
+            "Repots in a single pot color"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Quiet",
+          "Botanical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Sell only foliage plants",
+            "Use one pot color",
+            "Say nothing the care card doesn't say"
+          ],
+          "donts": [
+            "Sell faux greenery",
+            "Use the word vibe",
+            "Photograph plants against linen"
+          ]
+        },
+        "logoDirection": "A wordmark. FOLIAGE set in a tight modern grotesk, with a single leaf silhouette as the hallmark. The leaf alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Leaf Green",
+            "hex": "#3D5A3C",
+            "meaning": "Healthy foliage.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Paper White",
+            "hex": "#F4F1E8",
+            "meaning": "Care card.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark",
+          "secondary": "S\u00f6hne Mono for genus, species, and care data",
+          "rationale": "One typeface family. The mono carries the care data, the regular carries the brand."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Botanical Supply Co.",
+        "tagline": "Plants, at scale.",
+        "brandNameRationale": "Named for the 19th-century botanical-supply trade pioneered by James Veitch & Sons and other Victorian nursery firms, which supplied estate gardens, conservatories, and the early commercial plant trade. As a corporate name, Botanical Supply Co. positions the brand as a B2B-friendly umbrella for wholesale, interior plantscaping, and multi-location retail.",
+        "industrySummary": "The B2B side of the plant industry \u2014 interior plantscaping for offices, hospitality, and retail \u2014 is fragmented and dominated by regional installers. There is room for a corporate-feeling umbrella that serves wholesale, plantscape installation, and retail garden centers under one identity.",
+        "competitorLandscape": "Ambius (ambius.com) holds the global plantscape slot. Plantscape Inc. (plantscape.com) is the regional installer peer. Costa Farms (costafarms.com) sets the wholesale-grower precedent. We sit between Ambius and Costa Farms.",
+        "positioningStatement": "A corporate-feeling umbrella for plant wholesale, plantscape installation, and retail.",
+        "targetAudience": {
+          "primary": "Hospitality buyers, office facilities managers, retail garden center procurement. Buys by the truckload.",
+          "behaviors": [
+            "Orders by SKU and pallet",
+            "Manages multi-site installations",
+            "Runs maintenance contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Professional",
+          "Practical",
+          "Botanical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote lead times and pallet quantities",
+            "Publish a wholesale price list",
+            "Speak to buyers, not consumers"
+          ],
+          "donts": [
+            "Run a holiday sale",
+            "Use the word vibe",
+            "Photograph against linen"
+          ]
+        },
+        "logoDirection": "A wordmark with a hallmark. Botanical Supply Co. set in a clean American sans-serif, paired with a simple shield containing a stylized leaf-and-pot silhouette.",
+        "colorPalette": [
+          {
+            "name": "Supply Green",
+            "hex": "#2E4F38",
+            "meaning": "Wholesale nursery green.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Crate Cream",
+            "hex": "#E8DCC2",
+            "meaning": "Shipping crate stencil.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Signal White",
+            "hex": "#FFFFFF",
+            "meaning": "Lane stripe.",
+            "usage": "Reverse on green"
+          }
+        ],
+        "typography": {
+          "primary": "Aktiv Grotesk for the wordmark and headers",
+          "secondary": "Aktiv Grotesk for body and price lists",
+          "rationale": "One typeface family. Reads professional on a purchase order and clean on a shipping crate."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Solander Box",
+        "tagline": "A specimen, every month.",
+        "brandNameRationale": "Named for Daniel Solander \u2014 Banks's botanist on the Endeavour \u2014 and for the 'Solander box,' the archival book-box he invented for storing pressed plant specimens. The Solander box remains the standard archival container in herbaria and museum print rooms today. The shop's monthly subscription delivers a curated specimen in a Solander-style archival case. Solander is a historical figure (died 1782); the term Solander box is in general usage in archival science.",
+        "industrySummary": "Plant subscription boxes are crowded with monthly-flower and monthly-houseplant services. There is creative room for a curated specimen subscription whose presentation references the 18th-century botanical archive \u2014 a single rare plant per month, delivered in an archival case with a hand-printed care guide.",
+        "competitorLandscape": "Bloomscape (bloomscape.com) holds the DTC-houseplant slot. L\u00e9on & George (leonandgeorge.com) is the considered-subscription peer. Hortology (hortology.co.uk) sets the rare-specimen precedent. We sit alongside Hortology, sharper on the archival-case framing.",
+        "positioningStatement": "A creative monthly subscription delivering one curated plant specimen in an archival case.",
+        "targetAudience": {
+          "primary": "30 to 55. Loves rare plants. Reads botanical history. Wants the object as much as the plant.",
+          "behaviors": [
+            "Subscribes for a year",
+            "Keeps the cases as a library",
+            "Reads the care guide cover to cover"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Creative",
+          "Archival",
+          "Botanical",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the species, the explorer, the herbarium",
+            "Hand-print the care guide",
+            "Number every monthly box"
+          ],
+          "donts": [
+            "Photograph against linen",
+            "Run a sale",
+            "Sell faux greenery"
+          ]
+        },
+        "logoDirection": "A serif wordmark with a Solander-box hallmark. Solander Box set in a high-contrast classical serif, paired with a line-drawing of a Solander archival box as the hallmark, foiled in brass.",
+        "colorPalette": [
+          {
+            "name": "Archive Cream",
+            "hex": "#EFE6CE",
+            "meaning": "Archival paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Specimen Green",
+            "hex": "#3A5A40",
+            "meaning": "Pressed leaf.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A67C2C",
+            "meaning": "Foiled archival-box clasp.",
+            "usage": "Foil, hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and care guides",
+          "secondary": "GT America Mono for genus, species, and box numbering",
+          "rationale": "Canela carries the archival stance. The mono carries the botanical and subscription data."
+        }
+      }
+    ]
+  }
+}

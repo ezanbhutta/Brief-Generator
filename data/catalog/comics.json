@@ -1,0 +1,307 @@
+{
+  "industry": "comics",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Gutter Press",
+        "tagline": "Between the panels.",
+        "brandNameRationale": "Named for 'the gutter' \u2014 the white space between comic panels where, as Scott McCloud argued in Understanding Comics (1993), the reader does the work of closure. The gutter is the form's most overlooked element and its most powerful. We name the imprint after the space that makes comics work.",
+        "industrySummary": "Indie comics publishing is crowded with art-led imprints competing on style. There is room for a modern publisher whose entire editorial identity is the formal structure of the medium \u2014 the gutter, the panel, the page turn \u2014 rather than a genre or art movement.",
+        "competitorLandscape": "Drawn & Quarterly (drawnandquarterly.com) holds the considered-modern slot. Fantagraphics (fantagraphics.com) is the art-comics peer. Avery Hill (averyhillpublishing.com) is the modern UK precedent. We sit closer to Avery Hill, sharper on formal identity.",
+        "positioningStatement": "A modern indie publisher built around the formal structure of comics.",
+        "targetAudience": {
+          "primary": "25 to 45. Reads graphic novels, not floppies. Owns the McCloud trilogy. Follows three indie creators on Substack.",
+          "behaviors": [
+            "Buys hardcovers, not single issues",
+            "Reads the colophon",
+            "Subscribes to creator newsletters"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Formal",
+          "Modern",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk about pacing and page turns",
+            "Name the colorist and the letterer",
+            "Print the colophon on the back"
+          ],
+          "donts": [
+            "Use the word epic",
+            "Photograph creators against brick walls",
+            "Run a variant-cover program"
+          ]
+        },
+        "logoDirection": "A wordmark. Gutter Press set in a tight modern grotesk, with a vertical white bar between the two words that mirrors a panel gutter. The bar alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Panel Black",
+            "hex": "#0E0E10",
+            "meaning": "Inked panel border.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F2EAD8",
+            "meaning": "Comic page stock.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Pull-Quote Blue",
+            "hex": "#1F4FA6",
+            "meaning": "Non-photo blue, the rough-pencil color.",
+            "usage": "Accents, pull quotes"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for credits and colophons",
+          "rationale": "The mono carries the publishing credits. The regular carries the imprint."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Folio & Plate",
+        "tagline": "Oversized. Four-color. Bound.",
+        "brandNameRationale": "Named for the two material objects of luxury comics publishing \u2014 the oversized 'folio' edition (the format used for reissued masterworks since the early album-format tradition) and the four-color printing plate (the CMYK process that gave early comics their dot-matrix look). Folio & Plate positions the imprint as oversized hardback-only, with archival production values. No personal-name or estate-trademark exposure.",
+        "industrySummary": "Luxury comics is a small but durable segment served by oversized artist editions and slipcased reissues from Fantagraphics, IDW (the Artist's Editions line), and Taschen. There is room for a focused luxury imprint that publishes only oversized hardback folio editions of significant works, with production values modeled on fine-art monograph publishing.",
+        "competitorLandscape": "Fantagraphics (fantagraphics.com) holds the art-comics-luxury slot with its Complete Peanuts and EC Archives lines. IDW Artist's Editions (idwpublishing.com) is the oversized peer. Taschen (taschen.com) sets the fine-art monograph precedent. We sit between IDW Artist's Editions and Taschen, narrower than either.",
+        "positioningStatement": "A luxury imprint publishing only oversized hardback folio editions of significant comics works.",
+        "targetAudience": {
+          "primary": "40 to 70. Collects comics as a serious reader. Owns the IDW Artist's Editions shelf. Buys two titles a year and reads them on a stand.",
+          "behaviors": [
+            "Pre-orders by edition number",
+            "Reads with cotton gloves on display copies",
+            "Pays for slipcased archival editions"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Archival",
+          "Refined",
+          "Patient",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the edition size and the press",
+            "Name the printer and the binder",
+            "Publish a colophon for every title"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Run a variant program",
+            "Sell digital editions"
+          ]
+        },
+        "logoDirection": "A serif wordmark with a hallmark. Folio & Plate set in a high-contrast serif, paired with a small rectangle representing a printing plate as the imprint's mark. Foiled in copper on every spine.",
+        "colorPalette": [
+          {
+            "name": "Plate Black",
+            "hex": "#0C0C0E",
+            "meaning": "Inked printing plate.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Folio Cream",
+            "hex": "#EFE6CE",
+            "meaning": "Archival book paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Copper",
+            "hex": "#A86A2E",
+            "meaning": "Foiled spine stamp.",
+            "usage": "Foil, hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and book covers",
+          "secondary": "GT America Mono for colophons and edition numbering",
+          "rationale": "Canela carries the imprint's archival stance. The mono carries the production data."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Panel",
+        "tagline": "One panel at a time.",
+        "brandNameRationale": "Named for the panel \u2014 the single bordered image, the atomic unit of the comics medium. A one-word minimal imprint whose logo is a single black panel and whose entire identity is the medium's smallest formal unit.",
+        "industrySummary": "Minimal indie comics imprints can compete with the noise of the direct market by claiming a single formal idea as their identity. A one-word brand pointing at the medium's atomic unit has no peer.",
+        "competitorLandscape": "Nobrow (nobrow.net) holds the design-minimal slot. Breakdown Press (breakdownpress.com) is the minimal-craft peer. Floating World Comics (floatingworldcomics.com) is the minimal-retail precedent. We sit below all three on visual noise.",
+        "positioningStatement": "A minimal indie imprint named for the medium's atomic unit.",
+        "targetAudience": {
+          "primary": "25 to 45. Reads one graphic novel a month. Buys for the bookshelf. Knows the difference between an inker and a colorist.",
+          "behaviors": [
+            "Buys at independent bookshops",
+            "Reads slowly, one sitting per chapter",
+            "Follows two letterers on Instagram"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Formal",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use one panel as the cover image",
+            "Print the panel count on the spine",
+            "Say nothing the colophon doesn't say"
+          ],
+          "donts": [
+            "Photograph creators",
+            "Run a variant cover",
+            "Use the word epic"
+          ]
+        },
+        "logoDirection": "A wordmark. PANEL set in a tight modern grotesk, with a single black rectangle the height of the type as a counterpart. The rectangle alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Panel Black",
+            "hex": "#0E0E10",
+            "meaning": "The panel.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F2EAD8",
+            "meaning": "Comic page stock.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark",
+          "secondary": "S\u00f6hne Mono for credits and colophons",
+          "rationale": "One typeface family. The mono carries the publishing credits, the regular carries the imprint."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Sequential Arts Group",
+        "tagline": "Publishing the form.",
+        "brandNameRationale": "Named for 'sequential art' \u2014 Will Eisner's preferred academic term for comics, which became the standard term in art-school comics curricula after Comics and Sequential Art (1985). As a corporate name, Sequential Arts Group supports a publishing house, an MFA program partnership, or a distribution arm under a single umbrella.",
+        "industrySummary": "The comics industry's corporate side is dominated by Diamond, Penguin Random House's distribution arm, and the Big Two (Marvel and DC). There is room for a corporate-feeling umbrella that sits between a publisher, a distributor, and a curriculum partner \u2014 particularly for the graphic-novel category as it's adopted by MFA programs and bookstores.",
+        "competitorLandscape": "Penguin Random House Publisher Services (penguinrandomhousepublisherservices.com) holds the distribution-services slot. Lerner Publishing Group (lernerbooks.com) is the educational-publisher peer. Macmillan's First Second imprint (firstsecondbooks.com) sets the graphic-novel precedent. We sit between First Second and Lerner.",
+        "positioningStatement": "A corporate-feeling umbrella for graphic-novel publishing, distribution, and curriculum partnerships.",
+        "targetAudience": {
+          "primary": "Bookstore buyers, MFA program directors, school district librarians. Buys into a catalog and a curriculum.",
+          "behaviors": [
+            "Orders by SKU and term",
+            "Adopts titles into a syllabus",
+            "Manages multi-year catalog plans"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Professional",
+          "Considered",
+          "Institutional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish a season catalog",
+            "Cite the academic context",
+            "Speak to buyers and educators"
+          ],
+          "donts": [
+            "Run a variant program",
+            "Use the word epic",
+            "Photograph creators against brick walls"
+          ]
+        },
+        "logoDirection": "A wordmark with a hallmark. Sequential Arts Group set in a clean grotesk, paired with a simple three-panel sequence as the mark \u2014 three small rectangles in a row.",
+        "colorPalette": [
+          {
+            "name": "Sequential Navy",
+            "hex": "#1A2B4F",
+            "meaning": "Academic publisher navy.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Catalog Cream",
+            "hex": "#EFE7D2",
+            "meaning": "Catalog paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#0E0E10",
+            "meaning": "Print ink.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "Aktiv Grotesk for the wordmark and headers",
+          "secondary": "Aktiv Grotesk for body and catalog",
+          "rationale": "One typeface family. Reads professional on a sell sheet and clean on a syllabus."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Tijuana Bible Press",
+        "tagline": "Eight pages. Saddle-stitched. Bootleg energy.",
+        "brandNameRationale": "Named for the 'Tijuana bibles' \u2014 the bootleg 8-page pornographic comics of the 1920s through 1940s that were the proto-underground comix, predating Crumb's Zap by three decades. The Tijuana bible's small, illicit, saddle-stitched format is the imprint's whole production model. The name refers to a public-domain folk-publishing tradition, not a living brand.",
+        "industrySummary": "The creative-adult-comix segment is largely served by a small number of legacy imprints. There is space for a contemporary imprint that revives the eight-page saddle-stitched format as a deliberate, monthly publishing rhythm, with new artists in the old format.",
+        "competitorLandscape": "Last Gasp (lastgasp.com) holds the underground-comix archive slot. Fantagraphics (fantagraphics.com) is the adult-art-comics peer. Ku\u0161! Komiksi (komikss.lv) is the small-format European precedent. We sit between Last Gasp and Ku\u0161!, sharper on the Tijuana-bible format.",
+        "positioningStatement": "A creative imprint reviving the eight-page saddle-stitched adult-comix format.",
+        "targetAudience": {
+          "primary": "25 to 45. Reads adult and underground comix. Collects small-press publications. Likes the deliberately illicit feeling of a printed object.",
+          "behaviors": [
+            "Buys at small-press fairs",
+            "Reads the colophon",
+            "Subscribes to small-format imprints"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Creative",
+          "Lo-fi",
+          "Illicit",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish one eight-page bible a month",
+            "Number every print run",
+            "Name the artist on the cover"
+          ],
+          "donts": [
+            "Print in trade paperback format",
+            "Run a sale",
+            "Sell digital editions"
+          ]
+        },
+        "logoDirection": "A hand-drawn wordmark. Tijuana Bible Press lettered in a 1930s pulp-style brush face, framed by a thin saddle-stitched-booklet outline. The booklet outline alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Bible Cream",
+            "hex": "#EFDFB7",
+            "meaning": "Cheap newsprint stock.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Bootleg Red",
+            "hex": "#B72A2A",
+            "meaning": "Old-pulp two-color print red.",
+            "usage": "Accent, second-color print"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#0E0E10",
+            "meaning": "Linework ink.",
+            "usage": "Wordmark, type"
+          }
+        ],
+        "typography": {
+          "primary": "A 1930s pulp-revival brush face for the wordmark",
+          "secondary": "GT America Mono for issue numbering and dates",
+          "rationale": "The pulp face carries the imprint voice. The mono carries the monthly publishing rhythm."
+        }
+      }
+    ]
+  }
+}
