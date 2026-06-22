@@ -1,0 +1,332 @@
+{
+  "industry": "insurance",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Cover Note",
+        "tagline": "The temporary policy. Made permanent.",
+        "brandNameRationale": "The cover note \u2014 the temporary written confirmation a broker issues a client between application and policy, a piece of insurance vocabulary that has been standard market practice since the 19th-century London market. Strongest of Agent A's three for modern: 'Lloyd & Coffee' risks Lloyd's trademark territory, 'Syndicate 1688' is fine but reads niche. Cover Note is the document every broker sends \u2014 instantly readable as insurance, no trademark exposure.",
+        "industrySummary": "Modern insurance distribution in 2025+ is being remade by digital brokers and embedded insurance. The category is fragmenting between the legacy commercial broker, the consumer-facing insurtech (Lemonade, Hippo), and the embedded API (Cover Genius). The opening is for a brokerage that talks plain English about the document trail.",
+        "competitorLandscape": "Lemonade (lemonade.com) holds the consumer-D2C tier. Newfront (newfront.com) is the modern commercial broker peer. Embroker (embroker.com) sits in the SMB middle. Hippo (hippo.com) does the home tier. We sit closer to Newfront in posture.",
+        "positioningStatement": "A digital brokerage that issues the cover note the day you apply.",
+        "targetAudience": {
+          "primary": "28 to 45. Founder or operator at a 10-200 person company. Has been through one broker who took three weeks to bind coverage. Wants a portal, a real human, and a one-page summary.",
+          "behaviors": [
+            "Forwards the policy PDF to the COO without reading it",
+            "Will switch brokers over slow renewal",
+            "Treats insurance as a procurement line item, not a relationship"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Specific",
+          "Calm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the document by its industry term",
+            "Show the bind date and the rate up front",
+            "Send the cover note within the hour"
+          ],
+          "donts": [
+            "Use 'we've got you covered' copy",
+            "Photograph happy families against sunsets",
+            "Run referral promotions"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Cover Note in a tight modern grotesk, two words on one line. A small horizontal rule beneath, suggesting the signature line on a broker's note. The rule alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Note Black",
+            "hex": "#101012",
+            "meaning": "Carbon paper, the broker's note.",
+            "usage": "Wordmark, body type, primary surface."
+          },
+          {
+            "name": "Carbon Cream",
+            "hex": "#F4F0E6",
+            "meaning": "The paper of the note.",
+            "usage": "Backgrounds, packaging."
+          },
+          {
+            "name": "Bind Orange",
+            "hex": "#FF6A2A",
+            "meaning": "Single accent. The colour of the bind-confirmation stamp.",
+            "usage": "CTAs, bind dates, status pills."
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for policy numbers and bind dates",
+          "rationale": "One family. The mono carries document data; the regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Hand-in-Hand",
+        "tagline": "Property and fine-art cover, in the original fire-office tradition.",
+        "brandNameRationale": "The Hand-in-Hand Fire and Life Insurance Society, founded London 1696 after the Great Fire of London (1666); its fire-mark (two clasped hands) was nailed to insured buildings across Georgian London. Strongest of Agent A's three for luxury: 'Equitable Life House' is historically apt but generic-sounding; 'Dodson & Co' is too actuarial for the luxury client. Hand-in-Hand has a visual mark (the clasped hands) baked into its history and reads warm rather than cold \u2014 perfect for HNW property and fine-art clients.",
+        "industrySummary": "Luxury property and fine-art insurance serves the collector, the multi-property owner, and the family office. The category is dominated by Chubb's Masterpiece, AIG Private Client Group, and PURE. The opening is for a brand that revives the Georgian fire-office aesthetic for the same market.",
+        "competitorLandscape": "Chubb Masterpiece (chubb.com) holds the institutional peer position. AIG Private Client Group (aig.com) sits at the same tier. PURE (pureinsurance.com) is the modern HNW peer. Hiscox (hiscox.com) does the boutique middle. We sit smaller, more crafted than all of them.",
+        "positioningStatement": "A property and fine-art insurer in the Georgian fire-office tradition.",
+        "targetAudience": {
+          "primary": "45 to 70. Multi-property HNW owner with a collection \u2014 art, wine, watches. Works with a family office and a private banker. Buys the relationship, not the rate.",
+          "behaviors": [
+            "Schedules every piece individually",
+            "Calls the named broker, never the call centre",
+            "Travels with an itemised certificate"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Heritage",
+          "Patient",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Send the fire-mark plaque with the policy",
+            "Schedule items in writing"
+          ],
+          "donts": [
+            "Publish rates on the site",
+            "Run digital advertising",
+            "Use 'protection' marketing language"
+          ]
+        },
+        "logoDirection": "A classical serif wordmark with a small embossed fire-mark \u2014 two clasped hands inside a quartered shield \u2014 used on the policy folio, the certificate, and the cast bronze plaque sent with every binder.",
+        "colorPalette": [
+          {
+            "name": "Fire-Mark Bronze",
+            "hex": "#7A5230",
+            "meaning": "The cast plaque on the insured wall.",
+            "usage": "The clasped-hands mark, foil, hardware."
+          },
+          {
+            "name": "Society Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Heavy folio paper.",
+            "usage": "Stationery, packaging, certificates."
+          },
+          {
+            "name": "Hand Indigo",
+            "hex": "#1F2A4A",
+            "meaning": "The 1696 livery colour.",
+            "usage": "Wordmark, body, primary."
+          },
+          {
+            "name": "Plate Gold",
+            "hex": "#A6843D",
+            "meaning": "The schedule foil.",
+            "usage": "Foil on the schedule, accents."
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and policy folio",
+          "secondary": "S\u00f6hne for the secure client portal",
+          "rationale": "A high-contrast classical serif sets the Georgian tone; the grotesk handles the handful of digital surfaces."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Peril",
+        "tagline": "The unit of risk.",
+        "brandNameRationale": "'Perils' \u2014 the specific causes of loss enumerated in every property policy (fire, theft, windstorm, etc.); the building block of all insurance contract language since the 17th-century marine policy form. Strongest of Agent A's three: 'Indemnity' is technically pure but reads cold and legalistic; 'The Underwriter' is good but a job title rather than a concept. Peril is the actual unit policies are written around, single word, archaic-feeling, exactly the kind of trade-word minimalism Agent A's catalog favors.",
+        "industrySummary": "Minimal insurance brands serve the buyer who wants to read the policy in five minutes and pay in one. The opening is for a specialty broker that publishes covered perils in plain English on a single page.",
+        "competitorLandscape": "Lemonade (lemonade.com) holds the consumer-minimal slot. Kin (kin.com) does the no-frills home tier. Sure (sureapp.com) is the embedded peer. We sit closer to commercial specialty than any of them.",
+        "positioningStatement": "A specialty broker named for the unit of risk.",
+        "targetAudience": {
+          "primary": "Small-business owners and individual buyers who want one page, one named contact, and the perils listed in English. They don't want a relationship; they want a policy.",
+          "behaviors": [
+            "Reads the policy before binding",
+            "Will switch brokers over a confusing renewal letter",
+            "Pays annually, in full, by ACH"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "List the perils on the home page",
+            "Show the price and the deductible",
+            "Confirm binding in one sentence"
+          ],
+          "donts": [
+            "Use 'peace of mind' language",
+            "Run subscription bundling",
+            "Send anniversary marketing"
+          ]
+        },
+        "logoDirection": "A wordmark only. PERIL set in a single-weight grotesk, wide kerned, all caps, five letters with generous space. No icon. The page, the policy PDF, and the renewal letter all carry the wordmark and nothing else.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type and structure.",
+            "usage": "Wordmark, body, all type."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, packaging, all neutrals."
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The page, the policy, and the renewal letter all carry the same wordmark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Lombard Underwriting Group",
+        "tagline": "Commercial-lines underwriting at the historic centre of the trade.",
+        "brandNameRationale": "Lombard Street, London \u2014 the historic centre of British insurance and banking since the 14th century, named for the Italian (Lombard) merchants who first set up there; Lloyd's moved here in 1691. Strongest of Agent A's three for corporate: 'Tontine Partners' is historically rich but obscure to most procurement buyers; 'Mutual Assurance Co' references Franklin's Philadelphia Contributionship which is more US-regional. Lombard Street is broadly recognised across both UK and US commercial-insurance buyers as the centre of the trade.",
+        "industrySummary": "Corporate commercial-lines underwriting in 2025+ serves brokers and large risk-managers. The market is consolidating around AIG, Chubb, Travelers, and Zurich, with specialty layers underneath. The opening is for a mid-market underwriting group with discipline on specialty lines (cyber, D&O, marine).",
+        "competitorLandscape": "AIG (aig.com) holds the global commercial peer. Chubb (chubb.com) sits at the same tier. Travelers (travelers.com) is the US commercial leader. Beazley (beazley.com) does the Lloyd's specialty peer. We sit smaller, specialty-focused.",
+        "positioningStatement": "A specialty commercial-lines underwriting group, Lombard Street in posture.",
+        "targetAudience": {
+          "primary": "Insurance brokers, large-account risk managers, and CFOs at mid-market commercial buyers. They place specialty lines through a small panel of underwriters and value technical depth over rate.",
+          "behaviors": [
+            "Places risks through a named underwriter",
+            "Negotiates wordings line by line",
+            "Renews on a three-year cycle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Technical",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with line-of-business specialty and underwriting appetite",
+            "Speak the language of brokers and risk managers",
+            "Publish quarterly market commentary"
+          ],
+          "donts": [
+            "Use consumer insurance language",
+            "Run digital lead-gen",
+            "Promote rate"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left \u2014 a single Lombard arch reduced to one rounded shape, suggesting the arched colonnade of the historic street. Reads cleanly on a broker submission, a wording, and a renewal letter.",
+        "colorPalette": [
+          {
+            "name": "Lombard Navy",
+            "hex": "#0F2238",
+            "meaning": "Institutional trust, the City colour.",
+            "usage": "Wordmark, primary surfaces."
+          },
+          {
+            "name": "Wording Cream",
+            "hex": "#F4F2EE",
+            "meaning": "Policy paper.",
+            "usage": "Backgrounds, documents."
+          },
+          {
+            "name": "Slate",
+            "hex": "#5A6776",
+            "meaning": "Structural secondary.",
+            "usage": "Body text, dividers."
+          },
+          {
+            "name": "Lombard Gold",
+            "hex": "#B08D52",
+            "meaning": "The merchants' coin.",
+            "usage": "Foil, accents, hover states."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for digital and broker submissions",
+          "secondary": "Source Serif Pro for printed wordings and quarterly commentary",
+          "rationale": "Inter scales clean across underwriting decks; the serif handles printed wordings."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Fire Mark Studio",
+        "tagline": "Property insurance with a plaque on the wall.",
+        "brandNameRationale": "The cast-iron or lead 'fire mark' plaques mounted on insured buildings in 17th-19th century Britain so private fire-brigades knew which houses to save; the original visual brand of insurance. Strongest of Agent A's three for creative: 'The Lutine Bell' is iconic but obscure outside the Lloyd's room; 'Names & Co' could read confusing. Fire Mark Studio gives the brand a real visual artefact \u2014 a plaque sent with every policy \u2014 that is intrinsically shareable.",
+        "industrySummary": "Creative D2C insurance brands in 2025+ are rare; Lemonade did the friendly-illustration version and Hippo did the home-tech version. The opening is for a brand that revives the fire-mark as a literal customer artefact \u2014 every policyholder gets a plaque.",
+        "competitorLandscape": "Lemonade (lemonade.com) holds the illustrated-D2C slot. Hippo (hippo.com) does the modern home tier. Kin (kin.com) is the no-frills peer. Toggle (gettoggle.com) sits in the renter tier. We sit closer to Lemonade in posture, with a physical artefact.",
+        "positioningStatement": "A D2C property insurer that mails you a fire mark with your policy.",
+        "targetAudience": {
+          "primary": "25 to 40. Renter or first-time homeowner. Renting from Zillow, owning from Redfin. Wants the policy to feel less like a contract and more like a small piece of design.",
+          "behaviors": [
+            "Hangs the fire mark by the front door",
+            "Posts the plaque on Instagram",
+            "Renews automatically as long as nothing breaks"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Crafted",
+          "Direct",
+          "Friendly"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Mail a cast fire mark with every binding",
+            "Write the policy in plain English",
+            "Sign the welcome letter by the underwriter"
+          ],
+          "donts": [
+            "Use 'protect what matters' copy",
+            "Photograph happy families against sunsets",
+            "Run cashback promotions"
+          ]
+        },
+        "logoDirection": "A wordmark and a hallmark. Fire Mark Studio in a chunky display serif, with a quartered-shield fire-mark icon \u2014 clasped hands inside a flame outline \u2014 that ships as a physical cast plaque to every policyholder.",
+        "colorPalette": [
+          {
+            "name": "Iron Black",
+            "hex": "#1A1A1A",
+            "meaning": "The cast plaque.",
+            "usage": "Wordmark, body, plaque face."
+          },
+          {
+            "name": "Brigade Red",
+            "hex": "#A8313F",
+            "meaning": "The fire-brigade jacket.",
+            "usage": "The flame on the mark, CTAs."
+          },
+          {
+            "name": "Brass Patina",
+            "hex": "#7A5230",
+            "meaning": "Aged fire-mark.",
+            "usage": "Plaque, foil, secondary."
+          },
+          {
+            "name": "Lime Cream",
+            "hex": "#F4F0E6",
+            "meaning": "The Georgian wall the plaque is mounted on.",
+            "usage": "Backgrounds, paper."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and plaque embossing",
+          "secondary": "GT America for body and digital",
+          "rationale": "The display serif reads as cast metal; the grotesk handles the welcome letter and the renewal flow."
+        }
+      }
+    ]
+  }
+}

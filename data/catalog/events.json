@@ -1,0 +1,332 @@
+{
+  "industry": "events",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Run of Show",
+        "tagline": "Live events, by the minute.",
+        "brandNameRationale": "'Run of show' \u2014 the minute-by-minute production document used by every stage manager, awards-show producer, and conference AV team; the single canonical document of live events. Counter-proposing: Agent A had this under Minimal but it's a much stronger fit for Modern \u2014 it reads as a working production firm, not a stripped-back minimal brand. Agent A's Modern picks ('Banqueting House', 'Programme & Co') feel too heritage. Run of Show is the actual trade-word of modern live events.",
+        "industrySummary": "Modern event production in 2025+ serves brand activations, conferences, and product launches. The category is dominated by agencies like Jack Morton, George P. Johnson, and a long tail of independents. The opening is for a brand that talks production craft in trade language.",
+        "competitorLandscape": "Jack Morton (jackmorton.com) holds the experiential agency peer. George P. Johnson (gpj.com) sits at the same tier. MAS (mas.global) is the modern peer. Superfly (superfly.com) does the festival production tier. We sit smaller, sharper.",
+        "positioningStatement": "An event production firm named for the document that runs the show.",
+        "targetAudience": {
+          "primary": "Brand marketing leads, conference programme directors, and product-launch GMs at 50-5000 person companies. They book by show, expect minute-by-minute documentation, and care about the AV as much as the food.",
+          "behaviors": [
+            "Reads the run-of-show before signing",
+            "Reviews show reels by venue",
+            "Renews with the same stage manager"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Operational",
+          "Modern",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the run-of-show template",
+            "Name the stage manager on every project",
+            "Show the load-in to load-out timeline"
+          ],
+          "donts": [
+            "Use 'unforgettable experiences' copy",
+            "Photograph crowds against confetti",
+            "Promote 'creative vision' without process"
+          ]
+        },
+        "logoDirection": "A wordmark only. Run of Show in a tight modern grotesk, three words on one line, with a small timecode pill (00:00:00) beneath as the favicon and on the project deck.",
+        "colorPalette": [
+          {
+            "name": "Cue Black",
+            "hex": "#101012",
+            "meaning": "The headset, the backstage curtain.",
+            "usage": "Wordmark, body, primary."
+          },
+          {
+            "name": "Show Cream",
+            "hex": "#F4F0E6",
+            "meaning": "The printed run-of-show paper.",
+            "usage": "Backgrounds, decks."
+          },
+          {
+            "name": "Cue Orange",
+            "hex": "#FF6A2A",
+            "meaning": "The standby light. Single accent.",
+            "usage": "Timecode pills, CTAs, status."
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and decks",
+          "secondary": "GT America Mono for timecodes and cue sheets",
+          "rationale": "One family. The mono carries timecode; the regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Almack's",
+        "tagline": "Members-only society events. By voucher.",
+        "brandNameRationale": "Almack's Assembly Rooms, London (1765-1871) \u2014 the most exclusive social venue of Regency England, where vouchers from the Lady Patronesses were the original 'guest list.' Strongest of Agent A's three for luxury: 'Vauxhall Pleasure Gardens' is wonderful but slightly too long-form and well-known as a public attraction; 'Maison Lasserre' references an active restaurant (trademark risk). Almack's is dead-historical, broadly evocative to the right audience, and the voucher-as-invitation system is itself the operating model.",
+        "industrySummary": "Luxury events in 2025+ serve HNW private clients, family offices, and society-tier weddings and milestones. The category is small, referral-driven, and dominated by a few names (Bronson van Wyck, Colin Cowie, Rafanelli). The opening is for a members-only firm with a voucher/referral access model.",
+        "competitorLandscape": "Bronson van Wyck (bronsonvanwyck.com) holds the society-events peer. Colin Cowie Lifestyle (colincowie.com) sits at the same tier. Bryan Rafanelli (rafanellievents.com) is the political-society peer. Rebecca Gardner (rebeccagardner.com) does the editorial-tableau middle. We sit smaller, by voucher only.",
+        "positioningStatement": "A society-events house with a voucher-only client list.",
+        "targetAudience": {
+          "primary": "45 to 70. Established wealth and society standing. Plans by introduction. Expects discretion above all else. Will not work with a firm that has a public client roster.",
+          "behaviors": [
+            "Books by referral",
+            "Insists on NDA before discovery",
+            "Pays against itemised invoices the same day"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Refined",
+          "Heritage",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address clients by surname",
+            "Send paper proposals",
+            "Confirm guest lists in writing"
+          ],
+          "donts": [
+            "Publish client names",
+            "Run social media",
+            "Photograph events for public release"
+          ]
+        },
+        "logoDirection": "A serif wordmark with elegant ligatures and a small wax-seal hallmark depicting a Regency rosette. The hallmark appears on the voucher (the invitation), the proposal folio, and the wax seal of every paper letter.",
+        "colorPalette": [
+          {
+            "name": "Rosette Burgundy",
+            "hex": "#5B1A2B",
+            "meaning": "Regency ribbon, the wax seal.",
+            "usage": "Wordmark, seals, accent."
+          },
+          {
+            "name": "Voucher Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Heavy invitation paper.",
+            "usage": "Stationery, invitations, packaging."
+          },
+          {
+            "name": "Sash Gold",
+            "hex": "#A6843D",
+            "meaning": "Foil, the patroness's sash.",
+            "usage": "Foil, hallmark, accents."
+          },
+          {
+            "name": "Drawing Room Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Body type, serious.",
+            "usage": "Body, dividers."
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "S\u00f6hne for the secure client portal",
+          "rationale": "A high-contrast classical serif sets the Regency tone; the grotesk handles the few digital surfaces."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Programme",
+        "tagline": "The printed running order.",
+        "brandNameRationale": "The 'programme' \u2014 the printed running order, descended from 18th-century opera-house and concert programmes; the single artefact a guest still keeps as a memento. Counter-proposed: Agent A had this as 'The Programme' under Minimal and 'Programme & Co' under Modern \u2014 I'm reclaiming the single-word 'Programme' for the Minimal slot (cleaner, more apothecary-minimal) and moving 'Run of Show' to Modern (above). Single archaic trade word, the artefact itself.",
+        "industrySummary": "Minimal event production serves the cultural-event, arts-festival, and book-launch buyer who wants the programme to be the brand. The opening is for a producer whose only deliverable is a beautifully printed running order.",
+        "competitorLandscape": "Frieze (frieze.com) sets the cultural-programme template. Serpentine Galleries (serpentinegalleries.org) holds the institutional minimal peer. Pioneer Works (pioneerworks.org) is the cultural-events peer. We sit smaller, single-producer.",
+        "positioningStatement": "An events producer whose only artefact is the programme.",
+        "targetAudience": {
+          "primary": "Cultural-institution programme directors, book-launch publicists, arts-festival curators. They book one or two events per year and want every detail to be design-led.",
+          "behaviors": [
+            "Reviews proofs of the programme three times",
+            "Treats the printed programme as the keepsake",
+            "Will switch producers over typography"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the programme on heavy paper",
+            "Name the typesetter on the colophon",
+            "Keep the running order single-page"
+          ],
+          "donts": [
+            "Run digital RSVPs",
+            "Add sponsor logos to the programme",
+            "Send post-event marketing"
+          ]
+        },
+        "logoDirection": "A wordmark only. PROGRAMME set in a single-weight grotesk, wide kerned, all caps. The wordmark works on the printed programme, the invitation, and the venue card. That is the whole system.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Letterpress ink.",
+            "usage": "Wordmark, body, all type."
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Heavy programme paper.",
+            "usage": "Backgrounds, programmes, all neutrals."
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers, secondary surfaces."
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The programme, the invitation, and the venue card all carry the same wordmark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Olympia Group",
+        "tagline": "Trade shows and corporate conferences at venue scale.",
+        "brandNameRationale": "Olympia London \u2014 the grand-hall exhibition venue opened 1886 in Hammersmith, host to the Royal Tournament and the Ideal Home Show; one of the longest-running corporate venues in Europe. Strongest of Agent A's three: 'Excel Partners' has the trademark issue Agent A flagged; 'Ridotto Partners' is historically interesting but reads niche. Olympia is broadly recognisable to UK and international event procurement buyers \u2014 the venue is generic-enough as a trade name to avoid trademark issues with the specific Olympia London.",
+        "industrySummary": "Corporate trade-show and conference operations in 2025+ are dominated by RX (Reed Exhibitions), Informa, and Clarion. The opening is for a mid-tier conference group with venue-operations discipline.",
+        "competitorLandscape": "Informa (informa.com) holds the global conference peer. RX (rxglobal.com) sits at the same tier. Clarion Events (clarionevents.com) is the mid-tier peer. Emerald (emeraldx.com) does the US trade-show middle. We sit smaller, more operationally focused.",
+        "positioningStatement": "A corporate trade-show and conference group built on venue discipline.",
+        "targetAudience": {
+          "primary": "Corporate marketing directors, association programme leads, and venue-procurement officers. They book multi-year for recurring shows and care about cost-per-attendee and floor-plan utilisation.",
+          "behaviors": [
+            "Books venues 18 months out",
+            "Reviews attendee data quarterly",
+            "Renews on multi-year venue contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Operational",
+          "Professional",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with attendee data and venue utilisation",
+            "Speak the language of programme and procurement",
+            "Publish quarterly show-performance reports"
+          ],
+          "donts": [
+            "Use consumer event language",
+            "Run flash promotions",
+            "Photograph crowds without context"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left \u2014 a simplified neoclassical pediment, suggesting the Olympia-style grand hall. Reads cleanly on a programme, a procurement deck, and a venue contract.",
+        "colorPalette": [
+          {
+            "name": "Hall Navy",
+            "hex": "#102236",
+            "meaning": "Institutional trust, the velvet rope.",
+            "usage": "Logo, primary surfaces."
+          },
+          {
+            "name": "Programme Cream",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper."
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body text, dividers."
+          },
+          {
+            "name": "Pediment Brass",
+            "hex": "#B08D52",
+            "meaning": "Quiet accent.",
+            "usage": "Highlights, foil on annual report."
+          }
+        ],
+        "typography": {
+          "primary": "Inter for digital and procurement decks",
+          "secondary": "Source Serif Pro for printed annual reports",
+          "rationale": "Inter scales clean across decks; the serif handles printed annual show-performance reports."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Tableau Vivant",
+        "tagline": "Brand activations as living pictures.",
+        "brandNameRationale": "Tableau vivant ('living picture') \u2014 the staged silent-tableau form popular in 18th-19th c. Parisian salons and Victorian drawing rooms, the ancestor of every brand activation and photo-moment. Strongest of Agent A's three for creative: 'Masque & Co' and 'Ridotto Studio' are both good but Tableau Vivant is the more direct ancestor of the modern brand-activation craft \u2014 the staged photographable moment is exactly what every activation studio sells. The French phrase reads sophisticated without being archaic.",
+        "industrySummary": "Creative brand-activation studios in 2025+ serve fashion houses, luxury brands, and editorial publications. The category is dominated by smaller studios like Bureau Betak, Random Studio, and Stink Studios. The opening is for a brand named for the staged photographable moment itself.",
+        "competitorLandscape": "Bureau Betak (bureaubetak.com) holds the fashion-show production peer. Random Studio (randomstudio.com) sits in the digital-immersive middle. Stink Studios (stinkstudios.com) is the production peer. We sit warmer, more art-historical.",
+        "positioningStatement": "A brand-activation studio that treats every activation as a staged tableau.",
+        "targetAudience": {
+          "primary": "Fashion-house creative directors, luxury brand experiential leads, and editorial publication producers. They book by collection, expect art-historical references, and care about the photograph more than the footfall.",
+          "behaviors": [
+            "Reviews mood boards as art-references",
+            "Approves only photographable moments",
+            "Renews season by season"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Editorial",
+          "Curious",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference art history in every proposal",
+            "Stage every activation for the camera",
+            "Sign correspondence by the creative director"
+          ],
+          "donts": [
+            "Use 'experiential marketing' copy",
+            "Photograph activations from the audience POV",
+            "Promote 'engagement' metrics"
+          ]
+        },
+        "logoDirection": "A wordmark in a high-contrast display serif. The accent on the \u00e9 is set as a small gilt frame corner. A standalone gilt-frame-corner icon for invitations, the lookbook, and the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Burgundy",
+            "hex": "#5B1A2B",
+            "meaning": "Parisian salon velvet.",
+            "usage": "Wordmark, primary."
+          },
+          {
+            "name": "Frame Gold",
+            "hex": "#A6843D",
+            "meaning": "The gilt picture frame.",
+            "usage": "Foil, frame corners, accents."
+          },
+          {
+            "name": "Tableau Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Heavy invitation paper.",
+            "usage": "Backgrounds, paper, walls."
+          },
+          {
+            "name": "Drawing Slate",
+            "hex": "#2A2D2E",
+            "meaning": "Body type, charcoal.",
+            "usage": "Body, secondary."
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the wordmark and invitations",
+          "secondary": "GT Sectra Book for body and lookbooks",
+          "rationale": "One family, two cuts. The display reads as gilt-framed; the book weight carries the lookbook copy."
+        }
+      }
+    ]
+  }
+}
