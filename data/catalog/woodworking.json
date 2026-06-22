@@ -1,0 +1,327 @@
+{
+  "industry": "woodworking",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Bookmatch & Co.",
+        "tagline": "Mirrored grain. Modern joinery.",
+        "brandNameRationale": "Bookmatching is the woodworking technique of slicing a board in two and opening it like a book so the two halves mirror each other across a seam. The technique is a documented term in the trade. & Co. closes it as a small modern shop.",
+        "industrySummary": "Modern woodworking has split between mass-import cabinetry and a small considered-modern cohort of independent shops. The opening is for a studio that puts the grain technique itself in the brand position and builds a small permanent catalog from the bookmatched panel.",
+        "competitorLandscape": "Sawkille Co. (sawkille.com) holds the considered-modern American woodworking position. Atelier de Troupe (atelierdetroupe.com) sits in the design-led wood-and-craft tier. Egg Collective (eggcollective.com) is the studio-furniture peer. We sit closer to Sawkille in posture with a sharper bookmatched-panel specialty.",
+        "positioningStatement": "A modern woodworking studio whose tables and casework are organized around the bookmatched panel.",
+        "targetAudience": {
+          "primary": "32 to 55. Owns one home and is furnishing it slowly. Can name the wood when shown the grain. Buys one piece every two years and keeps it.",
+          "behaviors": [
+            "Researches the species before the order",
+            "Asks for the matched-panel diagram",
+            "Will wait nine months for the right slab"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Materials-led",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the grain match on the page",
+            "Name the wood and the joiner",
+            "Quote the panel dimensions in inches"
+          ],
+          "donts": [
+            "Use the word artisan",
+            "Photograph the piece in styled lofts",
+            "Run seasonal collections"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Bookmatch & Co. set in a clean modern grotesk, with a small two-leaf bookmatched-grain mark beside the word. The mark alone serves as the brand on the underside of every top.",
+        "colorPalette": [
+          {
+            "name": "Walnut",
+            "hex": "#3D2A1C",
+            "meaning": "American walnut, the bookmatched table.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Maple Cream",
+            "hex": "#F4ECD9",
+            "meaning": "Light-figured maple.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Shop Black",
+            "hex": "#1A1A1A",
+            "meaning": "Inked layout line.",
+            "usage": "Body type, the mark"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne for body and product cards",
+          "rationale": "One family across the system. The brand is the grain, not the type."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Butterfly Joint Atelier",
+        "tagline": "The butterfly joint, since the slab.",
+        "brandNameRationale": "The butterfly (or 'bow-tie') joint is the wood inlay laid across a crack to stop it from spreading \u2014 a documented Japanese and American Studio-Craft technique most associated with George Nakashima's slab tables, but the joint itself is a public-domain craft term. Atelier closes it as a small bench-craft house.",
+        "industrySummary": "Luxury woodworking at the slab-and-bench tier has been dominated by a few estate-protected names. The opening underneath is for a small atelier built on the joint itself rather than any single maker's surname \u2014 a house that takes a limited number of commissioned tables a year and signs them by joint count.",
+        "competitorLandscape": "BDDW (bddw.com) holds the American studio-craft luxury slot. Wexler Gallery (wexlergallery.com) is the design-edition gallery peer. Mira Nakashima Studio (nakashimawoodworkers.com) is the canonical reference \u2014 we sit beside it, not in its shadow, with a sharper joint-as-brand framing.",
+        "positioningStatement": "A small commission atelier for tables organized around the butterfly joint.",
+        "targetAudience": {
+          "primary": "55 to 80. Multi-generational collector. Owns at least one Studio-Craft piece. Commissions a single table a year for a specific room.",
+          "behaviors": [
+            "Commissions one table a year",
+            "Travels to the workshop for the slab selection",
+            "Pays in three installments over eighteen months"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Heritage",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the joint, not the slab",
+            "Speak in the language of figure and check",
+            "Sign each piece by joint count"
+          ],
+          "donts": [
+            "Sell from a showroom floor",
+            "Use the word luxury",
+            "Photograph in styled rooms"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Butterfly Joint Atelier set in a classical roman, with a small embossed bow-tie joint as the hallmark. The hallmark is branded on the underside of every commissioned top and embossed on the certificate of provenance.",
+        "colorPalette": [
+          {
+            "name": "Slab Walnut",
+            "hex": "#3A2418",
+            "meaning": "Aged American black walnut.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Atelier Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Hand-laid certificate paper.",
+            "usage": "Stationery, certificates"
+          },
+          {
+            "name": "Brass Inlay",
+            "hex": "#A6843D",
+            "meaning": "Brass butterfly variant.",
+            "usage": "Accent, foil, the hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and certificates",
+          "secondary": "Adobe Garamond for body and commission documents",
+          "rationale": "Canela carries the Studio-Craft display tradition. Garamond keeps the documentation warm."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Tenon.",
+        "tagline": "The joint, named.",
+        "brandNameRationale": "A tenon is the projecting tongue cut on the end of one piece of wood, designed to fit into a mortise in another \u2014 the foundational hand-cut joint of Western and Eastern joinery alike. Single trade word, single syllable, terminal period. The brand is the joint.",
+        "industrySummary": "Minimal woodworking has converged on Scandinavian visual cues. The opening underneath is the joint itself \u2014 a different vocabulary of restraint, organized around the cut rather than the surface finish.",
+        "competitorLandscape": "Skagerak (skagerak.dk) holds the Scandinavian-modern peer slot. Frama (framacph.com) sits in the considered-Nordic tier. De La Espada (delaespada.com) is the considered-craft peer. We sit closer to De La Espada with a single-joint focus.",
+        "positioningStatement": "Minimal furniture organized around the mortise-and-tenon joint.",
+        "targetAudience": {
+          "primary": "30 to 55. Owns a small home. Studies joinery in books. Will wait six months for the right piece.",
+          "behaviors": [
+            "Measures the room before ordering",
+            "Studies the joint, not the surface",
+            "Buys one piece every three years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Quiet",
+          "Precise",
+          "Patient",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the joint exposed",
+            "Name the wood and the joiner",
+            "Quote the cut by hand-tool"
+          ],
+          "donts": [
+            "Use the word minimal as marketing",
+            "Photograph the piece in styled rooms",
+            "Discount the catalog"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Tenon. set in a calm humanist sans, lowercase, terminal period. The favicon is the period.",
+        "colorPalette": [
+          {
+            "name": "Oak",
+            "hex": "#8B6F47",
+            "meaning": "Quartersawn white oak.",
+            "usage": "Wordmark accents"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F1E8",
+            "meaning": "Drafting paper.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Shop Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Marking-knife line.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark and body",
+          "secondary": "Same family for product specs",
+          "rationale": "One face. The brand is the joint, not the type."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Heartwood Joinery Co.",
+        "tagline": "Cabinetry and joinery for the architectural specification.",
+        "brandNameRationale": "Heartwood is the dense, durable inner core of a tree \u2014 the timber grade specified in architectural millwork for load-bearing and finished work. Joinery is the trade name. Co. closes it as a serious commercial millwork firm.",
+        "industrySummary": "Architectural millwork is a serious B2B category. The buyers are architects, GCs, and FF&E consultants. The vendors compete on shop drawings, lead time, and on-site fit across thousands of feet of casework.",
+        "competitorLandscape": "Bulthaup (bulthaup.com) is the institutional architectural-cabinetry benchmark. Henrybuilt (henrybuilt.com) holds the considered-American peer slot. Christian Liaigre's M\u00e9tropolitain millwork tier sets the European reference. We sit smaller, more responsive on the spec sheet.",
+        "positioningStatement": "Architectural millwork and joinery for the spec sheet \u2014 durable, drawn, on schedule.",
+        "targetAudience": {
+          "primary": "45 to 60. Architects, project architects, and FF&E consultants. Manage multi-million-dollar fit-outs.",
+          "behaviors": [
+            "Specifies by AWI quality standard",
+            "Requests shop drawings and 3D models first",
+            "Renews vendor lists annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Steady",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the shop drawing",
+            "Show AWI Premium-grade work",
+            "Quote lead times to the week"
+          ],
+          "donts": [
+            "Use consumer-furniture language",
+            "Run consumer marketing",
+            "Photograph in residential settings"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a stylized cross-section of a tree showing heartwood at the core. HEARTWOOD JOINERY CO. set in a tight modern grotesk, suitable for spec books, name badges, and trade-show banners.",
+        "colorPalette": [
+          {
+            "name": "Spec Navy",
+            "hex": "#0F2238",
+            "meaning": "Architect's blue-line.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean shop drawing.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Heartwood",
+            "hex": "#7A4A2A",
+            "meaning": "Dense inner timber.",
+            "usage": "Body accents"
+          },
+          {
+            "name": "Mark-up Red",
+            "hex": "#A8313F",
+            "meaning": "Spec markup.",
+            "usage": "Status indicators"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed shop drawings and RFPs",
+          "rationale": "Inter scales clean across digital. The serif handles printed AWI documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Steam-Bent Goat",
+        "tagline": "Bent wood, slightly stubborn.",
+        "brandNameRationale": "Steam-bending is the technique of softening a wood blank in steam so it can be clamped around a former and dried into a curve \u2014 the foundational technique of the Windsor chair, the bentwood Thonet, and Sam Maloof's rockers. The Goat is the absurd noun pairing; the brand is a steam-bent workshop with a sense of humor.",
+        "industrySummary": "Creative woodworking has been crowded with maximalist live-edge slabs. The opening is for a studio working in the steam-bent tradition \u2014 Windsor, Thonet, Maloof \u2014 with a small permanent catalog of chairs and rockers, signed and dated.",
+        "competitorLandscape": "Hierve (hierve.com) holds the conceptual-craft slot. Studio Henry Wilson (henrywilson.com.au) sits in the design-edition tier. Fyrn (fyrn.com) plays the considered-stickback chair peer. We sit beside Fyrn with a sharper steam-bend specialty.",
+        "positioningStatement": "A witty, steam-bent woodworking studio in the Windsor-Thonet-Maloof tradition.",
+        "targetAudience": {
+          "primary": "30 to 50. Design-literate buyer. Owns at least one Windsor or Thonet. Reads about furniture history. Buys for the chair, not the room.",
+          "behaviors": [
+            "Names chairs by maker",
+            "Subscribes to American Craft",
+            "Buys at design fairs"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Curious",
+          "Confident",
+          "Craft-literate"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the bent-wood lineage",
+            "Show the chair in a working kitchen",
+            "Make the goat joke explicit"
+          ],
+          "donts": [
+            "Take itself too seriously",
+            "Photograph in pristine galleries",
+            "Hide the steam-bending form"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 The Steam-Bent Goat set in a punchy display sans with a small drawn mark of a goat standing on a curved chair-leg. The goat alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Steam Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Steam-box paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bent Walnut",
+            "hex": "#5C3A22",
+            "meaning": "Steam-darkened walnut.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Goat Mustard",
+            "hex": "#D9A441",
+            "meaning": "Handle yellow.",
+            "usage": "Accent, the mark"
+          },
+          {
+            "name": "Shop Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Anchor.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for product descriptions and editorial",
+          "rationale": "Mori carries the wit. Sectra makes the workshop notes feel like a small craft journal."
+        }
+      }
+    ]
+  }
+}
