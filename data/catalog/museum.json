@@ -1,0 +1,315 @@
+{
+  "industry": "museum",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Cabinet Modern",
+        "tagline": "The proto-museum, restated.",
+        "brandNameRationale": "Picked over Ashmolean Modern (A flagged active institution) and The Enlightenment Hall. A's recommended alt for Ashmolean Modern was 'Ashmole Modern' or 'First Museum' but Cabinet Modern is the cleaner pick \u2014 it ties to the Renaissance studiolo / Kunstkammer (the proto-museum of the 16th-17th centuries) without naming any extant institution. The Enlightenment Hall is too close to the British Museum's named gallery. Cabinet Modern is defensibly distinctive and the framing scales (cabinet as a single thematic show, the modern museum as a sequence of cabinets).",
+        "industrySummary": "Modern museum branding in 2025+ has moved away from the institutional logo and toward identities that travel across exhibitions, digital, and merchandise. The opening is for a museum brand whose identity flexes per show \u2014 the cabinet as the unit of curation and design.",
+        "competitorLandscape": "MoMA (moma.org) sets the modern museum identity benchmark. The New Museum (newmuseum.org) plays the contemporary-cabinet slot. Whitechapel (whitechapelgallery.org) holds the London peer position. We sit closest to the New Museum with a tighter cabinet-led framing.",
+        "positioningStatement": "A modern museum whose identity is rebuilt for every show.",
+        "targetAudience": {
+          "primary": "28 to 50. Members of three institutions. Travels to see specific exhibitions. Reads exhibition catalogues cover to cover.",
+          "behaviors": [
+            "Buys the catalogue at the show",
+            "Returns to the same show twice",
+            "Refers friends to specific exhibitions, not the museum"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Curatorial",
+          "Modern",
+          "Considered",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Treat each show as its own object",
+            "Name the curator on the wall and the website",
+            "Publish the catalogue as part of the brand"
+          ],
+          "donts": [
+            "Use a fixed wallpaper across the museum",
+            "Treat the gift shop as the design destination",
+            "Hide the curator"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Cabinet Modern in a precise modern grotesk, two words on one line. A single rectangle mark (the cabinet's silhouette) sits as the hallmark, with the rectangle's proportions adjusted per show to fit the exhibition's identity.",
+        "colorPalette": [
+          {
+            "name": "Vitrine White",
+            "hex": "#F9F9F7",
+            "meaning": "The white of a display case.",
+            "usage": "Background, packaging, wayfinding"
+          },
+          {
+            "name": "Cabinet Black",
+            "hex": "#0F0F12",
+            "meaning": "The black of the cabinet's interior.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Show Accent",
+            "hex": "#C44A2E",
+            "meaning": "The accent that changes per show.",
+            "usage": "Per-exhibition accent, wayfinding callout"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and wayfinding",
+          "secondary": "Tiempos Text for catalogues and wall labels",
+          "rationale": "A grotesk for the museum operations and wayfinding; a serif for the curatorial voice and the catalogue. Each show keeps the same typographic system and rebuilds its accent."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Wunderkammer Cultural Trust",
+        "tagline": "A private cabinet, opened to members.",
+        "brandNameRationale": "Picked over Studiolo House and Cooper Hewitt Atelier (A flagged Smithsonian conflict). Wunderkammer is the German 'cabinet of curiosities' tradition formalized by Samuel Quiccheberg's 1565 'Inscriptiones' \u2014 the original luxury private museum format. Studiolo House is also defensible but Wunderkammer is more globally recognized and the 'Cultural Trust' framing gives the right institutional posture for a members' society. Cooper Hewitt is an active Smithsonian institution and was correctly flagged.",
+        "industrySummary": "Luxury private museums and members' societies have a real opening \u2014 Sir John Soane's Museum, the Frick, the Menil \u2014 collectors want curated, intimate institutions over crowded major-museum experiences. The opening is for a Wunderkammer-format private museum and members' society.",
+        "competitorLandscape": "Sir John Soane's Museum (soane.org) is the global benchmark for the private collector's museum. The Frick Collection (frick.org) is the New York peer. The Menil Collection (menil.org) plays the Houston modernist-private slot. We sit alongside Soane with a global members' society overlay.",
+        "positioningStatement": "A private museum and members' society in the Wunderkammer tradition.",
+        "targetAudience": {
+          "primary": "50 to 75. Patron-level members of three museums. Collects within a defined area. Travels for private viewings and curators' dinners.",
+          "behaviors": [
+            "Attends three private viewings a year",
+            "Lends from their own collection to shows",
+            "Donates objects with documented provenance"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Curatorial",
+          "Discreet",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Treat members as patrons",
+            "Publish a printed annual review",
+            "Invite for private viewings before openings"
+          ],
+          "donts": [
+            "Operate a public-museum gift shop",
+            "Photograph the collection for editorial press",
+            "Discount the membership"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Wunderkammer in a thin neoclassical roman, with Cultural Trust in small caps below. A wax-seal mark of a single curated rectangle (the cabinet's frame) used as the hallmark on the membership card and the annual review.",
+        "colorPalette": [
+          {
+            "name": "Patron Black",
+            "hex": "#15151A",
+            "meaning": "The black of a leather catalogue.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Atelier Cream",
+            "hex": "#F4EEDF",
+            "meaning": "The cream of the catalogue paper.",
+            "usage": "Background, paper, membership"
+          },
+          {
+            "name": "Curiosity Brass",
+            "hex": "#A88A3C",
+            "meaning": "The brass of a cabinet hinge.",
+            "usage": "Accent, wax seal, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Garamond Premier Pro for the wordmark and the annual review",
+          "secondary": "S\u00f6hne for body and operational documents",
+          "rationale": "A neoclassical roman for the patrons' voice; a composed grotesk for the operational documents and the members' portal."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "The Cabinet",
+        "tagline": "One word.",
+        "brandNameRationale": "Picked over Archive. and Hall of Objects. The Cabinet distills the proto-museum format into two words \u2014 definite article plus the foundational format. Archive. is clean but archives are a different category (records, papers, not objects). Hall of Objects is more descriptive but loses the cultural-historical weight of the cabinet. The Cabinet is the most defensibly minimal and the most ownable as a museum name.",
+        "industrySummary": "Minimalist museum branding has a real opening for institutions that program a single, focused collection \u2014 the customer wants to know what they will see, not what the museum has accumulated. The opening is for a museum brand whose name is the format.",
+        "competitorLandscape": "Dia (diaart.org) holds the single-collection minimalist slot. The Roden Crater (rodencrater.com) plays the single-object monumental slot. Donald Judd's Marfa (juddfoundation.org) sits at the same minimalist tier. We sit closer to Judd with a single-focus interior format.",
+        "positioningStatement": "A minimalist museum for a single focused collection.",
+        "targetAudience": {
+          "primary": "30 to 60. Travels to see one artist or one collection at a time. Reads Artforum. Plans the museum visit before the city.",
+          "behaviors": [
+            "Visits the museum first, the city second",
+            "Buys the single catalogue",
+            "Returns to the same room repeatedly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Minimal",
+          "Curatorial",
+          "Quiet",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show one room at a time",
+            "Use one type weight",
+            "Date every label"
+          ],
+          "donts": [
+            "Run a rotating program of unrelated shows",
+            "Sell merchandise beyond the catalogue",
+            "Photograph the museum from the outside"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 The Cabinet in a single thin grotesk weight, lower-case, with no mark. Set centered on every surface \u2014 the door, the catalogue cover, the membership card. The wordmark is the entire identity.",
+        "colorPalette": [
+          {
+            "name": "Cabinet White",
+            "hex": "#F8F8F6",
+            "meaning": "The white of a quiet gallery wall.",
+            "usage": "Background, paper, wayfinding"
+          },
+          {
+            "name": "Object Black",
+            "hex": "#0E0E10",
+            "meaning": "The black of an object on the wall.",
+            "usage": "Wordmark, body type, all UI"
+          },
+          {
+            "name": "Plinth Grey",
+            "hex": "#787876",
+            "meaning": "The grey of a museum plinth.",
+            "usage": "Secondary type, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and all type",
+          "secondary": "S\u00f6hne Mono for object labels and dates",
+          "rationale": "One family. One weight for the brand. The mono carries the object number, the date, and the dimensions."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Heritage Collections Group",
+        "tagline": "Collections management for institutions and estates.",
+        "brandNameRationale": "Picked over Smithson Institutional Trust (A flagged Smithsonian conflict) and Curatorial Standards Council. Heritage Collections Group is the cleanest B2B framing \u2014 'heritage collection' is the standard professional term, and 'Group' positions the brand as a multi-service operating partner for museums, estates, and institutional holdings. Smithson carries Smithsonian conflict risk even with the 'Trust' variation. Curatorial Standards Council reads more advocacy body than service provider. Heritage Collections Group is defensibly distinctive and clearly B2B.",
+        "industrySummary": "B2B museum services \u2014 collections management, conservation, registrar work, deaccession advisory \u2014 are fragmented across regional consultancies and large firms (Lunder, Pollard). The opening is for a corporate operating partner serving mid-sized museums, university collections, and private estates.",
+        "competitorLandscape": "Lunder Conservation Center (americanart.si.edu/lunder) is the conservation peer. Pollard (pollardarts.com) plays the registrar / collections-management slot. Atelier Art Services (atelierartservices.com) holds the storage and logistics peer position. We sit alongside Pollard with a full-collection-lifecycle service model.",
+        "positioningStatement": "A B2B collections management and conservation partner for museums, university collections, and private estates.",
+        "targetAudience": {
+          "primary": "Museum directors, registrars, and estate trustees. Manages institutional holdings, deaccession projects, and conservation programs.",
+          "behaviors": [
+            "Audits collection storage conditions",
+            "Manages deaccession with provenance research",
+            "Hires for multi-year conservation projects"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Discreet",
+          "Operational",
+          "Authoritative"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite ICOM and AAM standards",
+            "Identify as the back-of-house partner",
+            "Publish anonymized case studies"
+          ],
+          "donts": [
+            "Compete with museums for public-facing programming",
+            "Run consumer-style marketing",
+            "Photograph private estate collections without consent"
+          ]
+        },
+        "logoDirection": "A wordmark with a small mark \u2014 three stacked rectangles (a collection-vault shelf) used on contracts, the registrar's portal, and the annual conservation review.",
+        "colorPalette": [
+          {
+            "name": "Vault Navy",
+            "hex": "#1A2C44",
+            "meaning": "The blue of an institutional service report.",
+            "usage": "Wordmark, headers, mark"
+          },
+          {
+            "name": "Archive Grey",
+            "hex": "#E6E6E8",
+            "meaning": "The grey of an archive box.",
+            "usage": "Background, paper, portal"
+          },
+          {
+            "name": "Conservation Brass",
+            "hex": "#8E7438",
+            "meaning": "The accent of a conservator's tool.",
+            "usage": "Accent, callout, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and reports",
+          "secondary": "S\u00f6hne for body and portal",
+          "rationale": "A serif for the institutional weight; a grotesk for the portal and operational documents."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Memory Theatre",
+        "tagline": "An exhibition you can walk through.",
+        "brandNameRationale": "Picked over Quiccheberg & Co. and Vitrine & Plinth. Giulio Camillo's 1530s Memory Theatre \u2014 a Renaissance proto-museum designed to organize all knowledge spatially \u2014 is the perfect anchor for a creative immersive exhibition-design studio. Quiccheberg is academically richer but more theoretical (1565 'Inscriptiones' is a treatise, not a space). Vitrine & Plinth is good but reads more like a furniture company. The Memory Theatre uniquely names the spatial-immersive practice and has an instant visual: a theatre you walk through.",
+        "industrySummary": "Creative exhibition-design studios have a real opening in the immersive-experience boom (Meow Wolf, ARTECHOUSE, Hauser & Wirth education programs). The opening is for a studio that brings Renaissance memory-theatre logic to immersive museum and gallery exhibitions.",
+        "competitorLandscape": "Local Projects (localprojects.com) is the museum-immersive-design benchmark. Tellart (tellart.com) plays the experience-design peer. ARTECHOUSE (artechouse.com) holds the immersive-museum slot. We sit alongside Local Projects with a Renaissance-rooted memory-theatre methodology.",
+        "positioningStatement": "An immersive exhibition-design studio rooted in the Renaissance memory theatre.",
+        "targetAudience": {
+          "primary": "Museum directors, gallery directors, and exhibition curators commissioning immersive shows. Values spatial storytelling and design-led curation.",
+          "behaviors": [
+            "Commissions long-form exhibition design",
+            "Refers privately to museum peers",
+            "Returns for repeat commissions"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Storytelling",
+          "Spatial",
+          "Curatorial",
+          "Imaginative"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the methodology in print",
+            "Treat each commission as a single named theatre",
+            "Cite Camillo, Quiccheberg, and Yates by name"
+          ],
+          "donts": [
+            "Pitch on cost",
+            "Operate as a generic agency",
+            "Hide the methodology"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 The Memory Theatre set in a warm serif on two lines. A small line-drawing hallmark of a circular amphitheatre (Camillo's theatre plan) sits as the secondary mark.",
+        "colorPalette": [
+          {
+            "name": "Theatre Black",
+            "hex": "#101013",
+            "meaning": "The black of a darkened theatre.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Stage Cream",
+            "hex": "#F2EBD7",
+            "meaning": "The cream of a stage curtain.",
+            "usage": "Background, paper, packaging"
+          },
+          {
+            "name": "Mnemonic Red",
+            "hex": "#9A2C2C",
+            "meaning": "The red of Camillo's memory image.",
+            "usage": "Accent, foil, hallmark fill"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and methodology",
+          "secondary": "S\u00f6hne for body and proposals",
+          "rationale": "A serif for the editorial methodology; a grotesk for the project documents and the studio portal."
+        }
+      }
+    ]
+  }
+}

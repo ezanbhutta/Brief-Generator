@@ -1,0 +1,315 @@
+{
+  "industry": "dairy",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Creamline Dairy Co.",
+        "tagline": "The line you used to see.",
+        "brandNameRationale": "Picked over Grade A Creamery and Jersey & Oat \u2014 the cream line is a visible, photographable quality signal that consumers can immediately understand on a bottle. Grade A is regulatory and undifferentiated (every fluid milk is Grade A). Jersey & Oat hedges the dairy positioning awkwardly. The cream line is the single best visual cue for non-homogenized milk and the brand name shows the product.",
+        "industrySummary": "Modern non-homogenized milk is a small but growing category \u2014 consumers reading labels are skeptical of ultra-processed food and the cream line is the original quality tell. The opening is for a glass-bottle DTC dairy that puts the cream line front and center in product and identity.",
+        "competitorLandscape": "Straus Family Creamery (strausfamilycreamery.com) holds the glass-bottle organic premium slot. Ronnybrook (ronnybrook.com) is the northeast peer. Maple Hill (maplehill.com) defined 100% grass-fed organic milk. We sit closest to Straus with a sharper visual identity built around the cream line itself.",
+        "positioningStatement": "Non-homogenized milk that shows its quality at the top of the bottle.",
+        "targetAudience": {
+          "primary": "30 to 50. Cooks at home most nights. Reads ingredient labels. Already buys organic dairy at the co-op. Will pay $9 for a half-gallon if they trust the source.",
+          "behaviors": [
+            "Buys glass-bottle milk and returns the bottles",
+            "Reads the farm's website before subscribing",
+            "Posts the cream-line on social"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Honest",
+          "Modern",
+          "Plain-spoken",
+          "Quietly confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the breed and the farm",
+            "Show the cream line in product photos",
+            "List the homogenization status on every label"
+          ],
+          "donts": [
+            "Use 'farm-fresh' as marketing",
+            "Photograph the bottle without the cream line",
+            "Use cartoon cows"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Creamline set in a tight modern grotesk, with a thin horizontal rule dividing the word into two stacked halves: the cream above, the milk below. The rule alone works as a hallmark across packaging.",
+        "colorPalette": [
+          {
+            "name": "Cream Top",
+            "hex": "#F4E9C6",
+            "meaning": "The cream that floats to the top of a bottle.",
+            "usage": "Cap foil, accent type, label rule"
+          },
+          {
+            "name": "Skim",
+            "hex": "#F8F4EC",
+            "meaning": "The off-white of milk against glass.",
+            "usage": "Background, paper, secondary surface"
+          },
+          {
+            "name": "Bottle Black",
+            "hex": "#161614",
+            "meaning": "The wordmark on a glass bottle.",
+            "usage": "Wordmark, body type, cap foil text"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for nutrition and farm specs",
+          "rationale": "One family. The mono carries the nutritional and regulatory data. The regular carries the brand and the farm story."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Isigny Creamery",
+        "tagline": "Normandy butter, the long way.",
+        "brandNameRationale": "Picked over Guernsey Gold and Brown Swiss. A flagged that 'Beurre d'Isigny' is a protected AOP \u2014 pivoted to 'Maison Isigny Creamery' as A recommended. Isigny-sur-Mer is one of the most storied butter regions on earth (iodine-rich pastures, AOP since 1986) and the Maison framing places it in the haute-laiterie tradition without claiming PDO protection. Guernsey Gold is good but commercially less defensible (Golden Guernsey is also a UK-regulated mark in some contexts).",
+        "industrySummary": "Luxury cultured butter and cr\u00e8me fra\u00eeche have become a quiet trophy purchase for serious home cooks and restaurants. The customer wants 84% butterfat, lactic culture, hand-paddled. The opening is for a maison-framed butter brand with Norman techniques and a small SKU range.",
+        "competitorLandscape": "Bordier (lebeurrebordier.com) is the global benchmark for hand-paddled cultured butter. \u00c9chir\u00e9 (echire.com) holds the Charente-Poitou AOP slot. Vermont Creamery (vermontcreamery.com) is the American luxury peer. We sit closest to Bordier with an Isigny-rooted lineage and a tighter range.",
+        "positioningStatement": "Cultured Norman butter and cr\u00e8me fra\u00eeche, made in the Isigny tradition.",
+        "targetAudience": {
+          "primary": "40 to 65. Home cooks who own a Lacanche or a La Cornue. Reads Saveur. Subscribes to David Lebovitz. Pays for butter the way other people pay for olive oil.",
+          "behaviors": [
+            "Orders butter by the kilo",
+            "Brings it to dinner parties",
+            "Pairs butter with bread by appellation"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Traditional",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the lactic culture and the butterfat percentage",
+            "Quote butter in grams and on the cool side",
+            "Treat the butter the way a vineyard treats a vintage"
+          ],
+          "donts": [
+            "Translate 'beurre cru' for the customer",
+            "Photograph the butter on toast",
+            "Run flash sales"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Maison Isigny in a thin neoclassical roman, set on two lines with Creamery in small caps below. A wax-seal mark of a single butter paddle, used as the hallmark on the foil wrap.",
+        "colorPalette": [
+          {
+            "name": "Beurre",
+            "hex": "#F7E7B8",
+            "meaning": "The yellow of grass-fed Norman butter in summer.",
+            "usage": "Wax seal, accent, label panel"
+          },
+          {
+            "name": "Cr\u00e8me",
+            "hex": "#FBF6EA",
+            "meaning": "The pale white of cr\u00e8me fra\u00eeche.",
+            "usage": "Background, paper, primary surface"
+          },
+          {
+            "name": "Atlantique",
+            "hex": "#1B2E3A",
+            "meaning": "The deep navy of the Norman coast.",
+            "usage": "Wordmark, body type, hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "Garamond Premier Pro for the wordmark and editorial copy",
+          "secondary": "S\u00f6hne for body and product specs",
+          "rationale": "A neoclassical roman for the maison voice, a composed grotesk for the technical specs. The serif carries 250 years of butter tradition; the sans keeps the shopping experience clean."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Cream Line",
+        "tagline": "Non-homogenized.",
+        "brandNameRationale": "Picked over Holstein. and Whole Milk Co. Cream Line is two words but it names the product's defining visual \u2014 the visible quality cue at the top of the bottle. Holstein. is too breed-specific and reads slightly cold. Whole Milk Co. is descriptive but generic. Cream Line is the most ownable: a noun phrase that becomes the brand and the product description at once.",
+        "industrySummary": "Minimalist dairy positioning has shifted from descriptive ('whole milk', 'organic milk') to attribute-led \u2014 the single trait the customer can verify. Cream Line names the trait and the product in one phrase.",
+        "competitorLandscape": "Straus (strausfamilycreamery.com) holds the glass-bottle premium slot. Ronnybrook (ronnybrook.com) plays the regional non-homogenized peer. Snowville Creamery (snowvillecreamery.com) sits at the same minimal-label tier. We sit smaller, with a single-line identity.",
+        "positioningStatement": "Non-homogenized milk, named for the only thing you need to know.",
+        "targetAudience": {
+          "primary": "28 to 50. Reads less, decides faster. Looks at the bottle and the price. Trusts a brand that doesn't oversell.",
+          "behaviors": [
+            "Buys the same milk every week",
+            "Notices the cream line and tells friends",
+            "Skips the dairy section's noisier brands"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Minimal",
+          "Honest",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use one product photo per page",
+            "Let the bottle speak",
+            "Name the farm and the date of bottling"
+          ],
+          "donts": [
+            "Use marketing adjectives",
+            "Show the cow",
+            "Sell more than one thing"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Cream Line in a single thin grotesk weight, lower-case, with a 1pt rule running below the word the full width. The rule is the cream line. No other mark.",
+        "colorPalette": [
+          {
+            "name": "Cream",
+            "hex": "#F2EAD3",
+            "meaning": "The cream at the top of a glass bottle.",
+            "usage": "Rule, accent, cap foil"
+          },
+          {
+            "name": "Paper",
+            "hex": "#FBFAF7",
+            "meaning": "Used as space.",
+            "usage": "Background, label paper, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#111111",
+            "meaning": "The wordmark, the rule, the text.",
+            "usage": "Wordmark, body type, all UI"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and all type",
+          "secondary": "S\u00f6hne Mono for the bottling date",
+          "rationale": "One family. One weight for the brand. The mono carries the bottling date stamped on every cap."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Wisconsin Dairy Belt Cooperative",
+        "tagline": "Member-owned since the heartland was the heartland.",
+        "brandNameRationale": "Picked over Pasteur Standards and Continental Creamery Group. The Wisconsin Dairy Belt is the single most credible US dairy geography (Wisconsin produces ~14% of US milk and has the densest cooperative concentration in America). Pasteur Standards is a clever anchor but reads more processor than producer. Continental Creamery is an importer position and loses the made-in-America B2B credibility. The co-op model is the most defensible corporate structure in dairy and Wisconsin is the canonical location.",
+        "industrySummary": "B2B dairy in 2025+ is dominated by a handful of large cooperatives (DFA, Land O'Lakes, Foremost). The opening is for a regional cooperative that competes on member-ownership and Wisconsin-specific geography to serve mid-tier foodservice and private-label retail.",
+        "competitorLandscape": "Land O'Lakes (landolakes.com) sets the cooperative benchmark. Dairy Farmers of America (dfamilk.com) is the largest. Organic Valley (organicvalley.coop) holds the organic co-op slot. We sit smaller, regional, and Wisconsin-rooted.",
+        "positioningStatement": "A Wisconsin producer cooperative supplying foodservice and private-label retail across the upper Midwest.",
+        "targetAudience": {
+          "primary": "Foodservice buyers and private-label retail procurement teams in the upper Midwest. Values cooperative pricing transparency, regional supply security, and AOP-equivalent regional provenance.",
+          "behaviors": [
+            "Negotiates annual volume contracts",
+            "Audits supply chain provenance",
+            "Requires SQF and Grade A certification"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Member-led",
+          "Transparent"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite member count and farm count",
+            "Publish annual member reports",
+            "Lead with Wisconsin geography and co-op model"
+          ],
+          "donts": [
+            "Use consumer-style brand language",
+            "Photograph farms with golden-hour filters",
+            "Imply scale beyond actual member roster"
+          ]
+        },
+        "logoDirection": "A serif wordmark with a four-quadrant seal: a wheat sheaf, a milk pail, a cheese wheel, and a Wisconsin outline. Used on tankers, invoices, and the annual member report. The wordmark alone runs on digital.",
+        "colorPalette": [
+          {
+            "name": "Co-op Navy",
+            "hex": "#1A3050",
+            "meaning": "The blue of a cooperative seal.",
+            "usage": "Wordmark, headers, seal outline"
+          },
+          {
+            "name": "Belt Cream",
+            "hex": "#F5EDD7",
+            "meaning": "The cream of a Wisconsin dairy label.",
+            "usage": "Background, paper, seal fill"
+          },
+          {
+            "name": "Cheddar",
+            "hex": "#C97E2A",
+            "meaning": "Wisconsin cheddar.",
+            "usage": "Accent, seal detail, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and reports",
+          "secondary": "S\u00f6hne for body and digital",
+          "rationale": "A serif for the institutional weight of a 100-year cooperative model; a grotesk for the operational documents and digital portal."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Milkmaid's Almanac",
+        "tagline": "Seasonal dairy, by the month.",
+        "brandNameRationale": "Picked over Cowbell & Curd and Pail & Churn. The Milkmaid's Almanac fuses two strong cultural anchors (Vermeer's c. 1658 Milkmaid and the agricultural almanac) into a content-led brand structure \u2014 the almanac itself becomes the editorial and product calendar. Cowbell & Curd is charming but reads as a single shop. Pail & Churn is more product-narrow. The Almanac scales across seasonal raw-milk products, farmstead cheeses, and a publishing tradition.",
+        "industrySummary": "Creative dairy brands have a real opening in the seasonal-storytelling space \u2014 the calf cycles, pasture rotations, and cheesemaking seasons are all native to the product but rarely surfaced. The customer is reading Substack and shopping at the farmers' market.",
+        "competitorLandscape": "Jasper Hill Farm (jasperhillfarm.com) holds the seasonal farmstead cheese slot. Cellars at Jasper Hill (cellarsatjasperhill.com) does the affineur position. Cowgirl Creamery (cowgirlcreamery.com) is the California peer. We sit alongside Jasper Hill with a publishing and almanac-led identity.",
+        "positioningStatement": "A seasonal raw-milk and farmstead-cheese brand structured around a monthly almanac.",
+        "targetAudience": {
+          "primary": "30 to 55. Subscribes to Salt + Spine and Cheese Professor. Plans a kitchen calendar around what's in season. Buys cheese by the wedge and milk by the half-gallon.",
+          "behaviors": [
+            "Reads the almanac before ordering",
+            "Plans dinners around the seasonal release",
+            "Gifts the almanac at Christmas"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Storytelling",
+          "Seasonal",
+          "Craft",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the almanac every month with the release",
+            "Name the pasture rotation and the cheesemaker",
+            "Date every wheel"
+          ],
+          "donts": [
+            "Run year-round SKUs",
+            "Hide the cheesemaker",
+            "Use food-styling clich\u00e9s"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 The Milkmaid's Almanac set in a warm slightly-condensed serif, three lines centered. A printer's vignette (a single milkmaid silhouette in the Vermeer pose) sits above the wordmark as the seasonal hallmark, swapped each month for a different almanac vignette.",
+        "colorPalette": [
+          {
+            "name": "Vermeer Blue",
+            "hex": "#3A5A78",
+            "meaning": "The blue of the Milkmaid's apron.",
+            "usage": "Wordmark, masthead, vignette ink"
+          },
+          {
+            "name": "Almanac Cream",
+            "hex": "#F5EFE0",
+            "meaning": "The paper of an old almanac.",
+            "usage": "Background, paper, packaging"
+          },
+          {
+            "name": "Butter Yellow",
+            "hex": "#E8C76D",
+            "meaning": "The butter at the bottom of the almanac.",
+            "usage": "Accent, foil, seasonal pull"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and almanac",
+          "secondary": "S\u00f6hne for body and shop",
+          "rationale": "A serif for the almanac voice \u2014 published, dated, monthly. A grotesk for the shop, where customers order. The almanac is the brand; the shop is the transaction."
+        }
+      }
+    ]
+  }
+}

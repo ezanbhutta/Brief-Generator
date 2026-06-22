@@ -1,0 +1,315 @@
+{
+  "industry": "vet",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Herriot Animal Health",
+        "tagline": "Country medicine for the city dog.",
+        "brandNameRationale": "Picked over Royal Dick Veterinary Care and Pasteur Animal Hospital. James Herriot ('All Creatures Great and Small', 1972) is the single most recognizable cultural anchor in veterinary medicine \u2014 readers across two generations associate the name with the warm country-vet archetype. Royal Dick is academically richer but reads regionally British and slightly comic to American ears. Pasteur is overloaded across many categories (we already considered Pasteur for the dairy corporate brief). Herriot is the strongest brand-shorthand for veterinary care in English.",
+        "industrySummary": "Modern small-animal veterinary practices in 2025+ compete with VCA/Mars consolidation and the Bond Vet / Modern Animal new-format chains. The opening is for a brand that brings the Herriot country-vet warmth into a modern, well-designed urban practice \u2014 clinical, but not corporate.",
+        "competitorLandscape": "Bond Vet (bondvet.com) sets the modern urban-vet template. Modern Animal (modernanimal.com) holds the LA modern-clinic slot. Small Door (smalldoorvet.com) plays the membership-vet position. We sit closest to Small Door with a warmer, story-led identity built on the Herriot tradition.",
+        "positioningStatement": "Modern small-animal medicine in the country-vet tradition.",
+        "targetAudience": {
+          "primary": "30 to 50. Owns one dog, treats it as family. Reads James Herriot in their twenties. Lives in a city but wants a vet who picks up the phone.",
+          "behaviors": [
+            "Books a wellness visit yearly",
+            "Reads the vet's notes after every visit",
+            "Asks about the vet's clinical training"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Clinical",
+          "Considered",
+          "Plain-spoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the veterinarian on every chart",
+            "Quote treatment in plain English",
+            "Pick up the phone when the owner calls"
+          ],
+          "donts": [
+            "Use 'fur-baby' language",
+            "Photograph staff in matching scrubs against beige",
+            "Sell wellness plans like gym memberships"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Herriot in a warm slightly-condensed serif, with Animal Health in small caps below. A small line-drawing hallmark of a country gate (Herriot's Yorkshire stone walls) used as the door sign and the favicon.",
+        "colorPalette": [
+          {
+            "name": "Dales Green",
+            "hex": "#3E5A3A",
+            "meaning": "The green of the Yorkshire Dales.",
+            "usage": "Wordmark, headers, hallmark"
+          },
+          {
+            "name": "Stone",
+            "hex": "#EFEAE0",
+            "meaning": "The stone of a country wall.",
+            "usage": "Background, paper, packaging"
+          },
+          {
+            "name": "Bracken",
+            "hex": "#A8682E",
+            "meaning": "The brown of moorland bracken.",
+            "usage": "Accent, foil, callout"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and patient letters",
+          "secondary": "S\u00f6hne for body and digital",
+          "rationale": "A serif for the warmth and the country-vet voice; a grotesk for the digital booking and the chart export."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Equine House of Newmarket",
+        "tagline": "Sport-horse medicine where racing started.",
+        "brandNameRationale": "Picked over St. Bernard Veterinary House and Maison Curie V\u00e9t\u00e9rinaire. A flagged Curie trademark risk and suggested 'Maison Alfort' \u2014 but Newmarket is the stronger anchor for a true luxury veterinary brand. Newmarket has been the global heart of thoroughbred racing since the 1660s and the home of the Animal Health Trust's equine specialism \u2014 luxury buyers (owners of sport and racing horses) know the address. St. Bernard is charming but historically tied to mountain rescue, less to ongoing premium veterinary care. Equine House of Newmarket inherits 360 years of the world's most expensive animal medicine.",
+        "industrySummary": "Luxury veterinary practice is concentrated in two species \u2014 small-animal concierge in cities (Heart + Paw, AnimalGeneral) and equine medicine at racing-yard scale. The opening is for an equine-specialist brand rooted in Newmarket, serving the owners of sport horses and the trainers around them.",
+        "competitorLandscape": "Rossdales (rossdales.com) is the Newmarket peer and the global benchmark for equine sport medicine. Hagyard (hagyard.com) is the Kentucky bluegrass equivalent. Newmarket Equine Hospital (newmarketequinehospital.com) is the literal neighbor. We sit between Rossdales and Hagyard with a private-client posture.",
+        "positioningStatement": "A luxury equine clinic for racing and sport horses, in the Newmarket tradition.",
+        "targetAudience": {
+          "primary": "Owners and trainers of thoroughbred racing and sport horses worldwide. Establishes wealth, often multi-generational. Books the same clinician for the entire career of the horse.",
+          "behaviors": [
+            "Books a year of veterinary care for a single horse",
+            "Travels with the horse to the clinic",
+            "Refers privately within the owners' circle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Authoritative",
+          "Patient",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the clinician on every report",
+            "Write reports the trainer can read",
+            "Treat the horse as a long-term patient"
+          ],
+          "donts": [
+            "Publish racing wins as marketing",
+            "Photograph the clinic with celebrity owners",
+            "Run promotional pricing"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Equine House of Newmarket in a thin neoclassical roman, three lines centered. A wax-seal mark of a single horse silhouette (the Newmarket Heath weathervane) used on the reports and stable visit cards.",
+        "colorPalette": [
+          {
+            "name": "Heath Green",
+            "hex": "#2E3F2A",
+            "meaning": "The green of Newmarket Heath.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Silks Cream",
+            "hex": "#F3EDDE",
+            "meaning": "The cream of jockey silks.",
+            "usage": "Background, paper, packaging"
+          },
+          {
+            "name": "Bay",
+            "hex": "#6B3A20",
+            "meaning": "The brown of a bay thoroughbred.",
+            "usage": "Accent, wax seal, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Garamond Premier Pro for the wordmark and reports",
+          "secondary": "S\u00f6hne for body and operational documents",
+          "rationale": "A neoclassical roman for the establishment voice; a composed grotesk for the operational documents and the clinic portal."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Animal Hospital.",
+        "tagline": "What it is.",
+        "brandNameRationale": "Picked over Practice Vet and The Clinic for Animals. The period in 'Animal Hospital.' is the move \u2014 the descriptor becomes the brand, and the punctuation signals intention. Practice Vet is utilitarian but reads like a placeholder. The Clinic for Animals is too long for a sign over a door. Animal Hospital. is the strongest minimal \u2014 it owns the descriptive term and turns it into a brand mark.",
+        "industrySummary": "Minimalist veterinary brands have a real opening in dense urban neighborhoods where the customer wants a vet, not a brand. The opening is for a neighborhood practice whose name is literally the descriptor for what it is.",
+        "competitorLandscape": "Bond Vet (bondvet.com) sets the modern urban-clinic template. Small Door (smalldoorvet.com) plays the membership angle. Heart + Paw (heartandpaw.com) holds the lifestyle-clinic slot. We sit smaller, single-storefront, neighborhood-first.",
+        "positioningStatement": "A neighborhood animal hospital whose name is the door sign.",
+        "targetAudience": {
+          "primary": "28 to 50. Owns one pet. Lives within ten blocks. Wants a vet who knows the dog by name on the second visit.",
+          "behaviors": [
+            "Walks to the appointment",
+            "Books the same vet every time",
+            "Texts the front desk for advice"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Minimal",
+          "Honest",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use one wordmark on the door",
+            "Answer the phone in three rings",
+            "Name the vet on the chart"
+          ],
+          "donts": [
+            "Sell wellness plans as memberships",
+            "Use mascot illustrations",
+            "Photograph the waiting room"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Animal Hospital. in a precise neo-grotesk, sentence case, with the full stop sized as the period in body type. The full stop is the hallmark \u2014 it appears alone on the door's window decal and the lab coat.",
+        "colorPalette": [
+          {
+            "name": "Coat White",
+            "hex": "#FBFBF9",
+            "meaning": "The white of a clean lab coat.",
+            "usage": "Background, packaging, exam room"
+          },
+          {
+            "name": "Chart Black",
+            "hex": "#101012",
+            "meaning": "The black of a patient chart.",
+            "usage": "Wordmark, body type, hallmark"
+          },
+          {
+            "name": "Compress Red",
+            "hex": "#A8302C",
+            "meaning": "The red of a clinic cross.",
+            "usage": "Accent, callout, signage"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and all type",
+          "secondary": "S\u00f6hne Mono for chart data and prescription",
+          "rationale": "One family. One weight for the brand. The mono carries the dose and the date."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Companion Standards Veterinary",
+        "tagline": "Standards for the practices that own them.",
+        "brandNameRationale": "Picked over AVMA Standards Veterinary (A flagged AVMA trademark) and Royal Veterinary Group / One Health. A's suggested alt 'Companion Standards Veterinary' is the right name \u2014 Companion is the standard veterinary term for small-animal patients and 'Standards' positions the brand as a B2B operating partner. Royal Veterinary Group is too close to the actual Royal Veterinary College (London). One Health is real but overused by Mars, AVMA, and CDC programs. Companion Standards is defensibly distinctive.",
+        "industrySummary": "B2B veterinary services in 2025+ are dominated by Mars / VCA / NVA / Banfield consolidation, with independent practices selling at high multiples. The opening is for a B2B operating partner that helps independents standardize quality, compliance, and pricing without consolidating ownership.",
+        "competitorLandscape": "Galaxy Vets (galaxyvets.com) is the employee-owned consolidator peer. PetVet Care Centers (petvetcarecenters.com) is the traditional consolidator. AmeriVet (amerivet.com) plays the practice-partner slot. We sit alongside Galaxy Vets, advising independents who refuse to consolidate.",
+        "positioningStatement": "An operating-standards and practice-management partner for independent veterinary practices.",
+        "targetAudience": {
+          "primary": "Owner-veterinarians of independent and small-group practices. Wants standardized SOPs, group purchasing, and compliance support without selling the practice.",
+          "behaviors": [
+            "Audits SOPs quarterly",
+            "Negotiates group purchasing contracts",
+            "Tracks AAHA accreditation status"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Operational",
+          "Independent-first",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite AAHA standards directly",
+            "Publish anonymized practice benchmarks",
+            "Identify as an alternative to consolidator buyout"
+          ],
+          "donts": [
+            "Compete with practices for end-customers",
+            "Use consumer-style marketing",
+            "Position as a private equity vehicle"
+          ]
+        },
+        "logoDirection": "A wordmark with a small mark \u2014 three horizontal rules of equal weight, a standards-tier visual. Used on contracts, the partner portal, and the annual benchmark report.",
+        "colorPalette": [
+          {
+            "name": "Standards Navy",
+            "hex": "#1C2A40",
+            "meaning": "The blue of an institutional standard.",
+            "usage": "Wordmark, headers, mark"
+          },
+          {
+            "name": "Practice Grey",
+            "hex": "#E6E7EA",
+            "meaning": "The grey of an operational document.",
+            "usage": "Background, paper, portal"
+          },
+          {
+            "name": "Accreditation Gold",
+            "hex": "#B68C3C",
+            "meaning": "The accent of an AAHA seal.",
+            "usage": "Accent, callout, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for the wordmark and reports",
+          "secondary": "S\u00f6hne for body and portal",
+          "rationale": "A serif for the institutional weight; a grotesk for the partner portal and operational documents."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Country Vet Almanac",
+        "tagline": "Mixed practice, in print.",
+        "brandNameRationale": "Picked over Beasts & Barnyard and Paw & Stethoscope. The Country Vet Almanac extends the Herriot rural-vet tradition into a content-led brand with editorial scale \u2014 the almanac itself becomes the marketing instrument. Beasts & Barnyard is charming but reads regionally specific. Paw & Stethoscope is clever but reads urban small-animal. The Country Vet Almanac is the most distinctive creative position and the most extensible (podcast, newsletter, print almanac, clinic).",
+        "industrySummary": "Creative veterinary brands have a real opening in rural and exurban markets where the practice serves both pet and livestock owners. The opening is for a mixed-practice brand with a content-led identity \u2014 the almanac as the patient-education tool.",
+        "competitorLandscape": "Veterinary Practice News (veterinarypracticenews.com) holds the B2B publishing slot. Modern Farmer (modernfarmer.com) plays the rural-lifestyle adjacent. Hobby Farms (hobbyfarms.com) is the smallholder peer. We sit between them \u2014 a working rural mixed-practice with an almanac as the patient education.",
+        "positioningStatement": "A rural mixed-practice and content brand structured around a seasonal almanac.",
+        "targetAudience": {
+          "primary": "30 to 60. Owns dogs and chickens, sometimes goats and one horse. Reads The Stockman Grass Farmer. Plans the year around lambing and the cattle dewormer schedule.",
+          "behaviors": [
+            "Subscribes to the printed almanac",
+            "Brings multiple species to the same vet",
+            "Calls about goats, dogs, and a horse in the same visit"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Storytelling",
+          "Seasonal",
+          "Craft",
+          "Practical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the almanac monthly with the practice calendar",
+            "Treat all species in plain language",
+            "Date every newsletter and every visit"
+          ],
+          "donts": [
+            "Photograph the practice with golden-hour filters",
+            "Specialize in only one species",
+            "Hide the prices"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 The Country Vet Almanac set in a warm slightly-condensed serif, three lines centered. A printer's vignette (a single rural barn silhouette) sits above the wordmark as the masthead, swapped seasonally for a different almanac vignette.",
+        "colorPalette": [
+          {
+            "name": "Almanac Green",
+            "hex": "#3D5A3C",
+            "meaning": "The green of a country pasture.",
+            "usage": "Wordmark, masthead, vignette ink"
+          },
+          {
+            "name": "Print Cream",
+            "hex": "#F4EEDF",
+            "meaning": "The cream of almanac paper.",
+            "usage": "Background, paper, packaging"
+          },
+          {
+            "name": "Saddle",
+            "hex": "#7D4A24",
+            "meaning": "The brown of a saddle and a barn door.",
+            "usage": "Accent, foil, seasonal pull"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and almanac",
+          "secondary": "S\u00f6hne for body and shop",
+          "rationale": "A serif for the almanac voice; a grotesk for the appointment booking and the practice portal."
+        }
+      }
+    ]
+  }
+}
