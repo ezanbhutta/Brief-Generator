@@ -1,0 +1,345 @@
+{
+  "industry": "lighting",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Filament North",
+        "tagline": "Lighting designed for low northern light.",
+        "brandNameRationale": "Filament names the heated wire at the core of an incandescent bulb \u2014 the original lighting trade word, in continuous use since Edison's 1879 carbon-filament demonstration. North anchors the brand to the Nordic design tradition of designing for long, dark winters (Henningsen, Wegner, Aalto). The pair reads as a modern lighting house with a specific lighting-design discipline.",
+        "industrySummary": "Modern lighting has split into the design-led cohort (Hay, Muuto, Gubi) and the tech-led cohort (Dyson, Philips Hue). The opening is for a modern brand with the Nordic discipline of designing for low ambient light \u2014 the layered, glare-free systems pioneered by Poul Henningsen's PH series in 1925.",
+        "competitorLandscape": "Hay (hay.com) holds the design-led modern peer. Muuto (muuto.com) plays the Nordic modern middle. Gubi (gubi.com) sits in the design-archive peer position. &Tradition (andtradition.com) is the Nordic heritage-modern reference. We sit alongside Muuto with a sharper low-light specialism.",
+        "positioningStatement": "A modern lighting brand designed for the eight months of the year when the sun barely shows up.",
+        "targetAudience": {
+          "primary": "30 to 55. Owns the home. Reads the design press. Specifies the lamp before the sofa.",
+          "behaviors": [
+            "Specifies bulb colour temperature",
+            "Reads PH lamp history",
+            "Replaces fixtures rather than rooms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the lumens, the colour temperature, the angle",
+            "Photograph the lamp on at dusk",
+            "Cite the design lineage"
+          ],
+          "donts": [
+            "Use the word ambiance",
+            "Photograph the lamp off",
+            "Run a holiday sale"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Filament North in a precise modern grotesque, two words stacked, with a single hairline beneath that reads as a horizon line.",
+        "colorPalette": [
+          {
+            "name": "Lamp Black",
+            "hex": "#1A1A1C",
+            "meaning": "Cast-iron lamp base.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F2EEE2",
+            "meaning": "Space.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Filament Amber",
+            "hex": "#D9A23C",
+            "meaning": "The colour of a warm tungsten filament.",
+            "usage": "Accent, callouts"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for lumens, kelvin, and dimensions",
+          "rationale": "The mono carries the technical spec. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Lumi\u00e8re",
+        "tagline": "A house of light, since 1922.",
+        "brandNameRationale": "Maison is the French commercial-house convention used by heritage maisons (Maison Margiela, Maison Francis Kurkdjian). Lumi\u00e8re is French for 'light' \u2014 the foundational physical word for the category. The pair places the brand in the heritage French \u00e9clairagiste tradition (Baccarat, Lalique, Jansen) without imitating any specific maison.",
+        "story": "Maison Lumi\u00e8re is a French lighting house founded in 1922 in the Marais, Paris, and run by the founder's great-grandchildren. The catalog is nineteen fixtures \u2014 chandeliers, sconces, pendants, table lamps \u2014 each hand-finished in the original Paris atelier.",
+        "industrySummary": "Heritage lighting maisons are rare and remain among the most premium presentations available. There is space for a small French maison operating in the original family atelier register.",
+        "competitorLandscape": "Baccarat (baccarat.com) is the institutional French luxury reference. Lalique (lalique.com) holds the heritage crystal peer slot. Charles Paris (charlesparis.com) sits in the small heritage maison middle. We belong with Charles Paris in the small French heritage maison category.",
+        "positioningStatement": "A French heritage lighting house with nineteen fixtures, hand-finished in the original Paris atelier since 1922.",
+        "targetAudience": {
+          "primary": "40 to 70. Owns the apartment in the 7e. Specifies through an interior designer. Re-buys for the country house.",
+          "behaviors": [
+            "Commissions custom fixtures",
+            "Visits the maison when in Paris",
+            "Passes fixtures to children"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address customers in formal French and English",
+            "Reference the maison's founding year",
+            "Sign correspondence in the founders' family name"
+          ],
+          "donts": [
+            "Use social-media-led marketing",
+            "Run promotions",
+            "Issue seasonal collections"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Maison Lumi\u00e8re in a classical book serif with a small embossed atelier crest. The crest depicts the original Paris atelier fa\u00e7ade.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page and packaging.",
+            "usage": "All correspondence"
+          },
+          {
+            "name": "Slate",
+            "hex": "#1F2530",
+            "meaning": "Primary type.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Single accent \u2014 the light itself.",
+            "usage": "Crest, embossed seals"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and printed catalogue",
+          "secondary": "An engraver's italic for the founding date",
+          "rationale": "Letterpress register. The maison communicates almost entirely in print."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "PH-Zero",
+        "tagline": "One lamp. Layered shade. Zero glare.",
+        "brandNameRationale": "PH references the multi-shade principle developed by Poul Henningsen and presented at the 1925 Paris Exposition \u2014 the layered-shade system that distributes light without glare. Zero strips the brand to a single fixture. The name reads as a typed catalog code, like a parts number.",
+        "industrySummary": "Lighting has accumulated apps, smart bulbs, seasonal collections, and decorative ranges. There's an opening for a brand that ships one fixture, one shade system, one colour.",
+        "competitorLandscape": "Most lighting brands fail this purity test. The closest peers in spirit are some single-object Japanese lighting brands and certain architecture-school workshop lamps.",
+        "positioningStatement": "One lamp. Layered shade. Zero glare.",
+        "targetAudience": {
+          "primary": "Adults who specify lighting before furniture. They want the fixture, the lumens, the price.",
+          "behaviors": [
+            "Specifies fixtures in plan",
+            "Skips the seasonal collection",
+            "Re-orders the same fixture for the next house"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the fixture, the lumens, the price",
+            "Confirm orders in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Photograph the lamp as decor",
+            "Run a seasonal collection",
+            "Add a second fixture"
+          ]
+        },
+        "logoDirection": "PH-Zero set in a single-weight grotesque, the hyphen tracked tight, the whole mark sized small on the lamp base.",
+        "colorPalette": [
+          {
+            "name": "Lamp White",
+            "hex": "#F4F0E6",
+            "meaning": "The shade colour.",
+            "usage": "Fixture, packaging"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, all copy"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent \u2014 the socket.",
+            "usage": "Hardware detail"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The lamp base, the spec card, and the receipt all share the same mark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Lumen Industries",
+        "tagline": "Architectural lighting at scale.",
+        "brandNameRationale": "Lumen is the SI unit of luminous flux \u2014 the foundational technical word for the category. Industries signals a serious manufacturing operator. The pair reads as a real, established architectural lighting manufacturer already on the spec sheet of large firms.",
+        "industrySummary": "Architectural and commercial lighting is a B2B category dominated by large manufacturers (Acuity, Signify, Zumtobel). Buyers are architects, electrical contractors, and lighting designers specifying for offices, hotels, and institutional buildings. Brand and spec-grade reliability are the differentiators.",
+        "competitorLandscape": "Acuity Brands (acuitybrands.com) is the institutional peer at scale. Signify (signify.com) holds the global manufacturer peer slot. Zumtobel (zumtobel.com) plays the European architectural peer. Erco (erco.com) sits in the design-led architectural middle. We sit closer to Erco with broader category coverage.",
+        "positioningStatement": "Architectural lighting manufacturing for serious specifiers.",
+        "targetAudience": {
+          "primary": "Architects, lighting designers, electrical contractors, and facilities directors specifying fixtures for offices, hotels, and institutional buildings.",
+          "motivations": [
+            "Spec-grade reliability across projects",
+            "Photometric data the lighting designer can trust",
+            "One manufacturer across linear, downlight, and accent fixtures"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with photometric data",
+            "Show case studies with named architecture firms",
+            "Speak to the specifier, not the consumer"
+          ],
+          "donts": [
+            "Use consumer lighting language",
+            "Photograph the fixture as decor",
+            "Run consumer promotions"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Spec-grade reliability",
+            "description": "Photometric data, IES files, and warranty terms specifiers can trust."
+          },
+          {
+            "name": "One manufacturer across categories",
+            "description": "Linear, downlight, accent, and emergency fixtures under one operating group."
+          },
+          {
+            "name": "Project support",
+            "description": "In-house application engineering for major commercial projects."
+          }
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is two intersecting beams of light \u2014 a single fixture cone. Reads cleanly on a spec deck, project nameplate, and trade-show booth.",
+        "colorPalette": [
+          {
+            "name": "Spec Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale, the spec sheet.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds, dashboards"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Filament Amber",
+            "hex": "#D9A23C",
+            "meaning": "Category accent.",
+            "usage": "Highlights, IES callouts"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and spec materials",
+          "secondary": "Source Serif Pro for printed catalogs and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed wholesale catalogs and spec books."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Tungsten Diary",
+        "tagline": "A lighting brand for the hour the sun is gone.",
+        "brandNameRationale": "Tungsten is the metal whose filament replaced Edison's carbon in 1904, and remains the trade word for warm incandescent light. Diary frames the brand as a storytelling object \u2014 a record of evenings. The pair reads as a warm, narrative lighting house with a strong character.",
+        "manifesto": "Most lighting brands sell the fixture. We sell the hour. The hour after dinner. The reading lamp at 11pm. The bulb above the kitchen table while you finish the last of the wine. The brand is for that hour.",
+        "industrySummary": "Lighting branding has been polished, architectural, and a little cold. There's room for one that's warm, narrative, character-driven, and serious about the way a room actually feels at night.",
+        "competitorLandscape": "Tala (tala.co.uk) does the warm-glass middle. Original BTC (originalbtc.com) holds the considered British peer slot. Schoolhouse (schoolhouse.com) sits in the heritage-narrative peer position. We sit warmer and more narrative than any of them.",
+        "positioningStatement": "A lighting brand for the hour after dinner.",
+        "targetAudience": {
+          "primary": "30 to 55. Rents or owns. Reads at night. Doesn't use the ceiling light after seven.",
+          "behaviors": [
+            "Owns three table lamps in one room",
+            "Reads with a bulb at 2700K",
+            "Lights candles before lamps"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Narrative",
+          "Playful",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the lamp on, with a real room around it",
+            "Tell short stories about the evenings",
+            "Name each fixture after the hour it belongs to"
+          ],
+          "donts": [
+            "Use the word ambiance",
+            "Photograph fixtures on a white sweep alone",
+            "Run a holiday sale"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with a small flame-shape replacing the dot of the i in 'Diary'. The flame stands alone on the hangtag and the social avatar.",
+        "colorPalette": [
+          {
+            "name": "Tungsten Amber",
+            "hex": "#D9A23C",
+            "meaning": "The warm filament.",
+            "usage": "Primary, accent"
+          },
+          {
+            "name": "Evening Cream",
+            "hex": "#FBF6E9",
+            "meaning": "The page at lamp light.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Inkwell",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines"
+          },
+          {
+            "name": "Plum",
+            "hex": "#4A2B4C",
+            "meaning": "The hour after dinner.",
+            "usage": "Secondary surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and product names",
+          "rationale": "Migra carries the narrative. Neue Montreal handles the working type."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "industry": "magic",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Sleight Studio",
+        "tagline": "The craft of close-up.",
+        "brandNameRationale": "Anchor: sleight of hand — the foundational craft of close-up and parlor magic, named in English from the 14th century. Counter to Houdin & Co. (spelling-collision with Houdini trademark) and Pepper Effect (more useful in Creative).",
+        "industrySummary": "Modern magic brands compete on craft literacy and editorial framing — close-up magicians, prop makers, and magic-theory publishers serving a literate enthusiast market.",
+        "competitorLandscape": "Theory11 (theory11.com) plays the modern editorial peer. Ellusionist (ellusionist.com) holds the digital-magic middle. Vanishing Inc. (vanishingincmagic.com) is the editorial reference. We sit as a craft-led modern brand.",
+        "positioningStatement": "Sleight Studio is a modern magic brand publishing close-up magic decks, props, and craft books.",
+        "targetAudience": {
+          "primary": "Close-up magicians and enthusiasts 22-45 who care about technique.",
+          "behaviors": [
+            "Practice sleights daily",
+            "Read magic theory",
+            "Collect editorial decks"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Craft-led",
+          "Modern",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the sleight and the inventor",
+            "Show the actual hand-work",
+            "Publish technique notes"
+          ],
+          "donts": [
+            "Reveal proprietary methods",
+            "Use stock magic imagery",
+            "Sell 'magic' as the whole pitch"
+          ]
+        },
+        "logoDirection": "Wordmark: SLEIGHT STUDIO set in a confident modern grotesk, two lines. Small mark: a single playing-card silhouette used on decks.",
+        "colorPalette": [
+          {
+            "name": "Card Ink",
+            "hex": "#141518",
+            "meaning": "Playing-card ink",
+            "usage": "Body"
+          },
+          {
+            "name": "Pip Red",
+            "hex": "#A12830",
+            "meaning": "Heart/diamond pip",
+            "usage": "Accent"
+          },
+          {
+            "name": "Card Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Card stock",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for technique notes",
+          "rationale": "A modern grotesk plus its mono — the craft-notebook register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Robert-Houdin",
+        "tagline": "Parisian conjuring, in the atelier tradition.",
+        "brandNameRationale": "Anchor: Jean-Eugène Robert-Houdin (1805-1871), the French watchmaker who founded modern theatrical magic at his Théâtre Robert-Houdin in Paris in 1845. He died in 1871, deep public domain. Counter to The Circle (Magic Circle is an active London society) and Davenport Heritage (Davenports London is an active business).",
+        "industrySummary": "Luxury magic is a small editorial category — heritage prop-making, atelier-grade illusions, and concierge magic for private theaters and collectors.",
+        "competitorLandscape": "Tannen's Magic (tannens.com) plays the heritage New York peer. Penguin Magic (penguinmagic.com) holds the institutional middle. Theory11 (theory11.com) is the modern editorial reference. We sit as a Parisian atelier heritage house.",
+        "positioningStatement": "Maison Robert-Houdin is a heritage Parisian magic atelier drawing on Robert-Houdin's 1845 theatrical tradition.",
+        "targetAudience": {
+          "primary": "Magic collectors and private-theater patrons commissioning bespoke illusions.",
+          "behaviors": [
+            "Collect heritage props",
+            "Commission bespoke illusions",
+            "Pay for atelier craft"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Theatrical",
+          "Heritage",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the illusion and the year",
+            "Print in French and English",
+            "Send a paper card with each commission"
+          ],
+          "donts": [
+            "Use 'luxury' anywhere on the label",
+            "Reveal the method",
+            "Photograph in stock-image settings"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON ROBERT-HOUDIN set in a refined French book serif, two lines centered. A small mark — a single 19th-century stage-curtain silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Curtain Crimson",
+            "hex": "#7A1E2A",
+            "meaning": "19th-century stage curtain",
+            "usage": "Accent"
+          },
+          {
+            "name": "Atelier Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Heritage paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Stage-prop brass",
+            "usage": "Hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body and commission letters",
+          "rationale": "Two classical serifs — the Parisian-atelier letter register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Sleight",
+        "tagline": "One word, one craft.",
+        "brandNameRationale": "Anchor: sleight of hand — the foundational craft of magic, named in English from the 14th century. Single word, no TM risk. Counter to Ghost (Pepper's Ghost is reused in Creative) and Houdin (Houdini-spelling collision).",
+        "industrySummary": "Minimalist magic brands serve the craft-literate market — single-deck publishers, single-prop makers, and editorial publications that strip the lifestyle scaffolding.",
+        "competitorLandscape": "Most magic brands lean ornate-theatrical. The minimal end is mostly empty. Theory11 (theory11.com) is the closest editorial reference. We sit as the single-word minimal option.",
+        "positioningStatement": "Sleight is a minimal magic brand publishing one deck and one craft book.",
+        "targetAudience": {
+          "primary": "Close-up magicians 22-45 who buy fewer, considered tools.",
+          "behaviors": [
+            "Practice sleights daily",
+            "Buy one editorial deck",
+            "Skip the lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Craft-led",
+          "Modern",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the deck",
+            "Name the sleight",
+            "Use white space generously"
+          ],
+          "donts": [
+            "Add a second product line",
+            "Crowd the page",
+            "Use stock magic imagery"
+          ]
+        },
+        "logoDirection": "Wordmark: SLEIGHT set very large in a clean modern sans, seven letters, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Card Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Card Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Card stock",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pip Red",
+            "hex": "#A12830",
+            "meaning": "Single accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for technique notes",
+          "rationale": "Clean Diatype with its mono — the single-craft register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Stage & Salon Co.",
+        "tagline": "The two halves of conjuring.",
+        "brandNameRationale": "Anchor: the historic division of magic between stage illusion (grand cabinets, levitations) and salon/close-up magic (cards, coins) — the two recognized branches of the trade. Counter to Magic Circle Holdings (active society) and Robert-Houdin Group (overlap with luxury pick).",
+        "industrySummary": "B2B magic operators — prop-makers serving stage productions, event-magic agencies, and salon-magic publishers — are a real institutional category serving cruise lines, casinos, and corporate events.",
+        "competitorLandscape": "The Illusionists tour (theillusionists.com) plays the stage-production reference. Magic Castle (magiccastle.com) holds the salon-magic institutional. Penguin Magic (penguinmagic.com) is the publisher reference. We sit as a B2B stage-and-salon operator.",
+        "positioningStatement": "Stage & Salon Co. is an institutional magic operator providing props, talent, and salon-magic publishing for productions and venues.",
+        "targetAudience": {
+          "primary": "Producers, casino entertainment buyers, and corporate event planners booking magic talent.",
+          "behaviors": [
+            "Book talent for multi-night runs",
+            "Negotiate multi-year venue contracts",
+            "Care about prop reliability"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Theatrical",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the talent roster and the prop catalog",
+            "Publish quarterly operator letters",
+            "Refer to acts by name"
+          ],
+          "donts": [
+            "No consumer-facing marketing",
+            "No social media at the parent level",
+            "No reveal of methods"
+          ]
+        },
+        "logoDirection": "Wordmark: STAGE & SALON CO. set in an institutional serif, two lines. A small mark — a stage-curtain and parlor-table silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Curtain Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Stage-velvet institutional",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Statement Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Document paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Stage-prop brass",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the booking-agent register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Pepper's Ghost",
+        "tagline": "The 1862 illusion, kept alive.",
+        "brandNameRationale": "Anchor: Pepper's Ghost — the theatrical illusion first publicly demonstrated by John Henry Pepper at the Royal Polytechnic Institution in 1862, which projected ghostly figures onto a stage using angled glass. The technique is in the public domain and the name is editorially perfect.",
+        "industrySummary": "Creative magic brands play on theatrical narrative and illusion history. Pepper's Ghost as a brand frame is editorially rich and almost unused commercially.",
+        "competitorLandscape": "Theory11 (theory11.com) plays the editorial-modern peer. Vanishing Inc. (vanishingincmagic.com) holds the editorial-craft middle. The Conjuring Arts Research Center (conjuringarts.org) is the heritage reference. We sit as a 19th-century-theatrical creative brand.",
+        "positioningStatement": "Pepper's Ghost is a creative magic brand drawing on 19th-century Victorian stage illusion.",
+        "targetAudience": {
+          "primary": "Magicians and theatrical enthusiasts 25-50 who read illusion history.",
+          "behaviors": [
+            "Read Victorian stage history",
+            "Care about illusion technique",
+            "Collect 19th-century magic ephemera"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Theatrical",
+          "Historically literate",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the 1862 Royal Polytechnic story",
+            "Use Victorian theatrical illustration",
+            "Name the illusion and the inventor"
+          ],
+          "donts": [
+            "Use stock magic imagery",
+            "Reveal proprietary methods",
+            "Skip the Victorian framing"
+          ]
+        },
+        "logoDirection": "Wordmark: PEPPER'S GHOST set in a Victorian display serif, two lines centered. A small mark — a single angled-glass-and-figure silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Stage Crimson",
+            "hex": "#7A1E2A",
+            "meaning": "Victorian stage curtain",
+            "usage": "Accent"
+          },
+          {
+            "name": "Polytechnic Cream",
+            "hex": "#F1EAD2",
+            "meaning": "1862 program paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ghost Ink",
+            "hex": "#141417",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Antique for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "A Victorian display serif plus a clean grotesk — the 1862-program register, modernized."
+        }
+      }
+    ]
+  }
+}

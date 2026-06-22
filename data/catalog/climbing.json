@@ -1,0 +1,351 @@
+{
+  "industry": "climbing",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Cassin Ridge",
+        "tagline": "Climbing gear for the long route.",
+        "brandNameRationale": "The Cassin Ridge is the documented south-buttress route on Denali (Mount McKinley), first climbed by Riccardo Cassin's Italian expedition in 1961 \u2014 a foundational technical alpine route in mountaineering history. Cassin died in 2009; his name is associated with a separate Italian gear brand (Cassin / C.A.M.P.) but the route name is geographic and historical, not a personal mark when paired this way. As a brand name it sites the company on a serious documented route without naming Cassin alone.",
+        "industrySummary": "Modern climbing brands have split into the gym-led cohort (So iLL, Friction Labs) and the alpine-technical cohort (Petzl, Black Diamond, Wild Country). The opening is for a modern brand sited on a documented alpine route \u2014 built around long-route gear (full-rope rack, multi-pitch packs, alpine apparel) rather than gym discipline.",
+        "competitorLandscape": "Wild Country (wildcountry.com) holds the technical heritage modern peer. Edelrid (edelrid.com) plays the European technical peer. Black Diamond (blackdiamondequipment.com) sits in the broad-spec institutional middle. So iLL (soillholds.com) is the gym-led reference we sit against. We belong alongside Wild Country with a long-route specialism.",
+        "positioningStatement": "Climbing gear for routes that take more than one day.",
+        "targetAudience": {
+          "primary": "28 to 50. Climbs multi-pitch on weekends. Plans an alpine trip every season. Reads the AAJ.",
+          "behaviors": [
+            "Owns a full trad rack",
+            "Plans routes off topos",
+            "Re-buys gear for life"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Technical",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the route, the gear, the pitch count",
+            "Photograph at the belay, not the summit",
+            "Publish trip reports with the rack"
+          ],
+          "donts": [
+            "Use 'send' as marketing",
+            "Photograph empty walls at sunrise",
+            "Run a gym campaign"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Cassin Ridge in a precise modern grotesque, with a single ridge-line glyph beneath that reads as a topo ridge in profile.",
+        "colorPalette": [
+          {
+            "name": "Granite",
+            "hex": "#7C7B7A",
+            "meaning": "Cold weathered rock.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Snow",
+            "hex": "#FAFAF7",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rope Orange",
+            "hex": "#E07A2C",
+            "meaning": "Single-line dynamic rope.",
+            "usage": "Accent, hardware callouts"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for grades, weights, and pitch counts",
+          "rationale": "The mono carries the topo data. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Bonatti Atelier",
+        "tagline": "Hand-made alpine equipment for the long expedition.",
+        "brandNameRationale": "Walter Bonatti (1930\u20132011) is the documented Italian alpinist whose 1955 Petit Dru southwest pillar solo, 1965 Matterhorn north-face direct winter solo, and 1958 Gasherbrum IV first ascent are cornerstones of post-war mountaineering. He died in 2011, his estate is administered through the Fondazione Walter Bonatti, and Bonatti himself never built a gear company \u2014 making the surname available as a heritage anchor for an alpine atelier with appropriate clearance. Atelier places the brand in the small-workshop register.",
+        "story": "Bonatti Atelier is a small Italian workshop in the Aosta valley producing alpine equipment and apparel by hand. The catalog runs to fifteen items \u2014 alpine packs, bivvy shells, mountaineering trousers, gaiters, mittens \u2014 each made to order with a six- to twelve-week lead time.",
+        "industrySummary": "Heritage alpine outfitters are rare and dominated by century-old European houses (Grivel, Camp). The opening is for a small atelier producing genuinely hand-made alpine kit in low quantities \u2014 closer to Kl\u00e4ttermusen's early years than to anything at current scale.",
+        "competitorLandscape": "Grivel (grivel.com) is the Italian alpine heritage reference. Kl\u00e4ttermusen (klattermusen.com) holds the heritage-craft outerwear peer slot. Norr\u00f8na (norrona.com) plays the premium technical peer. Camp (camp.it) sits in the Italian alpine middle. We belong with Kl\u00e4ttermusen in the small atelier category.",
+        "positioningStatement": "A small Italian atelier producing hand-made alpine equipment for the long expedition, made to order, with a six- to twelve-week lead time.",
+        "targetAudience": {
+          "primary": "Alpinists and serious mountaineers 35\u201365 commissioning kit for major expeditions.",
+          "behaviors": [
+            "Commissions expedition kit",
+            "Maintains gear across decades",
+            "Reads the AAJ and the Alpinist"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Discreet",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address commissioners by surname",
+            "Name the maker on each piece",
+            "Print the lead time on the order acknowledgement"
+          ],
+          "donts": [
+            "Stock for immediate delivery",
+            "Run promotional pricing",
+            "Photograph kit in fashion press"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Bonatti Atelier in a classical book serif with a small embossed alpine-rope mark on the leather hangtag.",
+        "colorPalette": [
+          {
+            "name": "Ivory",
+            "hex": "#F2EDDF",
+            "meaning": "Page.",
+            "usage": "All correspondence"
+          },
+          {
+            "name": "Granite",
+            "hex": "#1F2530",
+            "meaning": "Type and primary.",
+            "usage": "Body, wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Single accent.",
+            "usage": "Embossed hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "A traditional book serif for the wordmark and printed catalogue",
+          "secondary": "An engraver's italic for the maker's signature",
+          "rationale": "Letterpress register throughout."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Belay.",
+        "tagline": "Hold the rope.",
+        "brandNameRationale": "Belay is the foundational climbing trade word \u2014 the act of managing the rope to catch a fall. A single syllable, full stop. The brand names the most important single act in climbing and stops there.",
+        "industrySummary": "Climbing brands have accumulated chalk lines, apparel ranges, gym partnerships, and seasonal hardware drops. There's an opening for a brand that ships one belay device.",
+        "competitorLandscape": "Most climbing-hardware brands fail this purity test. The closest peers in spirit are some single-device European hardware shops and certain old-school cordelette suppliers.",
+        "positioningStatement": "One belay device. One price.",
+        "targetAudience": {
+          "primary": "Climbers who already know which device they want and want the spec, the weight, and the price.",
+          "behaviors": [
+            "Owns one belay device for life",
+            "Skips the colour story",
+            "Reads UIAA test certificates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Direct",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the device, the spec, the price",
+            "Confirm orders in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Sell apparel",
+            "Sell chalk",
+            "Run a gym campaign"
+          ]
+        },
+        "logoDirection": "Belay. set in a single-weight grotesque, lowercase, with a small full stop. The mark appears on the device, the box, and nowhere else.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F0E6",
+            "meaning": "Space.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rope Orange",
+            "hex": "#E07A2C",
+            "meaning": "Single accent.",
+            "usage": "Device colour"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. The device, the box, the receipt share the same mark."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Cassin Mountaineering Co.",
+        "tagline": "Alpine equipment manufacturing at scale.",
+        "brandNameRationale": "The Cassin Ridge is the documented Denali route first climbed in 1961. Used as a brand anchor for a manufacturing operator (with appropriate clearance from the existing Italian Cassin gear brand and the Cassin estate via Fondazione Riccardo Cassin), the route lineage signals serious alpine engineering. Mountaineering Co. follows the heritage industrial naming convention (Black Diamond Equipment, Grivel Mountain Equipment).",
+        "industrySummary": "Climbing hardware manufacturing and licensing for specialty climbing retailers, alpine clubs, and guide services is a B2B category dominated by mid-tier operators (Black Diamond, Petzl, Wild Country, Camp). The opening is a mid-tier operator with multi-line hardware capacity and retail-grade reliability across cams, draws, harnesses, and helmets.",
+        "competitorLandscape": "Petzl (petzl.com) is the institutional peer at scale. Black Diamond Equipment (blackdiamondequipment.com) holds the multi-line American peer slot. Wild Country (wildcountry.com) plays the British technical heritage peer. Camp (camp.it) sits in the Italian alpine middle. We sit closer to Wild Country with a broader hardware catalog.",
+        "positioningStatement": "Multi-line climbing hardware manufacturing for specialty retail and guide services.",
+        "targetAudience": {
+          "primary": "Specialty climbing retail buyers, alpine club procurement, and guide-service equipment directors sourcing climbing hardware at scale.",
+          "motivations": [
+            "UIAA-certified manufacturing at supply-grade reliability",
+            "Multi-line catalog (cams, draws, harnesses, helmets) from one supplier",
+            "A serious manufacturing operator with alpine engineering depth"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Direct",
+          "Steady",
+          "Technical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with UIAA and CE certifications",
+            "Show case studies with named retailers and guide services",
+            "Publish lead times and minimums"
+          ],
+          "donts": [
+            "Use consumer DTC marketing language",
+            "Photograph hardware in lifestyle settings",
+            "Run consumer promotions"
+          ]
+        },
+        "messagingPillars": [
+          {
+            "name": "Certified manufacturing",
+            "description": "Every piece of hardware is UIAA- and CE-certified, with batch-level traceability."
+          },
+          {
+            "name": "Multi-line supply",
+            "description": "Cams, draws, harnesses, and helmets from one operator."
+          },
+          {
+            "name": "Guide-service support",
+            "description": "Dedicated procurement programs for alpine clubs and guide services."
+          }
+        ],
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single carabiner gate \u2014 the foundational hardware silhouette. Reads cleanly on a spec deck and shipping case.",
+        "colorPalette": [
+          {
+            "name": "Forge Navy",
+            "hex": "#0F2238",
+            "meaning": "Trust, scale.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Clean and structured.",
+            "usage": "Backgrounds, catalogs"
+          },
+          {
+            "name": "Granite",
+            "hex": "#5A6776",
+            "meaning": "Hardware metal.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Rope Orange",
+            "hex": "#E07A2C",
+            "meaning": "Safety accent.",
+            "usage": "Callouts"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed catalogs and contracts",
+          "rationale": "Inter scales clean across digital. The serif handles printed catalogs and certification documents."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Pitch & Piton",
+        "tagline": "A climbing brand for the long route.",
+        "brandNameRationale": "Pitch is the climbing trade word for a single rope-length of climbing. Piton is the historical pointed anchor hammered into rock (the dominant alpine anchor 1900\u20131970s, before nut-and-cam protection). The pair reads as a warm, character-driven climbing house with documented anchors in the trade vocabulary.",
+        "manifesto": "Most climbing brands sell the summit photograph. We sell the second pitch. The hour at the belay reading the topo. The piton you replaced with a cam halfway up. The brand is for the long route, the slow day, the second cup of coffee at the bivvy.",
+        "industrySummary": "Climbing branding has been polished, summit-focused, and a little cold. There's room for one that's warm, narrative, character-driven, and serious about the long route experience.",
+        "competitorLandscape": "Black Diamond (blackdiamondequipment.com) does the institutional middle. Patagonia (patagonia.com) holds the heritage-narrative peer slot. Cotopaxi (cotopaxi.com) sits in the playful outdoor peer position. We sit warmer and more route-focused than any of them.",
+        "positioningStatement": "A climbing brand for the long route.",
+        "targetAudience": {
+          "primary": "25 to 45. Climbs multi-pitch on weekends. Owns one rope. Reads the route description out loud at the parking lot.",
+          "behaviors": [
+            "Reads topos in detail",
+            "Owns one rack across years",
+            "Brings a camp stove to the base"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Narrative",
+          "Playful",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph at the belay and the bivvy",
+            "Tell the story of the route, not the summit",
+            "Send a topo with each order"
+          ],
+          "donts": [
+            "Use 'send' as marketing",
+            "Photograph the summit alone",
+            "Run a gym campaign"
+          ]
+        },
+        "logoDirection": "A wordmark in a punchy display serif with a small piton silhouette replacing the ampersand. The piton stands alone on the hangtag and the sticker.",
+        "colorPalette": [
+          {
+            "name": "Rope Orange",
+            "hex": "#E07A2C",
+            "meaning": "Single-line dynamic rope.",
+            "usage": "Primary, totebags"
+          },
+          {
+            "name": "Granite",
+            "hex": "#7C7B7A",
+            "meaning": "Cold weathered rock.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Bivvy Cream",
+            "hex": "#FBF6E9",
+            "meaning": "The page at headlamp.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Pine",
+            "hex": "#2E5339",
+            "meaning": "Treeline.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Body, headlines"
+          }
+        ],
+        "typography": {
+          "primary": "Migra for the wordmark and big display",
+          "secondary": "PP Neue Montreal for body and topo notes",
+          "rationale": "Migra has personality. Neue Montreal handles the topo."
+        }
+      }
+    ]
+  }
+}

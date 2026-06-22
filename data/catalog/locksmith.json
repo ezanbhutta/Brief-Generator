@@ -1,0 +1,315 @@
+{
+  "industry": "locksmith",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Pin & Tumbler",
+        "tagline": "The mechanism, plainly named.",
+        "brandNameRationale": "Anchor: Linus Yale Jr's 1861 pin-tumbler lock mechanism — the foundation of nearly every cylinder lock made since. Counter to Yale Pin Co. (Yale is an active TM owned by Assa Abloy). Pin & Tumbler names the mechanism without the trademark.",
+        "industrySummary": "Modern locksmith brands compete on mechanical literacy and emergency reliability. The opening is for a brand that names the mechanism rather than the trade and stays plainspoken.",
+        "competitorLandscape": "August (august.com) plays the modern smart-lock peer. Level Lock (level.co) holds the design-led middle. Schlage (schlage.com) is the institutional reference. We sit as a mechanism-named modern locksmith brand.",
+        "positioningStatement": "Pin & Tumbler is a modern locksmith and key-cutting service named for the foundational lock mechanism.",
+        "targetAudience": {
+          "primary": "Homeowners and small-business owners 28-55 who want a locksmith they can call once and trust again.",
+          "behaviors": [
+            "Search for emergency locksmiths",
+            "Care about lock mechanism over brand",
+            "Re-key after moving in"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Mechanical",
+          "Plainspoken",
+          "Modern",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the mechanism",
+            "Publish call-out times and fees",
+            "Show the actual van and the technician"
+          ],
+          "donts": [
+            "Use ominous security imagery",
+            "Bury the price",
+            "Sell fear"
+          ]
+        },
+        "logoDirection": "Wordmark: PIN & TUMBLER set in a confident modern grotesk, two words and ampersand on one line. Small mark: a single pin-stack diagram used on the van.",
+        "colorPalette": [
+          {
+            "name": "Brass",
+            "hex": "#A07A2E",
+            "meaning": "Lock-cylinder brass",
+            "usage": "Accent"
+          },
+          {
+            "name": "Cylinder Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Workshop paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Steel Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for fees and call-out times",
+          "rationale": "A modern grotesk plus its mono — the workshop-ledger register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Worshipful Key",
+        "tagline": "Locksmithing in the guild tradition.",
+        "brandNameRationale": "Anchor: the Worshipful Company of Locksmiths — one of London's livery companies, with locksmithing as a recognized guild trade dating to medieval England. Counter to Maison Bramah (active TM) and Hobbs & Heir (surname use that could read like a real firm).",
+        "industrySummary": "Luxury locksmithing is a small institutional category — bespoke safe-makers, heritage lock restorers, and concierge security for collectors and listed buildings.",
+        "competitorLandscape": "Banham (banham.co.uk) plays the heritage-London peer. Chubb Safes (chubbsafes.com) holds the institutional reference. Door Furniture Direct (doorfurnituredirect.co.uk) is the heritage-hardware middle. We sit as a guild-tradition concierge locksmith.",
+        "positioningStatement": "The Worshipful Key is a heritage locksmith and safe-maker serving collectors, listed buildings, and family estates.",
+        "targetAudience": {
+          "primary": "Owners of listed buildings, art collectors, and family estates commissioning bespoke locks and safes.",
+          "behaviors": [
+            "Commission bespoke hardware",
+            "Care about period-correct restoration",
+            "Pay for discretion"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Discreet",
+          "Heritage",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Name the smith and the mechanism",
+            "Send a paper letter with each commission"
+          ],
+          "donts": [
+            "Publish a price list",
+            "Run security-fear marketing",
+            "Photograph in glossy lifestyle settings"
+          ]
+        },
+        "logoDirection": "Wordmark: THE WORSHIPFUL KEY set in a refined English serif, three lines centered. A small mark — a single ornate-bow key silhouette — used as the wax seal.",
+        "colorPalette": [
+          {
+            "name": "Guild Crimson",
+            "hex": "#7A1E2A",
+            "meaning": "Livery red",
+            "usage": "Accent"
+          },
+          {
+            "name": "Heritage Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Hand-laid paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Aged lock brass",
+            "usage": "Hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body and commission letters",
+          "rationale": "Two classical English serifs — the guild-letter register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Ward",
+        "tagline": "One trade.",
+        "brandNameRationale": "Anchor: the warded lock — the oldest lock mechanism, dating to ancient Rome and still in use in heritage furniture and prison-style locks. Counter to Bramah (active TM) and Key (too generic). Ward is the specific trade word.",
+        "industrySummary": "Minimalist locksmith brands serve the design-literate homeowner market — one trade, one van, one rate card.",
+        "competitorLandscape": "Most locksmiths use stock-image branding. Closest peer in spirit is the no-frills 24-hour locksmith with a single-page site. We sit as the design-led minimal option.",
+        "positioningStatement": "Ward is a minimal locksmith trade — one van, one rate card, no upsell.",
+        "targetAudience": {
+          "primary": "Homeowners 28-50 who want a no-frills locksmith they can trust.",
+          "behaviors": [
+            "Search for emergency locksmiths",
+            "Skip the upsell",
+            "Want fixed pricing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Plain",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the rate card on the home page",
+            "Use plain English",
+            "Confirm the call-out in one line"
+          ],
+          "donts": [
+            "Sell security fear",
+            "Upsell the call",
+            "Photograph in styled settings"
+          ]
+        },
+        "logoDirection": "Wordmark: WARD set very large in a clean modern sans, four letters, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Ward Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Page",
+            "hex": "#FAFAF7",
+            "meaning": "Page",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A07A2E",
+            "meaning": "Lock brass",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for the rate card",
+          "rationale": "Clean Diatype with its mono — the single-trade register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Worshipful Security Group",
+        "tagline": "Institutional locksmithing and security.",
+        "brandNameRationale": "Anchor: the Worshipful Company of Locksmiths (London livery), used as a guild-legitimacy frame for a B2B institutional security group. Counter to Bramah Holdings (active TM conflict) and Pin Tumbler Industries (reads industrial-mechanical rather than security-services).",
+        "industrySummary": "Institutional security and locksmithing groups serve commercial real estate, embassies, museums, and listed buildings. The category sits between fire-and-security conglomerates and individual smiths.",
+        "competitorLandscape": "Chubb (chubb.com) plays the institutional fire-and-security peer. Banham (banham.co.uk) holds the heritage-London middle. ADT (adt.com) is the consumer reference. We sit as an institutional guild-tradition security group.",
+        "positioningStatement": "Worshipful Security Group provides institutional locksmithing, safe-making, and security services to commercial estates, listed buildings, and embassies.",
+        "targetAudience": {
+          "primary": "Facility directors at commercial real estate firms, embassies, museums, and listed-building trusts.",
+          "behaviors": [
+            "Negotiate multi-year service contracts",
+            "Care about compliance and discretion",
+            "Renew on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Discreet",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the service contract",
+            "Publish compliance certifications",
+            "Speak to facility directors"
+          ],
+          "donts": [
+            "No consumer-facing marketing",
+            "No fear-based selling",
+            "No press-release hype"
+          ]
+        },
+        "logoDirection": "Wordmark: WORSHIPFUL SECURITY GROUP set in an institutional serif, three lines. A small mark — a livery-shield with crossed-key silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Livery Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Guild institutional",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Statement Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Document paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Guild-key brass",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the institutional-security register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The 1851",
+        "tagline": "The year the unpickable lock was picked.",
+        "brandNameRationale": "Anchor: 1851 — at the Great Exhibition in London's Crystal Palace, American locksmith A.C. Hobbs picked Joseph Bramah's 'unpickable' lock that had stood untouched for 67 years. The most dramatic moment in locksmithing history. Picked from Agent A's three (1851, Warded, Master & Key) for the strongest narrative anchor.",
+        "industrySummary": "Creative locksmith brands play on historical narrative and craft pedigree. The 1851 Hobbs-Bramah event is editorially rich and almost no current brand uses it.",
+        "competitorLandscape": "Most locksmith brands lack any narrative frame. The Lockpicking Lawyer (youtube channel) plays the editorial-craft reference. Banham (banham.co.uk) holds the heritage middle. We sit as a narrative-led craft locksmith.",
+        "positioningStatement": "The 1851 is a creative locksmith and security craft brand built on the dramatic narrative of historic lock-picking.",
+        "targetAudience": {
+          "primary": "Homeowners and collectors 30-55 who read craft and security history.",
+          "behaviors": [
+            "Read locksmith history",
+            "Care about mechanism narrative",
+            "Pay for heritage craft"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Historically literate",
+          "Confident",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the 1851 story",
+            "Name the mechanism and the smith",
+            "Use Crystal Palace illustrative style"
+          ],
+          "donts": [
+            "Sell security fear",
+            "Use stock-image branding",
+            "Skip the narrative"
+          ]
+        },
+        "logoDirection": "Wordmark: THE 1851 set in a Victorian display serif, two lines centered. A small mark — a single Crystal-Palace-arch silhouette over a key — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Exhibition Red",
+            "hex": "#A12830",
+            "meaning": "Great Exhibition red",
+            "usage": "Accent"
+          },
+          {
+            "name": "Crystal Cream",
+            "hex": "#F1EAD2",
+            "meaning": "1851 catalog paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lock Ink",
+            "hex": "#141417",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon Antique for the wordmark and headlines",
+          "secondary": "Söhne for body",
+          "rationale": "A Victorian display serif plus a clean grotesk — the 1851-Crystal-Palace register, modernized."
+        }
+      }
+    ]
+  }
+}

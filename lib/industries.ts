@@ -85,6 +85,16 @@ export const INDUSTRIES: IndustryEntry[] = [
   { key: "comics", label: "Comics & Graphic Novels", aliases: ["comics", "comic", "graphic novel", "comic book", "manga", "indie comics"] },
   { key: "perfume", label: "Perfume & Fragrance", aliases: ["perfume", "fragrance", "scent", "parfum", "perfumer", "cologne", "eau de parfum"] },
   { key: "plant-shop", label: "Plant Shops & Botanicals", aliases: ["plant shop", "plants", "houseplants", "botanical", "plant store", "foliage", "indoor plants"] },
+  { key: "yoga", label: "Yoga & Movement", aliases: ["yoga", "yoga studio", "ashtanga", "hatha", "vinyasa", "yoga school", "movement studio"] },
+  { key: "lighting", label: "Lighting & Lamps", aliases: ["lighting", "lamp", "lamps", "light fixture", "lighting design", "sconce", "pendant"] },
+  { key: "knife", label: "Knives & Cutlery", aliases: ["knife", "knives", "kitchen knife", "cutlery", "chef knife", "blacksmith", "knife maker"] },
+  { key: "soap", label: "Soap & Bathing", aliases: ["soap", "bar soap", "soapmaker", "bath soap", "handmade soap", "savonnerie"] },
+  { key: "climbing", label: "Climbing & Mountaineering", aliases: ["climbing", "rock climbing", "mountaineering", "climbing gym", "alpinism", "bouldering"] },
+  { key: "surfing", label: "Surfing & Surf Culture", aliases: ["surf", "surfing", "surfboard", "surf shop", "surfwear", "longboard", "shortboard"] },
+  { key: "toys", label: "Toys & Games", aliases: ["toys", "toy", "toymaker", "board games", "plush toys", "wooden toys", "kids toys"] },
+  { key: "locksmith", label: "Locksmith & Security", aliases: ["locksmith", "lock", "key", "security", "locksmiths", "key cutting", "lock & key"] },
+  { key: "magic", label: "Magic & Conjuring", aliases: ["magic", "magician", "conjuring", "magic show", "illusion", "sleight of hand", "magic shop"] },
+  { key: "pickling", label: "Pickling & Fermentation", aliases: ["pickle", "pickling", "fermentation", "pickled", "preserves", "kraut", "kimchi"] },
 ];
 
 export const INDUSTRY_KEYS = INDUSTRIES.map((i) => i.key);
