@@ -1,0 +1,327 @@
+{
+  "industry": "stationery",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Beagle Notebooks",
+        "tagline": "The field journal, kept.",
+        "brandNameRationale": "HMS Beagle (1831–36) carried Darwin and his field journals — the notebook as instrument of observation, the small calf-bound book carried in a coat pocket through the Galápagos. Beagle places the brand in the field-journal tradition with the most famous example as the anchor.",
+        "industrySummary": "Pocket notebooks have been dominated by a handful of incumbents with reliable shelves at every stationer. There is room for a modern brand that takes the field-journal tradition seriously — house rulings for sketching, specimen notes, and dated observations.",
+        "competitorLandscape": "Leuchtturm1917 (leuchtturm1917.com) holds the modern pocket-notebook reference. Baron Fig (baronfig.com) plays the design-led peer position. Rite in the Rain (riteintherain.com) sits in the field-use middle. We sit closer to Baron Fig in posture, sharper on the field-journal framing.",
+        "positioningStatement": "A modern pocket-notebook brand named for the most famous field journal in science.",
+        "targetAudience": {
+          "primary": "28 to 50. Carries a notebook in a coat pocket. Sketches, lists, dates entries. Knows the difference between dot grid and Seyès ruling.",
+          "behaviors": [
+            "Buys notebooks in packs of three",
+            "Refills the same pen",
+            "Writes the date at the top of every page"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Specific",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the ruling",
+            "Print the page count and paper weight",
+            "Recommend a pen"
+          ],
+          "donts": [
+            "Use the word craft",
+            "Photograph notebooks against linen",
+            "Run a flash sale"
+          ]
+        },
+        "logoDirection": "A wordmark. Beagle Notebooks set in a calm modern serif, with a single small ship-silhouette hallmark, used on the back cover and the website.",
+        "colorPalette": [
+          {
+            "name": "Beagle Navy",
+            "hex": "#1F2A4A",
+            "meaning": "Ship hull.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Field Cream",
+            "hex": "#F2EEE2",
+            "meaning": "Notebook paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Galápagos Green",
+            "hex": "#3D5A3C",
+            "meaning": "Island vegetation.",
+            "usage": "Accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and the back cover",
+          "secondary": "Söhne for the website",
+          "rationale": "Sectra carries the field-journal register. Söhne handles the cart."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Vergé",
+        "tagline": "Laid paper, by hand.",
+        "brandNameRationale": "Vergé (laid) paper is the chain-and-laid line pattern of mould-made paper used in fine European correspondence since the 16th century, distinct from machine-smooth wove paper. Maison + the paper type places the brand in the French papetier tradition. Vergé is a paper-type term, not an active mark.",
+        "industrySummary": "Luxury correspondence has been moving toward digital invitation suites. There is room for a house that holds the line on laid and watermarked papers, monogrammed and engraved by hand.",
+        "competitorLandscape": "Pineider (pineider.com) holds the Italian heritage reference. Le Papier (lepapier.fr) plays the French luxury peer. Mrs. John L. Strong (mrsstrong.com) sits in the New York fine-paper middle. We sit smaller and more French in posture.",
+        "positioningStatement": "A luxury correspondence and engraving house specializing in laid papers.",
+        "targetAudience": {
+          "primary": "40 to 75. Sends handwritten letters. Engages a stationer for the family monogram. Has a paper preference.",
+          "behaviors": [
+            "Orders by the ream",
+            "Pays for hand-engraving",
+            "Sends paper invitations for every occasion"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the paper, the watermark, the weight",
+            "Quote in French where it earns its place",
+            "Send paper sample books by post"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Run a holiday sale",
+            "Promote on Instagram"
+          ]
+        },
+        "logoDirection": "A serif wordmark. Maison Vergé set in a high-contrast classical face, with a small hand-drawn watermark hallmark, used in blind emboss on each sheet.",
+        "colorPalette": [
+          {
+            "name": "Vergé Cream",
+            "hex": "#F0E8D6",
+            "meaning": "Laid paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Engraver Black",
+            "hex": "#1A1410",
+            "meaning": "Engraved letterhead.",
+            "usage": "Wordmark, body type"
+          },
+          {
+            "name": "Seal Wax Red",
+            "hex": "#7A1F1F",
+            "meaning": "Sealing wax.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#A8893E",
+            "meaning": "Foil on the monogram.",
+            "usage": "Hallmark, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and printed material",
+          "secondary": "An engraver's italic for the monogram",
+          "rationale": "Caslon carries the French papetier register. The engraver's italic handles the monogram."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Iron Gall",
+        "tagline": "One ink. One pen.",
+        "brandNameRationale": "Iron-gall ink — the medieval-through-19th-century ink (oak galls + iron sulphate + gum arabic) used in the Magna Carta, Bach's manuscripts, and the US Constitution; the ink that defined Western writing for a millennium. The brand is the formula.",
+        "industrySummary": "Ink and pen brands have been multiplying SKUs and seasonal colors. There is room for a minimal house that revives a single iron-gall formula and pairs it with one dip pen.",
+        "competitorLandscape": "Most minimal ink brands fail this purity test. KWZ Ink (kwzink.com) plays the small-batch ink peer. Rohrer & Klingner (rohrer-klingner.de) sits in the heritage formula middle. We sit further out — one ink, one pen.",
+        "positioningStatement": "A revived iron-gall ink in one bottle, with one matched dip pen.",
+        "targetAudience": {
+          "primary": "Adults who write by hand. They want one ink that lasts."
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Considered",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the formula",
+            "Show the pen",
+            "Use plain English"
+          ],
+          "donts": [
+            "Release seasonal colors",
+            "Sell apparel",
+            "Promote on TikTok"
+          ]
+        },
+        "logoDirection": "A wordmark only. Iron Gall in a single-weight grotesk, all lowercase. The favicon is a single small bottle silhouette.",
+        "colorPalette": [
+          {
+            "name": "Iron Gall",
+            "hex": "#1A1F1A",
+            "meaning": "The ink itself.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F0E8D6",
+            "meaning": "Writing surface.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Oak Brown",
+            "hex": "#5C3A24",
+            "meaning": "Oak gall.",
+            "usage": "Accents"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. One ink. One pen."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Bond & Foolscap",
+        "tagline": "Cotton bond. Legal sheets. Archive boxes.",
+        "brandNameRationale": "Bond paper (originally the paper used for government bonds and stock certificates, cotton-content for durability) and foolscap (the historical legal sheet, 17th c. England). The pair reads as a serious B2B stationer already on the panel at law firms and government offices.",
+        "industrySummary": "B2B stationery has been losing ground to digital documents. There is space for a corporate stationer for legal and financial offices — cotton-bond letterhead, foolscap-sized memo pads, archive boxes.",
+        "competitorLandscape": "Crane & Co. (crane.com) holds the institutional cotton-bond reference. Levenger (levenger.com) plays the office-paper peer. Boorum & Pease (now Esselte) sits in the archive-box middle. We sit smaller, focused on legal and financial offices.",
+        "positioningStatement": "A B2B stationer for legal and financial offices.",
+        "targetAudience": {
+          "primary": "Law firm office managers, family office administrators, and government procurement officers managing annual stationery spend of $25k to $500k.",
+          "motivations": [
+            "Cotton-bond durability",
+            "Foolscap legal sheets in stock",
+            "Archive-grade boxes for case files"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Direct",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote by the ream",
+            "Spec the paper weight",
+            "Speak to procurement"
+          ],
+          "donts": [
+            "Run consumer-facing sales",
+            "Photograph paper against marble",
+            "Promote on consumer social"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single foolscap rectangle reduced to two strokes. Reads cleanly on an invoice, a delivery carton, and an email signature.",
+        "colorPalette": [
+          {
+            "name": "Bond Navy",
+            "hex": "#102236",
+            "meaning": "Government bond.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Foolscap Cream",
+            "hex": "#F4F2EE",
+            "meaning": "Legal sheet.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Brass",
+            "hex": "#B08D52",
+            "meaning": "Quiet accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed catalogs and the trade pricing schedule",
+          "rationale": "Inter scales clean. The serif handles the printed trade catalog."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Case Study Stationers",
+        "tagline": "Mid-century paper. West Coast grids.",
+        "brandNameRationale": "The Case Study House program (Arts & Architecture magazine, 1945–1966) commissioned the experimental modernist houses — Eames House (#8), Koenig's Stahl House (#22), Neutra's #20 — that defined Southern California mid-century design. The brand inherits the program's aesthetic without echoing any single architect's mark.",
+        "industrySummary": "Creative stationery has been chasing risograph zines and pastel pop. There is room for a brand with a mid-century West Coast aesthetic — bright modernist palettes, grid notebooks, architectural-drawing pads.",
+        "competitorLandscape": "Present & Correct (presentandcorrect.com) holds the design-led peer reference. Papier (papier.com) plays the modern stationery middle. Hightide (hightide-online.com) sits in the Japanese minimal middle. We sit closer to Present & Correct, with a tighter mid-century frame.",
+        "positioningStatement": "A creative stationer with a mid-century West Coast aesthetic.",
+        "targetAudience": {
+          "primary": "28 to 50. Reads design magazines. Owns a Saarinen chair, or wants one. Buys notebooks because they like the cover.",
+          "behaviors": [
+            "Buys the gridded architectural pad",
+            "Reads the Case Study program history",
+            "Wears the merch"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Playful",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the house, the architect, the year",
+            "Use a bright mid-century palette",
+            "Print the grid in full color"
+          ],
+          "donts": [
+            "Echo Eames branding",
+            "Photograph paper against marble",
+            "Use the word artisanal"
+          ]
+        },
+        "logoDirection": "A wordmark. Case Study Stationers set in a geometric mid-century sans, with a single hand-drawn floor-plan rectangle as the hallmark, used on the back cover and the swatch card.",
+        "colorPalette": [
+          {
+            "name": "Eichler Yellow",
+            "hex": "#F2C744",
+            "meaning": "Mid-century facade.",
+            "usage": "Accent, the hallmark"
+          },
+          {
+            "name": "Pacific Blue",
+            "hex": "#2B6FB0",
+            "meaning": "Pacific Palisades sky.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Plaster Cream",
+            "hex": "#F2EEE2",
+            "meaning": "Stucco wall.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Adobe Red",
+            "hex": "#A8313F",
+            "meaning": "Roof tile.",
+            "usage": "Secondary accents"
+          }
+        ],
+        "typography": {
+          "primary": "Neutraface for the wordmark and the covers",
+          "secondary": "Söhne for the website",
+          "rationale": "Neutraface carries the mid-century West Coast register. Söhne handles the digital."
+        }
+      }
+    ]
+  }
+}

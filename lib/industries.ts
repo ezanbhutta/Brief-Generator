@@ -65,6 +65,11 @@ export const INDUSTRIES: IndustryEntry[] = [
   { key: "vet", label: "Veterinary Care", aliases: ["vet", "veterinary", "animal hospital", "pet hospital", "vet clinic", "veterinarian", "animal care"] },
   { key: "museum", label: "Museums & Cultural Institutions", aliases: ["museum", "museums", "cultural institution", "gallery", "exhibition", "archives", "heritage"] },
   { key: "watches", label: "Watches & Horology", aliases: ["watches", "watch", "watchmaker", "horology", "timepiece", "watchmaking", "wristwatch"] },
+  { key: "tea", label: "Tea & Tea Houses", aliases: ["tea", "tea house", "tea brand", "tea shop", "tisane", "oolong", "matcha", "loose leaf"] },
+  { key: "bookstore", label: "Bookstores & Independent Publishing", aliases: ["bookstore", "bookshop", "independent bookstore", "books", "publishing", "reading room"] },
+  { key: "theater", label: "Theater & Performing Arts", aliases: ["theater", "theatre", "performing arts", "drama", "playhouse", "stage", "theater company"] },
+  { key: "vinyl", label: "Vinyl & Record Stores", aliases: ["vinyl", "record store", "records", "lp", "music shop", "record shop", "audiophile"] },
+  { key: "stationery", label: "Stationery & Paper Goods", aliases: ["stationery", "paper", "pens", "notebooks", "stationery brand", "paper goods", "writing instruments"] },
 ];
 
 export const INDUSTRY_KEYS = INDUSTRIES.map((i) => i.key);

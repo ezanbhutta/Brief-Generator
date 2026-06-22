@@ -1,0 +1,321 @@
+{
+  "industry": "bookstore",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Recto/Verso",
+        "tagline": "New on the right. Used on the left.",
+        "brandNameRationale": "Recto (the right-hand page) and verso (the left) are the bibliographer's vocabulary for any opened book, used in cataloguing since the early printed era. The slash structures the brand as a split shop — new on one side, used on the other.",
+        "industrySummary": "Independent bookstores have been competing on curation and event programming while Amazon owns price and breadth. There is room for a modern shop that uses the bibliographer's own vocabulary as its structure.",
+        "competitorLandscape": "McNally Jackson (mcnallyjackson.com) holds the modern indie peer position. Greenlight Bookstore (greenlightbookstore.com) plays the neighborhood-curated slot. Powell's (powells.com) is the new-and-used reference. We sit closer to McNally Jackson, sharper on the split-shop structure.",
+        "positioningStatement": "A modern bookshop split between recto and verso — new and used, one continuous shelf.",
+        "targetAudience": {
+          "primary": "28 to 50. Buys six books a year. Reads more than they post about. Will pay full price for a hardcover they want, and loves a $4 used paperback.",
+          "behaviors": [
+            "Browses on foot",
+            "Reads the recommendation shelf first",
+            "Subscribes to the shop newsletter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Warm",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write recommendations in plain English",
+            "Name the staff who chose the book",
+            "Use the bibliographer's words on signage"
+          ],
+          "donts": [
+            "Use the word 'curated' once a month",
+            "Sell candles at the register",
+            "Run a New York Times bestseller table"
+          ]
+        },
+        "logoDirection": "A wordmark. Recto/Verso set in a calm modern serif, with the slash as a thin upright stroke separating the two halves. Used on signage, paper bags, and the staff-pick bookmarks.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Printer's ink.",
+            "usage": "Wordmark, body type"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F2EEE2",
+            "meaning": "Book paper.",
+            "usage": "Backgrounds, bags"
+          },
+          {
+            "name": "Endpaper Blue",
+            "hex": "#2B3E5C",
+            "meaning": "Marbled endpaper.",
+            "usage": "Accents, the slash"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and signage",
+          "secondary": "Söhne for the website and newsletter",
+          "rationale": "Sectra carries the editorial register. Söhne handles the inventory and the cart."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Aldine",
+        "tagline": "After Aldus, 1494.",
+        "brandNameRationale": "Aldus Manutius founded the Aldine Press in Venice in 1494, inventing italic type, the octavo (the first portable book), and the dolphin-and-anchor printer's mark — the foundation of the European fine-press tradition. Maison Aldine places the brand in that lineage. Aldus's marks are historic; the press name itself is not an active trademark in fine-press retail.",
+        "industrySummary": "Luxury bookselling has been dominated by a few heritage rare-book rooms (Maggs, Quaritch, Heritage Auctions). There is room for a modern fine-press house that takes Aldus as its founding figure and runs both a rare-book room and a small in-house imprint.",
+        "competitorLandscape": "Maggs Bros. (maggs.com) holds the heritage rare-book reference. Heritage Auctions Books (ha.com) plays the institutional peer. The Folio Society (foliosociety.com) sits in the fine-press subscription middle. We sit closer to Maggs in posture, with a working imprint.",
+        "positioningStatement": "A rare-book room and fine-press shop modeled on a Venetian stamperia.",
+        "targetAudience": {
+          "primary": "45 to 75. Builds a library over decades. Buys first editions and house-bound editions in equal measure. Knows the difference between octavo and quarto.",
+          "behaviors": [
+            "Subscribes to the quarterly imprint",
+            "Has a paper preference",
+            "Pays via wire"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Name the press, the binder, the year",
+            "Send paper catalogues by post"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Photograph books against marble",
+            "Promote on Instagram"
+          ]
+        },
+        "logoDirection": "A serif wordmark. Maison Aldine set in a high-contrast classical face, with a hand-drawn anchor-and-dolphin hallmark in the Aldine tradition (re-interpreted, not copied), used in blind emboss on the spine of every house edition.",
+        "colorPalette": [
+          {
+            "name": "Venetian Red",
+            "hex": "#7A2A20",
+            "meaning": "Inkwell of the stamperia.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F0E8D6",
+            "meaning": "Hand-laid paper, calfskin.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Anchor Gold",
+            "hex": "#A8893E",
+            "meaning": "Foil on the spine.",
+            "usage": "Hallmark, foil"
+          },
+          {
+            "name": "Lagoon Blue",
+            "hex": "#2A3D52",
+            "meaning": "Venetian lagoon at dawn.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "Adobe Jenson for the wordmark and printed material",
+          "secondary": "Söhne for the secure client portal",
+          "rationale": "Jenson carries the incunabula register. Söhne handles the booking confirmation."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Octavo",
+        "tagline": "Books at hand.",
+        "brandNameRationale": "The octavo is the book format — a sheet folded three times into eight leaves — that Aldus Manutius made portable in 1501. It is still the default trade-paperback size. The brand is the format.",
+        "industrySummary": "Bookshops have layered on cafes, candles, and merch. There is room for one that pares back to the format itself — one shelf per subject, everything in a hand-friendly size.",
+        "competitorLandscape": "Most minimal bookshops fail this purity test. Daunt Books (dauntbooks.co.uk) is the closest peer in restraint. Three Lives & Company (threelives.com) sits in the small-and-quiet middle. We sit further out — one format.",
+        "positioningStatement": "A bookshop named for the format.",
+        "targetAudience": {
+          "primary": "Adults who read in bed and on the train. They want a book that fits in a coat pocket."
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Considered",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the book and the price",
+            "Recommend in one sentence",
+            "Use plain English"
+          ],
+          "donts": [
+            "Sell candles",
+            "Run a café",
+            "Promote on Instagram"
+          ]
+        },
+        "logoDirection": "A wordmark only. Octavo in a single-weight grotesk, all lowercase. The whole brand is the word.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Page",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds, bags"
+          },
+          {
+            "name": "Stone",
+            "hex": "#C9C2B5",
+            "meaning": "Secondary anchor.",
+            "usage": "Dividers"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. One job."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "The Standing Order",
+        "tagline": "Books delivered, by the list.",
+        "brandNameRationale": "The standing order is the library and bookseller's instrument that automatically delivers every new title in a series or from a press — long used by university libraries with Oxford, Cambridge, and Princeton. The definite article makes it the only kind of order that matters here.",
+        "industrySummary": "B2B book supply has been dominated by Baker & Taylor and Ingram on the wholesale side. There is space for a corporate service that runs standing orders for offices, law firms, and libraries with editorial intelligence behind the list.",
+        "competitorLandscape": "Baker & Taylor (baker-taylor.com) holds the institutional wholesale reference. Ingram Library Services (ingramcontent.com) plays the library standing-order peer. Books Inc. Library Services sits in the smaller middle. We sit smaller, more editorial.",
+        "positioningStatement": "Standing orders for offices, law firms, and libraries — delivered by named publisher list.",
+        "targetAudience": {
+          "primary": "Office managers, law firm librarians, and university acquisitions teams managing book budgets of $50k to $5M annually.",
+          "motivations": [
+            "Fewer vendors",
+            "Predictable monthly invoices",
+            "Editorial credibility on the lists they buy"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Considered",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with publisher lists and delivery cadence",
+            "Publish quarterly forthcoming-titles digests",
+            "Speak to the buyer, not the reader"
+          ],
+          "donts": [
+            "Run consumer promotions",
+            "Use the word 'curated'",
+            "Photograph books against marble"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is three stacked horizontal lines, suggesting a spine on a shelf. Reads cleanly on a delivery carton, an invoice, and an email signature.",
+        "colorPalette": [
+          {
+            "name": "Spine Navy",
+            "hex": "#102236",
+            "meaning": "Bound spine.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Off White",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body text, dividers"
+          },
+          {
+            "name": "Brass",
+            "hex": "#B08D52",
+            "meaning": "Quiet accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed quarterly digests",
+          "rationale": "Inter scales clean. The serif handles the printed forthcoming-titles digest."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Rue de l'Odéon",
+        "tagline": "A reading room on the Left Bank.",
+        "brandNameRationale": "Rue de l'Odéon, Paris — where Sylvia Beach opened the original Shakespeare and Company at no. 12 in 1919 (publisher of Joyce's Ulysses in 1922) and Adrienne Monnier ran La Maison des Amis des Livres across the street. The street name itself is geographic, not a trademark, and places the brand in the Left Bank reading-room lineage without echoing the Shakespeare and Company mark.",
+        "industrySummary": "Literary bookshops have been chasing event-led models with mixed success. There is room for a creative shop that builds itself around a writers-in-residence program and a reading series, the way Sylvia Beach did.",
+        "competitorLandscape": "City Lights (citylights.com) holds the American literary peer. Books Are Magic (booksaremagic.net) plays the modern indie middle. Albertine (albertine.com) sits in the French literary New York slot. We sit smaller and more program-led.",
+        "positioningStatement": "A literary bookshop and reading-series venue, in the spirit of the Left Bank.",
+        "targetAudience": {
+          "primary": "30 to 55. Reads translated fiction. Goes to readings. Knows three writers personally and ten more by name.",
+          "behaviors": [
+            "Attends a reading once a month",
+            "Buys the writer's book at the door",
+            "Reads the literary magazines on the front table"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Literary",
+          "Considered",
+          "Playful"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote the writer in their own words",
+            "Print the reading calendar by hand",
+            "Use French where it earns its place"
+          ],
+          "donts": [
+            "Sell candles",
+            "Run a bestseller table",
+            "Apologize for the difficulty"
+          ]
+        },
+        "logoDirection": "A wordmark. Rue de l'Odéon set in a calm French serif, with a small hand-drawn street-sign rectangle as the hallmark, used on the reading-series posters and the door plaque.",
+        "colorPalette": [
+          {
+            "name": "Odéon Blue",
+            "hex": "#2B3E5C",
+            "meaning": "Paris street sign.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Page Cream",
+            "hex": "#F2EEE2",
+            "meaning": "Book paper.",
+            "usage": "Backgrounds, posters"
+          },
+          {
+            "name": "Seine Brown",
+            "hex": "#5C3A24",
+            "meaning": "Worn leather chair in the back room.",
+            "usage": "Accents, secondary type"
+          }
+        ],
+        "typography": {
+          "primary": "Le Monde Livre for the wordmark and posters",
+          "secondary": "Söhne for the website",
+          "rationale": "Le Monde Livre carries the French editorial register. Söhne handles the digital."
+        }
+      }
+    ]
+  }
+}

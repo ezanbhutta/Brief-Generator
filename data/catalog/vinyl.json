@@ -1,0 +1,327 @@
+{
+  "industry": "vinyl",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Lacquer & Stamper",
+        "tagline": "Mastering on the shelf tag.",
+        "brandNameRationale": "The cutting chain — the lacquer cut on a Neumann VMS lathe, the metal mother and stamper pressed at a plant like RTI or Optimal. The pair names the production chain that produces a record. The brand reads as a serious modern record shop with the engineering on the tag.",
+        "industrySummary": "Modern record shops have been competing on store design and exclusives. There is room for an audiophile-leaning shop that prints the mastering engineer and pressing plant on every shelf tag — the way a wine shop prints the importer.",
+        "competitorLandscape": "Rough Trade (roughtrade.com) holds the modern indie reference. Acoustic Sounds (acousticsounds.com) plays the audiophile peer. Amoeba Music (amoeba.com) sits in the deep-catalog middle. We sit closer to Acoustic Sounds, sharper on the shelf-tag transparency.",
+        "positioningStatement": "A modern record shop that prints the mastering engineer and pressing plant on every shelf tag.",
+        "targetAudience": {
+          "primary": "28 to 50. Owns a turntable and knows the cartridge. Reads mastering credits before buying. Will pay a premium for a half-speed cut.",
+          "behaviors": [
+            "Compares pressings across plants",
+            "Reads the runout matrix",
+            "Buys reissues on quality grounds"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Technical",
+          "Considered",
+          "Modern",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the mastering engineer on the tag",
+            "Name the pressing plant",
+            "Show the matrix number"
+          ],
+          "donts": [
+            "Sell apparel as the front of the shop",
+            "Stock loose 'vintage vibes' bins",
+            "Use the word craft"
+          ]
+        },
+        "logoDirection": "A wordmark. Lacquer & Stamper set in a tight modern grotesk, all caps, with a small hand-drawn lathe-cutter-head silhouette as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Lacquer Black",
+            "hex": "#0F0F12",
+            "meaning": "Fresh-cut lacquer.",
+            "usage": "Wordmark, body type"
+          },
+          {
+            "name": "Sleeve White",
+            "hex": "#F2EEE2",
+            "meaning": "Inner sleeve.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Cutter Red",
+            "hex": "#A8313F",
+            "meaning": "Cutter-head warning lamp.",
+            "usage": "Accents, tag highlights"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for matrix numbers and credits",
+          "rationale": "The mono carries the technical data. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Lacquer",
+        "tagline": "Cut at half-speed. Released by the quarter.",
+        "brandNameRationale": "The lacquer-cutting tradition is the moment when sound becomes a physical groove, on a Neumann or Scully lathe in a mastering room. Maison + the production word places the brand as a luxury audiophile imprint. Lacquer is a process term, not an active mark.",
+        "industrySummary": "Luxury reissue labels have been moving toward heavyweight pressings and deluxe sleeves. There is room for a house that releases one record a quarter, each cut at half-speed at 45 RPM, sold in a numbered slipcase.",
+        "competitorLandscape": "Mobile Fidelity Sound Lab (mofi.com) holds the audiophile reissue reference. Analogue Productions (analogueproductions.com) plays the heavyweight peer. Music Matters Jazz (musicmattersjazz.com) sits in the limited-edition middle. We sit smaller and more disciplined — one release per quarter.",
+        "positioningStatement": "A luxury audiophile imprint releasing one half-speed-cut record a quarter.",
+        "targetAudience": {
+          "primary": "45 to 70. Has a Linn Sondek or a Brinkmann. Owns the same albums on three formats. Pays for the numbered edition before hearing the test pressing.",
+          "behaviors": [
+            "Subscribes to the quarterly release",
+            "Stores records vertically in a climate-controlled cabinet",
+            "Reads the runout etching"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Technical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the mastering engineer",
+            "Print the cutting notes on the inner sleeve",
+            "Send paper release notes by post"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Run a flash discount",
+            "Promote on Instagram"
+          ]
+        },
+        "logoDirection": "A serif wordmark. Maison Lacquer set in a high-contrast classical face, with a hand-drawn lathe-disc hallmark, used in blind emboss on the slipcase.",
+        "colorPalette": [
+          {
+            "name": "Lacquer Black",
+            "hex": "#0F0F12",
+            "meaning": "Fresh-cut lacquer.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Slipcase Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Heavy slipcase paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Disc Gold",
+            "hex": "#A8893E",
+            "meaning": "Foil on the slipcase.",
+            "usage": "Hallmark, foil"
+          },
+          {
+            "name": "Mastering Brown",
+            "hex": "#3A2A1F",
+            "meaning": "Studio wood panel.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the few digital surfaces",
+          "rationale": "Canela carries the editorial register of the audiophile imprint. Söhne handles the order confirmation."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Runout",
+        "tagline": "Read the dead wax.",
+        "brandNameRationale": "The runout groove is the inner dead wax where the mastering engineer scratches initials, matrix numbers, and sometimes a message (Led Zeppelin's 'Do what thou wilt,' George Peckham's 'Porky' stamps). The brand is the engineer's signature in the groove.",
+        "industrySummary": "Record shops layer on merch, café, and events. There is room for one that strips back to the runout — small inventory, deep mastering knowledge.",
+        "competitorLandscape": "Most minimal record shops fail this purity test. Sonic Boom Records (sonicboomrecords.com) holds the closest peer in restraint. Permanent Records (permanentrecordsroadhouse.com) sits in the deep-catalog middle. We sit further out — the matrix is the brand.",
+        "positioningStatement": "A record shop whose logo is a runout etching.",
+        "targetAudience": {
+          "primary": "Adults who read the dead wax before they buy. They want one shop where the staff knows the engineer."
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Technical",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the matrix number",
+            "Show the engineer's initials",
+            "Use plain English"
+          ],
+          "donts": [
+            "Stock apparel",
+            "Run a café",
+            "Promote on TikTok"
+          ]
+        },
+        "logoDirection": "A wordmark only. Runout in a single-weight grotesk, set wide. The favicon is a small etched mark — the kind a cutting engineer scratches into the dead wax.",
+        "colorPalette": [
+          {
+            "name": "Dead Wax",
+            "hex": "#0F0F12",
+            "meaning": "Runout groove.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Sleeve White",
+            "hex": "#F4F0E6",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Etching Silver",
+            "hex": "#9BA0A6",
+            "meaning": "Engineer's etching.",
+            "usage": "The favicon"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype Mono",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. Monospace. The brand is the matrix."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Catalog Number",
+        "tagline": "The back catalog, by the number.",
+        "brandNameRationale": "The catalog number is the label/year code (Blue Note's BLP/BST series, Verve's MGV, Impulse's AS) that lets a collector or a buyer know exactly what edition they hold. The brand is the trade unit of identification.",
+        "industrySummary": "Catalog licensing has been dominated by the majors and a few rights aggregators. There is space for a corporate-facing house that runs back-catalog rights and licensing keyed to the original catalog number — clean to audit, clean to license.",
+        "competitorLandscape": "Concord Music (concord.com) holds the institutional catalog reference. BMG (bmg.com) plays the rights peer. Hipgnosis Songs Fund (hipgnosissongs.com) sits in the rights-asset middle. We sit smaller, focused on catalog-number-keyed licensing.",
+        "positioningStatement": "Back-catalog rights and licensing, keyed to the original catalog number.",
+        "targetAudience": {
+          "primary": "Music supervisors, sync agencies, and rights buyers at film studios, advertising agencies, and reissue labels.",
+          "motivations": [
+            "Clean rights data",
+            "Catalog-number-level audit trail",
+            "Reliable licensing turnaround"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Operational",
+          "Direct",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the catalog number",
+            "Publish the rights status",
+            "Speak to the supervisor, not the listener"
+          ],
+          "donts": [
+            "Run consumer reissue marketing",
+            "Use the word vibe",
+            "Promote on consumer social"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single rectangular tag with a thin underline, suggesting the catalog spine label. Reads cleanly on a sync brief, a license agreement, and an email signature.",
+        "colorPalette": [
+          {
+            "name": "Catalog Navy",
+            "hex": "#102236",
+            "meaning": "Label spine.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Label Cream",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Brass",
+            "hex": "#B08D52",
+            "meaning": "Quiet accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed licensing catalogs",
+          "rationale": "Inter scales clean. The serif handles the printed licensing catalog."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "706 Union",
+        "tagline": "Memphis cuts.",
+        "brandNameRationale": "706 Union Avenue, Memphis — the address of the Sun Studio where Sam Phillips cut Elvis ('That's All Right,' July 1954), Johnny Cash, Carl Perkins, and Jerry Lee Lewis. The address is a totem, not a trademark — a creative reissue label and record shop themed around the founding moment of Memphis recording.",
+        "industrySummary": "Reissue labels have been chasing format gimmicks and limited-edition runs. There is room for a creative shop and label themed around a single address — the founding-myth moment of American session recording.",
+        "competitorLandscape": "Third Man Records (thirdmanrecords.com) holds the creative reissue reference. Fat Possum (fatpossum.com) plays the Southern peer. Numero Group (numerogroup.com) sits in the editorial reissue middle. We sit closer to Third Man in posture, themed around a single address.",
+        "positioningStatement": "A reissue label and record shop themed around 706 Union Avenue.",
+        "targetAudience": {
+          "primary": "30 to 60. Knows the difference between Sun and Stax. Owns at least one rockabilly record. Has been to Memphis or wants to go.",
+          "behaviors": [
+            "Buys the limited Memphis-cut series",
+            "Reads the founding-session history",
+            "Wears the merch"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Confident",
+          "Playful",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the studio, the date, the engineer",
+            "Print the address big on the sleeve",
+            "Talk about the room"
+          ],
+          "donts": [
+            "Echo Sun Records branding",
+            "Photograph records against velvet",
+            "Use the word legendary"
+          ]
+        },
+        "logoDirection": "A wordmark. 706 Union set in a hand-cut display face, all caps, with a single street-sign rectangle as the hallmark, used on the sleeve back and the shop awning.",
+        "colorPalette": [
+          {
+            "name": "Memphis Red",
+            "hex": "#A8313F",
+            "meaning": "Studio awning.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Tape Cream",
+            "hex": "#F2EEE2",
+            "meaning": "Tape box label.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Slap Black",
+            "hex": "#1A1410",
+            "meaning": "Slapback shadow.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Neon Blue",
+            "hex": "#2B6FB0",
+            "meaning": "Street-sign blue.",
+            "usage": "The hallmark"
+          }
+        ],
+        "typography": {
+          "primary": "A hand-cut display face for the wordmark and sleeves",
+          "secondary": "Söhne for the website",
+          "rationale": "The display face carries the Memphis sign-painting register. Söhne handles the digital."
+        }
+      }
+    ]
+  }
+}

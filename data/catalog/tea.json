@@ -1,0 +1,321 @@
+{
+  "industry": "tea",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Camellia Var.",
+        "tagline": "Tea named by varietal.",
+        "brandNameRationale": "Named for the two botanical varieties of Camellia sinensis — var. assamica (broad-leaf Assam, identified by Robert Bruce in 1823) and var. sinensis (small-leaf Chinese). Treats tea with the varietal precision wine gives to Pinot vs. Chardonnay. 'Var.' is the working botanical abbreviation.",
+        "industrySummary": "Specialty tea has been chasing the wellness market with adaptogens, fruit blends, and origin stories that gesture at terroir without naming it. There is room for a modern single-origin label that does for tea what third-wave coffee did for beans — name the variety, the harvest, the lot.",
+        "competitorLandscape": "Bellocq Tea Atelier (bellocq.com) holds the design-led modern slot. Smith Teamaker (smithtea.com) plays the small-batch peer position. In Pursuit of Tea (inpursuitoftea.com) is the producer-first reference. We sit closer to In Pursuit of Tea, sharper on varietal framing.",
+        "positioningStatement": "A modern single-origin tea label that names each tin by botanical variety.",
+        "targetAudience": {
+          "primary": "28 to 45. Drinks loose-leaf at home. Owns a kettle with a thermometer. Reads tea the way coffee nerds read coffee. Knows the difference between gyokuro and sencha.",
+          "behaviors": [
+            "Buys 50g tins from named producers",
+            "Brews by weight and water temperature",
+            "Refers to teas by garden and flush"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Botanical",
+          "Modern",
+          "Specific",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the variety, the garden, the flush",
+            "Print the harvest date on the tin",
+            "Write tasting notes in plain English"
+          ],
+          "donts": [
+            "Use the word wellness",
+            "Blend with hibiscus or mango",
+            "Photograph tea against linen"
+          ]
+        },
+        "logoDirection": "A wordmark. Camellia Var. set in a tight modern grotesk, with 'Var.' set smaller and italic, sitting on the baseline like a botanical abbreviation in a herbarium label.",
+        "colorPalette": [
+          {
+            "name": "Leaf Green",
+            "hex": "#3D5A3C",
+            "meaning": "Fresh-plucked Camellia leaf.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Tin Cream",
+            "hex": "#F2EEE2",
+            "meaning": "Lithographed tea tin.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Wuyi Brown",
+            "hex": "#5C3A24",
+            "meaning": "Oxidized leaf, rock oolong.",
+            "usage": "Secondary type, accents"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for harvest dates and grades",
+          "rationale": "The mono carries the field data. The regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Fujian",
+        "tagline": "One province. Three teas.",
+        "brandNameRationale": "Named for Fujian province — the birthplace of oolong, white tea (Fuding), and Lapsang Souchong (smoked over Masson pine in the Wuyi mountains). The Maison + place-name convention places the brand in the négociant tradition, with a single appellation as its limit. Fujian is a geographic name, not a mark.",
+        "industrySummary": "Luxury tea has been dominated by Paris and London heritage houses that blend across origins. There is space for a single-province house — sold the way a Bordeaux négociant sells a single appellation.",
+        "competitorLandscape": "Lupicia (lupicia.com) holds the Japanese luxury reference. TWG Tea (twgtea.com) plays the Singapore luxury peer. Palais des Thés (palaisdesthes.com) sits in the French heritage middle. We sit closer to a single-appellation négociant, narrower than any of them.",
+        "positioningStatement": "A luxury tea house structured around a single province's terroir.",
+        "targetAudience": {
+          "primary": "40 to 65. Lives between hotels. Drinks oolong after dinner. Buys 100g caddies, not subscriptions. Has visited Wuyi.",
+          "behaviors": [
+            "Orders by named garden",
+            "Pays for hand-finished lacquer caddies",
+            "Travels to origin"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Specific",
+          "Patient",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the mountain, the village, the maker",
+            "Print the harvest year in classical Chinese",
+            "Speak in the language of rock oolong"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Blend across provinces",
+            "Run a holiday sale"
+          ]
+        },
+        "logoDirection": "A serif wordmark. Maison Fujian in a high-contrast classical serif, with a single hand-drawn Wuyi mountain silhouette as the hallmark, used in gold foil on each caddy.",
+        "colorPalette": [
+          {
+            "name": "Wuyi Black",
+            "hex": "#1A1410",
+            "meaning": "Cliff face, fired oolong.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Pine Smoke",
+            "hex": "#3A4036",
+            "meaning": "Lapsang smoke.",
+            "usage": "Body type"
+          },
+          {
+            "name": "Tencha Gold",
+            "hex": "#A8893E",
+            "meaning": "Foil on the caddy.",
+            "usage": "Hallmark, accents"
+          },
+          {
+            "name": "Rice Paper",
+            "hex": "#F2EBDC",
+            "meaning": "Hand-laid paper.",
+            "usage": "Backgrounds, paper"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and printed material",
+          "secondary": "Söhne for the few digital surfaces",
+          "rationale": "Canela carries the négociant heritage. Söhne handles the booking confirmation."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Tencha",
+        "tagline": "Before the mill.",
+        "brandNameRationale": "Tencha is the shade-grown, de-stemmed leaf that is stone-ground into matcha — the unfinished form before the mill. Single archaic trade word, deeply specific to tea. Names the raw material rather than the powder.",
+        "industrySummary": "Matcha brands have proliferated around lattes, smoothies, and wellness. There is space for a minimal label that sells the leaf in its pre-ground form and grinds to order.",
+        "competitorLandscape": "Ippodo (ippodo-tea.co.jp) holds the heritage matcha reference. Marukyu Koyamaen (marukyu-koyamaen.co.jp) is the producer peer. Mizuba Tea (mizubatea.com) sits in the modern minimal slot. We sit further out — leaf only, ground to order.",
+        "positioningStatement": "A matcha label named for the leaf, not the powder.",
+        "targetAudience": {
+          "primary": "Adults who drink matcha as a daily practice and grind their own. They want the leaf fresh and the powder fresher."
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Specific",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the leaf",
+            "Print the picking date",
+            "Ship within a week of grinding"
+          ],
+          "donts": [
+            "Use the word wellness",
+            "Sell a latte powder",
+            "Run subscription pop-ups"
+          ]
+        },
+        "logoDirection": "A wordmark only. Tencha in a single-weight grotesk, all lowercase. The favicon is a single small leaf silhouette.",
+        "colorPalette": [
+          {
+            "name": "Shade Green",
+            "hex": "#3A4D2E",
+            "meaning": "Shade-grown leaf under the reed.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F1EA",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ishi",
+            "hex": "#7A7268",
+            "meaning": "Granite stone mill.",
+            "usage": "Secondary"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk",
+          "secondary": "Same family, different weight",
+          "rationale": "One face. One job."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Camellia Mercantile",
+        "tagline": "Loose-leaf tea by the kilo.",
+        "brandNameRationale": "Camellia sinensis is the genus, named by Linnaeus in 1753 for the Jesuit botanist Georg Kamel. Mercantile signals the old tea-clipper trade. The pair reads as a serious B2B tea house already on the panel at restaurants and hotels.",
+        "industrySummary": "Foodservice tea is dominated by mass-market tea-bag brands and a few specialty wholesalers. The opening is for a B2B house that sells loose-leaf by the kilo with the botanical name on every label.",
+        "competitorLandscape": "Harney & Sons Wholesale (harney.com) holds the institutional reference. Tea Forte (teaforte.com) plays the hospitality peer. Numi Organic Tea (numitea.com) sits in the foodservice middle. We sit smaller, focused on bulk loose-leaf for serious operators.",
+        "positioningStatement": "A B2B tea house for restaurants and offices, priced by the kilo.",
+        "targetAudience": {
+          "primary": "Beverage Directors at restaurant groups, hotel F&B leads, and office coffee buyers managing tea programs across 5 to 500 locations.",
+          "behaviors": [
+            "Sign annual contracts by the kilo",
+            "Spec teas by grade and origin",
+            "Renew on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Direct",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Be clear about grade and price",
+            "Print the botanical name on every label",
+            "Speak to the buyer, not the drinker"
+          ],
+          "donts": [
+            "Use wellness language",
+            "Run flash sales",
+            "Promote on consumer social"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark to the left. The mark is a single Camellia leaf reduced to two strokes. Reads cleanly on a uniform, a delivery carton, and an email signature.",
+        "colorPalette": [
+          {
+            "name": "Trade Green",
+            "hex": "#1F3B2C",
+            "meaning": "Tea plantation hedge.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F4F2EE",
+            "meaning": "Clean and unfussy.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Slate",
+            "hex": "#5C6A78",
+            "meaning": "Secondary structure.",
+            "usage": "Body text"
+          },
+          {
+            "name": "Brass",
+            "hex": "#B08D52",
+            "meaning": "Quiet accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for everything digital",
+          "secondary": "Source Serif Pro for printed quarterly trade catalogs",
+          "rationale": "Inter scales clean. The serif reserved for printed B2B documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Kyusu Club",
+        "tagline": "One pot, one leaf, every month.",
+        "brandNameRationale": "The kyūsu is the side-handled Japanese teapot used for sencha and gyokuro — the vessel that defines Japanese leaf service. Club closes it as a subscription. The pair reads as a creative tea club for Japanese leaf, pairing the pot with the leaf and the temperature.",
+        "industrySummary": "Tea subscriptions have been dominated by sampler boxes with too many bags and not enough leaf. There is room for a creative club that pairs the pot with the leaf and treats temperature as part of the gift.",
+        "competitorLandscape": "Ippodo Tea (ippodo-tea.co.jp) holds the heritage Japanese leaf reference. Bird & Blend (birdandblend.com) plays the subscription peer position. Sazen Tea (sazentea.com) sits in the considered Japanese middle. We sit smaller and more curated.",
+        "positioningStatement": "A monthly leaf-tea club that ships the pot with the leaf.",
+        "targetAudience": {
+          "primary": "30 to 50. Drinks loose-leaf at home. Owns at least one kyusu. Wants someone to choose the next garden for them.",
+          "behaviors": [
+            "Buys gifts for tea friends",
+            "Brews by water temperature",
+            "Saves the cards from each shipment"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Specific",
+          "Considered",
+          "Playful"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the garden and the picker",
+            "Print the water temperature on the card",
+            "Sign correspondence by the curator"
+          ],
+          "donts": [
+            "Use the word wellness",
+            "Send a tea bag",
+            "Run a doorbuster sale"
+          ]
+        },
+        "logoDirection": "A wordmark with a small hand-drawn kyusu silhouette. Kyusu Club set in a friendly modern serif, with the kyusu icon doubling as the favicon and the wax seal on each shipment card.",
+        "colorPalette": [
+          {
+            "name": "Sencha Green",
+            "hex": "#5A6B3A",
+            "meaning": "Steamed sencha leaf.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Reed Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Shade-cloth reed.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Earthen Red",
+            "hex": "#A85C3C",
+            "meaning": "Tokoname clay kyusu.",
+            "usage": "Accents, the seal"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and shipment cards",
+          "secondary": "Söhne for the website",
+          "rationale": "Sectra carries the editorial care of the curation. Söhne handles the digital."
+        }
+      }
+    ]
+  }
+}
