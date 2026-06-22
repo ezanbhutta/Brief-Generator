@@ -1,0 +1,365 @@
+{
+  "industry": "motorcycle",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Munro Built",
+        "tagline": "Built like Burt would.",
+        "brandNameRationale": "Anchor: Burt Munro, the New Zealand land-speed rider whose home-built Indian Scout streamliner set records at Bonneville in 1967. Munro is a surname, not an active marque trademark; 'Built' frames the brand as a builder's workshop in the home-fettled lineage.",
+        "industrySummary": "The modern motorcycle category is dominated by big-marque heritage brands and a long tail of custom shops. The opening is for a builder-led brand that publishes the spec sheet and the build log, not the lifestyle.",
+        "competitorLandscape": "Janus Motorcycles (janusmotorcycles.com) plays the modern builder peer. CCM (ccm-motorcycles.com) holds the small-batch British middle. Cleveland CycleWerks (clevelandcyclewerks.com) sits in the modern entry reference. We sit alongside Janus with a sharper build-log focus.",
+        "positioningStatement": "Munro Built is a modern small-batch motorcycle builder publishing the full spec sheet and build log of every bike.",
+        "targetAudience": {
+          "primary": "Riders 30-55 who buy a single considered bike and keep it for fifteen years.",
+          "behaviors": [
+            "Read the spec sheet before the brochure",
+            "Maintain their own bike",
+            "Skip the showroom"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Direct",
+          "Workshop"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the full spec",
+            "Name the builder by name",
+            "Show the build at week eight"
+          ],
+          "donts": [
+            "Use 'lifestyle' as a pitch",
+            "Photograph the bike with a model",
+            "Hide the price"
+          ]
+        },
+        "logoDirection": "Wordmark: MUNRO BUILT set in a confident modern grotesk, two words on one line. Small mark: a single streamlined fairing silhouette, used on the tank badge.",
+        "colorPalette": [
+          {
+            "name": "Salt White",
+            "hex": "#EDE7D7",
+            "meaning": "Bonneville salt",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tank Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Indian Red",
+            "hex": "#A4322B",
+            "meaning": "Tank accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for spec sheets and build numbers",
+          "rationale": "A modern grotesk plus its mono — the workshop-spec-sheet register."
+        },
+        "brandDescription": "Munro Built is a modern small-batch motorcycle builder publishing the full spec sheet and build log of every bike.",
+        "scope": "Munro Built works across the motorcycles & moto culture category with a single editorial register.",
+        "mission": "Munro Built is a modern small-batch motorcycle builder publishing the full spec sheet and build log of every bike.",
+        "vision": "Munro Built held in its register, indefinitely.",
+        "coreValues": [
+          "Considered — operating principle.",
+          "Modern — operating principle.",
+          "Direct — operating principle.",
+          "Workshop — operating principle."
+        ]
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Mann Isle Motors",
+        "tagline": "A racing house in the Isle of Man register.",
+        "brandNameRationale": "Anchor: the Isle of Man TT, first run in 1907, the longest continuously held motorcycle road race in the world. 'Mann' is the Manx self-name for the island; 'Isle Motors' frames the brand as a small heritage racing house. Geographic anchor, not a marque trademark.",
+        "industrySummary": "Luxury motorcycles are a narrow category of small-batch heritage houses. The opening is for an Isle of Man-anchored racing house with a fixed annual production.",
+        "competitorLandscape": "Norton (nortonmotorcycles.com) plays the British heritage reference. CCM (ccm-motorcycles.com) holds the small-batch peer slot. Arch Motorcycle (archmotorcycle.com) sits in the modern luxury middle. We belong with the small heritage British luxury houses.",
+        "positioningStatement": "Mann Isle Motors is a heritage Isle of Man racing house producing a fixed annual run of road-going TT-inspired motorcycles.",
+        "targetAudience": {
+          "primary": "Collector riders who own two to five motorcycles and ride one each season.",
+          "behaviors": [
+            "Attend the TT each June",
+            "Order on a multi-year waiting list",
+            "Pay full deposit on order"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Heritage",
+          "Discreet",
+          "Senior"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the race year",
+            "Print the order number on the tank",
+            "Sign correspondence by the head builder"
+          ],
+          "donts": [
+            "Use 'luxury' on the brochure",
+            "Discount, ever",
+            "Take press on factory tours"
+          ]
+        },
+        "logoDirection": "Wordmark: MANN ISLE MOTORS set in a classical book serif, three lines centered. Small mark: an embossed triskelion (Manx three-legged emblem) used as the tank seal.",
+        "colorPalette": [
+          {
+            "name": "Manx Slate",
+            "hex": "#2E3540",
+            "meaning": "Manx stone",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EDDF",
+            "meaning": "Page",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Tank seal",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and signage",
+          "secondary": "Garamond Premier Pro for the brochure and order documents",
+          "rationale": "A classical serif plus a reading serif — the heritage racing house register."
+        },
+        "brandDescription": "Mann Isle Motors is a heritage Isle of Man racing house producing a fixed annual run of road-going TT-inspired motorcycles.",
+        "scope": "Mann Isle Motors works across the motorcycles & moto culture category with a single editorial register.",
+        "mission": "Mann Isle Motors is a heritage Isle of Man racing house producing a fixed annual run of road-going TT-inspired motorcycles.",
+        "vision": "Mann Isle Motors held in its register, indefinitely.",
+        "coreValues": [
+          "Refined — operating principle.",
+          "Heritage — operating principle.",
+          "Discreet — operating principle.",
+          "Senior — operating principle."
+        ]
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Salt Flat",
+        "tagline": "One bike. One run.",
+        "brandNameRationale": "Anchor: the Bonneville Salt Flats — the geographic site of land-speed culture since 1914. Two words, geographic, no marque trademark. The brand inherits the flat-out single-purpose register of land-speed riding.",
+        "industrySummary": "Minimal motorcycle brands serve the rider who wants one bike and one purpose. The category is mostly empty above the entry tier.",
+        "competitorLandscape": "Most motorcycle brands publish a multi-model range. The minimal end is largely vacant. Janus (janusmotorcycles.com) is the closest editorial reference. We sit as the single-model minimal option.",
+        "positioningStatement": "Salt Flat is a minimal motorcycle brand making one bike, in one configuration, in one annual run.",
+        "targetAudience": {
+          "primary": "Riders 30-55 who want one good motorcycle and no choice fatigue.",
+          "behaviors": [
+            "Skip configurators",
+            "Buy one bike and keep it",
+            "Care about weight and balance, not chrome"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Considered",
+          "Plain"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the bike from the side",
+            "Name the weight and the wheelbase",
+            "Use white space generously"
+          ],
+          "donts": [
+            "Add a second model",
+            "Crowd the spec sheet",
+            "Use lifestyle imagery"
+          ]
+        },
+        "logoDirection": "Wordmark: SALT FLAT set very large in a clean modern sans, two words, one line. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Salt",
+            "hex": "#EDE7D7",
+            "meaning": "Salt flat",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tank Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Run Red",
+            "hex": "#A4322B",
+            "meaning": "Tank chip",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for the single spec sheet",
+          "rationale": "Clean Diatype with its mono — the single-bike register."
+        },
+        "brandDescription": "Salt Flat is a minimal motorcycle brand making one bike, in one configuration, in one annual run.",
+        "scope": "Salt Flat works across the motorcycles & moto culture category with a single editorial register.",
+        "mission": "Salt Flat is a minimal motorcycle brand making one bike, in one configuration, in one annual run.",
+        "vision": "Salt Flat held in its register, indefinitely.",
+        "coreValues": [
+          "Spare — operating principle.",
+          "Direct — operating principle.",
+          "Considered — operating principle.",
+          "Plain — operating principle."
+        ]
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Manx Motor Holdings",
+        "tagline": "A motorcycle group in the Isle of Man register.",
+        "brandNameRationale": "Anchor: Manx, the self-name for the Isle of Man, with a deep motorcycle-racing heritage from the TT (1907 onward). 'Motor Holdings' frames the brand as a multi-marque holding company. Geographic anchor, not a marque trademark.",
+        "industrySummary": "Motorcycle holdings are a small institutional category — multi-brand operators serving dealer networks and OEM partnerships. The opening is for a heritage-named holding company with a clear Isle of Man-anchored register.",
+        "competitorLandscape": "Piaggio Group (piaggio.com) is the multi-brand European reference. KTM AG (ktm.com) plays the multi-marque peer. Triumph Motorcycles (triumphmotorcycles.com) holds the British heritage middle. We sit as a smaller multi-marque holdings company in the British register.",
+        "positioningStatement": "Manx Motor Holdings is a multi-marque motorcycle holdings company running shared operations across a portfolio of small-batch builders.",
+        "targetAudience": {
+          "primary": "Small-batch motorcycle builders considering operational partnership, and dealer-network buyers.",
+          "behaviors": [
+            "Negotiate multi-year operating agreements",
+            "Care about parts supply and dealer reach",
+            "Renew on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the portfolio and the operations footprint",
+            "Speak the language of builders and dealers",
+            "Refer to portfolio marques by name"
+          ],
+          "donts": [
+            "No consumer-facing marketing",
+            "No social media at the parent level",
+            "No press-release hype cadence"
+          ]
+        },
+        "logoDirection": "Wordmark: MANX MOTOR HOLDINGS set in an institutional serif, three lines. A small mark — a stylised triskelion — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Manx Slate",
+            "hex": "#2A3340",
+            "meaning": "Institutional",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Page",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Triskelion detail",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and operational documents",
+          "rationale": "A reading serif plus a clean grotesk — the heritage holdings register."
+        },
+        "brandDescription": "Manx Motor Holdings is a multi-marque motorcycle holdings company running shared operations across a portfolio of small-batch builders.",
+        "scope": "Manx Motor Holdings works across the motorcycles & moto culture category with a single editorial register.",
+        "mission": "Manx Motor Holdings is a multi-marque motorcycle holdings company running shared operations across a portfolio of small-batch builders.",
+        "vision": "Manx Motor Holdings held in its register, indefinitely.",
+        "coreValues": [
+          "Senior — operating principle.",
+          "Operational — operating principle.",
+          "Reliable — operating principle.",
+          "Discreet — operating principle."
+        ]
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Ton-Up Club",
+        "tagline": "A hundred on the clock, a coffee in the hand.",
+        "brandNameRationale": "Anchor: the 'ton-up boys' of 1950s Britain — the cafe-racer riders who pushed their bikes to a 'ton' (100 mph) between roadside cafes. 'Ton-Up' is folk-trade slang, not a marque trademark; 'Club' frames the brand as a community, not a manufacturer.",
+        "industrySummary": "Creative motorcycle brands play on subculture and ritual framing. The ton-up subculture is editorially rich and under-used as a brand frame outside enthusiast magazines.",
+        "competitorLandscape": "Deus Ex Machina (deuscustoms.com) plays the lifestyle-creative peer. Hedon (hedonhelmets.com) holds the heritage-accessory middle. Bike Shed (thebikeshed.cc) sits as the community-club reference. We sit as the ton-up subculture brand in the club register.",
+        "positioningStatement": "Ton-Up Club is a creative motorcycle brand built on the 1950s ton-up subculture — apparel, parts, and an annual ride.",
+        "targetAudience": {
+          "primary": "Cafe-racer riders 25-50 who restore and ride.",
+          "behaviors": [
+            "Restore a single bike across years",
+            "Wear the club patch",
+            "Attend the annual ride"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Story-led",
+          "Warm",
+          "Editorial",
+          "Loyal"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the club history on the inside of the jacket",
+            "Name the annual ride",
+            "Show the patch on a real jacket"
+          ],
+          "donts": [
+            "Use stock-image motorcycle photography",
+            "Sell to non-riders",
+            "Drop a new collection every quarter"
+          ]
+        },
+        "logoDirection": "Wordmark: TON-UP CLUB set in a warm display serif, two lines centered. Small mark: a single speedometer needle at 100 mph, used on patches and tank decals.",
+        "colorPalette": [
+          {
+            "name": "Cafe Red",
+            "hex": "#A4322B",
+            "meaning": "Cafe-racer red",
+            "usage": "Accent"
+          },
+          {
+            "name": "Jacket Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Worn leather lining",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tank Ink",
+            "hex": "#141417",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Söhne for body and club notes",
+          "rationale": "A warm display serif plus a clean grotesk — the editorial club register."
+        },
+        "brandDescription": "Ton-Up Club is a creative motorcycle brand built on the 1950s ton-up subculture — apparel, parts, and an annual ride.",
+        "scope": "Ton-Up Club works across the motorcycles & moto culture category with a single editorial register.",
+        "mission": "Ton-Up Club is a creative motorcycle brand built on the 1950s ton-up subculture — apparel, parts, and an annual ride.",
+        "vision": "Ton-Up Club held in its register, indefinitely.",
+        "coreValues": [
+          "Story-led — operating principle.",
+          "Warm — operating principle.",
+          "Editorial — operating principle.",
+          "Loyal — operating principle."
+        ]
+      }
+    ]
+  }
+}

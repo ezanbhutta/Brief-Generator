@@ -1,0 +1,315 @@
+{
+  "industry": "kayaking",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Qajaq Co.",
+        "tagline": "The original spelling.",
+        "brandNameRationale": "Anchor: 'qajaq' — the original Inuit spelling of the word kayak, used by the modern Greenland-style paddling community to distinguish traditional skin-on-frame design from recreational rotomold kayaks. Counter to K1 Outfitters (racing-class specific) and Greenland Paddle Works (longer compound). Qajaq Co. is the single-word respectful nod.",
+        "industrySummary": "Modern paddle sports has split between recreational rotomold kayaks and a serious traditional-design community building skin-on-frame Greenland qajaqs. The opening is for a brand that names the original spelling and serves both markets respectfully.",
+        "competitorLandscape": "Wilderness Systems (wildernesssystems.com) plays the recreational peer. Sterling Kayaks (sterlingkayaks.com) holds the sea-kayak reference. P&H Sea Kayaks (phseakayaks.com) is the touring middle. We sit as a traditional-design modern paddle brand.",
+        "positioningStatement": "Qajaq Co. is a modern paddle-sports brand using the original Inuit spelling, serving traditional skin-on-frame and contemporary sea-kayak paddlers.",
+        "targetAudience": {
+          "primary": "Sea kayakers and touring paddlers 30-55 building skill in the Greenland-paddle tradition.",
+          "behaviors": [
+            "Take a roll clinic each spring",
+            "Build or own a Greenland paddle",
+            "Plan a multi-day touring trip annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Respectful",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use the original spelling consistently",
+            "Credit the tradition without claiming it",
+            "Name the paddle and the roll by their Greenland names"
+          ],
+          "donts": [
+            "Use extreme-sport marketing language",
+            "Decorate with stylized Inuit motifs",
+            "Photograph the paddler from above"
+          ]
+        },
+        "logoDirection": "Wordmark: QAJAQ CO. set in a precise grotesk, two words on one line. Small mark: a single narrow Greenland-paddle silhouette used on the deck label.",
+        "colorPalette": [
+          {
+            "name": "Strait Blue",
+            "hex": "#1F3A4B",
+            "meaning": "Greenland-strait water",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Drift Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Drift-ice paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hull Grey",
+            "hex": "#8A8680",
+            "meaning": "Skin-on-frame canvas",
+            "usage": "Secondary"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for paddle dimensions and trip notes",
+          "rationale": "One grotesk family plus its mono — the touring-log register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Baidarka Expeditions",
+        "tagline": "Aleutian craft, north-coast water.",
+        "brandNameRationale": "Anchor: 'baidarka' — the Aleutian skin-on-frame kayak of the Bering Sea, longer and faster than the Greenland qajaq, used historically for long-distance hunting expeditions. Counter to Fjordline Paddle (Scandinavian-skewing) and North Strait & Co. (less specific). Baidarka anchors the luxury expedition register in a real craft tradition.",
+        "industrySummary": "Luxury paddle-sports is a small expedition-and-charter category — multi-week guided trips along Alaskan, Patagonian, and Norwegian coastlines, with bespoke skin-on-frame craft and one guide per two paddlers.",
+        "competitorLandscape": "Tofino Expeditions (tofinoexpeditions.com) plays the high-end guided peer. Sea Kayak Adventures (seakayakadventures.com) holds the expedition reference. Crystal Cruises (crystalcruises.com) is the broader luxury-travel anchor. We sit as a baidarka-tradition expedition house.",
+        "positioningStatement": "Baidarka Expeditions is a luxury sea-kayak expedition house running multi-week guided trips in the Aleutian baidarka tradition.",
+        "targetAudience": {
+          "primary": "Experienced paddlers and luxury-expedition travelers 40-65 booking once-a-year trips with a clear craft pedigree.",
+          "behaviors": [
+            "Book trips eighteen months in advance",
+            "Travel with their own paddle",
+            "Re-book with the same guide annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Discreet",
+          "Senior"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the guide and the craft on every itinerary",
+            "Credit the Aleutian tradition with restraint",
+            "Send a printed trip dossier"
+          ],
+          "donts": [
+            "Run social-media-led campaigns",
+            "Photograph paddlers in extreme weather as the hero shot",
+            "Publish discounted trips"
+          ]
+        },
+        "logoDirection": "Wordmark: BAIDARKA EXPEDITIONS set in a refined serif, two lines centered. A hallmark — a single long baidarka silhouette with a paddler — used on the trip dossier cover.",
+        "colorPalette": [
+          {
+            "name": "Bering Slate",
+            "hex": "#283442",
+            "meaning": "Bering-Sea water",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#EFE7D2",
+            "meaning": "Dossier paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Compass brass",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and trip dossiers",
+          "rationale": "A single classical serif family — the expedition-house register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Hull",
+        "tagline": "What touches the water.",
+        "brandNameRationale": "Anchor: the hull — the single most important word in boat design, the part that meets the water. Counter to Paddle. (over-punctuated) and Roll (verb-as-noun, harder to register). Hull is the trade noun, single syllable.",
+        "industrySummary": "Minimal paddle-sports brands serve experienced paddlers who want a single boat in their fleet with no decoration. The opening is for a single-word trade-noun brand.",
+        "competitorLandscape": "Sterling Kayaks (sterlingkayaks.com) plays the minimal-design peer. Tahe Outdoors (taheoutdoors.com) holds the touring reference. NDK (seakayakinguk.com) is the heritage-British middle. We sit as the single-word minimal option.",
+        "positioningStatement": "Hull is a minimal paddle-sports brand — one boat line, one paddle, one rate card.",
+        "targetAudience": {
+          "primary": "Experienced paddlers 30-55 replacing a touring boat after a decade of use.",
+          "behaviors": [
+            "Research hull design before buying",
+            "Want a single rate card",
+            "Skip the lifestyle marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Plain",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the hull dimensions plainly",
+            "Show the boat from the side",
+            "Confirm the order in one line"
+          ],
+          "donts": [
+            "Use extreme-sport language",
+            "Photograph the paddler",
+            "Sell accessories at checkout"
+          ]
+        },
+        "logoDirection": "Wordmark: HULL set very large in a clean modern sans, four letters, one word. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Hull Grey",
+            "hex": "#8A8680",
+            "meaning": "Boat hull",
+            "usage": "Body"
+          },
+          {
+            "name": "Wake White",
+            "hex": "#F4F0E6",
+            "meaning": "Paddle wake",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Water Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for hull dimensions",
+          "rationale": "Clean Diatype with its mono — the single-boat register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Tideway Kayak Co.",
+        "tagline": "Outfitting and lessons, multi-site.",
+        "brandNameRationale": "Anchor: 'tideway' — the trade word for a tidal channel, used by long-standing British rowing and paddling firms. Counter to Pacific Paddle Group (too geographically narrow) and Strait & Sound Outfitters (longer and less ownable). Tideway Kayak Co. reads as an institutional multi-site outfitter.",
+        "industrySummary": "Corporate paddle-sports operators run multi-site outfitting and lesson businesses across coastal and lake regions, with shared rental fleets, instructor certification programs, and corporate-events bookings.",
+        "competitorLandscape": "REI Co-op Adventures (rei.com/adventures) plays the multi-site peer. Outdoor Adventure River Specialists (oars.com) holds the operator reference. NRS (nrs.com) is the outfitter-supply middle. We sit as a multi-site outfitting operator in the Tideway register.",
+        "positioningStatement": "Tideway Kayak Co. is a regional multi-site paddle-sports outfitter and lesson provider operating across coastal and lake regions.",
+        "targetAudience": {
+          "primary": "Regional outdoor-recreation buyers, corporate-events planners, and franchise partners across coastal markets.",
+          "behaviors": [
+            "Book corporate retreat packages",
+            "Hire fleets for multi-day events",
+            "Renew rental contracts annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with fleet capacity and instructor certifications",
+            "Publish the multi-site lesson schedule",
+            "Speak to corporate-events and outdoor-recreation buyers"
+          ],
+          "donts": [
+            "Run consumer extreme-sport marketing at the parent level",
+            "Discount lessons publicly",
+            "Photograph individual paddlers as the hero shot"
+          ]
+        },
+        "logoDirection": "Wordmark: TIDEWAY KAYAK CO. set in an institutional serif, three lines centered. A small mark — a single paddle blade — used on the contract cover.",
+        "colorPalette": [
+          {
+            "name": "Tideway Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Tidal channel",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Document Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Contract paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Paddle Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Paddle ferrule",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the multi-site outfitter register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Wet Exit",
+        "tagline": "When the boat is upside down, you get out.",
+        "brandNameRationale": "Anchor: 'wet exit' — the kayaker's term for bailing out of a capsized boat, the first skill every beginner learns. Counter to Two Blades, One River (too tagline-shaped) and Bracing Strokes (less universally recognized). The Wet Exit is the insider trade term that becomes a brand name.",
+        "industrySummary": "Creative paddle-sports brands lean on insider vocabulary and a teaching ethic. The opening is for a brand that names the most-feared beginner skill plainly and turns it into a welcoming mark.",
+        "competitorLandscape": "Aqua-Bound (aquabound.com) plays the paddle-brand peer. NRS (nrs.com) holds the outfitter-supply reference. Werner Paddles (wernerpaddles.com) is the heritage-paddle middle. We sit as an insider-vocabulary creative paddle brand.",
+        "positioningStatement": "The Wet Exit is a creative paddle-sports brand and instruction school named for the first skill every kayaker learns.",
+        "targetAudience": {
+          "primary": "Beginner and intermediate paddlers 28-50 taking lessons and buying their first serious gear.",
+          "behaviors": [
+            "Sign up for a roll clinic each spring",
+            "Buy a paddle before a boat",
+            "Photograph the wet-exit drill"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Warm",
+          "Confident",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the skill plainly",
+            "Write the lesson plan in the instructor's voice",
+            "Use the wet-exit drill as the brand's hero image"
+          ],
+          "donts": [
+            "Sound corporate",
+            "Sell fear of capsizing",
+            "Photograph experts as the hero shot"
+          ]
+        },
+        "logoDirection": "Wordmark: THE WET EXIT set in a punchy serif, two lines. Small mark: a single upturned kayak silhouette with a paddler emerging — the wet-exit illustration — used as the stamp.",
+        "colorPalette": [
+          {
+            "name": "Wet Blue",
+            "hex": "#2A4A6A",
+            "meaning": "Water from below",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Spray Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Spray-deck cream",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Splash Red",
+            "hex": "#E94E2A",
+            "meaning": "Safety accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "A warm display serif plus a clean grotesk — the lesson-school register."
+        }
+      }
+    ]
+  }
+}

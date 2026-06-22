@@ -1,0 +1,902 @@
+{
+  "industry": "kombucha",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Second Ferment",
+        "tagline": "Where flavor happens.",
+        "brandNameRationale": "Second Ferment names the F2 stage — the bottle fermentation where flavor and carbonation happen. Two-word, trade-honest, modern.",
+        "industrySummary": "Modern kombucha brands compete on flavor and ferment. The opening is a process-stage-named modern kombucha.",
+        "competitorLandscape": "Health-Ade (health-ade.com) plays the modern retail peer. GT's Living Foods (gtslivingfoods.com) holds the category middle. Brew Dr. Kombucha (brewdrkombucha.com) is the reference. We sit alongside Health-Ade with a process-stage frame.",
+        "positioningStatement": "Second Ferment is a modern kombucha brand named for the bottle fermentation where flavor happens.",
+        "targetAudience": {
+          "primary": "Health-literate adults 25–45.",
+          "behaviors": [
+            "Buy weekly",
+            "Care about live cultures",
+            "Read the back label"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Technique-forward",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the F2 schedule",
+            "Name the cultures",
+            "Show the bottle"
+          ],
+          "donts": [
+            "Use 'wellness' as a category",
+            "Sell health claims",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: SECOND FERMENT in a tight modern grotesk, two lines. A small mark — a single bubble silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Bottle.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for ingredient lists",
+          "rationale": "One family — the modern brewery register."
+        }
+      },
+      {
+        "brandName": "Live Culture Co.",
+        "tagline": "The mother is the brand.",
+        "brandNameRationale": "Live Culture is literal (live cultures, the SCOBY) and a cultural pun. Co. closes it as a trade company.",
+        "industrySummary": "Modern kombucha brands compete on the culture. The opening is a literal + cultural-pun modern brand.",
+        "competitorLandscape": "Health-Ade (health-ade.com) plays the modern retail peer. GT's Living Foods (gtslivingfoods.com) holds the category middle. Brew Dr. Kombucha (brewdrkombucha.com) is the reference. We sit as a culture-named modern brand.",
+        "positioningStatement": "Live Culture Co. is a modern kombucha brand built on the live mother culture.",
+        "targetAudience": {
+          "primary": "Health-literate adults 25–45.",
+          "behaviors": [
+            "Buy weekly",
+            "Care about live cultures",
+            "Read the back label"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the culture lineage",
+            "Show the mother",
+            "Name the cultures"
+          ],
+          "donts": [
+            "Use 'wellness' as a category",
+            "Sell health claims",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: LIVE CULTURE CO. in a tight modern grotesk, two lines. A small mark — a single SCOBY-disk silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Bottle.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark",
+          "secondary": "Söhne Mono for ingredient lists",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "Mother Tonic",
+        "tagline": "The mother as the tonic.",
+        "brandNameRationale": "Mother names the SCOBY mother; Tonic names the drink register. Two-word, trade-honest.",
+        "industrySummary": "Modern kombucha brands trade on the mother. The opening is a mother-named tonic.",
+        "competitorLandscape": "Health-Ade (health-ade.com) plays the modern retail peer. GT's Living Foods (gtslivingfoods.com) holds the category middle. Brew Dr. Kombucha (brewdrkombucha.com) is the reference. We sit as a mother-named tonic.",
+        "positioningStatement": "Mother Tonic is a modern kombucha brand built around the mother culture.",
+        "targetAudience": {
+          "primary": "Health-literate adults 25–45.",
+          "behaviors": [
+            "Buy weekly",
+            "Care about the mother",
+            "Read the back label"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the mother",
+            "Print the culture lineage",
+            "Name the tonic"
+          ],
+          "donts": [
+            "Use 'wellness' as a category",
+            "Sell health claims",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: MOTHER TONIC in a tight modern grotesk, two lines.",
+        "colorPalette": [
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Bottle.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "One family."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Jun & Honeycomb",
+        "tagline": "Honey kombucha tradition.",
+        "brandNameRationale": "Jun is the honey kombucha tradition (green tea + honey rather than black tea + sugar). Honeycomb names the sweetener. Two-noun luxury pairing.",
+        "industrySummary": "Luxury kombucha brands trade on jun and provenance. The opening is a jun-and-honey luxury brand.",
+        "competitorLandscape": "Wonder Drink (wonderdrink.com) plays the heritage peer. Brew Dr. Kombucha (brewdrkombucha.com) holds the considered middle. Aqua ViTea (aquavitea.com) is the artisan reference. We sit as a jun-and-honey luxury brand.",
+        "positioningStatement": "Jun & Honeycomb is a luxury jun kombucha brand built on green tea and small-apiary honey.",
+        "targetAudience": {
+          "primary": "Luxury food buyers, hotels, and UHNW home buyers.",
+          "behaviors": [
+            "Order seasonally",
+            "Care about the apiary",
+            "Pay full luxury rates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the apiary",
+            "Print the F2 schedule",
+            "Photograph the honey"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell on Amazon"
+          ]
+        },
+        "logoDirection": "Wordmark: JUN & HONEYCOMB in a refined serif, two lines centered. A small mark — a honeycomb hexagon — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Honey",
+            "hex": "#C9963B",
+            "meaning": "Honey.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tea Green",
+            "hex": "#3E5A3E",
+            "meaning": "Green tea.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif — the luxury food register."
+        }
+      },
+      {
+        "brandName": "The Cellar Brew",
+        "tagline": "Barrel-aged kombucha.",
+        "brandNameRationale": "Cellar names the aging register from wine; brew names the kombucha. Two-noun pairing.",
+        "industrySummary": "Luxury kombucha brands trade on aging. The opening is a cellar-named barrel-aged brand.",
+        "competitorLandscape": "Wonder Drink (wonderdrink.com) plays the heritage peer. Brew Dr. Kombucha (brewdrkombucha.com) holds the considered middle. Aqua ViTea (aquavitea.com) is the artisan reference. We sit as a cellar-aged luxury brand.",
+        "positioningStatement": "The Cellar Brew is a luxury barrel-aged kombucha program.",
+        "targetAudience": {
+          "primary": "Luxury food buyers, hotels, sommeliers.",
+          "behaviors": [
+            "Order seasonally",
+            "Care about barrel program",
+            "Pay full luxury rates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the barrel and the cellar",
+            "Print the aging schedule",
+            "Photograph the cellar"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell on Amazon"
+          ]
+        },
+        "logoDirection": "Wordmark: THE CELLAR BREW in a refined serif, three lines centered. A small mark — a barrel-end silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Cellar Brown",
+            "hex": "#5A3220",
+            "meaning": "Cellar wood.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Honey",
+            "hex": "#C9963B",
+            "meaning": "Honey.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "Reading-serif family."
+        }
+      },
+      {
+        "brandName": "Tea & Mother",
+        "tagline": "The two ingredients.",
+        "brandNameRationale": "Tea + mother are the two foundational ingredients. Two-noun luxury pairing on the essentials.",
+        "industrySummary": "Luxury kombucha brands trade on ingredient honesty. The opening is a two-ingredient luxury brand.",
+        "competitorLandscape": "Wonder Drink (wonderdrink.com) plays the heritage peer. Brew Dr. Kombucha (brewdrkombucha.com) holds the considered middle. Aqua ViTea (aquavitea.com) is the artisan reference. We sit as a two-ingredient luxury brand.",
+        "positioningStatement": "Tea & Mother is a luxury single-origin kombucha brand named for its two ingredients.",
+        "targetAudience": {
+          "primary": "Luxury food buyers, hotels, sommeliers.",
+          "behaviors": [
+            "Order seasonally",
+            "Care about tea origin",
+            "Pay full luxury rates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the tea origin",
+            "Print the mother lineage",
+            "Photograph the steep"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell on Amazon"
+          ]
+        },
+        "logoDirection": "Wordmark: TEA & MOTHER in a refined serif, three lines centered.",
+        "colorPalette": [
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Ferment.",
+        "tagline": "The verb.",
+        "brandNameRationale": "Ferment names the act. Period as logo. Single word.",
+        "industrySummary": "Minimal kombucha brands strip to the act. The opening is a period-as-mark brand.",
+        "competitorLandscape": "Health-Ade (health-ade.com) plays the modern retail peer. GT's Living Foods (gtslivingfoods.com) holds the category middle. Brew Dr. Kombucha (brewdrkombucha.com) is the reference. We sit at single-word minimal.",
+        "positioningStatement": "Ferment. is a minimal kombucha brand named for the act.",
+        "targetAudience": {
+          "primary": "Health-literate adults 25–45 who skip lifestyle marketing.",
+          "behaviors": [
+            "Buy weekly",
+            "Read the back label",
+            "Skip the lifestyle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the ingredient list plainly",
+            "Show the bottle",
+            "Name the cultures"
+          ],
+          "donts": [
+            "Use 'wellness' as a category",
+            "Sell health claims",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: ferment. in a clean humanist sans, all lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Bottle.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark",
+          "secondary": "ABC Diatype for body",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "Mother",
+        "tagline": "The mother culture.",
+        "brandNameRationale": "Mother names the SCOBY. Single word.",
+        "industrySummary": "Minimal kombucha brands strip to the object. The opening is a mother-named brand.",
+        "competitorLandscape": "Health-Ade (health-ade.com) plays the modern retail peer. GT's Living Foods (gtslivingfoods.com) holds the category middle. Brew Dr. Kombucha (brewdrkombucha.com) is the reference. We sit at single-word minimal.",
+        "positioningStatement": "Mother is a minimal kombucha brand named for the SCOBY.",
+        "targetAudience": {
+          "primary": "Health-literate adults 25–45.",
+          "behaviors": [
+            "Buy weekly",
+            "Read the back label",
+            "Skip the lifestyle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the ingredient list plainly",
+            "Show the mother",
+            "Name the cultures"
+          ],
+          "donts": [
+            "Use 'wellness' as a category",
+            "Sell health claims",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: MOTHER in a precise modern grotesk, all caps, six letters, generous tracking.",
+        "colorPalette": [
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Bottle.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark",
+          "secondary": "Neue Haas Grotesk for body",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "Pellicle",
+        "tagline": "The SCOBY layer.",
+        "brandNameRationale": "Pellicle is the trade term for the SCOBY layer. Single word, insider-trade.",
+        "industrySummary": "Minimal kombucha brands trade on a trade term. The opening is a pellicle-named insider-trade brand.",
+        "competitorLandscape": "Health-Ade (health-ade.com) plays the modern retail peer. GT's Living Foods (gtslivingfoods.com) holds the category middle. Brew Dr. Kombucha (brewdrkombucha.com) is the reference. We sit at insider-trade minimal.",
+        "positioningStatement": "Pellicle is a minimal kombucha brand named for the SCOBY layer.",
+        "targetAudience": {
+          "primary": "Health-literate adults 25–45 who know the trade.",
+          "behaviors": [
+            "Buy weekly",
+            "Read the back label",
+            "Skip the lifestyle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Specialist"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the trade terms plainly",
+            "Show the pellicle",
+            "Name the cultures"
+          ],
+          "donts": [
+            "Use 'wellness' as a category",
+            "Sell health claims",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: PELLICLE in a precise modern grotesk, all caps, eight letters, generous tracking.",
+        "colorPalette": [
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Bottle.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "One family."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Boocha Beverage Co.",
+        "tagline": "Multi-brand kombucha operator.",
+        "brandNameRationale": "Boocha is the affectionate trade nickname for kombucha; Beverage Co. closes it as a multi-brand operator.",
+        "industrySummary": "Multi-brand kombucha operators consolidate brands under one back office. The opening is a boocha-nicknamed multi-brand operator.",
+        "competitorLandscape": "Reed's (reedsinc.com) plays the beverage-holdings peer. PepsiCo (KeVita) holds the multi-brand middle. Vitamin Well Group (vitaminwellgroup.com) is the reference. We sit as a kombucha multi-brand operator.",
+        "positioningStatement": "Boocha Beverage Co. is a multi-brand kombucha operator with shared distribution and supply.",
+        "targetAudience": {
+          "primary": "Beverage founders considering sale, hospitality groups, institutional buyers.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about case-pack consistency",
+            "Compare beverage vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-brand"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand count and distribution",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single SKU",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: BOOCHA BEVERAGE CO. in a clean institutional serif, two lines. A small mark — a single bottle silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      },
+      {
+        "brandName": "Wild Ferment Holdings",
+        "tagline": "Multi-brand fermented-drinks operator.",
+        "brandNameRationale": "Wild Ferment borrows Sandor Katz's title (Wild Fermentation, 2003) as a category register; Holdings closes it as a multi-brand operator.",
+        "industrySummary": "Multi-brand fermented-drinks holding companies consolidate brands under one operator. The opening is a wild-ferment-named holding.",
+        "competitorLandscape": "Reed's (reedsinc.com) plays the beverage-holdings peer. PepsiCo (KeVita) holds the multi-brand middle. Vitamin Well Group (vitaminwellgroup.com) is the reference. We sit as a fermented-drinks holding.",
+        "positioningStatement": "Wild Ferment Holdings is a multi-brand fermented-drinks operator across kombucha, kefir, and ginger beer.",
+        "targetAudience": {
+          "primary": "Beverage founders considering sale, hospitality groups, institutional buyers.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about case-pack consistency",
+            "Compare beverage vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-brand"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand count",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single SKU",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: WILD FERMENT HOLDINGS in a clean institutional serif, two lines.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Classical serif plus clean grotesk."
+        }
+      },
+      {
+        "brandName": "Symbiote Drinks",
+        "tagline": "Multi-brand fermented-drinks operator.",
+        "brandNameRationale": "Symbiote names the symbiotic culture; Drinks closes it as a multi-brand operator. Science-forward institutional register.",
+        "industrySummary": "Multi-brand fermented-drinks operators consolidate brands. The opening is a science-named multi-brand operator.",
+        "competitorLandscape": "Reed's (reedsinc.com) plays the beverage-holdings peer. PepsiCo (KeVita) holds the multi-brand middle. Vitamin Well Group (vitaminwellgroup.com) is the reference. We sit as a science-named operator.",
+        "positioningStatement": "Symbiote Drinks is a multi-brand fermented-drinks operator with a science-forward register.",
+        "targetAudience": {
+          "primary": "Beverage founders considering sale, hospitality groups, institutional buyers.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "Care about case-pack consistency",
+            "Compare beverage vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-brand"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with brand count",
+            "Speak to operators",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single SKU",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: SYMBIOTE DRINKS in a clean institutional serif, two lines.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Pellicle",
+        "tagline": "Insider trade term.",
+        "brandNameRationale": "Pellicle is the trade term for the SCOBY layer. Definite article + insider trade term — editorial register.",
+        "industrySummary": "Editorial kombucha brands trade on an insider trade term. The opening is an insider-trade-named editorial brand with a journal.",
+        "competitorLandscape": "Health-Ade (health-ade.com) plays the modern peer. GT's Living Foods (gtslivingfoods.com) holds the category middle. Brew Dr. Kombucha (brewdrkombucha.com) is the reference. We sit as an editorial insider-trade brand.",
+        "positioningStatement": "The Pellicle is a creative kombucha brand named for the SCOBY layer with a journal program.",
+        "targetAudience": {
+          "primary": "Editorial fermented-drinks buyers 25–45.",
+          "behaviors": [
+            "Read the journal",
+            "Care about the cultures",
+            "Trade single-origin teas"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Specialist",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal seasonally",
+            "Photograph the pellicle",
+            "Name the cultures"
+          ],
+          "donts": [
+            "Use 'wellness' as a category",
+            "Sell health claims",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: THE PELLICLE in a confident editorial serif, two lines centered. A small mark — a SCOBY-disk silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Pellicle Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body and journal",
+          "rationale": "Reading serif plus clean grotesk — the editorial register."
+        }
+      },
+      {
+        "brandName": "Kombucha Mama",
+        "tagline": "Lineage-aware.",
+        "brandNameRationale": "Kombucha Mama is the affectionate term for an experienced kombucha brewer (kombucha-mama tradition). Lineage-aware, warm.",
+        "industrySummary": "Editorial kombucha brands trade on the maker tradition. The opening is a kombucha-mama-named editorial brand.",
+        "competitorLandscape": "Health-Ade (health-ade.com) plays the modern peer. GT's Living Foods (gtslivingfoods.com) holds the category middle. Brew Dr. Kombucha (brewdrkombucha.com) is the reference. We sit as a maker-tradition editorial brand.",
+        "positioningStatement": "Kombucha Mama is a creative kombucha brand built around the kombucha-mama tradition.",
+        "targetAudience": {
+          "primary": "Editorial fermented-drinks buyers 25–45.",
+          "behaviors": [
+            "Read the journal",
+            "Care about the mother culture lineage",
+            "Buy seasonally"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Warm",
+          "Lineage-aware"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal seasonally",
+            "Photograph the mother",
+            "Name the lineage"
+          ],
+          "donts": [
+            "Use 'wellness' as a category",
+            "Sell health claims",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: KOMBUCHA MAMA in a confident editorial serif, two lines centered. A small mark — a SCOBY silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Pellicle Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Soft Rose",
+            "hex": "#D8AFA0",
+            "meaning": "Warm accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif."
+        }
+      },
+      {
+        "brandName": "The Second Brew",
+        "tagline": "F2 as the story.",
+        "brandNameRationale": "Second Brew names the F2 stage in editorial register. Definite-article + the stage.",
+        "industrySummary": "Editorial kombucha brands trade on the F2 stage. The opening is a second-brew-named editorial brand.",
+        "competitorLandscape": "Health-Ade (health-ade.com) plays the modern peer. GT's Living Foods (gtslivingfoods.com) holds the category middle. Brew Dr. Kombucha (brewdrkombucha.com) is the reference. We sit as an F2-editorial brand.",
+        "positioningStatement": "The Second Brew is a creative kombucha brand built on the F2 stage and a printed journal.",
+        "targetAudience": {
+          "primary": "Editorial fermented-drinks buyers 25–45.",
+          "behaviors": [
+            "Read the journal",
+            "Care about the F2",
+            "Buy seasonally"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Patient",
+          "Specialist"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the F2 schedule",
+            "Photograph the bottles",
+            "Name the cultures"
+          ],
+          "donts": [
+            "Use 'wellness' as a category",
+            "Sell health claims",
+            "Photograph against marble"
+          ]
+        },
+        "logoDirection": "Wordmark: THE SECOND BREW in a confident editorial serif, three lines centered. A small mark — a single bubble silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Pellicle Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Tea",
+            "hex": "#A37E3B",
+            "meaning": "Brewed tea.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Bottle Green",
+            "hex": "#3E5A3E",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      }
+    ]
+  }
+}

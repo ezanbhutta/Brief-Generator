@@ -1,0 +1,365 @@
+{
+  "industry": "ice-cream",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Granita Lab",
+        "tagline": "Sicilian ice, by the cup.",
+        "brandNameRationale": "Anchor: Sicilian granita — the centuries-old semi-frozen ice tradition from Catania and Messina, the precursor to sorbet. 'Lab' frames the brand as a contemporary single-form studio: one form, many fruits, every batch logged.",
+        "industrySummary": "Modern ice-cream brands are crowded with gelato and soft-serve operators; the granita form is editorially open. The opening is for a single-form ice brand that names the fruit, the sugar ratio, and the freezing time per batch.",
+        "competitorLandscape": "Morgenstern's (morgensternsnyc.com) is the modern reference. Van Leeuwen (vanleeuwenicecream.com) holds the scaled-modern middle. OddFellows (oddfellowsnyc.com) plays the editorial peer. We sit alongside Morgenstern's with the granita form held narrowly.",
+        "positioningStatement": "Granita Lab is a modern Sicilian-ice brand publishing the fruit, the sugar ratio, and the freeze time of every batch.",
+        "targetAudience": {
+          "primary": "Design-literate dessert buyers 26-45 who want a single form done seriously.",
+          "behaviors": [
+            "Order the same flavour all summer",
+            "Care about sugar ratio and fruit source",
+            "Skip novelty flavours"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Process-led",
+          "Plainspoken"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the fruit and the grower",
+            "Publish the sugar ratio",
+            "Show the actual scraping spoon"
+          ],
+          "donts": [
+            "Use 'authentic Sicilian' as a pitch",
+            "Photograph against marble",
+            "Sell more than one form"
+          ]
+        },
+        "logoDirection": "Wordmark: GRANITA LAB set in a confident modern grotesk, two words on one line. Small mark: a single granita cup with a long spoon, used on cups and the batch ledger.",
+        "colorPalette": [
+          {
+            "name": "Lemon Ice",
+            "hex": "#F1E8B8",
+            "meaning": "Sicilian lemon granita",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Granita Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Almond Cream",
+            "hex": "#E7D6B5",
+            "meaning": "Almond granita",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for sugar ratios and batch numbers",
+          "rationale": "A modern grotesk plus its mono — the batch-ledger register."
+        },
+        "brandDescription": "Granita Lab is a modern Sicilian-ice brand publishing the fruit, the sugar ratio, and the freeze time of every batch.",
+        "scope": "Granita Lab works across the ice cream & gelato category with a single editorial register.",
+        "mission": "Granita Lab is a modern Sicilian-ice brand publishing the fruit, the sugar ratio, and the freeze time of every batch.",
+        "vision": "Granita Lab held in its register, indefinitely.",
+        "coreValues": [
+          "Considered — operating principle.",
+          "Modern — operating principle.",
+          "Process-led — operating principle.",
+          "Plainspoken — operating principle."
+        ]
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Île Saint-Louis Gelateria",
+        "tagline": "A Paris ice room, by the bridge.",
+        "brandNameRationale": "Anchor: the Île Saint-Louis in Paris — the historic address that has stood for ice-cream excellence in the city since the mid-twentieth century. The address is geographic, not a live trademark; the brand inherits the prestige of place without leaning on a competitor's name.",
+        "industrySummary": "Luxury gelato is a small editorial category — single-shop houses on a known address, narrow flavours, no franchising. The opening is for a heritage Paris gelateria that holds the address as the brand.",
+        "competitorLandscape": "Berthillon (berthillon.fr) plays the Paris reference. Grom (grom.it) holds the heritage Italian peer slot. Bachour (bachour.com) sits in the modern luxury middle. We sit as a Paris-address heritage house in the gelateria register.",
+        "positioningStatement": "Île Saint-Louis Gelateria is a Paris ice house holding a fixed catalog of nine flavours, served only from the shop on the bridge.",
+        "targetAudience": {
+          "primary": "Paris diners and seasonal visitors who treat the gelateria as a fixed summer ritual.",
+          "behaviors": [
+            "Walk to the shop after dinner",
+            "Order the same three flavours",
+            "Bring out-of-town guests"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Discreet",
+          "Senior"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the bridge and the address",
+            "Reference the founding year",
+            "Print all signage in French and English"
+          ],
+          "donts": [
+            "Use 'luxury' on the menu",
+            "Open a second shop",
+            "Discount, ever"
+          ]
+        },
+        "logoDirection": "Wordmark: ÎLE SAINT-LOUIS GELATERIA set in a classical book serif, three lines centered. Small mark: an embossed seal of the bridge silhouette, used on the cup lid.",
+        "colorPalette": [
+          {
+            "name": "Seine Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Paris paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Bridge Stone",
+            "hex": "#5C4A35",
+            "meaning": "Stone of the bridge",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Gilded Brass",
+            "hex": "#A6843D",
+            "meaning": "Shop hardware",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and signage",
+          "secondary": "Garamond Premier Pro for body and the menu card",
+          "rationale": "A classical serif plus a reading serif — the heritage Paris register."
+        },
+        "brandDescription": "Île Saint-Louis Gelateria is a Paris ice house holding a fixed catalog of nine flavours, served only from the shop on the bridge.",
+        "scope": "Île Saint-Louis Gelateria works across the ice cream & gelato category with a single editorial register.",
+        "mission": "Île Saint-Louis Gelateria is a Paris ice house holding a fixed catalog of nine flavours, served only from the shop on the bridge.",
+        "vision": "Île Saint-Louis Gelateria held in its register, indefinitely.",
+        "coreValues": [
+          "Refined — operating principle.",
+          "Patient — operating principle.",
+          "Discreet — operating principle.",
+          "Senior — operating principle."
+        ]
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Cône",
+        "tagline": "One cone.",
+        "brandNameRationale": "Anchor: the artisanal gelato cone — the single object that defines the take-away gelato format. One French word, accent retained. The diacritic is the only decoration the brand permits itself.",
+        "industrySummary": "Minimal gelato brands serve the design-literate dessert buyer — one form, one cone, one label.",
+        "competitorLandscape": "Most gelato brands lean folkloric or rainbow-palette. The minimal end is mostly empty. Morgenstern's (morgensternsnyc.com) is the closest editorial reference. We sit as the single-word minimal option.",
+        "positioningStatement": "Cône is a minimal gelateria selling one cone with three rotating flavours, served from a single window.",
+        "targetAudience": {
+          "primary": "Design-conscious dessert buyers 25-45 who want a small choice taken seriously.",
+          "behaviors": [
+            "Skip the menu",
+            "Order the day's flavour",
+            "Walk back the next day"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Considered",
+          "Plain"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the cone",
+            "Name the day's three flavours",
+            "Use white space generously"
+          ],
+          "donts": [
+            "Add a cup option",
+            "Crowd the window",
+            "Sell merchandise"
+          ]
+        },
+        "logoDirection": "Wordmark: CÔNE set very large in a clean modern sans, four letters, accent retained. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Wafer Cream",
+            "hex": "#F4EFE3",
+            "meaning": "Cone paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cône Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Pistachio",
+            "hex": "#7A8B4F",
+            "meaning": "Pistachio accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for the day's flavours",
+          "rationale": "Clean Diatype with its mono — the one-window register."
+        },
+        "brandDescription": "Cône is a minimal gelateria selling one cone with three rotating flavours, served from a single window.",
+        "scope": "Cône works across the ice cream & gelato category with a single editorial register.",
+        "mission": "Cône is a minimal gelateria selling one cone with three rotating flavours, served from a single window.",
+        "vision": "Cône held in its register, indefinitely.",
+        "coreValues": [
+          "Spare — operating principle.",
+          "Direct — operating principle.",
+          "Considered — operating principle.",
+          "Plain — operating principle."
+        ]
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Adriatic Cream Holdings",
+        "tagline": "Wholesale gelato, supplied to scale.",
+        "brandNameRationale": "Anchor: the Adriatic coast — the geographic spine of the Italian gelato tradition from Trieste to Bari. 'Cream Holdings' frames the brand as a multi-brand wholesale operator with a real heritage geography behind it.",
+        "industrySummary": "Wholesale gelato is consolidating under a small number of regional operators supplying hotels, restaurants, and grocery private-label. The opening is for a heritage-named operator with multi-line capacity.",
+        "competitorLandscape": "Carpigiani (carpigiani.com) is the equipment-and-base reference. PreGel (pregel.com) holds the wholesale ingredient middle. MEC3 (mec3.com) plays the supplier peer. We sit as a wholesale finished-gelato operator with an Adriatic geographic anchor.",
+        "positioningStatement": "Adriatic Cream Holdings is a wholesale gelato operator supplying hotels, restaurants, and private-label clients across the Adriatic supply belt.",
+        "targetAudience": {
+          "primary": "Hotel F&B directors, restaurant procurement officers, and private-label brand managers.",
+          "behaviors": [
+            "Negotiate multi-year supply agreements",
+            "Specify shelf-life and allergen standards",
+            "Renew on three to five-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with production capacity and certifications",
+            "Publish quarterly category letters",
+            "Refer to client brands by name in trade material"
+          ],
+          "donts": [
+            "No consumer-facing marketing",
+            "No social media at the parent level",
+            "No press-release hype cadence"
+          ]
+        },
+        "logoDirection": "Wordmark: ADRIATIC CREAM HOLDINGS set in an institutional serif, three lines. A small mark — a stylised wave above a scoop — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Adriatic Slate",
+            "hex": "#2A3340",
+            "meaning": "Institutional",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cellar Cream",
+            "hex": "#EFE9DD",
+            "meaning": "Page",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Brass",
+            "hex": "#9E7D3D",
+            "meaning": "Wordmark detail",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and operational documents",
+          "rationale": "A reading serif plus a clean grotesk — the heritage wholesale register."
+        },
+        "brandDescription": "Adriatic Cream Holdings is a wholesale gelato operator supplying hotels, restaurants, and private-label clients across the Adriatic supply belt.",
+        "scope": "Adriatic Cream Holdings works across the ice cream & gelato category with a single editorial register.",
+        "mission": "Adriatic Cream Holdings is a wholesale gelato operator supplying hotels, restaurants, and private-label clients across the Adriatic supply belt.",
+        "vision": "Adriatic Cream Holdings held in its register, indefinitely.",
+        "coreValues": [
+          "Senior — operating principle.",
+          "Operational — operating principle.",
+          "Reliable — operating principle.",
+          "Discreet — operating principle."
+        ]
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Granita Weather",
+        "tagline": "An ice for every kind of summer day.",
+        "brandNameRationale": "Anchor: the Sicilian habit of eating granita as a daily weather ritual — almond granita on hot mornings, coffee granita after lunch, lemon granita at four in the afternoon. The weather, not the menu, decides what's served.",
+        "industrySummary": "Creative ice-cream brands play on ritual and narrative framing. Weather-as-menu is editorially rich and under-used outside Sicily.",
+        "competitorLandscape": "OddFellows (oddfellowsnyc.com) is the editorial peer. Salt & Straw (saltandstraw.com) holds the seasonal-flavours middle. Morgenstern's (morgensternsnyc.com) is the modern reference. We sit as the weather-led creative brand.",
+        "positioningStatement": "Granita Weather is a creative Sicilian-ice brand whose menu changes with the day's weather, not the season.",
+        "targetAudience": {
+          "primary": "City dessert buyers 25-45 who want a ritual, not a catalog.",
+          "behaviors": [
+            "Check the forecast and the menu",
+            "Re-order the same weather-flavour",
+            "Photograph the chalkboard"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Story-led",
+          "Warm",
+          "Editorial",
+          "Playful"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Post the day's forecast and the matching ice",
+            "Name the granita after the weather, not the fruit",
+            "Print the day's chalkboard on the shop window"
+          ],
+          "donts": [
+            "Lock in a permanent menu",
+            "Use stock-photo ice photography",
+            "Open before the forecast is in"
+          ]
+        },
+        "logoDirection": "Wordmark: GRANITA WEATHER set in a warm display serif, two lines centered. Small mark: a single cloud above a granita cup, used on chalkboards and cups.",
+        "colorPalette": [
+          {
+            "name": "Hot Lemon",
+            "hex": "#EBC34A",
+            "meaning": "Hot-day lemon",
+            "usage": "Accent"
+          },
+          {
+            "name": "Cloudy Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Cloudy-day paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Storm Ink",
+            "hex": "#141417",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Söhne for body and the forecast card",
+          "rationale": "A warm display serif plus a clean grotesk — the editorial weather register."
+        },
+        "brandDescription": "Granita Weather is a creative Sicilian-ice brand whose menu changes with the day's weather, not the season.",
+        "scope": "Granita Weather works across the ice cream & gelato category with a single editorial register.",
+        "mission": "Granita Weather is a creative Sicilian-ice brand whose menu changes with the day's weather, not the season.",
+        "vision": "Granita Weather held in its register, indefinitely.",
+        "coreValues": [
+          "Story-led — operating principle.",
+          "Warm — operating principle.",
+          "Editorial — operating principle.",
+          "Playful — operating principle."
+        ]
+      }
+    ]
+  }
+}

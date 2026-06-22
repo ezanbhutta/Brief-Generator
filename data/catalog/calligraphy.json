@@ -1,0 +1,338 @@
+{
+  "industry": "calligraphy",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Broad-Edge Studio",
+        "tagline": "Names the tool. Modern lettering workshop.",
+        "brandNameRationale": "Broad-edge is the technical name for the chisel-tipped pen that defines Western calligraphy from Carolingian minuscule through chancery cursive. The tool is the brand. Studio names the workshop register \u2014 teaching, commissions, type design.",
+        "industrySummary": "Modern calligraphy has split between hand-lettering Instagram aesthetics and serious type-design lineage. The opening is for a studio that names the actual tool \u2014 broad-edge pen \u2014 and works in the historical tradition with modern type-design discipline.",
+        "competitorLandscape": "Letterform Archive (letterformarchive.org) holds the type-history reference. House Industries (houseind.com) plays the type-studio peer. Underware (underware.nl) is the modern type-design peer. We sit smaller and more pedagogical, with a broad-edge specialty.",
+        "positioningStatement": "A modern broad-edge calligraphy studio teaching the historical hand and taking lettering commissions.",
+        "targetAudience": {
+          "primary": "28 to 50. Designer, type student, or serious hobbyist. Owns a broad-edge pen and ink, not a brush marker.",
+          "behaviors": [
+            "Practices Carolingian minuscule daily",
+            "Buys broad-edge nibs from specialist suppliers",
+            "Attends weekend lettering workshops"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Modern",
+          "Considered",
+          "Pedagogical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the historical hand precisely",
+            "Show the pen angle in every exercise",
+            "Treat the studio like a software changelog"
+          ],
+          "donts": [
+            "Use brush-lettering marketing",
+            "Photograph with filter overlays",
+            "Sell calligraphy as 'wellness'"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Broad-Edge Studio in a precise grotesk with a small broad-edge pen-angle mark (a tilted chisel) as a hallmark, used on workshop materials.",
+        "colorPalette": [
+          {
+            "name": "Ink Black",
+            "hex": "#1A1A1A",
+            "meaning": "Iron-gall ink.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Practice paper.",
+            "usage": "Background, web"
+          },
+          {
+            "name": "Sanguine",
+            "hex": "#A8313F",
+            "meaning": "Red ink used for rubrics.",
+            "usage": "Accent, rubrics"
+          },
+          {
+            "name": "Stone",
+            "hex": "#5A6776",
+            "meaning": "Pencil graphite.",
+            "usage": "Secondary, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "Adobe Garamond for body and exercise descriptions",
+          "rationale": "GT America carries the modern studio register. Garamond keeps the historical exercise text warm."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Cancelleresca",
+        "tagline": "Chancery cursive, in the original tradition.",
+        "brandNameRationale": "Cancelleresca is the Italian name for chancery cursive \u2014 the script developed in 15th-century Vatican chancery offices and codified by Ludovico degli Arrighi (1522). The Italian phrasing places the brand directly in the Renaissance scribal tradition. Rare, refined, scholarly luxury.",
+        "industrySummary": "Luxury calligraphy lives in wedding stationery and bespoke commissions. The opening is for a Renaissance-scribal-coded atelier with documented chancery training \u2014 invitations, ketubot, presentation documents in the original tradition.",
+        "competitorLandscape": "Bernard Maisner (bernardmaisner.com) holds the US bespoke calligraphy peer slot. Paul Antonio Scribe (paulantonioscribe.com) plays the UK historical peer. Smock Paper (smockpaper.com) is the letterpress reference. We sit smaller and more scholarly, with a chancery-cursive specialty.",
+        "positioningStatement": "A luxury Renaissance-scribal atelier producing chancery cursive for invitations, presentations, and bespoke documents.",
+        "targetAudience": {
+          "primary": "45 to 75. Commissions invitations from named scribes. Reads the history of the hand before commissioning.",
+          "behaviors": [
+            "Commissions chancery-cursive invitations",
+            "Pays a premium for documented scribal training",
+            "Travels to see manuscript exhibitions"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Scholarly",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the historical exemplar (Arrighi 1522)",
+            "Use the Italian script-name precisely",
+            "Document each commission's scribal hand"
+          ],
+          "donts": [
+            "Use 'modern calligraphy' marketing",
+            "Photograph in styled flat-lays",
+            "Discount commissions, ever"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Cancelleresca set in a classical Italian roman with a small hand-drawn chancery flourish beneath. The flourish appears on the commission certificate.",
+        "colorPalette": [
+          {
+            "name": "Iron Gall",
+            "hex": "#2A1F18",
+            "meaning": "Iron-gall ink, aged.",
+            "usage": "Wordmark, signage"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Calf-skin vellum.",
+            "usage": "Page, certificates"
+          },
+          {
+            "name": "Gold Leaf",
+            "hex": "#A6843D",
+            "meaning": "Illuminated initial.",
+            "usage": "Foil, the flourish"
+          },
+          {
+            "name": "Vermillion",
+            "hex": "#A8313F",
+            "meaning": "Rubric red.",
+            "usage": "Accent, rubrics"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Adobe Garamond for commission letters",
+          "rationale": "Sectra carries the scholarly register. Garamond is the working scribal serif."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Nib.",
+        "tagline": "The working end of every pen.",
+        "brandNameRationale": "Nib is the single working part of every pen \u2014 the broad-edge, the pointed, the brush nib. Period-locked, single-syllable, instantly trade-readable. Minimal calligraphy brand with a real working-vocabulary anchor.",
+        "industrySummary": "Minimal calligraphy is rare in a category drenched in script flourishes. The opening is for a brand named on a single piece of pen vocabulary, with stripped supplies and a single typeface across everything.",
+        "competitorLandscape": "Scribbler's (scribblers.co.uk) holds the UK calligraphy-supplies peer slot. John Neal Books (johnnealbooks.com) plays the US supplier peer. Paper & Ink Arts (paperinkarts.com) is the trade-supply reference. We sit further out \u2014 single-word brand, single curated nib set.",
+        "positioningStatement": "A minimal calligraphy supply brand built on a single curated nib set and stripped paper supplies.",
+        "targetAudience": {
+          "primary": "25 to 50. Practices daily. Wants one set of good nibs, not a catalog.",
+          "behaviors": [
+            "Buys one curated nib set",
+            "Skips multi-product purchases",
+            "Wants supplies without instructional content"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Quiet",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the nib width on the package",
+            "Use a single product page",
+            "Skip the catalog"
+          ],
+          "donts": [
+            "Sell teaching content with supplies",
+            "Use script-flourish marketing",
+            "Photograph with stylized props"
+          ]
+        },
+        "logoDirection": "Nib. set in a neutral grotesque, all lowercase, with the period as a single ink dot beneath. No second mark.",
+        "colorPalette": [
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Iron-gall ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F2EFE8",
+            "meaning": "Practice paper.",
+            "usage": "Background"
+          },
+          {
+            "name": "Pencil",
+            "hex": "#5A6776",
+            "meaning": "Pencil graphite.",
+            "usage": "Secondary"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for nib-width specifications",
+          "rationale": "One family. Mono for the specs."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Letterform Group",
+        "tagline": "Lettering, type, and identity consultancy.",
+        "brandNameRationale": "Letterform is the type-history term for the abstracted shape of a letter \u2014 separate from the typeface, the font, or the script. The phrase places the consultancy at the discipline level (above any single project). Group names the multi-discipline B2B operator \u2014 type design, identity, signage.",
+        "industrySummary": "Corporate lettering and type design is a serious B2B category \u2014 custom type for institutions, wayfinding systems, identity programs. The opening is for a multi-discipline consultancy with a documented type-history practice.",
+        "competitorLandscape": "Commercial Type (commercialtype.com) holds the custom-type peer slot. Klim Type (klim.co.nz) plays the institutional type peer. Pentagram (pentagram.com) is the identity-with-type reference. We sit smaller and type-focused, with consultancy posture.",
+        "positioningStatement": "A corporate lettering and type consultancy producing custom typefaces, identity systems, and wayfinding for institutions.",
+        "targetAudience": {
+          "primary": "Cultural institutions, universities, transit authorities, and large-format publishers.",
+          "behaviors": [
+            "Commissions custom typefaces for institutional identity",
+            "Negotiates multi-year licensing",
+            "Renews on five to ten-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Considered",
+          "Operational",
+          "Scholarly"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with type-history precedent",
+            "Speak the language of institutional design teams",
+            "Publish quarterly letter-form research"
+          ],
+          "donts": [
+            "Use consumer hand-lettering language",
+            "Sell template stationery",
+            "Photograph in lifestyle settings"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 LETTERFORM in a tight grotesk above GROUP in tracked small caps. A single small mark of an abstracted letter-a sits beside the wordmark.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#1A1A1A",
+            "meaning": "Letterpress ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Specimen paper.",
+            "usage": "Reports, page"
+          },
+          {
+            "name": "Vermillion",
+            "hex": "#A8313F",
+            "meaning": "Specimen-sheet red.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structural metal.",
+            "usage": "Body, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for B2B materials",
+          "secondary": "Source Serif Pro for printed specimens",
+          "rationale": "Inter scales clean across digital. The serif handles printed specimens."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Quill House",
+        "tagline": "The pre-modern instrument. Storytelling lettering.",
+        "brandNameRationale": "The quill \u2014 the cut feather pen used from late antiquity through the 18th century \u2014 predates the broad-edge metal nib. The Quill House places the brand in the pre-modern scribal tradition. Creative storytelling register, away from any modern typographic trademark.",
+        "industrySummary": "Creative calligraphy lives in wedding-Instagram and Etsy. The opening is for a storytelling lettering studio anchored on a pre-modern instrument \u2014 invitations, presentation documents, and editorial commissions in the quill-and-vellum register.",
+        "competitorLandscape": "Paperfinger (paperfinger.com) holds the bespoke wedding peer slot. Maybelle Imasa-Stukuls (calligraphybymaybelle.com) plays the US bespoke peer. Cheerio (cheeriostudio.com) is the editorial-commission reference. We sit alongside Cheerio with a pre-modern scribal identity.",
+        "positioningStatement": "A creative quill-and-vellum lettering studio producing bespoke invitations, presentation documents, and editorial commissions.",
+        "targetAudience": {
+          "primary": "32 to 55. Commissions invitations and presentation pieces. Reads about scribal history with interest.",
+          "behaviors": [
+            "Commissions quill-lettered invitations",
+            "Pays a premium for hand-cut quills",
+            "Buys the studio's editorial prints"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Warm",
+          "Slightly editorial",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the cut quill on the desk",
+            "Cite the historical hand by name",
+            "Use first-person scribe voice"
+          ],
+          "donts": [
+            "Use 'modern calligraphy' marketing",
+            "Photograph in styled flat-lays",
+            "Sell template products"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 The Quill House set in a calm editorial serif with a small hand-drawn quill silhouette beside it. The silhouette appears on commissions and the editorial print run.",
+        "colorPalette": [
+          {
+            "name": "Iron Gall",
+            "hex": "#2A1F18",
+            "meaning": "Iron-gall ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Calf-skin vellum.",
+            "usage": "Page, prints"
+          },
+          {
+            "name": "Vermillion",
+            "hex": "#A8313F",
+            "meaning": "Rubric red.",
+            "usage": "Accent, marks"
+          },
+          {
+            "name": "Gold",
+            "hex": "#A6843D",
+            "meaning": "Illuminated initial.",
+            "usage": "Foil, the quill"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and editorial prints",
+          "secondary": "Adobe Garamond for body and commissions",
+          "rationale": "Sectra carries the editorial register. Garamond is the working scribal serif."
+        }
+      }
+    ]
+  }
+}

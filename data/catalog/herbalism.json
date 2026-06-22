@@ -1,0 +1,338 @@
+{
+  "industry": "herbalism",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Materia",
+        "tagline": "Modern apothecary in the Materia Medica tradition.",
+        "brandNameRationale": "Materia is the abbreviated Latin for Materia Medica \u2014 the canonical reference text of medicinal substances from Dioscorides (1st c.) through Culpeper (1653) and into modern pharmacognosy. Single-word brand placing the modern apothecary in the canonical-text tradition.",
+        "industrySummary": "Modern herbalism has matured beyond the wellness aisle. The opening is for a brand that takes the Materia Medica register seriously \u2014 single herbs, named botanical sources, dosage in the traditional apothecary format.",
+        "competitorLandscape": "Anima Mundi Herbals (animamundiherbals.com) holds the modern apothecary peer slot. Mountain Rose Herbs (mountainroseherbs.com) plays the trade-supply peer. Wooden Spoon Herbs (woodenspoonherbs.com) is the small-batch craft reference. We sit alongside Anima Mundi with sharper Materia Medica framing.",
+        "positioningStatement": "A modern apothecary brand for single-herb tinctures and dried botanicals in the Materia Medica tradition.",
+        "targetAudience": {
+          "primary": "28 to 50. Reads ingredient lists carefully. Owns a small home apothecary, not a wellness stack.",
+          "behaviors": [
+            "Buys single-herb tinctures by botanical name",
+            "Reads dosage in milliliters, not droppers",
+            "Subscribes to a single herbalist's seasonal restock"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Modern",
+          "Scholarly",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use the Latin binomial and the common name",
+            "List the part used (leaf, root, flower)",
+            "Publish the harvest location and method"
+          ],
+          "donts": [
+            "Use 'natural medicine' as marketing",
+            "Photograph with stock-photography botanicals",
+            "Blend herbs without naming each one"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Materia set in a precise grotesk with a small herbal-press leaf silhouette as a hallmark on the bottle label.",
+        "colorPalette": [
+          {
+            "name": "Herbal Green",
+            "hex": "#3A5F4A",
+            "meaning": "Dried herb green.",
+            "usage": "Primary, accent"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Apothecary label paper.",
+            "usage": "Background, labels"
+          },
+          {
+            "name": "Tincture Amber",
+            "hex": "#A6843D",
+            "meaning": "Tincture glass amber.",
+            "usage": "Accent, bottle"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and labels",
+          "secondary": "Adobe Garamond for the long-form herb monograph",
+          "rationale": "GT America carries the modern apothecary register. Garamond is the canonical-text serif."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Hildegard Apothecary",
+        "tagline": "The 12th-century abbess of herbal medicine.",
+        "brandNameRationale": "Hildegard von Bingen (1098\u20131179) \u2014 Benedictine abbess, composer, and the most influential medieval herbalist, author of Physica and Causae et Curae. The name places the brand directly in the 12th-century monastic apothecary tradition. Scholarly luxury register, fully out of copyright and unbranded.",
+        "industrySummary": "Luxury herbalism is dominated by French apothecary cosmetics. The opening is for a brand in the medieval-monastic-apothecary tradition \u2014 single-herb preparations, abbey-still register, documented sourcing from named gardens.",
+        "competitorLandscape": "Santa Maria Novella (smnovella.com) holds the historic apothecary peer slot \u2014 Florentine 1612 tradition. Officina Profumo-Farmaceutica (smnovella.it) plays the same monastic-pharmacy peer. Buly 1803 (buly1803.com) is the historic-Parisian peer. We sit alongside Santa Maria Novella with a 12th-century monastic specificity.",
+        "positioningStatement": "A luxury monastic-tradition apothecary in the Hildegard Physica lineage, producing single-herb preparations and herbal cordials.",
+        "targetAudience": {
+          "primary": "45 to 75. Buys at the heritage apothecary and the boutique pharmacy. Reads medieval and Renaissance herbal history.",
+          "behaviors": [
+            "Buys at heritage apothecaries (Santa Maria Novella register)",
+            "Reads medieval herbal manuscripts",
+            "Pays a premium for documented monastic-tradition preparations"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Scholarly",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the Hildegard Physica preparation",
+            "Use the Latin binomial and the medieval name",
+            "Document each preparation's monastic-tradition method"
+          ],
+          "donts": [
+            "Use 'wellness' as marketing",
+            "Discount, ever",
+            "Sell without documented preparation method"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Hildegard Apothecary set in a classical roman with a small embossed abbey-still mark above. The mark appears on the apothecary jar and the printed insert.",
+        "colorPalette": [
+          {
+            "name": "Monastic Green",
+            "hex": "#1E3A30",
+            "meaning": "Abbey-garden green.",
+            "usage": "Wordmark, signage"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Hand-laid apothecary paper.",
+            "usage": "Page, labels"
+          },
+          {
+            "name": "Heritage Brass",
+            "hex": "#A38454",
+            "meaning": "Apothecary jar brass.",
+            "usage": "Foil, the mark"
+          },
+          {
+            "name": "Ink",
+            "hex": "#2A1F18",
+            "meaning": "Iron-gall ink.",
+            "usage": "Body, type"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and signage",
+          "secondary": "Adobe Garamond for monographs and inserts",
+          "rationale": "Caslon carries the heritage apothecary register. Garamond handles the long-form herbal text."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Root",
+        "tagline": "Minimal apothecary. One name, one part.",
+        "brandNameRationale": "Root names the part of the plant used in the most concentrated medicinal preparations across herbal traditions (valerian root, dandelion root, licorice root). Single-syllable, multi-meaning, trade-vocabulary anchor. Minimal apothecary brand with real herbalism roots.",
+        "industrySummary": "Minimal herbalism is rare in a category drenched in wellness-stack copy. The opening is for a brand named on a single herbal-vocabulary word, with a stripped catalog of root preparations.",
+        "competitorLandscape": "Wooden Spoon Herbs (woodenspoonherbs.com) holds the small-batch craft peer slot. Foster Botanica (fosterbotanica.com) plays the minimal craft peer. Anima Mundi Herbals (animamundiherbals.com) is the apothecary register reference. We sit further out \u2014 single-word brand, root-preparations-only catalog.",
+        "positioningStatement": "A minimal apothecary brand selling root tinctures and decoctions only.",
+        "targetAudience": {
+          "primary": "28 to 50. Owns three jars on the kitchen shelf. Wants single-herb preparations, not blends.",
+          "behaviors": [
+            "Buys single-root tinctures one at a time",
+            "Skips blend purchases",
+            "Reads the harvest week on the label"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Quiet",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the root species and harvest week",
+            "Name the herbalist",
+            "Skip the catalog"
+          ],
+          "donts": [
+            "Sell blends or stacks",
+            "Use 'wellness' marketing",
+            "Photograph with styled botanicals"
+          ]
+        },
+        "logoDirection": "Root set in a neutral grotesque, all lowercase, with a single tap-root silhouette beneath. No second mark.",
+        "colorPalette": [
+          {
+            "name": "Root Brown",
+            "hex": "#5A3E20",
+            "meaning": "Dried root.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Page.",
+            "usage": "Background, labels"
+          },
+          {
+            "name": "Ink",
+            "hex": "#181818",
+            "meaning": "Type.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and body",
+          "secondary": "ABC Diatype Mono for harvest data and dosage",
+          "rationale": "One family. Mono for the data."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Botanica Partners",
+        "tagline": "Botanical-medicine consultancy and clinical sourcing.",
+        "brandNameRationale": "Botanica is the Latinate phrase for the botanical-medicine field \u2014 used across pharmacognosy, ethnobotany, and clinical botanical research. Partners names the B2B consultancy posture \u2014 clinical sourcing, regulatory affairs, and supply-chain due diligence for botanical-medicine manufacturers.",
+        "industrySummary": "Corporate herbalism is a serious B2B category \u2014 clinical-grade botanical sourcing, GMP-certified raw-material supply, and regulatory consulting for nutraceutical and pharmaceutical manufacturers. The opening is for a mid-tier consultancy with documented clinical sourcing practice.",
+        "competitorLandscape": "Naturex (naturex.com, part of Givaudan) holds the global botanical-ingredient peer slot. Indena (indena.com) plays the clinical-grade botanical peer. Euromed (euromed.es) is the European botanical extract reference. We sit smaller \u2014 a consultancy partner to manufacturers, not a manufacturer ourselves.",
+        "positioningStatement": "Corporate botanical-medicine consultancy for clinical sourcing, regulatory affairs, and supply-chain due diligence.",
+        "targetAudience": {
+          "primary": "Nutraceutical procurement officers, pharmaceutical R&D leads, and botanical-medicine startup founders.",
+          "behaviors": [
+            "Commissions sourcing audits before contract",
+            "Requires GMP and clinical-grade documentation",
+            "Renews on three to five-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Scholarly",
+          "Direct",
+          "Senior"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with sourcing methodology and certification",
+            "Speak the language of pharmacognosy and clinical sourcing",
+            "Publish quarterly supply-chain briefs"
+          ],
+          "donts": [
+            "Use consumer-wellness language",
+            "Sell finished botanical products",
+            "Photograph in lifestyle settings"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 BOTANICA in a tight grotesk above PARTNERS in tracked small caps. A single small herbarium-leaf mark sits beside the wordmark on consultancy documents.",
+        "colorPalette": [
+          {
+            "name": "Research Navy",
+            "hex": "#0F2238",
+            "meaning": "Clinical navy.",
+            "usage": "Primary, logo"
+          },
+          {
+            "name": "Bone",
+            "hex": "#EFE9DD",
+            "meaning": "Document paper.",
+            "usage": "Reports, page"
+          },
+          {
+            "name": "Herbal Green",
+            "hex": "#3A5F4A",
+            "meaning": "Dried herb.",
+            "usage": "Accent, marks"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structural metal.",
+            "usage": "Body, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for B2B materials",
+          "secondary": "Source Serif Pro for printed sourcing reports",
+          "rationale": "Inter scales clean across digital. The serif handles printed regulatory documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Tincture Room",
+        "tagline": "Still-house imagery, working apothecary.",
+        "brandNameRationale": "The tincture room names the working space where herbalists macerate plant material in alcohol \u2014 the traditional apothecary back room with shelves of amber bottles in various stages of extraction. Editorial storytelling apothecary register, period imagery, no institutional TM conflict.",
+        "industrySummary": "Creative herbalism is dominated by Instagram-aesthetic apothecary shops. The opening is for a storytelling apothecary anchored on the working still-house imagery \u2014 bottles, dates, maceration logs, and an editorial register.",
+        "competitorLandscape": "Anima Mundi Herbals (animamundiherbals.com) holds the apothecary-storytelling peer slot. M\u00f3r Tea (morteaco.com) plays the storytelling-botanical peer. Foster Botanica (fosterbotanica.com) is the small-batch creative reference. We sit alongside Anima Mundi with a tincture-room editorial identity.",
+        "positioningStatement": "A creative apothecary brand built on still-house imagery and maceration-log storytelling.",
+        "targetAudience": {
+          "primary": "30 to 55. Buys at independent apothecaries. Reads the tincture's maceration date with curiosity.",
+          "behaviors": [
+            "Buys tinctures by maceration date",
+            "Photographs the bottle before opening",
+            "Reads the herbalist's maceration log"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Crafted",
+          "Warm",
+          "Slightly editorial",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the still-house shelves",
+            "Print the maceration start and decant date",
+            "Use first-person herbalist voice"
+          ],
+          "donts": [
+            "Use 'natural wellness' marketing",
+            "Photograph with stock botanicals",
+            "Blend tinctures without naming each one"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 The Tincture Room set in a calm editorial serif with a small amber-bottle silhouette beside it. The silhouette appears on the maceration-log card.",
+        "colorPalette": [
+          {
+            "name": "Tincture Amber",
+            "hex": "#A6843D",
+            "meaning": "Tincture amber glass.",
+            "usage": "Primary, accent"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F2EDDF",
+            "meaning": "Apothecary label paper.",
+            "usage": "Page, labels"
+          },
+          {
+            "name": "Herbal Green",
+            "hex": "#3A5F4A",
+            "meaning": "Macerating-herb green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#2A1F18",
+            "meaning": "Iron-gall ink.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and editorial cards",
+          "secondary": "Adobe Garamond for body and maceration logs",
+          "rationale": "Sectra carries the editorial register. Garamond is the working apothecary serif."
+        }
+      }
+    ]
+  }
+}

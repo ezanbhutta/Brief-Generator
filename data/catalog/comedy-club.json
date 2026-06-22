@@ -1,0 +1,313 @@
+{
+  "industry": "comedy-club",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Brickwall",
+        "tagline": "The room behind the comic.",
+        "brandNameRationale": "The exposed brick wall is the universal stand-up backdrop \u2014 codified by the early Comedy Cellar and Catch a Rising Star rooms in 1970s\u201380s New York, then copied everywhere. Naming the club for the backdrop puts the room itself, not the brand, at the front.",
+        "industrySummary": "Modern comedy clubs compete on lineup and design polish. There is room for a club whose entire visual identity is the backdrop the audience already knows \u2014 exposed brick, low ceiling, a single mic.",
+        "competitorLandscape": "Comedy Cellar (comedycellar.com) holds the canonical New York reference (TM). Helium Comedy Club (heliumcomedy.com) is the modern circuit peer. Caroline's (carolines.com) is the institutional precedent. We sit closer to Comedy Cellar in posture, smaller in footprint.",
+        "positioningStatement": "A modern comedy room built around the brick wall and a single mic.",
+        "targetAudience": {
+          "primary": "25 to 45. Goes to a show once a month. Reads the lineup before buying. Will travel across town for a comic they've seen on a podcast.",
+          "behaviors": [
+            "Buys tickets two weeks ahead",
+            "Reads the lineup before the night",
+            "Tips the server, not the comic"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Specific",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the lineup and the times",
+            "Photograph the room, not the comic",
+            "Print the two-drink minimum on the ticket"
+          ],
+          "donts": [
+            "Use the word curated",
+            "Photograph comics against the brick",
+            "Run a 'best of' marketing campaign"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 BRICKWALL set in a tight modern grotesk, all caps, with a small running-bond brick pattern as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Brick Red",
+            "hex": "#7E1F1A",
+            "meaning": "The wall.",
+            "usage": "Wordmark accent, signage"
+          },
+          {
+            "name": "Mortar Cream",
+            "hex": "#EFEAD8",
+            "meaning": "Mortar between courses.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Stage Black",
+            "hex": "#101012",
+            "meaning": "Black behind the comic.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and lineups",
+          "secondary": "GT America Mono for showtimes and prices",
+          "rationale": "One family. The mono carries the showtimes, the regular carries the room."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Rising Star Room",
+        "tagline": "After Catch a Rising Star, 1972.",
+        "brandNameRationale": "Catch a Rising Star (NYC, 1972) was the room where Letterman, Seinfeld, Larry David, and a generation of stand-ups were first booked. Rising Star Room places the brand in that lineage as a small heritage booking room, without using the active mark.",
+        "industrySummary": "Heritage stand-up rooms are a small segment dominated by a handful of legacy clubs. There is room for a small new room with a heritage register \u2014 a 75-seat booking-led venue with a strict guest list and a printed program.",
+        "competitorLandscape": "The Stand (thestandnyc.com) holds the modern heritage-booking slot. Largo at the Coronet (largo-la.com) is the considered-room peer. The Comedy Cellar (comedycellar.com) is the institutional reference (TM). We sit closer to Largo in posture, smaller in seat count.",
+        "positioningStatement": "A 75-seat heritage booking room in the New York 1970s tradition.",
+        "targetAudience": {
+          "primary": "35 to 65. Has been going to comedy shows for thirty years. Knows the bookers by name. Pays for the table by the stage.",
+          "behaviors": [
+            "Books a table for the early show",
+            "Holds a standing Tuesday reservation",
+            "Pays the cover without complaint"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Heritage",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the program on heavy paper",
+            "Address the regular by name",
+            "Name the booker"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Photograph the comic in the green room",
+            "Run a discount"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Rising Star Room set in a high-contrast classical serif, with a small five-point star as the hallmark, foiled in brass on the program cover.",
+        "colorPalette": [
+          {
+            "name": "Velvet Red",
+            "hex": "#7A2A20",
+            "meaning": "Stage curtain.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Program Cream",
+            "hex": "#F0E8D6",
+            "meaning": "Heavy program stock.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A8893E",
+            "meaning": "Foil on the program.",
+            "usage": "Hallmark, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Adobe Jenson for the wordmark and program",
+          "secondary": "S\u00f6hne for the website and ticket portal",
+          "rationale": "Jenson carries the heritage register. S\u00f6hne handles the booking confirmation."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Mic Drop Co.",
+        "tagline": "End on the line.",
+        "brandNameRationale": "The mic drop is the gesture at the end of the set \u2014 the comic walks off, leaves the mic, the room laughs. Naming the company for the exit moment frames the brand around the punchline rather than the venue.",
+        "industrySummary": "Minimal comedy brands are rare \u2014 the category leans loud. There is room for a small touring-show operator whose entire identity is the close: tight 60-minute sets, no opener, no MC announcement, end on the line.",
+        "competitorLandscape": "Just for Laughs (hahaha.com) holds the festival-scale slot. SoulPancake (soulpancake.com) is the touring-comedy peer. Stand Up NY (standupny.com) is the room precedent. We sit smaller, sharper on the close.",
+        "positioningStatement": "A touring-show operator built around 60-minute sets ending on the line.",
+        "targetAudience": {
+          "primary": "28 to 45. Buys a ticket for a specific comic, not a venue. Wants to be in and out in 75 minutes. Doesn't drink during the show.",
+          "behaviors": [
+            "Buys tickets to specific comics",
+            "Skips the opener",
+            "Leaves on the close"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Direct",
+          "Confident"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the start and end time on the ticket",
+            "End the set on the line",
+            "Show the comic and the time"
+          ],
+          "donts": [
+            "Run an MC announcement",
+            "Add a second opener",
+            "Promote on the night"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Mic Drop Co. set in a single-weight grotesk, with a small black circle (the dropped mic head) below the word. The circle alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Mic Black",
+            "hex": "#101012",
+            "meaning": "The dropped mic.",
+            "usage": "Wordmark, the circle"
+          },
+          {
+            "name": "Stage Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Used as space.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Spotlight White",
+            "hex": "#FFFFFF",
+            "meaning": "House light at the close.",
+            "usage": "Surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark",
+          "secondary": "Neue Haas Grotesk Mono for showtimes",
+          "rationale": "One family. The mono carries the time, the regular carries the company."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Crowd Work Club",
+        "tagline": "Improvised with the room.",
+        "brandNameRationale": "Crowd work is the stand-up term for the improvised, audience-driven portion of a set \u2014 the segment where the comic talks to the front row. Naming the brand for the craft puts the improvised exchange at the center.",
+        "industrySummary": "Corporate-feeling comedy operators run touring shows, branded specials, and franchised rooms. There is room for an operator built around crowd-work tours and corporate-event bookings, with a managed roster of comics specializing in the form.",
+        "competitorLandscape": "Live Nation Comedy (livenationcomedy.com) holds the institutional touring peer. CAA Comedy (caa.com) plays the talent-agency slot. Outback Presents (outbackpresents.com) sits in the touring-promoter middle. We sit smaller, focused on crowd-work specialists.",
+        "positioningStatement": "A touring operator and corporate booker for crowd-work specialists.",
+        "targetAudience": {
+          "primary": "Corporate event planners, college-circuit bookers, and theater operators booking touring stand-up.",
+          "behaviors": [
+            "Books tours twelve months out",
+            "Manages a roster of specialist comics",
+            "Renews annual booking contracts"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the touring calendar",
+            "Quote the technical rider",
+            "Speak to the booker, not the audience"
+          ],
+          "donts": [
+            "Run a consumer promotion",
+            "Photograph the comic in the green room",
+            "Use the word curated"
+          ]
+        },
+        "logoDirection": "A wordmark with a hallmark \u2014 Crowd Work Club set in a clean grotesk, paired with three small dot marks suggesting front-row chairs.",
+        "colorPalette": [
+          {
+            "name": "Booker Navy",
+            "hex": "#1A2B4F",
+            "meaning": "Touring-promoter navy.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Rider Cream",
+            "hex": "#EFE7D2",
+            "meaning": "Contract paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Spotlight Gold",
+            "hex": "#A8893E",
+            "meaning": "House light, accent.",
+            "usage": "Highlights"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and contracts",
+          "secondary": "Source Serif Pro for printed riders and tour books",
+          "rationale": "Inter scales clean across decks. The serif handles printed riders."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Tight Five",
+        "tagline": "Five minutes. The whole bit.",
+        "brandNameRationale": "The tight five is the working comic's calling card \u2014 five minutes of polished material, the unit booked for talk-show appearances and showcase auditions. Naming the room for the unit of measure puts the working comic's craft at the front.",
+        "industrySummary": "There is space for a small creative venue built explicitly around the showcase format: ten comics, five minutes each, two nights a week, recorded for a YouTube clip.",
+        "competitorLandscape": "UCB (ucbtheatre.com) holds the long-form improv peer slot. The Bell House (thebellhouseny.com) plays the showcase-venue precedent. The Pleasance (pleasance.co.uk) is the European fringe peer. We sit closer to The Bell House, sharper on the five-minute format.",
+        "positioningStatement": "A creative showcase room running ten comics \u00d7 five minutes, two nights a week.",
+        "targetAudience": {
+          "primary": "25 to 35. Watches stand-up clips on YouTube. Goes to a showcase once a month. Will line up an hour early for the front row.",
+          "behaviors": [
+            "Watches clips before going to the show",
+            "Lines up for the front row",
+            "Posts the bit on the way home"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Quick",
+          "Friendly",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the ten names and the order",
+            "Record the night for the clip",
+            "Print the time per comic on the door"
+          ],
+          "donts": [
+            "Run a headliner format",
+            "Add a feature spot",
+            "Use the word legendary"
+          ]
+        },
+        "logoDirection": "A wordmark with a numeric mark \u2014 Tight Five set in a hand-drawn brush face, with a large stencil 5 as the favicon. The 5 is the favicon, the door sign, and the merch.",
+        "colorPalette": [
+          {
+            "name": "Stencil Yellow",
+            "hex": "#F5C518",
+            "meaning": "House-light stencil.",
+            "usage": "The 5, accents"
+          },
+          {
+            "name": "Showroom Cream",
+            "hex": "#EFEAD8",
+            "meaning": "Programme paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stage Black",
+            "hex": "#101012",
+            "meaning": "Black behind the comic.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "A brush face for the wordmark",
+          "secondary": "GT America Mono for time slots and order",
+          "rationale": "The brush face carries the showcase voice. The mono carries the running order."
+        }
+      }
+    ]
+  }
+}

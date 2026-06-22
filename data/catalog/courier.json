@@ -1,0 +1,311 @@
+{
+  "industry": "courier",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Last Mile",
+        "tagline": "The mile that matters.",
+        "brandNameRationale": "Last mile is the logistics term for the final segment of a delivery \u2014 from the local hub to the recipient's door. The phrase carries the full weight of the courier industry's hardest, most expensive, most service-defining work.",
+        "industrySummary": "Modern same-day courier brands compete on app polish and speed promise. There is room for a city-focused operator whose entire identity is the segment of the trip the customer actually experiences \u2014 the last mile.",
+        "competitorLandscape": "Roadie (roadie.com) holds the same-day platform peer. Stuart (stuart.com) is the European city-courier precedent. Veho (shipveho.com) is the modern e-commerce last-mile reference. We sit closer to Stuart in posture, sharper on the city.",
+        "positioningStatement": "A modern city-only courier operator built around the last mile.",
+        "targetAudience": {
+          "primary": "Small businesses, e-commerce sellers, and design studios sending one to fifty packages a day across a single city.",
+          "behaviors": [
+            "Books pickups through the dashboard",
+            "Pays monthly on invoice",
+            "Reads the delivery receipt"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Direct",
+          "Modern",
+          "Specific"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the time and the route",
+            "Quote the per-package rate",
+            "Photograph the bike, not the rider"
+          ],
+          "donts": [
+            "Use the word seamless",
+            "Run a brand-promise campaign",
+            "Photograph the smiling rider"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 LAST MILE set in a tight modern grotesk, all caps, with a small route-line mark as the favicon \u2014 a curved line ending in a dot.",
+        "colorPalette": [
+          {
+            "name": "Route Black",
+            "hex": "#101012",
+            "meaning": "Map ink.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Receipt Cream",
+            "hex": "#EFEAD8",
+            "meaning": "Thermal-receipt cream.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Signal Orange",
+            "hex": "#F08A24",
+            "meaning": "Hi-vis accent.",
+            "usage": "Accent, the dot"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and dashboards",
+          "secondary": "GT America Mono for tracking IDs and times",
+          "rationale": "One family. The mono carries the tracking data, the regular carries the brand."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Bonded & Co.",
+        "tagline": "Bonded couriers, since the trust.",
+        "brandNameRationale": "A bonded courier carries a surety bond \u2014 a financial guarantee against loss or theft, used historically for legal documents, jewelry, and high-value goods. Bonded & Co. places the brand in the trusted-courier tradition with the trade word at the front.",
+        "industrySummary": "Heritage bonded couriers are a small enduring segment serving law firms, auction houses, and private clients. There is room for a small heritage operator built around the bond, the briefcase, and the named courier.",
+        "competitorLandscape": "Crozier Fine Arts (crozierfinearts.com) holds the fine-art logistics peer. Brink's (brinks.com) is the institutional secure-transport peer. Malca-Amit (malca-amit.com) is the precedent. We sit between Crozier and Malca-Amit in posture, smaller in scale.",
+        "positioningStatement": "A heritage bonded-courier service for legal documents, art, and high-value goods.",
+        "targetAudience": {
+          "primary": "Law firms, auction houses, and private clients sending insured high-value items between cities.",
+          "behaviors": [
+            "Books by named courier",
+            "Pays via wire on receipt",
+            "Signs the chain-of-custody log"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Discreet",
+          "Patient",
+          "Heritage"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address the client by surname",
+            "Name the courier on the dispatch",
+            "Sign the chain-of-custody by hand"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Run a discount",
+            "Photograph the courier"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Bonded & Co. set in a classical roman, with a small wax-seal hallmark, foiled in brass on the chain-of-custody log.",
+        "colorPalette": [
+          {
+            "name": "Bond Navy",
+            "hex": "#0F2238",
+            "meaning": "Bonded-courier navy.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#F0E8D6",
+            "meaning": "Chain-of-custody paper.",
+            "usage": "Backgrounds, paper"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A8893E",
+            "meaning": "Seal foil.",
+            "usage": "Hallmark, foil"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and chain-of-custody",
+          "secondary": "S\u00f6hne for the secure client portal",
+          "rationale": "Canela carries the heritage register. S\u00f6hne handles the booking portal."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Rushly",
+        "tagline": "It's there before you check.",
+        "brandNameRationale": "Rushly is a coined adverbial \u2014 the act of rushing rendered as a brand-friendly suffix. Six letters, one syllable past the verb, easy to say, easy to type, easy to read on a sticker on the package.",
+        "industrySummary": "Minimal courier brands are rare \u2014 the category leans loud (orange, urgent, all caps). There is room for a small operator whose entire identity is the calm verb \u2014 one word, one sticker, one promise.",
+        "competitorLandscape": "Postmates Same-Day (postmates.com) holds the institutional on-demand peer. Gophr (gophr.com) is the UK on-demand precedent. Borzo (borzodelivery.com) is the European peer. We sit smaller, sharper on the calm.",
+        "positioningStatement": "A minimal same-day courier for one-package senders.",
+        "targetAudience": {
+          "primary": "Individuals and very small businesses sending one package at a time within a city.",
+          "behaviors": [
+            "Books one delivery at a time",
+            "Pays per package, by card",
+            "Reads the confirmation, not the marketing"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Quiet",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the price and the ETA",
+            "Send the confirmation in one line",
+            "Use plain English"
+          ],
+          "donts": [
+            "Run an urgency campaign",
+            "Use the word seamless",
+            "Photograph the rider"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Rushly set in a single-weight grotesk, lowercase. The favicon is a small horizontal arrow.",
+        "colorPalette": [
+          {
+            "name": "Calm Blue",
+            "hex": "#2B3E5C",
+            "meaning": "Calm-signal blue.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Receipt Cream",
+            "hex": "#F4F1E8",
+            "meaning": "Plain receipt.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Arrow Black",
+            "hex": "#1A1A1A",
+            "meaning": "Direction.",
+            "usage": "The arrow"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark",
+          "secondary": "Neue Haas Grotesk Mono for tracking IDs",
+          "rationale": "One family. The mono carries the tracking IDs, the regular carries the brand."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "By Hand Today",
+        "tagline": "Hand-delivered, same day.",
+        "brandNameRationale": "By hand today is the operating promise of the urgent-courier industry stripped to four words. The phrase has the register of a contract clause \u2014 short, specific, contractually meaningful \u2014 and positions the brand as a business-to-business operator.",
+        "industrySummary": "Corporate same-day operators run dedicated courier services for law firms, hospitals, and B2B logistics. There is room for an operator whose name is the deliverable, with a single-city focus and a monthly invoice model.",
+        "competitorLandscape": "PostNet (postnet.com) holds the institutional courier-services peer. Quiqup (quiqup.com) is the B2B same-day precedent. Hackett Logistics (hackettlogistics.com) is the precedent. We sit smaller, focused on documents and small parcels.",
+        "positioningStatement": "A B2B same-day courier for documents and small parcels, monthly invoice.",
+        "targetAudience": {
+          "primary": "Office managers, law firm operations, and medical practices booking five to thirty same-day deliveries a week.",
+          "behaviors": [
+            "Books through a corporate dashboard",
+            "Pays monthly on net-30",
+            "Renews the annual contract"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Professional",
+          "Steady"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the rate card",
+            "Quote the cutoff time",
+            "Send the proof-of-delivery in PDF"
+          ],
+          "donts": [
+            "Run a consumer promotion",
+            "Use the word seamless",
+            "Photograph the rider"
+          ]
+        },
+        "logoDirection": "A wordmark with a hallmark \u2014 By Hand Today set in a clean grotesk, paired with a small hand-and-package pictogram reduced to two strokes.",
+        "colorPalette": [
+          {
+            "name": "Office Navy",
+            "hex": "#0F2238",
+            "meaning": "B2B navy.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Invoice Cream",
+            "hex": "#EFE7D2",
+            "meaning": "Invoice paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Steel",
+            "hex": "#5A6776",
+            "meaning": "Structure, secondary.",
+            "usage": "Body, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and rate card",
+          "secondary": "Source Serif Pro for printed contracts and rate cards",
+          "rationale": "Inter scales clean across the dashboard. The serif handles the printed contract."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Whisk",
+        "tagline": "It's gone before you ask.",
+        "brandNameRationale": "Whisk is the friendly fast-action verb \u2014 to whisk a package away, to whisk something across town. Single syllable, one motion, easy to say to a friend. The verb does the work the urgent-courier industry usually does with all-caps and orange.",
+        "industrySummary": "Creative courier brands compete on personality and bike-messenger lineage. There is room for a small bike-courier operator whose identity is the friendly verb, with hand-drawn route maps and a personable dispatch.",
+        "competitorLandscape": "Swoop (swoop.com) holds the friendly-courier slot. Pedal Movement (pedalmovement.com) is the bike-courier precedent. Cyclehoop (cyclehoop.com) is the urban-cycling peer. We sit closer to Pedal Movement in posture, sharper on the verb.",
+        "positioningStatement": "A creative bike-courier service for small businesses and creative studios.",
+        "targetAudience": {
+          "primary": "Design studios, small shops, and creative agencies sending one to ten packages a day across a single city.",
+          "behaviors": [
+            "Books pickups by text",
+            "Tips the rider in cash",
+            "Pays by invoice every two weeks"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Playful",
+          "Friendly",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote the per-package rate plainly",
+            "Hand-draw the route on the confirmation",
+            "Sign the dispatch by the dispatcher's name"
+          ],
+          "donts": [
+            "Run an urgency campaign",
+            "Use the word seamless",
+            "Photograph the rider"
+          ]
+        },
+        "logoDirection": "A wordmark with a hand-drawn motion mark \u2014 Whisk set in a friendly humanist sans, with a small swooping line as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Whisk Green",
+            "hex": "#3E8E5A",
+            "meaning": "Bike-frame green.",
+            "usage": "Wordmark, the line"
+          },
+          {
+            "name": "Route Cream",
+            "hex": "#EFEAD8",
+            "meaning": "Hand-drawn map paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink Black",
+            "hex": "#1A1A1A",
+            "meaning": "Marker ink.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and signage",
+          "secondary": "ABC Diatype Mono for pickup times",
+          "rationale": "One family. The mono carries the times, the regular carries the brand."
+        }
+      }
+    ]
+  }
+}

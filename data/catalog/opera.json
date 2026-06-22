@@ -1,0 +1,899 @@
+{
+  "industry": "opera",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Aria Lab",
+        "tagline": "The aria, prototyped.",
+        "brandNameRationale": "Aria names the central opera form; Lab names the modern technical register. Two-noun modern compound.",
+        "industrySummary": "Modern opera companies trade on new work and prototyping. The opening is an aria-and-lab-named modern company.",
+        "competitorLandscape": "Opera Philadelphia (operaphila.org) plays the new-work peer. LA Opera (laopera.org) holds the modern middle. English National Opera (eno.org) is the modern reference. We sit alongside Opera Philadelphia with an aria-lab frame.",
+        "positioningStatement": "Aria Lab is a modern opera company built around new-work prototyping and concert arias.",
+        "targetAudience": {
+          "primary": "Urban opera-goers 25–45 who follow new work.",
+          "behaviors": [
+            "Subscribe to new-work seasons",
+            "Read the libretto",
+            "Follow specific composers"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "New-work-forward"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the libretto plainly",
+            "Show the workshop process",
+            "Name the composer"
+          ],
+          "donts": [
+            "Use 'gala' as a category",
+            "Photograph against marble",
+            "Sell the dress code as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: ARIA LAB in a tight modern grotesk, two lines. A small mark — a vocal-line waveform — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#141416",
+            "meaning": "Stage.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Libretto paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark",
+          "secondary": "GT America Mono for libretto credits",
+          "rationale": "One family — the modern company register."
+        }
+      },
+      {
+        "brandName": "New Libretto",
+        "tagline": "The text, refreshed.",
+        "brandNameRationale": "Libretto names the opera text; New names the modernizing register. Two-word, trade-honest.",
+        "industrySummary": "Modern opera companies trade on the libretto. The opening is a libretto-forward modern company.",
+        "competitorLandscape": "Opera Philadelphia (operaphila.org) plays the new-work peer. LA Opera (laopera.org) holds the modern middle. English National Opera (eno.org) is the modern reference. We sit as a libretto-forward modern company.",
+        "positioningStatement": "New Libretto is a modern opera company built on commissioning and refreshing the text.",
+        "targetAudience": {
+          "primary": "Urban opera-goers 25–45.",
+          "behaviors": [
+            "Subscribe to new work",
+            "Read the libretto",
+            "Follow librettists"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Text-forward",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the libretto plainly",
+            "Show the workshop process",
+            "Name the librettist"
+          ],
+          "donts": [
+            "Use 'gala' as a category",
+            "Photograph against marble",
+            "Sell the dress code as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: NEW LIBRETTO in a tight modern grotesk, two lines.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#141416",
+            "meaning": "Stage.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Libretto paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark",
+          "secondary": "Söhne Mono for libretto credits",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "Voice & Score",
+        "tagline": "The two halves of opera.",
+        "brandNameRationale": "Voice and score are the two halves of opera. Two-noun modern pairing.",
+        "industrySummary": "Modern opera companies trade on the voice + score pairing. The opening is a two-noun modern company.",
+        "competitorLandscape": "Opera Philadelphia (operaphila.org) plays the new-work peer. LA Opera (laopera.org) holds the modern middle. English National Opera (eno.org) is the modern reference. We sit as a two-noun modern company.",
+        "positioningStatement": "Voice & Score is a modern opera company built on the voice and the score.",
+        "targetAudience": {
+          "primary": "Urban opera-goers 25–45.",
+          "behaviors": [
+            "Subscribe to new work",
+            "Read the score",
+            "Follow specific voices"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "Specialist"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the score notes",
+            "Show the workshop process",
+            "Name the voice"
+          ],
+          "donts": [
+            "Use 'gala' as a category",
+            "Photograph against marble",
+            "Sell the dress code as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: VOICE & SCORE in a tight modern grotesk, two lines.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#141416",
+            "meaning": "Stage.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Score paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark",
+          "secondary": "Inter Mono for credits",
+          "rationale": "One family."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Proscenium",
+        "tagline": "The frame of the stage.",
+        "brandNameRationale": "The proscenium is the architectural frame of the stage. Definite article + single architectural noun.",
+        "industrySummary": "Luxury opera companies trade on the stage as architecture. The opening is a proscenium-named luxury company.",
+        "competitorLandscape": "The Metropolitan Opera (metopera.org) plays the institutional luxury peer. Royal Opera House (roh.org.uk) holds the European middle. Wiener Staatsoper (wiener-staatsoper.at) is the European reference. We sit alongside the Royal Opera House with a proscenium-named frame.",
+        "positioningStatement": "The Proscenium is a luxury opera company built on the stage as architecture.",
+        "targetAudience": {
+          "primary": "UHNW subscribers to opera and classical music.",
+          "behaviors": [
+            "Subscribe to the full season",
+            "Pay the box tariff",
+            "Attend galas"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the proscenium",
+            "Print the season journal",
+            "Name the principals"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell merchandise as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: THE PROSCENIUM in a refined serif, two lines centered. A small mark — the proscenium arch silhouette — used on the season programme.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#141416",
+            "meaning": "Stage.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Programme Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Programme paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif — the luxury opera register."
+        }
+      },
+      {
+        "brandName": "Maison Bel Canto",
+        "tagline": "After the bel canto tradition.",
+        "brandNameRationale": "Bel canto is the 18th–19th century vocal tradition (beautiful singing). Maison places it in the French luxury register. Trade-tradition + house.",
+        "industrySummary": "Luxury opera companies trade on the bel canto tradition. The opening is a bel-canto-named luxury company.",
+        "competitorLandscape": "The Metropolitan Opera (metopera.org) plays the institutional luxury peer. Royal Opera House (roh.org.uk) holds the European middle. Wiener Staatsoper (wiener-staatsoper.at) is the European reference. We sit as a bel-canto-named luxury company.",
+        "positioningStatement": "Maison Bel Canto is a luxury opera company built on the bel canto vocal tradition.",
+        "targetAudience": {
+          "primary": "UHNW subscribers and bel-canto specialists.",
+          "behaviors": [
+            "Subscribe to the full season",
+            "Travel to bel-canto rep",
+            "Pay the box tariff"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Italian-leaning",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference bel canto by tradition",
+            "Print the season journal",
+            "Name the principals"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell merchandise as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON BEL CANTO in a refined serif, two lines centered.",
+        "colorPalette": [
+          {
+            "name": "Programme Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Programme paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stage Black",
+            "hex": "#141416",
+            "meaning": "Stage.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Hardware.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif."
+        }
+      },
+      {
+        "brandName": "The Box Tier",
+        "tagline": "Box seats. Tier opera.",
+        "brandNameRationale": "Box tier names the architectural luxury seating of an opera house. Definite-article + architectural noun.",
+        "industrySummary": "Luxury opera companies trade on the box. The opening is a box-tier-named luxury company.",
+        "competitorLandscape": "The Metropolitan Opera (metopera.org) plays the institutional luxury peer. Royal Opera House (roh.org.uk) holds the European middle. Wiener Staatsoper (wiener-staatsoper.at) is the European reference. We sit as a box-tier-named luxury company.",
+        "positioningStatement": "The Box Tier is a luxury opera company built around box subscribers and a season-long programme.",
+        "targetAudience": {
+          "primary": "UHNW subscribers in private boxes.",
+          "behaviors": [
+            "Subscribe to a box",
+            "Attend galas",
+            "Bring guests to the box"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Patient",
+          "Refined"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Photograph the box",
+            "Print the season journal",
+            "Address by surname"
+          ],
+          "donts": [
+            "Discount",
+            "Photograph against marble",
+            "Sell merchandise as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: THE BOX TIER in a refined serif, three lines centered.",
+        "colorPalette": [
+          {
+            "name": "Programme Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Programme paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Hardware.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "Reading-serif family."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Libretto",
+        "tagline": "The text.",
+        "brandNameRationale": "Libretto names the opera text. Single word.",
+        "industrySummary": "Minimal opera brands strip to the text. The opening is a libretto-named brand.",
+        "competitorLandscape": "Opera Philadelphia (operaphila.org) plays the new-work peer. LA Opera (laopera.org) holds the modern middle. English National Opera (eno.org) is the modern reference. We sit at single-word minimal.",
+        "positioningStatement": "Libretto is a minimal opera company named for the text.",
+        "targetAudience": {
+          "primary": "Opera-goers 25–45 who read the libretto.",
+          "behaviors": [
+            "Subscribe to the season",
+            "Read the libretto",
+            "Skip the gala"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the libretto plainly",
+            "Show the workshop process",
+            "Name the librettist"
+          ],
+          "donts": [
+            "Use 'gala' as a category",
+            "Photograph against marble",
+            "Sell merchandise as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: LIBRETTO in a precise modern grotesk, all caps, eight letters, generous tracking.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#141416",
+            "meaning": "Stage.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Libretto paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark",
+          "secondary": "Neue Haas Grotesk for body",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "Aria.",
+        "tagline": "One word.",
+        "brandNameRationale": "Aria names the central opera form. Period as logo.",
+        "industrySummary": "Minimal opera brands strip to the form. The opening is a period-as-mark aria-named brand.",
+        "competitorLandscape": "Opera Philadelphia (operaphila.org) plays the new-work peer. LA Opera (laopera.org) holds the modern middle. English National Opera (eno.org) is the modern reference. We sit at single-word minimal.",
+        "positioningStatement": "Aria. is a minimal opera company named for the central form.",
+        "targetAudience": {
+          "primary": "Opera-goers 22–45.",
+          "behaviors": [
+            "Subscribe to the season",
+            "Read the libretto",
+            "Skip the gala"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the libretto plainly",
+            "Show the workshop process",
+            "Name the voice"
+          ],
+          "donts": [
+            "Use 'gala' as a category",
+            "Photograph against marble",
+            "Sell merchandise as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: aria. in a clean humanist sans, all lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#141416",
+            "meaning": "Stage.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Libretto paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark",
+          "secondary": "ABC Diatype for body",
+          "rationale": "One family."
+        }
+      },
+      {
+        "brandName": "Score",
+        "tagline": "The music.",
+        "brandNameRationale": "Score names the music alone. Single word.",
+        "industrySummary": "Minimal opera brands strip to the music. The opening is a score-named brand.",
+        "competitorLandscape": "Opera Philadelphia (operaphila.org) plays the new-work peer. LA Opera (laopera.org) holds the modern middle. English National Opera (eno.org) is the modern reference. We sit at single-word minimal.",
+        "positioningStatement": "Score is a minimal opera company named for the music.",
+        "targetAudience": {
+          "primary": "Opera-goers 25–45 who follow the music more than the staging.",
+          "behaviors": [
+            "Subscribe to the season",
+            "Read the score",
+            "Skip the gala"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the score notes",
+            "Show the workshop process",
+            "Name the composer"
+          ],
+          "donts": [
+            "Use 'gala' as a category",
+            "Photograph against marble",
+            "Sell merchandise as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: SCORE in a precise modern grotesk, all caps, five letters, generous tracking.",
+        "colorPalette": [
+          {
+            "name": "Stage Black",
+            "hex": "#141416",
+            "meaning": "Stage.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F1ECDB",
+            "meaning": "Score paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "One family."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Verdi & Sons",
+        "tagline": "House register.",
+        "brandNameRationale": "Verdi (d. 1901, public domain) used as a surname-house gesture in the trade. & Sons closes it as a multi-generation house.",
+        "industrySummary": "Opera production houses trade on the founder-house register. The opening is a Verdi-surname-house corporate operator.",
+        "competitorLandscape": "Stage Entertainment (stage-entertainment.com) plays the institutional peer. Cameron Mackintosh Ltd (cameronmackintosh.com) holds the production middle. Boosey & Hawkes (boosey.com) is the publishing reference. We sit as an opera-production house.",
+        "positioningStatement": "Verdi & Sons is a corporate opera-production house with shared touring and rights.",
+        "targetAudience": {
+          "primary": "Opera houses, festival programmers, and institutional partners.",
+          "behaviors": [
+            "Sign multi-year touring contracts",
+            "License productions",
+            "Compare production houses"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Heritage",
+          "Reliable"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with production count",
+            "Speak to programmers",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single show",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: VERDI & SONS in a classical serif, two lines. A small mark — a treble-clef silhouette — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      },
+      {
+        "brandName": "Bel Canto Holdings",
+        "tagline": "Multi-house opera operator.",
+        "brandNameRationale": "Bel canto names the vocal tradition; Holdings closes it as a multi-house operator.",
+        "industrySummary": "Multi-house opera operators consolidate productions and rights. The opening is a bel-canto-named multi-brand operator.",
+        "competitorLandscape": "Stage Entertainment (stage-entertainment.com) plays the institutional peer. Cameron Mackintosh Ltd (cameronmackintosh.com) holds the production middle. Boosey & Hawkes (boosey.com) is the publishing reference. We sit as a multi-house opera operator.",
+        "positioningStatement": "Bel Canto Holdings is a multi-house opera operator across production, touring, and rights.",
+        "targetAudience": {
+          "primary": "Opera houses, festival programmers, and institutional partners.",
+          "behaviors": [
+            "Sign multi-year touring contracts",
+            "License productions",
+            "Compare operators"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-house"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with portfolio count",
+            "Speak to programmers",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single show",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: BEL CANTO HOLDINGS in a classical serif, two lines.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Classical serif plus clean grotesk."
+        }
+      },
+      {
+        "brandName": "Proscenium Arts Co.",
+        "tagline": "Generic-luxe arts operator.",
+        "brandNameRationale": "Proscenium names the stage frame; Arts Co. closes it as a generic-luxe arts operator.",
+        "industrySummary": "Multi-discipline arts operators consolidate venues and programs. The opening is a proscenium-named multi-arts operator.",
+        "competitorLandscape": "Stage Entertainment (stage-entertainment.com) plays the institutional peer. Cameron Mackintosh Ltd (cameronmackintosh.com) holds the production middle. Boosey & Hawkes (boosey.com) is the publishing reference. We sit as a multi-arts operator.",
+        "positioningStatement": "Proscenium Arts Co. is a multi-venue arts operator across opera, ballet, and concert.",
+        "targetAudience": {
+          "primary": "Programmers, venue owners, and institutional partners.",
+          "behaviors": [
+            "Sign multi-year contracts",
+            "License venues",
+            "Compare operators"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Multi-venue"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with venue count",
+            "Speak to programmers",
+            "Publish quarterly"
+          ],
+          "donts": [
+            "Brand as a single show",
+            "Promote consumer offers from parent",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: PROSCENIUM ARTS CO. in a classical serif, two lines.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Inter for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Prima Donna",
+        "tagline": "First lady of the opera.",
+        "brandNameRationale": "Prima donna is the trade term for the leading soprano. Editorial register on the trade term, slightly tongue-in-cheek.",
+        "industrySummary": "Editorial opera brands trade on a trade term. The opening is a prima-donna-named editorial brand with a journal.",
+        "competitorLandscape": "Opera Philadelphia (operaphila.org) plays the new-work peer. LA Opera (laopera.org) holds the modern middle. English National Opera (eno.org) is the modern reference. We sit as an editorial prima-donna-named brand.",
+        "positioningStatement": "The Prima Donna is a creative opera brand built on the leading soprano and a printed journal.",
+        "targetAudience": {
+          "primary": "Editorial opera-goers 25–50.",
+          "behaviors": [
+            "Read the journal",
+            "Follow specific sopranos",
+            "Subscribe to the season"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Warm",
+          "Tongue-in-cheek"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal seasonally",
+            "Photograph the lead soprano",
+            "Name the role"
+          ],
+          "donts": [
+            "Use 'gala' as a category",
+            "Photograph against marble",
+            "Sell merchandise as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: THE PRIMA DONNA in a confident editorial serif, three lines centered. A small mark — a single curtain-call silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Editorial Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A38454",
+            "meaning": "Hardware.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif."
+        }
+      },
+      {
+        "brandName": "Don Giovanni's Cape",
+        "tagline": "Mozart's character, the costume.",
+        "brandNameRationale": "Don Giovanni is Mozart's 1787 opera character; the cape is the costume detail. Narrative hook on a public-domain character.",
+        "industrySummary": "Editorial opera brands trade on a narrative hook. The opening is a costume-detail editorial brand.",
+        "competitorLandscape": "Opera Philadelphia (operaphila.org) plays the new-work peer. LA Opera (laopera.org) holds the modern middle. English National Opera (eno.org) is the modern reference. We sit as a narrative-hook editorial brand.",
+        "positioningStatement": "Don Giovanni's Cape is a creative opera brand built around a Mozart-character narrative hook and a printed journal.",
+        "targetAudience": {
+          "primary": "Editorial opera-goers 25–50.",
+          "behaviors": [
+            "Read the journal",
+            "Follow Mozart-era rep",
+            "Subscribe to the season"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Warm",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal seasonally",
+            "Photograph the costume detail",
+            "Name the production"
+          ],
+          "donts": [
+            "Use 'gala' as a category",
+            "Photograph against marble",
+            "Sell merchandise as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: DON GIOVANNI'S CAPE in a confident editorial serif, three lines centered.",
+        "colorPalette": [
+          {
+            "name": "Editorial Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Cape Black",
+            "hex": "#141416",
+            "meaning": "Cape.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "Reading serif plus clean grotesk."
+        }
+      },
+      {
+        "brandName": "Libretto, Loose",
+        "tagline": "The text, gone rogue.",
+        "brandNameRationale": "Libretto, Loose names a modern-creative spin on the text. Two-word editorial register with a comma.",
+        "industrySummary": "Editorial opera brands trade on the libretto. The opening is a libretto-loose-named creative brand.",
+        "competitorLandscape": "Opera Philadelphia (operaphila.org) plays the new-work peer. LA Opera (laopera.org) holds the modern middle. English National Opera (eno.org) is the modern reference. We sit as a modern-creative editorial brand.",
+        "positioningStatement": "Libretto, Loose is a creative opera brand built on libretto reinvention and a printed journal.",
+        "targetAudience": {
+          "primary": "Editorial opera-goers 25–50 who follow new work.",
+          "behaviors": [
+            "Read the journal",
+            "Follow new librettists",
+            "Subscribe to the season"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Modern",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the journal seasonally",
+            "Photograph the workshop",
+            "Name the librettist"
+          ],
+          "donts": [
+            "Use 'gala' as a category",
+            "Photograph against marble",
+            "Sell merchandise as the hero"
+          ]
+        },
+        "logoDirection": "Wordmark: LIBRETTO, LOOSE in a confident editorial serif, two lines centered.",
+        "colorPalette": [
+          {
+            "name": "Editorial Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Editorial stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stage Black",
+            "hex": "#141416",
+            "meaning": "Stage.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Curtain Red",
+            "hex": "#8B2A28",
+            "meaning": "Curtain.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark",
+          "secondary": "Tiempos Text for body",
+          "rationale": "High-contrast serif plus reading serif."
+        }
+      }
+    ]
+  }
+}

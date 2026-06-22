@@ -1,0 +1,315 @@
+{
+  "industry": "bowling",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Deadwood Lanes",
+        "tagline": "Pins down, drinks up.",
+        "brandNameRationale": "Anchor: 'dead wood' — bowling slang for pins left lying in the lane after a strike, which must be cleared. Counter to Brunswick (active TM in bowling equipment). Deadwood is a trade-slang noun the brand owns plainly.",
+        "industrySummary": "Modern bowling has shifted from sport-leagues toward hospitality-led venues — sixteen lanes, a kitchen, a long bar, a DJ booth. The opening is for a brand that names the room in trade language rather than entertainment-park language.",
+        "competitorLandscape": "Lucky Strike (luckystrikeent.com) plays the modern-hospitality peer. Pinstripes (pinstripes.com) holds the bowling-bistro middle. Bowlero (bowlero.com) is the at-scale reference. We sit as a trade-named modern lanes brand.",
+        "positioningStatement": "Deadwood Lanes is a modern bowling and bar venue named for the trade-slang noun for pins left in the lane.",
+        "targetAudience": {
+          "primary": "Adults 25-40 booking a Friday-night group of six to twelve, expecting food and drinks alongside the lanes.",
+          "behaviors": [
+            "Book lanes online two weeks ahead",
+            "Order food at the lane",
+            "Photograph the strike screen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Confident",
+          "Warm",
+          "Modern",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use bowling trade slang accurately",
+            "Publish the lane price and the food menu side by side",
+            "Name the bartender on the staff page"
+          ],
+          "donts": [
+            "Use family-entertainment-center language",
+            "Photograph kids' birthday parties as the hero shot",
+            "Hide the price"
+          ]
+        },
+        "logoDirection": "Wordmark: DEADWOOD LANES set in a confident grotesk, two lines stacked. Small mark: a single pin laid on its side — the dead-wood silhouette — used on the lane-marker plaques.",
+        "colorPalette": [
+          {
+            "name": "Lane Maple",
+            "hex": "#C99358",
+            "meaning": "Maple bowling lane",
+            "usage": "Accent"
+          },
+          {
+            "name": "Pin White",
+            "hex": "#F4F0E6",
+            "meaning": "Pin enamel",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gutter Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for lane prices and times",
+          "rationale": "One grotesk family plus its mono — the lane-board register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Hoe Club",
+        "tagline": "Bowls, since 1588.",
+        "brandNameRationale": "Anchor: Plymouth Hoe — where Sir Francis Drake is said to have insisted on finishing his game of bowls in 1588 before sailing to meet the Spanish Armada. Counter to Drake's Green (uses a surname that may read as a real firm). The Hoe Club uses the geographic place plainly as a private-club frame.",
+        "industrySummary": "Luxury bowling is a thin category — private clubs with lawn bowls greens, private-event indoor lanes, and a small number of heritage hotel rooms. The buyer is a member or a private-events client.",
+        "competitorLandscape": "The All England Lawn Tennis Club (wimbledon.com) plays the private-club register peer. The Royal Automobile Club (royalautomobileclub.co.uk) holds the heritage-club reference. We sit as a private bowling club in the Hoe lineage.",
+        "positioningStatement": "The Hoe Club is a private bowling club in the lineage of the 1588 Plymouth Hoe game, offering lawn and indoor lanes to members.",
+        "targetAudience": {
+          "primary": "Members of long-standing London and provincial clubs interested in a quieter additional membership for bowls and lanes.",
+          "behaviors": [
+            "Join by introduction only",
+            "Book the green for member events",
+            "Pay annual dues without question"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Discreet",
+          "Patient",
+          "Senior"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address members by surname",
+            "Reference the 1588 game with restraint",
+            "Print all club correspondence"
+          ],
+          "donts": [
+            "Run public marketing",
+            "Publish the dues schedule",
+            "Photograph members"
+          ]
+        },
+        "logoDirection": "Wordmark: THE HOE CLUB set in a refined English serif, three lines centered. A hallmark — a single wood bowl with a small jack — used on the club crest and the member's tie.",
+        "colorPalette": [
+          {
+            "name": "Club Green",
+            "hex": "#1F3A2B",
+            "meaning": "Bowling green",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE7D5",
+            "meaning": "Member-room paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gold Crest",
+            "hex": "#A6843D",
+            "meaning": "Club crest",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body and member letters",
+          "rationale": "Two classical English serifs — the private-club register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Pin.",
+        "tagline": "Ten of them.",
+        "brandNameRationale": "Anchor: the bowling pin, the central object of the trade. Counter to Roll (verb-as-noun, harder to register in this category) and Lane 7 (numeric, too generic). The full stop closes the wordmark as a single beat.",
+        "industrySummary": "Minimal bowling brands compete on rate clarity, lane availability, and zero entertainment-park theater. The opening is for a single-word venue named for the pin itself.",
+        "competitorLandscape": "Most bowling venues lean on entertainment-park branding. The Gutter (thegutterbrooklyn.com) plays the considered-minimal peer. Brooklyn Bowl (brooklynbowl.com) holds the venue-cool middle. We sit as the punctuated single-word minimal option.",
+        "positioningStatement": "Pin. is a minimal bowling venue named for the object — one rate card, ten pins, no theater.",
+        "targetAudience": {
+          "primary": "Adults 25-40 wanting to bowl with two friends after work without the family-entertainment overlay.",
+          "behaviors": [
+            "Book the lane the same day",
+            "Skip the food menu",
+            "Pay by the hour, flat rate"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Plain",
+          "Modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the hourly rate on the home page",
+            "Show the lane, not the bar",
+            "Confirm the booking in one line"
+          ],
+          "donts": [
+            "Use entertainment-park language",
+            "Photograph kids' parties",
+            "Sell add-ons"
+          ]
+        },
+        "logoDirection": "Wordmark: PIN. set very large in a clean modern sans, three letters and a full stop. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Pin White",
+            "hex": "#F4F0E6",
+            "meaning": "Pin enamel",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lane Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Pin Red",
+            "hex": "#B81F2A",
+            "meaning": "Pin neck stripe",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for the rate card",
+          "rationale": "Clean Diatype with its mono — the single-rate register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "National Lanes Co.",
+        "tagline": "A regional bowling-venue operator.",
+        "brandNameRationale": "Anchor: 'lanes' as the trade noun for a bowling venue, paired with a multi-site corporate suffix. Counter to Brunswick (active TM in bowling equipment) and Candlepin Holdings (limits the brand to a New England regional variant). National Lanes Co. reads as a multi-site operator in plain trade language.",
+        "industrySummary": "Corporate bowling operators run twenty to sixty venues with shared booking systems, supply contracts, and corporate-events programs. The category sits between independent venues and the at-scale national chains.",
+        "competitorLandscape": "Bowlero (bowlero.com) plays the at-scale peer. AMF (amf.com) holds the heritage-chain middle. Pinstripes (pinstripes.com) is the bistro-format reference. We sit as a regional multi-site operator in the National Lanes Co. register.",
+        "positioningStatement": "National Lanes Co. is a regional bowling-venue operator running multiple lanes under shared operations, booking, and corporate-events programs.",
+        "targetAudience": {
+          "primary": "Corporate-events buyers, regional-venue investors, and franchise partners across mid-sized markets.",
+          "behaviors": [
+            "Negotiate multi-venue corporate-events contracts",
+            "Review unit economics by location",
+            "Renew on multi-year terms"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with venue footprint and capacity",
+            "Publish the corporate-events booking process",
+            "Speak to corporate buyers and partners"
+          ],
+          "donts": [
+            "Run consumer-facing entertainment marketing at the parent level",
+            "Photograph individual parties as the hero shot",
+            "Press-release single-venue openings"
+          ]
+        },
+        "logoDirection": "Wordmark: NATIONAL LANES CO. set in an institutional serif, three lines centered. A small mark — a single bowling pin in silhouette — used on the contract cover.",
+        "colorPalette": [
+          {
+            "name": "Operator Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Institutional navy",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Document Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Contract paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lane Maple",
+            "hex": "#C99358",
+            "meaning": "Maple lane accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the multi-venue operator register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Gutter & Glory",
+        "tagline": "Both happen here.",
+        "brandNameRationale": "Anchor: the gutter (the trough beside the lane, the trade word for a failed roll) and the glory (the strike). Counter to Sparehouse (coinage that loses the trade reference) and The Dead-Wood Tavern (closer to deadwood-modern). Gutter & Glory is the creative dichotomy paired-noun that lives on a neon sign.",
+        "industrySummary": "Creative bowling venues compete on personality, neon, and a kitchen with a point of view. The opening is for a brand that names both outcomes plainly and runs the room as a bar with lanes.",
+        "competitorLandscape": "Brooklyn Bowl (brooklynbowl.com) plays the venue-cool peer. The Gutter (thegutterbrooklyn.com) holds the dive-bowling middle. Highland Park Bowl (highlandparkbowl.com) is the heritage-revival reference. We sit as a paired-noun creative venue.",
+        "positioningStatement": "Gutter & Glory is a creative bowling and bar venue named for both possible outcomes of a roll.",
+        "targetAudience": {
+          "primary": "Adults 25-40 looking for a night with friends that lands somewhere between a bar and a bowling alley.",
+          "behaviors": [
+            "Walk in without a booking",
+            "Order at the bar before the lane",
+            "Photograph the neon"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Warm",
+          "Confident",
+          "Loud"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name both the gutter and the strike on the scoreboard",
+            "Write the menu in the bartender's voice",
+            "Use neon as the brand's loudest visual"
+          ],
+          "donts": [
+            "Sound corporate",
+            "Photograph kids' birthday parties",
+            "Apologize for the dive register"
+          ]
+        },
+        "logoDirection": "Wordmark: GUTTER & GLORY set in a punchy display serif, two lines, the ampersand drawn as a neon tube. Small mark: a single lit pin used as the venue stamp.",
+        "colorPalette": [
+          {
+            "name": "Neon Glory",
+            "hex": "#E94E2A",
+            "meaning": "Strike-light neon",
+            "usage": "Accent"
+          },
+          {
+            "name": "Gutter Black",
+            "hex": "#161618",
+            "meaning": "Lane gutter",
+            "usage": "Body"
+          },
+          {
+            "name": "Pin Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Backgrounds",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Druk for the wordmark and neon signage",
+          "secondary": "Söhne for body",
+          "rationale": "A display serif for the neon plus a clean grotesk for body — the bowling-bar register."
+        }
+      }
+    ]
+  }
+}

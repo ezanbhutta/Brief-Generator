@@ -1,0 +1,315 @@
+{
+  "industry": "fishmonger",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Slab & Scale",
+        "tagline": "The counter, plainly named.",
+        "brandNameRationale": "Anchor: the slab (the cold marble fishmonger's display) and the scale (the trade tool, and the fish itself). Counter to Wet Counter (less ownable as a mark) and Pike & Place Fish Co. (borrows the Pike Place Market name, which while geographic risks confusion). Slab & Scale names two trade objects plainly.",
+        "industrySummary": "Modern fishmongering has moved from supermarket fish counters back to dedicated neighborhood shops with daily-landed fish and a clear sourcing list. The opening is for a brand that names the counter and the trade tool plainly.",
+        "competitorLandscape": "Greenpoint Fish & Lobster (greenpointfish.com) plays the modern shop peer. Monger's (mongers.co.uk) holds the UK reference. Russ & Daughters (russanddaughters.com) is the heritage middle. We sit as a trade-noun-named modern fish counter.",
+        "positioningStatement": "Slab & Scale is a modern neighborhood fishmonger named for the cold slab and the fish scale.",
+        "targetAudience": {
+          "primary": "Home cooks 30-55 who plan dinners around what landed that morning and want to know the boat and the day.",
+          "behaviors": [
+            "Check the day's catch list before shopping",
+            "Ask about the boat and the dock",
+            "Re-buy weekly from a trusted counter"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Precise",
+          "Modern",
+          "Plainspoken",
+          "Direct"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the day's catch by 7 a.m.",
+            "Name the boat and the dock",
+            "Show the slab, ice and all"
+          ],
+          "donts": [
+            "Decorate with nautical-rope imagery",
+            "Use the word artisanal",
+            "Photograph the fish on a styled plate"
+          ]
+        },
+        "logoDirection": "Wordmark: SLAB & SCALE set in a precise grotesk, one line, ampersand drawn slightly heavier. Small mark: a single fish-scale shape used on the wrapping paper.",
+        "colorPalette": [
+          {
+            "name": "Slab Marble",
+            "hex": "#D7D2C4",
+            "meaning": "Cold marble slab",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sea Ink",
+            "hex": "#1F2A3A",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Scale Silver",
+            "hex": "#B7B2A6",
+            "meaning": "Fish scale",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for the day's catch list and prices",
+          "rationale": "One grotesk family plus its mono — the catch-board register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Billingsgate House",
+        "tagline": "London fish, since 1699.",
+        "brandNameRationale": "Anchor: Billingsgate Market — London's wholesale fish market, chartered in 1699, the historical reference point for the UK fishmonger trade. Billingsgate is a place name, not a registered brand in this trade. Counter to Toyosu Select (closer to the active brand of the modern Tokyo market) and Oyster & Ice (loses the heritage register). Billingsgate House uses the geographic place plainly.",
+        "industrySummary": "Luxury fishmongering is a small concierge category — daily-sourced wet fish, oysters, and shellfish delivered to restaurants, hotels, and private kitchens. The buyer is a head chef, a private-kitchen manager, or a long-standing private client.",
+        "competitorLandscape": "Browns of Brockley (brownsofbrockley.com) plays the considered shop peer. Wright Brothers (thewrightbrothers.co.uk) holds the heritage-supply middle. Murray's Fish Market (limited reference) sits in the heritage-American slot. We sit as a Billingsgate-heritage concierge supplier.",
+        "positioningStatement": "Billingsgate House is a concierge fishmonger and wet-fish supplier in the Billingsgate Market lineage, serving restaurants, hotels, and private kitchens.",
+        "targetAudience": {
+          "primary": "Head chefs, private-kitchen managers, and long-standing private clients ordering daily fish by phone or standing order.",
+          "behaviors": [
+            "Standing-order weekly delivery",
+            "Call by 5 a.m. for same-day adjustments",
+            "Pay quarterly on account"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Discreet",
+          "Patient",
+          "Senior"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Address chefs and clients by name",
+            "Name the boat, the dock, and the morning",
+            "Print the day's catch on hand-laid paper"
+          ],
+          "donts": [
+            "Publish public prices",
+            "Run consumer-facing campaigns",
+            "Photograph the fish on lifestyle plates"
+          ]
+        },
+        "logoDirection": "Wordmark: BILLINGSGATE HOUSE set in a refined English serif, two lines centered. A hallmark — a single fish silhouette over a small London-stone shape — used on the delivery card and the wax seal.",
+        "colorPalette": [
+          {
+            "name": "Market Navy",
+            "hex": "#15203A",
+            "meaning": "Billingsgate market frontage",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Linen",
+            "hex": "#EFE7D5",
+            "meaning": "Hand-laid paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Gold Hallmark",
+            "hex": "#A6843D",
+            "meaning": "Heritage trade gilding",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Garamond Premier Pro for body and client letters",
+          "rationale": "Two classical English serifs — the Billingsgate-heritage register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Fin.",
+        "tagline": "One trade.",
+        "brandNameRationale": "Anchor: the fin — the part of the fish, and the cinematic word for the end. Counter to Catch (verb-as-noun, less ownable) and Salt (closer to preservation than fishmongering). The full stop closes the wordmark.",
+        "industrySummary": "Minimal fishmongering brands serve the design-literate home cook who wants the day's catch posted plainly. The opening is for a single-syllable trade-noun brand with no theater.",
+        "competitorLandscape": "Greenpoint Fish & Lobster (greenpointfish.com) plays the considered-modern peer. Monger's (mongers.co.uk) holds the UK reference. Fishwife (fishwifeseafoods.com) is the modern packaged middle. We sit as the punctuated single-word minimal option.",
+        "positioningStatement": "Fin. is a minimal neighborhood fishmonger — one counter, one day's catch, one rate card.",
+        "targetAudience": {
+          "primary": "Home cooks 28-45 wanting today's catch posted plainly and no nautical decoration.",
+          "behaviors": [
+            "Check the daily catch list online",
+            "Order ahead by SMS",
+            "Pay one flat per-pound rate"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Direct",
+          "Plain",
+          "Considered"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the day's catch on the home page",
+            "Show the fish, plainly",
+            "Confirm the order in one line"
+          ],
+          "donts": [
+            "Decorate with nautical rope",
+            "Use the word artisanal",
+            "Sell add-ons at checkout"
+          ]
+        },
+        "logoDirection": "Wordmark: FIN. set very large in a clean modern sans, three letters and a full stop. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Counter White",
+            "hex": "#F4F0E6",
+            "meaning": "Marble counter",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Sea Ink",
+            "hex": "#141518",
+            "meaning": "Wordmark",
+            "usage": "Body"
+          },
+          {
+            "name": "Scale Silver",
+            "hex": "#B7B2A6",
+            "meaning": "Fish scale",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for the daily catch list",
+          "rationale": "Clean Diatype with its mono — the single-counter register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Coastal Fisheries Co.",
+        "tagline": "Wholesale wet fish, multi-region.",
+        "brandNameRationale": "Anchor: 'coastal fisheries' — the standard trade phrase for regional fish-supply operations. Counter to Marlow Fish Holdings (uses a surname-place that risks reading as a real firm) and Harbor & Hook Seafood (closer to creative-corporate hybrid). Coastal Fisheries Co. is a plain trade phrase with a corporate suffix.",
+        "industrySummary": "Corporate fishmongering operates across multi-region wholesale supply, hotel and restaurant programs, and grocery wet-counter contracts. The buyer is a procurement officer, an executive chef, or a grocery wet-counter category manager.",
+        "competitorLandscape": "Pacific Seafood (pacificseafood.com) plays the multi-region peer. Sysco Seafood (sysco.com) holds the at-scale broadline reference. Wright Brothers (thewrightbrothers.co.uk) is the heritage-supplier middle. We sit as a regional multi-site wholesale fisheries operator.",
+        "positioningStatement": "Coastal Fisheries Co. is a multi-region wholesale fishmonger and wet-fish supplier serving restaurants, hotels, and grocery wet-counter programs.",
+        "targetAudience": {
+          "primary": "Procurement officers, executive chefs, and grocery wet-counter category managers across mid-sized operators.",
+          "behaviors": [
+            "Negotiate multi-year supply contracts",
+            "Specify daily delivery windows",
+            "Renew on annual terms with quarterly reviews"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Senior",
+          "Operational",
+          "Reliable",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with multi-region delivery capacity and certifications",
+            "Publish food-safety standards plainly",
+            "Speak to procurement and category buyers"
+          ],
+          "donts": [
+            "Run consumer-facing campaigns at the parent level",
+            "Photograph fish on lifestyle plates",
+            "Press-release single contracts"
+          ]
+        },
+        "logoDirection": "Wordmark: COASTAL FISHERIES CO. set in an institutional serif, three lines centered. A small mark — a single fish silhouette over a wave-rule — used on the contract cover.",
+        "colorPalette": [
+          {
+            "name": "Coastal Navy",
+            "hex": "#1A2A3F",
+            "meaning": "Coastal water",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Document Cream",
+            "hex": "#F1EBD7",
+            "meaning": "Contract paper",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Scale Silver",
+            "hex": "#B7B2A6",
+            "meaning": "Trade accent",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body and contracts",
+          "rationale": "A reading serif plus a clean grotesk — the wholesale-fisheries register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Apron & Slab",
+        "tagline": "Fish, daily.",
+        "brandNameRationale": "Anchor: the fishmonger's apron (heavy rubber, ice-stained, the trade uniform) and the slab (the cold marble display). Counter to Gills & Tides (closer to lifestyle imagery) and Iceberg Counter (loses the trade register). The Apron & Slab is the paired-noun trade phrase that lives on a sign.",
+        "industrySummary": "Creative fishmonger brands sit between the heritage shop and the modern packaged-seafood brand. The opening is for a paired-noun brand named for the apron and the slab — the trade uniform and the trade display.",
+        "competitorLandscape": "Russ & Daughters (russanddaughters.com) plays the heritage-creative peer. Greenpoint Fish & Lobster (greenpointfish.com) holds the modern middle. Fishwife (fishwifeseafoods.com) is the packaged-modern reference. We sit as a paired-noun creative fishmonger.",
+        "positioningStatement": "The Apron & Slab is a creative neighborhood fishmonger named for the fishmonger's apron and the cold marble slab.",
+        "targetAudience": {
+          "primary": "Home cooks 28-50 who treat the fishmonger as a weekly stop and care about the maker behind the counter.",
+          "behaviors": [
+            "Photograph the day's catch board",
+            "Ask the monger by name",
+            "Buy the same fish from the same person weekly"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Warm",
+          "Witty",
+          "Confident",
+          "Artisan"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the monger on every catch board",
+            "Write the daily list in the monger's voice",
+            "Show the apron and the slab as the brand's visual hook"
+          ],
+          "donts": [
+            "Sound corporate",
+            "Decorate with nautical rope",
+            "Photograph fish on styled plates"
+          ]
+        },
+        "logoDirection": "Wordmark: THE APRON & SLAB set in a warm display serif with a hand-drawn ampersand. Small mark: an apron-and-slab silhouette used as the shop stamp.",
+        "colorPalette": [
+          {
+            "name": "Apron Rubber",
+            "hex": "#2A3340",
+            "meaning": "Heavy rubber apron",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Slab Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Marble slab cream",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ice Blue",
+            "hex": "#A6C0CC",
+            "meaning": "Crushed ice",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark",
+          "secondary": "Söhne for body",
+          "rationale": "A warm display serif plus a clean grotesk — the neighborhood-shop register."
+        }
+      }
+    ]
+  }
+}
