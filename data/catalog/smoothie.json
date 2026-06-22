@@ -1,0 +1,915 @@
+{
+  "industry": "smoothie",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Cold Press Co.",
+        "tagline": "Modern cold-press juicery.",
+        "brandNameRationale": "Anchor: cold-press — the defining 21st-century juicery process. Picked from A's three for the strongest process-named modern anchor.",
+        "industrySummary": "Modern cold-press juiceries — Pressed, Juice Press, Project Juice — sit in a fast-growing craft niche. The opening is a cold-press named modern brand.",
+        "competitorLandscape": "Pressed (pressed.com) plays the modern cold-press peer. Juice Press (juicepress.com) holds the urban middle. Daily Harvest (daily-harvest.com) is the DTC reference. We sit as a cold-press named modern juicery.",
+        "positioningStatement": "Cold Press Co. is a modern juicery and smoothie bar named for the cold-press process.",
+        "targetAudience": {
+          "primary": "Health-conscious 25–45 in cities buying cold-press juice and smoothies.",
+          "behaviors": [
+            "Order cold-press juice",
+            "Care about the press process",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Process-honest",
+          "Direct",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the press process",
+            "Print the daily list",
+            "Show the bottle plainly"
+          ],
+          "donts": [
+            "Use 'detox' as a category",
+            "Photograph against marble",
+            "Hide the press"
+          ]
+        },
+        "logoDirection": "Wordmark: COLD PRESS CO. in a tight modern grotesk, one line. A small mark — a single press-plate silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Juice Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Juice paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for juice labels",
+          "rationale": "A modern grotesk plus a mono — the cold-press register."
+        }
+      },
+      {
+        "brandName": "Masticate",
+        "tagline": "Slow-juicer method.",
+        "brandNameRationale": "Anchor: masticate — the slow-juicer method (chewing). Picked from A's three for the bold technical modern anchor.",
+        "industrySummary": "Method-named modern juiceries sit in a real craft niche. The opening is a masticate-named modern brand.",
+        "competitorLandscape": "Pressed (pressed.com) plays the modern cold-press peer. Juice Press (juicepress.com) holds the urban middle. Daily Harvest (daily-harvest.com) is the DTC reference. We sit as a masticate-named modern juicery.",
+        "positioningStatement": "Masticate is a modern juicery named for the slow-juicer (masticating) method.",
+        "targetAudience": {
+          "primary": "Health-conscious 28–45 who care about the slow-juice method.",
+          "behaviors": [
+            "Order slow-juiced bottles",
+            "Care about the method",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Bold",
+          "Technical",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the method plainly",
+            "Print the daily list",
+            "Show the press plainly"
+          ],
+          "donts": [
+            "Use 'detox' as a category",
+            "Photograph against marble",
+            "Hide the method"
+          ]
+        },
+        "logoDirection": "Wordmark: MASTICATE in a tight modern grotesk, one word. A small mark — a single slow-juicer silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Juice Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Juice paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for juice labels",
+          "rationale": "A quiet grotesk plus a mono — the masticate-modern register."
+        }
+      },
+      {
+        "brandName": "Bowl & Blend",
+        "tagline": "The two formats.",
+        "brandNameRationale": "Anchor: the smoothie bowl + the blend — the two formats of the modern smoothie bar. Picked from A's three for the strongest paired-format modern anchor.",
+        "industrySummary": "Two-format modern smoothie bars sit in a real craft niche. The opening is a bowl-and-blend modern brand.",
+        "competitorLandscape": "Pressed (pressed.com) plays the modern smoothie peer. Juice Press (juicepress.com) holds the urban middle. Jamba (jamba.com) is the legacy reference. We sit as a bowl-and-blend modern brand.",
+        "positioningStatement": "Bowl & Blend is a modern smoothie bar named for its two formats — the bowl and the blend.",
+        "targetAudience": {
+          "primary": "Health-conscious 25–45.",
+          "behaviors": [
+            "Order bowls and blends",
+            "Care about the ingredients",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Direct",
+          "Format-clear",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the bowl and the blend plainly",
+            "Print the daily list",
+            "Show the bowl plainly"
+          ],
+          "donts": [
+            "Use 'detox' as a category",
+            "Photograph against marble",
+            "Hide the ingredients"
+          ]
+        },
+        "logoDirection": "Wordmark: BOWL & BLEND in a tight modern grotesk, one line. A small mark — a paired bowl-and-glass glyph — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Juice Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Juice paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter Mono for juice labels",
+          "rationale": "One family, two registers — the format-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Orchard & Press",
+        "tagline": "Source and technique.",
+        "brandNameRationale": "Anchor: orchard (the fruit source) + press (the technique) — old-world juice-house feel. Picked from A's three for the strongest paired-source luxury anchor.",
+        "industrySummary": "Old-world juice houses — high-end smoothie and cold-press salons — sit at the top of the luxury juice market. The opening is an orchard-and-press luxury brand.",
+        "competitorLandscape": "Pressed (pressed.com) plays the upscale juicery peer. Daily Harvest (daily-harvest.com) holds the DTC middle. The Juicery (thejuicery.co.uk) is the premium reference. We sit as an orchard-and-press luxury brand.",
+        "positioningStatement": "Orchard & Press is a luxury juicery and smoothie salon pairing the orchard source and the press technique.",
+        "targetAudience": {
+          "primary": "UHNW health-conscious diners, top hotels, and luxury spas.",
+          "behaviors": [
+            "Order seasonal pressings",
+            "Care about the orchard source",
+            "Pay premium per bottle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Refined",
+          "Source-rooted",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the orchard plainly",
+            "Print the press protocol",
+            "Photograph the orchard"
+          ],
+          "donts": [
+            "Sell on delivery apps",
+            "Photograph against marble",
+            "Use 'detox' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: ORCHARD & PRESS in a refined editorial serif, two lines centered. A small mark — a paired orchard-and-press silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Orchard Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Orchard Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the orchard-and-press register."
+        }
+      },
+      {
+        "brandName": "Maison Pressée",
+        "tagline": "Pressed house.",
+        "brandNameRationale": "Anchor: 'pressed house' in couture French register — a cold-press salon. Picked from A's three for the strongest French-luxury anchor.",
+        "industrySummary": "Couture cold-press salons sit at the top of the luxury juice market. The opening is a maison-pressée brand.",
+        "competitorLandscape": "Pressed (pressed.com) plays the upscale juicery peer. The Juicery (thejuicery.co.uk) holds the premium middle. Daily Harvest (daily-harvest.com) is the DTC reference. We sit as a maison-pressée couture brand.",
+        "positioningStatement": "Maison Pressée is a luxury cold-press salon in the French maison tradition.",
+        "targetAudience": {
+          "primary": "UHNW health-conscious diners, top hotels, and luxury spas.",
+          "behaviors": [
+            "Order seasonal pressings",
+            "Care about the press protocol",
+            "Pay premium per bottle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "French",
+          "Refined",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the press protocol",
+            "Print the seasonal list",
+            "Photograph the salon"
+          ],
+          "donts": [
+            "Sell on delivery apps",
+            "Photograph against marble",
+            "Use 'detox' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON PRESSÉE in a refined French serif, two lines centered. A small mark — a single press-plate silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Salon light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salon Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the French-press register."
+        }
+      },
+      {
+        "brandName": "The Verdure Bar",
+        "tagline": "Greenery at the bar.",
+        "brandNameRationale": "Anchor: verdure (greenery) + bar — high-end juicery register. Picked from A's three for the strongest greenery-luxury anchor.",
+        "industrySummary": "Greenery-named luxury juiceries sit at the top of the luxury juice market. The opening is a verdure-bar luxury brand.",
+        "competitorLandscape": "Pressed (pressed.com) plays the upscale juicery peer. The Juicery (thejuicery.co.uk) holds the premium middle. Daily Harvest (daily-harvest.com) is the DTC reference. We sit as a verdure-bar luxury brand.",
+        "positioningStatement": "The Verdure Bar is a luxury juicery built on the greenery register.",
+        "targetAudience": {
+          "primary": "UHNW health-conscious diners, top hotels, and luxury spas.",
+          "behaviors": [
+            "Order seasonal pressings",
+            "Care about the greens source",
+            "Pay premium per bottle"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Refined",
+          "Plant-forward",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the greens source",
+            "Print the seasonal list",
+            "Photograph the bar"
+          ],
+          "donts": [
+            "Sell on delivery apps",
+            "Photograph against marble",
+            "Use 'detox' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: THE VERDURE BAR in a refined editorial serif, two lines centered. A small mark — a single leaf-and-stem silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Salon light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Verdure Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the verdure-bar register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Press.",
+        "tagline": "The technique, named.",
+        "brandNameRationale": "Anchor: press — the cold-press glyph. Single-word, period-locked. Picked from A's three for the cleanest press-minimal anchor.",
+        "industrySummary": "Single-word minimal juicery brands sit cleanly in the niche. Press. names the technique.",
+        "competitorLandscape": "Pressed (pressed.com) plays the modern juicery peer. Juice Press (juicepress.com) holds the urban middle. Daily Harvest (daily-harvest.com) is the DTC reference. We sit as a single-word minimal brand.",
+        "positioningStatement": "Press. is a minimal juicery and smoothie bar named for the cold-press technique.",
+        "targetAudience": {
+          "primary": "Health-conscious 25–45.",
+          "behaviors": [
+            "Order cold-press juice",
+            "Skip lifestyle marketing",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the press plainly",
+            "Show the bottle plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'detox' anywhere",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: press. set large in a clean humanist sans, lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Juice Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Juice paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for juice labels",
+          "rationale": "One family, two registers — the press-minimal register."
+        }
+      },
+      {
+        "brandName": "Pulp",
+        "tagline": "The residue.",
+        "brandNameRationale": "Anchor: pulp — the juicer-residue term turned brand. Single-word minimal mark. Picked from A's three for the cleanest residue-minimal anchor.",
+        "industrySummary": "Single-word minimal juicery brands sit cleanly in the niche. Pulp names the residue.",
+        "competitorLandscape": "Pressed (pressed.com) plays the modern juicery peer. Juice Press (juicepress.com) holds the urban middle. Daily Harvest (daily-harvest.com) is the DTC reference. We sit as a single-word minimal brand.",
+        "positioningStatement": "Pulp is a minimal juicery and smoothie bar named for the juicer residue.",
+        "targetAudience": {
+          "primary": "Health-conscious 25–45.",
+          "behaviors": [
+            "Order whole-fruit smoothies",
+            "Skip lifestyle marketing",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the pulp plainly",
+            "Show the cup plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'detox' anywhere",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: PULP set large in a clean modern sans, one word, four letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Juice Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Juice paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for juice labels",
+          "rationale": "One family, two registers — the pulp-minimal register."
+        }
+      },
+      {
+        "brandName": "Blend",
+        "tagline": "Five letters.",
+        "brandNameRationale": "Anchor: blend — the smoothie verb. Five-letter minimal mark. Picked from A's three for the cleanest verb-minimal anchor.",
+        "industrySummary": "Single-verb minimal smoothie brands sit cleanly in the niche. Blend names the act.",
+        "competitorLandscape": "Pressed (pressed.com) plays the modern juicery peer. Juice Press (juicepress.com) holds the urban middle. Jamba (jamba.com) is the legacy reference. We sit as a single-verb minimal brand.",
+        "positioningStatement": "Blend is a minimal smoothie bar named for the act.",
+        "targetAudience": {
+          "primary": "Health-conscious 25–45.",
+          "behaviors": [
+            "Order smoothies",
+            "Skip lifestyle marketing",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the blend plainly",
+            "Show the cup plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'detox' anywhere",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: BLEND set large in a clean humanist sans, one word, five letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Juice Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Juice paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the blend-minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Coldpress Holdings",
+        "tagline": "Juice-tech parent.",
+        "brandNameRationale": "Anchor: cold-press + corporate suffix — B2B juice-tech parent. Picked from A's three for the strongest cold-press corporate anchor.",
+        "industrySummary": "Cold-press holding companies — multi-brand juicery operators — sit at the top of the juice-corporate market. The opening is a Coldpress-named multi-brand parent.",
+        "competitorLandscape": "Suja (sujajuice.com) plays the multi-brand juicery peer. Pressed (pressed.com) holds the multi-brand middle. Evolution Fresh (evolutionfresh.com) is the multi-brand reference. We sit as a Coldpress-named multi-brand parent.",
+        "positioningStatement": "Coldpress Holdings is a multi-brand cold-press juicery corporate parent.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare juice vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Process-rooted"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single bar",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: COLDPRESS HOLDINGS in a clean institutional serif, two lines. A small mark — a serif C monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the Coldpress-corporate register."
+        }
+      },
+      {
+        "brandName": "Juicery Group",
+        "tagline": "Industry parent.",
+        "brandNameRationale": "Anchor: juicery — straight industry parent. Picked from A's three for the cleanest industry-term corporate anchor.",
+        "industrySummary": "Juicery holding companies sit in a real institutional space. The opening is a Juicery-named multi-brand parent.",
+        "competitorLandscape": "Suja (sujajuice.com) plays the multi-brand juicery peer. Pressed (pressed.com) holds the multi-brand middle. Evolution Fresh (evolutionfresh.com) is the multi-brand reference. We sit as a Juicery-named multi-brand parent.",
+        "positioningStatement": "Juicery Group is a multi-brand juicery and smoothie corporate parent.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare juicery vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Quietly modern"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single bar",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: JUICERY GROUP in a clean institutional serif, two lines. A small mark — a serif J monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A classical serif plus a clean grotesk — the Juicery-corporate register."
+        }
+      },
+      {
+        "brandName": "Verdant Partners",
+        "tagline": "Plant-juice parent.",
+        "brandNameRationale": "Anchor: verdant (green register) + partners — corporate plant-juice parent. Picked from A's three for the strongest plant-corporate anchor.",
+        "industrySummary": "Plant-juice holding companies sit in a real institutional space. The opening is a Verdant-named multi-brand parent.",
+        "competitorLandscape": "Suja (sujajuice.com) plays the multi-brand juicery peer. Pressed (pressed.com) holds the multi-brand middle. Evolution Fresh (evolutionfresh.com) is the multi-brand reference. We sit as a Verdant-named multi-brand parent.",
+        "positioningStatement": "Verdant Partners is a multi-brand plant-juice corporate parent.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare juicery vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Plant-forward"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single bar",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: VERDANT PARTNERS in a clean institutional serif, two lines. A small mark — a serif V monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Verdant Green",
+            "hex": "#2F5C3A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the Verdant-corporate register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Slow Juicer",
+        "tagline": "Masticating reference.",
+        "brandNameRationale": "Anchor: the slow (masticating) juicer — editorial craft brand. Picked from A's three for the strongest method-editorial anchor.",
+        "industrySummary": "Method-named editorial juiceries sit at the creative top. The opening is a slow-juicer editorial brand.",
+        "competitorLandscape": "Pressed (pressed.com) plays the editorial juicery peer. Juice Press (juicepress.com) holds the urban middle. Daily Harvest (daily-harvest.com) is the DTC reference. We sit as a slow-juicer editorial brand.",
+        "positioningStatement": "The Slow Juicer is an editorial juicery brand built on the masticating slow-juicer method.",
+        "targetAudience": {
+          "primary": "Editorial health-conscious 28–45 who care about the method.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the slow-juice method",
+            "Subscribe to the case"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Method-forward",
+          "Patient",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Print the method plainly",
+            "Photograph the slow-juicer",
+            "Reference the orchard"
+          ],
+          "donts": [
+            "Use 'detox' as a category",
+            "Photograph against marble",
+            "Skip the method"
+          ]
+        },
+        "logoDirection": "Wordmark: THE SLOW JUICER in a confident editorial serif, two lines. A small mark — a single slow-juicer silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the slow-juicer editorial register."
+        }
+      },
+      {
+        "brandName": "California 1972",
+        "tagline": "Juice-bar origin.",
+        "brandNameRationale": "Anchor: 1972 — invented year tying to the California juice-bar origin tradition. Picked from A's three for the strongest storytelling-year anchor.",
+        "industrySummary": "Year-named editorial juiceries sit at the creative top. The opening is a 1972-storytelling editorial brand.",
+        "competitorLandscape": "Pressed (pressed.com) plays the editorial juicery peer. Juice Press (juicepress.com) holds the urban middle. Jamba (jamba.com) is the legacy reference. We sit as a 1972-storytelling editorial brand.",
+        "positioningStatement": "California 1972 is an editorial smoothie and juicery brand built on the California juice-bar origin story.",
+        "targetAudience": {
+          "primary": "Editorial health-conscious 28–45 who like a juice-bar story.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the California origin",
+            "Subscribe to the case"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Storytelling",
+          "Warm",
+          "California-leaning"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the 1972 California story plainly",
+            "Print the journal seasonally",
+            "Photograph the bar"
+          ],
+          "donts": [
+            "Use 'detox' as a category",
+            "Photograph against marble",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: CALIFORNIA 1972 in a confident editorial serif, two lines. A small mark — a numeric 1972 glyph — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and journal",
+          "rationale": "A high-contrast serif plus a reading serif — the California-1972 register."
+        }
+      },
+      {
+        "brandName": "Bowl, Bottle, Blend",
+        "tagline": "Three formats.",
+        "brandNameRationale": "Anchor: the three formats of the modern smoothie shop — bowl, bottle, blend. Picked from A's three for the playful three-format creative anchor.",
+        "industrySummary": "Three-format editorial smoothie brands sit at the creative top. The opening is a three-format editorial brand.",
+        "competitorLandscape": "Pressed (pressed.com) plays the editorial juicery peer. Juice Press (juicepress.com) holds the urban middle. Daily Harvest (daily-harvest.com) is the DTC reference. We sit as a three-format editorial brand.",
+        "positioningStatement": "Bowl, Bottle, Blend is a creative smoothie and juicery brand named for its three formats.",
+        "targetAudience": {
+          "primary": "Editorial health-conscious 25–45.",
+          "behaviors": [
+            "Order bowls, bottles, and blends",
+            "Read the brand journal",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Playful",
+          "Format-clear",
+          "Clean"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the three formats plainly",
+            "Print the journal seasonally",
+            "Show the formats plainly"
+          ],
+          "donts": [
+            "Use 'detox' as a category",
+            "Photograph against marble",
+            "Skip the formats"
+          ]
+        },
+        "logoDirection": "Wordmark: BOWL, BOTTLE, BLEND in a confident editorial serif, three lines centered. A small mark — a triple bowl-bottle-glass glyph — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Journal Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Journal stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Green",
+            "hex": "#2F5C3A",
+            "meaning": "Cold-press green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the three-format editorial register."
+        }
+      }
+    ]
+  }
+}

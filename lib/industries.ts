@@ -135,6 +135,21 @@ export const INDUSTRIES: IndustryEntry[] = [
   { key: "kombucha", label: "Kombucha & Fermented Drinks", aliases: ["kombucha", "fermented drink", "water kefir", "ginger beer", "fermented beverage"] },
   { key: "golf", label: "Golf & Country Clubs", aliases: ["golf", "golf club", "golf course", "country club", "links", "golf brand"] },
   { key: "opera", label: "Opera & Classical Vocal", aliases: ["opera", "opera house", "opera company", "classical voice", "libretto"] },
+  { key: "ev-charging", label: "EV Charging Networks", aliases: ["ev", "ev charging", "electric vehicle", "charger", "charging station", "ev infrastructure"] },
+  { key: "car-detailing", label: "Car Detailing & Auto Care", aliases: ["car detailing", "detailing", "auto detail", "car wash", "ceramic coating", "paint protection"] },
+  { key: "gutter-cleaning", label: "Gutter Cleaning & Roof", aliases: ["gutter cleaning", "gutters", "roof cleaning", "downspout", "gutter service"] },
+  { key: "chimney-sweep", label: "Chimney Sweeps & Fireplace", aliases: ["chimney sweep", "chimney", "fireplace", "hearth", "chimney cleaning"] },
+  { key: "painter", label: "Residential Painters", aliases: ["painter", "painting", "house painter", "painting contractor", "residential painting"] },
+  { key: "meditation", label: "Meditation Studios & Apps", aliases: ["meditation", "meditation studio", "mindfulness", "zen", "vipassana", "meditation app"] },
+  { key: "naturopath", label: "Naturopathy & Functional Medicine", aliases: ["naturopath", "naturopathy", "functional medicine", "integrative medicine"] },
+  { key: "breathwork", label: "Breathwork & Pranayama", aliases: ["breathwork", "breath", "pranayama", "wim hof", "holotropic", "breathing practice"] },
+  { key: "sleep-clinic", label: "Sleep Clinics & Insomnia", aliases: ["sleep clinic", "sleep", "insomnia", "sleep specialist", "sleep study", "sleep medicine"] },
+  { key: "hat-maker", label: "Hat Makers & Milliners", aliases: ["hat", "hats", "hatmaker", "milliner", "hat shop", "headwear"] },
+  { key: "cheese-shop", label: "Cheese Shops & Mongers", aliases: ["cheese shop", "cheesemonger", "cheese", "fromagerie", "affineur", "cheese counter"] },
+  { key: "sausage-maker", label: "Charcuterie & Sausage", aliases: ["sausage", "sausage maker", "charcuterie", "salumi", "salami", "wurst", "cured meats"] },
+  { key: "vegan-cafe", label: "Vegan & Plant-Based Cafés", aliases: ["vegan", "vegan cafe", "plant-based", "vegan restaurant", "vegetarian"] },
+  { key: "sparkling-water", label: "Sparkling Water", aliases: ["sparkling water", "seltzer", "soda water", "carbonated water", "mineral water"] },
+  { key: "smoothie", label: "Smoothies & Juice Bars", aliases: ["smoothie", "juice bar", "cold-pressed juice", "smoothie bar", "juicery"] },
 ];
 
 export const INDUSTRY_KEYS = INDUSTRIES.map((i) => i.key);

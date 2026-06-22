@@ -1,0 +1,915 @@
+{
+  "industry": "vegan-cafe",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Watson & Leaf",
+        "tagline": "Modern plant-based café.",
+        "brandNameRationale": "Anchor: Donald Watson (coined 'vegan' in 1944, founded the Vegan Society) + leaf. Picked from A's three for the strongest historical-lineage modern anchor. Note: Watson is a historical surname — screenable for café class.",
+        "industrySummary": "Modern plant-based cafés — By Chloe, Plant Hustler — sit in a small craft niche. The opening is a historically-lineaged modern café.",
+        "competitorLandscape": "By Chloe (eatbychloe.com) plays the modern plant-based peer. Plant Hustler-style cafés hold the urban middle. Sweetgreen (sweetgreen.com) is the plant-forward reference. We sit as a Watson-lineaged modern café.",
+        "positioningStatement": "Watson & Leaf is a modern plant-based café anchored on Donald Watson's 1944 lineage.",
+        "targetAudience": {
+          "primary": "Plant-based 28–45 in cities buying breakfast and lunch.",
+          "behaviors": [
+            "Order plant bowls",
+            "Care about the lineage",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Historical-lineaged",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference 1944 plainly",
+            "Name the plant on the bowl",
+            "Print the daily menu"
+          ],
+          "donts": [
+            "Use 'guilt-free' as a category",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: WATSON & LEAF in a tight modern grotesk, one line. A small mark — a single leaf silhouette — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Plant Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Plant paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Leaf Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for menu labels",
+          "rationale": "A modern grotesk plus a mono — the plant-counter register."
+        }
+      },
+      {
+        "brandName": "Plantward",
+        "tagline": "Toward the plant.",
+        "brandNameRationale": "Anchor: a coined directional word — 'toward the plant.' Picked from A's three for the cleanest coined-modern anchor.",
+        "industrySummary": "Coined-direction modern plant-based brands sit in a real craft niche. The opening is a plantward-named modern café.",
+        "competitorLandscape": "By Chloe (eatbychloe.com) plays the modern plant-based peer. Plant Hustler-style cafés hold the urban middle. Sweetgreen (sweetgreen.com) is the plant-forward reference. We sit as a coined-direction modern café.",
+        "positioningStatement": "Plantward is a modern plant-based café named for the move toward the plant.",
+        "targetAudience": {
+          "primary": "Plant-curious 25–45 in cities.",
+          "behaviors": [
+            "Order plant bowls",
+            "Care about the source",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Coined",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the plant on the bowl",
+            "Print the daily menu",
+            "Show the bowl plainly"
+          ],
+          "donts": [
+            "Use 'guilt-free' as a category",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: PLANTWARD in a tight modern grotesk, one word. A small mark — a directional arrow + leaf glyph — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Plant Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Plant paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Leaf Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for menu labels",
+          "rationale": "A quiet grotesk plus a mono — the coined-modern register."
+        }
+      },
+      {
+        "brandName": "Forty-Four Café",
+        "tagline": "The year vegan was named.",
+        "brandNameRationale": "Anchor: 1944 — the year 'vegan' was coined. Picked from A's three for the subtle numeric modern anchor. Works if the story is told.",
+        "industrySummary": "Numeric-storytelling modern plant-based cafés sit in a real craft niche. The opening is a 1944-numeric modern café.",
+        "competitorLandscape": "By Chloe (eatbychloe.com) plays the modern plant-based peer. Plant Hustler-style cafés hold the urban middle. Sweetgreen (sweetgreen.com) is the plant-forward reference. We sit as a 1944-numeric modern café.",
+        "positioningStatement": "Forty-Four Café is a modern plant-based café named for 1944, the year 'vegan' was coined.",
+        "targetAudience": {
+          "primary": "Plant-curious 25–45 who like a story on the menu.",
+          "behaviors": [
+            "Order plant bowls",
+            "Read the 1944 story",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Modern",
+          "Storytelling",
+          "Direct",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the 1944 story plainly",
+            "Name the plant on the bowl",
+            "Print the daily menu"
+          ],
+          "donts": [
+            "Use 'guilt-free' as a category",
+            "Photograph against marble",
+            "Skip the story"
+          ]
+        },
+        "logoDirection": "Wordmark: FORTY-FOUR CAFÉ in a tight modern grotesk, two lines. A small mark — a numeric 44 glyph — used as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Plant Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Plant paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Leaf Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter Mono for menu labels",
+          "rationale": "One family, two registers — the numeric-modern register."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Végétale",
+        "tagline": "Plant house.",
+        "brandNameRationale": "Anchor: 'plant house' in couture French register — a high-end plant-based salon. Picked from A's three for the strongest French-luxury anchor.",
+        "industrySummary": "Couture plant-based houses — Le Botaniste, Plant Food + Wine — sit at the top of the plant-based market. The opening is a maison-végétale plant salon.",
+        "competitorLandscape": "Le Botaniste (le-botaniste.com) plays the luxury plant peer. Plant Food + Wine (matthewkenneycuisine.com) holds the upscale middle. Eleven Madison Park (elevenmadisonpark.com) is the plant-luxury reference. We sit as a couture maison-végétale.",
+        "positioningStatement": "Maison Végétale is a luxury plant-based salon in the French maison tradition.",
+        "targetAudience": {
+          "primary": "UHNW plant-based diners, top restaurants, and luxury hotels.",
+          "behaviors": [
+            "Book the tasting",
+            "Care about the plant source",
+            "Pay full salon rates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "French",
+          "Refined",
+          "Plant-forward"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the plant and the farm",
+            "Print the seasonal tasting",
+            "Photograph the salon"
+          ],
+          "donts": [
+            "Sell on delivery apps",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: MAISON VÉGÉTALE in a refined French serif, two lines centered. A small mark — a single hand-drawn leaf silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Salon light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Salon Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the French-salon register."
+        }
+      },
+      {
+        "brandName": "Verdier & Fils",
+        "tagline": "Of the greens, and son.",
+        "brandNameRationale": "Anchor: invented French family name (Verdier — 'of the greens') + 'and son' — old-world plant-based atelier. Picked from A's three for the strongest invented-family luxury anchor.",
+        "industrySummary": "Old-world plant-based ateliers sit at the top of the plant-luxury market. The opening is an invented-family plant atelier.",
+        "competitorLandscape": "Le Botaniste (le-botaniste.com) plays the luxury plant peer. Plant Food + Wine (matthewkenneycuisine.com) holds the upscale middle. ONA (ona-restaurant.com) is the plant-Michelin reference. We sit as an invented-family plant atelier.",
+        "positioningStatement": "Verdier & Fils is a luxury plant-based atelier built on an invented old-world family name.",
+        "targetAudience": {
+          "primary": "UHNW plant-based diners, top restaurants, and luxury hotels.",
+          "behaviors": [
+            "Book the tasting",
+            "Care about the plant source",
+            "Travel for plant cuisine"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Old-world",
+          "Refined",
+          "Plant-forward"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the farm and the family",
+            "Print the seasonal tasting",
+            "Photograph the kitchen"
+          ],
+          "donts": [
+            "Sell on delivery apps",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: VERDIER & FILS in a refined French serif, two lines centered. A small mark — a serif V monogram — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Salon light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Atelier Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the old-world atelier register."
+        }
+      },
+      {
+        "brandName": "The Verdant Table",
+        "tagline": "Greens at the table.",
+        "brandNameRationale": "Anchor: verdant (lush green) + the dinner table — a high-end plant-based dining register. Picked as the third luxury option (replacing Eden Table, since Eden Project is an active institution).",
+        "industrySummary": "Plant-luxury dining brands sit at the top of the plant-based market. The opening is a verdant-table plant-dining brand.",
+        "competitorLandscape": "Le Botaniste (le-botaniste.com) plays the luxury plant peer. Plant Food + Wine (matthewkenneycuisine.com) holds the upscale middle. Eleven Madison Park (elevenmadisonpark.com) is the plant-luxury reference. We sit as a verdant-table plant-dining brand.",
+        "positioningStatement": "The Verdant Table is a luxury plant-based dining brand built on the green-table tradition.",
+        "targetAudience": {
+          "primary": "UHNW plant-based diners, top restaurants, and luxury hotels.",
+          "behaviors": [
+            "Book the table",
+            "Care about the plant source",
+            "Pay full dining rates"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Pedigreed",
+          "Refined",
+          "Plant-forward",
+          "Patient"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the farm and the season",
+            "Print the tasting menu",
+            "Photograph the table"
+          ],
+          "donts": [
+            "Sell on delivery apps",
+            "Photograph against marble",
+            "Use 'gourmet' as a category"
+          ]
+        },
+        "logoDirection": "Wordmark: THE VERDANT TABLE in a refined editorial serif, three lines centered. A small mark — a single leaf-and-stem silhouette — used on the seal.",
+        "colorPalette": [
+          {
+            "name": "Salon Cream",
+            "hex": "#F1EAD2",
+            "meaning": "Salon light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Verdant Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Tiempos Text for body",
+          "rationale": "A high-contrast serif plus a reading serif — the verdant-table register."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Leaf.",
+        "tagline": "The plant, named.",
+        "brandNameRationale": "Anchor: leaf — the plant-based glyph. Single-word, period-locked. Picked from A's three for the cleanest minimal plant anchor.",
+        "industrySummary": "Single-word minimal plant-based cafés sit cleanly in the niche. Leaf. names the plant.",
+        "competitorLandscape": "By Chloe (eatbychloe.com) plays the modern plant-based peer. Plant Hustler-style cafés hold the urban middle. Sweetgreen (sweetgreen.com) is the plant-forward reference. We sit as a single-word minimal café.",
+        "positioningStatement": "Leaf. is a minimal plant-based café named for the plant.",
+        "targetAudience": {
+          "primary": "Plant-curious 25–45.",
+          "behaviors": [
+            "Order plant bowls",
+            "Skip lifestyle marketing",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the plant plainly",
+            "Show the bowl plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'guilt-free' anywhere",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: leaf. set large in a clean humanist sans, lowercase, with the period as the only mark.",
+        "colorPalette": [
+          {
+            "name": "Plant Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Plant paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Leaf Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "ABC Diatype for the wordmark and headlines",
+          "secondary": "ABC Diatype Mono for menu labels",
+          "rationale": "One family, two registers — the leaf-minimal register."
+        }
+      },
+      {
+        "brandName": "Plant",
+        "tagline": "Five letters.",
+        "brandNameRationale": "Anchor: plant — the noun. Five-letter single-word minimal mark. Picked from A's three for the cleanest five-letter minimal anchor.",
+        "industrySummary": "Five-letter minimal plant-based brands sit cleanly in the niche. Plant names the category.",
+        "competitorLandscape": "By Chloe (eatbychloe.com) plays the modern plant-based peer. Plant Hustler-style cafés hold the urban middle. Sweetgreen (sweetgreen.com) is the plant-forward reference. We sit as a five-letter minimal café.",
+        "positioningStatement": "Plant is a minimal plant-based café named for the category itself.",
+        "targetAudience": {
+          "primary": "Plant-curious 25–45.",
+          "behaviors": [
+            "Order plant bowls",
+            "Skip lifestyle marketing",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Honest",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the plant plainly",
+            "Show the bowl plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'guilt-free' anywhere",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: PLANT set large in a clean modern sans, one word, five letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Plant Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Plant paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Leaf Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for menu labels",
+          "rationale": "One family, two registers — the plant-minimal register."
+        }
+      },
+      {
+        "brandName": "Sprout",
+        "tagline": "Growth.",
+        "brandNameRationale": "Anchor: sprout — the growth register. Single-word minimal mark. Picked from A's three for the cleanest growth-minimal anchor.",
+        "industrySummary": "Single-word growth minimal brands sit cleanly in the plant niche. Sprout names the start of growth.",
+        "competitorLandscape": "By Chloe (eatbychloe.com) plays the modern plant-based peer. Plant Hustler-style cafés hold the urban middle. Sweetgreen (sweetgreen.com) is the plant-forward reference. We sit as a single-word growth-minimal café.",
+        "positioningStatement": "Sprout is a minimal plant-based café named for the start of growth.",
+        "targetAudience": {
+          "primary": "Plant-curious 25–45.",
+          "behaviors": [
+            "Order plant bowls",
+            "Skip lifestyle marketing",
+            "Trust the kitchen"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Spare",
+          "Growth-leaning",
+          "Modern",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the plant plainly",
+            "Show the bowl plainly",
+            "Skip the lifestyle copy"
+          ],
+          "donts": [
+            "Use 'guilt-free' anywhere",
+            "Photograph against marble",
+            "Hide the source"
+          ]
+        },
+        "logoDirection": "Wordmark: SPROUT set large in a clean humanist sans, one word, six letters. No symbol.",
+        "colorPalette": [
+          {
+            "name": "Plant Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Plant paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Leaf Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "Inter for body",
+          "rationale": "One family, two weights — the sprout-minimal register."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Plantworks Group",
+        "tagline": "Plant-based operator.",
+        "brandNameRationale": "Anchor: 'plant-works' — manufacturing-style plant-based parent. Picked from A's three for the strongest plant-corporate anchor.",
+        "industrySummary": "Plant-based holding companies — multi-brand plant-food operators — sit at the top of the plant-corporate market. The opening is a plantworks-named multi-brand operator.",
+        "competitorLandscape": "Beyond Meat (beyondmeat.com) plays the multi-brand plant peer. Impossible Foods (impossiblefoods.com) holds the multi-brand middle. Eat Just (ju.st) is the multi-brand reference. We sit as a plantworks-named multi-brand operator.",
+        "positioningStatement": "Plantworks Group is a multi-brand plant-based corporate operator.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare plant vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Plant-forward"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single café",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: PLANTWORKS GROUP in a clean institutional serif, two lines. A small mark — a serif P monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Plant Green",
+            "hex": "#2F5C3A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the plantworks-operator register."
+        }
+      },
+      {
+        "brandName": "Aquafaba Holdings",
+        "tagline": "Ingredient-tech parent.",
+        "brandNameRationale": "Anchor: aquafaba (chickpea brine) + corporate suffix — ingredient-tech corporate parent. Picked from A's three for the strongest ingredient-tech corporate anchor.",
+        "industrySummary": "Plant-ingredient holding companies sit at the top of the plant-tech corporate market. The opening is an aquafaba-named ingredient-tech parent.",
+        "competitorLandscape": "Beyond Meat (beyondmeat.com) plays the multi-brand plant peer. Impossible Foods (impossiblefoods.com) holds the multi-brand middle. Eat Just (ju.st) is the ingredient-tech reference. We sit as an aquafaba-named ingredient-tech parent.",
+        "positioningStatement": "Aquafaba Holdings is an ingredient-tech corporate parent across plant-protein houses.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare plant-tech vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Tech-forward"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single café",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: AQUAFABA HOLDINGS in a clean institutional serif, two lines. A small mark — a serif A monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Cloud White",
+            "hex": "#F4F6FA",
+            "meaning": "Clean, structured.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Plant Green",
+            "hex": "#2F5C3A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A classical serif plus a clean grotesk — the aquafaba-corporate register."
+        }
+      },
+      {
+        "brandName": "Verdant Operators",
+        "tagline": "Plant-based co-op parent.",
+        "brandNameRationale": "Anchor: verdant (lush green) + 'operators' — corporate plant-based parent. Picked as the third corporate option (replacing 'Vegan Society Partners' — the Vegan Society is the active 1944 charity).",
+        "industrySummary": "Plant-based multi-brand corporate operators sit in a real institutional space. The opening is a verdant-operators corporate parent.",
+        "competitorLandscape": "Beyond Meat (beyondmeat.com) plays the multi-brand plant peer. Eat Just (ju.st) holds the multi-brand middle. Oatly (oatly.com) is the plant-corporate reference. We sit as a verdant-named multi-brand operator.",
+        "positioningStatement": "Verdant Operators is a multi-brand plant-based corporate parent across plant-food houses.",
+        "targetAudience": {
+          "primary": "Hospitality groups, retail chains, and institutional purchasers.",
+          "behaviors": [
+            "Negotiate multi-year operating contracts",
+            "Care about case-pack consistency",
+            "Compare plant-food vendors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Multi-brand",
+          "Reliable",
+          "Plant-forward"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote in cases and SKUs",
+            "Operate sub-brands quietly",
+            "Print quarterly reports"
+          ],
+          "donts": [
+            "Brand as a single café",
+            "Photograph against marble",
+            "Discount the corporate line"
+          ]
+        },
+        "logoDirection": "Wordmark: VERDANT OPERATORS in a clean institutional serif, two lines. A small mark — a serif V monogram — used on contracts.",
+        "colorPalette": [
+          {
+            "name": "Letterhead Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Letterhead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Director's Navy",
+            "hex": "#11243A",
+            "meaning": "Trust.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Plant Green",
+            "hex": "#2F5C3A",
+            "meaning": "Single accent.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Inter for body and operating reports",
+          "rationale": "A reading serif plus a clean grotesk — the verdant-operator register."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Aquafaba & Ash",
+        "tagline": "Modern plant + hearth.",
+        "brandNameRationale": "Anchor: aquafaba (modern vegan ingredient) + ash (hearth/fire) — pairs the modern with the elemental. Picked from A's three for the strongest paired-ingredient creative anchor.",
+        "industrySummary": "Paired-ingredient editorial plant-based brands sit at the creative top. The opening is an aquafaba-and-ash editorial brand with a publishing program.",
+        "competitorLandscape": "Le Botaniste (le-botaniste.com) plays the upscale plant peer. Plant Food + Wine (matthewkenneycuisine.com) holds the editorial middle. ONA (ona-restaurant.com) is the plant-Michelin reference. We sit as a paired-ingredient editorial brand.",
+        "positioningStatement": "Aquafaba & Ash is an editorial plant-based café pairing the modern ingredient with the hearth.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers and plant-curious 28–45.",
+          "behaviors": [
+            "Read the brand journal",
+            "Care about the ingredient story",
+            "Subscribe to the menu"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Cookbook-adjacent",
+          "Plant-forward",
+          "Warm"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the ingredient story",
+            "Print the seasonal journal",
+            "Photograph the hearth"
+          ],
+          "donts": [
+            "Use 'guilt-free' as a category",
+            "Photograph against marble",
+            "Skip the publishing"
+          ]
+        },
+        "logoDirection": "Wordmark: AQUAFABA & ASH in a confident editorial serif, two lines. A small mark — a paired ingredient-and-hearth silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Hearth Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Hearth stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ash Charcoal",
+            "hex": "#3A3A3A",
+            "meaning": "Hearth ash.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Leaf Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Secondary accent"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the paired-ingredient editorial register."
+        }
+      },
+      {
+        "brandName": "Watson's Notebook",
+        "tagline": "Editorial vegan journal.",
+        "brandNameRationale": "Anchor: Donald Watson (coined 'vegan' 1944) as the editorial-journal author. Picked from A's three for the strongest historical-author editorial anchor. Note: screen for Vegan Society estate.",
+        "industrySummary": "Historical-author editorial plant-based brands sit at the creative top. The opening is a Watson-journal editorial brand.",
+        "competitorLandscape": "Plant Food + Wine (matthewkenneycuisine.com) plays the editorial plant peer. Le Botaniste (le-botaniste.com) holds the upscale middle. ONA (ona-restaurant.com) is the plant-Michelin reference. We sit as a Watson-journal editorial brand.",
+        "positioningStatement": "Watson's Notebook is an editorial plant-based brand built on Donald Watson's lineage and a journal program.",
+        "targetAudience": {
+          "primary": "Editorial-food buyers 28–50 who read the plant lineage.",
+          "behaviors": [
+            "Subscribe to the journal",
+            "Care about the lineage",
+            "Read the brand notes"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Historical-leaning",
+          "Warm",
+          "Quietly historical"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference 1944 plainly",
+            "Print the journal seasonally",
+            "Photograph the kitchen"
+          ],
+          "donts": [
+            "Use 'guilt-free' as a category",
+            "Photograph against marble",
+            "Skip the journal"
+          ]
+        },
+        "logoDirection": "Wordmark: WATSON'S NOTEBOOK in a confident editorial serif, two lines. A small mark — a single leaf-and-pen glyph — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Notebook Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Notebook stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Leaf Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and journal",
+          "rationale": "A high-contrast serif plus a reading serif — the Watson-journal register."
+        }
+      },
+      {
+        "brandName": "The Green Hut",
+        "tagline": "Humble plant-based café.",
+        "brandNameRationale": "Anchor: humble hut + verdant green — playful neighborhood plant-based café. Picked from A's three for the strongest humble-mark creative anchor.",
+        "industrySummary": "Humble-mark editorial plant-based cafés sit in a real craft niche. The opening is a green-hut editorial brand.",
+        "competitorLandscape": "By Chloe (eatbychloe.com) plays the modern plant-based peer. Plant Hustler-style cafés hold the urban middle. Sweetgreen (sweetgreen.com) is the plant-forward reference. We sit as a humble-mark editorial café.",
+        "positioningStatement": "The Green Hut is a creative neighborhood plant-based café with a humble-mark register.",
+        "targetAudience": {
+          "primary": "Plant-curious 25–45 in cities.",
+          "behaviors": [
+            "Order plant bowls",
+            "Read the brand journal",
+            "Care about the neighborhood"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Editorial",
+          "Humble",
+          "Warm",
+          "Plant-forward"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the neighborhood photograph",
+            "Print the seasonal journal",
+            "Show the kitchen"
+          ],
+          "donts": [
+            "Use 'guilt-free' as a category",
+            "Photograph against marble",
+            "Skip the neighborhood"
+          ]
+        },
+        "logoDirection": "Wordmark: THE GREEN HUT in a confident editorial serif, two lines. A small mark — a single hut + leaf silhouette — used as the seal.",
+        "colorPalette": [
+          {
+            "name": "Hut Cream",
+            "hex": "#F1ECDA",
+            "meaning": "Plant paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Hut Green",
+            "hex": "#2F5C3A",
+            "meaning": "Plant green.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Ink",
+            "hex": "#141416",
+            "meaning": "Body.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Söhne for body and journal",
+          "rationale": "A reading serif plus a clean grotesk — the humble-mark editorial register."
+        }
+      }
+    ]
+  }
+}
