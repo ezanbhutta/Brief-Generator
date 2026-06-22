@@ -1,0 +1,333 @@
+{
+  "industry": "printing",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Colophon & Co.",
+        "tagline": "Printed marks, printed well.",
+        "brandNameRationale": "The colophon is the printer's signature mark at the end of a book \u2014 a tradition since the Aldine Press in 1499. Naming a modern printing studio after the printer's mark itself signals respect for the trade. & Co. closes it as a small modern shop.",
+        "industrySummary": "Modern printing has split between digital-only DTC operators and a small considered-letterpress cohort of independent shops. The opening is for a studio that puts the printer's mark itself in the brand position and builds a small permanent catalog of letterpress stationery, posters, and book work.",
+        "competitorLandscape": "Hatch Show Print (hatchshowprint.com) holds the heritage-letterpress slot. Studio On Fire (studioonfire.com) sits in the design-led letterpress tier. The Aviary Press (aviarypress.com) plays the considered-modern peer. We sit closer to Studio On Fire with a sharper colophon-led framing.",
+        "positioningStatement": "A modern letterpress studio organized around the printer's mark.",
+        "targetAudience": {
+          "primary": "30 to 55. Buys wedding stationery and limited-edition prints. Knows the difference between Vandercook and Heidelberg.",
+          "behaviors": [
+            "Studies the impression depth",
+            "Buys posters for the impression, not the image",
+            "Re-orders the same paper stock"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Materials-led",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the impression in raking light",
+            "Name the press and the paper",
+            "Quote the impression depth"
+          ],
+          "donts": [
+            "Use the word artisan",
+            "Photograph against linen",
+            "Run a flash sale"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Colophon & Co. set in a clean modern grotesk, with a small printer's-mark cartouche beside the word. The cartouche alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#101012",
+            "meaning": "Oil-based press ink.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Cotton Cream",
+            "hex": "#F4EFE3",
+            "meaning": "Cotton letterpress stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Press Red",
+            "hex": "#A8313F",
+            "meaning": "Rubrication red.",
+            "usage": "Accent, the cartouche"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for paper specs and dimensions",
+          "rationale": "One family. Mono carries the technical printing data."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Kelmscott & Caslon",
+        "tagline": "Fine printing in the Morris tradition.",
+        "brandNameRationale": "Kelmscott Press was William Morris's private press at Kelmscott Manor (1891\u201398) \u2014 the foundational Arts & Crafts fine-press operation. Caslon is the foundational English typeface (William Caslon, 1722). Paired with an ampersand, the press lineage and the type lineage ground the brand in 250 years of English fine printing. Both are public-domain historical references.",
+        "industrySummary": "Luxury fine printing at the private-press tier serves the buyer who commissions a single edition \u2014 a poem, a memoir, a wedding book \u2014 printed by hand on dampened cotton. The product is a small permanent catalog of editions, finished by hand, signed by the printer.",
+        "competitorLandscape": "Arion Press (arionpress.com) is the institutional American fine-press benchmark. Foolscap Press (foolscappress.com) holds the considered-American slot. Whittington Press (whittingtonpress.com) is the considered-English peer. We sit between Arion and Whittington with a sharper Kelmscott-and-Caslon framing.",
+        "positioningStatement": "A fine letterpress in the Kelmscott tradition, set in Caslon, printed by hand.",
+        "targetAudience": {
+          "primary": "55 to 80. Collects fine-press editions. Owns at least one Arion Press book. Commissions one edition every two years.",
+          "behaviors": [
+            "Commissions an edition a year",
+            "Travels to the press for the proofing visit",
+            "Pays in three installments over twelve months"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Heritage",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the impression in raking light",
+            "Name the paper and the binder",
+            "Reference completed editions by year"
+          ],
+          "donts": [
+            "Sell ready-made",
+            "Use the word luxury",
+            "Photograph against linen"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Kelmscott & Caslon set in Caslon roman with a small embossed printer's-mark cartouche in the Kelmscott tradition. The cartouche appears on the colophon page of every edition.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#101012",
+            "meaning": "Oil-based press ink.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Cotton Cream",
+            "hex": "#F4EFE3",
+            "meaning": "Dampened cotton stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Kelmscott Red",
+            "hex": "#7E1F1A",
+            "meaning": "Morris rubrication red.",
+            "usage": "Accent, foil"
+          },
+          {
+            "name": "Vellum",
+            "hex": "#EFE3C5",
+            "meaning": "Aged vellum.",
+            "usage": "Certificates"
+          }
+        ],
+        "typography": {
+          "primary": "Adobe Caslon for the wordmark and the editions",
+          "secondary": "Adobe Caslon for body and commission documents",
+          "rationale": "Caslon throughout. The brand is the type lineage."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Quoin",
+        "tagline": "The wedge that holds the form.",
+        "brandNameRationale": "A quoin is the metal wedge that locks the type form in the chase before it goes on the press \u2014 single trade word, single syllable, deeply specific. Single-word naming follows the apothecary-minimal school applied to printing.",
+        "industrySummary": "Minimal printing brands have converged on monoline-sans aesthetics. The opening underneath is a letterpress stripped to the tool that holds the type in place \u2014 the quoin \u2014 with a small permanent catalog of plain printed work.",
+        "competitorLandscape": "Studio On Fire (studioonfire.com) holds the considered-modern letterpress slot. Smock Paper (smockpaper.com) sits in the considered-bamboo peer position. Egg Press (eggpress.com) plays the considered-letterpress peer. We sit closer to Smock with a sharper single-tool focus.",
+        "positioningStatement": "Plain letterpress, stripped to the type form.",
+        "targetAudience": {
+          "primary": "28 to 50. Buys plain printed stationery and posters. Will wait six weeks for the right impression.",
+          "behaviors": [
+            "Measures the impression depth",
+            "Re-orders the same paper stock",
+            "Buys one print every six months"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Patient",
+          "Precise"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the type form",
+            "Name the paper and the press",
+            "Quote the impression depth"
+          ],
+          "donts": [
+            "Use the word minimal as marketing",
+            "Photograph against linen",
+            "Run a sale"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Quoin set in a calm humanist sans, lowercase. A small quoin-wedge mark serves as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Press Black",
+            "hex": "#101012",
+            "meaning": "Oil-based press ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Cotton",
+            "hex": "#F4F1EA",
+            "meaning": "Cotton stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lead Grey",
+            "hex": "#5A6776",
+            "meaning": "Lead type.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark and body",
+          "secondary": "Same family for product specs",
+          "rationale": "One face. The brand is the quoin, not the type."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Morison & Pike Printers",
+        "tagline": "Commercial printing, on schedule.",
+        "brandNameRationale": "Stanley Morison was the typographic adviser to Monotype Corporation (designed Times New Roman, 1932) and the foundational English commercial typographer. Pike is an invented partner surname pulled from the English printing trade. Paired with Printers, the name reads as an established commercial print firm.",
+        "industrySummary": "Commercial printing is a serious B2B category. The buyers are publishers, corporate marketing teams, and packaging procurement managers. The vendors compete on color accuracy, lead time, and on-time delivery across millions of impressions.",
+        "competitorLandscape": "RR Donnelley (rrd.com) is the institutional commercial-printing benchmark. Quad (quad.com) holds the marketing-services peer slot. Sheridan (sheridan.com) is the publisher-printing peer. We sit smaller, sharper on the typographic-quality specification.",
+        "positioningStatement": "Commercial printing for publishers and marketing teams \u2014 color-accurate, on schedule, typographically literate.",
+        "targetAudience": {
+          "primary": "45 to 60. Production directors at publishers and marketing operations VPs at corporate teams.",
+          "behaviors": [
+            "Specifies by ISO color standard",
+            "Requests proofs before the run",
+            "Renews printer panels annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Steady",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the press capability",
+            "Show color-managed proofs",
+            "Quote lead times to the day"
+          ],
+          "donts": [
+            "Use consumer print-shop language",
+            "Run consumer marketing",
+            "Photograph in residential settings"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a stylized chase-and-quoin silhouette. MORISON & PIKE PRINTERS set in Times New Roman, suitable for B2B spec sheets and trade-show banners.",
+        "colorPalette": [
+          {
+            "name": "Press Navy",
+            "hex": "#0F2238",
+            "meaning": "Press-room ink.",
+            "usage": "Logo, primary"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Press proof paper.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Press Steel",
+            "hex": "#5A6776",
+            "meaning": "Press steel.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Proof Red",
+            "hex": "#A8313F",
+            "meaning": "Proofreader's mark.",
+            "usage": "Status indicators"
+          }
+        ],
+        "typography": {
+          "primary": "Times New Roman for the wordmark and headlines",
+          "secondary": "Inter for body and B2B materials",
+          "rationale": "Times for the typographic lineage. Inter for digital legibility."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Ink Devils",
+        "tagline": "Printers, still apprenticing.",
+        "brandNameRationale": "The printer's devil is the apprentice in the print shop \u2014 the boy who fetched type, cleaned the press, and ended up covered in ink. The plural pluralizes the apprenticeship. The brand sits on the lifelong-apprentice posture of the trade.",
+        "industrySummary": "Creative printing has been crowded with overly precious letterpress aesthetics. The opening is for a print shop with a working sense of humor \u2014 posters, zines, broadsides, postcards \u2014 printed on whatever press is open that week.",
+        "competitorLandscape": "Hatch Show Print (hatchshowprint.com) holds the heritage poster-letterpress slot. Yee-Haw Industries (yeehawindustries.com) sits in the considered-creative peer position. Globe Poster (globeposters.com) plays the heritage broadside peer. We sit closer to Yee-Haw with a sharper apprentice's voice.",
+        "positioningStatement": "A creative letterpress shop in the apprentice-and-poster tradition.",
+        "targetAudience": {
+          "primary": "28 to 50. Buys posters and zines. Reads about printing history. Will pay for the impression and the joke.",
+          "behaviors": [
+            "Buys posters by run number",
+            "Reads broadside history",
+            "Re-orders the same paper for the next run"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Warm",
+          "Confident",
+          "Curious"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite the broadside lineage",
+            "Show the press still inked",
+            "Make the apprentice joke explicit"
+          ],
+          "donts": [
+            "Take itself too seriously",
+            "Photograph in pristine galleries",
+            "Hide the spilled ink"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Ink Devils set in a punchy slab serif with a small drawn mark of two ink-stained hands holding a composing stick. The hands alone are the favicon.",
+        "colorPalette": [
+          {
+            "name": "Devil Red",
+            "hex": "#A8313F",
+            "meaning": "Rubrication red.",
+            "usage": "Accent, the mark"
+          },
+          {
+            "name": "Press Black",
+            "hex": "#101012",
+            "meaning": "Oil-based press ink.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Newsprint Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Newsprint stock.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Spot Yellow",
+            "hex": "#D9A441",
+            "meaning": "Process yellow.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Knockout for the wordmark and headlines",
+          "secondary": "GT Sectra for body and broadside copy",
+          "rationale": "Knockout carries the broadside voice. Sectra handles the longer-form essays."
+        }
+      }
+    ]
+  }
+}

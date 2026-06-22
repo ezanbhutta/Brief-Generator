@@ -1,0 +1,327 @@
+{
+  "industry": "knitting",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Yoke & Gauge",
+        "tagline": "Round-yoke sweaters at the right gauge.",
+        "brandNameRationale": "The circular yoke is the structural shoulder construction of the Lopapeysa, the Bohus, and modern top-down sweater design. The gauge is the foundational measurement \u2014 stitches per inch \u2014 that every garment depends on. Paired with an ampersand they ground the brand entirely in knit-trade vocabulary.",
+        "industrySummary": "Modern knitwear has split between mass-import sweaters and a small considered-knit cohort of independent designers. The opening is for a brand that puts the circular yoke and the gauge swatch in the brand position and builds a small permanent catalog from yoke-led designs.",
+        "competitorLandscape": "Andrea Mowry (drea.renee.knits) holds the considered-modern knit-designer slot. Brooklyn Tweed (brooklyntweed.com) sits in the design-led yarn-and-pattern tier. Quince & Co. (quinceandco.com) plays the considered-modern peer. We sit closer to Brooklyn Tweed with a sharper yoke focus.",
+        "positioningStatement": "A modern knit brand organized around the circular yoke and a published gauge.",
+        "targetAudience": {
+          "primary": "28 to 55. Knits one sweater a year. Reads Pom Pom Quarterly. Will rip back twenty rows to fix a gauge error.",
+          "behaviors": [
+            "Knits a swatch before the sweater",
+            "Subscribes to pattern PDFs",
+            "Re-knits the same yoke in three colorways"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Precise",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Publish the gauge with every pattern",
+            "Show the yoke flat-laid",
+            "Name the wool and the spinner"
+          ],
+          "donts": [
+            "Use the word cozy",
+            "Photograph sweaters at golden hour",
+            "Run a flash sale"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Yoke & Gauge set in a calm modern grotesk, with a small circular-yoke geometry mark beside the word. The mark alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Heather",
+            "hex": "#8B95A3",
+            "meaning": "Undyed wool heather.",
+            "usage": "Wordmark, primary"
+          },
+          {
+            "name": "Swatch Cream",
+            "hex": "#F4EFE3",
+            "meaning": "Gauge-swatch paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Stitch Red",
+            "hex": "#A8313F",
+            "meaning": "Stitch marker.",
+            "usage": "Accent, the mark"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for gauges and yarn weights",
+          "rationale": "One family. Mono carries the technical knit data."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Aran & Hebrides",
+        "tagline": "Hand-knit, from two islands.",
+        "brandNameRationale": "The Aran Islands (Galway, Ireland) gave the world the Aran cable-and-bobble sweater; the Hebrides (Outer, Scotland) gave the world Harris Tweed and Hebridean wool. Paired with an ampersand, the two place-anchors signal a hand-knit brand rooted in two of the great British and Irish wool islands. Both are public-domain geographic references.",
+        "industrySummary": "Luxury knitwear at the hand-knit tier serves the buyer who wants one cardigan a year, made by a named knitter, from named wool. The product is a single garment per commission, finished by hand, signed by the maker.",
+        "competitorLandscape": "Inis Me\u00e1in (inismeain.ie) is the institutional Aran-luxury benchmark. Harley of Scotland (harleyofscotland.com) holds the considered-Scottish slot. Jamieson's of Shetland (jamiesonsofshetland.co.uk) is the Shetland-luxury peer. We sit between Inis Me\u00e1in and Jamieson's with a hand-knit specialty.",
+        "positioningStatement": "Hand-knit cardigans and pullovers from named knitters on the Aran Islands and the Hebrides.",
+        "targetAudience": {
+          "primary": "50 to 75. Owns at least one Inis Me\u00e1in piece. Travels to Ireland or Scotland each spring. Pays for the wool and the hands.",
+          "behaviors": [
+            "Visits the islands annually",
+            "Names the knitter on the garment label",
+            "Re-orders the same cable pattern in three colors"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Refined",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the knitter and the island",
+            "Speak in cable-pattern vocabulary",
+            "Reference completed commissions by year"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Photograph in styled rooms",
+            "Run a sale"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 Aran & Hebrides set in a classical roman with a small embossed cable-knit mark. The mark appears on every garment label and on the printed island monograph.",
+        "colorPalette": [
+          {
+            "name": "Aran Cream",
+            "hex": "#EFE9DB",
+            "meaning": "Undyed Aran wool.",
+            "usage": "Primary, wordmark backgrounds"
+          },
+          {
+            "name": "Hebridean Slate",
+            "hex": "#3C434A",
+            "meaning": "Hebridean rock.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Peat",
+            "hex": "#5C3A22",
+            "meaning": "Island peat.",
+            "usage": "Accent, the mark"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and the island monograph",
+          "secondary": "Adobe Garamond for body and commission documents",
+          "rationale": "Canela carries the island-heritage display tradition. Garamond keeps documentation warm."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Skein.",
+        "tagline": "Yarn, by the skein.",
+        "brandNameRationale": "A skein is the loose coil of yarn the spinner ships before it's wound into a ball \u2014 single archaic trade word, six letters, terminal period. The brand is the unit of yarn itself.",
+        "industrySummary": "Minimal yarn brands have converged on jewel-tone marketing. The opening underneath is a yarn shop stripped to the unit of trade \u2014 the skein \u2014 sold in undyed and naturally dyed colorways with the spinner named on every label.",
+        "competitorLandscape": "Brooklyn Tweed (brooklyntweed.com) holds the considered-American spinner slot. De Rerum Natura (dererumnatura.fr) sits in the considered-French peer position. Tukuwool (tukuwool.fi) plays the Finnish naturally dyed peer. We sit closer to Tukuwool with a sharper single-skein framing.",
+        "positioningStatement": "Naturally dyed and undyed yarn, sold by the skein, with the spinner named.",
+        "targetAudience": {
+          "primary": "28 to 55. Knits two sweaters a year. Owns a yarn swift. Reads ply structure on the label.",
+          "behaviors": [
+            "Weighs every skein before casting on",
+            "Re-orders the same dye lot in three colors",
+            "Keeps a notebook of swatches"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Patient",
+          "Precise"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the spinner and the breed",
+            "Print the yardage and the ply",
+            "Show the skein twisted"
+          ],
+          "donts": [
+            "Use the word artisan",
+            "Photograph yarn against linen",
+            "Run a sale"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Skein. set in a calm humanist sans, lowercase, terminal period. A small twisted-skein mark serves as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Undyed",
+            "hex": "#EFE9DD",
+            "meaning": "Undyed sheep's wool.",
+            "usage": "Primary, wordmark backgrounds"
+          },
+          {
+            "name": "Walnut Dye",
+            "hex": "#5C3A22",
+            "meaning": "Walnut-hull natural dye.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Indigo Vat",
+            "hex": "#1F2A40",
+            "meaning": "Natural indigo.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark and body",
+          "secondary": "Same family for ball-band labels",
+          "rationale": "One face. The brand is the skein, not the type."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Fair Isle Mills",
+        "tagline": "Knitwear at trade scale.",
+        "brandNameRationale": "Fair Isle is the small Shetland island whose colorwork knitting tradition became the generic name for two-color stranded knitting worldwide \u2014 public-domain geographic and technique term. Mills closes it as a serious knitwear manufacturer at trade scale.",
+        "industrySummary": "Knitwear manufacturing is a serious B2B category. The buyers are heritage outdoor brands, department stores, and uniform programs. The vendors compete on yarn sourcing, gauge consistency, and on-time delivery across thousands of garments.",
+        "competitorLandscape": "Johnstons of Elgin (johnstonsofelgin.com) is the institutional Scottish knit-mill benchmark. Hawick Knitwear (hawickknitwear.com) holds the contract-knit slot. William Lockie (williamlockie.co.uk) is the heritage-mill peer. We sit smaller, sharper on the Fair Isle and stranded-colorwork specification.",
+        "positioningStatement": "Contract knitwear manufacturing in the Fair Isle and stranded-colorwork tradition.",
+        "targetAudience": {
+          "primary": "45 to 60. Heads of Sourcing and Production at heritage outdoor brands, department stores, and uniform programs.",
+          "behaviors": [
+            "Specifies by yarn weight and gauge",
+            "Requests sample sweaters before the order",
+            "Renews mill panels annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Steady",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the gauge sheet",
+            "Show colorwork sample swatches",
+            "Quote on-time delivery by week"
+          ],
+          "donts": [
+            "Use consumer knit-blog language",
+            "Run consumer marketing",
+            "Photograph in residential settings"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a stranded-colorwork pattern reduced to two crossing strokes. FAIR ISLE MILLS set in a tight modern grotesk, suitable for B2B spec sheets and trade-show banners.",
+        "colorPalette": [
+          {
+            "name": "Mill Navy",
+            "hex": "#0F2238",
+            "meaning": "Heritage mill livery.",
+            "usage": "Logo, primary surfaces"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Spec-sheet paper.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Heather Steel",
+            "hex": "#5A6776",
+            "meaning": "Heathered yarn.",
+            "usage": "Body, dividers"
+          },
+          {
+            "name": "Mill Red",
+            "hex": "#A8313F",
+            "meaning": "Mill mark-up.",
+            "usage": "Status indicators"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed gauge books and RFPs",
+          "rationale": "Inter scales clean across digital. The serif handles printed mill documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Wool Gathering",
+        "tagline": "Slow knitting. Out loud.",
+        "brandNameRationale": "Wool-gathering is the idiom for daydreaming \u2014 the mind wandering as the hands knit \u2014 and the literal act of collecting wool from hedgerows in the British wool trade. The pun runs both ways. The brand sits on the pleasure of the slow craft.",
+        "industrySummary": "Creative knitting brands have crowded the social-media-pattern space. The opening underneath is for a brand that treats knitting as a slow daily practice, with a printed annual journal of patterns, essays, and dye-day notes.",
+        "competitorLandscape": "Pom Pom Quarterly (pompommag.com) holds the design-led-quarterly slot. Laine Magazine (lainepublishing.com) sits in the considered-Nordic-knit-publication tier. Making Magazine (makingzine.com) plays the considered-craft-journal peer. We sit beside Laine with a sharper essayist's voice.",
+        "positioningStatement": "A creative knit brand publishing an annual pattern-and-essay journal in the wool-gathering tradition.",
+        "targetAudience": {
+          "primary": "30 to 55. Reads about knitting between rows. Owns the Elizabeth Zimmermann books. Will spend a year on one sweater.",
+          "behaviors": [
+            "Subscribes to print knit journals",
+            "Knits in public",
+            "Re-reads Mary Thomas"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Curious",
+          "Considered",
+          "Slow"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Tell the story between the pattern and the wool",
+            "Name the dye day and the dyer",
+            "Make the gathering metaphor explicit"
+          ],
+          "donts": [
+            "Use the word craft as marketing",
+            "Photograph wool against linen",
+            "Run a Black Friday sale"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Wool Gathering set in a warm humanist serif with a small drawn mark of two hands lifting a tangle of yarn. The hands alone are the favicon.",
+        "colorPalette": [
+          {
+            "name": "Hedge Green",
+            "hex": "#3F5141",
+            "meaning": "Hedgerow.",
+            "usage": "Wordmark"
+          },
+          {
+            "name": "Fleece Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Raw fleece.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Madder Red",
+            "hex": "#A8313F",
+            "meaning": "Madder-root natural dye.",
+            "usage": "Accent, the mark"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1A1A1A",
+            "meaning": "Anchor.",
+            "usage": "Body type"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "GT America for body and pattern instructions",
+          "rationale": "Sectra carries the essay voice. America handles the technical pattern data."
+        }
+      }
+    ]
+  }
+}

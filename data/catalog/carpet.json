@@ -1,0 +1,333 @@
+{
+  "industry": "carpet",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Warp & Weft",
+        "tagline": "Hand-woven, structurally honest.",
+        "brandNameRationale": "Warp and weft are the two foundational thread structures of any woven textile \u2014 the longitudinal warp threads and the lateral weft threads. Paired with an ampersand they ground the brand entirely in weaving vocabulary. Note: this brand sits in the carpet-and-rug category; the same two-word structure has been used as a textile reference elsewhere, but Warp & Weft as a carpet brand is distinct.",
+        "industrySummary": "Modern carpets and rugs have split between mass-import production and a small considered-handweave cohort. The opening is for a brand that puts the warp-and-weft structure in the brand position and builds a small permanent catalog of flatweaves and pile rugs.",
+        "competitorLandscape": "Armadillo (armadillo-co.com) holds the considered-modern handweave slot. Nordic Knots (nordicknots.com) sits in the design-led DTC tier. Beni Rugs (benirugs.com) plays the Moroccan-handweave peer. We sit closer to Armadillo with a sharper structural-honesty framing.",
+        "positioningStatement": "A modern carpet brand organized around the visible structure of the weave.",
+        "targetAudience": {
+          "primary": "32 to 55. Owns one home. Knows the difference between flatweave and pile. Buys one rug every three years.",
+          "behaviors": [
+            "Studies the back of the rug as carefully as the front",
+            "Asks for the knot count",
+            "Will wait six months for the right size"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Materials-led",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the back of the rug",
+            "Name the wool and the weaver",
+            "Quote the knot count per square inch"
+          ],
+          "donts": [
+            "Use the word boho",
+            "Photograph in styled lofts",
+            "Run a flash sale"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Warp & Weft set in a clean modern grotesk, with a small two-direction thread mark beside the word. The mark alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Undyed Wool",
+            "hex": "#EFE9DD",
+            "meaning": "Undyed warp.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Madder",
+            "hex": "#A8313F",
+            "meaning": "Madder-root natural dye.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Indigo",
+            "hex": "#1F2A40",
+            "meaning": "Natural indigo weft.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for knot counts and dimensions",
+          "rationale": "One family. Mono carries the technical weave data."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Hammersmith Rug",
+        "tagline": "Morris's rugs, still woven.",
+        "brandNameRationale": "The Hammersmith rugs were William Morris's hand-knotted carpet line, woven at Merton Abbey from 1881 \u2014 the foundational Arts & Crafts response to industrial carpet manufacture. The line is historic and public-domain (the William Morris Society holds adjacent marks but not the Hammersmith Rug name). The definite article positions the brand as the singular reference.",
+        "industrySummary": "Luxury carpets at the hand-knotted Arts & Crafts tier serve the collector who commissions a single rug for a specific room. The product is one rug per commission, finished by hand, signed by the weaver.",
+        "competitorLandscape": "Christopher Farr (christopherfarr.com) holds the considered-Arts-and-Crafts slot. Doris Leslie Blau (dorisleslieblau.com) is the antique-rug peer. The Rug Company (therugcompany.com) plays the designer-commissioned peer. We sit between Christopher Farr and Doris Leslie Blau with a sharper Hammersmith-tradition framing.",
+        "positioningStatement": "Hand-knotted carpets in the Hammersmith Rugs tradition of William Morris.",
+        "targetAudience": {
+          "primary": "55 to 80. Multi-generational collector. Owns at least one Morris-tradition textile. Commissions a single rug for a specific room.",
+          "behaviors": [
+            "Commissions one rug a year",
+            "Travels to the workshop for the dye visit",
+            "Pays in three installments over eighteen months"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Refined",
+          "Patient",
+          "Heritage",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the dye plant and the weaver",
+            "Speak in the language of madder and weld",
+            "Reference completed commissions by year"
+          ],
+          "donts": [
+            "Sell ready-made",
+            "Use the word luxury",
+            "Photograph in styled rooms"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 The Hammersmith Rug set in a classical roman with a small embossed mark of a Morris-tradition pattern. The mark appears on the back of every rug and on the printed commission certificate.",
+        "colorPalette": [
+          {
+            "name": "Madder",
+            "hex": "#A8313F",
+            "meaning": "Madder-root natural dye.",
+            "usage": "Accent, foil"
+          },
+          {
+            "name": "Weld Gold",
+            "hex": "#A6843D",
+            "meaning": "Weld natural dye.",
+            "usage": "The mark, foil"
+          },
+          {
+            "name": "Indigo",
+            "hex": "#1F2A40",
+            "meaning": "Natural indigo.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Hand-laid paper.",
+            "usage": "Certificates"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and certificates",
+          "secondary": "Adobe Garamond for body and commission documents",
+          "rationale": "Canela carries the Arts & Crafts display tradition. Garamond keeps documentation warm."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Knot.",
+        "tagline": "The unit of the rug.",
+        "brandNameRationale": "A knot is the unit of construction in a hand-knotted carpet \u2014 the single tied loop on the warp. Single trade word, single syllable, terminal period. The brand is the unit.",
+        "industrySummary": "Minimal carpet brands have converged on the same neutral palette. The opening underneath is a hand-knot rug brand stripped to the unit itself \u2014 the knot \u2014 with a small permanent catalog of plain undyed rugs.",
+        "competitorLandscape": "Armadillo (armadillo-co.com) holds the considered-modern handweave peer slot. Nani Marquina (nanimarquina.com) sits in the considered-Spanish peer position. The Citizenry (the-citizenry.com) plays the considered-modern peer. We sit closer to Nani Marquina with a sharper single-unit focus.",
+        "positioningStatement": "Hand-knot rugs in undyed wool, sold by the knot count.",
+        "targetAudience": {
+          "primary": "30 to 55. Owns a small home. Studies the back of the rug. Will wait nine months for the right size.",
+          "behaviors": [
+            "Measures the room three times before ordering",
+            "Studies the knot count, not the pattern",
+            "Buys one rug every five years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Patient",
+          "Precise"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the knot count on the page",
+            "Name the wool and the weaver",
+            "Quote the knots per square inch"
+          ],
+          "donts": [
+            "Use the word minimal as marketing",
+            "Photograph in styled rooms",
+            "Run a sale"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Knot. set in a calm humanist sans, lowercase, terminal period. A small drawn knot mark serves as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Undyed",
+            "hex": "#EFE9DD",
+            "meaning": "Undyed wool.",
+            "usage": "Primary, backgrounds"
+          },
+          {
+            "name": "Walnut",
+            "hex": "#5C3A22",
+            "meaning": "Walnut-hull natural dye.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Indigo",
+            "hex": "#1F2A40",
+            "meaning": "Natural indigo.",
+            "usage": "Accent"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark and body",
+          "secondary": "Same family for product specs",
+          "rationale": "One face. The brand is the knot, not the type."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Senneh & Ghiordes Rug Co.",
+        "tagline": "Hand-knotted carpets at trade scale.",
+        "brandNameRationale": "Senneh (the Persian asymmetric knot) and Ghiordes (the Turkish symmetric knot) are the two foundational knot constructions of hand-knotted carpets \u2014 public-domain technique names from the trade. Paired with Rug Co., the name reads as an established hand-knot rug importer and trade supplier.",
+        "industrySummary": "Hand-knotted carpet importing is a serious B2B category. The buyers are interior design firms, hospitality procurement, and high-end retail. The vendors compete on knot-count specification, lead time, and dye-lot consistency.",
+        "competitorLandscape": "Stark Carpet (starkcarpet.com) is the institutional designer-trade benchmark. Tufenkian (tufenkian.com) holds the considered-handknot slot. Bunny Williams Home (bunnywilliamshome.com) plays the designer-retail peer. We sit smaller, sharper on the knot-construction specification.",
+        "positioningStatement": "Hand-knotted carpet importing for the trade \u2014 Senneh and Ghiordes constructions specified by knot count.",
+        "targetAudience": {
+          "primary": "45 to 60. Interior designers, hospitality procurement managers, and high-end retail buyers.",
+          "behaviors": [
+            "Specifies by knot count and pile height",
+            "Requests sample swatches before the order",
+            "Renews vendor panels annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Steady",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the knot-construction spec",
+            "Show sample swatches in raking light",
+            "Quote lead times to the week"
+          ],
+          "donts": [
+            "Use consumer rug-blog language",
+            "Run consumer marketing",
+            "Photograph in residential settings"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a stylized Senneh-and-Ghiordes knot comparison. SENNEH & GHIORDES RUG CO. set in a tight modern grotesk, suitable for B2B spec sheets and showroom signage.",
+        "colorPalette": [
+          {
+            "name": "Showroom Navy",
+            "hex": "#0F2238",
+            "meaning": "Trade-showroom livery.",
+            "usage": "Logo, primary"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Spec-sheet paper.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Madder",
+            "hex": "#A8313F",
+            "meaning": "Madder-root dye.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Indigo",
+            "hex": "#1F2A40",
+            "meaning": "Natural indigo.",
+            "usage": "Body, dividers"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed spec books and RFPs",
+          "rationale": "Inter scales clean across digital. The serif handles printed trade documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Lopsided Medallion",
+        "tagline": "The medallion. Slightly off.",
+        "brandNameRationale": "The medallion is the central motif of the classical Persian carpet \u2014 the perfectly symmetrical anchor that organizes the whole field. The Lopsided Medallion is the wabi-sabi inversion: the medallion that's slightly off-center, the carpet with character. The brand sits on the imperfection.",
+        "industrySummary": "Creative carpet brands have crowded the maximalist-pattern space. The opening is for a brand that celebrates the slight asymmetry of the hand-woven medallion \u2014 the rug that wasn't ruled by a CAD file.",
+        "competitorLandscape": "Beni Rugs (benirugs.com) holds the Moroccan-handweave slot. Cold Picnic (coldpicnic.com) sits in the considered-modern peer position. Pampa (pampa.com.au) plays the considered-creative peer. We sit closer to Pampa with a sharper imperfection framing.",
+        "positioningStatement": "A creative carpet brand built on the slight asymmetry of the hand-woven medallion.",
+        "targetAudience": {
+          "primary": "30 to 50. Buys one rug every two years. Reads about Persian and Moroccan traditions. Wants character, not perfection.",
+          "behaviors": [
+            "Studies the medallion off-center",
+            "Buys at design fairs",
+            "Re-orders the same dye lot for a second room"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Warm",
+          "Confident",
+          "Curious"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the off-center on the page",
+            "Name the weaver and the village",
+            "Make the imperfection explicit"
+          ],
+          "donts": [
+            "Use the word boho as marketing",
+            "Photograph in styled lofts",
+            "Photoshop the medallion back to center"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 The Lopsided Medallion set in a warm humanist serif with a small drawn mark of an off-center medallion. The medallion alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Madder",
+            "hex": "#A8313F",
+            "meaning": "Madder-root natural dye.",
+            "usage": "Accent, the mark"
+          },
+          {
+            "name": "Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Undyed wool ground.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pomegranate",
+            "hex": "#7E1F1A",
+            "meaning": "Pomegranate-skin dye.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Indigo",
+            "hex": "#1F2A40",
+            "meaning": "Natural indigo.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and headlines",
+          "secondary": "GT America for body and product descriptions",
+          "rationale": "Sectra carries the warmth. America handles the technical weave data."
+        }
+      }
+    ]
+  }
+}

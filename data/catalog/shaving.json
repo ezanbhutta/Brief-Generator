@@ -1,0 +1,327 @@
+{
+  "industry": "shaving",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Strop & Lather",
+        "tagline": "Wet shaving, properly equipped.",
+        "brandNameRationale": "The strop is the leather strip used to realign the edge of a straight razor between honings; lather is what the badger brush whips up from the shaving soap. Paired with an ampersand, the two trade objects ground the brand entirely in wet-shaving vocabulary.",
+        "industrySummary": "Modern men's grooming has split between cartridge-razor mass brands and a small considered-wet-shaving cohort. The opening is for a brand that puts the strop and the lather bowl in the brand position and sells a small permanent kit.",
+        "competitorLandscape": "Bevel (getbevel.com) holds the considered-modern Black grooming slot. Harry's (harrys.com) is the cartridge-DTC peer. Edwin Jagger (edwinjagger.com) plays the heritage wet-shaving peer. We sit closer to Edwin Jagger in posture with a sharper DTC framing.",
+        "positioningStatement": "A modern wet-shaving brand organized around the strop, the brush, and the bowl.",
+        "targetAudience": {
+          "primary": "30 to 55. Has switched from a cartridge razor in the last five years. Reads Sharpologist. Owns a badger brush.",
+          "behaviors": [
+            "Strops the razor before every shave",
+            "Re-orders the same soap in three scents",
+            "Sharpens his own knives too"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Considered",
+          "Modern",
+          "Materials-led",
+          "Quiet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the strop and the bowl on the page",
+            "Name the badger grade and the soap base",
+            "Recommend the rotation"
+          ],
+          "donts": [
+            "Use the word manly",
+            "Photograph in dark wood-paneled rooms",
+            "Run a holiday-gift bundle"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 Strop & Lather set in a clean modern grotesk, with a small drawn mark of a leather strop hanging over a lather bowl. The mark alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Strop Tan",
+            "hex": "#A87C4A",
+            "meaning": "Vegetable-tanned leather strop.",
+            "usage": "Accent, the mark"
+          },
+          {
+            "name": "Lather White",
+            "hex": "#F4F1EA",
+            "meaning": "Whipped lather.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Blade Steel",
+            "hex": "#3C434A",
+            "meaning": "Razor steel.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "S\u00f6hne for the wordmark and headlines",
+          "secondary": "S\u00f6hne Mono for product specs and blade dimensions",
+          "rationale": "One family. Mono carries the technical razor data."
+        }
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "The Mug & Mirror",
+        "tagline": "The shaving ritual, restored.",
+        "brandNameRationale": "The shaving mug holds the soap puck; the mirror is what the gentleman faced each morning. Paired with the definite article, they name the two objects of the inherited dressing-table shaving ritual. The brand is the ritual.",
+        "industrySummary": "Luxury men's grooming at the inherited-shaving-kit tier serves the buyer who wants the full ritual \u2014 strop, mug, brush, mirror, soap \u2014 in a single drawer. The product is a small permanent kit, finished by hand, signed by the maker.",
+        "competitorLandscape": "D.R. Harris (drharris.co.uk) is the institutional St. James's grooming benchmark. Acca Kappa (accakappa.com) holds the considered-Italian slot. Penhaligon's (penhaligons.com) plays the heritage-fragrance-and-shaving peer. We sit between D.R. Harris and Acca Kappa with a sharper ritual-object framing.",
+        "positioningStatement": "A heritage shaving house organized around the inherited dressing-table ritual.",
+        "targetAudience": {
+          "primary": "50 to 75. Inherited his grandfather's razor. Travels to St. James's. Pays for the soap, the brush, and the mirror.",
+          "behaviors": [
+            "Re-orders the same soap puck twice a year",
+            "Has the brush re-knotted every five years",
+            "Names his razor by maker"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Refined",
+          "Patient",
+          "Discreet"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the soap base and the brush knot",
+            "Speak in the language of the ritual",
+            "Reference completed commissions by year"
+          ],
+          "donts": [
+            "Use the word luxury",
+            "Photograph in styled rooms",
+            "Run a Black Friday sale"
+          ]
+        },
+        "logoDirection": "A serif wordmark \u2014 The Mug & Mirror set in a classical roman with a small embossed mark of a mug-and-mirror silhouette. The mark appears on the soap label and the printed ritual guide.",
+        "colorPalette": [
+          {
+            "name": "Soap Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Tallow-soap puck.",
+            "usage": "Primary, backgrounds"
+          },
+          {
+            "name": "Mahogany",
+            "hex": "#5C3A22",
+            "meaning": "Mahogany dressing-table.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Brass",
+            "hex": "#A6843D",
+            "meaning": "Brass shaving-mirror.",
+            "usage": "Accent, foil, the mark"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and the ritual guide",
+          "secondary": "Adobe Garamond for body and commission documents",
+          "rationale": "Canela carries the dressing-table display tradition. Garamond keeps documentation warm."
+        }
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Strop.",
+        "tagline": "The strip of leather.",
+        "brandNameRationale": "A strop is the strip of leather used to realign the edge of a straight razor \u2014 single trade word, single syllable, terminal period. The brand is the object.",
+        "industrySummary": "Minimal grooming brands have converged on pharmacy-white aesthetic. The opening underneath is a wet-shaving brand stripped to the tool itself \u2014 the strop \u2014 sold with the soap, the brush, and nothing else.",
+        "competitorLandscape": "Frama Apothecary (framacph.com) holds the considered-Nordic apothecary peer slot. Aesop (aesop.com) sits in the considered-minimal grooming tier. Le Labo (lelabo.com) plays the considered-minimal scent peer. We sit closer to Frama with a sharper single-tool focus.",
+        "positioningStatement": "Wet shaving stripped to the strop, the soap, and the brush.",
+        "targetAudience": {
+          "primary": "30 to 50. Owns one razor. Will pay for the right strop and use it for twenty years.",
+          "behaviors": [
+            "Strops the razor before every shave",
+            "Re-orders the same soap puck twice a year",
+            "Buys one tool every five years"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Plain",
+          "Honest",
+          "Patient",
+          "Precise"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the strop hanging",
+            "Name the leather and the tannery",
+            "Quote the strop length"
+          ],
+          "donts": [
+            "Use the word ritual as marketing",
+            "Photograph against linen",
+            "Run a sale"
+          ]
+        },
+        "logoDirection": "A wordmark only \u2014 Strop. set in a calm humanist sans, lowercase, terminal period. A small drawn strop mark serves as the favicon.",
+        "colorPalette": [
+          {
+            "name": "Strop Tan",
+            "hex": "#A87C4A",
+            "meaning": "Vegetable-tanned leather.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F1EA",
+            "meaning": "Pharmacy paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Blade Steel",
+            "hex": "#3C434A",
+            "meaning": "Razor steel.",
+            "usage": "Wordmark, body"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for the wordmark and body",
+          "secondary": "Same family for product specs",
+          "rationale": "One face. The brand is the strop, not the type."
+        }
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Bay Rum Grooming Co.",
+        "tagline": "Heritage grooming, contract manufactured.",
+        "brandNameRationale": "Bay rum is the heritage post-shave tonic \u2014 bay leaves, rum, and spice \u2014 that defined Caribbean and English barbershop grooming from the 19th century onward. Naming the firm after the foundational tonic and closing with Grooming Co. signals an old-firm contract grooming manufacturer.",
+        "industrySummary": "Contract grooming manufacturing is a serious B2B category. The buyers are barber-shop chains, hotel amenity programs, and private-label brand operators. The vendors compete on formula stability, fill capacity, and bottle sourcing.",
+        "competitorLandscape": "Coty (coty.com) is the institutional grooming-manufacturer benchmark. Voyant Beauty (voyantbeauty.com) holds the contract-manufacturing slot. KIK Custom Products (kikcorp.com) plays the private-label peer. We sit smaller, sharper on the heritage-tonic formulary.",
+        "positioningStatement": "Contract grooming manufacturing organized around heritage formulas \u2014 bay rum, tallow soap, alum, witch hazel.",
+        "targetAudience": {
+          "primary": "45 to 60. Heads of Sourcing and Brand Operations at hotel amenity programs, barber-shop chains, and private-label brand operators.",
+          "behaviors": [
+            "Specifies by formula and ingredient list",
+            "Requests fill samples before the order",
+            "Renews supplier panels annually"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Capable",
+          "Steady",
+          "Professional"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with the formulary sheet",
+            "Show fill capacity and bottle options",
+            "Quote lead times to the week"
+          ],
+          "donts": [
+            "Use consumer grooming language",
+            "Run consumer marketing",
+            "Photograph in residential settings"
+          ]
+        },
+        "logoDirection": "A wordmark with a small geometric mark \u2014 a stylized bay-leaf silhouette beside a tonic bottle. BAY RUM GROOMING CO. set in a tight modern grotesk, suitable for B2B spec sheets and trade-show banners.",
+        "colorPalette": [
+          {
+            "name": "Tonic Navy",
+            "hex": "#0F2238",
+            "meaning": "Heritage tonic bottle.",
+            "usage": "Logo, primary"
+          },
+          {
+            "name": "Bone",
+            "hex": "#F2EFE8",
+            "meaning": "Spec-sheet paper.",
+            "usage": "Backgrounds, slides"
+          },
+          {
+            "name": "Bay Leaf",
+            "hex": "#3F5141",
+            "meaning": "Bay leaf.",
+            "usage": "Accent, dividers"
+          },
+          {
+            "name": "Mill Red",
+            "hex": "#A8313F",
+            "meaning": "Mill mark-up.",
+            "usage": "Status indicators"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for marketing and B2B materials",
+          "secondary": "Source Serif Pro for printed formulary books and RFPs",
+          "rationale": "Inter scales clean across digital. The serif handles printed formulary documentation."
+        }
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "The Smiling Badger",
+        "tagline": "Shave well. Smile after.",
+        "brandNameRationale": "The badger-hair brush is the foundational wet-shave tool \u2014 the badger is the unlikely mascot. The Smiling Badger pairs the working tool with a friendly face, signaling a grooming brand with character rather than gravitas.",
+        "industrySummary": "Creative grooming brands have crowded the apothecary-aesthetic space. The opening underneath is for a brand with an actual mascot \u2014 a smiling badger \u2014 and a small permanent kit sold with a sense of humor.",
+        "competitorLandscape": "Dr. Squatch (drsquatch.com) holds the playful-DTC slot. Duke Cannon (dukecannon.com) sits in the heritage-humor peer position. Beardbrand (beardbrand.com) plays the considered-modern peer. We sit closer to Duke Cannon with a sharper mascot framing.",
+        "positioningStatement": "A creative wet-shaving brand with the badger brush as the brand mascot.",
+        "targetAudience": {
+          "primary": "28 to 50. Switched from cartridge in the last five years. Reads beard-and-shave forums. Will pay for the right brush and use it for a decade.",
+          "behaviors": [
+            "Names his brush",
+            "Posts the shave on Reddit",
+            "Re-orders the same soap in three scents"
+          ]
+        },
+        "brandPersonalityTraits": [
+          "Witty",
+          "Warm",
+          "Confident",
+          "Honest"
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the badger on every product",
+            "Speak in plain words",
+            "Make the badger joke explicit"
+          ],
+          "donts": [
+            "Take itself too seriously",
+            "Photograph in dark wood-paneled rooms",
+            "Run a 'man cave' campaign"
+          ]
+        },
+        "logoDirection": "A wordmark \u2014 The Smiling Badger set in a punchy display sans with a small drawn mark of a smiling badger holding a brush. The badger alone is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Badger Black",
+            "hex": "#1A1A1A",
+            "meaning": "Badger fur.",
+            "usage": "Wordmark, body"
+          },
+          {
+            "name": "Badger White",
+            "hex": "#F4F1EA",
+            "meaning": "Badger stripe.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Lather Cream",
+            "hex": "#F2EDDF",
+            "meaning": "Whipped lather.",
+            "usage": "Packaging"
+          },
+          {
+            "name": "Soap Mustard",
+            "hex": "#D9A441",
+            "meaning": "Tallow soap.",
+            "usage": "Accent, the mark"
+          }
+        ],
+        "typography": {
+          "primary": "PP Mori for the wordmark and headlines",
+          "secondary": "GT Sectra for product descriptions",
+          "rationale": "Mori carries the wit. Sectra makes the soap notes feel like a small barbershop journal."
+        }
+      }
+    ]
+  }
+}
