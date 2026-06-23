@@ -69,6 +69,17 @@ export async function POST(req: Request) {
         { status: 404 },
       );
     }
+    if (r.reason === "cell-exhausted") {
+      return NextResponse.json(
+        {
+          error: `Every ${style} brief for ${r.matchedIndustry?.label ?? industry} is already on the sheet. Try a different style — or remove one from the sheet to free it up.`,
+          reason: "cell-exhausted",
+          matchedIndustry: r.matchedIndustry,
+          availableIndustries: r.availableIndustries,
+        },
+        { status: 404 },
+      );
+    }
     return NextResponse.json(
       {
         error: `No ${style} briefs available yet for ${r.matchedIndustry?.label ?? industry}.`,
