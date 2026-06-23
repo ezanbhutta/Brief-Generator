@@ -16,7 +16,7 @@ export interface PickResult {
 }
 
 export interface NoMatchResult {
-  reason: "industry-unknown" | "cell-empty" | "catalog-empty";
+  reason: "industry-unknown" | "cell-empty" | "cell-exhausted" | "catalog-empty";
   matchedIndustry?: IndustryEntry;
   availableIndustries: string[];
 }
@@ -152,16 +152,16 @@ export async function pickBrief(
   // Combine: per-browser "seen" exclusions + global "already in sheet" exclusions.
   const allExclude = Array.from(new Set([...excludeIds, ...usedIds]));
 
-  // Try with everything excluded first. If every brief in the cell is
-  // excluded, fall back to per-browser only, then to nothing.
+  // Strict: never serve a brief that's on the sheet. If the per-browser seen
+  // list empties the result, drop seen — but NEVER drop usedIds.
   let row = await fetchOneBrief(match.entry.key, style, allExclude);
-  if (!row) row = await fetchOneBrief(match.entry.key, style, excludeIds);
-  if (!row) row = await fetchOneBrief(match.entry.key, style, []);
+  if (!row) row = await fetchOneBrief(match.entry.key, style, usedIds);
   if (!row) {
+    // Every brief in this cell is already on the sheet.
     return {
       ok: false,
       data: {
-        reason: "cell-empty",
+        reason: "cell-exhausted",
         matchedIndustry: match.entry,
         availableIndustries: available,
       },
