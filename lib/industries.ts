@@ -155,6 +155,7 @@ export const INDUSTRIES: IndustryEntry[] = [
   { key: "pet-grooming", label: "Pet Grooming", aliases: ["pet grooming", "dog grooming", "groomer", "pet salon", "dog wash", "grooming"] },
   { key: "video-production", label: "Video Production", aliases: ["video production", "video studio", "film production", "post-production", "video brand"] },
   { key: "escape-room", label: "Escape Rooms & Live Games", aliases: ["escape room", "escape rooms", "live game", "immersive game", "puzzle room"] },
+  { key: "art", label: "Art & Galleries", aliases: ["art", "art gallery", "gallery", "art dealer", "fine art", "contemporary art", "art advisory", "art fair", "artist", "art industry"] },
 ];
 
 export const INDUSTRY_KEYS = INDUSTRIES.map((i) => i.key);
