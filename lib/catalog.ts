@@ -77,6 +77,40 @@ async function logPendingIndustry(raw: string): Promise<void> {
   }
 }
 
+// Log an industry+style cell that ran out of unused briefs (every brief is
+// already on the sheet). Reuses the pending_industries table — no new
+// migration needed — by encoding the cell as `industry:style` in normalized.
+// I read this list to top up the most-requested cells first.
+async function logExhaustedCell(industryKey: string, style: Style): Promise<void> {
+  try {
+    const normalized = `${industryKey}:${style.toLowerCase()}`;
+    const label = `${industryKey} · ${style} (exhausted)`;
+    const supabase = getSupabaseAdmin();
+    const existing = await supabase
+      .from("pending_industries")
+      .select("id, request_count")
+      .eq("normalized", normalized)
+      .maybeSingle();
+    if (existing.data) {
+      await supabase
+        .from("pending_industries")
+        .update({
+          request_count: (existing.data.request_count ?? 0) + 1,
+          last_requested_at: new Date().toISOString(),
+        })
+        .eq("id", existing.data.id);
+    } else {
+      await supabase.from("pending_industries").insert({
+        id: `cell-${normalized}`.replace(/[^a-z0-9:-]+/g, "-").slice(0, 60),
+        label,
+        normalized,
+      });
+    }
+  } catch {
+    // Table might not exist yet — silently swallow.
+  }
+}
+
 // Brief ids that are already in the sheet — we never serve those again.
 async function fetchUsedBriefIds(): Promise<string[]> {
   const supabase = getSupabaseAdmin();
@@ -157,7 +191,9 @@ export async function pickBrief(
   let row = await fetchOneBrief(match.entry.key, style, allExclude);
   if (!row) row = await fetchOneBrief(match.entry.key, style, usedIds);
   if (!row) {
-    // Every brief in this cell is already on the sheet.
+    // Every brief in this cell is already on the sheet. Record it so I can
+    // top up this exact industry+style first next time. Best-effort.
+    void logExhaustedCell(match.entry.key, style);
     return {
       ok: false,
       data: {
