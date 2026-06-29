@@ -1,0 +1,2865 @@
+{
+  "industry": "packaging",
+  "briefs": {
+    "Modern": [
+      {
+        "brandName": "Monoflute",
+        "tagline": "One material. Fully recyclable. Gone in the recycling, not the landfill.",
+        "brandDescription": "Monoflute is a sustainable, compostable packaging startup that ships mono-material mailers and boxes engineered to pass through a single curbside recycling stream. Every Monoflute pack is one substrate end to end — no mixed laminates, no plastic windows, no foil — so it actually gets recycled instead of contaminating the bale. Monoflute sells to climate-forward D2C brands that have made packaging part of their sustainability claim and need receipts to back it.",
+        "scope": "Direct-to-brand sales of compostable mailers, corrugated boxes, and curbside-recyclable void fill, with stock SKUs and low-MOQ custom print. Monoflute does not run a retail storefront or sell single units to consumers.",
+        "brandNameRationale": "A flute is the wavy corrugated medium glued between linerboards (A/B/C/E flute), and mono- signals single-material construction. Monoflute fuses the corrugate trade term with the mono-material recyclability promise.",
+        "industrySummary": "2025 packaging is being reshaped by Extended Producer Responsibility (EPR) fees rolling out across California (SB 54), Oregon, Colorado and the EU's PPWR, which price producers on the recyclability of what they ship. Mono-material design has become the dominant compliance strategy because mixed laminates and PE-lined fiber fail material-recovery-facility sortation. PFAS bans on food-contact fiber (effective in a dozen US states by 2025) have also pushed compostable certifiers toward cleaner barrier chemistries. The opening is a brand that builds the single-stream guarantee into its name.",
+        "competitorLandscape": "EcoEnclose (ecoenclose.com) leads recycled and recyclable shipping supplies with deep stock breadth. noissue (noissue.co) owns the compostable custom-print tier with a soft, design-led aesthetic. Sway (swaythefuture.com) pioneers seaweed-based replacements for plastic film. Monoflute differs by making single-stream mono-material verification the entire product story — every SKU ships with its recycling stream named on the pack.",
+        "positioningStatement": "Monoflute is the packaging brand that guarantees one material per pack so it actually gets recycled.",
+        "positioningRationale": "Most 'eco' packaging fails at the sortation line because it mixes fiber, plastic and foil. By committing to a single substrate per SKU, Monoflute moves the claim from intention to verifiable outcome. That guarantee is the differentiator procurement and sustainability leads can defend.",
+        "targetAudience": {
+          "primary": "Sustainability and operations leads at venture-backed D2C brands (skincare, apparel, supplements) who have publicly committed to recyclable packaging and need a supplier whose materials survive a real MRF. They buy in 5k-50k unit runs, audit material composition, and want documentation they can publish.",
+          "behaviors": [
+            "Requests material composition sheets before ordering",
+            "Audits whether a pack is curbside or store-drop-off recyclable",
+            "Reorders on a quarterly forecast",
+            "Shares packaging on the brand's sustainability page"
+          ],
+          "motivations": [
+            "Make a defensible recyclability claim",
+            "Pass EPR and PPWR compliance cleanly",
+            "Reduce returns from damaged eco-packs"
+          ]
+        },
+        "mission": "To make every pack we ship a single material that a curbside bin can actually recycle.",
+        "vision": "A world where 'recyclable' on a box is a verified fact, not a hopeful sticker.",
+        "coreValues": [
+          "Single-stream by design",
+          "Verifiable over vague",
+          "Spec transparency",
+          "Climate accountability",
+          "Performance without plastic"
+        ],
+        "brandPersonalityTraits": [
+          "Rigorous",
+          "Optimistic",
+          "Plain-spoken",
+          "Technical",
+          "Earnest"
+        ],
+        "messagingPillars": [
+          {
+            "name": "One material, end to end",
+            "description": "Every Monoflute SKU is a single substrate with no mixed laminates or plastic windows. That is what makes it survive sortation."
+          },
+          {
+            "name": "Receipts, not claims",
+            "description": "We publish material composition and the exact recycling stream for every pack. Brands can cite us directly."
+          },
+          {
+            "name": "Built for EPR",
+            "description": "Our SKUs are designed to score well under SB 54, PPWR and emerging plastic taxes so your fees go down, not up."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the substrate and the recycling stream",
+            "Cite the specific regulation (SB 54, PPWR)",
+            "Quote burst strength and ECT",
+            "Show the pack going into a curbside bin"
+          ],
+          "donts": [
+            "Say 'eco-friendly' without proof",
+            "Use leaf-and-globe clip art",
+            "Hide laminate layers",
+            "Greenwash with vague percentages"
+          ]
+        },
+        "logoDirection": "A wordmark — Monoflute set in a clean geometric sans, with the 'o' rendered as a single corrugated flute profile in cross-section. The flute glyph alone becomes the favicon and the recyclability seal.",
+        "colorPalette": [
+          {
+            "name": "Kraft Pulp",
+            "hex": "#C8A87C",
+            "meaning": "Unbleached single-stream fiber.",
+            "usage": "Backgrounds, packaging photography"
+          },
+          {
+            "name": "Recover Green",
+            "hex": "#2F6B4F",
+            "meaning": "The curbside recycling stream.",
+            "usage": "Primary brand, seals"
+          },
+          {
+            "name": "Stream Blue",
+            "hex": "#2B5C8A",
+            "meaning": "Single-stream sortation.",
+            "usage": "Secondary, data and specs"
+          },
+          {
+            "name": "Ink Charcoal",
+            "hex": "#1F2421",
+            "meaning": "Press ink on fiber.",
+            "usage": "Type, wordmark"
+          },
+          {
+            "name": "Paper White",
+            "hex": "#F6F2E9",
+            "meaning": "Uncoated stock.",
+            "usage": "Light backgrounds, space"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for material specs and ECT/burst data",
+          "rationale": "One contemporary grotesk family; the mono cut carries technical packaging data so the spec always reads as fact."
+        },
+        "visualIdentityIdeas": [
+          "A cross-section flute diagram used as a recurring graphic motif",
+          "Every product photo shows the pack mid-fold so the single material is visible",
+          "A 'recycling passport' card printed on each pack naming the stream",
+          "Spec callouts set in mono type like an engineering drawing",
+          "Stop-motion of a Monoflute mailer flattening into a recycling bin"
+        ]
+      },
+      {
+        "brandName": "The Laydown",
+        "tagline": "Mailers and boxes that earn the unboxing.",
+        "brandDescription": "The Laydown is an e-commerce mailer and box brand built for D2C teams who treat the package as the first physical touchpoint. The Laydown sells custom-printed mailers, shipping boxes and tissue in fast, low-MOQ runs with a press-ready die-line editor that lets a founder go from artwork to proof in a browser. It is opinionated about the unboxing moment — registration-tight print, full-bleed interiors, and finishes that photograph well.",
+        "scope": "Online custom packaging configurator covering mailer boxes, shipping boxes, poly-free mailers, tissue and tape, with self-serve proofing and short lead times. The Laydown serves brands, not enterprise corrugated procurement.",
+        "brandNameRationale": "The laydown (or knockout) is the flat printed sheet before it is folded and glued into a box — the moment all the artwork is visible at once. It names the brand after the exact view that matters to a designer.",
+        "industrySummary": "E-commerce parcel volume has normalized post-2021 but the unboxing-experience economy has hardened into a real category, with brands budgeting for tissue, inserts and full-interior print as a retention lever. Short-run digital corrugated printing (HP PageWide, inkjet single-pass) collapsed minimum order quantities, letting small brands buy 100-unit custom runs that used to require 5,000. At the same time PPWR and right-sizing mandates penalize oversized boxes, so dimensional efficiency now sells alongside aesthetics. The opening is a fast, design-first configurator that respects the die-line.",
+        "competitorLandscape": "Packlane (packlane.com) is the design-forward custom-box benchmark with a strong browser editor. Arka (arka.com) competes on speed and low MOQs for D2C mailers. Fantastapack (fantastapack.com) plays the fast custom-corrugated peer. The Laydown differs by centering the press-ready laydown view and giving designers true full-bleed interior control with a real proof, not a render.",
+        "positioningStatement": "The Laydown is the custom mailer brand for designers who care about the full printed laydown, inside and out.",
+        "positioningRationale": "Most configurators show a cute 3D render but a soft proof. Designers get burned by registration drift and dull interiors. The Laydown sells a tighter, more honest proof and full interior print as standard, which wins the design-led D2C buyer.",
+        "targetAudience": {
+          "primary": "Founders and brand designers at small-to-mid D2C brands shipping 500-20,000 parcels a month who view the box as content. They proof artwork themselves, post unboxings, and value turnaround almost as much as quality. They reorder seasonally and add limited drops.",
+          "behaviors": [
+            "Designs the die-line in the browser editor",
+            "Posts the unboxing on social",
+            "Orders limited seasonal box variants",
+            "Compares proofs against the brand's color guide"
+          ],
+          "motivations": [
+            "Make the unboxing share-worthy",
+            "Get a tight proof without an account manager",
+            "Move fast on drops and reorders"
+          ]
+        },
+        "mission": "To put press-ready custom packaging in the hands of brand teams who care about every panel.",
+        "vision": "A web where any brand can design, proof and reorder a great box before lunch.",
+        "coreValues": [
+          "Design-first",
+          "Honest proofs",
+          "Speed",
+          "Full-bleed interiors",
+          "Low barriers to entry"
+        ],
+        "brandPersonalityTraits": [
+          "Sharp",
+          "Energetic",
+          "Design-literate",
+          "Direct",
+          "Helpful"
+        ],
+        "messagingPillars": [
+          {
+            "name": "The laydown is the product",
+            "description": "We let you see and control the full flat printed sheet, inside and out. That is where the design actually lives."
+          },
+          {
+            "name": "Proof you can trust",
+            "description": "Our soft proof maps to what prints — registration, bleed and color — so the box that arrives is the box you approved."
+          },
+          {
+            "name": "Fast and low-MOQ",
+            "description": "Order 100 or 10,000 with short lead times, so drops and reorders never stall your launch calendar."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk die-lines, bleed and registration",
+            "Show the flat laydown next to the folded box",
+            "Quote lead times in days",
+            "Speak founder-to-founder"
+          ],
+          "donts": [
+            "Bury specs in fine print",
+            "Use stocky enterprise procurement language",
+            "Overpromise on color accuracy",
+            "Pad the lead time"
+          ]
+        },
+        "logoDirection": "A wordmark — The Laydown set in a confident grotesk, with a faint die-line/crease pattern unfolding behind it. The crease marks double as a section-divider motif across the site.",
+        "colorPalette": [
+          {
+            "name": "Press Cyan",
+            "hex": "#1FA6D6",
+            "meaning": "Process cyan from the print stack.",
+            "usage": "Primary brand, CTAs"
+          },
+          {
+            "name": "Crease Ink",
+            "hex": "#16181D",
+            "meaning": "Die-line and score ink.",
+            "usage": "Type, die-line graphics"
+          },
+          {
+            "name": "Bleed Coral",
+            "hex": "#FF6A4D",
+            "meaning": "Trim-and-bleed warmth.",
+            "usage": "Accents, highlights"
+          },
+          {
+            "name": "Box Kraft",
+            "hex": "#B98E5E",
+            "meaning": "E-flute corrugate.",
+            "usage": "Packaging photography, panels"
+          },
+          {
+            "name": "Proof White",
+            "hex": "#FAFAF7",
+            "meaning": "Uncoated proof stock.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for headlines and the wordmark",
+          "secondary": "GT America Mono for die-line specs and dimensions",
+          "rationale": "A crisp grotesk plus a mono for the technical layer keeps the brand both designerly and press-accurate."
+        },
+        "visualIdentityIdeas": [
+          "Animated die-line folding from flat laydown into finished box",
+          "Registration-mark and crop-mark motifs framing photography",
+          "Interactive editor previews shown as honest proofs, not glossy renders",
+          "A 'panel by panel' grid showing every printed face of a box",
+          "Lead-time counter rendered like a press job ticket"
+        ]
+      },
+      {
+        "brandName": "Crashlock",
+        "tagline": "Your box, your die-line, on demand.",
+        "brandDescription": "Crashlock is a direct-to-consumer custom-box platform that lets brands build, store and reorder their own branded packaging from a library of structural die-lines. Crashlock pairs a structural picker (mailer, shipper, crash-lock base, reverse tuck) with on-demand digital print so a brand keeps a permanent 'pack profile' and triggers reruns in a click. It is the packaging back end for brands that want a repeatable, ownable box without holding a warehouse of inventory.",
+        "scope": "A SaaS-style platform for designing, storing and reordering custom packaging across standard structural styles, with print-on-demand fulfillment and reorder automation. Crashlock is not a one-off custom shop; it is built for repeat ordering.",
+        "brandNameRationale": "A crash-lock base (auto-bottom) is a structural die-line that pops into a locked, load-bearing base in one motion — fast and repeatable. The name signals structural fluency and one-motion reordering.",
+        "industrySummary": "Custom packaging has shifted from project-based ordering to platform-based reordering as brands standardize their packaging stack and want it stored, versioned and reorderable like a digital asset. Print-on-demand corrugated has made it economical to skip large inventory holds and produce closer to demand, reducing the dead stock that EPR fees now make expensive. Structural die-line libraries (FEFCO standards plus custom) let non-engineers pick load-rated boxes confidently. The opening is a platform that treats your packaging like a saved, versioned profile.",
+        "competitorLandscape": "Packlane (packlane.com) offers saved designs but is order-led rather than profile-led. Arka (arka.com) emphasizes fast reorders and a clean dashboard. Fantastapack (fantastapack.com) covers broad custom-corrugated structures. Crashlock differs by making the structural die-line library and the saved 'pack profile' the core product, so reordering and versioning are first-class, not afterthoughts.",
+        "positioningStatement": "Crashlock is the platform where your packaging lives as a saved, reorderable profile across every structural die-line you use.",
+        "positioningRationale": "Brands lose hours re-specifying boxes every reorder and lack version control across SKUs. By storing the die-line, artwork and dieline version as a profile, Crashlock turns packaging into managed infrastructure. That repeatability is what operations teams pay for.",
+        "targetAudience": {
+          "primary": "Operations and packaging managers at scaling D2C and subscription brands with 5-50 SKUs who reorder packaging monthly and want structure, versioning and speed. They think in forecasts and reorder points, dislike re-briefing a vendor each time, and value a dashboard over an account manager.",
+          "behaviors": [
+            "Saves a pack profile per SKU",
+            "Sets reorder points and triggers reruns",
+            "Versions artwork across seasons",
+            "Compares structural styles by load rating"
+          ],
+          "motivations": [
+            "Stop re-specifying boxes every order",
+            "Hold less packaging inventory",
+            "Keep packaging consistent across SKUs"
+          ]
+        },
+        "mission": "To turn custom packaging into a saved, reorderable profile any brand can manage like code.",
+        "vision": "A world where reordering the perfect box is one motion, like the base it is named for.",
+        "coreValues": [
+          "Structural fluency",
+          "Reorder, don't re-spec",
+          "Version control",
+          "Produce to demand",
+          "Self-serve power"
+        ],
+        "brandPersonalityTraits": [
+          "Systematic",
+          "Reliable",
+          "Modern",
+          "Efficient",
+          "Precise"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Your pack as a profile",
+            "description": "Crashlock stores the die-line, artwork and version for every SKU. Reordering is recall, not redesign."
+          },
+          {
+            "name": "Structure made simple",
+            "description": "Pick from load-rated structural die-lines — crash-lock base, reverse tuck, mailer — without being an engineer."
+          },
+          {
+            "name": "Produce to demand",
+            "description": "On-demand digital print means you hold less inventory and waste less, which EPR fees reward."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use structural names precisely",
+            "Show the dashboard and reorder flow",
+            "Quote load ratings and lead times",
+            "Talk like a tooling product"
+          ],
+          "donts": [
+            "Treat packaging as a one-off",
+            "Hide version history",
+            "Use precious craft language",
+            "Overcomplicate the picker"
+          ]
+        },
+        "logoDirection": "A wordmark — Crashlock set in a technical sans, with the 'a' or 'o' formed from an auto-bottom crash-lock fold diagram. The fold mark becomes a loading-state animation in the app.",
+        "colorPalette": [
+          {
+            "name": "Lock Indigo",
+            "hex": "#3B3DA8",
+            "meaning": "One-motion structural lock.",
+            "usage": "Primary brand, UI"
+          },
+          {
+            "name": "Score Slate",
+            "hex": "#2A2E33",
+            "meaning": "Score and crease lines.",
+            "usage": "Type, die-line graphics"
+          },
+          {
+            "name": "Signal Lime",
+            "hex": "#B6E34A",
+            "meaning": "Reorder-ready status.",
+            "usage": "Status accents, CTAs"
+          },
+          {
+            "name": "Corrugate Tan",
+            "hex": "#C39A68",
+            "meaning": "B-flute board.",
+            "usage": "Packaging imagery"
+          },
+          {
+            "name": "Profile White",
+            "hex": "#F7F8F6",
+            "meaning": "Dashboard ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for product UI and the wordmark",
+          "secondary": "IBM Plex Mono for die-line codes and version tags",
+          "rationale": "A workhorse UI sans plus a mono for SKU codes and dieline versions reads as a dependable platform."
+        },
+        "visualIdentityIdeas": [
+          "An auto-bottom crash-lock fold used as the loading animation",
+          "Pack profiles shown as cards with version history",
+          "FEFCO-style structural icons for each box type",
+          "A reorder timeline visualized like a deploy log",
+          "Die-line thumbnails generated live from saved profiles"
+        ]
+      },
+      {
+        "brandName": "Returnloop",
+        "tagline": "Send it. Send it back. Send it again.",
+        "brandDescription": "Returnloop is a returnable, reusable packaging system that replaces single-use mailers and boxes with durable packs that cycle back through a return-and-reuse loop. Returnloop provides the reusable mailers, the QR-coded return logistics, and the tracking dashboard that proves how many cycles each pack completed and how much single-use waste it displaced. It serves brands and closed-loop retailers who want reuse as a measurable, reportable sustainability lever rather than a pilot.",
+        "scope": "A reuse-as-a-service platform: durable reusable mailers and totes, reverse-logistics return flows, cleaning/redistribution, and per-pack cycle reporting. Returnloop manages the loop; it does not sell single-use packaging.",
+        "brandNameRationale": "The return loop is the literal reverse-logistics cycle a reusable pack travels, and 'loop' is the established term in circular-packaging systems. Returnloop names the cycle the whole product is built around.",
+        "industrySummary": "Reusable packaging moved from pilot to procurement line item in 2025 as EU PPWR set binding reuse targets for transport and e-commerce packaging and several retailers committed to reuse percentages. The hard problem is return rate: systems only pay off above a threshold number of cycles, so QR tracking, deposit/incentive design and reverse logistics are the real product. PFAS and plastic-tax pressure also push brands toward durable reuse over disposable plastic film. The opening is a reuse system that makes cycle counts and waste-avoided auditable.",
+        "competitorLandscape": "Returnity (returnity.co) is the leading reusable-shipping system for retailers and enterprises. RePack (repack.com) pioneered returnable e-commerce mailers in Europe with a deposit model. Olive built a consumer-facing reusable-shipping aggregation play. Returnloop differs by making per-pack cycle data and waste-avoided reporting the headline product, so sustainability teams can publish verified loop metrics.",
+        "positioningStatement": "Returnloop is the reusable packaging system that proves every cycle, so reuse becomes a reportable metric.",
+        "positioningRationale": "Reuse only works financially and environmentally above a cycle threshold, and brands struggle to prove it. By instrumenting each pack with QR tracking and publishing cycle and waste-avoided data, Returnloop turns reuse from a feel-good pilot into an audited number. That auditability wins enterprise sustainability buyers.",
+        "targetAudience": {
+          "primary": "Sustainability and logistics leaders at retailers and D2C brands with high return or repeat-shipment volume (apparel, rental, meal kits) who need to hit reuse targets and report on them. They model return rates, care about reverse-logistics cost, and want data they can put in an ESG report.",
+          "behaviors": [
+            "Models return rate before committing",
+            "Tracks per-pack cycle counts",
+            "Reports waste-avoided to leadership",
+            "Designs deposit or incentive mechanics"
+          ],
+          "motivations": [
+            "Hit PPWR reuse targets",
+            "Cut single-use packaging spend over time",
+            "Publish verified circularity metrics"
+          ]
+        },
+        "mission": "To make reusable packaging cycle reliably and prove every loop it completes.",
+        "vision": "A logistics network where packaging comes back by default and disposal is the exception.",
+        "coreValues": [
+          "Designed to cycle",
+          "Measure the loop",
+          "Reverse logistics first",
+          "Durability over disposability",
+          "Verified circularity"
+        ],
+        "brandPersonalityTraits": [
+          "Systemic",
+          "Accountable",
+          "Forward-looking",
+          "Pragmatic",
+          "Trustworthy"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Built to come back",
+            "description": "Every Returnloop pack is engineered for many cycles and the return flow that brings it home. Reuse is designed in, not hoped for."
+          },
+          {
+            "name": "Every cycle counted",
+            "description": "QR tracking logs each loop, so you know exactly how many cycles a pack ran and how much single-use it displaced."
+          },
+          {
+            "name": "Reuse you can report",
+            "description": "We turn loop data into waste-avoided metrics your ESG and PPWR reporting can cite directly."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote cycle counts and return rates",
+            "Show the reverse-logistics flow",
+            "Tie reuse to PPWR targets",
+            "Report waste-avoided in real units"
+          ],
+          "donts": [
+            "Treat reuse as a marketing stunt",
+            "Hide the return-rate dependency",
+            "Use vague 'circular' buzzwords",
+            "Promise reuse without logistics"
+          ]
+        },
+        "logoDirection": "A wordmark — Returnloop set in a clean humanist sans, with the two 'o's forming a continuous arrow loop, one outbound and one return. The loop mark animates as a closing cycle.",
+        "colorPalette": [
+          {
+            "name": "Loop Teal",
+            "hex": "#1C8E8A",
+            "meaning": "The closed return cycle.",
+            "usage": "Primary brand, the loop mark"
+          },
+          {
+            "name": "Cycle Navy",
+            "hex": "#1B2A4A",
+            "meaning": "Reliable logistics.",
+            "usage": "Type, headers"
+          },
+          {
+            "name": "Return Amber",
+            "hex": "#E8A23C",
+            "meaning": "The inbound return leg.",
+            "usage": "Accents, return CTAs"
+          },
+          {
+            "name": "Tote Grey",
+            "hex": "#9AA0A2",
+            "meaning": "Durable reusable material.",
+            "usage": "Secondary, packaging imagery"
+          },
+          {
+            "name": "Dashboard White",
+            "hex": "#F5F7F6",
+            "meaning": "Reporting ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Aktiv Grotesk for the wordmark and headlines",
+          "secondary": "Aktiv Grotesk Mono for cycle counts and tracking IDs",
+          "rationale": "A neutral, trustworthy grotesk with a mono cut for cycle data signals a measured logistics system."
+        },
+        "visualIdentityIdeas": [
+          "A two-arrow loop mark that animates closing on each cycle",
+          "Per-pack cycle counters shown like an odometer",
+          "Reverse-logistics flow diagrams as a recurring motif",
+          "QR-scan moments shown as the brand's hero interaction",
+          "A waste-avoided dashboard rendered as the proof point"
+        ]
+      },
+      {
+        "brandName": "Dieline Studio",
+        "tagline": "Structure and story for the brands you unbox.",
+        "brandDescription": "Dieline Studio is a packaging-design studio for D2C brands that designs both the structure and the surface — the die-line and the artwork — as one system. Dieline Studio takes a brand from napkin sketch to dielocked, press-ready files, handling structural engineering, finish specs, mockups and supplier handoff. It is the design partner for founders who want their packaging to look intentional and actually run on press without surprises.",
+        "scope": "Packaging design services: structural die-line engineering, surface/graphic design, finish and substrate specification, prototyping, and production-ready file handoff to printers. Dieline Studio designs packaging; it does not manufacture or print it.",
+        "brandNameRationale": "The die-line is the flat cut-and-crease template that defines a package's structure — the single most important file in packaging design. Naming the studio after it claims the discipline at its root.",
+        "industrySummary": "As D2C brands matured, packaging design split from generic graphic design into a specialist craft combining structural engineering with surface art, because a beautiful comp that ignores the die-line dies on press. The unboxing-experience economy raised the bar for inserts, reveals and finish, while EPR and right-sizing pressure forced designers to optimize structure for material and dimensional efficiency. Brands increasingly want one partner who owns both the die-line and the artwork through to a press-ready handoff. The opening is a studio that names and centers the die-line.",
+        "competitorLandscape": "noissue (noissue.co) bundles design tooling with its own production but is template-led. Packlane (packlane.com) offers design help inside a product configurator. Independent studios like Smith & Diction take packaging projects within broader branding work. Dieline Studio differs by being a structure-and-surface specialist that hands off press-ready files to any printer, keeping the brand's supplier choice open.",
+        "positioningStatement": "Dieline Studio is the packaging-design partner that owns structure and surface together, all the way to press-ready files.",
+        "positioningRationale": "Brands get burned when graphic designers ignore structure or printers redraw weak die-lines. By owning both disciplines and the handoff, Dieline Studio removes the gap where packaging projects fail. That end-to-end ownership is the value, and it stays printer-agnostic so the brand keeps leverage.",
+        "targetAudience": {
+          "primary": "Founders and brand leads at funded D2C companies launching or relaunching a product line who want packaging that looks considered and runs cleanly on press. They have an aesthetic point of view, care about the unboxing, and need a partner who can also produce manufacturable files. They buy projects, then retain for line extensions.",
+          "behaviors": [
+            "Briefs the studio on brand and product",
+            "Reviews structural prototypes in hand",
+            "Approves press-ready files",
+            "Retains for seasonal line extensions"
+          ],
+          "motivations": [
+            "Look intentional, not template",
+            "Avoid on-press surprises",
+            "Keep supplier choice flexible"
+          ]
+        },
+        "mission": "To design packaging where the structure and the story are made as one system, ready for press.",
+        "vision": "A world where every D2C brand's packaging is engineered as carefully as it is styled.",
+        "coreValues": [
+          "Structure equals story",
+          "Manufacturable by design",
+          "Printer-agnostic",
+          "Prototype in hand",
+          "Finish with intent"
+        ],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Bi-disciplinary",
+          "Crafted",
+          "Practical",
+          "Collaborative"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Die-line and artwork as one",
+            "description": "Dieline Studio designs the structure and the surface together so they reinforce each other instead of fighting on press."
+          },
+          {
+            "name": "Press-ready, every time",
+            "description": "We hand off dielocked, production-ready files with finish specs so nothing gets redrawn or guessed at the printer."
+          },
+          {
+            "name": "Your supplier, your leverage",
+            "description": "We stay printer-agnostic, so you keep the freedom to bid the job and own your packaging files."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the die-line beside the comp",
+            "Name finishes, substrates and crease specs",
+            "Walk through the prototype process",
+            "Speak as a craft studio"
+          ],
+          "donts": [
+            "Separate structure from surface",
+            "Hand off non-manufacturable files",
+            "Lock clients to one printer",
+            "Over-style at the cost of runnability"
+          ]
+        },
+        "logoDirection": "A wordmark — Dieline Studio set in a refined grotesk, with a fine cut-and-crease die-line frame drawn around it (solid cut lines, dashed crease lines). The die-line frame becomes the studio's layout system.",
+        "colorPalette": [
+          {
+            "name": "Crease Blue",
+            "hex": "#2E5FB0",
+            "meaning": "Dashed crease lines on a die-line.",
+            "usage": "Primary brand, die-line graphics"
+          },
+          {
+            "name": "Cut Black",
+            "hex": "#15171A",
+            "meaning": "Solid cut lines and ink.",
+            "usage": "Type, wordmark"
+          },
+          {
+            "name": "Studio Clay",
+            "hex": "#C9B89C",
+            "meaning": "Greyboard and proof stock.",
+            "usage": "Backgrounds, photography"
+          },
+          {
+            "name": "Finish Gold",
+            "hex": "#C9A23F",
+            "meaning": "Foil and spot-finish accents.",
+            "usage": "Highlights, finish callouts"
+          },
+          {
+            "name": "Proof Paper",
+            "hex": "#F7F4ED",
+            "meaning": "Uncoated proof.",
+            "usage": "Light ground"
+          }
+        ],
+        "typography": {
+          "primary": "Founders Grotesk for the wordmark and headlines",
+          "secondary": "Founders Grotesk Mono for crease specs and dimensions",
+          "rationale": "A studio-grade grotesk with a mono cut for structural specs balances design credibility with engineering precision."
+        },
+        "visualIdentityIdeas": [
+          "A cut-and-crease die-line frame as the layout grid",
+          "Case studies shown as flat die-line plus folded prototype",
+          "Finish swatches (foil, spot gloss, emboss) as a recurring callout strip",
+          "Process documented from sketch to dielocked file",
+          "Structural prototypes photographed in raking light"
+        ]
+      }
+    ],
+    "Luxury": [
+      {
+        "brandName": "Maison Rigide",
+        "tagline": "The box that holds the gift it equals.",
+        "brandDescription": "Maison Rigide is a luxury rigid-box maker for jewelry, watch and prestige-cosmetics houses, crafting set-up boxes wrapped in fine papers, lined in silk and magnet-closed with a satisfying weight. Maison Rigide treats the box as part of the object — turned edges, debossed lids, and tolerances measured to the millimeter. It supplies maisons that understand the box is the first thing a client touches and the last thing they keep.",
+        "scope": "Bespoke and short-run rigid (set-up) box manufacturing: paper wrapping, lining, magnetic and ribbon closures, foil, deboss and structural inserts for jewelry, watch and luxury beauty clients. Maison Rigide makes presentation boxes, not shipping cartons or folding cartons.",
+        "brandNameRationale": "A rigid box (also called a set-up box) is the dense, non-collapsible structure used in luxury presentation, and 'maison' invokes the European house tradition. Maison Rigide names the structural category that defines luxury packaging.",
+        "industrySummary": "Luxury rigid-box making sits apart from mainstream packaging: it is labor-intensive, low-volume, and judged on hand-finish — turned edges, lining fit, and lid-to-base tolerance. In 2025 even prestige houses face sustainability scrutiny, driving a shift to FSC greyboard, paper-based magnet alternatives and recyclable foils without sacrificing weight and feel. Reusability has become a quiet luxury value as clients keep and display the box. The opening is a maker that frames rigid construction as the object itself.",
+        "competitorLandscape": "Progress Packaging (progresspackaging.co.uk) is a leading creative luxury packaging maker for fashion and beauty houses. Delta Global (deltaglobal.io) supplies sustainable luxury packaging to global brands at scale. Taylor Box brings heritage American set-up box craft. Maison Rigide differs by positioning itself as a small, maison-grade atelier obsessed with turned-edge finish and lid tolerance for jewelry and watches specifically.",
+        "positioningStatement": "Maison Rigide is the atelier that makes the rigid box a luxury object in its own right.",
+        "positioningRationale": "At the prestige tier, clients judge a house partly by the box, yet most suppliers chase volume over finish. By staying small and obsessing over turned edges, lining and tolerance, Maison Rigide serves maisons who will pay for hand-finish. That craft focus is the differentiator.",
+        "targetAudience": {
+          "primary": "Packaging and creative directors at jewelry, watch and prestige-beauty maisons who commission presentation boxes as part of the product experience. They scrutinize finish, demand tight tolerances, and value discretion and reliability over the lowest price. They commission per collection and retain trusted ateliers for years.",
+          "behaviors": [
+            "Inspects turned edges and lining fit",
+            "Requests material and finish samples",
+            "Commissions per seasonal collection",
+            "Retains an atelier for years"
+          ],
+          "motivations": [
+            "Make the box worthy of the object",
+            "Signal house quality at first touch",
+            "Have a discreet, reliable partner"
+          ]
+        },
+        "mission": "To make rigid boxes finished so well the client keeps them as long as the gift inside.",
+        "vision": "A world where the luxury box is recognized as part of the craft of the object it holds.",
+        "coreValues": [
+          "Hand-finish above all",
+          "Tolerance to the millimeter",
+          "Discretion",
+          "Material honesty",
+          "Keepable by design"
+        ],
+        "brandPersonalityTraits": [
+          "Refined",
+          "Exacting",
+          "Discreet",
+          "Patient",
+          "Tactile"
+        ],
+        "messagingPillars": [
+          {
+            "name": "The box as object",
+            "description": "Maison Rigide builds rigid boxes that are part of the gift, not its wrapping. Weight, edge and lining are the craft."
+          },
+          {
+            "name": "Tolerance you can feel",
+            "description": "Lid-to-base fit measured to the millimeter gives the close its quiet, expensive sound. Precision is the luxury."
+          },
+          {
+            "name": "Keepable and responsible",
+            "description": "FSC board, paper-based closures and recyclable foils let the box be kept and, eventually, recycled."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Describe the turned edge and lining",
+            "Name the paper, board and foil",
+            "Speak quietly and precisely",
+            "Reference the close and the weight"
+          ],
+          "donts": [
+            "Use the word cheap or value",
+            "Show stock photography",
+            "Boast volume or speed",
+            "Over-explain or hard-sell"
+          ]
+        },
+        "logoDirection": "A wordmark — Maison Rigide set in a high-contrast didone, debossed into the page. A small embossed lid-corner mark (a turned edge in cross-section) serves as the seal on the inner lid.",
+        "colorPalette": [
+          {
+            "name": "Lid Noir",
+            "hex": "#15130F",
+            "meaning": "Wrapped black presentation paper.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Atelier Bone",
+            "hex": "#EDE6D6",
+            "meaning": "Fine wrapping paper.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Burnished Gold",
+            "hex": "#B08D45",
+            "meaning": "Hot-foil edge gild.",
+            "usage": "Foil accents, seal"
+          },
+          {
+            "name": "Silk Oxblood",
+            "hex": "#5A1E22",
+            "meaning": "Silk box lining.",
+            "usage": "Accent, lining motif"
+          },
+          {
+            "name": "Greyboard",
+            "hex": "#7C7468",
+            "meaning": "Rigid set-up board.",
+            "usage": "Secondary, structural imagery"
+          }
+        ],
+        "typography": {
+          "primary": "Canela for the wordmark and headlines",
+          "secondary": "Söhne for captions and specifications",
+          "rationale": "A high-contrast serif carries maison-grade refinement while a quiet grotesk handles specs without competing."
+        },
+        "visualIdentityIdeas": [
+          "A turned-edge cross-section used as the house seal",
+          "Boxes photographed mid-open to show the magnet close and lining",
+          "Foil-deboss detail shots in raking light",
+          "Material library shown as a tactile swatch tray",
+          "Lid-to-base tolerance illustrated as a precise technical inset"
+        ]
+      },
+      {
+        "brandName": "Atelier Présentation",
+        "tagline": "The presentation is the present.",
+        "brandDescription": "Atelier Présentation is a bespoke gift and presentation packaging house that designs and hand-assembles one-of-a-kind presentation pieces — VIP gifting suites, press kits, and ceremonial unveils — for luxury brands and private commissions. Atelier Présentation works in rigid structure, cloth, ribbon, custom inserts and reveal mechanisms, treating each commission as a small piece of theater. It serves brands staging a moment, not shipping a parcel.",
+        "scope": "Bespoke presentation packaging: VIP gifting, influencer seeding suites, launch press kits, and ceremonial reveal pieces, designed and hand-assembled per commission. Atelier Présentation does not produce stock or high-volume retail packaging.",
+        "brandNameRationale": "Présentation is the French term of art for the staged unveiling of a luxury object, and 'atelier' marks the hand-workshop. Atelier Présentation names the moment of unveiling that the work is built to produce.",
+        "industrySummary": "Bespoke presentation packaging serves the upper tier of brand experience — VIP seeding, press unveils and ceremonial reveals where the packaging is the storytelling. In 2025 brands invest heavily in seeding suites for press and creators, making the reveal mechanism and tactile sequence as important as the product. Sustainability expectations now reach even bespoke work, favoring reusable, keepable pieces over disposable spectacle. The opening is a house that designs the moment of presentation itself.",
+        "competitorLandscape": "Progress Packaging (progresspackaging.co.uk) produces inventive bespoke pieces for fashion and beauty launches. Delta Global (deltaglobal.io) delivers premium bespoke packaging programs globally. Taylor Box crafts heritage bespoke presentation cases. Atelier Présentation differs by selling the choreography of the reveal — the sequence, mechanism and tactile build — as the core commission, not just the container.",
+        "positioningStatement": "Atelier Présentation is the house that designs the unveiling, where the packaging is the performance.",
+        "positioningRationale": "Luxury brands increasingly buy moments, not boxes, especially for press and creator seeding. By designing the reveal sequence and tactile build as theater, Atelier Présentation moves up the value chain from supplier to experience designer. That choreography is what justifies bespoke pricing.",
+        "targetAudience": {
+          "primary": "Brand experience, PR and VIP-relations leads at luxury houses commissioning seeding suites, press kits and ceremonial gifts, plus private clients commissioning singular pieces. They think in moments and reactions, brief on narrative, and reward originality and flawless hand-assembly. They commission per campaign or occasion.",
+          "behaviors": [
+            "Briefs on the moment and the narrative",
+            "Reviews reveal mechanisms in prototype",
+            "Commissions per campaign or occasion",
+            "Films the unboxing for press and creators"
+          ],
+          "motivations": [
+            "Stage an unforgettable reveal",
+            "Earn press and creator coverage",
+            "Give a keepable, singular object"
+          ]
+        },
+        "mission": "To design presentation pieces where the act of opening is the gift.",
+        "vision": "A world where the great luxury moments are remembered for how they were revealed.",
+        "coreValues": [
+          "Theater of the reveal",
+          "Hand-assembled singularity",
+          "Narrative-led",
+          "Keepable luxury",
+          "Flawless detail"
+        ],
+        "brandPersonalityTraits": [
+          "Theatrical",
+          "Meticulous",
+          "Imaginative",
+          "Discreet",
+          "Luxurious"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Design the moment",
+            "description": "Atelier Présentation choreographs the reveal — the sequence, the mechanism, the tactile build. The opening is the experience."
+          },
+          {
+            "name": "Hand-assembled, one of one",
+            "description": "Each commission is built by hand as a singular piece, finished to a standard photography and press will scrutinize."
+          },
+          {
+            "name": "Keepable spectacle",
+            "description": "We build reveals that are reusable and worth keeping, so the moment lives on past the unboxing."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Describe the reveal sequence",
+            "Speak in moments and narrative",
+            "Name materials and mechanisms",
+            "Reference press and creator reactions"
+          ],
+          "donts": [
+            "Sound like a box vendor",
+            "Quote unit prices openly",
+            "Use disposable-spectacle language",
+            "Reveal client commissions without consent"
+          ]
+        },
+        "logoDirection": "A wordmark — Atelier Présentation set in an elegant transitional serif, with a fine ribbon-fold flourish forming the accent on the 'é'. The ribbon motif becomes the house's reveal-sequence graphic.",
+        "colorPalette": [
+          {
+            "name": "Velvet Ink",
+            "hex": "#1A1622",
+            "meaning": "Deep presentation velvet.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Champagne",
+            "hex": "#E7D6B0",
+            "meaning": "Ceremonial unveil light.",
+            "usage": "Backgrounds, accents"
+          },
+          {
+            "name": "Ribbon Rouge",
+            "hex": "#7A1B2E",
+            "meaning": "Silk ribbon and ceremony.",
+            "usage": "Accent, ribbon motif"
+          },
+          {
+            "name": "Antique Gold",
+            "hex": "#A8853F",
+            "meaning": "Foil and gilt detail.",
+            "usage": "Foil highlights"
+          },
+          {
+            "name": "Atelier Stone",
+            "hex": "#6F6A63",
+            "meaning": "Workshop greyboard.",
+            "usage": "Secondary, process imagery"
+          }
+        ],
+        "typography": {
+          "primary": "Ogg for the wordmark and display lines",
+          "secondary": "Maison Neue for body and specifications",
+          "rationale": "A characterful display serif sets the theatrical tone while a clean grotesk keeps process and specs legible."
+        },
+        "visualIdentityIdeas": [
+          "A ribbon-fold motif animating the reveal sequence",
+          "Commissions documented as a step-by-step unveil film",
+          "Material and mechanism details shot in dramatic light",
+          "A 'sequence map' diagramming the opening choreography",
+          "Foil-and-velvet texture studies as backgrounds"
+        ]
+      },
+      {
+        "brandName": "The Spot Gloss",
+        "tagline": "Foil, deboss, letterpress — the finish that makes the brand.",
+        "brandDescription": "The Spot Gloss is a luxury foil-stamp and letterpress finishing house that takes printed packaging and stationery to its final, tactile state — hot foil, blind deboss, edge gild, letterpress and spot UV. The Spot Gloss runs heritage Heidelberg foil and platen presses for fashion, spirits and beauty brands who treat the finish as the signature. It is the last hands a luxury pack passes through before it reaches the client.",
+        "scope": "Print finishing services: hot-foil stamping, blind and registered deboss/emboss, letterpress, edge gilding and spot UV for luxury packaging, labels and collateral. The Spot Gloss finishes printed work; it does not originate the print or structure.",
+        "brandNameRationale": "Spot gloss (and spot UV) is a finishing technique that applies shine to selected areas for contrast and tactility — a hallmark of premium finish. Naming the house The Spot Gloss claims finishing as the craft.",
+        "industrySummary": "Print finishing is the specialist tier where luxury packaging earns its tactility — foil, deboss and spot UV that ordinary print lines cannot run well. In 2025, demand for finish is rising as brands chase tactile differentiation, while sustainability pressure pushes toward recyclable cold-foil and registered finishes that survive recycling streams. Heritage Heidelberg foil and platen presses remain the gold standard for register and bite. The opening is a dedicated finishing house that brands trust with the final, unforgiving step.",
+        "competitorLandscape": "Progress Packaging (progresspackaging.co.uk) offers premium finishing within full packaging production. Delta Global (deltaglobal.io) delivers finished luxury packaging at scale. Generation Press and similar fine printers carry strong finishing reputations. The Spot Gloss differs by being a finishing-only specialist — the house brands send work to for foil, deboss and gild when register and bite must be perfect.",
+        "positioningStatement": "The Spot Gloss is the finishing house luxury brands trust for the final, unforgiving touch.",
+        "positioningRationale": "Finishing is where luxury packaging is won or lost, yet it is often an afterthought tacked onto a print run. By specializing only in finish on heritage presses, The Spot Gloss delivers register and bite that general printers cannot. That focus is the differentiator for finish-obsessed brands.",
+        "targetAudience": {
+          "primary": "Production managers, fine printers and creative directors at luxury fashion, spirits and beauty brands who need foil, deboss and gild executed flawlessly. They judge work on register, bite depth and foil lay, send difficult jobs out to specialists, and value reliability on tight launch timelines. They retain a trusted finisher across collections.",
+          "behaviors": [
+            "Sends out difficult foil and deboss jobs",
+            "Inspects register and bite depth",
+            "Approves foil draw-downs before the run",
+            "Retains a finisher across collections"
+          ],
+          "motivations": [
+            "Get flawless finish on a launch deadline",
+            "Achieve register general lines can't",
+            "Differentiate with tactile detail"
+          ]
+        },
+        "mission": "To give luxury packaging its final, tactile signature on presses built for finish.",
+        "vision": "A world where the finish is recognized as the moment a brand becomes itself.",
+        "coreValues": [
+          "Register and bite",
+          "Finishing is the craft",
+          "Reliability under deadline",
+          "Heritage presses",
+          "Tactility with responsibility"
+        ],
+        "brandPersonalityTraits": [
+          "Exacting",
+          "Tactile",
+          "Reliable",
+          "Specialist",
+          "Quietly proud"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Finish is the signature",
+            "description": "The Spot Gloss treats foil, deboss and gild as the moment a pack becomes luxury, not an add-on. The finish is the craft."
+          },
+          {
+            "name": "Register and bite",
+            "description": "On heritage Heidelberg presses we hit register and bite depth that general print lines cannot. Precision is felt in the hand."
+          },
+          {
+            "name": "Responsible tactility",
+            "description": "We work in recyclable cold-foils and registered finishes that survive recycling streams, so tactility need not cost circularity."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk register, bite and foil lay",
+            "Name the press and the foil",
+            "Show finish in raking light",
+            "Speak as a specialist's specialist"
+          ],
+          "donts": [
+            "Treat finish as a cheap add-on",
+            "Overclaim beyond what the press does",
+            "Use generic print-shop language",
+            "Photograph finish flat and lifeless"
+          ]
+        },
+        "logoDirection": "A wordmark — The Spot Gloss set in a crisp serif, with the 'o' in Gloss rendered as a glossy spot-UV dot catching light against a matte field. The matte/gloss contrast is the entire identity.",
+        "colorPalette": [
+          {
+            "name": "Matte Black",
+            "hex": "#16161A",
+            "meaning": "Matte substrate behind gloss.",
+            "usage": "Primary, wordmark, ground"
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#C2A24B",
+            "meaning": "Hot-foil gold.",
+            "usage": "Foil accents, the dot"
+          },
+          {
+            "name": "Deboss Stone",
+            "hex": "#D8D2C6",
+            "meaning": "Pressed uncoated board.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Edge Silver",
+            "hex": "#B9BCC0",
+            "meaning": "Edge-gild silver foil.",
+            "usage": "Secondary accents"
+          },
+          {
+            "name": "Gloss Highlight",
+            "hex": "#F4F1EA",
+            "meaning": "Spot-UV catch-light.",
+            "usage": "Highlights, light ground"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Headline for the wordmark and headlines",
+          "secondary": "Tiempos Text for body and specs",
+          "rationale": "A single refined serif family across display and text reads as a finishing house that values restraint and register."
+        },
+        "visualIdentityIdeas": [
+          "Matte-vs-gloss contrast as the core visual device",
+          "Foil draw-downs and bite-depth macros as hero imagery",
+          "Finish sample library shown in raking light",
+          "A 'press wall' showcasing the Heidelberg foil press",
+          "Spot-UV dot motif used as bullets and the favicon"
+        ]
+      },
+      {
+        "brandName": "Flacon & Coffret",
+        "tagline": "The bottle and the case, designed as one.",
+        "brandDescription": "Flacon & Coffret is a perfume and spirits bottle-and-case design house that designs the vessel and its presentation case as a single luxury composition — flacon, closure, label and coffret in one brief. Flacon & Coffret works with perfumers, niche fragrance houses and premium spirits brands on glass form, decoration, secondary packaging and the unboxing arc. It is the partner for brands whose bottle is the icon and whose case is its setting.",
+        "scope": "Design of primary glass packaging (bottles, closures, decoration) and secondary presentation cases (coffrets, sleeves, inserts) for fragrance and spirits, through to production specifications. Flacon & Coffret designs and specifies; glass and case manufacturing is run through partners.",
+        "brandNameRationale": "A flacon is a fine perfume bottle and a coffret is the presentation case it ships in — the two halves of fragrance luxury. Pairing them names the exact dual brief the house owns.",
+        "industrySummary": "Fragrance and spirits packaging is a distinct luxury discipline where the bottle is the brand icon and the case is its frame, and the two must be designed together. In 2025 niche fragrance is booming, intensifying demand for distinctive glass and elaborate coffrets, while lightweighting and refillable-bottle initiatives respond to sustainability and EU packaging rules. Decoration techniques — frosting, metallization, deep-etch labels — remain key differentiators. The opening is a house that owns the flacon and the coffret as one composition.",
+        "competitorLandscape": "Progress Packaging (progresspackaging.co.uk) creates premium secondary packaging for beauty and spirits. Delta Global (deltaglobal.io) delivers luxury fragrance and spirits packaging programs. Specialist glassmakers like Verescence supply the flacon side. Flacon & Coffret differs by being the design house that unifies the bottle and the case into one composition and specifies both for production.",
+        "positioningStatement": "Flacon & Coffret is the house that designs the bottle and its case as a single luxury object.",
+        "positioningRationale": "Fragrance and spirits brands often split glass and secondary packaging across vendors, breaking the visual logic between bottle and case. By designing both to one brief, Flacon & Coffret keeps the icon and its setting in harmony. That unified composition is the differentiator for icon-driven brands.",
+        "targetAudience": {
+          "primary": "Creative and packaging directors at niche fragrance houses and premium spirits brands launching or relaunching a hero product. They obsess over the bottle as icon, want the case to frame it, and value distinctive glass and decoration. They commission per launch and seek a partner fluent in both glass and secondary packaging.",
+          "behaviors": [
+            "Briefs bottle and case in one project",
+            "Reviews glass form and decoration samples",
+            "Specifies refillable or lightweighted glass",
+            "Commissions per hero launch"
+          ],
+          "motivations": [
+            "Make the bottle an icon",
+            "Frame the icon with the right case",
+            "Meet refill and lightweighting goals"
+          ]
+        },
+        "mission": "To design the flacon and the coffret as one composition worthy of the fragrance within.",
+        "vision": "A world where the great bottles and their cases are remembered as a single design.",
+        "coreValues": [
+          "Bottle and case as one",
+          "Icon-making",
+          "Decoration mastery",
+          "Refillable by intent",
+          "Composition over component"
+        ],
+        "brandPersonalityTraits": [
+          "Iconic",
+          "Sophisticated",
+          "Sensorial",
+          "Precise",
+          "Discreet"
+        ],
+        "messagingPillars": [
+          {
+            "name": "One composition",
+            "description": "Flacon & Coffret designs the bottle and the case together so the icon and its setting share one visual logic."
+          },
+          {
+            "name": "Glass as icon",
+            "description": "We shape and decorate the flacon to become the brand's signature — form, frosting, metallization, label."
+          },
+          {
+            "name": "Designed to refill",
+            "description": "We specify refillable and lightweighted glass so the icon endures and the footprint shrinks."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Describe glass form and decoration",
+            "Pair the flacon with its coffret",
+            "Name techniques (frosting, metallization)",
+            "Speak in sensorial, precise terms"
+          ],
+          "donts": [
+            "Split bottle and case in the story",
+            "Use mass-market packaging language",
+            "Ignore refill and weight",
+            "Overclaim beyond production reality"
+          ]
+        },
+        "logoDirection": "A wordmark — Flacon & Coffret set in a refined didone, with the ampersand drawn as a subtle bottle-and-case silhouette interlocked. The interlock mark embosses onto the coffret.",
+        "colorPalette": [
+          {
+            "name": "Coffret Noir",
+            "hex": "#181318",
+            "meaning": "Lacquered presentation case.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Eau Blush",
+            "hex": "#E9D3CE",
+            "meaning": "Fragrance softness.",
+            "usage": "Backgrounds, accents"
+          },
+          {
+            "name": "Flacon Gold",
+            "hex": "#B5933F",
+            "meaning": "Cap and label foil.",
+            "usage": "Foil accents"
+          },
+          {
+            "name": "Glass Verdigris",
+            "hex": "#5E7A74",
+            "meaning": "Tinted decorated glass.",
+            "usage": "Secondary, glass imagery"
+          },
+          {
+            "name": "Crystal Light",
+            "hex": "#F3EFE8",
+            "meaning": "Clear flacon highlight.",
+            "usage": "Light ground, reflections"
+          }
+        ],
+        "typography": {
+          "primary": "Reckless for the wordmark and display",
+          "secondary": "Graphik for body and specifications",
+          "rationale": "A sensual display serif evokes fragrance while a precise grotesk keeps glass and case specs legible and modern."
+        },
+        "visualIdentityIdeas": [
+          "An interlocked bottle-and-case ampersand as the seal",
+          "Flacon and coffret photographed as a paired set",
+          "Glass-decoration studies (frost, metallize, etch) as a swatch wall",
+          "An 'unboxing arc' storyboard from coffret to flacon",
+          "Refill mechanism shown as an elegant technical inset"
+        ]
+      },
+      {
+        "brandName": "The Keepsake Tin",
+        "tagline": "Made to be kept long after the contents are gone.",
+        "brandDescription": "The Keepsake Tin is a heritage tin and keepsake-box maker producing decorated metal tins and lidded keepsake boxes for confectionery, tea, spirits and commemorative gifting. The Keepsake Tin works in lithographed and embossed tinplate with the old craft — deep emboss, registered litho, hinged and slip lids — for brands whose packaging is meant to outlive the product. It makes the tin a client keeps on the shelf for years.",
+        "scope": "Manufacture of decorated tinplate tins and keepsake boxes: litho printing, embossing, lid mechanisms and inserts for confectionery, tea, spirits and commemorative gifting. The Keepsake Tin makes metal keepsake packaging, not paper cartons or shipping packaging.",
+        "brandNameRationale": "A keepsake tin is the heritage decorated metal box kept long after its contents are eaten — biscuit tins, tea caddies, commemorative tins. The name states the entire promise: a pack made to be kept.",
+        "industrySummary": "Decorated tinplate occupies a heritage luxury niche where the metal box is a keepable, reusable object — biscuit tins, tea caddies and commemorative pieces that survive for decades. In 2025 reusability has become a sustainability virtue that aligns perfectly with tin's natural durability and recyclability, and brands increasingly market tins as collectible keepsakes. Lithographic decoration and deep embossing on tinplate remain specialist crafts with limited makers. The opening is a maker that names keepability as the entire point.",
+        "competitorLandscape": "Tinware specialists like Massilly and Crown Holdings (crowncork.com) lead industrial decorated-tin production. Progress Packaging (progresspackaging.co.uk) commissions premium bespoke tins within wider work. Heritage makers like Tinplate Packaging serve confectionery. The Keepsake Tin differs by positioning as a heritage keepsake maker whose entire brand is the kept-for-years object, with deep emboss and registered litho as the craft.",
+        "positioningStatement": "The Keepsake Tin is the maker of metal packaging designed to be kept long after the contents are gone.",
+        "positioningRationale": "Most packaging is discarded immediately; tin's superpower is that it is kept and reused. By building the brand entirely around keepability — emboss, litho and lid craft — The Keepsake Tin turns durability into desirability. That kept-object promise is the differentiator and the sustainability story at once.",
+        "targetAudience": {
+          "primary": "Brand and packaging managers at confectionery, premium tea, spirits and commemorative-gift brands who want packaging customers keep and reuse. They value heritage craft, collectibility and the reuse story, and commission tins for gifting seasons and special editions. They retain a maker for recurring seasonal and commemorative runs.",
+          "behaviors": [
+            "Commissions seasonal and special-edition tins",
+            "Reviews litho proofs and emboss depth",
+            "Markets the tin as collectible",
+            "Reorders heritage designs annually"
+          ],
+          "motivations": [
+            "Give customers a keepable object",
+            "Tell a durability and reuse story",
+            "Differentiate gifting with heritage craft"
+          ]
+        },
+        "mission": "To make decorated tins so well that customers keep and reuse them for years.",
+        "vision": "A world where the best packaging is the kind nobody throws away.",
+        "coreValues": [
+          "Made to be kept",
+          "Heritage litho and emboss",
+          "Reuse as virtue",
+          "Collectible by design",
+          "Craft over volume"
+        ],
+        "brandPersonalityTraits": [
+          "Heritage",
+          "Warm",
+          "Crafted",
+          "Nostalgic",
+          "Durable"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Kept, not discarded",
+            "description": "The Keepsake Tin makes packaging customers keep on the shelf for years. Keepability is the point and the sustainability story."
+          },
+          {
+            "name": "Heritage decoration",
+            "description": "Registered litho and deep emboss on tinplate are specialist crafts. We keep them alive for brands who value them."
+          },
+          {
+            "name": "Reuse built in",
+            "description": "Tin is durable and recyclable by nature. Our keepsakes are designed to be refilled, repurposed and treasured."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Describe emboss depth and litho register",
+            "Tell the kept-for-years story",
+            "Reference heritage and reuse",
+            "Name lid mechanisms and tinplate"
+          ],
+          "donts": [
+            "Treat the tin as disposable",
+            "Use cold industrial language",
+            "Ignore the keepsake narrative",
+            "Photograph tins as commodity stock"
+          ]
+        },
+        "logoDirection": "A wordmark — The Keepsake Tin set in a warm engraved-style serif, framed by an embossed tinplate border with a registered litho ornament. The embossed border becomes the lid-decoration motif.",
+        "colorPalette": [
+          {
+            "name": "Tinplate Steel",
+            "hex": "#8C8F93",
+            "meaning": "Bright tinplate metal.",
+            "usage": "Secondary, structural imagery"
+          },
+          {
+            "name": "Heritage Green",
+            "hex": "#2E5240",
+            "meaning": "Classic biscuit-tin litho green.",
+            "usage": "Primary brand"
+          },
+          {
+            "name": "Caddy Red",
+            "hex": "#9C2B22",
+            "meaning": "Tea-caddy litho red.",
+            "usage": "Accent"
+          },
+          {
+            "name": "Emboss Gold",
+            "hex": "#B89243",
+            "meaning": "Litho gold and emboss.",
+            "usage": "Foil and emboss accents"
+          },
+          {
+            "name": "Cream Litho",
+            "hex": "#F0E7D4",
+            "meaning": "Lithographed cream ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Caslon for the wordmark and headlines",
+          "secondary": "Brandon Grotesque for body and specifications",
+          "rationale": "A heritage serif evokes the old tin tradition while a friendly geometric sans keeps modern specs warm and legible."
+        },
+        "visualIdentityIdeas": [
+          "An embossed litho border as the recurring frame motif",
+          "Tins photographed reused on real shelves years later",
+          "Emboss-depth macros catching raking light",
+          "A heritage litho-ornament library used across packaging",
+          "Lid-mechanism details shown as a craft inset"
+        ]
+      }
+    ],
+    "Minimal": [
+      {
+        "brandName": "Plain Carton",
+        "tagline": "Unbranded boxes. No ink, no fuss.",
+        "brandDescription": "Plain Carton makes plain, unbranded shipping supplies — boxes, mailers, tape and void fill — with no print, no logos and no markup for marketing. Plain Carton sells reliable stock cartons by the dimension and the flute, shipped fast in honest quantities. It is the no-nonsense supply line for sellers who want sound packaging and would rather not pay for someone else's branding on the outside.",
+        "scope": "Stock unbranded shipping supplies: corrugated boxes, poly and paper mailers, tape and void fill, sold by standard dimensions and flute grades. Plain Carton does not offer custom print, design or branded packaging.",
+        "brandNameRationale": "A carton is the trade word for a shipping box, and 'plain' states the entire proposition: unbranded, uncomplicated stock. Plain Carton names exactly what is in the box and nothing more.",
+        "industrySummary": "Beneath the branded-packaging boom sits a large, steady market for plain stock shipping supplies, where buyers want correct dimensions, sound board grades and fast dispatch over aesthetics. After the 2021 corrugated boom and subsequent overcapacity, stock box pricing has come back to earth, rewarding suppliers who compete on clarity and reliability. Right-sizing pressure has buyers specifying boxes by exact internal dimension and ECT to cut dim-weight and damage. The opening is a deliberately plain supplier that makes buying stock boxes simple.",
+        "competitorLandscape": "ULINE (uline.com) dominates broad-line industrial shipping supplies. EcoEnclose (ecoenclose.com) leads on recycled plain and eco shipping stock. Amazon Business and big-box suppliers compete on convenience. Plain Carton differs by stripping the catalog to a tight, well-specified set of plain SKUs with honest quantities and fast dispatch, avoiding the overwhelming breadth of broad-line giants.",
+        "positioningStatement": "Plain Carton is the plain stock supplier that makes buying the right box simple and honest.",
+        "positioningRationale": "Broad-line catalogs overwhelm small buyers with thousands of SKUs and confusing pack quantities. By offering a tight, clearly specified range of plain supplies, Plain Carton makes the right choice obvious. That clarity and honesty is the differentiator in a commodity market.",
+        "targetAudience": {
+          "primary": "Small-business shippers, fulfillment leads and resellers who ship steady volume and want correct, reliable boxes without branding or markup. They buy by dimension and ECT, reorder the same SKUs, and value fast dispatch and clear pack quantities. They are price- and reliability-driven, not brand-driven.",
+          "behaviors": [
+            "Buys by exact internal dimension and ECT",
+            "Reorders the same SKUs on a cycle",
+            "Compares price per unit honestly",
+            "Checks pack quantities before ordering"
+          ],
+          "motivations": [
+            "Get the right box without overpaying",
+            "Avoid branding they don't need",
+            "Ship reliably and fast"
+          ]
+        },
+        "mission": "To sell plain, well-specified shipping supplies simply and honestly.",
+        "vision": "A world where buying the right box takes one minute and no marketing.",
+        "coreValues": [
+          "Honesty",
+          "Clarity",
+          "Reliability",
+          "No markup for branding",
+          "Right-sized"
+        ],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Straightforward",
+          "Dependable",
+          "Unpretentious",
+          "Practical"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Plain and proud",
+            "description": "Plain Carton sells unbranded supplies with no logos and no marketing markup. You pay for the box, not the brand."
+          },
+          {
+            "name": "Specified clearly",
+            "description": "Every SKU lists exact internal dimensions and ECT so you buy the right box the first time."
+          },
+          {
+            "name": "Fast and honest",
+            "description": "Honest pack quantities and fast dispatch mean no surprises and no waiting."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State dimensions and ECT plainly",
+            "Quote honest pack quantities",
+            "Keep copy short and literal",
+            "Compete on clarity"
+          ],
+          "donts": [
+            "Add marketing fluff",
+            "Hide pack quantities",
+            "Use aspirational lifestyle language",
+            "Overstyle the catalog"
+          ]
+        },
+        "logoDirection": "A wordmark — Plain Carton set in a plain grotesk, black on kraft, with no symbol at all. The absence of a mark is the mark.",
+        "colorPalette": [
+          {
+            "name": "Carton Kraft",
+            "hex": "#BFA074",
+            "meaning": "Plain corrugated board.",
+            "usage": "Primary ground"
+          },
+          {
+            "name": "Plain Black",
+            "hex": "#1B1B1B",
+            "meaning": "Stencil ink.",
+            "usage": "Type, wordmark"
+          },
+          {
+            "name": "Tape Tan",
+            "hex": "#D8C29B",
+            "meaning": "Paper tape.",
+            "usage": "Secondary, accents"
+          },
+          {
+            "name": "Spec Grey",
+            "hex": "#7A7A78",
+            "meaning": "Spec text.",
+            "usage": "Specifications, captions"
+          },
+          {
+            "name": "Paper White",
+            "hex": "#F6F4EE",
+            "meaning": "Label stock.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Helvetica Now for the wordmark and headlines",
+          "secondary": "Helvetica Now Mono for dimensions and ECT specs",
+          "rationale": "A plain, neutral grotesk with a mono cut for dimensions states the product without decoration."
+        },
+        "visualIdentityIdeas": [
+          "Boxes photographed plainly on seamless kraft, no styling",
+          "Dimension and ECT specs printed like a stencil",
+          "A tight SKU grid with no lifestyle imagery",
+          "Pack-quantity stated boldly as a number",
+          "Kraft-and-black as the only palette"
+        ]
+      },
+      {
+        "brandName": "The Mailer",
+        "tagline": "One mailer. The right one. That's it.",
+        "brandDescription": "The Mailer is a single-SKU mailer brand that sells exactly one product: one well-engineered, recyclable paper mailer in a few sizes, perfected rather than proliferated. The Mailer rejects the endless catalog in favor of one mailer done right — correct gusset, secure self-seal, curbside-recyclable — reordered without thinking. It is the default mailer for sellers who want one good decision they never have to revisit.",
+        "scope": "A single recyclable paper mailer product offered in a small set of sizes, with subscription reordering. The Mailer does not sell boxes, custom print, or a broad supply catalog — only the one mailer.",
+        "brandNameRationale": "A mailer is the flat padded or paper envelope used for e-commerce shipments, and 'the' signals the single, definitive choice. The Mailer names the one product the brand exists to perfect.",
+        "industrySummary": "The paper-mailer segment has surged as brands replace poly mailers to meet recyclability and EPR goals, with curbside-recyclable paper mailers becoming the default for soft goods. Most suppliers compete on breadth, but a counter-trend favors radical simplicity — one well-engineered mailer that removes decision fatigue. Gusset design, self-seal strength and tear resistance separate a good paper mailer from a frustrating one. The opening is a single-SKU brand that perfects one mailer instead of stocking fifty.",
+        "competitorLandscape": "EcoEnclose (ecoenclose.com) offers a broad range of recyclable mailers. noissue (noissue.co) sells compostable mailers with custom print. Sealed Air's Jiffy and similar lead padded mailers. The Mailer differs by selling exactly one recyclable paper mailer, engineered and reorder-simple, rejecting catalog breadth entirely as the brand's whole proposition.",
+        "positioningStatement": "The Mailer is the single recyclable paper mailer, perfected so you never have to choose again.",
+        "positioningRationale": "Endless mailer catalogs create decision fatigue and inconsistent shipping. By offering one excellent, recyclable mailer, The Mailer removes the choice and guarantees consistency. That radical simplicity is the differentiator and the reason buyers subscribe.",
+        "targetAudience": {
+          "primary": "Small D2C and soft-goods sellers who ship a consistent product and want one reliable, recyclable mailer they can reorder forever. They value consistency and recyclability, dislike endless options, and prefer subscription reordering. They ship steady volume and want one fewer decision.",
+          "behaviors": [
+            "Subscribes to automatic reorders",
+            "Ships the same product consistently",
+            "Values recyclability over options",
+            "Picks one size and sticks with it"
+          ],
+          "motivations": [
+            "Make one good packaging decision permanently",
+            "Ship recyclably without research",
+            "Remove decision fatigue"
+          ]
+        },
+        "mission": "To perfect one recyclable mailer so well that choosing again becomes unnecessary.",
+        "vision": "A world where shipping soft goods means one good mailer, reordered without a thought.",
+        "coreValues": [
+          "One thing, done right",
+          "Recyclable by default",
+          "Consistency",
+          "No decision fatigue",
+          "Quiet reliability"
+        ],
+        "brandPersonalityTraits": [
+          "Singular",
+          "Calm",
+          "Reliable",
+          "Considered",
+          "Restrained"
+        ],
+        "messagingPillars": [
+          {
+            "name": "One mailer, perfected",
+            "description": "The Mailer sells exactly one recyclable paper mailer, engineered until it is right. No catalog, no compromise."
+          },
+          {
+            "name": "Recyclable by default",
+            "description": "Our single mailer is curbside-recyclable, so every shipment meets your eco goals without a decision."
+          },
+          {
+            "name": "Reorder without thinking",
+            "description": "Subscribe once and the right mailer arrives. The decision is made forever."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk about the one product",
+            "Name the gusset and self-seal",
+            "Keep it calm and singular",
+            "State recyclability plainly"
+          ],
+          "donts": [
+            "Offer endless variants",
+            "Create urgency or upsells",
+            "Overcomplicate the choice",
+            "Pad the range"
+          ]
+        },
+        "logoDirection": "A wordmark — The Mailer set in a single quiet grotesk, with a faint gusset-fold line beneath the word as the only detail. The fold line is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Mailer Kraft",
+            "hex": "#C2A47A",
+            "meaning": "Recyclable paper mailer.",
+            "usage": "Primary ground"
+          },
+          {
+            "name": "Seal Ink",
+            "hex": "#1D1E1C",
+            "meaning": "Self-seal print.",
+            "usage": "Type, wordmark"
+          },
+          {
+            "name": "Gusset Sand",
+            "hex": "#DCC9A6",
+            "meaning": "Folded gusset shadow.",
+            "usage": "Secondary, fold detail"
+          },
+          {
+            "name": "Recycle Green",
+            "hex": "#3E6B4E",
+            "meaning": "Curbside-recyclable mark.",
+            "usage": "Single accent"
+          },
+          {
+            "name": "Paper White",
+            "hex": "#F7F4EC",
+            "meaning": "Label area.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Suisse Int'l for the wordmark and headlines",
+          "secondary": "Suisse Int'l Mono for sizes and specs",
+          "rationale": "One restrained Swiss grotesk with a mono cut for sizes expresses the single-product, no-clutter philosophy."
+        },
+        "visualIdentityIdeas": [
+          "The single mailer shown in a few sizes only",
+          "A gusset-fold line as the lone graphic detail",
+          "A 'one product' page with nothing to scroll past",
+          "Subscription reorder shown as a single calm toggle",
+          "Recyclable mark used sparingly as the only icon"
+        ]
+      },
+      {
+        "brandName": "Kraft Naked",
+        "tagline": "Just kraft. No ink. Nothing added.",
+        "brandDescription": "Kraft Naked makes kraft, no-ink packaging — boxes, mailers, tape and tissue in raw unbleached kraft with zero print, zero bleach and zero coating. Kraft Naked strips packaging back to the bare substrate so it recycles cleanly and looks honestly itself. It is for brands whose aesthetic and ethic is the material left plain — the look of nothing added.",
+        "scope": "Unbleached, uncoated, unprinted kraft packaging: boxes, mailers, paper tape and tissue, sold as raw material with no ink or finishing. Kraft Naked does not offer print, color or coated stock.",
+        "brandNameRationale": "Kraft is the strong unbleached paper made by the kraft pulping process, and 'naked' states the absence of ink, bleach and coating. Kraft Naked names the material and its bare, unfinished state.",
+        "industrySummary": "Raw kraft has become a deliberate aesthetic and sustainability statement, signaling 'nothing added' at a time when recyclability and clean material streams are scrutinized. Unbleached, uncoated kraft recycles cleanly and avoids the inks, coatings and bleaches that complicate recovery, aligning with mono-material and PFAS-free trends. The natural kraft look also reads as honest and low-impact to consumers. The opening is a brand that sells the bare substrate as both the look and the ethic.",
+        "competitorLandscape": "EcoEnclose (ecoenclose.com) offers kraft within a broad recycled range. noissue (noissue.co) sells kraft alongside printed compostable options. ULINE (uline.com) stocks plain kraft supplies industrially. Kraft Naked differs by selling only raw, unbleached, uncoated, unprinted kraft — making 'nothing added' the entire brand rather than one option in a catalog.",
+        "positioningStatement": "Kraft Naked is the packaging brand that sells nothing but bare, unbleached, unprinted kraft.",
+        "positioningRationale": "Most suppliers treat kraft as one finish among many; the cleanest recycling and most honest look come from leaving it entirely bare. By committing to no ink, no bleach and no coating, Kraft Naked makes the material the whole proposition. That purity is the differentiator for honesty-driven brands.",
+        "targetAudience": {
+          "primary": "Founders and designers at natural, wellness and craft brands whose aesthetic is honest and minimal and whose ethic is clean recyclability. They want the raw kraft look, avoid added ink and coatings, and value the simplicity. They buy stock kraft and rely on labels rather than print for branding.",
+          "behaviors": [
+            "Chooses raw kraft for the honest look",
+            "Avoids ink and coatings deliberately",
+            "Brands with labels, not print",
+            "Reorders the same bare kraft SKUs"
+          ],
+          "motivations": [
+            "Signal 'nothing added' honestly",
+            "Keep recycling clean and simple",
+            "Match a minimal natural aesthetic"
+          ]
+        },
+        "mission": "To sell packaging as bare kraft — no ink, no bleach, no coating, nothing added.",
+        "vision": "A world where the honest default for packaging is the material left plain.",
+        "coreValues": [
+          "Nothing added",
+          "Clean recyclability",
+          "Material honesty",
+          "Restraint",
+          "Unbleached by principle"
+        ],
+        "brandPersonalityTraits": [
+          "Honest",
+          "Bare",
+          "Natural",
+          "Quiet",
+          "Principled"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Nothing added",
+            "description": "Kraft Naked sells raw kraft with no ink, no bleach and no coating. What you ship is exactly the material, honestly itself."
+          },
+          {
+            "name": "Cleanest to recycle",
+            "description": "Bare unbleached kraft recycles cleanly with no inks or coatings to contaminate the stream."
+          },
+          {
+            "name": "The look of honesty",
+            "description": "The raw kraft surface reads as honest and low-impact, matching brands who mean it."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Say what is absent (no ink, no bleach)",
+            "Describe the raw kraft surface",
+            "Keep copy bare and plain",
+            "Tie the look to clean recycling"
+          ],
+          "donts": [
+            "Add decorative styling",
+            "Offer print or color",
+            "Greenwash with vague claims",
+            "Overdress the photography"
+          ]
+        },
+        "logoDirection": "A wordmark — Kraft Naked stamped in a single deboss (no ink) into raw kraft, so the name is read by shadow alone. The blind deboss is the entire identity.",
+        "colorPalette": [
+          {
+            "name": "Raw Kraft",
+            "hex": "#B89668",
+            "meaning": "Unbleached kraft paper.",
+            "usage": "Primary ground, packaging"
+          },
+          {
+            "name": "Deboss Shadow",
+            "hex": "#8A6F49",
+            "meaning": "Blind-deboss shadow.",
+            "usage": "Type via deboss, detail"
+          },
+          {
+            "name": "Pulp Brown",
+            "hex": "#6E5436",
+            "meaning": "Kraft fiber depth.",
+            "usage": "Secondary, accents"
+          },
+          {
+            "name": "Natural Flax",
+            "hex": "#D8C19B",
+            "meaning": "Light kraft tone.",
+            "usage": "Highlights"
+          },
+          {
+            "name": "Off White",
+            "hex": "#F1EADB",
+            "meaning": "Uncoated label.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "GT America for the wordmark and headlines",
+          "secondary": "GT America Mono for specs and sizes",
+          "rationale": "A neutral grotesk shown as a blind deboss lets the material speak; the mono carries plain specs without color."
+        },
+        "visualIdentityIdeas": [
+          "A blind deboss wordmark read by shadow only",
+          "Raw kraft surfaces shot in natural raking light",
+          "Packaging shown unprinted, branded only by a small label",
+          "A 'no ink, no bleach, no coating' statement as the hero line",
+          "Texture macros of unbleached kraft fiber"
+        ]
+      },
+      {
+        "brandName": "Registration Mark",
+        "tagline": "A label system, and nothing else.",
+        "brandDescription": "Registration Mark is a label-only packaging system: it gives brands one clean, recyclable label program applied to plain stock packaging, so branding lives entirely on the label and the box stays bare. Registration Mark designs and supplies the label system — sizes, stocks, adhesives and a tight template — that turns any plain carton into a branded one without printed boxes. It is the minimal route to brand consistency through a single label, not a printed catalog.",
+        "scope": "A label system for packaging: label design templates, recyclable label stocks, adhesive specs and supply, applied to plain packaging. Registration Mark provides labels and the system; it does not print boxes or sell branded cartons.",
+        "brandNameRationale": "A registration mark is the small alignment target printers use to keep colors and the label in perfect position. Naming the brand Registration Mark frames the label as the single point where the brand registers.",
+        "industrySummary": "Many brands now choose label-on-plain over fully printed packaging because it cuts cost, reduces printed-box inventory, and keeps the carton mono-material and easy to recycle. A single label program also gives small brands consistency across mixed plain stock without committing to long printed runs. Recyclable label stocks and wash-off adhesives have improved, making label-on-fiber recycling-friendly. The opening is a system that makes the label the entire branding layer, cleanly and consistently.",
+        "competitorLandscape": "noissue (noissue.co) sells custom labels and stickers alongside packaging. Sticker Mule and Avery offer label printing broadly. EcoEnclose (ecoenclose.com) provides recyclable labels with shipping stock. Registration Mark differs by selling a disciplined label system designed for plain packaging — one template, recyclable stocks, wash-off adhesive — rather than ad-hoc stickers, so branding is consistent and the box stays bare and recyclable.",
+        "positioningStatement": "Registration Mark is the label-only system that brands plain packaging through one clean, recyclable label.",
+        "positioningRationale": "Printed-box runs are costly and lock in inventory; a single label program brands any plain stock cheaply and consistently while keeping the box recyclable. By designing the label as a disciplined system rather than random stickers, Registration Mark delivers brand consistency with minimal footprint. That label-first discipline is the differentiator.",
+        "targetAudience": {
+          "primary": "Founders and operations leads at lean D2C and craft brands who want consistent branding without printed-box inventory or cost. They buy plain stock, brand it with labels, and value a clean recyclable system. They reorder label stock and apply it across mixed packaging sizes.",
+          "behaviors": [
+            "Brands plain stock with one label system",
+            "Reorders recyclable label stock",
+            "Applies the same template across sizes",
+            "Avoids printed-box inventory"
+          ],
+          "motivations": [
+            "Brand consistently without printed boxes",
+            "Keep packaging recyclable and bare",
+            "Cut packaging cost and inventory"
+          ]
+        },
+        "mission": "To give brands one clean, recyclable label system so the box can stay plain.",
+        "vision": "A world where consistent branding never requires a warehouse of printed boxes.",
+        "coreValues": [
+          "Label-first discipline",
+          "Recyclable by system",
+          "Consistency without inventory",
+          "Restraint",
+          "Registration over decoration"
+        ],
+        "brandPersonalityTraits": [
+          "Systematic",
+          "Clean",
+          "Disciplined",
+          "Quiet",
+          "Precise"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Brand on the label",
+            "description": "Registration Mark puts all your branding on one clean label, so plain stock becomes branded without printed boxes."
+          },
+          {
+            "name": "One system, every size",
+            "description": "A disciplined template, stock and adhesive program keeps your label consistent across mixed packaging."
+          },
+          {
+            "name": "Recyclable by design",
+            "description": "Recyclable stocks and wash-off adhesives keep label-on-fiber easy to recycle."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk template, stock and adhesive",
+            "Show the label on plain stock",
+            "Keep it systematic and precise",
+            "Emphasize recyclability"
+          ],
+          "donts": [
+            "Push printed boxes",
+            "Treat labels as random stickers",
+            "Overdecorate the system",
+            "Ignore adhesive and recyclability"
+          ]
+        },
+        "logoDirection": "A wordmark — Registration Mark set in a precise grotesk, with a small crosshair registration-target glyph replacing the dot or used as the favicon. The crosshair frames every label template.",
+        "colorPalette": [
+          {
+            "name": "Register Black",
+            "hex": "#161719",
+            "meaning": "Registration-mark ink.",
+            "usage": "Type, the crosshair"
+          },
+          {
+            "name": "Label White",
+            "hex": "#F8F7F3",
+            "meaning": "Label stock.",
+            "usage": "Primary ground, labels"
+          },
+          {
+            "name": "Target Red",
+            "hex": "#C23A33",
+            "meaning": "Registration-target red.",
+            "usage": "Single accent, crosshair"
+          },
+          {
+            "name": "Stock Grey",
+            "hex": "#B7B6B2",
+            "meaning": "Liner and plain stock.",
+            "usage": "Secondary"
+          },
+          {
+            "name": "Kraft Base",
+            "hex": "#C2A47A",
+            "meaning": "Plain carton beneath.",
+            "usage": "Packaging imagery"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Montreal for the wordmark and headlines",
+          "secondary": "Neue Montreal Mono for label specs and sizes",
+          "rationale": "A precise modern grotesk with a mono cut for label specs reads as a disciplined system, not a sticker shop."
+        },
+        "visualIdentityIdeas": [
+          "A crosshair registration target as the core glyph",
+          "Labels shown applied to plain kraft and white stock",
+          "A single template grid framing every label",
+          "Stock and adhesive specs presented as a tidy system sheet",
+          "Wash-off recyclability shown as a simple demonstration"
+        ]
+      },
+      {
+        "brandName": "Tuck & Seal",
+        "tagline": "Protective mailers that just do the job.",
+        "brandDescription": "Tuck & Seal is a protective-mailer specialist focused narrowly on one problem: getting fragile and snug items to the door undamaged, in a minimal recyclable paper mailer. Tuck & Seal engineers padded and rigid paper mailers with a clean tuck flap and secure seal, dropping the catalog clutter to concentrate on protection and recyclability. It is the specialist for sellers who care that the thing arrives intact and the mailer recycles clean.",
+        "scope": "Protective paper mailers: padded paper mailers, rigid stay-flat mailers and reinforced document mailers, engineered for protection and curbside recyclability. Tuck & Seal does not sell boxes, custom print or non-protective packaging.",
+        "brandNameRationale": "The tuck flap and the seal are the two closures that secure a mailer, and together they describe how a protective mailer closes around its contents. Tuck & Seal names the closure that does the job.",
+        "industrySummary": "Protective mailers are migrating from bubble-lined plastic to recyclable paper-padded and rigid designs as brands phase out poly to meet recyclability and EPR goals. The engineering challenge is matching plastic's protection with curbside-recyclable paper construction — honeycomb padding, rigid stay-flats and reinforced flaps. Damage rates and recyclability now matter equally to buyers shipping fragile or snug goods. The opening is a specialist that solves protection within recyclable paper, narrowly and well.",
+        "competitorLandscape": "Sealed Air (sealedair.com) leads protective packaging with Jiffy and bubble mailers. EcoEnclose (ecoenclose.com) offers recyclable padded paper mailers. ProAmpac (proampac.com) supplies paper-based mailer solutions. Tuck & Seal differs by specializing narrowly in recyclable protective paper mailers with a clean tuck-and-seal closure, avoiding broad-line breadth to do protection-plus-recyclability well.",
+        "positioningStatement": "Tuck & Seal is the protective-mailer specialist that gets fragile goods there intact in a recyclable paper mailer.",
+        "positioningRationale": "Switching from poly protective mailers to paper risks damage if the engineering is weak; most suppliers treat it as one SKU among thousands. By specializing only in recyclable protective mailers and engineering the padding and closure, Tuck & Seal matches protection with recyclability. That focused engineering is the differentiator.",
+        "targetAudience": {
+          "primary": "Fulfillment and operations leads at brands shipping fragile, snug or document-type goods who need protection without poly and care about recyclability. They watch damage rates, want a curbside-recyclable mailer, and value a specialist who has solved protection in paper. They reorder the protective SKU that fits their product.",
+          "behaviors": [
+            "Tracks damage rates by mailer type",
+            "Switches from poly to recyclable paper",
+            "Tests protection before committing",
+            "Reorders the protective SKU that fits"
+          ],
+          "motivations": [
+            "Get fragile goods there intact",
+            "Drop poly for recyclable paper",
+            "Reduce damage returns"
+          ]
+        },
+        "mission": "To deliver fragile goods undamaged in a minimal, recyclable paper mailer.",
+        "vision": "A world where protective packaging protects without a scrap of plastic.",
+        "coreValues": [
+          "Protection first",
+          "Recyclable, not poly",
+          "Narrow focus",
+          "Engineered closure",
+          "No clutter"
+        ],
+        "brandPersonalityTraits": [
+          "Focused",
+          "Dependable",
+          "Practical",
+          "Engineered",
+          "Minimal"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Arrives intact",
+            "description": "Tuck & Seal engineers padding and closure so fragile and snug goods get there undamaged. Protection is the whole job."
+          },
+          {
+            "name": "Paper, not poly",
+            "description": "Our protective mailers are curbside-recyclable paper, matching plastic's protection without the plastic."
+          },
+          {
+            "name": "Narrow and good",
+            "description": "We make protective mailers only, so we solve protection-plus-recyclability better than a broad catalog can."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk protection and damage rates",
+            "Name the tuck flap and seal",
+            "Keep the range narrow and clear",
+            "Emphasize recyclable paper"
+          ],
+          "donts": [
+            "Stock unrelated SKUs",
+            "Default to poly and bubble",
+            "Overpromise on protection",
+            "Clutter the catalog"
+          ]
+        },
+        "logoDirection": "A wordmark — Tuck & Seal set in a sturdy grotesk, with the ampersand drawn as a tuck flap folding into a seal. The fold-and-seal mark is the favicon.",
+        "colorPalette": [
+          {
+            "name": "Seal Charcoal",
+            "hex": "#222426",
+            "meaning": "Secure seal ink.",
+            "usage": "Type, wordmark"
+          },
+          {
+            "name": "Padded Kraft",
+            "hex": "#BD9A6E",
+            "meaning": "Paper-padded mailer.",
+            "usage": "Primary ground"
+          },
+          {
+            "name": "Flap Tan",
+            "hex": "#D6C09A",
+            "meaning": "Tuck-flap shadow.",
+            "usage": "Secondary, fold detail"
+          },
+          {
+            "name": "Intact Green",
+            "hex": "#3C6A4C",
+            "meaning": "Arrives-intact / recyclable.",
+            "usage": "Single accent"
+          },
+          {
+            "name": "Paper White",
+            "hex": "#F6F3EB",
+            "meaning": "Label area.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Basis Grotesque for the wordmark and headlines",
+          "secondary": "Basis Grotesque Mono for protection specs and sizes",
+          "rationale": "A sturdy, practical grotesk with a mono cut for protection specs signals an engineered, focused mailer."
+        },
+        "visualIdentityIdeas": [
+          "A tuck-flap-into-seal mark as the ampersand and favicon",
+          "Cutaway showing paper padding instead of bubble",
+          "Damage-test imagery as proof of protection",
+          "A narrow product grid of protective SKUs only",
+          "Recyclable mark paired with the protection claim"
+        ]
+      }
+    ],
+    "Corporate": [
+      {
+        "brandName": "Flute & Liner Industries",
+        "tagline": "Corrugated, manufactured to spec, at scale.",
+        "brandDescription": "Flute & Liner Industries is an industrial corrugated manufacturer producing corrugated board, cases, trays and displays to spec for food, beverage, e-commerce and industrial customers. Flute & Liner Industries runs corrugators and converting lines across flute grades and board combinations, delivering ECT-rated, FSC-certified packaging with the consistency and volume that supply chains demand. It is the dependable corrugated partner behind brands that ship at scale.",
+        "scope": "Manufacture of corrugated board and converted packaging — RSC cases, die-cut boxes, trays and point-of-sale displays — across A/B/C/E flutes and board grades, with FSC certification and ECT testing. Flute & Liner Industries serves B2B volume buyers, not consumer custom orders.",
+        "brandNameRationale": "The flute is the fluted medium and the liner is the flat facing glued to it — together they are the two components of corrugated board. Flute & Liner Industries names the very anatomy of the product it manufactures.",
+        "industrySummary": "The corrugated industry expanded capacity sharply during the 2021 e-commerce boom and then faced overcapacity and softening demand as volumes normalized, pressuring margins and rewarding efficient, consistent manufacturers. Sustainability credentials — FSC certification, recycled content and recyclability — are now table stakes in B2B tenders, alongside ECT performance and right-sizing to cut material and freight. Consolidation (notably the Smurfit Kappa–WestRock merger) has reshaped the competitive top tier. The opening is a dependable mid-market manufacturer competing on spec consistency and service.",
+        "competitorLandscape": "Smurfit Westrock (smurfitwestrock.com) is the global corrugated leader after the 2024 merger. International Paper (internationalpaper.com) is a major integrated containerboard producer. DS Smith (dssmith.com) leads sustainable corrugated in Europe. Flute & Liner Industries differs by competing as a responsive mid-market manufacturer focused on spec consistency, ECT reliability and service for customers underserved by the giants.",
+        "positioningStatement": "Flute & Liner Industries is the corrugated manufacturer that delivers spec-consistent, certified board at scale with real service.",
+        "positioningRationale": "Volume buyers need corrugated that hits ECT spec every run and a partner who answers the phone, which the consolidated giants often deliver impersonally. By competing on spec consistency, certification and responsive service, Flute & Liner Industries wins mid-market customers. That reliability-plus-service is the differentiator.",
+        "targetAudience": {
+          "primary": "Procurement and packaging engineers at food, beverage, e-commerce and industrial companies buying corrugated in volume who need consistent ECT performance, certification and reliable supply. They run tenders, test board, and value service and on-time delivery. They sign annual supply agreements and audit suppliers.",
+          "behaviors": [
+            "Runs competitive corrugated tenders",
+            "Tests ECT and board spec on delivery",
+            "Audits FSC and recycled-content claims",
+            "Signs annual supply agreements"
+          ],
+          "motivations": [
+            "Hit ECT spec consistently every run",
+            "Meet sustainability tender requirements",
+            "Secure reliable on-time supply"
+          ]
+        },
+        "mission": "To manufacture spec-consistent, certified corrugated packaging at scale with dependable service.",
+        "vision": "A world where supply chains never worry whether the board will hold.",
+        "coreValues": [
+          "Spec consistency",
+          "Certified and responsible",
+          "Reliable supply",
+          "Service that answers",
+          "Engineered performance"
+        ],
+        "brandPersonalityTraits": [
+          "Dependable",
+          "Industrial",
+          "Precise",
+          "Service-minded",
+          "Solid"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Spec, every run",
+            "description": "Flute & Liner Industries holds ECT and board spec consistently, so your line never stops for a weak box."
+          },
+          {
+            "name": "Certified and responsible",
+            "description": "FSC certification and recycled content meet your sustainability tenders without compromising performance."
+          },
+          {
+            "name": "Service that answers",
+            "description": "We pair industrial scale with responsive service, so you have a partner, not just a supplier."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote ECT, flute and board grade",
+            "Cite FSC and recycled content",
+            "Talk lead times and reliability",
+            "Speak B2B and competent"
+          ],
+          "donts": [
+            "Use consumer-y lifestyle language",
+            "Be vague on spec or certification",
+            "Overpromise capacity",
+            "Hide behind jargon"
+          ]
+        },
+        "logoDirection": "A wordmark — Flute & Liner Industries set in a solid industrial grotesk, with a fluted-board cross-section (liner / flute / liner) forming a bar beneath the name. The cross-section bar is the brand device.",
+        "colorPalette": [
+          {
+            "name": "Industrial Navy",
+            "hex": "#1E3553",
+            "meaning": "Dependable industry.",
+            "usage": "Primary brand"
+          },
+          {
+            "name": "Corrugate Kraft",
+            "hex": "#B6905E",
+            "meaning": "Corrugated board.",
+            "usage": "Secondary, board imagery"
+          },
+          {
+            "name": "Liner Steel",
+            "hex": "#5C6670",
+            "meaning": "Linerboard grey.",
+            "usage": "Type, structure"
+          },
+          {
+            "name": "Spec Green",
+            "hex": "#3C7A4E",
+            "meaning": "FSC and recycled credentials.",
+            "usage": "Sustainability accents"
+          },
+          {
+            "name": "Mill White",
+            "hex": "#F2F1EC",
+            "meaning": "Paper mill ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Founders Grotesk for the wordmark and headlines",
+          "secondary": "Founders Grotesk Mono for ECT and spec data",
+          "rationale": "A solid industrial grotesk with a mono cut for ECT and grade data reads as a competent manufacturer."
+        },
+        "visualIdentityIdeas": [
+          "A liner-flute-liner cross-section as the brand bar",
+          "Corrugator and converting line photography",
+          "ECT and board-grade specs in a clear data block",
+          "FSC and recycled-content badges presented cleanly",
+          "Flute-profile icons (A/B/C/E) used as a system"
+        ]
+      },
+      {
+        "brandName": "Substrate Films & Laminates",
+        "tagline": "Shrink, stretch and protective films, converted to spec.",
+        "brandDescription": "Substrate Films & Laminates is a flexible-films and laminates converter producing shrink film, stretch wrap, protective films and laminated structures for industrial, logistics and packaging customers — this is where plastic covers live. Substrate Films & Laminates extrudes, laminates, prints and slits films to spec, and is leading its own shift toward mono-material, recycle-ready structures. It is the films partner for operations that wrap, cover and protect at scale.",
+        "scope": "Conversion of flexible films and laminates: shrink film, stretch/pallet wrap, surface-protective films, lidding and laminated pouches, including printing, slitting and recycle-ready mono-material development. Substrate Films & Laminates is a B2B converter, not a consumer brand.",
+        "brandNameRationale": "A substrate is the base film web that is printed, laminated and converted, and laminates are the bonded multi-layer structures it produces. Substrate Films & Laminates names the material and the process at the core of flexible packaging.",
+        "industrySummary": "Flexible films — shrink, stretch and protective covers — face the sharpest sustainability pressure in packaging, as multi-layer laminates are hard to recycle and squarely targeted by EPR fees, plastic taxes and the EU PPWR's recyclability mandates. The industry's defining 2025 shift is toward mono-material (all-PE or all-PP) structures that are recycle-ready while retaining barrier and strength. Demand for stretch and protective films stays strong in logistics even as recyclability becomes the deciding tender criterion. The opening is a converter that leads on recycle-ready films without sacrificing performance.",
+        "competitorLandscape": "Berry Global (berryglobal.com) is a leading global films and flexible-packaging producer. Amcor (amcor.com) is a flexible-packaging giant driving recycle-ready development. ProAmpac (proampac.com) specializes in flexible packaging and films with sustainability focus. Substrate Films & Laminates differs by positioning as a responsive converter that leads with mono-material, recycle-ready shrink, stretch and protective films for customers needing both performance and compliance.",
+        "positioningStatement": "Substrate Films & Laminates is the flexible-films converter delivering recycle-ready shrink, stretch and protective films without losing performance.",
+        "positioningRationale": "Buyers of films and plastic covers are caught between performance needs and tightening recyclability rules, and many converters lag on mono-material. By leading with recycle-ready all-PE/all-PP structures that still perform, Substrate Films & Laminates resolves that tension. That recycle-ready-plus-performance position is the differentiator.",
+        "targetAudience": {
+          "primary": "Packaging engineers and procurement leads at manufacturers, logistics operations and brand owners buying shrink, stretch and protective films in volume who must meet recyclability rules without losing performance. They test film gauge and strength, audit recyclability, and run tenders. They sign supply agreements and qualify converters rigorously.",
+          "behaviors": [
+            "Tests film gauge, strength and cling",
+            "Audits mono-material recyclability",
+            "Runs film tenders against EPR criteria",
+            "Qualifies converters before supply deals"
+          ],
+          "motivations": [
+            "Meet PPWR and EPR recyclability rules",
+            "Keep film performance under load",
+            "Secure compliant, reliable film supply"
+          ]
+        },
+        "mission": "To convert shrink, stretch and protective films that perform and are recycle-ready.",
+        "vision": "A world where every protective film can re-enter a recycling stream.",
+        "coreValues": [
+          "Recycle-ready by design",
+          "Performance under load",
+          "Material science",
+          "Compliance leadership",
+          "Reliable conversion"
+        ],
+        "brandPersonalityTraits": [
+          "Technical",
+          "Forward-leaning",
+          "Rigorous",
+          "Industrial",
+          "Solutions-driven"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Recycle-ready films",
+            "description": "Substrate Films & Laminates leads with mono-material all-PE and all-PP structures that are recycle-ready, including shrink, stretch and protective covers."
+          },
+          {
+            "name": "Performance kept",
+            "description": "Our recycle-ready films hold gauge, strength and cling under real load, so compliance never costs protection."
+          },
+          {
+            "name": "Built for the rules",
+            "description": "We design to PPWR and EPR recyclability criteria, so your packaging passes tenders and lowers fees."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote gauge, strength and structure",
+            "Name the mono-material resin",
+            "Tie films to PPWR/EPR criteria",
+            "Speak as a technical converter"
+          ],
+          "donts": [
+            "Ignore recyclability pressures",
+            "Be vague on film structure",
+            "Use consumer marketing tone",
+            "Overclaim recycle-readiness"
+          ]
+        },
+        "logoDirection": "A wordmark — Substrate Films & Laminates set in a clean technical grotesk, with a layered-film cross-section motif (collapsing from multi-layer to mono-layer) beside it. The layer motif signals the mono-material shift.",
+        "colorPalette": [
+          {
+            "name": "Polymer Blue",
+            "hex": "#1F5FA8",
+            "meaning": "Polymer film science.",
+            "usage": "Primary brand"
+          },
+          {
+            "name": "Film Clear",
+            "hex": "#DDE6EA",
+            "meaning": "Transparent film web.",
+            "usage": "Backgrounds, light ground"
+          },
+          {
+            "name": "Mono Green",
+            "hex": "#2F7A52",
+            "meaning": "Mono-material recycle-ready.",
+            "usage": "Sustainability accents"
+          },
+          {
+            "name": "Slit Steel",
+            "hex": "#566069",
+            "meaning": "Slitting and machinery.",
+            "usage": "Type, structure"
+          },
+          {
+            "name": "Web White",
+            "hex": "#F4F6F5",
+            "meaning": "Film web ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Aktiv Grotesk for the wordmark and headlines",
+          "secondary": "Aktiv Grotesk Mono for gauge and structure specs",
+          "rationale": "A clean technical grotesk with a mono cut for film specs reads as a rigorous, science-led converter."
+        },
+        "visualIdentityIdeas": [
+          "A film cross-section motif collapsing multi-layer to mono-layer",
+          "Stretch and shrink film in motion as hero imagery",
+          "Gauge and structure specs in an engineering data block",
+          "Recycle-ready resin codes presented as a clear system",
+          "Slitting-line and extrusion photography"
+        ]
+      },
+      {
+        "brandName": "Laydown Contract Packaging",
+        "tagline": "Your product, packed to spec, at volume.",
+        "brandDescription": "Laydown Contract Packaging is a contract packaging and co-packing operation that assembles, fills, kits and finishes products into retail- and e-commerce-ready packs for brands that don't run their own lines. Laydown Contract Packaging handles primary and secondary packing, kitting, display build and fulfillment with audited quality and traceability. It is the outsourced packing line behind brands scaling beyond their own capacity.",
+        "scope": "Contract packaging and co-packing services: filling, assembly, kitting, shrink and club-store packs, display building, labeling and pack-out, with quality control and traceability. Laydown Contract Packaging packs brands' products; it does not manufacture the products or sell its own.",
+        "brandNameRationale": "The laydown is the planned arrangement of components before they are packed — the pack-out layout on the line. Laydown Contract Packaging names the orchestration of getting product laid down and packed correctly.",
+        "industrySummary": "Contract packaging has grown as brands outsource non-core packing to flex capacity, launch faster, and avoid capital tied up in lines, especially for promotions, kitting and seasonal surges. Retailer compliance (club-store packs, display-ready units) and e-commerce pack-out have made co-packers strategic partners rather than commodity labor. Traceability, food-safety certification and right-sized, recyclable secondary packaging are now expected. The opening is a co-packer that competes on quality, traceability and flexible scale.",
+        "competitorLandscape": "Assemblies Unlimited (assembliesunlimited.com) is an established contract-packaging and kitting specialist. Multi-Pack Solutions (multipacksolutions.com) provides co-packing and assembly across categories. ProMach's contract-packaging arm (promachbuilt.com) and large 3PLs increasingly add co-packing. Laydown Contract Packaging differs by positioning as a quality- and traceability-led co-packer with flexible scale for brands needing audited packing without their own lines.",
+        "positioningStatement": "Laydown Contract Packaging is the co-packer that packs your product to spec, with audited quality and flexible scale.",
+        "positioningRationale": "Brands outsourcing packing fear quality slips and traceability gaps that put their name at risk. By leading with audited quality control, traceability and flexible capacity, Laydown Contract Packaging removes that risk. That quality-and-traceability focus is the differentiator over commodity packing labor.",
+        "targetAudience": {
+          "primary": "Operations, supply-chain and packaging managers at consumer brands scaling beyond their own capacity who need kitting, filling and retail-ready pack-out with audited quality. They care about traceability, retailer compliance and flexible volume, and qualify co-packers carefully. They sign program-based agreements and audit facilities.",
+          "behaviors": [
+            "Qualifies co-packers with facility audits",
+            "Specifies retailer-compliant pack-out",
+            "Requires traceability and QC records",
+            "Scales volume up and down by season"
+          ],
+          "motivations": [
+            "Pack at volume without owning a line",
+            "Meet retailer compliance reliably",
+            "Protect the brand with audited quality"
+          ]
+        },
+        "mission": "To pack brands' products to spec with audited quality, traceability and flexible scale.",
+        "vision": "A world where any brand can scale its packing without building a single line.",
+        "coreValues": [
+          "Audited quality",
+          "Traceability",
+          "Flexible scale",
+          "Retailer compliance",
+          "Reliability"
+        ],
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Methodical",
+          "Scalable",
+          "Accountable",
+          "Service-minded"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Packed to spec",
+            "description": "Laydown Contract Packaging assembles, fills and packs your product exactly to spec, every unit, every run."
+          },
+          {
+            "name": "Audited and traceable",
+            "description": "We run audited quality control and full traceability, so your brand is protected on every pack."
+          },
+          {
+            "name": "Flexible scale",
+            "description": "We flex capacity for launches, promotions and seasonal surges, so you scale without owning a line."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk QC, traceability and compliance",
+            "Quote capacity and lead times",
+            "Speak as an accountable partner",
+            "Reference retailer requirements"
+          ],
+          "donts": [
+            "Sound like commodity labor",
+            "Be vague on quality systems",
+            "Overpromise capacity",
+            "Use consumer marketing fluff"
+          ]
+        },
+        "logoDirection": "A wordmark — Laydown Contract Packaging set in a competent industrial sans, with a pack-out layout grid (laid-down components) as a small device beside it. The layout grid signals the orchestration of the line.",
+        "colorPalette": [
+          {
+            "name": "Line Navy",
+            "hex": "#22324A",
+            "meaning": "Dependable operations.",
+            "usage": "Primary brand"
+          },
+          {
+            "name": "Pack Kraft",
+            "hex": "#B89366",
+            "meaning": "Secondary packaging.",
+            "usage": "Secondary, imagery"
+          },
+          {
+            "name": "Audit Teal",
+            "hex": "#2C7A78",
+            "meaning": "Quality and traceability.",
+            "usage": "Accents, QC marks"
+          },
+          {
+            "name": "Steel Grey",
+            "hex": "#5A636B",
+            "meaning": "Line machinery.",
+            "usage": "Type, structure"
+          },
+          {
+            "name": "Floor White",
+            "hex": "#F3F3EF",
+            "meaning": "Clean facility ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for the wordmark and headlines",
+          "secondary": "IBM Plex Mono for lot codes and spec data",
+          "rationale": "A clear operational sans with a mono cut for lot and spec codes reads as an audited, traceable co-packer."
+        },
+        "visualIdentityIdeas": [
+          "A pack-out layout grid as the brand device",
+          "Line and kitting-station photography",
+          "Traceability shown as lot-code and QC-checkpoint graphics",
+          "Capacity and flexibility expressed as a clear data block",
+          "Retailer-compliance badges presented cleanly"
+        ]
+      },
+      {
+        "brandName": "Gusset Packaging Supply",
+        "tagline": "Every packaging line, one supply partner.",
+        "brandDescription": "Gusset Packaging Supply is a packaging supply distributor that stocks and delivers the full range of packaging consumables — corrugated, films, void fill, tape, strapping and machinery supplies — to businesses across industries. Gusset Packaging Supply consolidates many manufacturers into one account, one delivery schedule and one knowledgeable rep, with vendor-managed inventory for high-volume customers. It is the single supply partner that keeps a customer's packaging lines stocked.",
+        "scope": "Distribution of packaging consumables and supplies across categories — corrugated, flexible films, protective, tapes, strapping and consumables — with vendor-managed inventory and logistics. Gusset Packaging Supply distributes; it does not manufacture packaging.",
+        "brandNameRationale": "A gusset is the expandable fold that gives a bag or box its depth and capacity to hold more. Gusset Packaging Supply uses it to signal a distributor with the depth and capacity to hold every packaging line a customer needs.",
+        "industrySummary": "Packaging distribution is a consolidation-driven sector where buyers increasingly prefer a single partner that consolidates many manufacturers into one account, one delivery and one rep to cut administrative overhead. Vendor-managed inventory and e-procurement integration have become differentiators, as has sustainability advisory to help customers navigate EPR, mono-material switches and right-sizing. Supply-chain reliability after recent disruptions is a top buyer concern. The opening is a distributor competing on breadth, reliability and expert advisory.",
+        "competitorLandscape": "ULINE (uline.com) is the broad-line packaging-supply leader by catalog scale. Veritiv and similar national distributors serve large accounts with VMI. Imperial Dade distributes packaging and consumables widely. Gusset Packaging Supply differs by positioning as a reliability- and advisory-led distributor offering vendor-managed inventory and EPR/sustainability guidance, not just catalog breadth.",
+        "positioningStatement": "Gusset Packaging Supply is the single supply partner that keeps every packaging line stocked with expert advisory built in.",
+        "positioningRationale": "Buyers juggling many packaging vendors waste time on admin and lack guidance through sustainability transitions. By consolidating supply, managing inventory and advising on EPR and material switches, Gusset Packaging Supply becomes a strategic partner. That advisory-plus-reliability position differentiates it from catalog-only distributors.",
+        "targetAudience": {
+          "primary": "Procurement, operations and warehouse managers across manufacturing, fulfillment and retail who buy packaging consumables regularly and want fewer vendors, reliable supply and guidance. They value VMI, consolidated billing, and advice on sustainability switches. They sign supply agreements and consolidate vendors deliberately.",
+          "behaviors": [
+            "Consolidates packaging vendors to one account",
+            "Uses vendor-managed inventory",
+            "Seeks advice on EPR and material switches",
+            "Reorders consumables on a schedule"
+          ],
+          "motivations": [
+            "Cut vendor admin to one partner",
+            "Keep lines reliably stocked",
+            "Navigate sustainability transitions"
+          ]
+        },
+        "mission": "To keep every customer's packaging lines stocked through one reliable, expert supply partner.",
+        "vision": "A world where managing packaging supply means one trusted partner, not twenty vendors.",
+        "coreValues": [
+          "One partner, full breadth",
+          "Reliable supply",
+          "Expert advisory",
+          "Inventory managed",
+          "Sustainability guidance"
+        ],
+        "brandPersonalityTraits": [
+          "Reliable",
+          "Knowledgeable",
+          "Consolidating",
+          "Service-minded",
+          "Steady"
+        ],
+        "messagingPillars": [
+          {
+            "name": "One partner, every line",
+            "description": "Gusset Packaging Supply consolidates corrugated, films, protective and consumables into one account, one delivery, one rep."
+          },
+          {
+            "name": "Never out of stock",
+            "description": "Vendor-managed inventory and reliable logistics keep your packaging lines running without interruption."
+          },
+          {
+            "name": "Advisory built in",
+            "description": "We guide you through EPR, mono-material switches and right-sizing, so supply comes with expertise."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk consolidation, VMI and reliability",
+            "Reference EPR and material advice",
+            "Speak as a trusted partner",
+            "Quote breadth and service levels"
+          ],
+          "donts": [
+            "Sound like a faceless catalog",
+            "Ignore sustainability transitions",
+            "Overpromise stock levels",
+            "Use consumer-y language"
+          ]
+        },
+        "logoDirection": "A wordmark — Gusset Packaging Supply set in a steady corporate grotesk, with an expanding gusset-fold motif beside it signaling depth and capacity. The gusset fold opens as a capability device.",
+        "colorPalette": [
+          {
+            "name": "Supply Blue",
+            "hex": "#21508C",
+            "meaning": "Reliable distribution.",
+            "usage": "Primary brand"
+          },
+          {
+            "name": "Gusset Kraft",
+            "hex": "#B8946A",
+            "meaning": "Packaging consumables.",
+            "usage": "Secondary, imagery"
+          },
+          {
+            "name": "Stock Teal",
+            "hex": "#2A7470",
+            "meaning": "In-stock reliability.",
+            "usage": "Accents, status"
+          },
+          {
+            "name": "Logistics Grey",
+            "hex": "#5B636B",
+            "meaning": "Delivery and warehouse.",
+            "usage": "Type, structure"
+          },
+          {
+            "name": "Dock White",
+            "hex": "#F2F3F0",
+            "meaning": "Warehouse ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for the wordmark and headlines",
+          "secondary": "Söhne Mono for SKU and stock data",
+          "rationale": "A steady corporate grotesk with a mono cut for SKU and stock data reads as a reliable, organized distributor."
+        },
+        "visualIdentityIdeas": [
+          "An expanding gusset-fold motif as the capability device",
+          "Warehouse and VMI restocking photography",
+          "A breadth grid of packaging categories under one roof",
+          "Sustainability-advisory content presented clearly",
+          "Service-level and stock metrics in a clean data block"
+        ]
+      },
+      {
+        "brandName": "Crashlock Automation",
+        "tagline": "Packaging machinery that runs the line.",
+        "brandDescription": "Crashlock Automation builds and integrates packaging machinery and automation — case erectors, sealers, palletizers, shrink and stretch wrappers, and line controls — for manufacturers and distributors automating their pack-out. Crashlock Automation engineers, installs and services end-of-line systems with uptime guarantees, remote monitoring and operator training. It is the automation partner that turns a manual packing area into a reliable, high-throughput line.",
+        "scope": "Packaging machinery and automation: case erectors and sealers, shrink and stretch wrappers, palletizers, conveyors and line-control integration, with installation, service and remote monitoring. Crashlock Automation supplies and services machinery, not the consumable packaging.",
+        "brandNameRationale": "A crash-lock base is the auto-forming box bottom that machines erect and lock in one fast motion — automation made physical. Crashlock Automation borrows the term to signal fast, automatic, reliable line forming.",
+        "industrySummary": "End-of-line packaging automation is in sustained demand as labor shortages, rising wages and e-commerce throughput push manufacturers to automate case erecting, sealing, wrapping and palletizing. In 2025 the growth areas are flexible robotic palletizing, machine-vision quality checks, and machinery that handles recyclable mono-material films and right-sized boxes. Uptime, remote diagnostics and fast service have become the deciding purchase criteria given the cost of line stoppages. The opening is an automation partner competing on uptime, integration and service.",
+        "competitorLandscape": "ProMach (promachbuilt.com) is a leading packaging-machinery group spanning end-of-line automation. Sealed Air (sealedair.com) provides automated protective and void-fill systems. Krones and similar serve high-speed lines. Crashlock Automation differs by positioning as an integration- and uptime-led partner for mid-market manufacturers automating pack-out, with remote monitoring and fast service as the core promise.",
+        "positioningStatement": "Crashlock Automation is the packaging-machinery partner that maximizes line uptime through integration, monitoring and fast service.",
+        "positioningRationale": "For manufacturers, a stopped packaging line is lost revenue, so uptime and service matter more than headline machine speed. By leading with integration, remote monitoring and fast service alongside reliable machinery, Crashlock Automation minimizes downtime. That uptime focus is the differentiator for mid-market buyers.",
+        "targetAudience": {
+          "primary": "Plant managers, operations engineers and capital-equipment buyers at manufacturers and distributors automating end-of-line packaging who weigh throughput, uptime and total cost of ownership. They evaluate integration, service response and ROI, and run capital approvals. They buy systems and sign multi-year service contracts.",
+          "behaviors": [
+            "Evaluates throughput, uptime and TCO",
+            "Requires integration with existing lines",
+            "Weighs service response time",
+            "Approves capital and service contracts"
+          ],
+          "motivations": [
+            "Maximize line uptime",
+            "Solve labor shortage with automation",
+            "Lower total cost of ownership"
+          ]
+        },
+        "mission": "To build and service packaging automation that keeps the line running.",
+        "vision": "A world where end-of-line packaging runs itself, reliably, around the clock.",
+        "coreValues": [
+          "Uptime first",
+          "Integration over islands",
+          "Service that responds",
+          "Engineered reliability",
+          "Automation that adapts"
+        ],
+        "brandPersonalityTraits": [
+          "Engineering-led",
+          "Reliable",
+          "Responsive",
+          "Robust",
+          "Forward-looking"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Uptime first",
+            "description": "Crashlock Automation engineers and services lines for maximum uptime, because a stopped line is lost revenue."
+          },
+          {
+            "name": "Integrated, not islands",
+            "description": "We integrate erectors, sealers, wrappers and palletizers into one controlled line, not disconnected machines."
+          },
+          {
+            "name": "Service that responds",
+            "description": "Remote monitoring and fast service keep small issues from becoming line stoppages."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote throughput and uptime",
+            "Talk integration and line controls",
+            "Reference service response and ROI",
+            "Speak engineering-to-engineering"
+          ],
+          "donts": [
+            "Sell on speed specs alone",
+            "Ignore service and uptime",
+            "Use consumer marketing tone",
+            "Overpromise throughput"
+          ]
+        },
+        "logoDirection": "A wordmark — Crashlock Automation set in a robust engineering grotesk, with an auto-forming crash-lock base fold rendered as the brand device. The fold motion suggests automated forming and is used as a loading/animation motif.",
+        "colorPalette": [
+          {
+            "name": "Machine Steel",
+            "hex": "#3A4651",
+            "meaning": "Industrial machinery.",
+            "usage": "Type, structure"
+          },
+          {
+            "name": "Uptime Blue",
+            "hex": "#1C56A0",
+            "meaning": "Reliable running line.",
+            "usage": "Primary brand"
+          },
+          {
+            "name": "Signal Amber",
+            "hex": "#E59A2A",
+            "meaning": "Line-status indicators.",
+            "usage": "Status accents, CTAs"
+          },
+          {
+            "name": "Corrugate Tan",
+            "hex": "#B8915F",
+            "meaning": "Boxes the line forms.",
+            "usage": "Secondary, imagery"
+          },
+          {
+            "name": "Plant White",
+            "hex": "#F1F2EF",
+            "meaning": "Clean facility ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Eurostile-inspired technical sans for headlines and the wordmark",
+          "secondary": "Roboto Mono for throughput and uptime data",
+          "rationale": "A robust engineering sans with a mono cut for throughput and uptime data reads as a serious automation builder."
+        },
+        "visualIdentityIdeas": [
+          "An auto-forming crash-lock fold as the machinery device",
+          "End-of-line systems in motion as hero imagery",
+          "Uptime and throughput dashboards as proof points",
+          "Line-integration diagrams showing connected machines",
+          "Status-indicator amber used for live line states"
+        ]
+      }
+    ],
+    "Creative": [
+      {
+        "brandName": "Riso & Reverse Tuck",
+        "tagline": "Risograph-printed packaging with ink you can feel.",
+        "brandDescription": "Riso & Reverse Tuck is a risograph and print-forward packaging studio that makes small-batch packaging — reverse-tuck cartons, sleeves, labels and inserts — printed on risograph and spot-color presses for grainy, saturated, tactile results. Riso & Reverse Tuck leans into riso's quirks (misregistration, overprint, fluorescent inks) as features, designing packaging that looks handmade and print-rich. It is the studio for brands who want their packaging to feel printed, not produced.",
+        "scope": "Small-batch risograph and spot-color packaging: reverse-tuck cartons, sleeves, labels, hang tags and inserts, designed and printed in-studio. Riso & Reverse Tuck serves indie and small brands, not high-volume offset runs.",
+        "brandNameRationale": "Risograph is the stencil-duplicator printing process beloved for its grain and fluorescent inks, and a reverse tuck is a common folding-carton die-line. Pairing them names both the print method and the package structure the studio loves.",
+        "industrySummary": "Risograph printing has become a beloved indie medium for its tactile grain, fluorescent spot colors and affordable short runs, and it is increasingly applied to packaging as small brands seek a handmade, print-rich look. The unboxing-experience economy rewards distinctive, characterful packaging that mass offset cannot replicate. Riso's water-based soy inks and uncoated stocks also align with sustainability sensibilities. The opening is a studio that brings riso's aesthetic to small-batch packaging structures like the reverse tuck.",
+        "competitorLandscape": "Risograph studios like Risotto (risottostudio.com) and Hato Press print posters and stationery but not packaging-first. noissue (noissue.co) offers custom printed packaging but in conventional flat print. Local letterpress shops take small packaging jobs. Riso & Reverse Tuck differs by specializing in risograph-printed packaging structures, treating riso's grain and misregistration as deliberate features on cartons and sleeves.",
+        "positioningStatement": "Riso & Reverse Tuck is the studio that brings risograph's tactile, print-rich look to small-batch packaging.",
+        "positioningRationale": "Small brands want packaging with handmade character that mass print can't deliver, and riso offers exactly that grain and color. By applying riso to packaging structures specifically, Riso & Reverse Tuck owns a niche conventional printers ignore. That print-forward specialization is the differentiator.",
+        "targetAudience": {
+          "primary": "Founders and designers at indie food, beauty and craft brands who want characterful, print-rich packaging and embrace small batches. They value handmade aesthetics, riso's quirks and short runs, and post their packaging proudly. They commission per product or seasonal drop.",
+          "behaviors": [
+            "Embraces riso grain and misregistration",
+            "Commissions small-batch packaging runs",
+            "Posts print-rich packaging on social",
+            "Picks fluorescent and spot inks"
+          ],
+          "motivations": [
+            "Make packaging feel handmade",
+            "Stand out from mass-printed packs",
+            "Support a print-forward aesthetic"
+          ]
+        },
+        "mission": "To print small-batch packaging on risograph with ink you can see and feel.",
+        "vision": "A world where indie packaging is celebrated for the way it's printed.",
+        "coreValues": [
+          "Print-forward",
+          "Embrace the quirk",
+          "Small-batch character",
+          "Tactile ink",
+          "Indie craft"
+        ],
+        "brandPersonalityTraits": [
+          "Characterful",
+          "Playful",
+          "Crafty",
+          "Tactile",
+          "Bold"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Riso, on packaging",
+            "description": "Riso & Reverse Tuck prints cartons, sleeves and labels on risograph for grain, overprint and fluorescent color you can feel."
+          },
+          {
+            "name": "Quirks as features",
+            "description": "Misregistration and overprint are deliberate. We design packaging that looks printed by hand, because it is."
+          },
+          {
+            "name": "Small-batch by choice",
+            "description": "We print short runs for drops and indie brands, so character beats mass-produced sameness."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Celebrate riso grain and overprint",
+            "Name the spot inks and stock",
+            "Show ink texture up close",
+            "Speak playful and crafty"
+          ],
+          "donts": [
+            "Apologize for misregistration",
+            "Chase mass-offset perfection",
+            "Use corporate packaging language",
+            "Hide the print texture"
+          ]
+        },
+        "logoDirection": "A wordmark — Riso & Reverse Tuck set in a chunky display sans, printed in two slightly misregistered fluorescent riso layers so the overprint shows. The deliberate misregistration is the identity.",
+        "colorPalette": [
+          {
+            "name": "Riso Fluoro Pink",
+            "hex": "#FF4FB0",
+            "meaning": "Fluorescent riso ink.",
+            "usage": "Primary, overprint layer"
+          },
+          {
+            "name": "Riso Blue",
+            "hex": "#1E5BD6",
+            "meaning": "Riso federal blue.",
+            "usage": "Secondary, overprint layer"
+          },
+          {
+            "name": "Overprint Plum",
+            "hex": "#6A2E8C",
+            "meaning": "Pink-and-blue overprint.",
+            "usage": "Accent from overlap"
+          },
+          {
+            "name": "Riso Yellow",
+            "hex": "#FFD23F",
+            "meaning": "Riso fluorescent yellow.",
+            "usage": "Highlights"
+          },
+          {
+            "name": "Newsprint",
+            "hex": "#EFE9DC",
+            "meaning": "Uncoated riso stock.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Druk Wide for the wordmark and headlines",
+          "secondary": "GT America Mono for run notes and spec",
+          "rationale": "A chunky display face printed in misregistered riso layers carries the print-forward energy; a mono handles small notes."
+        },
+        "visualIdentityIdeas": [
+          "Deliberately misregistered two-color overprint as the device",
+          "Ink-texture macros showing riso grain on cartons",
+          "Reverse-tuck die-lines printed in fluorescent layers",
+          "A 'run notes' aesthetic with ink and stock callouts",
+          "Stacked overprint color swatches as a palette motif"
+        ]
+      },
+      {
+        "brandName": "The Colophon Pantry",
+        "tagline": "Illustrated food packaging with a story on every panel.",
+        "brandDescription": "The Colophon Pantry is an illustrated food-packaging studio that designs hand-drawn, narrative packaging for food and beverage brands — cartons, labels, wraps and pouches rich with illustration and story. The Colophon Pantry builds each pack like a page: a colophon of ingredients, an illustrated world, and copy with character. It is the studio for food brands who want the shelf to tell a story, not just list nutrition facts.",
+        "scope": "Illustrated packaging design for food and beverage: cartons, labels, wraps, pouches and tins, centered on custom illustration, narrative copy and considered typography. The Colophon Pantry designs packaging; production runs through the client's printers.",
+        "brandNameRationale": "A colophon is the printer's note detailing how a book was made, and 'pantry' grounds it in food. The Colophon Pantry frames each food pack as a little printed object with its own making-of note — distinct from the 'Colophon Press' printing brand.",
+        "industrySummary": "Illustrated, narrative food packaging has become a powerful shelf differentiator as craft and challenger food brands compete on personality against minimalist incumbents. Hand-drawn illustration signals authenticity, provenance and craft, and performs strongly in the unboxing and social-shelf economy. Clean-label and ingredient-transparency trends also reward packaging that tells an honest, detailed story. The opening is a studio specializing in illustration-led, narrative food packaging.",
+        "competitorLandscape": "Studios like Robot Food (robot-food.com) and Mucca create strong food-brand packaging with illustration. Jones Knowles Ritchie does narrative food branding at scale. Freelance illustrators take one-off label jobs. The Colophon Pantry differs by specializing in illustration-and-narrative food packaging where every panel is treated like a page with its own story and colophon.",
+        "positioningStatement": "The Colophon Pantry is the food-packaging studio that turns every pack into an illustrated story on the shelf.",
+        "positioningRationale": "Food brands fighting for shelf attention need personality and provenance that minimalist packs lack, and illustration delivers both. By treating each pack as an illustrated, narrative page, The Colophon Pantry gives brands a distinctive, story-rich shelf presence. That illustration-led storytelling is the differentiator.",
+        "targetAudience": {
+          "primary": "Founders and brand managers at craft and challenger food and beverage brands who want characterful, illustration-rich packaging that tells their story. They value provenance, personality and craft, and want packaging that stands out and gets shared. They commission per product line and return for extensions.",
+          "behaviors": [
+            "Briefs the studio on the brand story",
+            "Reviews illustration and panel narrative",
+            "Commissions per food line",
+            "Shares the shelf-ready pack on social"
+          ],
+          "motivations": [
+            "Tell the brand's story on-pack",
+            "Stand out against minimalist incumbents",
+            "Signal craft and provenance"
+          ]
+        },
+        "mission": "To design food packaging where every panel tells a part of the brand's story.",
+        "vision": "A world where the shelf is full of packs worth reading, not just buying.",
+        "coreValues": [
+          "Story on every panel",
+          "Illustration-led",
+          "Provenance and craft",
+          "Characterful copy",
+          "Considered typography"
+        ],
+        "brandPersonalityTraits": [
+          "Storytelling",
+          "Warm",
+          "Crafted",
+          "Witty",
+          "Detailed"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Every panel a page",
+            "description": "The Colophon Pantry designs each pack like a page, with illustration, narrative and a colophon of ingredients."
+          },
+          {
+            "name": "Illustration with provenance",
+            "description": "Hand-drawn worlds signal craft and origin, giving food brands the personality minimalist packs lack."
+          },
+          {
+            "name": "Copy with character",
+            "description": "We write on-pack copy worth reading, so the shelf tells a story instead of listing facts."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Describe the illustrated world",
+            "Treat each panel as a page",
+            "Reference provenance and ingredients",
+            "Write with warmth and wit"
+          ],
+          "donts": [
+            "Default to minimalist sameness",
+            "Use stock illustration",
+            "List facts without story",
+            "Sound corporate or flat"
+          ]
+        },
+        "logoDirection": "A wordmark — The Colophon Pantry set in a warm humanist serif, with a small hand-drawn pantry-shelf illustration framing it. The illustrated frame becomes the studio's panel-as-page motif.",
+        "colorPalette": [
+          {
+            "name": "Pantry Ink",
+            "hex": "#2A2620",
+            "meaning": "Hand-drawn line ink.",
+            "usage": "Type, illustration line"
+          },
+          {
+            "name": "Preserve Red",
+            "hex": "#B5403A",
+            "meaning": "Jam-and-preserve warmth.",
+            "usage": "Primary brand"
+          },
+          {
+            "name": "Pantry Green",
+            "hex": "#4E6B3E",
+            "meaning": "Fresh-produce green.",
+            "usage": "Secondary, accents"
+          },
+          {
+            "name": "Crust Gold",
+            "hex": "#D89B3C",
+            "meaning": "Baked, warm provenance.",
+            "usage": "Highlights"
+          },
+          {
+            "name": "Recipe Cream",
+            "hex": "#F2E8D2",
+            "meaning": "Uncoated label cream.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos for the wordmark and headlines",
+          "secondary": "Caslon Italic for narrative copy and captions",
+          "rationale": "A warm serif with an italic for narrative copy makes each pack read like a well-set page with provenance."
+        },
+        "visualIdentityIdeas": [
+          "Hand-drawn illustrated worlds wrapping each pack",
+          "Packs shown panel-by-panel like spreads in a book",
+          "An ingredients 'colophon' set in small type on every pack",
+          "Custom illustrated borders and frames per food line",
+          "Witty on-pack copy treated as a hero element"
+        ]
+      },
+      {
+        "brandName": "Mascot & Gusset",
+        "tagline": "Character-led packaging kids and grown-ups both want.",
+        "brandDescription": "Mascot & Gusset is a character and mascot packaging brand that builds memorable brand characters and the playful packaging they live on — boxes, bags, pouches and inserts starring a custom mascot. Mascot & Gusset designs the character, its world and the structural packaging together, turning a brand into a friend customers recognize on sight. It is the studio for brands who want a face on the shelf and personality in the pack.",
+        "scope": "Character-driven packaging design: mascot and character creation, character worlds, and the playful structural packaging and die-lines they appear on for food, toy, kids and challenger brands. Mascot & Gusset designs characters and packaging; production runs through clients' printers.",
+        "brandNameRationale": "A mascot is the brand character, and a gusset is the expandable fold that gives a bag or box its playful, full shape. Mascot & Gusset pairs the character with the packaging structure it animates.",
+        "industrySummary": "Brand characters and mascots have surged back as a differentiation strategy, driving recognition, loyalty and shareability in food, toy and challenger categories where personality beats minimalism. Mascots perform especially well in the social-shelf and unboxing economy and across merchandise extensions. Playful structural packaging — die-cut windows, character-shaped boxes — amplifies the effect. The opening is a studio that creates the character and the packaging it lives on as one playful system.",
+        "competitorLandscape": "Character-and-branding studios like Jones Knowles Ritchie and Robot Food (robot-food.com) build brand characters within wider work. Illustration studios create mascots without packaging structure. Packlane (packlane.com) prints playful boxes but doesn't design characters. Mascot & Gusset differs by specializing in mascot creation plus the playful structural packaging the character inhabits, as one unified system.",
+        "positioningStatement": "Mascot & Gusset is the studio that creates brand characters and the playful packaging they bring to life.",
+        "positioningRationale": "Brands want recognizable personality, and a great mascot delivers instant recognition and loyalty that logos alone can't. By designing the character and its packaging structure together, Mascot & Gusset makes the personality inseparable from the pack. That character-plus-structure unity is the differentiator.",
+        "targetAudience": {
+          "primary": "Founders and brand leads at food, snack, toy and kids brands who want a memorable character and playful packaging that builds recognition and loyalty. They value personality, shareability and merch potential, and want the character integrated into the pack. They commission per brand or line and extend across products.",
+          "behaviors": [
+            "Briefs on personality and audience",
+            "Reviews mascot designs and worlds",
+            "Commissions character-led packaging",
+            "Extends the mascot across products and merch"
+          ],
+          "motivations": [
+            "Build instant brand recognition",
+            "Create loyalty through personality",
+            "Unlock merchandise and shareability"
+          ]
+        },
+        "mission": "To create brand characters and the playful packaging that brings them to life.",
+        "vision": "A world where brands greet customers by character, recognized on sight.",
+        "coreValues": [
+          "Character-led",
+          "Playful by design",
+          "Recognition and loyalty",
+          "Structure and story as one",
+          "Joyful craft"
+        ],
+        "brandPersonalityTraits": [
+          "Playful",
+          "Imaginative",
+          "Warm",
+          "Bold",
+          "Friendly"
+        ],
+        "messagingPillars": [
+          {
+            "name": "A face on the shelf",
+            "description": "Mascot & Gusset creates a brand character customers recognize on sight, turning a product into a friend."
+          },
+          {
+            "name": "Character meets structure",
+            "description": "We design the mascot and the playful packaging it lives on together, so personality and pack are inseparable."
+          },
+          {
+            "name": "Built to extend",
+            "description": "A strong mascot stretches across products, merch and campaigns, multiplying the brand's recognition."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Give the mascot a voice",
+            "Show the character on the pack",
+            "Reference recognition and merch",
+            "Speak playful and warm"
+          ],
+          "donts": [
+            "Treat the mascot as decoration",
+            "Default to flat logo branding",
+            "Use corporate, serious tone",
+            "Separate character from packaging"
+          ]
+        },
+        "logoDirection": "A wordmark — Mascot & Gusset set in a friendly rounded sans, with a small character peeking over the ampersand. The peeking mascot becomes a flexible identity device across packs.",
+        "colorPalette": [
+          {
+            "name": "Mascot Red",
+            "hex": "#E8453C",
+            "meaning": "Bold character energy.",
+            "usage": "Primary brand"
+          },
+          {
+            "name": "Friendly Yellow",
+            "hex": "#FFC73E",
+            "meaning": "Playful warmth.",
+            "usage": "Secondary, accents"
+          },
+          {
+            "name": "Sky Blue",
+            "hex": "#3FA9E8",
+            "meaning": "Cheerful character world.",
+            "usage": "Accents, backgrounds"
+          },
+          {
+            "name": "Ink Navy",
+            "hex": "#1F2A44",
+            "meaning": "Character outline ink.",
+            "usage": "Type, outlines"
+          },
+          {
+            "name": "Cream Pop",
+            "hex": "#FBF3DE",
+            "meaning": "Soft pack background.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Sharp Grotesk Rounded for the wordmark and headlines",
+          "secondary": "Sharp Grotesk for body and specs",
+          "rationale": "A friendly rounded grotesk carries the playful, character-led personality while the regular cut keeps details legible."
+        },
+        "visualIdentityIdeas": [
+          "A mascot peeking over the ampersand as a flexible device",
+          "Character worlds wrapping playful packaging",
+          "Die-cut windows revealing the mascot inside the pack",
+          "A character expression sheet shown as brand range",
+          "Bold, poppy color blocking across the system"
+        ]
+      },
+      {
+        "brandName": "Zine & Score",
+        "tagline": "Zine-style packaging you'll want to keep and read.",
+        "brandDescription": "Zine & Score is a zine-style product packaging studio that designs packaging as a little publication — folded, scored, stapled or perforated packs that read like a self-published zine. Zine & Score brings cut-and-paste, photocopy and DIY aesthetics to product packaging and inserts, making the pack itself a piece of editorial worth keeping. It is the studio for brands who want their packaging to feel like a zine pulled from a record-shop rack.",
+        "scope": "Zine-style packaging and inserts: folded and scored packs, booklet inserts, perforated and stapled formats with cut-and-paste, editorial and DIY aesthetics. Zine & Score designs packaging; production runs through the client's printers and finishers.",
+        "brandNameRationale": "A zine is the self-published booklet aesthetic the studio channels, and a score is the crease line that lets paper fold cleanly. Zine & Score pairs the editorial format with the structural fold that makes packaging behave like a publication.",
+        "industrySummary": "Zine and DIY aesthetics have re-entered mainstream design as brands seek authenticity, counterculture credibility and a tactile, keep-worthy quality that slick packaging lacks. Treating packaging and inserts as editorial — booklets, folded zines, perforated cards — extends dwell time and builds community feeling, performing well in the unboxing economy. Riso, photocopy and uncoated stocks reinforce the handmade, low-impact feel. The opening is a studio that designs packaging as a zine-like publication.",
+        "competitorLandscape": "Zine-and-editorial design studios exist but rarely focus on packaging structure. noissue (noissue.co) prints custom packaging but in conventional formats. Riso studios print zines but not as packaging. Zine & Score differs by specializing in packaging that behaves like a zine — scored, folded and editorial — bringing publication craft to the pack itself.",
+        "positioningStatement": "Zine & Score is the studio that designs packaging to read and keep like a self-published zine.",
+        "positioningRationale": "Brands chasing authenticity and dwell time want packaging that feels handmade and editorial rather than slick and disposable. By designing packaging as a scored, folded zine, Zine & Score makes the pack itself worth reading and keeping. That zine-as-packaging craft is the differentiator.",
+        "targetAudience": {
+          "primary": "Founders and designers at indie, music, streetwear and counterculture-adjacent brands who want authentic, editorial, keep-worthy packaging with DIY credibility. They value tactility, dwell time and community feeling, and embrace short, characterful runs. They commission per drop or product and treat packaging as content.",
+          "behaviors": [
+            "Embraces DIY and cut-and-paste aesthetics",
+            "Commissions zine-style packs per drop",
+            "Treats packaging as editorial content",
+            "Values keep-worthy, tactile formats"
+          ],
+          "motivations": [
+            "Feel authentic and handmade",
+            "Extend dwell time with editorial packs",
+            "Build community with keep-worthy packaging"
+          ]
+        },
+        "mission": "To design packaging that reads, folds and keeps like a self-published zine.",
+        "vision": "A world where the best packaging gets pinned to the wall, not the recycling.",
+        "coreValues": [
+          "Editorial packaging",
+          "DIY authenticity",
+          "Keep-worthy by design",
+          "Tactile and folded",
+          "Community feeling"
+        ],
+        "brandPersonalityTraits": [
+          "Counterculture",
+          "Crafty",
+          "Editorial",
+          "Raw",
+          "Independent"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Packaging as publication",
+            "description": "Zine & Score designs packs that fold, score and read like a zine, so the packaging is editorial worth keeping."
+          },
+          {
+            "name": "DIY by design",
+            "description": "Cut-and-paste, photocopy and riso aesthetics give packaging an authentic, handmade, counterculture feel."
+          },
+          {
+            "name": "Keep-worthy",
+            "description": "We make packs people pin to the wall instead of recycling, extending dwell time and building community."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Reference zine and DIY culture",
+            "Talk scores, folds and perforations",
+            "Show cut-and-paste texture",
+            "Speak raw and independent"
+          ],
+          "donts": [
+            "Sound slick or corporate",
+            "Over-polish the aesthetic",
+            "Ignore the fold and structure",
+            "Treat packaging as disposable"
+          ]
+        },
+        "logoDirection": "A wordmark — Zine & Score set in a photocopied, slightly degraded grotesk, with a dashed score-line running through the word. The score line and photocopy grit are the identity.",
+        "colorPalette": [
+          {
+            "name": "Photocopy Black",
+            "hex": "#1A1A1A",
+            "meaning": "Xerox toner black.",
+            "usage": "Type, wordmark"
+          },
+          {
+            "name": "Zine Red",
+            "hex": "#E23B2E",
+            "meaning": "Cut-and-paste accent red.",
+            "usage": "Primary accent"
+          },
+          {
+            "name": "Risograph Blue",
+            "hex": "#2E54C8",
+            "meaning": "DIY riso blue.",
+            "usage": "Secondary accent"
+          },
+          {
+            "name": "Score Grey",
+            "hex": "#8C8C8A",
+            "meaning": "Dashed score line.",
+            "usage": "Score lines, detail"
+          },
+          {
+            "name": "Copy Paper",
+            "hex": "#EDEAE0",
+            "meaning": "Photocopy paper ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Monument Grotesk for the wordmark and headlines",
+          "secondary": "Courier-style mono for editorial body and notes",
+          "rationale": "A grotesk roughened like a photocopy with a typewriter mono for body reads as a self-published zine."
+        },
+        "visualIdentityIdeas": [
+          "A dashed score line running through the wordmark",
+          "Packs shown unfolding like a zine spread",
+          "Cut-and-paste, photocopy-grit collage textures",
+          "Perforated and stapled formats as hero details",
+          "A 'pin it to the wall' framing for keep-worthy packs"
+        ]
+      },
+      {
+        "brandName": "Small Batch Laydown",
+        "tagline": "Playful labels for the good little batches.",
+        "brandDescription": "Small Batch Laydown is a playful small-batch label studio designing characterful labels for makers — jams, hot sauces, candles, kombucha, coffee — who produce in real small batches and want labels with personality. Small Batch Laydown creates illustrated, hand-lettered, color-popping labels and the laydown artwork ready for short-run print, celebrating the maker behind each batch. It is the label studio for small producers who refuse to look mass-produced.",
+        "scope": "Small-batch label design: illustrated and hand-lettered labels, batch and variant systems, and print-ready laydown artwork for food, drink and craft makers. Small Batch Laydown designs labels; printing runs through short-run label printers.",
+        "brandNameRationale": "A laydown is the flat artwork before it's applied, and 'small batch' names the maker's scale. Small Batch Laydown pairs the print-artwork term with the small-producer ethos it serves, distinct from the modern mailer brand by its label-and-maker focus.",
+        "industrySummary": "Small-batch and craft makers have proliferated across food, drink and home categories, and they compete on personality and authenticity where a characterful label is the primary brand asset. Short-run digital label printing makes it affordable to print small quantities and many variants, enabling playful, batch-specific designs. The maker-economy and farmers-market-to-shelf pipeline rewards labels that signal handmade craft. The opening is a studio specializing in playful, characterful labels for genuine small-batch producers.",
+        "competitorLandscape": "noissue (noissue.co) prints custom labels for makers but in templated formats. Avery WePrint (avery.com) offers short-run custom labels broadly. Online tools like Canva (canva.com) let makers DIY labels generically. Small Batch Laydown differs by specializing in playful, illustrated, batch-aware label design for small makers, delivering print-ready laydown artwork that celebrates the maker behind each batch.",
+        "positioningStatement": "Small Batch Laydown is the label studio that gives small-batch makers labels as characterful as their craft.",
+        "positioningRationale": "Small makers live or die by shelf personality, and generic DIY labels make great products look mass-produced. By specializing in playful, batch-aware labels with print-ready artwork, Small Batch Laydown gives makers a distinctive, affordable brand asset. That maker-focused playfulness is the differentiator.",
+        "targetAudience": {
+          "primary": "Makers and small founders producing food, drink and craft goods in genuine small batches who want characterful labels that match their craft and don't look generic. They value personality, affordability and batch flexibility, and sell at markets, online and in indie shops. They commission per product and add variants and batches over time.",
+          "behaviors": [
+            "Sells at markets and indie shops",
+            "Commissions playful per-product labels",
+            "Adds seasonal and batch variants",
+            "Wants print-ready laydown artwork"
+          ],
+          "motivations": [
+            "Look handmade, not mass-produced",
+            "Match the label to the craft",
+            "Stand out affordably at small scale"
+          ]
+        },
+        "mission": "To give small-batch makers labels as full of character as the things they make.",
+        "vision": "A world where every good little batch wears a label worth keeping.",
+        "coreValues": [
+          "Maker-first",
+          "Playful character",
+          "Batch-aware",
+          "Affordable craft",
+          "Print-ready done right"
+        ],
+        "brandPersonalityTraits": [
+          "Playful",
+          "Warm",
+          "Crafty",
+          "Encouraging",
+          "Colorful"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Made for makers",
+            "description": "Small Batch Laydown designs labels for genuine small-batch producers, celebrating the maker behind every jar and bottle."
+          },
+          {
+            "name": "Character on every label",
+            "description": "Illustrated, hand-lettered, color-popping labels give craft products personality that generic templates can't."
+          },
+          {
+            "name": "Print-ready laydown",
+            "description": "We deliver clean, print-ready laydown artwork with batch and variant systems, so short runs go smoothly."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Celebrate the maker and the batch",
+            "Show illustrated, hand-lettered labels",
+            "Talk variants and short runs",
+            "Speak warm and encouraging"
+          ],
+          "donts": [
+            "Use generic template language",
+            "Make small makers feel small",
+            "Sound corporate or slick",
+            "Ignore print-readiness"
+          ]
+        },
+        "logoDirection": "A wordmark — Small Batch Laydown set in a lively hand-lettered display with a clean sans subtitle, framed by a small illustrated label-shape badge. The badge becomes a flexible label-frame device.",
+        "colorPalette": [
+          {
+            "name": "Jam Berry",
+            "hex": "#B5375E",
+            "meaning": "Small-batch preserve.",
+            "usage": "Primary brand"
+          },
+          {
+            "name": "Sauce Orange",
+            "hex": "#E8702A",
+            "meaning": "Hot-sauce energy.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Brew Teal",
+            "hex": "#2E8C84",
+            "meaning": "Kombucha and craft drink.",
+            "usage": "Secondary accents"
+          },
+          {
+            "name": "Label Ink",
+            "hex": "#26221C",
+            "meaning": "Hand-lettered line.",
+            "usage": "Type, lettering"
+          },
+          {
+            "name": "Market Cream",
+            "hex": "#F4EAD4",
+            "meaning": "Uncoated label cream.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "A hand-lettered script for the wordmark and labels",
+          "secondary": "Sharp Grotesk for subtitles and specs",
+          "rationale": "A lively hand-lettered script carries the maker's craft and warmth while a clean grotesk keeps ingredient and spec type legible."
+        },
+        "visualIdentityIdeas": [
+          "An illustrated label-shape badge as a flexible frame",
+          "Labels shown on real jars, bottles and tins at a market",
+          "A batch/variant system shown as a colorful label family",
+          "Hand-lettering and illustration as the hero craft",
+          "Print-ready laydown artwork shown beside the applied label"
+        ]
+      }
+    ]
+  }
+}
