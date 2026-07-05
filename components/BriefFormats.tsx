@@ -160,6 +160,131 @@ export function getTemplate(id: TemplateId): Template | undefined {
   return TEMPLATES.find((t) => t.id === id);
 }
 
+// ── Fresh layout builder ──────────────────────────────────────────────────
+// The catalog now generates a genuinely new shape on every render: a shuffled
+// section ordering AND a visual format, both guaranteed different from the
+// previous one. This replaces the fixed 6-template rotation so no two briefs
+// in a row share a hierarchy or a format.
+
+export const ALL_FORMATS: FormatId[] = ["paragraph", "cards", "editorial"];
+
+// Canonical full order — every section the display supports, minus suppressed.
+const FULL_ORDER: SectionKey[] = [
+  "brandDescription",
+  "scope",
+  "positioning",
+  "industrySummary",
+  "competitorLandscape",
+  "targetAudience",
+  "messagingPillars",
+  "personality",
+  "mission",
+  "vision",
+  "coreValues",
+  "story",
+  "manifesto",
+  "colorPalette",
+  "visualIdentityIdeas",
+];
+
+// Sections that read well as the FIRST thing in a brief. We always lead with
+// one of these (never open on a color swatch list) so the shuffle stays
+// coherent while every ordering below the opener is randomized.
+const OPENERS: SectionKey[] = [
+  "brandDescription",
+  "positioning",
+  "manifesto",
+  "industrySummary",
+  "story",
+  "mission",
+];
+
+export interface Layout {
+  format: FormatId;
+  sections: SectionKey[];
+}
+
+function hasSectionData(brief: Brief): Record<SectionKey, boolean> {
+  const audience = brief.targetAudience;
+  const hasAudience =
+    audience &&
+    (hasText(audience.primary) ||
+      (audience.behaviors && audience.behaviors.length > 0) ||
+      (audience.motivations && audience.motivations.length > 0));
+  return {
+    brandDescription: hasText(brief.brandDescription),
+    scope: hasText(brief.scope),
+    mission: hasText(brief.mission),
+    vision: hasText(brief.vision),
+    coreValues: (brief.coreValues ?? []).length > 0,
+    personality: (brief.brandPersonalityTraits ?? []).length > 0,
+    brandNameRationale: hasText(brief.brandNameRationale),
+    story: hasText(brief.story),
+    manifesto: hasText(brief.manifesto),
+    industrySummary: hasText(brief.industrySummary),
+    competitorLandscape: hasText(brief.competitorLandscape),
+    positioning: hasText(brief.positioningStatement) || hasText(brief.positioningRationale),
+    targetAudience: !!hasAudience,
+    voiceAndTone: false,
+    messagingPillars: (brief.messagingPillars ?? []).length > 0,
+    logoDirection: false,
+    colorPalette: (brief.colorPalette ?? []).length > 0,
+    typography: false,
+    visualIdentityIdeas: (brief.visualIdentityIdeas ?? []).length > 0,
+  };
+}
+
+// Every section this brief actually has data for, suppressed ones removed.
+export function availableSections(brief: Brief): SectionKey[] {
+  const has = hasSectionData(brief);
+  return FULL_ORDER.filter((k) => has[k] && !SUPPRESSED.includes(k));
+}
+
+// Build a fresh layout: random opener + Fisher-Yates shuffle of the rest, plus
+// a format. `avoidOrderKey` / `avoidFormat` steer away from the previous render
+// so consecutive briefs never match. Falls back gracefully with 1-2 sections.
+export function buildLayout(
+  brief: Brief,
+  rand: () => number,
+  avoidOrderKey?: string | null,
+  avoidFormat?: string | null,
+): Layout {
+  const avail = availableSections(brief);
+
+  const shuffleOnce = (): SectionKey[] => {
+    if (avail.length <= 1) return [...avail];
+    const openers = avail.filter((s) => OPENERS.includes(s));
+    const opener =
+      openers.length > 0 ? openers[Math.floor(rand() * openers.length)] : avail[0];
+    const rest = avail.filter((s) => s !== opener);
+    for (let i = rest.length - 1; i > 0; i--) {
+      const j = Math.floor(rand() * (i + 1));
+      [rest[i], rest[j]] = [rest[j], rest[i]];
+    }
+    return [opener, ...rest];
+  };
+
+  // Try a few shuffles to land on an ordering different from the last one.
+  let sections = shuffleOnce();
+  for (let attempt = 0; attempt < 6 && avoidOrderKey; attempt++) {
+    if (sections.join(">") !== avoidOrderKey) break;
+    sections = shuffleOnce();
+  }
+
+  // Format: prefer one different from the last.
+  const formatPool = avoidFormat
+    ? ALL_FORMATS.filter((f) => f !== avoidFormat)
+    : ALL_FORMATS;
+  const pool = formatPool.length > 0 ? formatPool : ALL_FORMATS;
+  const format = pool[Math.floor(rand() * pool.length)];
+
+  return { format, sections };
+}
+
+export function formatLabel(f: FormatId): string {
+  return f === "cards" ? "Cards" : f === "editorial" ? "Editorial" : "Paragraph";
+}
+
 function hasText(s?: string | null): s is string {
   return typeof s === "string" && s.trim().length > 0;
 }

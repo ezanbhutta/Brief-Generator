@@ -10,10 +10,9 @@ import {
   CardsFormat,
   EditorialFormat,
   ParagraphFormat,
-  TEMPLATES,
-  resolveSections,
-  type Template,
-  type TemplateId,
+  buildLayout,
+  formatLabel,
+  type Layout,
 } from "./BriefFormats";
 
 interface Props {
@@ -26,36 +25,33 @@ function hasText(s?: string | null): s is string {
   return typeof s === "string" && s.trim().length > 0;
 }
 
-const LAST_TEMPLATE_KEY = "bbg.lastTemplate";
+const LAST_ORDER_KEY = "bbg.lastOrder";
 const LAST_FORMAT_KEY = "bbg.lastFormat";
 
-// Pick a template so that BOTH the template id AND the visual format differ
-// from the previous generation. Without the format check, two cards-based
-// templates can land back-to-back and feel identical at a glance.
-function pickFreshTemplate(): Template {
-  if (typeof window === "undefined") return TEMPLATES[0];
-  let lastId: TemplateId | null = null;
+// Build a genuinely fresh layout on every render: a shuffled section ordering
+// AND a visual format, each steered away from the previous one so no two
+// briefs in a row share a hierarchy or a format.
+function freshLayout(brief: Brief & { id: string }): Layout {
+  let lastOrder: string | null = null;
   let lastFormat: string | null = null;
-  try {
-    const rawId = window.localStorage.getItem(LAST_TEMPLATE_KEY);
-    if (rawId && TEMPLATES.some((t) => t.id === rawId)) lastId = rawId as TemplateId;
-    lastFormat = window.localStorage.getItem(LAST_FORMAT_KEY);
-  } catch {
-    /* ignore */
+  if (typeof window !== "undefined") {
+    try {
+      lastOrder = window.localStorage.getItem(LAST_ORDER_KEY);
+      lastFormat = window.localStorage.getItem(LAST_FORMAT_KEY);
+    } catch {
+      /* ignore */
+    }
   }
-  const strict = TEMPLATES.filter(
-    (t) => t.id !== lastId && (lastFormat ? t.format !== lastFormat : true),
-  );
-  const pool = strict.length > 0 ? strict : TEMPLATES.filter((t) => t.id !== lastId);
-  const candidates = pool.length > 0 ? pool : TEMPLATES;
-  const picked = candidates[Math.floor(Math.random() * candidates.length)];
-  try {
-    window.localStorage.setItem(LAST_TEMPLATE_KEY, picked.id);
-    window.localStorage.setItem(LAST_FORMAT_KEY, picked.format);
-  } catch {
-    /* ignore */
+  const layout = buildLayout(brief, Math.random, lastOrder, lastFormat);
+  if (typeof window !== "undefined") {
+    try {
+      window.localStorage.setItem(LAST_ORDER_KEY, layout.sections.join(">"));
+      window.localStorage.setItem(LAST_FORMAT_KEY, layout.format);
+    } catch {
+      /* ignore */
+    }
   }
-  return picked;
+  return layout;
 }
 
 export default function BriefDisplay({ brief, industry, style }: Props) {
@@ -64,14 +60,14 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
   const [showAssign, setShowAssign] = useState(false);
   const [assignedTo, setAssignedTo] = useState<string | null>(null);
 
-  const [template, setTemplate] = useState<Template>(() => pickFreshTemplate());
+  const [layout, setLayout] = useState<Layout>(() => freshLayout(brief));
   const didMount = useRef(false);
   useEffect(() => {
     if (!didMount.current) {
       didMount.current = true;
       return;
     }
-    setTemplate(pickFreshTemplate());
+    setLayout(freshLayout(brief));
   }, [brief.id]);
 
   async function copyAll() {
@@ -91,11 +87,11 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
     setTimeout(() => setCopied(false), 1800);
   }
 
-  const ordered = resolveSections(brief, template);
+  const ordered = layout.sections;
   const Body =
-    template.format === "cards"
+    layout.format === "cards"
       ? CardsFormat
-      : template.format === "editorial"
+      : layout.format === "editorial"
       ? EditorialFormat
       : ParagraphFormat;
 
@@ -110,7 +106,7 @@ export default function BriefDisplay({ brief, industry, style }: Props) {
           </div>
           <div className="mono text-[11px] uppercase tracking-[0.12em] text-muted flex items-center gap-3">
             <span className="rounded border border-violet/20 bg-violet-bg px-1.5 py-0.5 text-[9px] font-semibold tracking-label text-violet-dim">
-              {template.label}
+              {formatLabel(layout.format)}
             </span>
             <span>
               {style} · {industry}
