@@ -2,11 +2,12 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { FileText, Users, Sheet } from "lucide-react";
+import { FileText, Users, Sheet, Layers } from "lucide-react";
 import Logo from "./Logo";
 
 const ITEMS = [
   { href: "/", label: "Brief", icon: FileText },
+  { href: "/industries", label: "Industries", icon: Layers },
   { href: "/roster", label: "Roster", icon: Users },
   { href: "/sheet", label: "Sheet", icon: Sheet },
 ];
