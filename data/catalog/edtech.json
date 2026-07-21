@@ -267,6 +267,452 @@
           "secondary": "A book serif for course descriptions.",
           "rationale": "Two related serifs."
         }
+      },
+      {
+        "brandName": "Journeyman",
+        "tagline": "The middle of the trade, taught properly.",
+        "brandDescription": "Journeyman is a cohort-based learning platform for the skilled trades — electricians, HVAC techs, plumbers — covering the awkward middle years between apprentice and master. Journeyman sells twelve-week live cohorts taught by working master tradespeople, with code-book drills, load-calculation labs, and a jobsite video review each week. The product is progression: every cohort maps to a licensing milestone.",
+        "scope": "Full brand identity for launch across web, cohort portal, and jobsite merch (hard-hat stickers, gear patches). Naming system for cohort tiers is in scope.",
+        "brandNameRationale": "A journeyman is the real, centuries-old guild rank between apprentice and master — the years when a tradesperson can work for pay but is still learning the craft. The brand names its exact customer.",
+        "industrySummary": "Trades education is the fastest-growing corner of workforce learning in 2025–26: the US faces a shortage of roughly 80,000 electricians a year while enrollment in four-year colleges keeps sliding. Most training money targets day-one apprentices; almost nothing serves mid-career journeymen prepping for master licensure. Employers, desperate to retain, are increasingly willing to reimburse.",
+        "competitorLandscape": "Interplay Learning (interplaylearning.com) owns VR-led trades simulation. Penn Foster (pennfoster.edu) is the legacy correspondence giant. NCCER (nccer.org) sets the credentialing framework. None run live cohorts for the journeyman-to-master jump — that gap is the brand.",
+        "positioningStatement": "The school for the middle of the trade.",
+        "positioningRationale": "Everyone recruits apprentices; nobody teaches year four through eight. Owning the journeyman years positions the brand where the licensing stakes — and the willingness to pay — are highest.",
+        "targetAudience": {
+          "primary": "24 to 40, licensed journeymen in electrical, HVAC, and plumbing, mostly employed at small contractors. They learn on YouTube at 1.5x after work, sit licensing exams with real money on the line, and measure any course against billable hours lost.",
+          "behaviors": [
+            "Studies code books in the truck between calls",
+            "Asks the master on the crew before asking the internet",
+            "Will pay for anything that shortens time-to-master-license",
+            "Shares passing exam scores in trade Facebook groups"
+          ],
+          "motivations": [
+            "Master licensure and the pay jump behind it",
+            "Running their own shop someday",
+            "Not being the guy who fails the exam twice"
+          ]
+        },
+        "mission": "Get every journeyman to master, faster and without mystery.",
+        "vision": "A trades workforce where the middle years are taught, not just survived.",
+        "coreValues": [
+          "Craft respect",
+          "Exam honesty",
+          "Working-teacher credibility",
+          "No wasted evenings"
+        ],
+        "brandPersonalityTraits": [
+          "Direct",
+          "Seasoned",
+          "Practical",
+          "Encouraging"
+        ],
+        "story": "Journeyman started when a master electrician in Columbus realized he had trained eleven apprentices but could not name one resource he'd hand a fifth-year prepping for the master exam. He taught the first cohort from his garage with a whiteboard and a code book. Nine of ten passed. The waiting list did the rest.",
+        "messagingPillars": [
+          {
+            "name": "Taught by working masters",
+            "description": "Every instructor holds a master license and worked a jobsite that week. No career lecturers."
+          },
+          {
+            "name": "Milestone, not content",
+            "description": "Cohorts map to licensing milestones. You finish with a date on a calendar, not a certificate of participation."
+          },
+          {
+            "name": "The middle matters",
+            "description": "The industry obsesses over recruitment. Journeyman owns retention — the years when tradespeople actually quit."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk in code sections and load calcs",
+            "Quote pass rates",
+            "Respect the reader's fatigue after a 10-hour shift",
+            "Use jobsite vocabulary correctly"
+          ],
+          "donts": [
+            "Call the trades 'alternative' careers",
+            "Use campus imagery",
+            "Promise easy",
+            "Talk down"
+          ]
+        },
+        "logoDirection": "A wordmark: JOURNEYMAN in a sturdy grotesk with the second N's final stroke extended like a level's edge. A small three-rung ladder mark (apprentice-journeyman-master, middle rung bolded) works as favicon and hard-hat sticker.",
+        "colorPalette": [
+          {
+            "name": "Panel Gray",
+            "hex": "#3A3F45",
+            "meaning": "Electrical panel steel.",
+            "usage": "Wordmark, primary surface"
+          },
+          {
+            "name": "THHN Yellow",
+            "hex": "#F5C518",
+            "meaning": "Wire insulation yellow — the working accent.",
+            "usage": "CTAs, cohort tags"
+          },
+          {
+            "name": "Copper",
+            "hex": "#B87333",
+            "meaning": "The conductor itself.",
+            "usage": "Milestone icons, foil on certificates"
+          },
+          {
+            "name": "Paper",
+            "hex": "#F4F2ED",
+            "meaning": "Code-book page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Ink",
+            "hex": "#16181B",
+            "meaning": "Type.",
+            "usage": "Body text"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne Breit for the wordmark and headlines",
+          "secondary": "Söhne Mono for code references and load tables",
+          "rationale": "Breit carries jobsite sturdiness; the mono makes NEC table references feel native."
+        },
+        "visualIdentityIdeas": [
+          "Cohort patches shaped like conduit bushings",
+          "Exam-countdown wallpapers for phone lockscreens",
+          "Instructor cards styled like license cards",
+          "A pass-rate ticker on the site, updated per cohort",
+          "Hard-hat sticker sheets in the welcome kit"
+        ]
+      },
+      {
+        "brandName": "Grand Rounds Learning",
+        "tagline": "CME that respects the clinician.",
+        "brandDescription": "Grand Rounds Learning is a continuing-medical-education platform that rebuilds the hospital's oldest teaching ritual for busy clinicians. Grand Rounds Learning delivers case-first, 20-minute accredited sessions — one real de-identified case, the literature that bears on it, the decision, the outcome. Credits accrue automatically to state and board requirements.",
+        "brandNameRationale": "Grand rounds is the century-old hospital ritual where a real case is presented to the whole medical staff for teaching. The brand takes the profession's most trusted learning format and makes it portable.",
+        "industrySummary": "CME is a $3B US market in 2026, but clinician attention has collapsed: average session completion on legacy platforms runs under 40%, and burnout surveys rank 'mandatory education' among the top administrative irritants. The shift is toward micro-format, case-based credit that fits between patients — and toward platforms that auto-file credits against increasingly fragmented state requirements.",
+        "competitorLandscape": "UpToDate (uptodate.com) owns point-of-care reference with CME attached. Osmosis (osmosis.org) leads video-first medical learning. Medscape (medscape.org) is the volume CME incumbent. All three teach topics; Grand Rounds Learning teaches cases — the format clinicians already trust.",
+        "positioningStatement": "One real case, twenty minutes, credit filed.",
+        "positioningRationale": "Case-first is both the oldest and the most engaging format in medicine, yet no major CME platform leads with it. Automatic credit-filing removes the second-biggest irritant after the content itself.",
+        "targetAudience": {
+          "primary": "Attending physicians, NPs, and PAs aged 30 to 60 carrying 25 to 100 annual credit requirements across multiple boards. They do CME on phones in the eleven minutes between clinic blocks and resent every minute of filler.",
+          "behaviors": [
+            "Completes education on mobile between patients",
+            "Tracks credit deadlines in a spreadsheet or not at all",
+            "Abandons any module with more than one intro slide",
+            "Trusts case discussion over didactic lecture"
+          ],
+          "motivations": [
+            "License and board renewal without panic",
+            "Actually learning something usable in clinic",
+            "Reclaiming evenings from compliance work"
+          ]
+        },
+        "mission": "Make mandatory education worth the clinician's attention.",
+        "vision": "CME that clinicians would do even if it weren't required.",
+        "coreValues": [
+          "Case truth",
+          "Attention respect",
+          "Zero filler",
+          "Automatic compliance"
+        ],
+        "brandPersonalityTraits": [
+          "Rigorous",
+          "Efficient",
+          "Collegial",
+          "Unfussy"
+        ],
+        "messagingPillars": [
+          {
+            "name": "The case is the curriculum",
+            "description": "Every session opens with a real presentation, not an agenda slide. Learning follows the diagnostic path."
+          },
+          {
+            "name": "Credits file themselves",
+            "description": "State and board requirements are mapped once; every completed session lands where it needs to."
+          },
+          {
+            "name": "Twenty minutes, honestly",
+            "description": "Sessions are timed to the gap between clinic blocks and never pad."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Open with the chief complaint",
+            "Cite the actual trial",
+            "Count minutes honestly",
+            "Write like a colleague at the nurses' station"
+          ],
+          "donts": [
+            "Use stock photos of stethoscopes",
+            "Pad for seat time",
+            "Gamify with badges",
+            "Lecture"
+          ]
+        },
+        "logoDirection": "A wordmark pairing GRAND ROUNDS in a confident serif with LEARNING in a small tracked sans beneath — the ritual and the product. The mark is a circled dot: the amphitheater seen from above.",
+        "colorPalette": [
+          {
+            "name": "Amphitheater Blue",
+            "hex": "#1F3A5F",
+            "meaning": "The teaching hospital's lecture hall seats.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Chart White",
+            "hex": "#F7F7F4",
+            "meaning": "The chart page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Vitals Green",
+            "hex": "#2E8B57",
+            "meaning": "A stable trace.",
+            "usage": "Progress, credit-filed confirmations"
+          },
+          {
+            "name": "Attending Gray",
+            "hex": "#6B7280",
+            "meaning": "White-coat gray.",
+            "usage": "Secondary text"
+          },
+          {
+            "name": "Ink",
+            "hex": "#14161A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra for the wordmark and case titles",
+          "secondary": "Inter for UI and body",
+          "rationale": "Sectra gives the case its clinical gravity; Inter keeps the credit dashboard invisible."
+        },
+        "visualIdentityIdeas": [
+          "Session cards formatted like admission notes",
+          "A credit dashboard styled as a flowsheet",
+          "Case-outcome reveals with a chart-divider motif",
+          "Print-quality case PDFs for department journal clubs"
+        ]
+      },
+      {
+        "brandName": "Ten Frames",
+        "tagline": "Number sense before number crunching.",
+        "brandDescription": "Ten Frames is an early-numeracy app for ages 3–7 built entirely on the manipulative that math educators trust most. Ten Frames turns the classic ten-frame grid into a tactile digital toy — filling, splitting, and comparing quantities — and reports to parents in the language of number sense, not stars and streaks. No ads, no timers, no leaderboards.",
+        "brandNameRationale": "The ten-frame — a 2×5 grid filled with counters — is the foundational manipulative of early-math pedagogy, used in classrooms worldwide to build subitizing and part-whole thinking. The brand is named for the tool itself.",
+        "industrySummary": "Early-math anxiety is the new early-literacy crisis: 2025 NAEP data shows fourth-grade math scores still below pre-pandemic levels, and parent spending on math apps has doubled since 2022. Yet most early-math apps are drill-and-reward machines that teach counting performance, not number sense. Educator-endorsed, pedagogy-first apps are the growing counter-trend.",
+        "competitorLandscape": "Khan Academy Kids (khankids.org) is the free generalist. DreamBox (dreambox.com) owns adaptive school-market math. Prodigy (prodigygame.com) leads gamified practice. All reward speed; Ten Frames is the only one built on a single research-backed manipulative.",
+        "positioningStatement": "The math app that teaches how numbers feel, not how fast you can count.",
+        "positioningRationale": "Parents can't evaluate pedagogy, but they can recognize a classroom tool their teacher friends endorse. Building the entire brand on one trusted manipulative makes the pedagogy legible.",
+        "targetAudience": {
+          "primary": "Parents 28–45 of children aged 3–7, skewing toward those who already limit screen time and distrust reward-loop apps. Many heard 'ten-frame' at a parent-teacher conference and Googled it. Kindergarten teachers are the secondary audience and the referral engine.",
+          "behaviors": [
+            "Asks teachers for app recommendations",
+            "Reads one parenting-science newsletter",
+            "Deletes apps that show ads within the first session",
+            "Prefers a one-time purchase to a subscription"
+          ],
+          "motivations": [
+            "A child who isn't scared of math",
+            "Screen time they don't feel guilty about",
+            "Teacher-approved choices"
+          ]
+        },
+        "mission": "Give every child number sense before anyone asks them to be fast.",
+        "vision": "A generation that meets arithmetic with curiosity instead of anxiety.",
+        "coreValues": [
+          "Pedagogy first",
+          "Calm screens",
+          "Teacher trust",
+          "No dark patterns"
+        ],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Assured",
+          "Playful",
+          "Principled"
+        ],
+        "story": "Ten Frames began when a kindergarten teacher and her app-developer brother watched her students race through a popular math app — getting answers right and understanding nothing. She mailed him a laminated ten-frame and ten red counters with a note: 'Build this. Change nothing.' The first prototype was the laminated card, digitized. Teachers began requesting classroom codes before there was a website.",
+        "messagingPillars": [
+          {
+            "name": "One tool, done right",
+            "description": "The whole app is the ten-frame, explored deeply — the opposite of an activity buffet."
+          },
+          {
+            "name": "Calm by design",
+            "description": "No timers, streaks, or leaderboards. Nothing rushes a child who is thinking."
+          },
+          {
+            "name": "Speaks teacher",
+            "description": "Progress reports use real pedagogy terms — subitizing, part-whole — with plain-language explanations for parents."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Explain the pedagogy simply",
+            "Celebrate thinking over speed",
+            "Speak to parents as partners",
+            "Credit teachers"
+          ],
+          "donts": [
+            "Use arcade sound-effect energy in copy",
+            "Promise 'genius' outcomes",
+            "Shame screen time",
+            "Gamify the marketing"
+          ]
+        },
+        "logoDirection": "A wordmark with the two words stacked, TEN over FRAMES, set in a rounded geometric sans. The mark is a 2×5 frame with seven cells filled — deliberately not ten, inviting the question 'how many more?'",
+        "colorPalette": [
+          {
+            "name": "Counter Red",
+            "hex": "#D64545",
+            "meaning": "The classic red counter chip.",
+            "usage": "Filled cells, primary accent"
+          },
+          {
+            "name": "Frame Blue",
+            "hex": "#2B5F8A",
+            "meaning": "The printed frame line.",
+            "usage": "Wordmark, UI structure"
+          },
+          {
+            "name": "Manila",
+            "hex": "#F5EDD8",
+            "meaning": "The laminated classroom card.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Counter Yellow",
+            "hex": "#F2C14E",
+            "meaning": "The flip side of the chip.",
+            "usage": "Secondary accent, comparisons"
+          },
+          {
+            "name": "Pencil",
+            "hex": "#2A2A2A",
+            "meaning": "Type.",
+            "usage": "Body"
+          }
+        ],
+        "typography": {
+          "primary": "Recoleta for the wordmark and headings",
+          "secondary": "Inter for body and parent reports",
+          "rationale": "Recoleta is warm without being babyish; Inter keeps reports credible for the teacher audience."
+        },
+        "visualIdentityIdeas": [
+          "App icon as a partially-filled frame",
+          "Parent reports styled as gentle report cards",
+          "Physical laminated frame mailed with annual plans",
+          "Classroom poster set for teacher ambassadors",
+          "Counter-chip loading animation"
+        ]
+      },
+      {
+        "brandName": "Crit Room",
+        "tagline": "Assessment that works like a studio.",
+        "brandDescription": "Crit Room is a portfolio-assessment platform for creative education — design schools, bootcamps, and art departments — that replaces rubric spreadsheets with the structured critique. In Crit Room, students pin work, cohorts respond within instructor-set critique frames, and assessment emerges from documented dialogue rather than a single grade. Accreditation-ready records fall out automatically.",
+        "brandNameRationale": "The crit — the ritual critique session where work is pinned up and discussed — is the pedagogical heart of every art and design school. The brand names the room where creative judgment is actually formed.",
+        "industrySummary": "Creative-education assessment is in quiet crisis in 2026: accreditors demand documented outcomes while studio faculty rightly resist reducing craft to rubric checkboxes. Meanwhile portfolio platforms optimized for job-hunting (not learning) dominate student habits. Tools that capture critique as assessment evidence — satisfying both accreditors and studio culture — are a genuine white space.",
+        "competitorLandscape": "Seesaw (seesaw.com) owns K-12 portfolio sharing. Instructure's Canvas (instructure.com) holds the LMS layer with bolt-on portfolios. Behance (behance.net) is where finished work goes to be seen, not assessed. None structure the critique itself — Crit Room's entire product.",
+        "positioningStatement": "The only assessment tool built on how studios actually judge work.",
+        "positioningRationale": "Faculty adopt tools that respect studio culture; administrators adopt tools that produce accreditation evidence. Crit Room is the rare product both can champion, which is how education software actually spreads.",
+        "targetAudience": {
+          "primary": "Design and art faculty 30–60 at degree programs and serious bootcamps, plus the program directors who answer to accreditors. Faculty are tool-skeptical and rubric-averse; directors are drowning in outcome-documentation requests.",
+          "behaviors": [
+            "Runs crits on pinned-up work or shared Figma files",
+            "Grumbles about LMS gradebooks at faculty meetings",
+            "Keeps assessment evidence in screenshots and memory",
+            "Champions tools that colleagues saw working, not tools IT bought"
+          ],
+          "motivations": [
+            "Protecting studio pedagogy from spreadsheet-ification",
+            "Surviving accreditation review without a documentation sprint",
+            "Giving students critique skills, not just grades"
+          ]
+        },
+        "mission": "Make the critique count — pedagogically and administratively.",
+        "vision": "Creative programs where assessment strengthens studio culture instead of flattening it.",
+        "coreValues": [
+          "Studio culture first",
+          "Dialogue over checkbox",
+          "Evidence without bureaucracy",
+          "Student voice"
+        ],
+        "brandPersonalityTraits": [
+          "Considered",
+          "Craft-literate",
+          "Quietly confident",
+          "Faculty-side"
+        ],
+        "manifesto": "A number out of a hundred has never made anyone a better designer. The crit has. For a century, creative disciplines have assessed work the same way they make it — out loud, in the room, in front of the pins. Then the software arrived and asked us to translate all of that into a dropdown. We refuse. Crit Room starts from the room: the work, the voices around it, the judgment that forms between them. The paperwork can be a byproduct. The crit cannot.",
+        "messagingPillars": [
+          {
+            "name": "Critique as evidence",
+            "description": "Structured crit threads become the assessment record — no parallel paperwork."
+          },
+          {
+            "name": "Frames, not rubrics",
+            "description": "Instructors set critique frames that guide discussion without reducing it to checkboxes."
+          },
+          {
+            "name": "Accreditors satisfied, faculty intact",
+            "description": "Outcome documentation is generated from real studio activity, not reconstructed at review time."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use studio vocabulary correctly",
+            "Side with faculty in tone",
+            "Show real critique threads",
+            "Treat accreditation as a solvable chore"
+          ],
+          "donts": [
+            "Lead with admin features",
+            "Call art 'content'",
+            "Promise objectivity",
+            "Use corporate LMS aesthetics"
+          ]
+        },
+        "logoDirection": "A wordmark in a neutral grotesk with a single pushpin dot above the I in CRIT. The pin alone — slightly angled, casting a small shadow — is the mark.",
+        "colorPalette": [
+          {
+            "name": "Corkboard",
+            "hex": "#C9A87A",
+            "meaning": "The pin-up wall.",
+            "usage": "Accent surfaces"
+          },
+          {
+            "name": "Pin Red",
+            "hex": "#D7263D",
+            "meaning": "The pushpin.",
+            "usage": "The mark, active-crit indicators"
+          },
+          {
+            "name": "Gallery White",
+            "hex": "#F8F7F4",
+            "meaning": "Studio wall.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Charcoal",
+            "hex": "#26262A",
+            "meaning": "Drawing charcoal.",
+            "usage": "Type, wordmark"
+          },
+          {
+            "name": "Tape Blue",
+            "hex": "#5B8DB8",
+            "meaning": "Painter's tape.",
+            "usage": "Secondary UI accents"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for wordmark and UI",
+          "secondary": "GT Sectra for critique-frame prompts",
+          "rationale": "Haas disappears behind student work; Sectra gives instructor prompts an editorial voice distinct from peer comments."
+        },
+        "visualIdentityIdeas": [
+          "Crit threads rendered as pinned cards with tape corners",
+          "Semester timelines as a gallery wall",
+          "Accreditation exports styled as exhibition catalogs",
+          "Empty states drawn as blank cork walls"
+        ]
       }
     ],
     "Luxury": [
@@ -539,6 +985,432 @@
           "secondary": "An old-style serif for seminar materials.",
           "rationale": "Letterpress register."
         }
+      },
+      {
+        "brandName": "The Praeceptor Society",
+        "tagline": "Tutors in the oldest sense.",
+        "brandDescription": "The Praeceptor Society is a private tutoring and academic-mentorship practice serving a small number of families worldwide. The Praeceptor Society places one scholar-tutor with one student for terms measured in years, covering academics, intellectual character, and university preparation as one braided engagement. Membership is by referral; the Society represents fewer than forty families at a time.",
+        "scope": "Identity for correspondence, engagement dossiers, and a nearly-invisible web presence. No advertising materials — the brand exists to be handed, not found.",
+        "brandNameRationale": "The praeceptor was the private tutor of the Roman household — Seneca to Nero, most famously — entrusted with the formation of a mind, not just its examination results. The Society claims the deep tradition behind modern tutoring.",
+        "industrySummary": "Elite private tutoring passed quiet inflection in 2025: UHNW families increasingly retain year-round academic staff rather than exam-season crammers, with full-time placements commanding $150k–$400k. The credible top of the market is small, referral-driven, and distinguishes itself from the exam-mill tier by talking about formation, not scores.",
+        "competitorLandscape": "Tutors International (tutors-international.com) pioneered full-time placements. Keystone Tutors (keystonetutors.com) owns the London school-entry market. Beacon (beacontutors? — regional boutiques vary) fill national niches. The Society differentiates on term length and scholar-tutors with research pedigrees rather than teaching certificates.",
+        "positioningStatement": "One scholar, one student, years not sessions.",
+        "positioningRationale": "At the top of the market, families are not buying hours — they are appointing someone to a role in the household. Naming that reality separates the Society from every per-session service.",
+        "targetAudience": {
+          "primary": "Family principals and family-office education leads, 40–65, coordinating education across multiple residences and school systems. They hire the way they hire counsel: slowly, by referral, for years.",
+          "behaviors": [
+            "Interviews tutors as they would a private banker",
+            "Plans schooling across two or three countries",
+            "Refers within a closed circle of families",
+            "Pays retainers through the family office"
+          ],
+          "motivations": [
+            "A child formed, not just admitted",
+            "Discretion absolute",
+            "One accountable person across every subject and season"
+          ]
+        },
+        "mission": "Restore tutoring to its oldest form: the long companionship of a serious mind.",
+        "vision": "A generation of graduates who were educated, not processed.",
+        "coreValues": [
+          "Formation over cramming",
+          "Absolute discretion",
+          "Scholarly depth",
+          "Years-long accountability"
+        ],
+        "brandPersonalityTraits": [
+          "Discreet",
+          "Erudite",
+          "Patient",
+          "Assured"
+        ],
+        "messagingPillars": [
+          {
+            "name": "The appointed scholar",
+            "description": "Praeceptors hold doctorates or equivalent scholarship and join the household's trusted circle."
+          },
+          {
+            "name": "The long term",
+            "description": "Engagements are annual and renew for years — through schools, moves, and examinations."
+          },
+          {
+            "name": "Formation, documented",
+            "description": "Termly letters to the family chronicle intellectual growth in prose, not dashboards."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write in full, unhurried sentences",
+            "Cite the classical tradition accurately",
+            "Address the family as patrons of an education",
+            "Keep every claim quiet"
+          ],
+          "donts": [
+            "Mention test-score deltas",
+            "Use urgency",
+            "Publish client anything",
+            "Sound like an agency"
+          ]
+        },
+        "logoDirection": "A seal-first identity: a laurel-wreathed P impressed as a blind emboss on heavy stock, with THE PRAECEPTOR SOCIETY set in widely tracked Roman capitals beneath. No color logo exists.",
+        "colorPalette": [
+          {
+            "name": "Senate Ivory",
+            "hex": "#F2EDE0",
+            "meaning": "Marble and manuscript.",
+            "usage": "Papers, backgrounds"
+          },
+          {
+            "name": "Toga Purple",
+            "hex": "#4A2C5A",
+            "meaning": "The Roman stripe of rank.",
+            "usage": "Seal ink, single accent"
+          },
+          {
+            "name": "Bronze",
+            "hex": "#8C7247",
+            "meaning": "Inscription metal.",
+            "usage": "Foil, ceremonial pieces"
+          },
+          {
+            "name": "Iron Gall",
+            "hex": "#2B2B33",
+            "meaning": "The tutor's ink.",
+            "usage": "All text"
+          }
+        ],
+        "typography": {
+          "primary": "Trajan Pro for the Society's name",
+          "secondary": "Adobe Caslon for correspondence",
+          "rationale": "Trajan is literally the Roman inscription letter; Caslon carries the termly letters with scholarly warmth."
+        },
+        "visualIdentityIdeas": [
+          "Termly letters on watermarked paper, hand-signed",
+          "A members' bookplate designed for each family",
+          "Engagement dossiers bound in cloth",
+          "A single-page website that is mostly an essay"
+        ]
+      },
+      {
+        "brandName": "Symposium House",
+        "tagline": "The examined life, in company.",
+        "brandDescription": "Symposium House runs great-books seminars for accomplished adults — twelve readers, one moderator, one long table, texts from Plato to Baldwin read slowly over a season. Symposium House sells membership by the year, with seminars in five cities, an annual retreat, and a private library of member marginalia. It is adult education as a civilized pleasure, priced like a club because it is one.",
+        "brandNameRationale": "Plato's Symposium is the founding document of the form itself — serious conversation among friends, at a table, about the things that matter. The House hosts the modern version.",
+        "industrySummary": "Post-2024, serious adult humanities education is having a revival: great-books programs, classical reading groups, and 'intellectual salon' memberships are growing as accomplished professionals seek depth their careers never required. The paying audience is small but affluent, and values curation, company, and continuity over credentials.",
+        "competitorLandscape": "The School of Life (theschooloflife.com) owns accessible philosophy-as-self-help. Interintellect (interintellect.com) leads online salons. The Catherine Project (catherineproject.org) offers free great-books tutorials. Symposium House differentiates on the physical table, the fixed cohort, and the club economics.",
+        "positioningStatement": "A members' club where the amenity is thinking.",
+        "positioningRationale": "City clubs sell rooms and reciprocity; Symposium House sells the one thing accomplished people quietly miss — structured serious conversation. The club framing sets price expectations no course catalog could.",
+        "targetAudience": {
+          "primary": "Members 40–70: founders post-exit, physicians, judges, retired diplomats. Financially complete, intellectually hungry, allergic to being lectured. They read the assigned text twice and arrive early.",
+          "behaviors": [
+            "Keeps a commonplace book or wishes they did",
+            "Buys hardcovers",
+            "Chooses dinner parties by the conversation",
+            "Renews memberships that earn it"
+          ],
+          "motivations": [
+            "Conversation that isn't networking",
+            "Finishing the books they've circled for decades",
+            "A table of equals"
+          ]
+        },
+        "mission": "Keep the long conversation alive, one table at a time.",
+        "vision": "A House in every city where the examined life has a reservation.",
+        "coreValues": [
+          "Slow reading",
+          "Equal voices",
+          "Hospitality",
+          "Continuity"
+        ],
+        "brandPersonalityTraits": [
+          "Cultivated",
+          "Convivial",
+          "Unhurried",
+          "Quietly exacting"
+        ],
+        "manifesto": "Somewhere between the last seminar of college and the first board meeting, the conversation stopped. Not the talking — the conversation. Symposium House exists because accomplished lives go quiet in a specific way: full calendars, empty questions. We set a long table, choose a serious book, pour something good, and ask the oldest questions in the company of people who have lived long enough to answer honestly. This is not content. This is not networking. This is the dinner Socrates never finished.",
+        "messagingPillars": [
+          {
+            "name": "The fixed table",
+            "description": "Twelve members, one season, same seats. Depth requires recurrence."
+          },
+          {
+            "name": "Texts that have earned it",
+            "description": "The syllabus spans millennia and defends every choice."
+          },
+          {
+            "name": "Moderated, never lectured",
+            "description": "Moderators steward the conversation; the table does the thinking."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote the texts themselves",
+            "Extend invitations rather than sell seats",
+            "Assume intelligence",
+            "Let sentences breathe"
+          ],
+          "donts": [
+            "Promise self-improvement metrics",
+            "Use the word 'content'",
+            "Name-drop members",
+            "Rush"
+          ]
+        },
+        "logoDirection": "A wordmark in a classical serif with a small kylix (Greek drinking cup) mark, drawn in one line, centered above. The cup tilts slightly — mid-conversation.",
+        "colorPalette": [
+          {
+            "name": "Terracotta",
+            "hex": "#B0563B",
+            "meaning": "Attic pottery.",
+            "usage": "The kylix mark, accents"
+          },
+          {
+            "name": "Symposium Black",
+            "hex": "#1D1B1A",
+            "meaning": "Black-figure glaze.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Candle Cream",
+            "hex": "#F5EEDC",
+            "meaning": "Late-evening light.",
+            "usage": "Backgrounds, papers"
+          },
+          {
+            "name": "Laurel",
+            "hex": "#5B6E4F",
+            "meaning": "The garland.",
+            "usage": "Seasonal materials"
+          },
+          {
+            "name": "Wine Dark",
+            "hex": "#5A2A3A",
+            "meaning": "Homer's sea.",
+            "usage": "Membership materials"
+          }
+        ],
+        "typography": {
+          "primary": "GT Sectra Display for the name and seminar titles",
+          "secondary": "Sabon for reading lists and letters",
+          "rationale": "Sectra brings editorial weight; Sabon is a book face for a brand that is, finally, about books."
+        },
+        "visualIdentityIdeas": [
+          "Season syllabi printed as small chapbooks",
+          "Member marginalia digitized into a private commonplace library",
+          "Table cards with the evening's opening question",
+          "An annual anthology of the year's best member essays"
+        ]
+      },
+      {
+        "brandName": "Sabbatical",
+        "tagline": "The seventh year, whenever you need it.",
+        "brandDescription": "Sabbatical designs structured learning sabbaticals for executives between chapters — three to twelve months with a personal curriculum, a faculty of mentors, and a cohort of eleven peers in the same passage. Sabbatical is neither a retreat nor an MBA: it is a directed season of study, travel, and supervised reflection with a thesis at the end. Admission is selective and cohorts form twice a year.",
+        "brandNameRationale": "The sabbatical descends from the biblical shmita — the seventh year, when fields rest so they can bear again — via the academic tradition of the seventh-year leave. The brand claims the word's full weight: rest with structure, leave with purpose.",
+        "industrySummary": "The executive-transition market has matured past coaching in 2025–26: record C-suite turnover and earlier exits have created a population of accomplished people with capital, time, and no syllabus. Programs blending study, travel, and peer cohorts — priced from $50k to $150k — are emerging as the serious alternative to both the beach and the board seat collected too quickly.",
+        "competitorLandscape": "Harvard's Advanced Leadership Initiative (advancedleadership.harvard.edu) owns the university-embedded year. Modern Elder Academy (modernelderacademy.com) leads the midlife-wisdom retreat. THNK (thnk.org) runs creative-leadership programs. Sabbatical differentiates on the personal curriculum and the thesis — study, not just reflection.",
+        "positioningStatement": "A directed season of study for leaders between chapters.",
+        "positioningRationale": "The people this serves distrust anything that smells of retreat-industry softness and have outgrown degree programs. 'Directed study with a thesis' imports academic seriousness without the institution.",
+        "targetAudience": {
+          "primary": "Executives and founders 45–60 within a year of a major transition — exit, succession, retirement from operating roles. High agency, low patience for wellness language, secretly hungry for permission to study again.",
+          "behaviors": [
+            "Reads course catalogs recreationally",
+            "Has a someday-list of subjects and rivers",
+            "Asks 'who else will be there' first",
+            "Funds it personally, not through the company"
+          ],
+          "motivations": [
+            "A transition with shape instead of drift",
+            "Learning without status games",
+            "Peers in the same passage"
+          ]
+        },
+        "mission": "Give the seventh year back to people who never took one.",
+        "vision": "Sabbaticals as ordinary among leaders as they are among scholars.",
+        "coreValues": [
+          "Structure honors rest",
+          "Study over spectacle",
+          "Cohort candor",
+          "Finish with a thesis"
+        ],
+        "brandPersonalityTraits": [
+          "Serious",
+          "Generous",
+          "Composed",
+          "Quietly demanding"
+        ],
+        "story": "Sabbatical began when a retiring CEO asked a university dean friend to 'build me a curriculum like I'm your best PhD student, but for my life.' The dean drafted one on two pages: readings, tutors, three journeys, a thesis question. Eleven friends asked for copies within the year. The two pages became the program.",
+        "messagingPillars": [
+          {
+            "name": "The personal curriculum",
+            "description": "Every fellow receives a designed course of study — readings, mentors, field visits — built around one governing question."
+          },
+          {
+            "name": "The cohort of twelve",
+            "description": "Eleven peers in the same passage, met monthly. The conversation no board provides."
+          },
+          {
+            "name": "The thesis",
+            "description": "Every sabbatical ends with a written answer to its opening question — the discipline that separates a season from a drift."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in seasons and questions",
+            "Respect accomplishment without flattering it",
+            "Use academic vocabulary precisely",
+            "Keep promises modest and deep"
+          ],
+          "donts": [
+            "Use wellness or journey-speak",
+            "Promise reinvention",
+            "Photograph beaches",
+            "Hurry the reader"
+          ]
+        },
+        "logoDirection": "A lowercase wordmark — sabbatical — in a fine serif, preceded by a small numeral 7 in a circle. The 7 alone marks materials for fellows.",
+        "colorPalette": [
+          {
+            "name": "Fallow Gold",
+            "hex": "#C9A961",
+            "meaning": "The resting field.",
+            "usage": "The 7 mark, accents"
+          },
+          {
+            "name": "Study Green",
+            "hex": "#33443A",
+            "meaning": "Reading-lamp shade.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Unbleached",
+            "hex": "#F4EFE4",
+            "meaning": "Paper and linen.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Graphite",
+            "hex": "#2E2E32",
+            "meaning": "The working pencil.",
+            "usage": "Text"
+          }
+        ],
+        "typography": {
+          "primary": "Freight Display for the wordmark",
+          "secondary": "Freight Text for curricula and letters",
+          "rationale": "One family in two optical sizes — a quiet metaphor for the same life at a different pace."
+        },
+        "visualIdentityIdeas": [
+          "Curricula bound as slim green volumes",
+          "A '7' lapel pin given at commencement",
+          "Thesis library shelved at the program house",
+          "Field-journey journals with pre-printed question pages"
+        ]
+      },
+      {
+        "brandName": "Viva Voce",
+        "tagline": "Coached for the moment the door closes.",
+        "brandDescription": "Viva Voce prepares candidates for high-stakes oral examinations — doctoral defenses, medical boards, bar orals, fellowship interviews — through filmed mock panels with examiners from the relevant field. Viva Voce drills the spoken performance of expertise: structure under interruption, poise under challenge, recovery after error. Engagements run two to eight weeks and end the day before the real thing.",
+        "scope": "Identity spanning discreet client materials, examiner-network communications, and mock-panel session design. The brand must read as credible to professors and surgeons alike.",
+        "brandNameRationale": "Viva voce — 'with the living voice' — is the centuries-old university term for the oral examination, still the official name of the doctoral defense in British universities. The brand names the exact ordeal it prepares people for.",
+        "industrySummary": "Oral examination remains the last unstandardized gate in elite credentialing, and candidates increasingly treat it like a performance discipline: 2025 saw coaching for medical boards and doctoral vivas grow alongside a quiet market in mock panels staffed by real examiners. Clients pay speech-coach prices for subject-credible practice no toastmasters club can offer.",
+        "competitorLandscape": "BeMo (bemoacademicconsulting.com) mass-produces interview prep for admissions. Board Vitals (boardvitals.com) drills written boards. University writing centers run occasional mock vivas free. Viva Voce differentiates on examiner authenticity — panels staffed by people who have actually failed candidates.",
+        "positioningStatement": "Practice in front of people who have sat on the other side of the table.",
+        "positioningRationale": "The fear in oral exams is the credible adversary, not the material. Only examiner-authentic panels reproduce it, and reproducing it is the entire value.",
+        "targetAudience": {
+          "primary": "Doctoral candidates, surgical fellows, and bar candidates 26–40 within eight weeks of a career-defining oral. High knowledge, uneven performance under interruption, acutely aware one hour will summarize seven years.",
+          "behaviors": [
+            "Rehearses answers aloud in empty rooms",
+            "Reads examiner bios obsessively",
+            "Books help late, then wants intensity",
+            "Pays personally and tells no one"
+          ],
+          "motivations": [
+            "Walking in without dread",
+            "Surviving the hostile question",
+            "One clean hour after years of work"
+          ]
+        },
+        "mission": "Make the spoken exam a performance that can be trained, not a temperament test.",
+        "vision": "No candidate loses in an hour what they earned over years.",
+        "coreValues": [
+          "Examiner truth",
+          "Pressure with care",
+          "Confidentiality",
+          "Craft of recovery"
+        ],
+        "brandPersonalityTraits": [
+          "Composed",
+          "Exacting",
+          "Confidential",
+          "Steadying"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Real examiners",
+            "description": "Panels are staffed by field-specific examiners with genuine committee experience — the pressure is authentic because the people are."
+          },
+          {
+            "name": "Filmed and debriefed",
+            "description": "Every mock is recorded and reviewed line-by-line: structure, stalls, recoveries."
+          },
+          {
+            "name": "The recovery drill",
+            "description": "We rehearse going wrong — the blank, the hostile follow-up — until recovery is a reflex."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Acknowledge the fear plainly",
+            "Speak with examination-room precision",
+            "Keep testimonials anonymous",
+            "Promise preparation, not outcomes"
+          ],
+          "donts": [
+            "Use pep-talk energy",
+            "Guarantee passes",
+            "Trade on examiner names",
+            "Dramatize failure"
+          ]
+        },
+        "logoDirection": "A wordmark of the two words stacked with a thin rule between — question above, answer below. The mark is a single opening quotation mark, oversized, standing alone.",
+        "colorPalette": [
+          {
+            "name": "Committee Oak",
+            "hex": "#5C4633",
+            "meaning": "The examination table.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Candidate White",
+            "hex": "#F6F4EF",
+            "meaning": "The empty chair's light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Robe Black",
+            "hex": "#1C1C20",
+            "meaning": "Academic dress.",
+            "usage": "Type"
+          },
+          {
+            "name": "Pass Green",
+            "hex": "#3E6B4F",
+            "meaning": "The committee's nod.",
+            "usage": "Single accent, sparingly"
+          }
+        ],
+        "typography": {
+          "primary": "Baskerville for the wordmark and materials",
+          "secondary": "Söhne for session logistics",
+          "rationale": "Baskerville is the examiner's typeface — bookish authority; Söhne handles scheduling without breaking register."
+        },
+        "visualIdentityIdeas": [
+          "Session reports formatted as examiners' minutes",
+          "A pre-exam 'night before' card with the candidate's three anchors",
+          "Mock-panel rooms staged with authentic examination furniture",
+          "Quotation-mark cufflinks gifted on completion"
+        ]
       }
     ],
     "Minimal": [
@@ -798,6 +1670,431 @@
           "secondary": "Same family.",
           "rationale": "One typeface."
         }
+      },
+      {
+        "brandName": "SYLLABUS",
+        "tagline": "Your course on one page.",
+        "brandDescription": "SYLLABUS is a course builder for independent teachers that outputs exactly one thing: a beautiful single page with the readings, the schedule, the price, and the enroll button. No modules, no drip campaigns, no community add-ons. SYLLABUS believes a good course fits on one page, the way it always did.",
+        "scope": "Product identity, the one-page course template system, and a launch site that is itself one page.",
+        "brandNameRationale": "The syllabus is the oldest piece of courseware there is — the single sheet that has defined a course since the medieval university. The product is the document, productized.",
+        "industrySummary": "Creator-course platforms have bloated into funnel machines: the 2025 norm bundles communities, upsells, and completion gamification, while completion rates sit under 15%. A visible counter-movement of independent teachers wants tools that look like teaching — smaller, calmer, and cheaper than the funnel stack.",
+        "competitorLandscape": "Teachable (teachable.com) and Podia (podia.com) own the full-stack creator course. Maven (maven.com) leads cohort courses with community machinery. SYLLABUS strips to the artifact all of them buried: the course description itself.",
+        "positioningStatement": "The anti-funnel course platform.",
+        "positioningRationale": "Every competitor adds; the credible differentiation left is subtraction. One page is a constraint teachers understand instantly and students trust immediately.",
+        "targetAudience": {
+          "primary": "Independent teachers and practitioners 28–55 — writers, engineers, therapists teaching a craft on the side. They have an audience already and resent that selling a course requires becoming a marketer.",
+          "behaviors": [
+            "Writes the course before the sales page",
+            "Refuses to record a launch video",
+            "Links from a newsletter, not ads",
+            "Cancels tools that email their students"
+          ],
+          "motivations": [
+            "Teaching without funnel shame",
+            "A page they're proud to link",
+            "Software that stays out of the relationship"
+          ]
+        },
+        "mission": "Let teachers publish a course the way they'd hand out a syllabus.",
+        "vision": "Courses sold on their contents again.",
+        "coreValues": [
+          "One page",
+          "No dark patterns",
+          "Teacher owns the audience",
+          "Calm software"
+        ],
+        "brandPersonalityTraits": [
+          "Spare",
+          "Principled",
+          "Dry-witted",
+          "Trustworthy"
+        ],
+        "messagingPillars": [
+          {
+            "name": "One page, period",
+            "description": "Everything a student needs to decide fits on one page. If it doesn't, the course isn't ready."
+          },
+          {
+            "name": "No funnel",
+            "description": "No countdown timers, no fake scarcity, no exit popups. Ever. It's in the terms."
+          },
+          {
+            "name": "Your students, your list",
+            "description": "Enrollments go to the teacher's email tool. SYLLABUS never emails students."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write short declaratives",
+            "Say what it doesn't do",
+            "Price in plain sight",
+            "Respect the reader's time"
+          ],
+          "donts": [
+            "Use growth vocabulary",
+            "Show revenue screenshots",
+            "Exclaim",
+            "Add features in copy"
+          ]
+        },
+        "logoDirection": "The word SYLLABUS in a typewriter-adjacent mono, underlined once, like a title on a handout. No mark — the underline is the brand.",
+        "colorPalette": [
+          {
+            "name": "Handout White",
+            "hex": "#FBFAF7",
+            "meaning": "The photocopied page.",
+            "usage": "Everything background"
+          },
+          {
+            "name": "Course Black",
+            "hex": "#191919",
+            "meaning": "Toner.",
+            "usage": "All type"
+          },
+          {
+            "name": "Office Red",
+            "hex": "#C0392B",
+            "meaning": "The one pen professors grade with.",
+            "usage": "The underline, links"
+          }
+        ],
+        "typography": {
+          "primary": "IBM Plex Mono for wordmark and headings",
+          "secondary": "IBM Plex Serif for course-page body",
+          "rationale": "Mono for the tool, serif for the teaching — the same family so the page feels authored, not assembled."
+        },
+        "visualIdentityIdeas": [
+          "Course pages that print perfectly on A4 by design",
+          "A public gallery of great one-page courses",
+          "Empty state: a blank sheet with one cursor",
+          "Terms of service short enough to read aloud"
+        ]
+      },
+      {
+        "brandName": "Flashdeck",
+        "tagline": "One deck at a time.",
+        "brandDescription": "Flashdeck is a spaced-repetition app with a deliberate constraint: you study one deck at a time, and the app decides when you're done for the day. Flashdeck schedules reviews with a proven algorithm, caps daily load to protect consistency, and refuses to let hoarded decks pile into guilt. Finish today's cards; close the app.",
+        "brandNameRationale": "The flashcard deck — descended from the Leitner box of 1970s language labs — is memory science's most durable tool. Flashdeck keeps the deck and discards the clutter that grew around it.",
+        "industrySummary": "Spaced repetition finally crossed into the mainstream via medical students and language learners, but the tooling splits between Anki's infinite configurability and gamified apps that optimize streaks over retention. 2025's learning-science consensus is clear: consistency beats volume — the design constraint most SRS apps still refuse to enforce.",
+        "competitorLandscape": "Anki (apps.ankiweb.net) is the free, infinitely tweakable standard. Quizlet (quizlet.com) owns the classroom casual tier. RemNote (remnote.com) fuses notes with SRS. Flashdeck differentiates by enforcing what the science says: bounded daily reviews, one deck of focus.",
+        "positioningStatement": "Spaced repetition with a daily edge, not a daily pile.",
+        "positioningRationale": "Anki's power users burn out on 400-card days; casual apps never build retention. The bounded session is a genuine third position that names the real failure mode: guilt-quit.",
+        "targetAudience": {
+          "primary": "Students and self-learners 18–35 — med students, language learners, certification chasers — who have installed Anki twice and quit twice. They believe in the method and hate the pile.",
+          "behaviors": [
+            "Downloads shared decks then abandons them",
+            "Studies on transit",
+            "Quits apps that show a 900-card backlog",
+            "Values finished over comprehensive"
+          ],
+          "motivations": [
+            "Retention that survives exam season",
+            "A habit that doesn't become a debt",
+            "Knowing when today is done"
+          ]
+        },
+        "mission": "Make memory a bounded daily practice, not an unpayable debt.",
+        "vision": "Spaced repetition people actually sustain for years.",
+        "coreValues": [
+          "Bounded sessions",
+          "Science defaults",
+          "Zero guilt mechanics",
+          "Finishability"
+        ],
+        "brandPersonalityTraits": [
+          "Calm",
+          "Disciplined",
+          "Minimal",
+          "Kind"
+        ],
+        "scope": "App identity, deck-format design, and the 'done for today' state — the brand's most important screen.",
+        "messagingPillars": [
+          {
+            "name": "The daily edge",
+            "description": "The algorithm serves what's due and stops. Today's session always ends."
+          },
+          {
+            "name": "One deck of focus",
+            "description": "Study one deck at a time. Depth first; the rest waits properly scheduled."
+          },
+          {
+            "name": "Done is a feature",
+            "description": "The finished state is designed, celebrated, and reached daily — the opposite of a backlog."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Count in cards and minutes",
+            "Praise consistency",
+            "Explain the algorithm once, simply",
+            "End on 'done'"
+          ],
+          "donts": [
+            "Streak-shame",
+            "Show backlogs above the fold",
+            "Gamify with coins",
+            "Overpromise fluency"
+          ]
+        },
+        "logoDirection": "A wordmark in a compact grotesk beside a mark of three stacked rounded rectangles with the top card slightly lifted — mid-flip. The lifted card alone is the app icon.",
+        "colorPalette": [
+          {
+            "name": "Card White",
+            "hex": "#FCFBF8",
+            "meaning": "The blank card face.",
+            "usage": "Backgrounds, cards"
+          },
+          {
+            "name": "Recall Blue",
+            "hex": "#2F6BFF",
+            "meaning": "The active card edge.",
+            "usage": "Primary accent, progress"
+          },
+          {
+            "name": "Done Green",
+            "hex": "#27A867",
+            "meaning": "Session complete.",
+            "usage": "The done state only"
+          },
+          {
+            "name": "Box Gray",
+            "hex": "#8A8F98",
+            "meaning": "The Leitner box.",
+            "usage": "Secondary UI"
+          },
+          {
+            "name": "Ink",
+            "hex": "#17181C",
+            "meaning": "Card text.",
+            "usage": "Type"
+          }
+        ],
+        "typography": {
+          "primary": "Inter for UI",
+          "secondary": "Charter for card content",
+          "rationale": "Inter disappears into the interface; Charter makes card content read like knowledge, not UI."
+        },
+        "visualIdentityIdeas": [
+          "A 'done for today' full-screen state worth screenshotting",
+          "Deck covers as plain color + title, like Penguin classics",
+          "A yearly 'cards retained' letter instead of streak stats",
+          "App icon badge that never shows a count"
+        ]
+      },
+      {
+        "brandName": "Recess",
+        "tagline": "The master schedule, with breaks kept sacred.",
+        "brandDescription": "Recess is master-scheduling software for elementary schools that treats recess, lunch, and teacher planning time as fixed constraints — not leftovers. Recess builds the timetable around the breaks first, then places instruction, specials, and interventions. Schools get schedules that comply with state play-time mandates and teachers get their planning periods back.",
+        "brandNameRationale": "Recess is the one school institution invented purely for wellbeing — and the first thing squeezed when schedules get tight. Naming the scheduler after the thing it protects states the product's politics in one word.",
+        "industrySummary": "A wave of state laws (over a dozen states since 2023) now mandate daily recess minutes, colliding with intervention-heavy post-pandemic schedules that master schedulers build by hand in spreadsheets each summer. Elementary scheduling software remains an afterthought of secondary-school tools, and none treat mandated breaks as first-class constraints.",
+        "competitorLandscape": "PowerSchool (powerschool.com) owns the SIS layer with clunky scheduling modules. Abre (abre.io) bundles ed-ops tools. Edval (edval.education) leads timetabling but targets secondary complexity. Recess wins the elementary niche by inverting the build order: breaks first.",
+        "positioningStatement": "Scheduling that starts where other tools cut.",
+        "positioningRationale": "Every scheduler treats breaks as slack. In elementary schools — where the law, the teachers' contract, and the kids all say otherwise — inverting the priority is both the pedagogy and the product.",
+        "targetAudience": {
+          "primary": "Elementary principals and district ops staff 35–60 who lose two weeks each summer to spreadsheet scheduling and lose teacher goodwill each fall to broken planning periods. Compliance-anxious and deeply practical.",
+          "behaviors": [
+            "Builds the master schedule in Excel over summer break",
+            "Fields grievances when planning time gets eaten",
+            "Tracks state mandate changes by newsletter",
+            "Buys software that survives a school-board question"
+          ],
+          "motivations": [
+            "Compliance without spreadsheet archaeology",
+            "Teacher trust",
+            "A summer with fewer scheduling weekends"
+          ]
+        },
+        "mission": "Build every school day around the parts that keep people whole.",
+        "vision": "No child loses recess to a spreadsheet.",
+        "coreValues": [
+          "Breaks are constraints",
+          "Teacher time is real time",
+          "Compliance by construction",
+          "Boring reliability"
+        ],
+        "brandPersonalityTraits": [
+          "Sturdy",
+          "Warm",
+          "Unpretentious",
+          "On the teachers' side"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Breaks first",
+            "description": "Recess, lunch, and planning are placed first and locked. Instruction fits around them — never the reverse."
+          },
+          {
+            "name": "Mandate-proof",
+            "description": "State play-time and planning-time rules are encoded as constraints, so compliance is structural."
+          },
+          {
+            "name": "Summer back",
+            "description": "What took two spreadsheet weeks takes an afternoon."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk minutes and mandates plainly",
+            "Side with teachers audibly",
+            "Show the schedule, not dashboards",
+            "Keep jokes gentle"
+          ],
+          "donts": [
+            "Use optimization jargon",
+            "Frame breaks as efficiency",
+            "Overclaim AI",
+            "Talk past principals to districts"
+          ]
+        },
+        "logoDirection": "A lowercase wordmark — recess — in a rounded grotesk, with the two esses at the end set slightly apart, like a gap in the day. The mark is a simple four-square court, one square open.",
+        "colorPalette": [
+          {
+            "name": "Blacktop",
+            "hex": "#3C4043",
+            "meaning": "The playground surface.",
+            "usage": "Type, wordmark"
+          },
+          {
+            "name": "Four-Square Red",
+            "hex": "#D95D4E",
+            "meaning": "Playground paint.",
+            "usage": "Primary accent"
+          },
+          {
+            "name": "Chalk",
+            "hex": "#F7F5F0",
+            "meaning": "Hopscotch lines.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Kickball Blue",
+            "hex": "#4A7FB5",
+            "meaning": "The ball.",
+            "usage": "Secondary accent"
+          }
+        ],
+        "typography": {
+          "primary": "Karla for wordmark and UI",
+          "secondary": "Karla throughout",
+          "rationale": "One friendly grotesk everywhere — schedules need exactly one voice."
+        },
+        "visualIdentityIdeas": [
+          "Schedules rendered with breaks as solid, instruction as outline — the inversion made visible",
+          "A compliance badge principals can print for board meetings",
+          "Four-square favicon",
+          "Launch-season mailer: a playground chalk kit"
+        ]
+      },
+      {
+        "brandName": "No. 2",
+        "tagline": "Everything you need. Nothing you don't. Sharpened.",
+        "brandDescription": "No. 2 is a test-prep service reduced to essentials: one adaptive question bank per exam, one printed workbook, one weekly plan. No. 2 covers the SAT, ACT, and grad-school gatekeepers with materials edited to half the length of the incumbents — because the average prep book pads to justify its price. Sharpen, practice, sit the exam.",
+        "brandNameRationale": "The No. 2 pencil is the most standardized object in education — the mandated instrument of a century of exams. The brand borrows its virtue: ubiquitous, cheap, exactly sufficient.",
+        "industrySummary": "Test prep keeps re-inflating: 2025's digital SAT shortened the exam while prep programs grew longer and pricier, with the median premium course above $1,200. Score data keeps showing diminishing returns past ~40 focused hours. The value gap between what prep costs and what moves scores is the market opening.",
+        "competitorLandscape": "UWorld (uworld.com) owns rigorous question banks. Princeton Review (princetonreview.com) sells the full-service classroom tier. Magoosh (magoosh.com) is the budget digital incumbent. No. 2 undercuts on volume, not quality: fewer, better-edited questions with the padding removed.",
+        "positioningStatement": "Half the pages. The points that matter.",
+        "positioningRationale": "Prep is sold by the pound because parents equate thickness with rigor. Calling that bluff — with score-per-hour data — is a position incumbents structurally can't copy.",
+        "targetAudience": {
+          "primary": "Students 15–24 and their parents, spread across SAT through GRE. Time-poor, skeptical of $1,200 courses, fluent in comparing options on Reddit before buying.",
+          "behaviors": [
+            "Searches 'is [prep course] worth it' before purchasing",
+            "Studies in 40-minute pockets",
+            "Prints practice sections",
+            "Trusts score-report screenshots over ads"
+          ],
+          "motivations": [
+            "Score movement per hour",
+            "Not being upsold",
+            "A plan that fits an actual week"
+          ]
+        },
+        "mission": "Sell the 40 hours that matter and nothing after.",
+        "vision": "Test prep priced and sized like the pencil: standard, sufficient, honest.",
+        "coreValues": [
+          "Sufficiency",
+          "Edited hard",
+          "Price honesty",
+          "Hour respect"
+        ],
+        "brandPersonalityTraits": [
+          "Sharp",
+          "Economical",
+          "Confident",
+          "A little wry"
+        ],
+        "scope": "Brand identity, workbook design system, and packaging for the single-SKU kits per exam.",
+        "messagingPillars": [
+          {
+            "name": "The 40-hour claim",
+            "description": "Our plans are built to the hours the data supports — and we publish the data."
+          },
+          {
+            "name": "Edited, not padded",
+            "description": "Every question earns its page. Workbooks run half the incumbent length on purpose."
+          },
+          {
+            "name": "One kit per exam",
+            "description": "One bank, one book, one plan. No tiers, no upsells, no 'premium' anything."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote hours and score deltas",
+            "Puncture prep-industry padding politely",
+            "Write like a sharp tutor",
+            "Keep sentences exam-tight"
+          ],
+          "donts": [
+            "Fearmonger about futures",
+            "Sell dream schools",
+            "Use motivational posters",
+            "Add exclamation points"
+          ]
+        },
+        "logoDirection": "A wordmark — No. 2 — set in a slab serif like a pencil stamp, hexagonal period after the No. The mark is a pencil cross-section: a hexagon with a graphite dot.",
+        "colorPalette": [
+          {
+            "name": "Pencil Yellow",
+            "hex": "#F2B705",
+            "meaning": "The regulation barrel.",
+            "usage": "Primary, covers"
+          },
+          {
+            "name": "Graphite",
+            "hex": "#2B2B2E",
+            "meaning": "The core.",
+            "usage": "Type"
+          },
+          {
+            "name": "Eraser Pink",
+            "hex": "#E8968F",
+            "meaning": "The allowance for error.",
+            "usage": "Correction states, accents"
+          },
+          {
+            "name": "Ferrule",
+            "hex": "#9AA1A9",
+            "meaning": "The metal band.",
+            "usage": "Dividers, secondary UI"
+          },
+          {
+            "name": "Scantron",
+            "hex": "#F6F3EA",
+            "meaning": "The answer sheet.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Rockwell for wordmark and covers",
+          "secondary": "Inter for questions and UI",
+          "rationale": "Rockwell stamps like a pencil imprint; Inter keeps 400 questions readable."
+        },
+        "visualIdentityIdeas": [
+          "Workbooks with hexagonal spines that stack like pencils",
+          "A real No. 2 pencil in every kit",
+          "Score-per-hour chart printed inside the front cover",
+          "Progress marked by pencil-sharpening stages"
+        ]
       }
     ],
     "Corporate": [
@@ -1089,6 +2386,444 @@
           "secondary": "A clean enterprise grotesque for operational reports.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Guildhall Skills Group",
+        "tagline": "Apprenticeship infrastructure for the enterprise.",
+        "brandDescription": "Guildhall Skills Group designs and operates registered apprenticeship programs for large employers — logistics networks, hospital systems, utilities — handling standards registration, related instruction, mentor training, and completion tracking as one managed service. Guildhall Skills Group runs programs across 14 states with a 78% completion rate against a national average near 50%.",
+        "scope": "Corporate identity for enterprise sales, government-relations materials, and the apprentice-facing program mark that appears on completion credentials.",
+        "brandNameRationale": "The guildhall was the building where medieval trade guilds administered the original apprenticeship system — standards, terms, and the register of who had earned mastery. The Group revives the administrative seat of the oldest workforce model.",
+        "industrySummary": "US registered apprenticeships passed 680,000 active apprentices in 2025, spreading beyond construction into healthcare, logistics, and tech under sustained federal expansion funding. Enterprises want the pipeline but not the administration: standards paperwork, RTI procurement, and mentor management routinely stall internal programs — creating the managed-service layer.",
+        "competitorLandscape": "Multiverse (multiverse.io) owns the tech-forward apprenticeship brand. Guild (guild.com) leads education-benefits administration. Franklin Apprenticeships (franklinapprenticeships.com) pioneered US managed apprenticeships. Guildhall differentiates on regulated-industry depth and completion-rate accountability written into contracts.",
+        "positioningStatement": "The operating partner that makes apprenticeship an enterprise program, not a pilot.",
+        "positioningRationale": "Pilots die when the champion leaves; programs survive when operations are contractual. Selling completion-rate SLAs moves the conversation from HR innovation to workforce infrastructure.",
+        "targetAudience": {
+          "primary": "CHROs, VPs of talent, and workforce-development leads at employers with 5,000+ frontline workers, plus the state agencies that fund them. They think in cohorts, compliance, and retention economics.",
+          "behaviors": [
+            "Pilots with 20 before committing to 500",
+            "Reports workforce metrics to the board annually",
+            "Coordinates with state workforce boards",
+            "Renews vendors that survive procurement review"
+          ],
+          "motivations": [
+            "Frontline retention economics",
+            "Funding capture without administrative burden",
+            "A completion number they can defend"
+          ]
+        },
+        "mission": "Make apprenticeship as easy to buy as training and as durable as infrastructure.",
+        "vision": "The apprenticeship as standard enterprise talent architecture.",
+        "coreValues": [
+          "Completion accountability",
+          "Standards fidelity",
+          "Mentor craft",
+          "Public-private fluency"
+        ],
+        "brandPersonalityTraits": [
+          "Institutional",
+          "Reliable",
+          "Fluent in both worlds",
+          "Quietly proud"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Registered, managed, guaranteed",
+            "description": "Standards registration through completion tracking, operated end-to-end with contractual completion targets."
+          },
+          {
+            "name": "Regulated-industry depth",
+            "description": "Healthcare, utilities, logistics — the sectors where compliance kills internal programs are where Guildhall is strongest."
+          },
+          {
+            "name": "The funding layer",
+            "description": "State and federal apprenticeship funding identified, captured, and administered as part of the service."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote completion rates and cohort sizes",
+            "Speak procurement fluently",
+            "Honor the apprentices in imagery and case work",
+            "Cite the standards by name"
+          ],
+          "donts": [
+            "Use startup disruption language",
+            "Call apprentices 'talent supply'",
+            "Overpromise speed",
+            "Bury the human outcomes"
+          ]
+        },
+        "logoDirection": "A wordmark in a institutional serif with a keystone-arch monogram — the guildhall doorway — reducing cleanly for credential seals. The arch mark appears in relief on completion certificates.",
+        "colorPalette": [
+          {
+            "name": "Guildhall Stone",
+            "hex": "#8A8375",
+            "meaning": "The hall itself.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Charter Blue",
+            "hex": "#1E3A5F",
+            "meaning": "The registered standard.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Journeyman Gold",
+            "hex": "#B08A3E",
+            "meaning": "The earned credential.",
+            "usage": "Seals, completion materials"
+          },
+          {
+            "name": "Ledger",
+            "hex": "#F4F1EA",
+            "meaning": "The register page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Iron",
+            "hex": "#26282B",
+            "meaning": "Type.",
+            "usage": "Text"
+          }
+        ],
+        "typography": {
+          "primary": "Miller for the wordmark and reports",
+          "secondary": "Inter for program materials",
+          "rationale": "Miller reads institutional to boards and agencies; Inter keeps apprentice materials modern and unfussy."
+        },
+        "visualIdentityIdeas": [
+          "Completion credentials with an embossed arch seal",
+          "Annual outcomes report designed like a public-works document",
+          "Mentor lapel pins in the program mark",
+          "State-by-state program maps for GR materials"
+        ]
+      },
+      {
+        "brandName": "Provost & Dean",
+        "tagline": "Counsel for the enterprise of the university.",
+        "brandDescription": "Provost & Dean is a higher-education advisory firm serving presidents, provosts, and boards on the decisions that define institutions: program portfolio restructuring, online strategy after the OPM era, enrollment repositioning, and academic-cost architecture. Provost & Dean staffs engagements with former sitting academic leaders and publishes the sector's most-read annual portfolio-economics review.",
+        "brandNameRationale": "The provost and the dean are the two offices where academic ambition meets budget reality — the roles every consequential university decision must pass through. The name announces exactly whose problems the firm solves.",
+        "industrySummary": "Higher education's 2025–26 reality: a demographic cliff arriving on schedule, small-college closures at a post-pandemic high, the OPM model collapsing after 2U's bankruptcy, and program-portfolio reviews becoming annual board agenda items. Institutions need restructuring counsel that understands shared governance — where generic strategy firms reliably fail.",
+        "competitorLandscape": "Huron (huronconsultinggroup.com) is the operational-scale incumbent. EAB (eab.com) owns research-membership advisory. Risepoint (risepoint.com) carries the OPM legacy model. Provost & Dean differentiates on academic-insider staffing and fixed-scope engagements boards can approve in one meeting.",
+        "positioningStatement": "Advisors who have sat in the chair, for decisions that can't be delegated.",
+        "positioningRationale": "Faculty senates reject consultants who've never taught; boards reject academics who can't read a balance sheet. Former provosts who've done restructuring are the only credible messengers — scarcity is the moat.",
+        "targetAudience": {
+          "primary": "Presidents, provosts, CFOs, and trustees of regional publics and mid-size privates, 50–70, facing portfolio or enrollment decisions with governance landmines. They buy discretion, sector fluency, and cover for hard calls.",
+          "behaviors": [
+            "Vets advisors through peer presidents",
+            "Reads Chronicle and Inside Higher Ed daily",
+            "Requires shared-governance choreography for every change",
+            "Prefers fixed-fee scopes boards can approve cleanly"
+          ],
+          "motivations": [
+            "Institutional survival with mission intact",
+            "Faculty process that holds",
+            "A defensible plan with a signature under it"
+          ]
+        },
+        "mission": "Help institutions make the hard academic decisions well — and survive them.",
+        "vision": "A sector that restructures with judgment instead of drift.",
+        "coreValues": [
+          "Academic fluency",
+          "Governance respect",
+          "Numbers without cynicism",
+          "Skin in the sector"
+        ],
+        "brandPersonalityTraits": [
+          "Seasoned",
+          "Candid",
+          "Discreet",
+          "Steady"
+        ],
+        "story": "The firm formed when a retiring provost and a former dean of a closed college compared notes: every consultancy that had passed through their institutions understood spreadsheets or senates — never both. Their first engagement was a program-portfolio review a president couldn't trust to either kind. The final report was forty pages; the faculty vote passed by nine.",
+        "messagingPillars": [
+          {
+            "name": "Been in the chair",
+            "description": "Every engagement is led by a former provost, dean, or president who has carried the decision personally."
+          },
+          {
+            "name": "Governance is the method",
+            "description": "Plans are built to survive senates, unions, and accreditors — sequencing included."
+          },
+          {
+            "name": "Fixed scope, board-ready",
+            "description": "Defined deliverables and fees a board can approve in a single session."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak fluent academic governance",
+            "Name hard truths gently",
+            "Cite sector data precisely",
+            "Write like a memo to a board"
+          ],
+          "donts": [
+            "Use disruption language",
+            "Blame faculty",
+            "Promise painless",
+            "Hide behind frameworks"
+          ]
+        },
+        "logoDirection": "A two-line wordmark — PROVOST above, & DEAN below — in a scholarly serif with the ampersand oversized between them, evoking the partnership of the two offices. No pictorial mark.",
+        "colorPalette": [
+          {
+            "name": "Regalia Navy",
+            "hex": "#1C2B4A",
+            "meaning": "Doctoral gown facing.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Deliberation Gray",
+            "hex": "#6E7276",
+            "meaning": "The seminar table.",
+            "usage": "Secondary text"
+          },
+          {
+            "name": "Diploma",
+            "hex": "#F5F1E6",
+            "meaning": "The parchment.",
+            "usage": "Backgrounds, reports"
+          },
+          {
+            "name": "Seal Crimson",
+            "hex": "#7A2E2E",
+            "meaning": "The registrar's seal.",
+            "usage": "Single accent"
+          }
+        ],
+        "typography": {
+          "primary": "Sabon for wordmark and reports",
+          "secondary": "Söhne for exhibits and data",
+          "rationale": "Sabon speaks to trustees who read university presses; Söhne keeps financial exhibits contemporary."
+        },
+        "visualIdentityIdeas": [
+          "Annual portfolio-economics review as a bound sector report",
+          "Engagement memos formatted for direct board circulation",
+          "An ampersand mark used as a discreet meeting-folder emboss",
+          "Sector datagraphics in a restrained two-color system"
+        ]
+      },
+      {
+        "brandName": "Normal School Partners",
+        "tagline": "Teacher development, returned to first principles.",
+        "brandDescription": "Normal School Partners is a professional-development firm for K-12 districts that replaces one-off workshop PD with embedded instructional coaching cycles. Normal School Partners places trained coaches inside schools for full semesters, runs practice-based studio days, and measures transfer into classrooms rather than seat time. District contracts span 2–5 years because instruction changes on that clock.",
+        "brandNameRationale": "The normal school was the 19th-century institution founded solely to train teachers — 'normal' from the French école normale, the school of the teaching norm. The name reclaims a lost seriousness about teaching as a learned craft.",
+        "industrySummary": "US districts spend an estimated $18B annually on professional development with famously weak transfer: the research consensus since the 2015 Mirage report is that workshop PD fails and embedded coaching works. Post-ESSER budget cliffs in 2025–26 are forcing districts to consolidate PD spend into fewer, evidence-backed partners — a shakeout favoring coaching-model firms.",
+        "competitorLandscape": "TNTP (tntp.org) owns policy-adjacent instructional improvement. Teaching Lab (teachinglab.org) leads curriculum-based PD. Instruction Partners (instructionpartners.org) works embedded school cycles. Normal School Partners differentiates on semester-length residencies and transfer measurement in the contract.",
+        "positioningStatement": "PD that lives in classrooms, measured by what changes there.",
+        "positioningRationale": "After the budget cliff, superintendents can defend only PD with observable classroom transfer. Contractual transfer metrics turn the research consensus into a procurement advantage.",
+        "targetAudience": {
+          "primary": "Superintendents, chief academic officers, and principals in districts of 3,000–50,000 students, 40–60, burned by binders from past PD vendors and answering to boards about post-ESSER spending.",
+          "behaviors": [
+            "Asks 'what changes in classrooms' in every vendor meeting",
+            "Consolidates vendors after budget reviews",
+            "Trusts peer-district references over sales decks",
+            "Walks classrooms weekly"
+          ],
+          "motivations": [
+            "Visible instructional change",
+            "Defensible spend after ESSER",
+            "Teacher retention through genuine support"
+          ]
+        },
+        "mission": "Make teacher development a craft apprenticeship again.",
+        "vision": "Every teacher coached the way we expect teachers to coach students.",
+        "coreValues": [
+          "Practice over presentation",
+          "Transfer or it didn't happen",
+          "Teacher dignity",
+          "Long clocks"
+        ],
+        "brandPersonalityTraits": [
+          "Grounded",
+          "Evidence-first",
+          "Respectful",
+          "Persistent"
+        ],
+        "story": "The founding team met as instructional coaches in a district that spent $4M a year on PD nobody could see in classrooms. They proposed a heresy: cancel the workshop catalog, put twelve coaches in schools for a year, measure lesson-level change. The district's reading scores moved for the first time in six years. Two neighboring superintendents called. That was the firm.",
+        "messagingPillars": [
+          {
+            "name": "Embedded, not visited",
+            "description": "Coaches work inside schools for semesters — co-planning, modeling, debriefing in real classrooms."
+          },
+          {
+            "name": "Transfer in the contract",
+            "description": "Engagements define observable classroom indicators up front and report against them."
+          },
+          {
+            "name": "Built for the long clock",
+            "description": "Multi-year partnerships because instructional culture changes in years, not in-service days."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk lessons, not frameworks",
+            "Quote transfer data",
+            "Honor teacher expertise",
+            "Write like an educator"
+          ],
+          "donts": [
+            "Sell inspiration",
+            "Use 'training' for teachers",
+            "Promise quick wins",
+            "Drop research names without page numbers"
+          ]
+        },
+        "logoDirection": "A wordmark in a sturdy transitional serif with a small slate-and-chalk mark: a dark rectangle with one chalk line, the oldest instructional technology. The slate reduces to a favicon cleanly.",
+        "colorPalette": [
+          {
+            "name": "Slate",
+            "hex": "#3B4548",
+            "meaning": "The original blackboard.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Chalk White",
+            "hex": "#F6F5F0",
+            "meaning": "The working line.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Primer Red",
+            "hex": "#A6392E",
+            "meaning": "The reading primer cover.",
+            "usage": "Accents, report covers"
+          },
+          {
+            "name": "Oak",
+            "hex": "#B08D57",
+            "meaning": "The schoolhouse desk.",
+            "usage": "Secondary accents"
+          },
+          {
+            "name": "Ink",
+            "hex": "#1E2124",
+            "meaning": "Type.",
+            "usage": "Text"
+          }
+        ],
+        "typography": {
+          "primary": "Ibarra Real Nova for wordmark and reports",
+          "secondary": "Public Sans for district materials",
+          "rationale": "Ibarra nods to the primer tradition; Public Sans is the civic face districts already trust."
+        },
+        "visualIdentityIdeas": [
+          "Transfer dashboards designed like gradebooks",
+          "Coach field notebooks as a signature artifact",
+          "District case studies written as school stories, not logos-and-metrics",
+          "A slate-and-chalk motif across studio-day materials"
+        ]
+      },
+      {
+        "brandName": "Matriculate Systems",
+        "tagline": "Enrollment infrastructure for the decade ahead.",
+        "brandDescription": "Matriculate Systems builds admissions and enrollment software for colleges navigating the demographic cliff — an application CRM, yield-modeling engine, and financial-aid-offer optimizer sold as one integrated platform. Matriculate Systems replaces the duct-taped stack of legacy CRM, spreadsheets, and consultant models with software institutions own and understand.",
+        "scope": "Platform identity, module naming architecture, and conference presence for the NACAC/AACRAO circuit where enrollment leaders actually buy.",
+        "brandNameRationale": "To matriculate is the formal act of enrolling in a university — the precise moment this software exists to produce. The name is the KPI.",
+        "industrySummary": "The enrollment-management software market is consolidating exactly as the buyer's problem peaks: the traditional-age student population begins its long decline in 2026, test-optional complexity has broken legacy yield models, and Slate's dominance has left institutions wanting a credible alternative with modern data architecture. Financial-aid optimization — long a consultant black box — is moving in-house.",
+        "competitorLandscape": "Technolutions Slate (technolutions.com) is the category-defining incumbent. Element451 (element451.com) leads AI-forward engagement. EAB (eab.com) sells enrollment services wrapped in software. Matriculate differentiates on transparent yield modeling — institutions see and tune the model rather than renting a black box.",
+        "positioningStatement": "The enrollment platform for institutions that want to own their model.",
+        "positioningRationale": "The cliff makes yield modeling existential, and presidents no longer accept consultant black boxes for existential math. Transparency is the wedge against both Slate's lock-in and EAB's dependency model.",
+        "targetAudience": {
+          "primary": "VPs of enrollment management, admissions directors, and CIOs at tuition-dependent privates and regional publics, 38–60. Data-literate, Slate-fatigued, under presidential pressure to explain every yield point.",
+          "behaviors": [
+            "Attends NACAC and AACRAO religiously",
+            "Benchmarks against peer institutions monthly",
+            "Distrusts models they can't interrogate",
+            "Buys after reference calls with three peer VPs"
+          ],
+          "motivations": [
+            "Hitting the class without discount-rate creep",
+            "A model they can defend to the board",
+            "Escaping vendor lock-in"
+          ]
+        },
+        "mission": "Give enrollment leaders infrastructure equal to the decade they face.",
+        "vision": "Every institution running enrollment on models it owns.",
+        "coreValues": [
+          "Model transparency",
+          "Institutional ownership",
+          "Data rigor",
+          "Decade-length partnership"
+        ],
+        "brandPersonalityTraits": [
+          "Competent",
+          "Transparent",
+          "Composed",
+          "Sector-serious"
+        ],
+        "messagingPillars": [
+          {
+            "name": "The glass-box model",
+            "description": "Yield and aid models are visible, tunable, and documented — your assumptions, your levers."
+          },
+          {
+            "name": "One platform, whole funnel",
+            "description": "Inquiry through matriculation in one system: CRM, modeling, and aid optimization natively integrated."
+          },
+          {
+            "name": "Built for the cliff",
+            "description": "Scenario planning for the demographic decade is a first-class feature, not a consulting upsell."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak enrollment vocabulary natively",
+            "Show the model's math",
+            "Respect the pressure VPs carry",
+            "Benchmark honestly"
+          ],
+          "donts": [
+            "Promise magic AI yield",
+            "Hide methodology",
+            "Sell fear of the cliff",
+            "Talk past enrollment to IT"
+          ]
+        },
+        "logoDirection": "A wordmark in a precise grotesk with a mark of an open door formed from a right-angle bracket and a threshold line — matriculation as the doorway. The door mark carries to module icons.",
+        "colorPalette": [
+          {
+            "name": "Registrar Blue",
+            "hex": "#24466E",
+            "meaning": "The institutional record.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Yield Green",
+            "hex": "#2F8F6B",
+            "meaning": "The committed deposit.",
+            "usage": "Positive states, model outputs"
+          },
+          {
+            "name": "Scenario Amber",
+            "hex": "#D9A23B",
+            "meaning": "The planning case.",
+            "usage": "Projections, warnings"
+          },
+          {
+            "name": "Transcript",
+            "hex": "#F5F4F0",
+            "meaning": "The document ground.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Slate Gray",
+            "hex": "#495057",
+            "meaning": "Working text.",
+            "usage": "Body, UI"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for wordmark and UI",
+          "secondary": "Söhne Mono for model outputs and data tables",
+          "rationale": "One family, two voices: the platform speaks Söhne, the model speaks mono — visible math in a visible typeface."
+        },
+        "visualIdentityIdeas": [
+          "Model-assumption sheets designed for board packets",
+          "A public methodology paper as a sales asset",
+          "Funnel visualizations with the door motif at matriculation",
+          "Conference booth built as a literal glass box"
+        ]
       }
     ],
     "Creative": [
@@ -1371,6 +3106,452 @@
           "secondary": "A book serif for course materials.",
           "rationale": "Two related serifs."
         }
+      },
+      {
+        "brandName": "The Field Trip Co",
+        "tagline": "School, but the good day.",
+        "brandDescription": "The Field Trip Co designs and runs experiential learning days for schools and families — the tide pool, the printing press, the courtroom, the commercial kitchen — each built with a real curriculum spine and zero worksheets. The Field Trip Co partners with local institutions, trains its guides like teachers, and sends every kid home with one object and one question.",
+        "brandNameRationale": "The field trip is the one school day everyone remembers decades later — proof that learning attaches to place and experience. The company is named for the memory it manufactures.",
+        "industrySummary": "Experiential learning is rebounding hard post-pandemic: field-trip spending recovered past 2019 levels in 2025, microschools and homeschool co-ops (now serving over 2M US kids) buy experiences instead of buildings, and districts under engagement pressure are re-funding the trips they cut. The supply side remains fragmented among museums doing their own programming.",
+        "competitorLandscape": "WorldStrides (worldstrides.com) owns big-ticket travel programs. Outschool (outschool.com) leads live online enrichment. Museum education departments serve their own buildings. The Field Trip Co differentiates as the multi-venue local operator with teacher-grade curriculum design.",
+        "positioningStatement": "The best school day of the year, on purpose, monthly.",
+        "positioningRationale": "Everyone's warmest school memory is a trip; nobody owns the brand for it. Claiming the phrase itself positions the company as the category — and homeschool growth supplies a buyer who needs it monthly, not annually.",
+        "targetAudience": {
+          "primary": "Elementary teachers and PTA coordinators booking for classes, plus homeschool co-op organizers 30–50 assembling monthly enrichment. Both buy on logistics competence first, wonder second — they've been burned by chaos.",
+          "behaviors": [
+            "Books spring trips in October",
+            "Reads risk paperwork carefully",
+            "Photographs everything for newsletters",
+            "Rebooks operators whose buses ran on time"
+          ],
+          "motivations": [
+            "A day kids talk about at dinner",
+            "Curriculum boxes checked without worksheets",
+            "Logistics they don't have to carry"
+          ]
+        },
+        "mission": "Put the unforgettable day back on the school calendar.",
+        "vision": "A generation that remembers learning as somewhere they went.",
+        "coreValues": [
+          "Wonder with a spine",
+          "Logistics are love",
+          "Local depth",
+          "One object, one question"
+        ],
+        "brandPersonalityTraits": [
+          "Joyful",
+          "Organized",
+          "Curious",
+          "Trustworthy"
+        ],
+        "story": "The Field Trip Co started when a fourth-grade teacher counted the worksheets in her curriculum — 1,140 — and the field trips: one. She spent a summer mapping every place within an hour that could teach something real, wrote curriculum spines for eleven of them, and booked her own class's year. Other teachers asked for her binder. The binder became the company.",
+        "messagingPillars": [
+          {
+            "name": "Curriculum-spined wonder",
+            "description": "Every trip maps to standards through experience — the learning is in the doing, documented for the office."
+          },
+          {
+            "name": "Logistics sacred",
+            "description": "Buses, waivers, ratios, lunches: handled with airline seriousness so adults can be present."
+          },
+          {
+            "name": "The object and the question",
+            "description": "Every child leaves holding something and wondering something. That pairing is the product."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write with sensory specifics",
+            "Respect teachers' logistics anxiety",
+            "Let kid quotes carry weight",
+            "Keep standards-talk backstage"
+          ],
+          "donts": [
+            "Use edu-jargon out front",
+            "Oversell transformation",
+            "Show clipboard-and-lanyard stock photos",
+            "Talk down to homeschoolers"
+          ]
+        },
+        "logoDirection": "A wordmark in a rounded serif with a small pennant flag mark — the kind raised at the front of a walking line. The pennant angles forward, mid-march.",
+        "colorPalette": [
+          {
+            "name": "Pennant Yellow",
+            "hex": "#F5B82E",
+            "meaning": "The follow-me flag.",
+            "usage": "Primary accent, the mark"
+          },
+          {
+            "name": "Tide Pool",
+            "hex": "#2E6E7E",
+            "meaning": "The first destination.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Kraft",
+            "hex": "#E9DFC8",
+            "meaning": "The lunch bag.",
+            "usage": "Backgrounds, packaging"
+          },
+          {
+            "name": "Ticket Red",
+            "hex": "#D4553E",
+            "meaning": "The admission stub.",
+            "usage": "Secondary accent"
+          },
+          {
+            "name": "Pencil",
+            "hex": "#33322E",
+            "meaning": "Type.",
+            "usage": "Text"
+          }
+        ],
+        "typography": {
+          "primary": "Recoleta for wordmark and headlines",
+          "secondary": "Inter for logistics documents",
+          "rationale": "Recoleta carries warmth for families; Inter makes the permission slip feel professional."
+        },
+        "visualIdentityIdeas": [
+          "Trip tickets designed as keepsake stubs",
+          "The one-object policy: a stamped kraft envelope per child",
+          "Guide vests in pennant yellow",
+          "Teacher logistics packets that fit one page",
+          "A year-map poster of the co-op's twelve trips"
+        ]
+      },
+      {
+        "brandName": "Show Your Work",
+        "tagline": "The answer was never the point.",
+        "brandDescription": "Show Your Work is a classroom platform where students submit their thinking, not just their answers — voice notes, photographed scratch paper, draft timelines, revision histories. Show Your Work gives teachers a feed of process, tools to comment on reasoning, and portfolios that make growth visible to families. It grades journeys in a world that only ever graded destinations.",
+        "brandNameRationale": "'Show your work' is the most repeated instruction in schooling — scribbled on a million math tests. The platform takes the command literally and builds the infrastructure it always deserved.",
+        "industrySummary": "AI answer-generation broke answer-grading: since 2023, any take-home answer can be synthetic, pushing assessment toward process evidence — drafts, reasoning, revision. Process-portfolio pedagogy, long championed in writing and math education, suddenly has an existential tailwind, and districts are actively procuring 'AI-resilient assessment' tools in 2025–26.",
+        "competitorLandscape": "Seesaw (seesaw.com) owns elementary portfolio sharing. Padlet (padlet.com) leads flexible boards. ClassDojo (classdojo.com) dominates family communication. All capture artifacts; Show Your Work is built around process capture — the draft trail is the data model.",
+        "positioningStatement": "The platform that makes thinking visible — and ungameable.",
+        "positioningRationale": "In the AI era, process evidence is the only assessment that proves a human learned. Owning 'show your work' — the phrase every teacher already says — makes the pedagogy shift feel like common sense, not adoption.",
+        "targetAudience": {
+          "primary": "Middle and high school teachers 25–55, math and writing first, in districts wrestling with AI policy. Pedagogically ambitious, tool-weary, looking for something that changes what students do rather than what teachers monitor.",
+          "behaviors": [
+            "Collects scratch paper deliberately",
+            "Photographs whiteboard work",
+            "Argues about AI policy in the staff room",
+            "Adopts tools colleagues demo, not tools admin assigns"
+          ],
+          "motivations": [
+            "Assessment that AI can't hollow out",
+            "Seeing where understanding breaks",
+            "Students who value drafts"
+          ]
+        },
+        "mission": "Make the process the product of school.",
+        "vision": "Classrooms where a beautiful draft trail earns more pride than a right answer.",
+        "coreValues": [
+          "Thinking visible",
+          "Drafts have dignity",
+          "Teacher judgment first",
+          "Un-gameable by design"
+        ],
+        "brandPersonalityTraits": [
+          "Convictionful",
+          "Practical",
+          "Warm",
+          "A little rebellious"
+        ],
+        "manifesto": "For a hundred years school asked for the answer and threw away the thinking. Then the machines learned to make answers by the billion, and the answer became worthless overnight. Good. The answer was never the point. The crossed-out line, the second try, the voice note at 11pm saying 'wait, I think I get it' — that was always the education. We built Show Your Work because the scratch paper was the real transcript all along. Keep the drafts. Grade the journey. The destination can prove nothing anymore.",
+        "messagingPillars": [
+          {
+            "name": "Process is the artifact",
+            "description": "Drafts, voice notes, and revision trails are first-class submissions with their own rubrics."
+          },
+          {
+            "name": "AI-resilient by nature",
+            "description": "You can fake an answer; you can't fake a week of thinking. Process evidence restores trust."
+          },
+          {
+            "name": "Growth families can see",
+            "description": "Portfolios show September's draft beside May's — the conference conversation writes itself."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Celebrate crossed-out lines",
+            "Speak teacher-to-teacher",
+            "Take a stance on AI plainly",
+            "Show real student process (with permission)"
+          ],
+          "donts": [
+            "Fearmonger about cheating",
+            "Promise surveillance",
+            "Use edtech buzzword stacks",
+            "Pretend answers don't matter at all"
+          ]
+        },
+        "logoDirection": "A hand-underlined wordmark: SHOW YOUR WORK in a confident grotesk with a rough pencil underline that overshoots the K. The underline stroke alone becomes the app's loading motif.",
+        "colorPalette": [
+          {
+            "name": "Scratch Graphite",
+            "hex": "#4A4A50",
+            "meaning": "The working pencil.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Draft Blue",
+            "hex": "#3D7BD9",
+            "meaning": "Ballpoint revision ink.",
+            "usage": "Interactive elements"
+          },
+          {
+            "name": "Eraser Rose",
+            "hex": "#E58C7B",
+            "meaning": "The honorable mistake.",
+            "usage": "Revision highlights"
+          },
+          {
+            "name": "Loose-Leaf",
+            "hex": "#FAF8F2",
+            "meaning": "The notebook page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Margin Red",
+            "hex": "#C13A2E",
+            "meaning": "Teacher's pen.",
+            "usage": "Feedback accents"
+          }
+        ],
+        "typography": {
+          "primary": "Space Grotesk for wordmark and headers",
+          "secondary": "Literata for student-facing reading",
+          "rationale": "Space Grotesk has a workshop energy; Literata makes reading drafts feel like reading, not grading."
+        },
+        "visualIdentityIdeas": [
+          "Portfolio covers that show draft-count proudly ('14 drafts')",
+          "A revision-timeline scrubber as the signature UI",
+          "Classroom posters of famous first drafts",
+          "Conference printouts pairing first and final work side-by-side"
+        ]
+      },
+      {
+        "brandName": "Pop Quiz Press",
+        "tagline": "Surprise them with how fun knowing is.",
+        "brandDescription": "Pop Quiz Press makes live classroom quiz games with actual editorial standards — question packs written by subject nerds, fact-checked, and tuned so the fun comes from the questions, not just the leaderboard. Pop Quiz Press sells termly packs to teachers and a family edition for kitchen tables, all playable on one screen with paper answer paddles included.",
+        "brandNameRationale": "The pop quiz is school's oldest jump-scare, remembered with weirdly fond dread by every adult. The Press half signals the editorial promise: these questions are written, not generated.",
+        "industrySummary": "Classroom quiz gaming is huge and hollow: Kahoot, Quizizz, and Gimkit dominate 2025 usage, but their marketplaces are flooded with unvetted, error-riddled user content, and teacher forums increasingly complain about question quality. Meanwhile family trivia is booming print-side. The gap is editorial: nobody curates the questions themselves.",
+        "competitorLandscape": "Kahoot (kahoot.com) owns the category verb. Quizizz (quizizz.com) leads async practice modes. Gimkit (gimkit.com) innovates on game mechanics. All are platforms with user-generated content; Pop Quiz Press is a publisher — the questions are the product.",
+        "positioningStatement": "The quiz game where the questions are the game.",
+        "positioningRationale": "Mechanics are copied within a school year; an editorial voice compounds. Positioning as a press — with authors, editors, and errata — is defensible in a way one more game mode never is.",
+        "targetAudience": {
+          "primary": "Teachers 24–50 who already run weekly quiz games and wince at marketplace question quality, plus trivia-family parents. Both notice a wrong answer key instantly and remember who embarrassed them.",
+          "behaviors": [
+            "Edits downloaded quizzes before using them",
+            "Runs Friday game rituals",
+            "Reads questions aloud with performance",
+            "Emails corrections to publishers"
+          ],
+          "motivations": [
+            "Questions they don't have to pre-screen",
+            "The room lighting up",
+            "Trusting the answer key completely"
+          ]
+        },
+        "mission": "Give the classroom game questions worth the excitement.",
+        "vision": "Quiz day as beloved for what's asked as for who wins.",
+        "coreValues": [
+          "Editorial pride",
+          "Fact-checked or nothing",
+          "Fun with substance",
+          "Paper still works"
+        ],
+        "brandPersonalityTraits": [
+          "Playful",
+          "Exacting",
+          "Nerdy",
+          "Showman-ish"
+        ],
+        "scope": "Brand identity, question-pack cover system, the paddle kit, and the host screen UI — the projector view is the storefront.",
+        "messagingPillars": [
+          {
+            "name": "Written by humans who care",
+            "description": "Every pack has named authors, an editor, and an errata policy. A byline on a quiz changes everything."
+          },
+          {
+            "name": "Tuned difficulty curves",
+            "description": "Packs build from gimmes to gaspers on a designed curve, so every kid scores early and the ending is loud."
+          },
+          {
+            "name": "One screen and paddles",
+            "description": "No 30 devices needed — one projector, paper paddles, mayhem. Works in every classroom on earth."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write with quiz-show energy",
+            "Flaunt the fact-checking",
+            "Credit authors by name",
+            "Keep the wink"
+          ],
+          "donts": [
+            "Use engagement-metric language",
+            "Punch down in questions",
+            "Fake difficulty with trick wording",
+            "Autogenerate anything"
+          ]
+        },
+        "logoDirection": "A wordmark in a bouncy slab serif with an exclamation-point mark whose dot is a buzzer button. The buzzer-dot animates on the host screen when answers lock.",
+        "colorPalette": [
+          {
+            "name": "Buzzer Red",
+            "hex": "#E03E36",
+            "meaning": "Lock it in.",
+            "usage": "The mark, host-screen actions"
+          },
+          {
+            "name": "Gameshow Gold",
+            "hex": "#F2B93B",
+            "meaning": "The winner's glow.",
+            "usage": "Scores, covers"
+          },
+          {
+            "name": "Curtain Teal",
+            "hex": "#1F6F6B",
+            "meaning": "The stage backdrop.",
+            "usage": "Primary surfaces"
+          },
+          {
+            "name": "Cue-Card White",
+            "hex": "#FBF9F3",
+            "meaning": "The host's cards.",
+            "usage": "Backgrounds, question cards"
+          },
+          {
+            "name": "Ink",
+            "hex": "#232326",
+            "meaning": "Type.",
+            "usage": "Text"
+          }
+        ],
+        "typography": {
+          "primary": "Clarendon for wordmark and question display",
+          "secondary": "Inter for host UI",
+          "rationale": "Clarendon is the great quiz-card letter — loud and literate at once; Inter stays out of the way backstage."
+        },
+        "visualIdentityIdeas": [
+          "Question packs sold as numbered 'editions' with cover art",
+          "Paper paddle kits with satisfying heavyweight stock",
+          "An errata page treated as a badge of honor",
+          "Host screen with theatrical reveal animations",
+          "Author trading cards in teacher welcome kits"
+        ]
+      },
+      {
+        "brandName": "The Substitute",
+        "tagline": "The best surprise on the schedule.",
+        "brandDescription": "The Substitute is a staffing and training company that turns the most dreaded slot in schooling into its happiest accident. The Substitute recruits performers, retirees, and career-changers, trains them in a signature 'great day' method — one portable lesson, three classroom games, real behavior craft — and staffs districts with subs kids cheer for. Fill rates above 95%, repeat-request rates published per sub.",
+        "brandNameRationale": "The substitute teacher is education's most maligned role — the punchline of every sitcom classroom. Naming the company after the role, with a definite article, dares to make it a title worth wanting.",
+        "industrySummary": "The substitute shortage became structural after 2020: national fill rates still hover near 80%, meaning millions of instructional hours yearly land on unprepared coverage. Districts outsource to staffing firms competing purely on volume, while sub training remains a 40-minute compliance video. Quality — not headcount — is the unclaimed position in 2025–26.",
+        "competitorLandscape": "Swing Education (swingeducation.com) owns tech-forward sub marketplaces. Kelly Education (kellyeducation.com) is the volume incumbent. ESS (ess.com) dominates the southeast. All sell coverage; The Substitute sells the day itself — trained delivery, measured by repeat requests.",
+        "positioningStatement": "Subs schools request by name.",
+        "positioningRationale": "Districts buy fill rates until a principal experiences a sub who left the class better than they found it — then they buy names. Publishing per-sub repeat-request rates makes quality legible in a volume market.",
+        "targetAudience": {
+          "primary": "District HR directors and principals 35–60 drowning in vacancy mornings, plus the sub talent pool itself: performers, retirees, and career-explorers 22–70 who'd take the work if it came with craft and respect.",
+          "behaviors": [
+            "Principals keep private lists of good subs",
+            "HR posts vacancies at 5:45am",
+            "Good subs get poached across districts by word of mouth",
+            "Subs quit platforms that treat them as gig inventory"
+          ],
+          "motivations": [
+            "Mornings without coverage panic",
+            "Instructional hours that stay instructional",
+            "For subs: a role with training, status, and regulars"
+          ]
+        },
+        "mission": "Make the substitute a role kids cheer for and schools fight over.",
+        "vision": "No lost day of school anywhere.",
+        "coreValues": [
+          "Craft over coverage",
+          "Respect the role",
+          "The day matters",
+          "Named, not numbered"
+        ],
+        "brandPersonalityTraits": [
+          "Spirited",
+          "Professional",
+          "Underdog-proud",
+          "Dependable"
+        ],
+        "manifesto": "Somebody decided the substitute was a punchline — a name on the board, a movie rolled in the dark, a day that doesn't count. We refuse. A classroom with 27 kids in it always counts. The Substitute trains people to walk into a room they've never seen and make it a good day anyway: a lesson in the bag, three games that work everywhere, and the unshakeable belief that the schedule's biggest surprise can be its best one. The sitcoms had their fun. Now the substitute gets a standing ovation.",
+        "messagingPillars": [
+          {
+            "name": "The great-day method",
+            "description": "Every sub carries a trained kit: portable lessons, universal games, real behavior craft. No dark-room movie days."
+          },
+          {
+            "name": "Requested by name",
+            "description": "Per-sub repeat-request rates are tracked and published — quality made visible in a volume industry."
+          },
+          {
+            "name": "A real bench",
+            "description": "Performers, retirees, career-changers — recruited for presence, trained for craft, retained with respect."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Flip the sitcom trope proudly",
+            "Quote fill and repeat-request rates",
+            "Give subs bylines and faces",
+            "Speak principal-to-principal plainly"
+          ],
+          "donts": [
+            "Apologize for the role",
+            "Use gig-economy language",
+            "Overpromise curriculum continuity",
+            "Hide pricing"
+          ]
+        },
+        "logoDirection": "A wordmark in a confident serif with the definite article stacked small above SUBSTITUTE — like a name on a chalkboard done right. The mark is a star drawn in one chalk stroke.",
+        "colorPalette": [
+          {
+            "name": "Chalkboard Green",
+            "hex": "#2F4A3E",
+            "meaning": "The board with your name on it.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Gold Star",
+            "hex": "#EEB629",
+            "meaning": "The earned sticker.",
+            "usage": "The mark, ratings"
+          },
+          {
+            "name": "Hall-Pass Red",
+            "hex": "#C24638",
+            "meaning": "School signage.",
+            "usage": "Accents"
+          },
+          {
+            "name": "Notebook",
+            "hex": "#F7F5EE",
+            "meaning": "Fresh page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Charcoal",
+            "hex": "#26262A",
+            "meaning": "Type.",
+            "usage": "Text"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos for wordmark and headlines",
+          "secondary": "Inter for district materials",
+          "rationale": "Tiempos gives the maligned role editorial dignity; Inter keeps HR paperwork brisk."
+        },
+        "visualIdentityIdeas": [
+          "Sub kits in a signature canvas tote — the badge of the trained",
+          "Chalk-star repeat-request badges on sub profiles",
+          "District reports titled 'Days Saved'",
+          "Recruiting posters in community theaters and retirement centers"
+        ]
       }
     ]
   }
