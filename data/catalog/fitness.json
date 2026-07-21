@@ -268,6 +268,333 @@
           "secondary": "A book serif for the member letter and program documentation.",
           "rationale": "Two related serifs. The brand reads like a careful training publication."
         }
+      },
+      {
+        "brandName": "Working Sets",
+        "tagline": "No cardio theater. Just the sets that count.",
+        "brandDescription": "Working Sets is a strength-only gym chain built around the barbell and the rack — no cardio floor, no group-ex mirror room, no smoothie counter. Working Sets sells one membership tier, guarantees a free rack within five minutes at peak via live capacity data, and staffs every shift with a coach who actually lifts. It is the gym for people whose training is the point.",
+        "brandNameRationale": "In lifting, warm-up sets prepare you and 'working sets' are the ones that build you — the sets that count. The name is the gym's entire editorial position on how training time should be spent.",
+        "industrySummary": "Strength has decisively beaten cardio in the culture: 2025 industry reports show strength-equipment demand outpacing cardio for the fourth straight year, and big-box chains are ripping out treadmill rows to add racks. Yet most gyms remain built for the 2005 member. Strength-first boutiques are the fastest-growing club format, commanding 2–3x big-box dues.",
+        "competitorLandscape": "Gold's Gym (goldsgym.com) carries legacy lifting credibility diluted by big-box economics. EōS Fitness (eosfitness.com) wins on value with strength-heavy floors. Squat & Bench-style local barbell clubs own hardcore niches without scale. Working Sets systematizes the barbell club: serious floors, chain reliability.",
+        "positioningStatement": "The gym that spent your cardio floor on more racks.",
+        "positioningRationale": "Rack scarcity is the single loudest complaint of the strength era — waiting 20 minutes to squat. Building the brand promise on guaranteed rack access converts the market's biggest pain into the membership's core feature.",
+        "targetAudience": {
+          "primary": "Committed lifters 22–45 who train 4–6 days a week on structured programs. They know their numbers, film their heavy sets, and left their last gym over crowded racks and dumbbells that stop at 75.",
+          "behaviors": [
+            "Follows a written program block",
+            "Checks gym occupancy before leaving home",
+            "Films top sets for form review",
+            "Pays for chalk-friendly, platform-equipped floors"
+          ],
+          "motivations": [
+            "Uninterrupted training on their program",
+            "Equipment that matches their numbers",
+            "A floor culture that respects the work"
+          ]
+        },
+        "mission": "Build gyms where the training is the amenity.",
+        "vision": "A rack for everyone who came to use one.",
+        "coreValues": [
+          "The lift comes first",
+          "Capacity honesty",
+          "Coach credibility",
+          "No theater"
+        ],
+        "brandPersonalityTraits": [
+          "Serious",
+          "Plainspoken",
+          "Disciplined",
+          "Quietly welcoming"
+        ],
+        "story": "Working Sets started when two powerlifting coaches counted the racks-to-treadmills ratio at every chain in their city: the best was 1 to 9. They leased a failed spin studio, installed fourteen racks and zero treadmills, and put the live occupancy count on the front door. The waitlist filled before the chalk arrived.",
+        "messagingPillars": [
+          {
+            "name": "Racks, guaranteed",
+            "description": "Live capacity data and a five-minute peak-time rack guarantee — the promise no big-box can make."
+          },
+          {
+            "name": "Equipment to grow into",
+            "description": "Calibrated plates, competition bars, dumbbells past 120 — the ceiling is never the gym."
+          },
+          {
+            "name": "Coaches who lift",
+            "description": "Every shift is staffed by a coach with real numbers and a free-form-check policy."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Talk in sets, blocks, and PRs",
+            "Publish capacity data plainly",
+            "Respect beginners without diluting the room",
+            "Keep promises measurable"
+          ],
+          "donts": [
+            "Sell transformation fantasies",
+            "Use bootcamp hype",
+            "Apologize for the focus",
+            "Add lifestyle fluff"
+          ]
+        },
+        "logoDirection": "A wordmark in a compressed grotesk, WORKING SETS stacked, with a mark of three plates loaded on a bar sleeve viewed end-on — concentric circles off-center. The plate mark holds the door signage.",
+        "colorPalette": [
+          {
+            "name": "Platform Black",
+            "hex": "#1B1B1E",
+            "meaning": "The lifting platform.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Knurl Steel",
+            "hex": "#8E939B",
+            "meaning": "The bar itself.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Chalk",
+            "hex": "#F2F0EA",
+            "meaning": "The working hands.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "PR Red",
+            "hex": "#D9342B",
+            "meaning": "The bulgarian-plate red — the heavy day.",
+            "usage": "Accents, capacity indicators"
+          }
+        ],
+        "typography": {
+          "primary": "Druk for the wordmark",
+          "secondary": "Inter for schedules and UI",
+          "rationale": "Druk carries the compressed force of a loaded bar; Inter keeps the capacity dashboard legible mid-session."
+        },
+        "visualIdentityIdeas": [
+          "Live rack-count displayed on the storefront",
+          "Membership cards shaped like change plates",
+          "Platform numbers stenciled like weight-room floors",
+          "A 'first pull' onboarding session instead of a gym tour"
+        ]
+      },
+      {
+        "brandName": "Off Day",
+        "tagline": "Train the day you don't.",
+        "brandDescription": "Off Day is a recovery-programming app that treats rest as a training discipline. Off Day prescribes the day between sessions — mobility sequences, zone-1 work, sleep and fuel targets — synced to whatever training app the athlete already uses. It reads your training load and writes your recovery, because the day off is where the adaptation actually happens.",
+        "brandNameRationale": "The off day is the most mislabeled day in training — physiologically, it's the day the body builds what the workout demanded. The brand names the neglected day and gives it a program.",
+        "industrySummary": "Recovery went mainstream through wearables — WHOOP and Oura normalized readiness scores — but 2025's gap is glaring: athletes now know they're under-recovered and still have no idea what to do about it. Recovery guidance remains fragmented across stretching apps, sleep trackers, and physio Instagram. Programming the rest day is an open lane.",
+        "competitorLandscape": "WHOOP (whoop.com) owns recovery measurement without prescription. Pliability (pliability.com) leads mobility content libraries. Bear? — Therabody's app (therabody.com) ties recovery to devices. Off Day differentiates by programming: not a score, not a library, but today's actual recovery workout.",
+        "positioningStatement": "Your wearable grades recovery. Off Day coaches it.",
+        "positioningRationale": "Measurement without prescription creates anxiety, not adaptation — the exact frustration WHOOP built and never resolved. Sitting downstream of every tracker as the 'what now' layer makes the category leader a funnel, not a competitor.",
+        "targetAudience": {
+          "primary": "Serious recreational athletes 25–45 — lifters, runners, hybrid athletes — training 5+ days weekly with a wearable on the wrist. They obsess over training blocks and treat rest as guilt.",
+          "behaviors": [
+            "Checks readiness score before coffee",
+            "Skips mobility work unless it's programmed",
+            "Stacks training apps but owns no recovery plan",
+            "Screenshots recovery scores when they're bad"
+          ],
+          "motivations": [
+            "Adapting instead of accumulating fatigue",
+            "Permission to rest with structure",
+            "Fewer injury restarts"
+          ]
+        },
+        "mission": "Turn rest from a guilt into a program.",
+        "vision": "Every training plan shipping with its shadow: the recovery plan.",
+        "coreValues": [
+          "Adaptation over accumulation",
+          "Prescription beats measurement",
+          "Meet athletes in their stack",
+          "Rest without guilt"
+        ],
+        "brandPersonalityTraits": [
+          "Knowing",
+          "Calm",
+          "Athlete-fluent",
+          "Slightly contrarian"
+        ],
+        "manifesto": "You don't get stronger in the gym. You get stronger the day after — if you let it happen. We built Off Day because the fitness industry programmed six days a week and left the seventh to guilt. Your wearable tells you you're cooked; your feed tells you to grind anyway. Somebody has to program the silence between the notes. Rest is not the absence of training. It's the half of training nobody coached. Until now.",
+        "messagingPillars": [
+          {
+            "name": "Reads load, writes recovery",
+            "description": "Off Day ingests training data from your existing apps and prescribes the between-day: mobility, zone-1, fuel, sleep."
+          },
+          {
+            "name": "The 20-minute off day",
+            "description": "Recovery sessions are short, specific, and finishable — designed for the day you'd otherwise do nothing or too much."
+          },
+          {
+            "name": "Downstream of every tracker",
+            "description": "WHOOP, Oura, Garmin, Apple — whatever grades you, Off Day answers it."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite training-science plainly",
+            "Talk to athletes as athletes",
+            "Make rest sound like craft",
+            "Keep sessions honest in length"
+          ],
+          "donts": [
+            "Use spa-day softness",
+            "Shame overtraining",
+            "Promise performance magic",
+            "Add streaks to rest days"
+          ]
+        },
+        "logoDirection": "A lowercase wordmark — off day — in a soft-edged grotesk, with the two words separated by an em-width pause. The mark is a pause symbol built from two rounded bars, one slightly taller: effort and rest.",
+        "colorPalette": [
+          {
+            "name": "Dawn Blue",
+            "hex": "#7FA8C9",
+            "meaning": "The morning after the session.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Deep Rest",
+            "hex": "#22303E",
+            "meaning": "Sleep depth.",
+            "usage": "Wordmark, dark surfaces"
+          },
+          {
+            "name": "Zone-1 Green",
+            "hex": "#69A583",
+            "meaning": "The easy heart-rate band.",
+            "usage": "Session indicators"
+          },
+          {
+            "name": "Foam",
+            "hex": "#F3F1EC",
+            "meaning": "The roller, the mat.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Load Amber",
+            "hex": "#D8973C",
+            "meaning": "Accumulated fatigue.",
+            "usage": "Load warnings"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for wordmark and UI",
+          "secondary": "Söhne Mono for load data",
+          "rationale": "One family in two weights mirrors the product's thesis: same athlete, different intensity."
+        },
+        "visualIdentityIdeas": [
+          "A 'pause' app icon that fills as recovery completes",
+          "Session cards named like workouts: 'Deload 20', 'Spine 12'",
+          "Yearly recap: hours recovered, not hours trained",
+          "Partnerships surfacing inside training apps as the 'rest day' tile"
+        ]
+      },
+      {
+        "brandName": "Hybrid Block",
+        "tagline": "Strong and fast are one program now.",
+        "brandDescription": "Hybrid Block is a training-programming platform for hybrid athletes — people who refuse to choose between the barbell and the run. Hybrid Block writes periodized blocks that reconcile strength and endurance load in one calendar, managing interference, fueling, and deload timing across both. Programs adapt weekly to logged sessions from Garmin, Strava, and the rack.",
+        "scope": "Product identity, block-naming system, and the training-calendar UI language — the calendar is the product's face.",
+        "brandNameRationale": "The training block is periodization's unit of progress — a focused mesocycle with a goal. Hybrid names the athlete; Block names the method. Together they promise what the market lacks: hybrid training with actual structure.",
+        "industrySummary": "The hybrid athlete went from subculture to the defining fitness identity of the mid-2020s — Hyrox sold out 90+ races in 2025 with over 650k participants, and 'hybrid' is now the fastest-growing training search term. But programming remains split-brain: running apps ignore the squat rack, lifting apps ignore the long run, and interference management is folklore.",
+        "competitorLandscape": "Runna (runna.com) owns intelligent run programming. Juggernaut AI (juggernautai.app) leads adaptive strength programming. TrainHeroic (trainheroic.com) distributes coach-written programs. Each owns half the athlete; Hybrid Block programs the whole one — the interference math is the product.",
+        "positioningStatement": "The first program that knows your long run and your top set are the same body.",
+        "positioningRationale": "Every hybrid athlete currently runs two apps that fight each other. Owning the reconciliation layer — the interference problem itself — positions Hybrid Block as the category's missing operating system rather than another content library.",
+        "targetAudience": {
+          "primary": "Hybrid athletes 24–42: Hyrox entrants, military and first-responder trainees, ex-team-sport athletes who lift Monday and race Saturday. Data-literate, program-loyal, currently duct-taping two coaching apps together.",
+          "behaviors": [
+            "Logs both Strava and a lifting app daily",
+            "Plans seasons around one or two races",
+            "Argues about interference effect on Reddit",
+            "Pays for programming, not content"
+          ],
+          "motivations": [
+            "PRs in two directions at once",
+            "A calendar that resolves its own conflicts",
+            "Arriving at race day strong and fresh"
+          ]
+        },
+        "mission": "Make dual-discipline training one coherent program.",
+        "vision": "Hybrid as a discipline with its own science, not a compromise between two.",
+        "coreValues": [
+          "Interference is solvable",
+          "The calendar is truth",
+          "Adapt weekly",
+          "Both PRs count"
+        ],
+        "brandPersonalityTraits": [
+          "Engineered",
+          "Ambitious",
+          "Evidence-driven",
+          "Energetic"
+        ],
+        "messagingPillars": [
+          {
+            "name": "One calendar, two engines",
+            "description": "Strength and endurance sessions planned as one load system — no more apps fighting over your Tuesday."
+          },
+          {
+            "name": "Interference, managed",
+            "description": "Session order, spacing, and intensity balanced by the research on concurrent training, not vibes."
+          },
+          {
+            "name": "Race-day periodization",
+            "description": "Blocks build backward from your event — Hyrox, marathon, meet — with both qualities peaking together."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use periodization vocabulary correctly",
+            "Show the calendar logic",
+            "Celebrate double PRs",
+            "Cite the concurrent-training research"
+          ],
+          "donts": [
+            "Pick a side between lifting and running",
+            "Sell no-days-off culture",
+            "Hide the method in a black box",
+            "Use bro-science"
+          ]
+        },
+        "logoDirection": "A wordmark in an italic-forward grotesk suggesting motion, with a mark of two interlocking rectangles — two blocks overlapping into a third shape. The overlap zone renders in the accent color: the managed interference.",
+        "colorPalette": [
+          {
+            "name": "Block Navy",
+            "hex": "#20304A",
+            "meaning": "The strength block.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Pace Orange",
+            "hex": "#E8663C",
+            "meaning": "The endurance block.",
+            "usage": "Secondary accent"
+          },
+          {
+            "name": "Overlap Violet",
+            "hex": "#6E4A8E",
+            "meaning": "Where the two loads meet — the product.",
+            "usage": "The mark's core, key UI moments"
+          },
+          {
+            "name": "Recovery Gray",
+            "hex": "#AEB4BC",
+            "meaning": "The deload week.",
+            "usage": "Calendar rest states"
+          },
+          {
+            "name": "Chalk White",
+            "hex": "#F5F4F0",
+            "meaning": "Ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Space Grotesk for wordmark and headers",
+          "secondary": "Inter for calendar and data",
+          "rationale": "Space Grotesk has engineered athleticism; Inter keeps a dense two-discipline calendar readable."
+        },
+        "visualIdentityIdeas": [
+          "Calendar blocks that physically interlock in the UI",
+          "Season posters generated from an athlete's completed blocks",
+          "The overlap-violet as a race-kit accent color",
+          "Block-completion cards designed for sharing"
+        ]
       }
     ],
     "Luxury": [
@@ -540,6 +867,339 @@
           "secondary": "An engraver's italic for member names in the annual journal.",
           "rationale": "Letterpress register throughout."
         }
+      },
+      {
+        "brandName": "The Piste",
+        "tagline": "En garde is a way of standing in the world.",
+        "brandDescription": "The Piste is a private athletic club built around fencing — the fastest chess a body can play. The Piste teaches épée and foil to accomplished adults on competition strips, wraps the training in strength and footwork conditioning, and hosts a members' salle culture of ranked bouts, visiting masters, and an annual club tournament with a hundred-year trophy in mind.",
+        "brandNameRationale": "The piste is the fourteen-meter strip on which all competitive fencing happens — the fencer's entire world, named in the French of the sport's classical tradition. The club is named for the ground itself.",
+        "industrySummary": "Luxury fitness in 2025–26 is migrating from equipment to identity: padel clubs, members' athletic houses, and skill-based sports command $5k–$30k annual dues by offering craft and society, not machines. Fencing is uniquely positioned — Olympic pedigree, zero big-box presence, an adult-beginner-friendly learning curve, and an aesthetic no other sport can fake.",
+        "competitorLandscape": "Remedy Place (remedyplace.com) owns the social-wellness club. Continuum (continuum.club) leads performance-longevity membership. Local fencing academies (e.g., city salles) teach children brilliantly and adults incidentally. The Piste combines club economics with a single-craft curriculum no wellness brand can copy.",
+        "positioningStatement": "A members' club where the amenity is a 500-year-old martial art.",
+        "positioningRationale": "The luxury-fitness buyer has bought every recovery modality and is bored. Mastery of an elegant, difficult craft — with ranks, rivals, and ritual — is the one product boredom can't exhaust.",
+        "targetAudience": {
+          "primary": "Members 35–65: founders, surgeons, partners — people who miss being beginners at something with stakes. They want a sport with intellect, an aesthetic worth dressing for, and rivals who become friends.",
+          "behaviors": [
+            "Books standing weekly bout slots",
+            "Commissions fitted whites and custom grips",
+            "Studies bout footage like game film",
+            "Brings guests to watch, not to try"
+          ],
+          "motivations": [
+            "Mastery with visible rank",
+            "Combat without brutality",
+            "A club identity beyond a gym card"
+          ]
+        },
+        "mission": "Give accomplished adults a blade, a strip, and a reason to improve forever.",
+        "vision": "A salle culture in every major city, with rivalries measured in decades.",
+        "coreValues": [
+          "Craft before comfort",
+          "Courtesy of the blade",
+          "Earned rank",
+          "Beautiful practice"
+        ],
+        "brandPersonalityTraits": [
+          "Elegant",
+          "Exacting",
+          "Playfully combative",
+          "Traditional"
+        ],
+        "story": "The Piste began when a retired épéeist turned investor realized his happiest hour each week was the one where someone was trying to stab him. His salle was a rented dance studio with taped floors and a waiting list of curious executives. When the fourth member commissioned custom whites, he understood he wasn't running a class — he was running a club. He signed a lease with fourteen meters of clear sightline and put a strip where the mirror wall would have gone.",
+        "messagingPillars": [
+          {
+            "name": "The craft is the luxury",
+            "description": "Épée and foil taught to adult beginners by competitive masters — progress measured in ranked bouts, not classes attended."
+          },
+          {
+            "name": "Condition for the blade",
+            "description": "Strength and footwork programming exists to serve the fencing — training with a point, literally."
+          },
+          {
+            "name": "Salle society",
+            "description": "Ranked ladders, visiting masters, an annual tournament — rivalry as the club's social fabric."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use the sport's French correctly",
+            "Honor tradition without stuffiness",
+            "Let the wit flash like the blade",
+            "Address members as fencers from day one"
+          ],
+          "donts": [
+            "Sell fitness outcomes",
+            "Dumb down terminology",
+            "Play up danger",
+            "Use gym-industry language"
+          ]
+        },
+        "logoDirection": "A wordmark in a high-contrast Didone with a mark of a single horizontal line interrupted by an en-garde blade angle — the strip seen from above. The line-and-blade reduces to a piste-shaped monogram on whites and trophies.",
+        "colorPalette": [
+          {
+            "name": "Salle White",
+            "hex": "#F7F6F1",
+            "meaning": "The whites, the light, the code.",
+            "usage": "Primary ground"
+          },
+          {
+            "name": "Piste Steel",
+            "hex": "#6F7681",
+            "meaning": "The metallic strip.",
+            "usage": "The mark, secondary"
+          },
+          {
+            "name": "Touche Red",
+            "hex": "#B02E2C",
+            "meaning": "The scoring light.",
+            "usage": "Single accent, sparingly"
+          },
+          {
+            "name": "Mask Black",
+            "hex": "#1E1F23",
+            "meaning": "The mesh.",
+            "usage": "Type, wordmark"
+          },
+          {
+            "name": "Bronze",
+            "hex": "#97733D",
+            "meaning": "The eventual trophy.",
+            "usage": "Club honors only"
+          }
+        ],
+        "typography": {
+          "primary": "Didot for the wordmark and club materials",
+          "secondary": "Söhne for schedules and rankings",
+          "rationale": "Didot is the sport's Parisian heritage in letterform; Söhne keeps the ladder brutally legible."
+        },
+        "visualIdentityIdeas": [
+          "Members' rank cards engraved like dueling invitations",
+          "The annual tournament trophy designed for a century of nameplates",
+          "Bout-footage library with cinematic title cards",
+          "Club whites with the piste monogram at the collar"
+        ]
+      },
+      {
+        "brandName": "Marginal Gains Club",
+        "tagline": "The last percent is the expensive one.",
+        "brandDescription": "Marginal Gains Club is a performance-testing membership for serious amateur athletes — quarterly lab days covering VO2max, lactate curves, DEXA, force plates, and blood panels, translated by a physiologist into one page of training changes. Marginal Gains Club owns no gym floor; it owns the measurement layer, and members bring the numbers back to their own coaches.",
+        "scope": "Club identity, lab-day experience design, and the quarterly report — the one-page artifact that justifies the membership.",
+        "brandNameRationale": "'The aggregation of marginal gains' is Sir Dave Brailsford's famous Team Sky doctrine — improve everything one percent and the total compounds into dominance. The club imports cycling's most storied performance philosophy for the amateur with professional curiosity.",
+        "industrySummary": "Consumer performance testing exploded out of longevity medicine: 2025's boom in VO2max testing (now the mortality metric du jour), DEXA storefronts, and executive-health panels created a market of amateurs holding professional-grade data with no interpretation layer. The gap between testing and training remains almost entirely unserved.",
+        "competitorLandscape": "Function Health (functionhealth.com) owns biomarker panels at scale. Lifeforce (mylifeforce.com) leads longevity-medicine membership. DEXA/VO2 storefronts (regional chains) sell single tests without synthesis. Marginal Gains Club differentiates on athletic translation: tests chosen for training relevance, interpreted against your sport.",
+        "positioningStatement": "Pro-team sports science, membership-sized.",
+        "positioningRationale": "Longevity clinics test for lifespan; athletes want the same instruments pointed at performance. Occupying the athletic side of the testing boom — with Brailsford's doctrine as the founding text — claims territory the medical brands can't credibly enter.",
+        "targetAudience": {
+          "primary": "Amateur athletes 35–60 with professional incomes and age-group ambitions: masters cyclists, marathoners, Hyrox competitors. They already own the wearables and coaches; they lack the lab.",
+          "behaviors": [
+            "Races age-group podiums seriously",
+            "Shares lactate curves with their coach",
+            "Buys the test before the gadget",
+            "Plans seasons around quarterly benchmarks"
+          ],
+          "motivations": [
+            "Objective progress in the last trainable percent",
+            "Beating the field on knowledge, not just hours",
+            "A physiologist who talks watts, not wellness"
+          ]
+        },
+        "mission": "Give the committed amateur the measurement layer the pros take for granted.",
+        "vision": "Every serious season built on a quarterly truth.",
+        "coreValues": [
+          "Measure honestly",
+          "Translate always",
+          "Sport-specific or nothing",
+          "Compound the small things"
+        ],
+        "brandPersonalityTraits": [
+          "Precise",
+          "Discreetly competitive",
+          "Scientific",
+          "Understated"
+        ],
+        "messagingPillars": [
+          {
+            "name": "The quarterly truth",
+            "description": "Four lab days a year: VO2max, lactate, DEXA, force plates, bloods — the same instruments, every quarter, so the trend is the truth."
+          },
+          {
+            "name": "One page, your sport",
+            "description": "Every lab day ends as one page of training changes written by a physiologist who knows your discipline."
+          },
+          {
+            "name": "Your coach's best ally",
+            "description": "The Club doesn't replace coaching — it arms it. Reports are built to be forwarded."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote the metrics precisely",
+            "Cite the Brailsford lineage",
+            "Respect the member's coach",
+            "Keep luxury signals quiet"
+          ],
+          "donts": [
+            "Drift into longevity-speak",
+            "Promise talent",
+            "Sell single tests",
+            "Gamify the data"
+          ]
+        },
+        "logoDirection": "A wordmark in a refined grotesk with a mark of a thin ascending stair of five ticks — each step one percent taller. The final tick prints in the accent color: the last percent.",
+        "colorPalette": [
+          {
+            "name": "Lab Slate",
+            "hex": "#2B3138",
+            "meaning": "The instrument chassis.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Plot Blue",
+            "hex": "#3A6EA5",
+            "meaning": "The lactate curve.",
+            "usage": "Data, secondary"
+          },
+          {
+            "name": "Gain Gold",
+            "hex": "#C7A252",
+            "meaning": "The last percent.",
+            "usage": "The final tick, key numbers"
+          },
+          {
+            "name": "Report White",
+            "hex": "#F8F7F3",
+            "meaning": "The one page.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Baseline Gray",
+            "hex": "#9BA1A8",
+            "meaning": "Where you started.",
+            "usage": "Reference lines"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for wordmark and reports",
+          "secondary": "Neue Haas Mono for all data",
+          "rationale": "Haas for the club's restraint; the mono for numbers that must feel like instrumentation, not marketing."
+        },
+        "visualIdentityIdeas": [
+          "The quarterly report as a single beautiful A4, archived in a member binder",
+          "Lab-day scheduling that feels like a grand-prix paddock appointment",
+          "Year-over-year trend posters printed for renewing members",
+          "A discreet lapel pin: five ascending ticks"
+        ]
+      },
+      {
+        "brandName": "Alpine House",
+        "tagline": "The summit is trained for at sea level.",
+        "brandDescription": "Alpine House is a mountaineering-preparation club that trains members for named objectives — Rainier, Mont Blanc, Aconcagua, eventually the big cold — through structured strength-endurance blocks, loaded-carry progressions, hypoxic sessions, and expedition-skills weekends. Alpine House pairs every member with an objective, a coach, and a rope team of clubmates aimed at the same summit window.",
+        "brandNameRationale": "The alpine clubs of the 19th century — London's first among them — turned mountaineering from mad adventure into disciplined craft, complete with training doctrine and member lore. Alpine House revives the institution for the modern professional with a summit list.",
+        "industrySummary": "Guided mountaineering is booming — permits on the classic sevens sell out yearly and guide services report record demand through 2026 — but guides consistently name client fitness as the top summit-day failure factor. Structured pre-expedition training remains cottage industry: PDFs, remote coaching, and hope. The physical club for expedition prep barely exists.",
+        "competitorLandscape": "Uphill Athlete (uphillathlete.com) owns the training methodology and remote coaching. Evoke Endurance (evokeendurance.com) leads coach-led mountain endurance. Mountain Tactical Institute (mtntactical.com) programs for mountain professionals. All are remote; Alpine House adds the physical club, the rope team, and the shared objective.",
+        "positioningStatement": "Join for a mountain, not a membership.",
+        "positioningRationale": "Gym memberships are bought and abandoned; expeditions are committed to. Organizing the club around named objectives with dates imports the psychology that makes mountaineers the most consistent trainees on earth.",
+        "targetAudience": {
+          "primary": "Professionals 35–60 with a summit list and the means to pursue it — guided-expedition clients who know the gap between wanting Rainier and being ready for it. Many are converting midlife capital into meaning.",
+          "behaviors": [
+            "Books expeditions 12–18 months out",
+            "Trains alone with a weighted pack at dawn",
+            "Studies trip reports obsessively",
+            "Spends confidently on anything that raises summit odds"
+          ],
+          "motivations": [
+            "Standing on the named summit",
+            "Not being the weak link on the rope",
+            "A second life measured in ranges"
+          ]
+        },
+        "mission": "Deliver members to their mountains ready.",
+        "vision": "A clubhouse wall of summit photos, every one earned downstairs first.",
+        "coreValues": [
+          "The objective organizes everything",
+          "Rope-team accountability",
+          "Earned altitude",
+          "Craft over gear"
+        ],
+        "brandPersonalityTraits": [
+          "Purposeful",
+          "Rugged-refined",
+          "Loyal",
+          "Quietly epic"
+        ],
+        "story": "Alpine House started with a failed summit: its founder turned back 400 meters below Denali's crest — not for weather, but for legs. His guide's debrief was one sentence: 'You bought everything except the training.' He came home, built a garage gym around a weighted staircase, and recruited four friends with mountains of their own. The wall of summit photos started with his return trip. The club is that garage, grown up.",
+        "messagingPillars": [
+          {
+            "name": "Objective-based membership",
+            "description": "Every member joins aimed at a named mountain and a season — training blocks count down to it."
+          },
+          {
+            "name": "The rope team",
+            "description": "Members training for the same objective train together and often climb together — accountability with a summit attached."
+          },
+          {
+            "name": "Sea-level altitude",
+            "description": "Hypoxic rooms, loaded carries, and expedition-skills weekends compress mountain readiness into city life."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name real mountains and dates",
+            "Respect the mountain's authority",
+            "Tell summit and turn-back stories with equal honor",
+            "Speak in seasons and windows"
+          ],
+          "donts": [
+            "Sell conquest machismo",
+            "Minimize risk",
+            "Use generic fitness language",
+            "Promise summits"
+          ]
+        },
+        "logoDirection": "A wordmark in an engraved-feel serif with a mark of a house gable that doubles as a mountain profile — one continuous line forming roof and ridge. The gable-peak mark brands everything from chalk bags to the clubhouse lintel.",
+        "colorPalette": [
+          {
+            "name": "Granite",
+            "hex": "#5A5D63",
+            "meaning": "The medium itself.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Glacier",
+            "hex": "#DCE6EA",
+            "meaning": "The route's white.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Rope Red",
+            "hex": "#C0402F",
+            "meaning": "The line between you and the team.",
+            "usage": "Accent, the rope-team motif"
+          },
+          {
+            "name": "Alpenglow",
+            "hex": "#E2A05C",
+            "meaning": "Summit-morning light.",
+            "usage": "Achievement materials"
+          },
+          {
+            "name": "Bivy Green",
+            "hex": "#3C4A3E",
+            "meaning": "The tent at camp two.",
+            "usage": "Secondary surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "Austin for wordmark and expedition materials",
+          "secondary": "Inter for training plans",
+          "rationale": "Austin has the engraved romance of the alpine-club era; Inter keeps carry-progression tables clean at 5am."
+        },
+        "visualIdentityIdeas": [
+          "The clubhouse summit wall — printed photos only, dated and named",
+          "Objective patches sewn after summit or honorable turn-back alike",
+          "Training-block cards styled as expedition itineraries",
+          "An annual 'Season Book' chronicling every member attempt"
+        ]
       }
     ],
     "Minimal": [
@@ -799,6 +1459,313 @@
           "secondary": "Same family for rep schemes.",
           "rationale": "One typeface across the gym signage, the website, and the drop-in receipt."
         }
+      },
+      {
+        "brandName": "5x5",
+        "tagline": "Five sets of five. For years.",
+        "brandDescription": "5x5 is a barbell gym that runs exactly one program: the classic five-by-five — squat, press, pull, three days a week, add weight when you earn it. 5x5 has no class schedule, no machines, and no decisions to make at the door. Members follow the whiteboard, coaches check depth and bar path, and the progress method is older than every fitness trend it has outlived.",
+        "brandNameRationale": "Five sets of five reps is the most storied loading scheme in strength history — Reg Park trained on it in the 1950s and it has built beginners into lifters for seventy years since. The gym is named for its entire method.",
+        "industrySummary": "Decision fatigue is the quiet killer of gym adherence — program-hopping is the top-cited failure habit among lapsed lifters, and the 2025 boutique landscape sells novelty as a feature. The counter-market is real: single-method studios (one lift protocol, one style) show the highest 12-month retention in the boutique sector because the member never has to choose.",
+        "competitorLandscape": "StrongLifts (stronglifts.com) owns the 5x5 method online as an app. Starting Strength Gyms (startingstrengthgyms.com) built the coached-barbell franchise on a rival protocol. Barbell Logic (barbell-logic.com) leads remote barbell coaching. 5x5 is the method as a physical place — the app made brick.",
+        "positioningStatement": "One program, coached hard, forever.",
+        "positioningRationale": "Every competitor sells variety or personalization; the deepest need of the consistent trainee is neither — it's the removal of choice. Owning the most famous protocol in strength as a physical brand is unclaimed ground.",
+        "targetAudience": {
+          "primary": "Adults 25–55 who want to be strong and refuse to think about programming ever again — lapsed program-hoppers, busy professionals, methodical types who find freedom in fixed systems.",
+          "behaviors": [
+            "Trains three fixed days weekly",
+            "Logs numbers in a paper book",
+            "Ignores fitness content entirely",
+            "Stays years where systems are stable"
+          ],
+          "motivations": [
+            "Strength without decisions",
+            "Visible linear progress",
+            "A gym that never changes on them"
+          ]
+        },
+        "mission": "Remove every decision between a person and the barbell.",
+        "vision": "Members whose training logs span decades.",
+        "coreValues": [
+          "One method",
+          "Earned weight",
+          "Coach the reps",
+          "No novelty"
+        ],
+        "brandPersonalityTraits": [
+          "Spare",
+          "Steadfast",
+          "Dry",
+          "Certain"
+        ],
+        "messagingPillars": [
+          {
+            "name": "The whiteboard is the app",
+            "description": "Your five lifts, your working weight, your next session. Nothing else exists."
+          },
+          {
+            "name": "Progression by rule",
+            "description": "Hit five-by-five, add the smallest plate. Miss, repeat. The rule has built lifters for seventy years."
+          },
+          {
+            "name": "Coached, not entertained",
+            "description": "Coaches watch depth and bar path, not the clock. Corrections are the programming."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Count in fives",
+            "State rules flatly",
+            "Let the method's history speak",
+            "Keep every sentence liftable"
+          ],
+          "donts": [
+            "Introduce variety",
+            "Use motivation-speak",
+            "Apologize for repetition",
+            "Add anything"
+          ]
+        },
+        "logoDirection": "The numeral pair 5x5 set in a heavy grotesk, the multiplication sign rendered as a small plate viewed face-on. No other mark exists or is needed.",
+        "colorPalette": [
+          {
+            "name": "Iron",
+            "hex": "#26262A",
+            "meaning": "The plates.",
+            "usage": "Wordmark, type"
+          },
+          {
+            "name": "Whiteboard",
+            "hex": "#F6F5F1",
+            "meaning": "The program surface.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Smallest-Plate Red",
+            "hex": "#B5342C",
+            "meaning": "The 1.25kg that moves you forward.",
+            "usage": "Single accent"
+          }
+        ],
+        "typography": {
+          "primary": "Founders Grotesk Condensed for the mark and signage",
+          "secondary": "Founders Grotesk Mono for logs and boards",
+          "rationale": "One family, condensed for the wall, mono for the numbers — a system as fixed as the program."
+        },
+        "visualIdentityIdeas": [
+          "Paper logbooks issued at joining, archived at milestones",
+          "Wall numerals showing member-years, not member-counts",
+          "The smallest plate cast as the five-year membership gift",
+          "Signage limited to five words per surface"
+        ]
+      },
+      {
+        "brandName": "WALK",
+        "tagline": "The training plan hiding in plain sight.",
+        "brandDescription": "WALK is a fitness brand for adults over fifty built entirely on progressive walking — graded routes, cadence work, hill intervals, and loaded strolls, programmed with the same periodization respect given to marathoners. WALK sells a simple app, paper route-cards, and neighborhood walking clubs led by trained pacers. No gym, no floor work, no chase after youth.",
+        "brandNameRationale": "Walking is the most prescribed, least programmed exercise on earth — the one movement humans are built for and the industry is too bored to coach. Naming the brand with the plain word is the entire stance: this is enough, done properly.",
+        "industrySummary": "The over-50 market is fitness's largest underserved cohort — controlling the majority of consumer wealth while the industry designs for 25-year-olds. Meanwhile the science keeps upgrading walking: 2024–25 meta-analyses tie daily steps and walking cadence to mortality reduction rivaling any intervention. Programmed walking — progression, not just tracking — is essentially unbranded territory.",
+        "competitorLandscape": "SilverSneakers (silversneakers.com) owns insurer-funded senior fitness classes. Bold (agebold.com) leads digital balance-and-strength for older adults. Nymbl (nymblscience.com) focuses fall-prevention training. All treat walking as a metric; WALK treats it as the sport itself, with progression as the product.",
+        "positioningStatement": "Real training, made of walking.",
+        "positioningRationale": "The cohort rejects both gym intimidation and senior-fitness condescension. Walking is the one modality with zero identity cost — WALK adds the missing ingredient, progression, without asking anyone to become a gym person.",
+        "targetAudience": {
+          "primary": "Adults 52–75, mostly women, already walking most days without structure. They dismiss gyms as not-for-them but quietly want to get better at something physical again.",
+          "behaviors": [
+            "Walks the same loop daily at the same pace",
+            "Wears a step-counting watch without acting on it",
+            "Joins things friends join",
+            "Distrusts fitness marketing on sight"
+          ],
+          "motivations": [
+            "Staying strong for the decades ahead",
+            "Progress they can feel on hills",
+            "Company without competition"
+          ]
+        },
+        "mission": "Coach the exercise everyone already does.",
+        "vision": "Progressive walking as a recognized sport of later life.",
+        "coreValues": [
+          "Enough, done well",
+          "Progress at every age",
+          "Plain words",
+          "Outside always"
+        ],
+        "brandPersonalityTraits": [
+          "Plain",
+          "Encouraging",
+          "Steady",
+          "Unpatronizing"
+        ],
+        "scope": "Brand identity, route-card system, pacer-led club kit, and an app deliberately simple enough to skip.",
+        "messagingPillars": [
+          {
+            "name": "Progression, not tracking",
+            "description": "Blocks build cadence, hills, and duration the way running plans build mileage — the watch counts, WALK coaches."
+          },
+          {
+            "name": "The route-card",
+            "description": "Paper cards with graded neighborhood routes — training you can hold, share, and pin to the fridge."
+          },
+          {
+            "name": "Pacer-led clubs",
+            "description": "Local groups led by trained pacers who hold conversation-pace discipline — social by design, competitive never."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use plain strong verbs",
+            "Respect the reader's decades",
+            "Talk hills and minutes, not steps",
+            "Keep type large and sentences short"
+          ],
+          "donts": [
+            "Say 'senior' or 'still'",
+            "Gamify",
+            "Promise youth",
+            "Whisper"
+          ]
+        },
+        "logoDirection": "The word WALK in wide-tracked capitals, letterspaced like distance markers on a path. The mark is a single footpath line with one bend — the route, reduced.",
+        "colorPalette": [
+          {
+            "name": "Path Green",
+            "hex": "#4F6B4A",
+            "meaning": "The verge beside the route.",
+            "usage": "Primary"
+          },
+          {
+            "name": "Morning",
+            "hex": "#F4F1E8",
+            "meaning": "The hour most members walk.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Waymark Yellow",
+            "hex": "#D9A62E",
+            "meaning": "The trail blaze.",
+            "usage": "Route-cards, accents"
+          },
+          {
+            "name": "Slate",
+            "hex": "#3D4247",
+            "meaning": "Type.",
+            "usage": "All text"
+          }
+        ],
+        "typography": {
+          "primary": "Atkinson Hyperlegible for everything",
+          "secondary": "Atkinson Hyperlegible Bold for route names",
+          "rationale": "A single typeface designed for maximum legibility — accessibility as the brand's quiet backbone."
+        },
+        "visualIdentityIdeas": [
+          "Route-cards printed at large type, collected in a ring",
+          "Cadence marked in music tempos members recognize",
+          "Pacer sashes in waymark yellow",
+          "Annual 'hill badge' for the season's climbing total"
+        ]
+      },
+      {
+        "brandName": "CRIMP",
+        "tagline": "Finger strength is a sport. Train it like one.",
+        "brandDescription": "CRIMP is a training studio for climbers that contains no climbing walls — only hangboards, campus rungs, block pulls, and a strength floor tuned to the sport's real limiting factor: fingers. CRIMP runs assessed protocols with load percentages and rest discipline, treating tendon adaptation with the patience it demands. Climb at your gym; get strong here.",
+        "brandNameRationale": "The crimp is climbing's most demanding grip — fingertips on a pad-deep edge, the position where sends succeed and pulleys fail. Naming the studio for the grip announces exactly what gets trained and how seriously.",
+        "industrySummary": "Climbing gyms multiplied past 600 US locations by 2025, minting intermediate climbers who plateau precisely where finger strength becomes the bottleneck. Structured finger training is proven but dangerous done casually — pulley injuries are the sport's signature wound — creating demand for assessed, coached protocols the social climbing gym isn't built to deliver.",
+        "competitorLandscape": "Lattice Training (latticetraining.com) owns remote assessment-based climbing coaching. Power Company Climbing (powercompanyclimbing.com) leads training education and plans. Climbing gyms (Movement, Touchstone et al.) bolt hangboards near the stretching mats. CRIMP is the dedicated physical facility none of them run — the finger gym itself.",
+        "positioningStatement": "The gym for the two inches that decide every send.",
+        "positioningRationale": "Climbers already accept that fingers gate progress; nobody has built the branded room for it. Separating strength training from climbing (as every other sport separates gym from field) is a legible, defensible inversion.",
+        "targetAudience": {
+          "primary": "Climbers 22–45 stuck between V4 and V8 — two to eight years in, gym-plus-crag lifestyle, following training Instagram but flinching at unstructured hangboarding after a friend's pulley injury.",
+          "behaviors": [
+            "Projects at their limit weekly",
+            "Half-follows a training plan from a podcast",
+            "Owns a hangboard used inconsistently",
+            "Logs sends in an app"
+          ],
+          "motivations": [
+            "Breaking the grade plateau",
+            "Training fingers without fearing them",
+            "A protocol, assessed and adjusted"
+          ]
+        },
+        "mission": "Make finger strength trainable, measurable, and safe.",
+        "vision": "The strength half of climbing gets its own address in every climbing city.",
+        "coreValues": [
+          "Assessed loads only",
+          "Tendon patience",
+          "Measured progress",
+          "No ego hangs"
+        ],
+        "brandPersonalityTraits": [
+          "Focused",
+          "Technical",
+          "Understated",
+          "Disciplined"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Assessment before load",
+            "description": "Every member starts with max-hang and pull testing; every protocol runs on percentages of your numbers, not internet numbers."
+          },
+          {
+            "name": "The tendon clock",
+            "description": "Fingers adapt slower than muscles. Programming respects connective-tissue timelines — the discipline the plateau demands."
+          },
+          {
+            "name": "Strength here, climbing there",
+            "description": "CRIMP complements your climbing gym. Sessions are 45 minutes, twice weekly, engineered to leave skin and energy for the wall."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in grades, edges, and percentages",
+            "Take injuries seriously",
+            "Keep sessions honest about their modesty",
+            "Use climbing vocabulary natively"
+          ],
+          "donts": [
+            "Stoke-bro the copy",
+            "Promise grades",
+            "Encourage max testing casually",
+            "Add lifestyle content"
+          ]
+        },
+        "logoDirection": "The word CRIMP in a compact grotesk with the letter M's middle vertex flattened — a pad-deep edge in the letterform. The mark is a 20mm edge in profile: one horizontal line with a subtle radius.",
+        "colorPalette": [
+          {
+            "name": "Board Wood",
+            "hex": "#C8A06A",
+            "meaning": "The hangboard.",
+            "usage": "Primary accent"
+          },
+          {
+            "name": "Chalk White",
+            "hex": "#F5F3EE",
+            "meaning": "Working hands.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Pulley Blue",
+            "hex": "#3E5F8A",
+            "meaning": "The tape, the anatomy diagrams.",
+            "usage": "Protocol materials"
+          },
+          {
+            "name": "Iron Black",
+            "hex": "#212226",
+            "meaning": "The loading pin.",
+            "usage": "Type, wordmark"
+          }
+        ],
+        "typography": {
+          "primary": "Suisse Int'l for wordmark and signage",
+          "secondary": "Suisse Int'l Mono for protocols and loads",
+          "rationale": "Suisse is neutral enough to defer to the numbers; the mono makes load charts read like the engineering they are."
+        },
+        "visualIdentityIdeas": [
+          "Member cards listing current assessed max-hang numbers",
+          "Edge-profile wall graphics at true scale",
+          "Protocol sheets designed like lab worksheets",
+          "A 'pulley health' pledge poster at the door"
+        ]
       }
     ],
     "Corporate": [
@@ -1090,6 +2057,339 @@
           "secondary": "A clean enterprise grotesque for operational reports and real-estate documentation.",
           "rationale": "Tabular and disciplined."
         }
+      },
+      {
+        "brandName": "Perimeter Health Clubs",
+        "tagline": "The campus amenity that earns its square footage.",
+        "brandDescription": "Perimeter Health Clubs designs, builds, and operates fitness centers inside office campuses and mixed-use developments — full-service clubs run as managed amenities for landlords and employers. Perimeter Health Clubs handles everything from facility design through daily programming and reports utilization the way asset managers think: occupancy, retention, and tenant-satisfaction lift.",
+        "scope": "Corporate identity for landlord/employer sales, on-site club branding architecture (each club carries the Perimeter mark plus campus identity), and the quarterly utilization report format.",
+        "brandNameRationale": "The perimeter is commercial real estate's own word — the campus loop every office worker walks at lunch, the boundary of the property the club serves. The name sits deliberately in the landlord's vocabulary, not the gym industry's.",
+        "industrySummary": "The return-to-office fight turned amenities into leasing weapons: 2025 CBRE data shows fitness centers among the top three amenities influencing tenant renewal, and amenity-rich buildings command meaningful rent premiums while commodity space sits vacant. But most building gyms are unstaffed rooms that embarrass the asset — professional operation is the differentiator landlords now shop for.",
+        "competitorLandscape": "Exos (teamexos.com) owns Fortune-100 corporate performance centers. HealthFitness (healthfitness.com) leads employer-sponsored facility management. Optum-affiliated wellness programs bundle facilities into benefits contracts. Perimeter differentiates on the real-estate side of the table — selling to landlords on asset performance, not only to HR on wellness.",
+        "positioningStatement": "Fitness operations that show up in the rent roll.",
+        "positioningRationale": "HR budgets wobble; leasing economics endure. Positioning the club as asset infrastructure — reported in occupancy and renewal terms — moves the contract to the side of the table with longer money.",
+        "targetAudience": {
+          "primary": "Asset managers, leasing directors, and workplace-experience heads at office REITs, developers, and large campus employers, 35–60. They think in NOI, tenant retention, and amenity ROI, and they've been burned by dead gym space.",
+          "behaviors": [
+            "Benchmarks amenity utilization across portfolios",
+            "Tours competitor buildings quarterly",
+            "Buys operations on multi-year management agreements",
+            "Asks for tenant-satisfaction data in every QBR"
+          ],
+          "motivations": [
+            "Renewal leverage in a soft office market",
+            "Amenity space that performs like leased space",
+            "Zero operational headache"
+          ]
+        },
+        "mission": "Turn the building gym from dead space into the asset's best argument.",
+        "vision": "Every campus perimeter anchored by a club tenants would pay to keep.",
+        "coreValues": [
+          "Operate like owners",
+          "Report like asset managers",
+          "Program like a real club",
+          "Show up daily"
+        ],
+        "brandPersonalityTraits": [
+          "Professional",
+          "Dependable",
+          "Commercially fluent",
+          "Polished"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Design-build-operate",
+            "description": "One contract from facility design through daily staffing — the landlord owns the amenity, Perimeter owns the outcome."
+          },
+          {
+            "name": "Utilization is the KPI",
+            "description": "Quarterly reports in asset-manager language: occupancy curves, tenant penetration, retention correlation."
+          },
+          {
+            "name": "A real club, branded yours",
+            "description": "Programming, staffing, and standards of a boutique club, wearing each campus's identity."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak CRE natively — NOI, TI, renewal",
+            "Quote utilization benchmarks",
+            "Show staffed floors, not empty equipment",
+            "Keep wellness language secondary"
+          ],
+          "donts": [
+            "Sell transformation stories to landlords",
+            "Use gym-bro energy",
+            "Hide operating costs",
+            "Overpromise headcounts"
+          ]
+        },
+        "logoDirection": "A wordmark in a confident corporate grotesk with a mark of a rounded-rectangle loop — the campus perimeter path — broken by a single doorway gap. The loop mark scales from report covers to club entrance signage.",
+        "colorPalette": [
+          {
+            "name": "Campus Navy",
+            "hex": "#22354E",
+            "meaning": "The asset-grade suit.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Loop Green",
+            "hex": "#4E8A6C",
+            "meaning": "The perimeter path.",
+            "usage": "The mark, wayfinding"
+          },
+          {
+            "name": "Daylight",
+            "hex": "#F5F4EF",
+            "meaning": "The glass-walled club floor.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Utilization Amber",
+            "hex": "#D69F3A",
+            "meaning": "The occupancy curve.",
+            "usage": "Report data accents"
+          },
+          {
+            "name": "Graphite",
+            "hex": "#2E3033",
+            "meaning": "Type.",
+            "usage": "Text"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for wordmark and reports",
+          "secondary": "Söhne Mono for utilization data",
+          "rationale": "Söhne carries institutional polish across sales decks and club signage; the mono makes utilization reporting feel audited."
+        },
+        "visualIdentityIdeas": [
+          "Quarterly utilization reports bound like asset reviews",
+          "Club entrances with the perimeter-loop mark inlaid in flooring",
+          "Case studies formatted as leasing-broker one-pagers",
+          "A portfolio dashboard for multi-building owners"
+        ]
+      },
+      {
+        "brandName": "Second Shift Athletic",
+        "tagline": "Open when your day ends. Whenever that is.",
+        "brandDescription": "Second Shift Athletic operates 24-hour gyms engineered for shift workers — nurses, plant crews, drivers, dispatchers — with circadian-aware programming, real staffing on nights, and lighting that respects a body about to sleep at 9am. Second Shift Athletic contracts directly with hospitals, plants, and logistics hubs to put full-service training where the night economy actually lives.",
+        "brandNameRationale": "The second shift is the workforce's own term for the hours everyone else calls evening — the 3-to-11, the swing, the night that follows. Naming the brand for the shift tells a third of the working world this gym was built on their clock.",
+        "industrySummary": "Over 15 million Americans work non-standard shifts, carrying elevated cardiometabolic risk the research keeps confirming — yet the fitness industry serves them a dark 24-hour keyfob room with no staff and daylight-tuned programming. Employers in healthcare and logistics, fighting brutal turnover through 2026, are actively buying shift-worker wellbeing infrastructure.",
+        "competitorLandscape": "Anytime Fitness (anytimefitness.com) owns 24-hour access without night operations. Planet Fitness (planetfitness.com) sells cheap always-open floors, unstaffed after dark. Exos (teamexos.com) runs employer sites on daytime logic. Second Shift differentiates on true night operations: staffed 2am floors, circadian programming, employer contracts.",
+        "positioningStatement": "The first gym chain on night-shift time.",
+        "positioningRationale": "'24-hour access' and '24-hour operations' are different products; only the second serves the night workforce. Owning the distinction — staffed, programmed, lit for nights — creates a chain identity no keyfob franchise can imitate without rebuilding its cost model.",
+        "targetAudience": {
+          "primary": "Shift workers 25–55 — nurses, warehouse and plant crews, transit and flight staff — plus the HR and ops leaders at their employers. Workers want training that fits inverted days; employers want retention and injury reduction they can measure.",
+          "behaviors": [
+            "Trains at 2am or 8am after nights",
+            "Sleeps against daylight",
+            "Distrusts perks designed for office staff",
+            "Employers benchmark turnover monthly"
+          ],
+          "motivations": [
+            "Health despite the schedule",
+            "A gym where 3am isn't lonely or unsafe",
+            "For employers: retention, injury claims, recruiting edge"
+          ]
+        },
+        "mission": "Give the night economy the training infrastructure the day takes for granted.",
+        "vision": "Every major hospital and hub district anchored by a gym that never pretends it's morning.",
+        "coreValues": [
+          "Night parity",
+          "Circadian honesty",
+          "Staffed always",
+          "Built with workers"
+        ],
+        "brandPersonalityTraits": [
+          "Solid",
+          "Respectful",
+          "Practical",
+          "Quietly proud"
+        ],
+        "story": "Second Shift Athletic began in a hospital parking structure conversation: an ICU nurse told the founder — then a corporate-gym operator — that she'd cancelled four memberships in six years because 'every gym is a morning person.' He shadowed three night shifts, watched the 7am crowd of scrub-clad workers wander big-box floors built for pre-work executives, and signed his first lease across from the hospital with a program calendar that started at 7pm.",
+        "messagingPillars": [
+          {
+            "name": "Staffed at 2am",
+            "description": "Coaches, classes, and a real front desk through the night — operations, not just access."
+          },
+          {
+            "name": "Circadian programming",
+            "description": "Pre-shift primers, post-shift downshifts, and lighting protocols tuned to bodies sleeping against the sun."
+          },
+          {
+            "name": "Employer-anchored",
+            "description": "Contracts with hospitals, plants, and hubs put clubs where shift density lives — subsidized memberships, measured outcomes."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use shift vocabulary correctly",
+            "Schedule copy around nights ('after your Friday, whenever it lands')",
+            "Quote turnover and injury data to employers",
+            "Show real night-shift faces"
+          ],
+          "donts": [
+            "Treat nights as niche",
+            "Use rise-and-grind clichés",
+            "Design imagery in daylight only",
+            "Talk down to hourly workers"
+          ]
+        },
+        "logoDirection": "A wordmark in a sturdy industrial grotesk with a mark of a clock face whose shaded half covers 6pm-to-6am — the brand's prime time inverted. The night-half clock becomes signage that glows after dark.",
+        "colorPalette": [
+          {
+            "name": "Night Shift Blue",
+            "hex": "#1C2B3A",
+            "meaning": "The working night.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Sodium Amber",
+            "hex": "#E8A13C",
+            "meaning": "Parking-lot light — the commute's true color.",
+            "usage": "Accents, signage glow"
+          },
+          {
+            "name": "Scrub Teal",
+            "hex": "#4A8B84",
+            "meaning": "The night economy's uniform.",
+            "usage": "Secondary"
+          },
+          {
+            "name": "Dawn Gray",
+            "hex": "#C8CBD0",
+            "meaning": "Clock-out light.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Steel",
+            "hex": "#2A2C30",
+            "meaning": "Type.",
+            "usage": "Text"
+          }
+        ],
+        "typography": {
+          "primary": "Roboto Condensed for wordmark and signage",
+          "secondary": "Inter for schedules and employer reports",
+          "rationale": "Condensed industrial letterforms read honest to a workforce allergic to boutique polish; Inter keeps employer reporting crisp."
+        },
+        "visualIdentityIdeas": [
+          "Class schedules printed in shift-relative time ('post-nights downshift')",
+          "Entrance signage that shifts warm after sunset",
+          "Employer dashboards tracking utilization by shift pattern",
+          "Lockers sized for duffels and uniforms, branded with the night-clock"
+        ]
+      },
+      {
+        "brandName": "Force Plate Group",
+        "tagline": "The ground doesn't lie.",
+        "brandDescription": "Force Plate Group builds and operates athlete-testing facilities for school districts, colleges, and sports academies — force-plate batteries, jump profiling, sprint gates, and return-to-play baselines, delivered as a managed service with sport-scientist staffing. Force Plate Group turns performance testing from a flagship-university luxury into district-level infrastructure with defensible data governance.",
+        "scope": "Corporate identity for institutional sales, facility environmental design, and the athlete-report format shared across coaches, trainers, and parents.",
+        "brandNameRationale": "The force plate is sports science's instrument of record — the ground-mounted sensor that measures what an athlete's body actually produces. Naming the group for the instrument stakes the brand on measurement itself.",
+        "industrySummary": "Sports-science instrumentation crossed the affordability line: force plates that cost six figures a decade ago now deploy for thousands, and 2025–26 procurement shows districts and mid-tier colleges buying testing capacity for injury-risk screening and return-to-play defensibility. What institutions lack is staffing and interpretation — hardware without a sport scientist becomes an expensive scale.",
+        "competitorLandscape": "Hawkin Dynamics (hawkindynamics.com) owns accessible force-plate hardware. VALD (vald.com) leads the institutional measurement suite. Kistler (kistler.com) holds the research-grade tier. All sell instruments; Force Plate Group sells the operated facility — hardware, staffing, protocols, and reporting as one contract.",
+        "positioningStatement": "Sports science as a managed service, not a hardware purchase.",
+        "positioningRationale": "The failure mode institutions fear is the six-figure closet — equipment nobody runs. Contracting outcomes (testing days delivered, athletes baselined, reports issued) sells past the fear the hardware vendors created.",
+        "targetAudience": {
+          "primary": "Athletic directors, head athletic trainers, and district administrators 35–60 responsible for hundreds to thousands of athletes. Liability-conscious, budget-cycle bound, allergic to unstaffed technology.",
+          "behaviors": [
+            "Buys on annual budget cycles with board approval",
+            "Benchmarks against rival programs",
+            "Documents return-to-play decisions defensively",
+            "Renews services that survive staff turnover"
+          ],
+          "motivations": [
+            "Injury-risk reduction with paper trail",
+            "Competitive parity with flagship programs",
+            "Technology that arrives with people"
+          ]
+        },
+        "mission": "Put real sports science under every serious athletic program.",
+        "vision": "Baseline testing as standard as the preseason physical.",
+        "coreValues": [
+          "Measurement integrity",
+          "Staffed technology",
+          "Data governance",
+          "Every athlete counted"
+        ],
+        "brandPersonalityTraits": [
+          "Rigorous",
+          "Institutional",
+          "Trustworthy",
+          "Unflashy"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Operated, not installed",
+            "description": "Facilities arrive with sport scientists, protocols, and scheduling — the contract covers outcomes, not boxes."
+          },
+          {
+            "name": "Return-to-play, documented",
+            "description": "Baseline batteries and re-test protocols give trainers defensible data for the decisions that carry liability."
+          },
+          {
+            "name": "District-scale economics",
+            "description": "Shared facilities and traveling testing days bring flagship-program science to full athlete populations."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote testing throughput and baselines",
+            "Speak to liability calmly and directly",
+            "Use sport-science terms with definitions",
+            "Respect budget-cycle reality"
+          ],
+          "donts": [
+            "Sell gadget hype",
+            "Promise injury elimination",
+            "Bury methods",
+            "Use pro-team glamour shots"
+          ]
+        },
+        "logoDirection": "A wordmark in an engineered grotesk with a mark of a rectangular plate seen in plan, a single vertical force arrow rising from center. The plate-and-arrow mark badges facilities, reports, and staff kit.",
+        "colorPalette": [
+          {
+            "name": "Plate Steel",
+            "hex": "#33383F",
+            "meaning": "The instrument.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Force Green",
+            "hex": "#3F8F5A",
+            "meaning": "The output trace.",
+            "usage": "Data, the arrow"
+          },
+          {
+            "name": "Lab White",
+            "hex": "#F6F6F2",
+            "meaning": "Testing-day floor.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Baseline Blue",
+            "hex": "#3A5E85",
+            "meaning": "The reference line.",
+            "usage": "Report structure"
+          },
+          {
+            "name": "Caution Amber",
+            "hex": "#D3922F",
+            "meaning": "Asymmetry flags.",
+            "usage": "Alert states only"
+          }
+        ],
+        "typography": {
+          "primary": "Aeonik for wordmark and reports",
+          "secondary": "Aeonik Mono for measurements",
+          "rationale": "Aeonik reads engineered without coldness; the mono keeps newtons and asymmetry ratios unambiguous for non-scientists."
+        },
+        "visualIdentityIdeas": [
+          "Athlete reports designed for three readers: coach, trainer, parent",
+          "Testing-day floor decals marking station flow",
+          "Annual district 'State of Force' benchmark report",
+          "Staff kit badged with the plate-and-arrow mark"
+        ]
       }
     ],
     "Creative": [
@@ -1366,6 +2666,342 @@
           "secondary": "A book serif for member correspondence and recovery documentation.",
           "rationale": "Two related serifs. The brand reads like a small printed publication on recovery practice."
         }
+      },
+      {
+        "brandName": "Gym Class",
+        "tagline": "Everything you loved. Nothing you feared.",
+        "brandDescription": "Gym Class is a community fitness studio that rebuilds the childhood gymnasium for adults — dodgeball nights, rope climbs, relay races, capture the flag, parachute day — coached so everyone moves hard without noticing they worked out. Gym Class picks teams fairly, hands out actual gold stars, and finishes every session the old way: everybody lines up, everybody high-fives.",
+        "brandNameRationale": "Gym class is the shared national memory of movement — beloved by some, dreaded by others, formative for all. The brand takes the name and keeps a single promise: all of the play, none of the humiliation.",
+        "industrySummary": "Play-based fitness is the boutique sector's sleeper trend: social-sport leagues and recess-style classes grew through 2025 as burnout with metric-driven training (and loneliness, per every surgeon-general headline) pushed adults toward exercise disguised as fun. Retention data favors social formats — people quit workouts but not teams.",
+        "competitorLandscape": "Tone House (tonehouse.com) owns elite athletic-style team training. Volo (volosports.com) and ZogSports (zogsports.com) run social sports leagues without coaching or facility identity. CrossFit affiliates deliver community via shared suffering. Gym Class differentiates on designed play: coached, structured recess where the game is the workout.",
+        "positioningStatement": "The workout you'd sneak out of work early for.",
+        "positioningRationale": "The fitness industry sells discipline to people starved for joy. Nostalgia gets adults through the door once; fair teams and real coaching — the fixed version of the memory — keeps them on the roster.",
+        "targetAudience": {
+          "primary": "Adults 25–45, heavy on friend groups and coworker crews, who find gyms boring and boutique classes joyless. Includes the kid picked last, now an adult with disposable income and a point to prove — gently.",
+          "behaviors": [
+            "Joins things as groups of three or more",
+            "Posts team photos, not body photos",
+            "Shows up for people, not programs",
+            "Recruits coworkers relentlessly"
+          ],
+          "motivations": [
+            "Fun that happens to be fitness",
+            "Belonging to a team again",
+            "Redemption for middle school"
+          ]
+        },
+        "mission": "Make grown-ups sprint, laugh, and beg for one more round.",
+        "vision": "A generation that says 'I have a game' instead of 'I have a workout.'",
+        "coreValues": [
+          "Play is the point",
+          "Fair teams always",
+          "Everyone touches the ball",
+          "Sweat by accident"
+        ],
+        "brandPersonalityTraits": [
+          "Joyful",
+          "Mischievous",
+          "Inclusive",
+          "Energetic"
+        ],
+        "manifesto": "Somewhere between the last day of eighth grade and your first standing desk, they took recess away and sold it back to you as a membership with a heart-rate monitor. We object. The best cardio of your life happened chasing a red rubber ball, and you didn't need a single metric to prove it. Gym Class is the gymnasium rebuilt by the adults who remember everything — the squeak of the floor, the parachute, the pick — and who fixed the only part that was broken: this time, everyone gets picked. Shoes tied. Line up. Game on.",
+        "messagingPillars": [
+          {
+            "name": "Recess, engineered",
+            "description": "Every game is redesigned by coaches so the movement is real — sprint intervals hide inside capture the flag."
+          },
+          {
+            "name": "The fair-pick system",
+            "description": "Teams rotate by algorithm, never by captains. The old wound is the design constraint."
+          },
+          {
+            "name": "Team is the retention plan",
+            "description": "Season rosters, team names, and rivalry nights — people quit workouts, not teammates."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use playground vocabulary with a wink",
+            "Celebrate effort loudly and ridiculously",
+            "Write like the fun coach",
+            "Keep rules simple enough to shout"
+          ],
+          "donts": [
+            "Mention calories or physiques",
+            "Recreate PE trauma jokes carelessly",
+            "Let nostalgia turn precious",
+            "Rank players publicly"
+          ]
+        },
+        "logoDirection": "A wordmark in a chunky varsity slab with a mark of a red playground ball mid-bounce, one motion line beneath. The ball reads at sticker size and as a 20-foot gym-wall mural.",
+        "colorPalette": [
+          {
+            "name": "Kickball Red",
+            "hex": "#D8402F",
+            "meaning": "The ball.",
+            "usage": "The mark, primary accent"
+          },
+          {
+            "name": "Hardwood",
+            "hex": "#D9A85C",
+            "meaning": "The gymnasium floor.",
+            "usage": "Secondary surfaces"
+          },
+          {
+            "name": "Line Paint Blue",
+            "hex": "#2F5E9E",
+            "meaning": "The court's painted geometry.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Gold Star",
+            "hex": "#E9B62F",
+            "meaning": "You get one. Everyone gets one.",
+            "usage": "Achievement moments"
+          },
+          {
+            "name": "Chalk White",
+            "hex": "#F7F5F0",
+            "meaning": "Scoreboard ground.",
+            "usage": "Backgrounds"
+          }
+        ],
+        "typography": {
+          "primary": "Archivo Black for wordmark and game cards",
+          "secondary": "Inter for schedules",
+          "rationale": "Archivo Black shouts like a scoreboard; Inter handles logistics without breaking the game's spell."
+        },
+        "visualIdentityIdeas": [
+          "Actual gold-star stickers issued after every session",
+          "Team pinnies in retro mesh with iron-on numbers",
+          "A season trophy case by the front door",
+          "Game cards illustrated like recess-rule posters",
+          "The parachute, ceremonially deployed monthly"
+        ]
+      },
+      {
+        "brandName": "Personal Best Post",
+        "tagline": "Local athlete breaks own record. Story inside.",
+        "brandDescription": "Personal Best Post is a coaching club where every member campaigns for exactly one personal record each season — a 5k time, a deadlift, a first pull-up — and every triumph gets written up like local news. Personal Best Post pairs training squads with a beloved ritual: a monthly printed broadsheet reporting members' PRs with headlines, quotes, and terrible sports puns.",
+        "brandNameRationale": "The personal best is sport's most democratic honor — a record only you can hold — and the Post is the small-town paper that would have covered it. The name fuses both: everyone deserves a season, and everyone deserves the write-up.",
+        "industrySummary": "Goal-race culture is thriving — running clubs became the defining social-fitness story of 2024–25, with parkrun and city crews at record participation — but generalized 'fitness community' churns without a finish line. The formats that retain pair specific goals with public celebration; almost nobody has productized the celebration half.",
+        "competitorLandscape": "November Project (november-project.com) owns free communal morning fitness. Parkrun (parkrun.com) provides the weekly timed ritual. Future (future.co) delivers 1:1 remote coaching without community. Personal Best Post differentiates by structuring seasons around one PR per member and manufacturing the hometown-hero moment at the end.",
+        "positioningStatement": "One record a season, and everyone reads about it.",
+        "positioningRationale": "Training programs sell inputs; nobody sells the moment your people find out you did it. Making celebration the product — with print, headlines, and ceremony — builds retention through identity, the only moat boutique fitness has.",
+        "targetAudience": {
+          "primary": "Recreational athletes 28–50 who train semi-consistently but haven't chased a concrete goal since school. They're moved by recognition more than data, and they keep every race bib they've ever worn.",
+          "behaviors": [
+            "Saves bibs, medals, and clippings",
+            "Trains harder with a date on the calendar",
+            "Cheers louder for friends than for self",
+            "Frames exactly one athletic photo"
+          ],
+          "motivations": [
+            "A goal with a deadline and witnesses",
+            "Being celebrated, not tracked",
+            "A team that knows their name and their number"
+          ]
+        },
+        "mission": "Give every ordinary athlete one headline a season.",
+        "vision": "A clubhouse wall of front pages, one per member, forever growing.",
+        "coreValues": [
+          "One goal at a time",
+          "Celebration is training",
+          "Print makes it real",
+          "Everyone's record counts"
+        ],
+        "brandPersonalityTraits": [
+          "Warm",
+          "Celebratory",
+          "Wry",
+          "Devoted"
+        ],
+        "story": "Personal Best Post started when a coach noticed the only client who never missed a session was the retired teacher whose granddaughter taped a homemade 'GRANDMA RUNS 5K' newspaper to her fridge. He bought a used risograph, wrote up every client PR that month in earnest small-town-sports prose, and watched attendance jump eleven percent. The paper was the program. He's printed one every month since, and the fridge-door clipping remains the club's true trophy.",
+        "messagingPillars": [
+          {
+            "name": "The season and the record",
+            "description": "Every member declares one PR per season; squads and coaching bend around that single line in the paper."
+          },
+          {
+            "name": "The broadsheet",
+            "description": "A monthly printed paper covers every record with headlines, quotes, and photos — journalism for ordinary greatness."
+          },
+          {
+            "name": "Witnessed finishes",
+            "description": "PR attempts are scheduled events with squadmates present — records are set in front of people who trained beside you."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write like small-town sports pages — earnest, punny, proud",
+            "Quote members by full name",
+            "Treat a first pull-up like a title fight",
+            "Keep records precise to the second and pound"
+          ],
+          "donts": [
+            "Rank members against each other",
+            "Use influencer-fitness gloss",
+            "Let irony poison the earnestness",
+            "Publish without permission"
+          ]
+        },
+        "logoDirection": "A masthead, not a logo: PERSONAL BEST POST in classic newspaper blackletter-adjacent serif with a small torch-bearing runner colophon. The masthead tops the paper, the website, and the clubhouse door.",
+        "colorPalette": [
+          {
+            "name": "Newsprint",
+            "hex": "#F3EFE4",
+            "meaning": "The paper itself.",
+            "usage": "Backgrounds, the broadsheet"
+          },
+          {
+            "name": "Press Black",
+            "hex": "#1F1E1B",
+            "meaning": "Headline ink.",
+            "usage": "Masthead, type"
+          },
+          {
+            "name": "First-Place Blue",
+            "hex": "#2C5DA8",
+            "meaning": "The ribbon that matters.",
+            "usage": "Primary accent"
+          },
+          {
+            "name": "Riso Red",
+            "hex": "#E14B3B",
+            "meaning": "The two-color press's second drum.",
+            "usage": "Headlines, circles-and-arrows"
+          },
+          {
+            "name": "Trophy Gold",
+            "hex": "#D4A438",
+            "meaning": "Season honors.",
+            "usage": "Record announcements"
+          }
+        ],
+        "typography": {
+          "primary": "Chomsky (or a blackletter-flavored masthead face) for the masthead",
+          "secondary": "Georgia for body copy — the newspaper's voice",
+          "rationale": "The identity is a newspaper: masthead gravitas above, honest columned serif below."
+        },
+        "visualIdentityIdeas": [
+          "The monthly broadsheet, risograph-printed, mailed to members' mothers on request",
+          "Front-page framing service for record-setters",
+          "Press-pass member cards",
+          "Season previews written like local sports predictions",
+          "A 'corrections box' used only for upgraded records"
+        ]
+      },
+      {
+        "brandName": "The Spotter",
+        "tagline": "Nobody lifts alone.",
+        "brandDescription": "The Spotter is a partner-based strength community that pairs every member with a trained lifting partner — matched by schedule, strength level, and goals — and teaches the craft of spotting as seriously as the lifts themselves. The Spotter runs partner-programmed sessions in host gyms, certifies members in spotting technique, and rebuilds the oldest safety system in strength: another human, paying attention.",
+        "scope": "Community identity, the spotter-certification curriculum and badge system, and partner-matching product design.",
+        "brandNameRationale": "The spotter is lifting's guardian role — the person whose hands hover under the bar, trusted with your worst rep. Naming the community for the role puts the relationship, not the lift, at the center of the brand.",
+        "industrySummary": "Strength training's boom has a loneliness problem: solo training with headphones is the default, gym anxiety is a top-cited barrier for new lifters, and failed-rep injuries at home racks rose with the garage-gym era. Meanwhile partner accountability remains the single strongest adherence predictor in exercise research — a finding the industry monetizes almost nowhere.",
+        "competitorLandscape": "Future (future.co) sells remote human accountability without physical presence. Caliber (caliberstrong.com) leads online strength coaching. Ladder (joinladder.com) delivers team-programmed workouts through an app. All are screens; The Spotter's product is a person at the rack — matched, trained, and scheduled.",
+        "positioningStatement": "The only training partner program where the partner is the program.",
+        "positioningRationale": "Accountability apps simulate what a matched human provides natively. Productizing the partner — with matching, certification, and ritual — turns the research's strongest adherence lever into a brand no app can copy.",
+        "targetAudience": {
+          "primary": "Lifters 24–45 across experience levels: newcomers intimidated by the free-weight floor, intermediates plateauing alone, and garage-gym owners who've had one scary solo miss. All share unused ambition and an empty spot behind the bench.",
+          "behaviors": [
+            "Trains solo but watches lifting content socially",
+            "Skips heavy attempts without a spotter",
+            "Keeps inconsistent schedules that kill class commitments",
+            "Stays loyal to people longer than to programs"
+          ],
+          "motivations": [
+            "Heavier attempts, safely",
+            "A standing appointment someone notices they missed",
+            "Belonging on the strength floor"
+          ]
+        },
+        "mission": "Put a trusted pair of hands behind every heavy attempt.",
+        "vision": "Spotting taught, certified, and honored as strength culture's core craft.",
+        "coreValues": [
+          "Show up for your partner",
+          "Hands ready, ego quiet",
+          "Safety is a skill",
+          "Strength is relational"
+        ],
+        "brandPersonalityTraits": [
+          "Loyal",
+          "Grounded",
+          "Encouraging",
+          "Trustworthy"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Matched, not random",
+            "description": "Partners are paired on schedule, strength curve, and goals — then supported with partner-programmed blocks built for two."
+          },
+          {
+            "name": "Certified hands",
+            "description": "A real spotting curriculum — bench, squat, dumbbell handoffs, failure protocols — with badges earned and displayed."
+          },
+          {
+            "name": "The standing appointment",
+            "description": "Sessions are commitments to a person, not a class. The research says that's the difference; so does every member."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in second person plural — 'you two'",
+            "Honor the assist as much as the PR",
+            "Teach safety with craft pride",
+            "Tell partner stories"
+          ],
+          "donts": [
+            "Glorify solo grind culture",
+            "Shame missed reps",
+            "Use dating-app innuendo in matching copy",
+            "Treat spotting as a formality"
+          ]
+        },
+        "logoDirection": "A wordmark in a solid grotesk with a mark of two hands cupped beneath a bar line — drawn as one continuous stroke. The hands-under-bar mark becomes the certification badge at three levels.",
+        "colorPalette": [
+          {
+            "name": "Rack Black",
+            "hex": "#232326",
+            "meaning": "The uprights.",
+            "usage": "Primary, wordmark"
+          },
+          {
+            "name": "Assist Orange",
+            "hex": "#E07B39",
+            "meaning": "The hands, ready.",
+            "usage": "The mark, accents"
+          },
+          {
+            "name": "Partner Blue",
+            "hex": "#38699E",
+            "meaning": "The second lifter.",
+            "usage": "Secondary, badges"
+          },
+          {
+            "name": "Chalk",
+            "hex": "#F4F2EC",
+            "meaning": "Shared bucket.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Steel",
+            "hex": "#8A8E96",
+            "meaning": "The bar between you.",
+            "usage": "Dividers, secondary text"
+          }
+        ],
+        "typography": {
+          "primary": "General Sans for wordmark and materials",
+          "secondary": "General Sans Mono for programs",
+          "rationale": "A grounded contemporary grotesk with no ego — the type equivalent of a good spotter — and a mono for the shared program card."
+        },
+        "visualIdentityIdeas": [
+          "Two-name program cards — every block printed with both lifters' names",
+          "Certification patches for gym bags at each spotting level",
+          "A 'first assist' ritual photo when partners are matched",
+          "Host-gym rack tags marking Spotter-certified stations",
+          "Anniversary posts celebrating partner-years, not PRs"
+        ]
       }
     ]
   }

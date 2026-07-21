@@ -238,6 +238,472 @@
           "secondary": "JetBrains Mono for traces, prompts, and code blocks",
           "rationale": "Inter for the chrome, JetBrains Mono for the substance. Same pairing every serious dev tool ships."
         }
+      },
+      {
+        "brandName": "Moose Test",
+        "tagline": "Swerve before you ship.",
+        "brandDescription": "Moose Test is an agent-evaluation platform that treats AI agents the way crash labs treat cars: standardized evasive scenarios, pass or fail, filmed and published. Every agent release runs the same suite of adversarial swerves — ambiguous instructions, hostile tools, mid-task interruptions — before it is allowed near a customer. Moose Test scores are public, versioned, and reproducible, so a passing grade means something across the industry, not just inside one dashboard.",
+        "scope": "Moose Test covers scenario-suite authoring, trajectory-level scoring, regression gating in CI, and a public scoreboard of anonymized pass rates by agent category. It does not build agents, host models, or sell consulting — it runs the test track.",
+        "brandNameRationale": "The moose test (älgtest) is the real Swedish evasive-maneuver trial that famously flipped the Mercedes A-Class in 1997 and forced a redesign — a standardized swerve that separates cars that look safe from cars that are safe. Borrowing it names exactly what agent evals should be: one canonical, public, embarrassing-if-you-fail scenario suite.",
+        "industrySummary": "Through 2025 the agent-eval market pivoted from saturated static benchmarks toward trajectory- and scenario-based evaluation, as enterprises discovered that MMLU-style scores predict nothing about a booking agent that wires money. Eval tooling became a funded category in its own right — Braintrust, Langfuse, and Patronus all raised on the thesis that evals gate deployment the way tests gate merges. By 2026 procurement teams increasingly ask vendors for eval evidence before pilots, and the open question is whose scenario suites become the industry's shared yardstick.",
+        "competitorLandscape": "Patronus AI (patronus.ai) sells automated LLM evaluation and safety testing to enterprises. Langfuse (langfuse.com) is the open-source LLM engineering platform with eval and tracing primitives. HoneyHive (honeyhive.ai) covers agent observability and evaluation for production teams. Moose Test differs by making the scenario suite itself the product — standardized, public, and comparable across vendors, rather than a private dashboard per team.",
+        "positioningStatement": "The standardized crash test for AI agents: one public suite, one pass line, no partial credit.",
+        "positioningRationale": "Private evals let every team grade its own homework, which is why agent incidents keep surprising buyers. A public, versioned, pass/fail standard converts evaluation from an internal hygiene task into a market signal — and the brand that owns the standard owns the category's trust.",
+        "targetAudience": {
+          "primary": "Eval leads, staff engineers, and heads of platform at companies shipping production agents — people whose name is on the deploy button. They have already built one internal eval harness, resent maintaining it, and know their CEO will forward them the first viral agent-failure screenshot.",
+          "behaviors": [
+            "Gate releases in CI and block merges on regression",
+            "Read model release notes the day they drop and re-run suites within 24 hours",
+            "Keep a private folder of competitor agents failing in public",
+            "Argue in RFCs about what counts as a pass"
+          ],
+          "motivations": [
+            "Never be the team explaining an agent incident to legal",
+            "Replace a homegrown eval harness that nobody wants to own",
+            "Point procurement and customers to an external, credible score"
+          ]
+        },
+        "mission": "To give AI agents the one test everyone believes — run the swerve, publish the result.",
+        "vision": "A market where no agent ships without a Moose Test score, the way no car ships without a crash rating.",
+        "coreValues": [
+          "Reproducible — same suite, same seed, same verdict",
+          "Public — scores that survive daylight",
+          "Adversarial — the test exists to make agents fail early",
+          "Unbought — vendors cannot pay for a pass"
+        ],
+        "brandPersonalityTraits": [
+          "Blunt",
+          "Rigorous",
+          "Dry-witted",
+          "Independent"
+        ],
+        "manifesto": "Every agent demo works. That is the problem. Demos are the manufacturer's own track, dry asphalt, professional driver. We run the wet road, the sudden moose, the tool call that returns garbage at step forty. If your agent passes, you get a number the whole market can check. If it fails, you get the tape. Either way, you find out here — not in production, not on someone's feed, not in a deposition.",
+        "messagingPillars": [
+          {
+            "name": "One suite, no partial credit",
+            "description": "Standardized scenario suites with binary pass lines per category. Everyone runs the same swerve, so scores compare across teams and vendors."
+          },
+          {
+            "name": "Trajectory, not transcript",
+            "description": "Scoring inspects the full agent trajectory — tool calls, retries, state — not just the final answer. Agents fail in the middle, so that is where we look."
+          },
+          {
+            "name": "Regression gates in CI",
+            "description": "Suites run on every model bump and prompt change, and block the deploy on regression. Evals move from quarterly ritual to merge check."
+          },
+          {
+            "name": "The public scoreboard",
+            "description": "Anonymized pass rates by agent category, published quarterly. The industry gets a baseline; the confident get a stage."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "State pass rates with denominators and suite versions",
+            "Show the failure video before the success video",
+            "Use automotive-safety vocabulary precisely — swerve, barrier, recall",
+            "Publish methodology changes as numbered bulletins"
+          ],
+          "donts": [
+            "Never say an agent is 'safe' — say what it passed",
+            "No leaderboard hype threads",
+            "No paid placements or sponsored scores",
+            "No anthropomorphizing agents in copy"
+          ]
+        },
+        "logoDirection": "A wordmark in a heavy grotesque paired with a traffic-sign chevron mark: a road arrow bending sharply left, rendered as a single bold stroke. The chevron works alone as favicon and as the stamp on passing reports, echoing crash-test signage without cartoon moose imagery.",
+        "colorPalette": [
+          {
+            "name": "Test Track Asphalt",
+            "hex": "#26282B",
+            "meaning": "The wet road where the swerve happens.",
+            "usage": "Primary surfaces, report covers"
+          },
+          {
+            "name": "Hazard Yellow",
+            "hex": "#F5C518",
+            "meaning": "Warning signage; the test in progress.",
+            "usage": "Accent, chevron mark, CTAs"
+          },
+          {
+            "name": "Pass White",
+            "hex": "#F7F7F4",
+            "meaning": "The cleared road.",
+            "usage": "Backgrounds, data tables"
+          },
+          {
+            "name": "Fail Red",
+            "hex": "#C6362C",
+            "meaning": "The barrier hit.",
+            "usage": "Fail states, regression alerts only"
+          },
+          {
+            "name": "Telemetry Blue",
+            "hex": "#3D6FA5",
+            "meaning": "Instrumented data.",
+            "usage": "Charts, trajectory traces"
+          }
+        ],
+        "typography": {
+          "primary": "Roboto Flex for headlines and UI, set tight and heavy",
+          "secondary": "IBM Plex Mono for scores, suite IDs, and trajectory logs",
+          "rationale": "A no-nonsense engineering grotesque plus a mono with bureaucratic credibility — the typography of a test report, not a launch page."
+        },
+        "visualIdentityIdeas": [
+          "Report covers formatted like vehicle crash-test certificates with stamped suite version numbers",
+          "Slow-motion failure replays as the house content format — agent trajectories visualized like crash-test footage",
+          "A physical yellow 'PASSED SUITE 4.2' garage sticker mailed to teams that clear the hardest suite",
+          "Road-sign chevron system for docs navigation",
+          "Quarterly scoreboard poster typeset like a race results sheet"
+        ]
+      },
+      {
+        "brandName": "Shelfmark",
+        "tagline": "Every chunk has an address.",
+        "brandDescription": "Shelfmark is retrieval infrastructure built on a librarian's premise: a document you cannot locate might as well not exist. The platform combines hybrid dense-sparse indexing, reranking, and freshness guarantees under a recall SLA — a contractual floor on how often the right passage comes back. Shelfmark publishes recall figures per corpus type the way food companies publish nutrition labels, so teams know what the index actually does before they build an agent on top of it.",
+        "brandNameRationale": "A shelfmark is the real library-science term for the code that records exactly where a book lives — used at the British Library and the Bodleian for centuries before 'vector search' existed. It anchors the brand in the oldest retrieval discipline on earth: things that are findable because someone gave them an address.",
+        "industrySummary": "Retrieval infrastructure consolidated hard through 2025: hybrid search became the default over pure vector similarity, rerankers moved from optional to assumed, and object-storage-first architectures reset cost expectations for large corpora. Million-token context windows triggered a 'RAG is dead' debate that production teams settled quickly — long context is a complement, not a replacement, once freshness, permissioning, and per-query cost enter the picture. Into 2026 the buying criterion is shifting from raw ANN benchmarks to end-to-end retrieval quality on the customer's own documents.",
+        "competitorLandscape": "Pinecone (pinecone.io) is the managed vector-database incumbent with serverless indexing. Turbopuffer (turbopuffer.com) resets the cost curve with object-storage-native search used by fast-growing AI products. Vespa (vespa.ai) offers the heavyweight open platform for hybrid search and ranking at scale. Shelfmark differs by selling a measured outcome — recall under SLA on your corpus — rather than an index you must tune and benchmark yourself.",
+        "positioningStatement": "The retrieval layer that signs its name to a recall number.",
+        "positioningRationale": "Every retrieval vendor claims quality; almost none will put a floor on it in a contract. Committing to measured recall per corpus converts an infrastructure commodity into an accountable service, and it forces the internal engineering discipline that the category mostly fakes.",
+        "targetAudience": {
+          "primary": "Engineers who have shipped one RAG system that embarrassed them. They are platform and search engineers at AI-native products and enterprises with large private corpora, past the tutorial phase, and now accountable for why the agent cited the 2019 policy instead of the current one. They think in recall@k and cost per thousand queries.",
+          "behaviors": [
+            "Build golden-set retrieval evals before switching any index",
+            "Track per-query cost and p95 latency in the same dashboard",
+            "Re-embed corpora reluctantly and only with migration tooling",
+            "Read search-engineering blogs and HNSW papers on weekends"
+          ],
+          "motivations": [
+            "Stop hand-tuning chunking and rerankers on intuition",
+            "Get a contractual answer to 'how good is retrieval, actually'",
+            "Serve agents fresh, permission-aware context without building a search team"
+          ]
+        },
+        "mission": "To give every document in an organization an address, and every retrieval a guarantee.",
+        "vision": "Retrieval quality treated like uptime: measured, contracted, and boring.",
+        "coreValues": [
+          "Findability first — recall before features",
+          "Measured — no claim without a golden set behind it",
+          "Fresh — an index that lies about time is broken",
+          "Custodial — we hold corpora with a librarian's care"
+        ],
+        "brandPersonalityTraits": [
+          "Meticulous",
+          "Calm",
+          "Bookish",
+          "Quietly confident"
+        ],
+        "story": "Shelfmark started when its founders — one ex-search infrastructure engineer, one former academic librarian turned data engineer — watched an enterprise pilot fail because the agent retrieved a superseded contract clause. The company they were helping had every document; it just had no idea where anything was. The pair rebuilt the pipeline around an old library principle: catalog first, search second, and never return an item without its provenance. The recall SLA came later, when a customer asked, 'Can you put that in the contract?' and they realized no one in the industry ever had.",
+        "messagingPillars": [
+          {
+            "name": "Recall under SLA",
+            "description": "A contractual floor on retrieval quality, measured on the customer's own golden sets. Misses are credited, methodology is published."
+          },
+          {
+            "name": "The catalog layer",
+            "description": "Every chunk carries provenance, version, and permissions — an address, not just an embedding. Agents cite what they retrieve."
+          },
+          {
+            "name": "Freshness as a feature",
+            "description": "Ingest-to-queryable time is measured and displayed. Stale answers are treated as retrieval failures, not model quirks."
+          },
+          {
+            "name": "Nutrition labels",
+            "description": "Published recall and latency figures by corpus type — contracts, tickets, wikis, code — so buyers compare on evidence."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Cite recall@k with the golden set named",
+            "Use library vocabulary — catalog, provenance, shelfmark — accurately",
+            "Write in complete, unhurried sentences",
+            "Show the miss analysis, not just the hit rate"
+          ],
+          "donts": [
+            "No 'chat with your data' framing",
+            "Never blame the model for a retrieval miss",
+            "No benchmark wins without corpus disclosure",
+            "No urgency theatrics in enterprise copy"
+          ]
+        },
+        "logoDirection": "A wordmark in a modern text serif with a mark drawn from spine labels: a small rounded rectangle containing a colon-separated code (S:M) like a call number tag. The tag device becomes a UI element — every retrieved chunk in the product renders with its own shelfmark tag.",
+        "colorPalette": [
+          {
+            "name": "Stacks Green",
+            "hex": "#2E4B3F",
+            "meaning": "The reading-room interior; patience and custody.",
+            "usage": "Primary brand surfaces, wordmark"
+          },
+          {
+            "name": "Card Cream",
+            "hex": "#F4EFE3",
+            "meaning": "The catalog card.",
+            "usage": "Backgrounds, documentation"
+          },
+          {
+            "name": "Spine Ochre",
+            "hex": "#C89B3C",
+            "meaning": "The gilded spine label.",
+            "usage": "Tags, accents, SLA seals"
+          },
+          {
+            "name": "Ink Slate",
+            "hex": "#232A2E",
+            "meaning": "Catalogue ink.",
+            "usage": "Body type, tables"
+          },
+          {
+            "name": "Fresh Teal",
+            "hex": "#2E8C83",
+            "meaning": "The just-ingested document.",
+            "usage": "Freshness indicators, success states"
+          }
+        ],
+        "typography": {
+          "primary": "Source Serif 4 for headlines and long-form documentation",
+          "secondary": "Söhne Mono for call numbers, code, and metrics",
+          "rationale": "A working text serif gives the brand its library spine; a disciplined mono handles addresses and evidence. The pairing reads scholarly without costume."
+        },
+        "visualIdentityIdeas": [
+          "Catalog-card layout system for case studies — ruled lines, typed fields, stamped dates",
+          "Recall 'nutrition labels' as a standardized, shareable graphic per corpus type",
+          "Spine-label tag motif running across the product UI and docs sidebar",
+          "An annual printed 'Index Report' on the state of retrieval quality",
+          "Office and event signage using Cutter-number-style codes for rooms and tracks"
+        ]
+      },
+      {
+        "brandName": "Strowger",
+        "tagline": "Answer in milliseconds. Hang up on latency.",
+        "brandDescription": "Strowger is a voice-agent platform engineered around a single obsession: the first 700 milliseconds of a phone call. Interruption handling, barge-in, turn-taking, and time-to-first-word are tuned and published per release, because callers forgive a wrong answer faster than a slow one. Strowger gives engineering teams the telephony stack, the speech pipeline, and the latency budget tooling to run agents that feel like the fastest operator you ever reached.",
+        "scope": "Strowger provides the real-time speech-to-speech pipeline, SIP/telephony integration, turn-taking engine, and per-call latency observability. Agent logic, CRM integrations, and conversation design remain the customer's — Strowger runs the line, not the script.",
+        "brandNameRationale": "Almon B. Strowger was the Kansas City undertaker who patented the automatic telephone exchange in 1889 — legend says because a local operator was diverting his business calls to a rival. His stepping switch removed the human middleman from the phone call; the name anchors the brand in the founding act of call automation.",
+        "industrySummary": "Voice AI crossed its credibility threshold in 2025: native speech-to-speech models cut round-trip latency under a second, and platforms like Vapi and Retell turned voice agents into an assemble-not-build market for support lines, scheduling, and outbound qualification. The differentiator war moved from 'does it talk' to conversational mechanics — barge-in, endpointing, handling the caller who interrupts twice in a sentence. Into 2026, telephony-grade reliability and per-call economics are deciding enterprise deals, while regulators sharpen disclosure rules for AI callers.",
+        "competitorLandscape": "Vapi (vapi.ai) is the developer platform for building and deploying voice agents fast. Retell AI (retellai.com) targets contact-center-grade voice agents with strong telephony features. LiveKit (livekit.io) supplies the open real-time infrastructure many voice stacks are built on. Strowger differs by making latency a published, contractual spec — every release ships with time-to-first-word numbers — rather than one feature among many.",
+        "positioningStatement": "The voice-agent platform that treats latency as the product.",
+        "positioningRationale": "In voice, delay is the uncanny valley: 300 extra milliseconds reads as evasion, and callers hang up on evasion. Owning the latency spec — measured, published, guaranteed — claims the one dimension every buyer can hear in the first five seconds of a demo call.",
+        "targetAudience": {
+          "primary": "The people who carry a pager for a phone number: engineering leads and heads of CX platform at companies where the phone line is revenue — clinics, logistics brokers, home services, financial services call centers. They measure abandonment rates, know their peak-hour concurrency, and have been burned by a demo that fell apart on real calls.",
+          "behaviors": [
+            "Call their own production number weekly and time the first word",
+            "Track abandonment and containment rates by hour",
+            "Run vendor bake-offs with recorded adversarial callers",
+            "Insist on SIP-level control and carrier redundancy"
+          ],
+          "motivations": [
+            "Answer every call instantly without staffing the graveyard peak",
+            "Stop losing callers in the awkward pause",
+            "Get telephony reliability without hiring telecom engineers"
+          ]
+        },
+        "mission": "To make talking to a machine faster than waiting for a human — and honest about being a machine.",
+        "vision": "Phone calls answered on the first ring, everywhere, with nothing lost in the pause.",
+        "coreValues": [
+          "Speed you can hear",
+          "Reliability at carrier grade",
+          "Disclosure — the agent says what it is",
+          "Craft in the turn-taking details"
+        ],
+        "brandPersonalityTraits": [
+          "Quick",
+          "Mechanical-precise",
+          "Unpretentious",
+          "Obsessive"
+        ],
+        "story": "Strowger's founders ran a telehealth scheduling line and watched 31% of callers abandon during the four-second pause their first voice-bot vendor called 'natural'. They rebuilt the stack themselves — streaming everything, pre-warming everything, cutting every hop — and got time-to-first-word under 600 milliseconds. Abandonment halved. When they dug into telephone history for a name, they found Almon Strowger, the undertaker who automated the exchange because he could not trust the operator, and recognized the same impatience that had driven them to build.",
+        "messagingPillars": [
+          {
+            "name": "The 700-millisecond budget",
+            "description": "Every pipeline stage carries a published latency budget, and every release ships with measured time-to-first-word. Speed is specified, not vibed."
+          },
+          {
+            "name": "Turn-taking mechanics",
+            "description": "Barge-in, endpointing, and interruption recovery tuned on real call corpora. The agent yields like a good listener, not a walkie-talkie."
+          },
+          {
+            "name": "Carrier-grade plumbing",
+            "description": "SIP trunking, failover, and concurrency tested to contact-center standards. The line stays up when the campaign spikes."
+          },
+          {
+            "name": "Honest automation",
+            "description": "Agents disclose themselves and hand off gracefully. Trust in the line is the long-term asset."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Quote milliseconds with measurement methodology",
+            "Play unedited call recordings in demos",
+            "Use telephony vocabulary correctly — trunk, barge-in, endpointing",
+            "Write short, spoken-rhythm sentences"
+          ],
+          "donts": [
+            "No 'indistinguishable from humans' claims",
+            "Never hide the disclosure line in demos",
+            "No cinematic robot-voice branding",
+            "No latency numbers from lab-only conditions"
+          ]
+        },
+        "logoDirection": "A wordmark in a compact industrial grotesque, paired with a mark abstracted from the Strowger stepping switch: a quarter-circle arc of ten small dots with a selector line pointing at one. The mark animates in product as the call-connect indicator.",
+        "colorPalette": [
+          {
+            "name": "Exchange Black",
+            "hex": "#1B1D22",
+            "meaning": "The switchroom rack.",
+            "usage": "Primary surfaces, wordmark"
+          },
+          {
+            "name": "Bakelite Cream",
+            "hex": "#EDE6D6",
+            "meaning": "The classic handset.",
+            "usage": "Backgrounds, marketing pages"
+          },
+          {
+            "name": "Ring Copper",
+            "hex": "#C56A34",
+            "meaning": "Copper line; the live wire.",
+            "usage": "Accent, CTAs, the selector mark"
+          },
+          {
+            "name": "Dialtone Green",
+            "hex": "#3F8F5F",
+            "meaning": "Line open, call connected.",
+            "usage": "Live-call states, success metrics"
+          },
+          {
+            "name": "Busy Signal Red",
+            "hex": "#B5372E",
+            "meaning": "Dropped or failed call.",
+            "usage": "Alerts and error states only"
+          }
+        ],
+        "typography": {
+          "primary": "Archivo for headlines and product UI, in narrow weights",
+          "secondary": "Space Mono for latency figures, call IDs, and logs",
+          "rationale": "A hardworking industrial grotesque nods to switchgear engineering; the mono keeps every millisecond figure looking like an instrument reading."
+        },
+        "visualIdentityIdeas": [
+          "Latency waterfall diagrams as the signature marketing graphic — every hop labeled in ms",
+          "Rotary-selector loading animation in the product",
+          "Demo phone number printed huge on every page: call it and time the first word yourself",
+          "Case studies formatted as call logs with timestamps down the margin",
+          "A physical old Strowger switch in the office lobby, wired to ring on every production deploy"
+        ]
+      },
+      {
+        "brandName": "Whetstone",
+        "tagline": "Smaller. Sharper. Yours.",
+        "brandDescription": "Whetstone is a fine-tuning operations platform with one direction of travel: every engagement ends with a model that is smaller, faster, and cheaper than the one it replaces. Teams bring a frontier-model workload; Whetstone manages the distillation, LoRA training, evaluation, and rollout that turn it into a specialized open-weight model they own. Success is measured in parameters removed and cents saved per thousand requests, and both numbers are printed on the dashboard's front page.",
+        "brandNameRationale": "A whetstone is the sharpening stone — the oldest tool-maintenance instrument in any trade, from scythes to sushi knives. Fine-tuning is exactly that act: not building a new blade, but grinding an existing one to a working edge for a specific hand and task.",
+        "industrySummary": "In 2025 fine-tuning matured from hobbyist LoRA experiments into an operations discipline, driven by teams discovering that a tuned 8B open-weight model beats a frontier API on narrow tasks at a tenth of the cost and latency. Mature open-weight families — Llama, Qwen, Mistral — plus distillation from frontier teachers and the arrival of reinforcement fine-tuning made 'tune small' a defensible default for high-volume workloads. The 2026 battleground is operational: dataset versioning, eval-gated rollouts, and keeping a fleet of small models from drifting.",
+        "competitorLandscape": "OpenPipe (openpipe.ai) built its business on distilling frontier API traffic into cheap fine-tuned models. Predibase (predibase.com) offers serverless fine-tuning and LoRA serving for open-weight models. Unsloth (unsloth.ai) owns the efficient-training layer developers use to tune fast on modest hardware. Whetstone differs by selling the full grind as managed operations — from traffic capture to eval-gated rollout — with model ownership always landing with the customer.",
+        "positioningStatement": "The fine-tune ops platform where every success is measured in parameters removed.",
+        "positioningRationale": "Most AI vendors are incentivized to sell more compute; a shrinking-target metric is a trust position no incumbent will copy. It aligns the platform with the customer's P&L and gives the brand a number — cost per task, before and after — that closes deals on its own.",
+        "targetAudience": {
+          "primary": "Psychographically, these are the cost-literate contrarians of AI engineering: ML and platform engineers who feel a small thrill deleting a dependency, distrust per-token pricing at scale, and keep a spreadsheet proving the 8B model is fine. They sit at API-heavy startups and mid-size enterprises where inference spend just became a board topic.",
+          "behaviors": [
+            "Log frontier-API traffic specifically to mine it for training data",
+            "Run canary rollouts with automatic eval gates",
+            "Benchmark cost per task, not cost per token",
+            "Maintain internal model registries with dataset lineage"
+          ],
+          "motivations": [
+            "Cut inference spend by an order of magnitude without quality loss",
+            "Own the weights and escape per-token dependency",
+            "Turn one-off fine-tune experiments into a repeatable pipeline"
+          ]
+        },
+        "mission": "To turn frontier-model workloads into small, owned, production-grade models — routinely, not heroically.",
+        "vision": "A world where renting a giant generalist for a narrow job looks as dated as mainframe time-sharing.",
+        "coreValues": [
+          "Subtraction is progress",
+          "Ownership — the customer keeps the weights",
+          "Eval-gated — no rollout without receipts",
+          "Craft over compute"
+        ],
+        "brandPersonalityTraits": [
+          "Economical",
+          "Contrarian",
+          "Workshop-practical",
+          "Data-sharp"
+        ],
+        "manifesto": "The industry sells horsepower. We sell edge. A blade does not get better by getting bigger; it gets better by meeting the stone. Bring us the workload you are overpaying a giant to do, and we will grind it down to a model that fits the task, runs on hardware you can name, and belongs to you. Fewer parameters. Fewer milliseconds. Fewer invoices. Sharper.",
+        "messagingPillars": [
+          {
+            "name": "The before/after number",
+            "description": "Every engagement is framed by cost per task and latency, before and after. The delta is the marketing."
+          },
+          {
+            "name": "Traffic to training data",
+            "description": "Production API traffic becomes curated, versioned training sets with lineage. The customer's own usage is the moat."
+          },
+          {
+            "name": "Eval-gated rollouts",
+            "description": "Tuned models replace incumbents only after passing task evals and canary phases. Shrinking never means gambling."
+          },
+          {
+            "name": "Your weights, your exit",
+            "description": "Customers own every artifact — datasets, adapters, merged weights. Whetstone is a service, not a cage."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with cost-per-task deltas and cite the eval",
+            "Name parameter counts and hardware targets plainly",
+            "Use sharpening metaphors sparingly and precisely",
+            "Publish honest failure cases where tuning lost to prompting"
+          ],
+          "donts": [
+            "No 'AGI' or frontier-race framing",
+            "Never hide the baseline in a comparison",
+            "No lock-in mechanics dressed as features",
+            "No compute-flexing imagery — racks, GPUs, glowing chips"
+          ]
+        },
+        "logoDirection": "A wordmark in a flat-sided grotesque where the W is subtly beveled on its left stroke — the ground edge. Companion mark: a rectangle with one corner shaved at 15 degrees, usable as avatar and as the 'sharpened' badge on model cards.",
+        "colorPalette": [
+          {
+            "name": "Stone Grey",
+            "hex": "#8A8D8F",
+            "meaning": "The whetstone itself.",
+            "usage": "Secondary surfaces, charts"
+          },
+          {
+            "name": "Forge Charcoal",
+            "hex": "#25272A",
+            "meaning": "The workshop.",
+            "usage": "Primary background, wordmark"
+          },
+          {
+            "name": "Edge Silver",
+            "hex": "#D9DDE0",
+            "meaning": "The finished edge catching light.",
+            "usage": "Backgrounds, cards"
+          },
+          {
+            "name": "Honing Orange",
+            "hex": "#D96C2C",
+            "meaning": "Sparks off the stone; work in progress.",
+            "usage": "Accent, CTAs, training-run states"
+          },
+          {
+            "name": "Oil Blue",
+            "hex": "#33566B",
+            "meaning": "Honing oil; patience in the process.",
+            "usage": "Links, secondary accents"
+          }
+        ],
+        "typography": {
+          "primary": "Suisse Int'l for headlines and interface",
+          "secondary": "Berkeley Mono for metrics, configs, and model cards",
+          "rationale": "Suisse carries clean engineering restraint; Berkeley Mono gives the numbers a machined, tool-steel character. Nothing decorative — everything ground to function."
+        },
+        "visualIdentityIdeas": [
+          "Before/after spec plates on every case study: params, latency, cost per task, stamped like tool markings",
+          "A 'grind log' changelog format documenting each model's sharpening history",
+          "Angle-gauge motif (15°) used as section dividers and chart annotations",
+          "Model cards designed like knife-maker certificates with steel, edge angle, and owner fields",
+          "Trade-show giveaway: an actual pocket whetstone engraved with the customer's cost delta"
+        ]
       }
     ],
     "Luxury": [
@@ -475,6 +941,471 @@
           "secondary": "Adobe Caslon Pro for body and correspondence",
           "rationale": "Caslon across the system carries British editorial weight. One family, one voice."
         }
+      },
+      {
+        "brandName": "Hobbs & Bramah",
+        "tagline": "We pick the lock before the world does.",
+        "brandDescription": "Hobbs & Bramah is a private AI red-teaming house retained by frontier labs, banks, and governments to break their models before deployment. Engagements are small, senior, and adversarial by charter: a standing team of attack researchers with the client's written license to jailbreak, exfiltrate, and deceive. Systems that survive a full engagement carry the house's Challenge Seal — and remain subject to its standing bounty, because Hobbs & Bramah does not certify anything it has stopped trying to break.",
+        "scope": "The house conducts pre-deployment adversarial engagements, standing retained attack programs, and confidential incident re-creations. It publishes methods to the research community on a two-year delay and never names clients. It does not sell defensive tooling — the conflict of interest would dull the attack.",
+        "brandNameRationale": "At the Great Exhibition of 1851, American locksmith Alfred Charles Hobbs stunned Britain by picking Joseph Bramah's 'unpickable' challenge lock — displayed in Bramah's shop window for sixty years with a standing cash prize for anyone who could open it. Pairing the attacker's name with the lockmaker's captures the house's doctrine: security is a claim, and claims exist to be tested in public terms.",
+        "industrySummary": "AI red-teaming professionalized rapidly through 2025-26 as the EU AI Act's general-purpose model obligations took effect and adversarial-testing evidence entered procurement and insurance underwriting. Prompt injection held its place atop the OWASP LLM risk list while automated attack generation — pioneered commercially by Haize Labs and open-sourced through tools like promptfoo — industrialized what had been artisanal jailbreaking. The premium tier of the market now belongs to human expert teams handling frontier deployments where an automated sweep is table stakes, not assurance.",
+        "competitorLandscape": "Haize Labs (haizelabs.com) automates adversarial testing and jailbreak discovery at scale. Lakera (lakera.ai) pairs its Gandalf-honed attack data with runtime defense products. HiddenLayer (hiddenlayer.com) covers the broader ML-security platform for enterprises. Hobbs & Bramah differs as a pure-attack private house — no defensive product line, partner-led engagements, and a standing-challenge model borrowed from Victorian locksmithing rather than SaaS.",
+        "positioningStatement": "The private attack house for institutions whose models cannot afford a public failure.",
+        "positioningRationale": "As automated red-teaming commoditizes, the scarce asset is senior adversarial talent with discretion and a reputation for actually breaking things. A house brand built on the world's most famous lock-picking — and a seal that stays live under standing challenge — converts attack skill into an institution clients can cite privately to boards and regulators.",
+        "targetAudience": {
+          "primary": "Chief information security officers, heads of AI risk, and general counsel at frontier labs, global banks, and government agencies deploying models with regulatory and reputational exposure. They arrive by referral after an automated audit produced a clean report nobody on the team believed. They buy people, precedent, and silence.",
+          "behaviors": [
+            "Commission adversarial testing before every major model deployment",
+            "Brief boards with third-party attack evidence rather than internal claims",
+            "Retain security counsel in the same meeting as security vendors",
+            "Renew annual standing-attack programs rather than one-off tests"
+          ],
+          "motivations": [
+            "Know the worst finding before an attacker, journalist, or regulator does",
+            "Carry credible third-party evidence into board and supervisory conversations",
+            "Keep every engagement, finding, and even the relationship itself confidential"
+          ]
+        },
+        "mission": "To break our clients' AI systems with more skill, patience, and honesty than anyone who will try after us.",
+        "vision": "A world where no consequential model ships untested by an adversary who was genuinely trying.",
+        "coreValues": [
+          "Adversarial honesty — we report what we broke, exactly",
+          "Discretion — clients, findings, and fees stay private",
+          "Standing challenge — no certification without continued attack",
+          "Craft lineage — methods documented, taught, and attributed"
+        ],
+        "brandPersonalityTraits": [
+          "Formidable",
+          "Courteous",
+          "Patient",
+          "Unimpressed"
+        ],
+        "story": "The house was founded by two security researchers who met on opposite sides of a bank's capture-the-flag: one had built the model's guardrails, the other dismantled them in four hours with a typewritten attack log so elegant the defender asked to keep it. Reading about Hobbs's fifty-one hours with the Bramah lock in 1851 — and Bramah's grace in paying the prize — they recognized the tradition they wanted to restore: attack as a courteous, documented, ruthless craft. Their first retainer came from that same bank. The attack logs are still typewritten.",
+        "messagingPillars": [
+          {
+            "name": "The standing challenge",
+            "description": "The Challenge Seal is never final; sealed systems remain under live bounty from the house's own researchers. Assurance that stops testing is nostalgia."
+          },
+          {
+            "name": "Partner-led attack",
+            "description": "Named senior researchers conduct every engagement personally. There is no junior bench and no outsourced sweep behind the letterhead."
+          },
+          {
+            "name": "Findings, beautifully documented",
+            "description": "Every engagement ends in an attack log written to be read by boards and reproduced by engineers — the deliverable is clarity, not fear."
+          },
+          {
+            "name": "Methods returned to the field",
+            "description": "Techniques are published to the research community on a two-year delay, keeping the craft honest and the house at its edge."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write with restraint — understatement carries the menace",
+            "Name techniques precisely and credit their inventors",
+            "Address clients and readers as peers in a serious trade",
+            "Let the 1851 lineage surface sparingly, in footnotes and details"
+          ],
+          "donts": [
+            "No fear-marketing or breach statistics as scare copy",
+            "Never name clients, even flatteringly",
+            "No hoodie-and-binary-rain security clichés",
+            "No certified-safe language — only tested-and-still-testing"
+          ]
+        },
+        "logoDirection": "An engraved-style wordmark in a fine transitional serif, the ampersand drawn as a subtle keyway silhouette. The Challenge Seal is a separate device: a circular stamp of a lock with its shackle open, ringed by the words TESTED AND STILL TESTING, applied in blind emboss on reports.",
+        "colorPalette": [
+          {
+            "name": "Vault Green",
+            "hex": "#1C2B25",
+            "meaning": "The interior of the strongroom.",
+            "usage": "Primary surfaces, report covers"
+          },
+          {
+            "name": "Ledger Ivory",
+            "hex": "#F1EBDD",
+            "meaning": "The attack log's paper.",
+            "usage": "Documents, backgrounds"
+          },
+          {
+            "name": "Escutcheon Brass",
+            "hex": "#9C7B3C",
+            "meaning": "The lockplate; the prize on the counter.",
+            "usage": "Seal, foil accents"
+          },
+          {
+            "name": "Pick Steel",
+            "hex": "#6E7477",
+            "meaning": "The instrument itself.",
+            "usage": "Diagrams, secondary type"
+          },
+          {
+            "name": "Breach Crimson",
+            "hex": "#7E2A33",
+            "meaning": "A finding — marked once, precisely.",
+            "usage": "Finding markers in reports only"
+          }
+        ],
+        "typography": {
+          "primary": "Financier Display for the wordmark and headings",
+          "secondary": "Founders Grotesk for briefing decks and the private portal",
+          "rationale": "A sharp British editorial serif carries the Victorian engineering lineage without pastiche; the grotesque keeps operational documents cold and modern. The pairing says: old trade, current methods."
+        },
+        "visualIdentityIdeas": [
+          "Attack logs bound as slim ledgers with blind-embossed seals and hand-numbered copies",
+          "The open-shackle seal rendered as a wax stamp on engagement letters",
+          "Technical diagrams drawn in Victorian patent-drawing style — cross-hatched, labeled in copperplate captions",
+          "A shop-window motif for the (rare) public site: one lock, one standing prize, nothing else",
+          "Two-year-delay research papers issued in a numbered monograph series"
+        ]
+      },
+      {
+        "brandName": "Hansard House",
+        "tagline": "What the board said. Exactly.",
+        "brandDescription": "Hansard House is meeting intelligence for boardrooms, partnerships, and investment committees — an AI record-keeper built to the standard of a parliamentary reporter, not a note-taking app. It produces substantially verbatim minutes, attributed and time-anchored, with resolutions, dissents, and action points extracted to the standard a company secretary would sign. Hansard House runs on-premise or in sovereign cloud, retains nothing beyond its mandate, and treats the record itself as the client's most sensitive asset.",
+        "brandNameRationale": "Hansard is the official report of debates in the UK Parliament, named for Thomas Curson Hansard, the printer who took over its publication in 1812 — the gold standard of the 'substantially verbatim' record for over two centuries. Attaching House signals a private institution offering that same standard of record to rooms where no reporter is admitted.",
+        "industrySummary": "Meeting intelligence commoditized at the bottom through 2025: Zoom, Teams, and Google all ship native AI summaries, and note-takers like Otter and Fireflies count users in the tens of millions. The counter-trend is upmarket — Granola's bot-free, on-device capture won the trust of dealmakers precisely by being discreet, while boards and regulated firms confronted consent laws, discovery risk, and the question of where a recording of a board meeting actually lives. Into 2026, the premium segment is governance-grade: attributed records, retention policies, and deployment inside the client's own perimeter.",
+        "competitorLandscape": "Granola (granola.ai) owns the discreet, bot-free notes position beloved by VCs and executives. Fathom (fathom.video) leads free-tier meeting summaries for sales and teams. Otter.ai (otter.ai) is the volume incumbent in transcription and meeting notes. Hansard House differs by serving the governance layer — minute-grade attributed records, secretarial workflow, and sovereign deployment — where consumer note-takers are contractually unwelcome.",
+        "positioningStatement": "The verbatim record, for rooms where the record is the point.",
+        "positioningRationale": "Boards do not need another summary; they need a defensible record — who said what, what was resolved, who dissented — produced to a standard that survives auditors and litigation. Claiming the two-century Hansard standard positions the product as an institution of record rather than productivity software, which is exactly how its buyers think.",
+        "targetAudience": {
+          "primary": "Company secretaries, general counsel, and chairs of boards and investment committees at listed companies, funds, and professional partnerships. Demographically senior — typically 45 to 65 — and institutionally cautious, they currently reconcile handwritten notes against memory and would no sooner invite a consumer bot into the boardroom than livestream it.",
+          "behaviors": [
+            "Draft and circulate minutes for approval at the following meeting",
+            "Maintain minute books as statutory records with strict retention rules",
+            "Refuse consumer recording tools on advice of counsel",
+            "Commission secretarial support for offsites, committees, and AGMs"
+          ],
+          "motivations": [
+            "Produce defensible minutes in hours instead of days",
+            "Capture attribution and dissent precisely when it matters most",
+            "Keep the record inside the firm's own walls and retention regime"
+          ]
+        },
+        "mission": "To give private institutions a record of their deliberations equal to the one Parliament has kept since 1812.",
+        "vision": "Every consequential room keeps a perfect record — and controls it absolutely.",
+        "coreValues": [
+          "Fidelity to the spoken word",
+          "Attribution without ambiguity",
+          "Custody — the record belongs to the room",
+          "Institutional patience"
+        ],
+        "brandPersonalityTraits": [
+          "Exacting",
+          "Discreet",
+          "Ceremonious",
+          "Unhurried"
+        ],
+        "manifesto": "Minutes are not notes. Notes serve memory; minutes serve history, auditors, and the courts. For two hundred years the standard has existed — substantially verbatim, every speaker named, every division recorded — and it belonged to one green-benched chamber. Hansard House extends that standard to the rooms where your institution actually decides things. We do not summarize. We report. And the report is yours: on your servers, under your seal, released to no one.",
+        "messagingPillars": [
+          {
+            "name": "Minute-grade, not note-grade",
+            "description": "Output structured as draft minutes — resolutions, attributions, dissents, actions — ready for the secretary's review and the chair's signature."
+          },
+          {
+            "name": "The record stays home",
+            "description": "On-premise and sovereign-cloud deployment with client-controlled retention. Hansard House holds nothing it is not mandated to hold."
+          },
+          {
+            "name": "Consent by design",
+            "description": "Disclosure, jurisdiction-aware consent capture, and configurable off-record moments built into the product's etiquette."
+          },
+          {
+            "name": "The secretarial craft",
+            "description": "Built with veteran company secretaries and parliamentary reporters; the workflow honors how minutes are actually drafted, challenged, and approved."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write in the measured register of a company secretary",
+            "Use governance vocabulary precisely — resolution, quorum, dissent",
+            "Cite the parliamentary lineage with historical accuracy",
+            "Address confidentiality proactively and specifically"
+          ],
+          "donts": [
+            "No productivity-app enthusiasm or emoji",
+            "Never call the product a note-taker",
+            "No claims of replacing the company secretary",
+            "No client names, logos, or boardroom anecdotes in marketing"
+          ]
+        },
+        "logoDirection": "A wordmark in a classical English serif with wide letter-spacing, above a small portcullis-inspired device redrawn as an abstract grille of vertical strokes — a nod to the parliamentary mark without imitation. Rendered in blind emboss and single-color foil on covers.",
+        "colorPalette": [
+          {
+            "name": "Chamber Green",
+            "hex": "#274434",
+            "meaning": "The benches of the Commons; the deliberating room.",
+            "usage": "Primary surfaces, covers"
+          },
+          {
+            "name": "Record Cream",
+            "hex": "#F3EEE1",
+            "meaning": "The printed report.",
+            "usage": "Documents, backgrounds"
+          },
+          {
+            "name": "Division Red",
+            "hex": "#7C2F38",
+            "meaning": "The Lords' benches; dissent recorded with dignity.",
+            "usage": "Dissent markers, secondary accents"
+          },
+          {
+            "name": "Gilt",
+            "hex": "#A5854A",
+            "meaning": "The tooled spine of the bound volume.",
+            "usage": "Foil, seals, rules"
+          },
+          {
+            "name": "Archive Grey",
+            "hex": "#565B58",
+            "meaning": "The stacks where records rest.",
+            "usage": "Metadata, timestamps, UI chrome"
+          }
+        ],
+        "typography": {
+          "primary": "Miller Text for the wordmark, minutes, and all long-form output",
+          "secondary": "National 2 for the application interface",
+          "rationale": "Miller is a Scotch Roman bred for reporting — the typographic family of the official record. A restrained New Zealand grotesque keeps the software modern without breaking the register."
+        },
+        "visualIdentityIdeas": [
+          "Draft minutes rendered in double-column Hansard page style with speaker names in small caps",
+          "Bound annual minute books as a physical deliverable — buckram, gilt spine, client's arms",
+          "Timestamped marginalia system: every extracted resolution cites its moment in the audio",
+          "An 'off the record' physical desk token that visibly pauses capture when placed on the table",
+          "Stationery suite with portcullis-grille blind emboss and green silk ribbon markers"
+        ]
+      },
+      {
+        "brandName": "Dragoman",
+        "tagline": "Fluency is the least of it.",
+        "brandDescription": "Dragoman is an AI localization house for luxury maisons, private banks, and cultural institutions entering markets where a mistranslated register costs more than a lost sale. The platform pairs fine-tuned, house-specific language models with resident senior linguists — one language pair, one dedicated desk — to carry brand voice, honorifics, and cultural sub-text across languages intact. Dragoman is retained, not subscribed to: each client's models are trained on its own corpus and speak for no one else.",
+        "brandNameRationale": "The dragomans were the elite interpreter-diplomats of the Ottoman court — hereditary dynasties like the Pisanis of Constantinople who did not merely translate between empires but navigated protocol, silence, and face on behalf of ambassadors. The name claims localization's highest historical office: the translator as trusted diplomat, not vendor.",
+        "industrySummary": "LLMs collapsed the price of raw translation through 2025, pushing the language-services industry into its sharpest re-segmentation in decades: commodity machine translation at the bottom, and a premium tier re-forming around transcreation, brand-voice fidelity, and human accountability. DeepL's enterprise push and Lilt's contextual-AI model validated AI-plus-expert workflows, while luxury and regulated sectors learned publicly that fluent-but-wrong is the most expensive kind of wrong. Into 2026, the premium buyer pays for cultural judgment with a model attached — not the other way round.",
+        "competitorLandscape": "Lilt (lilt.com) sells enterprise AI translation with human-in-the-loop workflows. Smartling (smartling.com) is the localization-platform incumbent for global content operations. Unbabel (unbabel.com) blends MT with human editors for customer-communication pipelines. Dragoman differs by refusing the platform model entirely: house-trained private models, resident linguists per client, and a client list capped per language pair to preserve exclusivity of voice.",
+        "positioningStatement": "Private interpreters for brands whose voice cannot survive a vendor portal.",
+        "positioningRationale": "When translation is nearly free, what remains scarce is judgment — the knowledge of what a maison would never say in Japanese. Structuring the offer as a retained diplomatic desk rather than a SaaS seat converts that judgment into an institution, and the capped client list makes the scarcity real rather than rhetorical.",
+        "targetAudience": {
+          "primary": "Global brand directors, heads of communications, and regional presidents at luxury houses, private financial institutions, and museums — stewards of voices older than most technology companies. Psychographically, they are custodians rather than optimizers: they will pay tenfold for the sentence that could never embarrass the house, and they remember every vendor who made them wince.",
+          "behaviors": [
+            "Commission back-translations to audit their current vendors",
+            "Maintain brand-voice bibles that run to hundreds of pages",
+            "Escalate a single mistranslated headline to the executive committee",
+            "Engage suppliers by referral and retain them for decades"
+          ],
+          "motivations": [
+            "Enter a market sounding like themselves, not like a translation",
+            "Protect honorifics, register, and sub-text no glossary captures",
+            "Own a private language model no competitor can benefit from"
+          ]
+        },
+        "mission": "To carry a house's voice across languages the way the great dragomans carried empires' words: precisely, discreetly, and with the weight of what is left unsaid.",
+        "vision": "Every great institution speaks each of its languages as a first language.",
+        "coreValues": [
+          "Voice before volume",
+          "The desk is dedicated — one client's language is never another's training data",
+          "Cultural judgment outranks fluency",
+          "Discretion as a working method"
+        ],
+        "brandPersonalityTraits": [
+          "Worldly",
+          "Precise",
+          "Reserved",
+          "Cultivated"
+        ],
+        "story": "Dragoman began in Istanbul, where its founder — a computational linguist raised trilingual in a family of interpreters — was asked by a French maison to audit the Japanese launch copy an award-winning platform had produced. It was flawless, she reported, and disastrous: the register was that of a department-store flyer. She rebuilt the engagement around her grandmother's profession rather than her own — resident linguists holding the relationship, models trained privately on the house's own century of copy — and the maison has never let the desk go. The company still keeps a nineteenth-century dragoman's phrase-book in the office safe, as a reminder of the standard.",
+        "messagingPillars": [
+          {
+            "name": "The dedicated desk",
+            "description": "Each engagement is a standing desk: named senior linguists plus a privately fine-tuned model, serving one client per competitive category and language pair."
+          },
+          {
+            "name": "Register, honorific, silence",
+            "description": "The work covers what glossaries cannot — formality gradients, taboo adjacency, and what a house must never say. Fluency is assumed; judgment is the product."
+          },
+          {
+            "name": "A model of the house's own voice",
+            "description": "Client corpora train client models, held privately and improving with every season's campaign. The asset compounds and belongs to the relationship."
+          },
+          {
+            "name": "Accountable to the sentence",
+            "description": "Every published line carries a named linguist's approval. AI drafts; the desk answers for it."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write with the composure of diplomatic correspondence",
+            "Use the vocabulary of craft — register, cadence, idiom — exactly",
+            "Acknowledge the machine's role plainly and without apology",
+            "Let historical depth show in details, never in costume"
+          ],
+          "donts": [
+            "No per-word pricing or volume discounts in any material",
+            "Never publish client names or before/after examples",
+            "No 'break language barriers' cliché",
+            "No flags, globes, or speech-bubble iconography"
+          ]
+        },
+        "logoDirection": "A wordmark in a refined old-style serif with a long-tailed R, accompanied by a seal derived from the tughra — the Ottoman calligraphic monogram — abstracted into a non-literal flourish of three ascending strokes. The seal marks approved translations like a chop.",
+        "colorPalette": [
+          {
+            "name": "Bosphorus Night",
+            "hex": "#1E2A3A",
+            "meaning": "The water between two continents.",
+            "usage": "Primary surfaces, wordmark"
+          },
+          {
+            "name": "Manuscript Ivory",
+            "hex": "#F2ECDE",
+            "meaning": "The phrase-book page.",
+            "usage": "Backgrounds, documents"
+          },
+          {
+            "name": "Iznik Blue",
+            "hex": "#2E6E8E",
+            "meaning": "The court's ceramic blue; cultivated brilliance.",
+            "usage": "Accents, links, the seal"
+          },
+          {
+            "name": "Saffron Thread",
+            "hex": "#C9962E",
+            "meaning": "The illuminated initial; value in small quantities.",
+            "usage": "Foil details, approved-translation chops"
+          },
+          {
+            "name": "Cypress",
+            "hex": "#3A4A3F",
+            "meaning": "The old gardens of Pera; patience.",
+            "usage": "Secondary surfaces, charts"
+          }
+        ],
+        "typography": {
+          "primary": "Sabon for the wordmark and all client-facing prose",
+          "secondary": "Untitled Sans for the working platform",
+          "rationale": "Sabon — Tschichold's masterwork of classical restraint — signals textual scholarship across every script it neighbors. The deliberately plain sans keeps the tooling invisible, as good interpreters are."
+        },
+        "visualIdentityIdeas": [
+          "Approved translations stamped with the tughra-derived chop in Iznik blue",
+          "Engagement documents bound in the format of diplomatic cables — numbered, dated, initialed",
+          "A private annual 'Register Report' for each client on how its voice moved across markets",
+          "Office and collateral details drawn from Pera's grand-hotel stationery tradition",
+          "The nineteenth-century phrase-book photographed as the only imagery on the public site"
+        ]
+      },
+      {
+        "brandName": "Port Franc",
+        "tagline": "Your models never leave the building.",
+        "brandDescription": "Port Franc builds and operates private inference estates — frontier-class open-weight models running entirely inside a client's own walls, under bonded custody protocols borrowed from the freeport world. Weights, prompts, and outputs never cross the perimeter; Port Franc's engineers maintain the estate on-site under audited access, like vault custodians who never see inside the crates. For family offices, private banks, and houses whose questions to a model are themselves confidential, it is inference as a matter of territory.",
+        "scope": "Port Franc designs the hardware estate, deploys and tunes open-weight models, and operates the installation under bonded-custody service agreements with full audit trails. It does not train foundation models, resell cloud capacity, or offer any multi-tenant service — every estate is sovereign to one client.",
+        "brandNameRationale": "Port franc is the French term for a freeport — the bonded warehouses of Geneva and Zurich where the world's most valuable objects are stored tax-suspended, privately, under custody rules refined over 150 years. The name imports that institution's core promise to AI: what enters the perimeter is held, handled, and never disclosed.",
+        "industrySummary": "Sovereign and private AI became a top-three enterprise theme in 2025-26, driven by the EU AI Act and data-residency law on one side and open-weight models reaching frontier-class capability on the other — for the first time, serious institutions can run near-state-of-the-art models without an API in the loop. Nvidia's sovereign-AI push, national cloud programs across the Gulf and Europe, and providers like Aleph Alpha validated the category at state scale. The unserved tier is below the nation-state: family offices, private banks, and firms whose prompt streams are effectively a diary of their intentions.",
+        "competitorLandscape": "Aleph Alpha (aleph-alpha.com) anchors the European sovereign-AI position for governments and enterprises. Baseten (baseten.co) offers self-hosted and hybrid inference deployment for engineering teams. Crusoe (crusoe.ai) builds AI infrastructure and cloud capacity for large-scale deployment. Port Franc differs by operating at the private-wealth tier with freeport-grade custody protocols — single-tenant estates, bonded service access, and a clientele that measures exposure in reputation rather than requests per second.",
+        "positioningStatement": "Freeport-grade custody for the age of inference: models, prompts, and answers held inside walls the client owns.",
+        "positioningRationale": "For this clientele the sensitive asset is not the model but the questions — a prompt stream reveals acquisitions, illnesses, and intentions. No API terms-of-service can equal territory, and the freeport is the one institution whose custody vocabulary the ultra-private already trust. Owning that vocabulary positions Port Franc beyond comparison with cloud vendors entirely.",
+        "targetAudience": {
+          "primary": "Principals and chiefs of staff at single-family offices, executive committees of private banks, and senior partners at firms handling generational wealth — a clientele that already owns vaults, uses freeports, and retains rather than subscribes. Their households and firms are AI-curious but institutionally forbidden from typing anything real into a public endpoint.",
+          "behaviors": [
+            "Commission private infrastructure rather than accept shared services",
+            "Route every technology decision through counsel and security advisors",
+            "Visit and physically inspect facilities before engagement",
+            "Retain trusted operators for decades across generations"
+          ],
+          "motivations": [
+            "Use frontier-class AI on genuinely private matters without exposure",
+            "Satisfy counsel that no prompt ever transits a third party",
+            "Hold AI capability as owned estate, not rented service"
+          ]
+        },
+        "mission": "To give private institutions absolute custody of their artificial intelligence — the models, the questions, and the answers.",
+        "vision": "Intelligence held like wealth: within walls, under seal, across generations.",
+        "coreValues": [
+          "Territory over terms of service",
+          "Custody without curiosity — we maintain what we never read",
+          "Single tenancy, always",
+          "Engineering worthy of the vault"
+        ],
+        "brandPersonalityTraits": [
+          "Impenetrable",
+          "Courtly",
+          "Exact",
+          "Unadvertised"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Nothing crosses the perimeter",
+            "description": "Weights, prompts, logs, and telemetry live and die inside the client's walls. There is no phone-home, and the audit proves it."
+          },
+          {
+            "name": "Bonded custody operations",
+            "description": "Port Franc engineers service the estate under freeport-style access protocols — logged, chaperoned, and contractually blind to content."
+          },
+          {
+            "name": "Frontier capability, privately held",
+            "description": "Open-weight models tuned to the client's work deliver near-frontier performance with no API dependency and no usage meter."
+          },
+          {
+            "name": "An estate, not a subscription",
+            "description": "The installation is the client's property and appreciates with attention — refreshed hardware, updated models, standing service, one owner."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in the vocabulary of custody, estate, and seal",
+            "State security architecture in verifiable specifics",
+            "Address the reader as a principal, never a user",
+            "Keep all copy brief enough to be read once and remembered"
+          ],
+          "donts": [
+            "No cloud-industry vocabulary — no 'deploy', 'scale', or 'seats'",
+            "Never discuss clients, inquiries, or even regions served",
+            "No performance benchmarking against public APIs in marketing",
+            "No photography of real facilities"
+          ]
+        },
+        "logoDirection": "A wordmark in engraved capitals with generous tracking, beneath a compact device: a square perimeter line broken by a single arched gate, drawn in one stroke weight — the bonded wall. Applied by blind emboss, engraving, and etched metal only; never animated.",
+        "colorPalette": [
+          {
+            "name": "Strongroom Anthracite",
+            "hex": "#22252A",
+            "meaning": "The interior climate of the vault.",
+            "usage": "Primary surfaces, wordmark"
+          },
+          {
+            "name": "Bonded Paper",
+            "hex": "#EFEAE0",
+            "meaning": "The custody ledger.",
+            "usage": "Documents, backgrounds"
+          },
+          {
+            "name": "Lead Seal Grey",
+            "hex": "#7C8288",
+            "meaning": "The customs seal on the crate.",
+            "usage": "Secondary type, rules"
+          },
+          {
+            "name": "Vault Bronze",
+            "hex": "#8A6F42",
+            "meaning": "The gate's fittings; permanence.",
+            "usage": "Emboss, etched details"
+          },
+          {
+            "name": "Alpine Green",
+            "hex": "#33463C",
+            "meaning": "The landscape around the freeport; discretion in plain sight.",
+            "usage": "Covers, secondary surfaces"
+          }
+        ],
+        "typography": {
+          "primary": "Trajan Sans Pro for the wordmark and estate documents",
+          "secondary": "Neue Haas Unica for technical schedules and service agreements",
+          "rationale": "Engraved-capital heritage without serif costume; a neutral Swiss workhorse for the paperwork. The system should read like a customs house that hired an excellent architect."
+        },
+        "visualIdentityIdeas": [
+          "Custody ledgers as the signature document format — ruled, numbered, countersigned at every service visit",
+          "Lead-seal motif rendered as physical seals on service panels and as the audit-complete mark",
+          "Site plans drawn in the style of bonded-warehouse architectural sections",
+          "A single-page public presence: the gate device, one sentence, one telephone number",
+          "Client handover ceremony: estate keys and the first custody ledger presented in a bonded document case"
+        ]
       }
     ],
     "Minimal": [
@@ -694,6 +1625,438 @@
           "secondary": "JetBrains Mono for body, code, everything",
           "rationale": "One face. Monospace. The brand is the import line."
         }
+      },
+      {
+        "brandName": "flatbed",
+        "tagline": "PDF in. JSON out.",
+        "brandDescription": "flatbed is a document extraction API with one endpoint and a price printed on the homepage. Send a document — scanned contract, crumpled invoice, forty-year-old microfiche export — and get back structured JSON with per-field confidence scores. flatbed does tables, handwriting, checkboxes, and stamps; it does not do dashboards, workflow builders, or quarterly business reviews.",
+        "scope": "One endpoint: /scan. Schema-guided extraction, per-field confidence, page-level provenance. SDKs in four languages, volume pricing on one public page. Nothing else is on the roadmap unless it makes /scan better.",
+        "brandNameRationale": "The flatbed scanner is the humble machine that spent three decades faithfully turning paper into pixels in every office on earth — unglamorous, universal, and utterly reliable. The lowercase name honors that appliance-grade modesty: a tool you trust precisely because it never tried to be a platform.",
+        "industrySummary": "Document extraction flipped through 2025 as vision-language models overtook two decades of template-based OCR incumbents, collapsing per-page costs while finally handling the messy long tail — rotated scans, handwriting, nested tables. Reducto and Extend raised significant rounds on the thesis that parsing accuracy is the choke point for enterprise AI, since RAG and agents are only as good as what survives ingestion. Into 2026 the market splits between platform suites selling workflow and lean API vendors competing on accuracy benchmarks and unit price.",
+        "competitorLandscape": "Reducto (reducto.ai) leads high-accuracy parsing for complex enterprise documents. Unstructured (unstructured.io) is the open-source-rooted ETL layer for unstructured data. Extend (extend.ai) sells document processing with human-in-the-loop review for operations teams. flatbed differs by refusing the platform: one endpoint, public pricing, published accuracy — the Stripe-of-2010 posture applied to paper.",
+        "positioningStatement": "The document API that fits in one curl command.",
+        "positioningRationale": "Every buyer in this category has sat through a demo of a workflow builder they did not want in order to buy an extraction engine they did. Radical surface reduction — one endpoint, one price page, one accuracy report — is both a genuine engineering discipline and the clearest possible differentiation against suite vendors.",
+        "targetAudience": {
+          "primary": "Backend engineers at fintechs, insurers, logistics firms, and legal-tech companies who own an ingestion pipeline and a deadline. They have already benchmarked three vendors with their own worst documents, they know their current parser's failure rate to the decimal, and they want an API that behaves like infrastructure, not a relationship.",
+          "behaviors": [
+            "Keep a folder of nightmare documents for vendor bake-offs",
+            "Read the API reference before the landing page",
+            "Wire confidence thresholds into automated review queues",
+            "Churn instantly on silent accuracy regressions"
+          ],
+          "motivations": [
+            "Stop babysitting a template-based parser from 2011",
+            "Get per-field confidence they can route on programmatically",
+            "Pay a unit price that survives finance review without a call"
+          ]
+        },
+        "mission": "Turn any document into reliable structure with the least API surface possible.",
+        "vision": "Paper stops being a data format anyone has to think about.",
+        "coreValues": [
+          "One endpoint",
+          "Published accuracy",
+          "Public pricing",
+          "Boring reliability"
+        ],
+        "brandPersonalityTraits": [
+          "Terse",
+          "Dependable",
+          "Unsentimental",
+          "Quietly exact"
+        ],
+        "manifesto": "Your documents are a mess. Our API is not. One endpoint. A schema in, structure out, confidence on every field. The price is on the homepage. The accuracy report is next to it. The changelog is written by the engineer who shipped the change. That is the whole company. We think that is plenty.",
+        "messagingPillars": [
+          {
+            "name": "One endpoint",
+            "description": "/scan is the product. Every improvement ships behind the same call, so integrations written today work in five years."
+          },
+          {
+            "name": "Confidence you can route on",
+            "description": "Per-field scores calibrated against published benchmarks. Below threshold goes to your review queue; above it goes straight through."
+          },
+          {
+            "name": "The worst-document benchmark",
+            "description": "Accuracy published quarterly on a public suite of genuinely awful documents — skewed scans, handwriting, coffee stains included."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the curl command in the first screenful",
+            "State accuracy with dataset and date",
+            "Write changelogs in first person by the shipping engineer",
+            "Use plain words: paper, scan, field, price"
+          ],
+          "donts": [
+            "No 'intelligent document processing' category jargon",
+            "No workflow-suite screenshots",
+            "No unpriced 'contact sales' tiers",
+            "No exclamation marks"
+          ]
+        },
+        "logoDirection": "Lowercase wordmark in a monospaced face, preceded by a thin horizontal line that scans downward across the letters on page load — the scan bar. The static mark is simply the word with the line resting beneath; the favicon is the line alone.",
+        "colorPalette": [
+          {
+            "name": "Glass Grey",
+            "hex": "#E9EBEA",
+            "meaning": "The scanner platen.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Carriage Black",
+            "hex": "#161719",
+            "meaning": "The machine chassis.",
+            "usage": "Type, wordmark, code blocks"
+          },
+          {
+            "name": "Scan Green",
+            "hex": "#2FA36B",
+            "meaning": "The moving light bar; extraction in progress.",
+            "usage": "Single accent — links, statuses, the scan line"
+          },
+          {
+            "name": "Confidence Amber",
+            "hex": "#D9A13B",
+            "meaning": "The field that needs human eyes.",
+            "usage": "Sub-threshold confidence indicators only"
+          }
+        ],
+        "typography": {
+          "primary": "IBM Plex Mono for wordmark, headlines, and code",
+          "secondary": "IBM Plex Sans for body prose",
+          "rationale": "One superfamily, mostly mono. The documentation is the marketing, so the marketing dresses like documentation."
+        },
+        "visualIdentityIdeas": [
+          "Homepage as a live terminal: paste a document URL, watch JSON stream back",
+          "The quarterly 'worst documents' benchmark report as a plain, ruled PDF",
+          "Scan-line animation as the only motion in the entire brand",
+          "Field-confidence heatmap renders as the sole product imagery",
+          "Stickers of the scan-line mark, nothing else, in one color"
+        ]
+      },
+      {
+        "brandName": "Airgap",
+        "tagline": "Works with the Wi-Fi off.",
+        "brandDescription": "Airgap is an on-device inference toolkit whose entire pitch fits in a gesture: unplug the router, and everything still works. It packages small open-weight models, hardware-aware quantization, and a local runtime into an SDK that lets product teams ship AI features that never send a byte anywhere. Airgap's demo has been the same since day one — a laptop in airplane mode, running the product, all of it.",
+        "brandNameRationale": "An air gap is the security engineer's oldest and bluntest control: a machine physically disconnected from any network, used for decades to protect weapons systems, election infrastructure, and newsroom sources. The name states the architecture as a fact — the strongest privacy claim is the absence of a wire.",
+        "industrySummary": "On-device AI reached escape velocity in 2025: NPU-equipped laptops and phones became the default sales SKU, Apple and Google normalized local-first AI features, and sub-8B open models crossed the good-enough line for summarization, extraction, and drafting. The developer layer consolidated around runtimes like Ollama and llama.cpp while a startup tier emerged to solve packaging, quantization, and fleet updates for commercial products. Into 2026, battery, thermals, and model-update logistics — not raw capability — are the engineering frontier, and 'no data leaves the device' is shifting from feature to procurement requirement in health, legal, and defense.",
+        "competitorLandscape": "Ollama (ollama.com) is the beloved local-model runtime for developers. Nexa AI (nexa.ai) ships on-device multimodal inference SDKs across NPU hardware. Edge Impulse (edgeimpulse.com) owns embedded ML tooling for sensor and industrial devices. Airgap differs by selling the guarantee rather than the runtime: a certification harness proves an app makes zero network calls during inference, and that proof is the product's front page.",
+        "positioningStatement": "AI features that provably never phone home.",
+        "positioningRationale": "Every vendor says 'private'; almost none can hand a buyer a network capture proving it. Making the zero-egress proof the product converts a compliance headache into a one-line security review, and it stakes out ground cloud-first vendors structurally cannot follow.",
+        "targetAudience": {
+          "primary": "Product engineers and CTOs building for people who cannot upload: clinicians with patient notes, lawyers with privileged documents, journalists with sources, field teams beyond connectivity. They have prototyped with a local runtime, hit the wall on packaging and updates, and need an answer their security reviewer can verify rather than trust.",
+          "behaviors": [
+            "Run Wireshark during vendor demos",
+            "Ship to hardware fleets with strict thermal and battery budgets",
+            "Track tokens-per-second-per-watt on named chips",
+            "Treat every cloud dependency as a procurement delay"
+          ],
+          "motivations": [
+            "Pass security review with a packet capture instead of a promise",
+            "Ship AI features usable in a basement, a courtroom, a war zone",
+            "Stop paying per token for inference the user's chip can do free"
+          ]
+        },
+        "mission": "Make the private, disconnected path the easiest way to ship AI features.",
+        "vision": "Inference becomes like the calculator: local, instant, and nobody's business.",
+        "coreValues": [
+          "Zero egress, provably",
+          "The user's hardware is the datacenter",
+          "Small models, well fitted",
+          "Claims you can packet-capture"
+        ],
+        "brandPersonalityTraits": [
+          "Stubborn",
+          "Private",
+          "Engineering-plain",
+          "Trustworthy"
+        ],
+        "manifesto": "The cloud is someone else's computer, and your users know it. We build for the moment the Wi-Fi dies and the product keeps working — because nothing left the machine in the first place. No telemetry. No 'anonymized' anything. No asterisk. If a byte leaves the device during inference, that is not a caveat, it is a bug, and we will treat it like one. Unplug the router. Watch it run.",
+        "messagingPillars": [
+          {
+            "name": "The unplugged demo",
+            "description": "Every claim is demonstrated in airplane mode. If it needs a connection, it is not in the product."
+          },
+          {
+            "name": "Zero-egress certification",
+            "description": "A test harness that proves an app makes no network calls during inference — a report security teams accept in place of weeks of review."
+          },
+          {
+            "name": "Fitted to the silicon",
+            "description": "Quantization and runtime tuning per chip family, with published tokens-per-watt numbers. The hardware in the room is enough."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Demonstrate before describing",
+            "Name chips, watts, and tokens per second",
+            "State the privacy claim in one falsifiable sentence",
+            "Keep copy short enough to read on a small screen"
+          ],
+          "donts": [
+            "No cloud-hybrid hedging in the core story",
+            "No abstract 'privacy-first' badges without the capture",
+            "No model-size bravado",
+            "No network diagrams — the point is the absence of one"
+          ]
+        },
+        "logoDirection": "A wordmark in a compact grotesque with a literal gap splitting the word: AIR GAP set as two blocks separated by a precise square of empty space. The gap is the mark — the favicon is two bars with the void between them.",
+        "colorPalette": [
+          {
+            "name": "Offline Black",
+            "hex": "#1A1B1E",
+            "meaning": "The machine, self-sufficient.",
+            "usage": "Primary surfaces, wordmark"
+          },
+          {
+            "name": "Paper White",
+            "hex": "#F6F5F1",
+            "meaning": "The gap; the absence.",
+            "usage": "Backgrounds, the void in the mark"
+          },
+          {
+            "name": "Local Green",
+            "hex": "#3B9E6A",
+            "meaning": "Running, on-device, now.",
+            "usage": "Status accent, benchmarks"
+          },
+          {
+            "name": "Copper Trace",
+            "hex": "#B0713A",
+            "meaning": "The circuit board doing the work.",
+            "usage": "Secondary accent, diagrams"
+          }
+        ],
+        "typography": {
+          "primary": "Space Grotesk for wordmark and headlines",
+          "secondary": "JetBrains Mono for benchmarks, configs, and capture logs",
+          "rationale": "A grotesque with technical character for the brand voice; a developer mono for evidence. Both render crisply on the low-power screens the product actually ships to."
+        },
+        "visualIdentityIdeas": [
+          "Hero video: a router being unplugged, product keeps running, no cut",
+          "Zero-egress certificates designed like electrical inspection tags",
+          "Benchmarks published per chip as printable spec cards",
+          "Physical demo kit: a laptop in a Faraday sleeve at every conference booth",
+          "The gap motif as layout system — every page built around one deliberate empty square"
+        ]
+      },
+      {
+        "brandName": "points",
+        "tagline": "Sixty lines of YAML between you and every model.",
+        "brandDescription": "points is a model router that fits in a config file. Declare your routes — by cost ceiling, latency budget, capability tag, or fallback chain — and points steers every request to the right model across providers, with the whole policy versioned in git next to your code. There is no console to learn and no platform to adopt: points is the small, inspectable piece of infrastructure between your app and a volatile model market.",
+        "scope": "A routing engine, a schema-validated config format, and per-route metrics. Self-hosted or managed, identical behavior in both. Provider integrations ship weekly; the config format changes almost never.",
+        "brandNameRationale": "On the railways, points are the switches — the humble trackside mechanism that steers a train from one line to another, standardized in Britain since the 1840s. The name claims the smallest possible job description: everything arrives, the points decide the track, nothing else happens.",
+        "industrySummary": "The model-gateway layer hardened into real infrastructure through 2025 as teams confronted a market where prices and capabilities reshuffle monthly and new frontier releases land weekly. OpenRouter's traffic growth made multi-model routing mainstream for developers, while enterprises adopted gateways for failover, governance, and spend control across providers. Into 2026 the layer is bifurcating: heavyweight platforms bundling observability and guardrails, versus minimal routers competing on latency overhead, transparency, and not becoming another vendor to govern.",
+        "competitorLandscape": "OpenRouter (openrouter.ai) is the hosted multi-model marketplace and router for developers. Portkey (portkey.ai) sells the enterprise AI gateway with governance and observability bundled. LiteLLM (litellm.ai) provides the open-source proxy standardizing a hundred-plus providers behind one API. points differs by treating the config file as the entire product surface — git-versioned routing policy, sub-millisecond overhead, and a deliberate refusal to grow a dashboard-shaped platform.",
+        "positioningStatement": "The model router small enough to read.",
+        "positioningRationale": "Routing sits on the hottest path in an AI product, and teams are rightly suspicious of fat middleware they cannot audit there. A router whose entire behavior is legible in one config file — and whose overhead is published per release — wins the trust of exactly the engineers who reject platforms.",
+        "targetAudience": {
+          "primary": "Infrastructure-minded engineers at AI products doing real volume — the people who own the API bill and the pager. Behaviorally, they are config-file people: they want routing policy in code review, not in a vendor console, and they will read the source before they trust the hot path.",
+          "behaviors": [
+            "Review every infrastructure change as a pull request",
+            "Benchmark gateway overhead before adopting anything",
+            "Maintain fallback chains for provider outages",
+            "Switch default models within days of a better price-capability point"
+          ],
+          "motivations": [
+            "Exploit model-market volatility instead of suffering it",
+            "Keep routing policy auditable, versioned, and reviewable",
+            "Add zero perceptible latency and zero new dashboards"
+          ]
+        },
+        "mission": "Keep the path between application and model short, legible, and under the engineer's control.",
+        "vision": "Model choice becomes a config change — reviewed, merged, and reversible in minutes.",
+        "coreValues": [
+          "Small surface",
+          "Legibility over features",
+          "The hot path is sacred",
+          "Config is code"
+        ],
+        "brandPersonalityTraits": [
+          "Spare",
+          "Exact",
+          "Unflashy",
+          "Trustworthy"
+        ],
+        "messagingPillars": [
+          {
+            "name": "The whole policy in one file",
+            "description": "Routes, budgets, and fallbacks declared in schema-validated YAML that lives in git. Your routing history is your commit history."
+          },
+          {
+            "name": "Overhead, published",
+            "description": "Added latency measured and published per release, in microseconds. The router that slows the hot path has failed at its one job."
+          },
+          {
+            "name": "No platform ambitions",
+            "description": "points will not grow prompts, evals, or guardrails. It switches tracks. Other tools are welcome on either side of it."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Show the config before the prose",
+            "Quote overhead in microseconds with methodology",
+            "Write release notes as diffs with commentary",
+            "Use lowercase 'points' everywhere, including sentence starts"
+          ],
+          "donts": [
+            "No 'control plane' or 'command center' language",
+            "No feature announcements outside routing",
+            "No dashboard screenshots as hero images",
+            "No superlatives"
+          ]
+        },
+        "logoDirection": "The word points set lowercase in a medium-weight mono, with the mark drawn from a track diagram: two thin parallel lines diverging at a switch, one route rendered solid, one dotted. The switch glyph doubles as the loading indicator in CLI output.",
+        "colorPalette": [
+          {
+            "name": "Ballast Grey",
+            "hex": "#33363A",
+            "meaning": "The track bed; infrastructure underfoot.",
+            "usage": "Primary type, surfaces"
+          },
+          {
+            "name": "Signal White",
+            "hex": "#F4F4F2",
+            "meaning": "Clear line ahead.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Route Green",
+            "hex": "#2E8B57",
+            "meaning": "The set route; the chosen track.",
+            "usage": "Active routes, single accent"
+          },
+          {
+            "name": "Junction Amber",
+            "hex": "#D69A2D",
+            "meaning": "Fallback engaged.",
+            "usage": "Fallback and degraded states only"
+          }
+        ],
+        "typography": {
+          "primary": "Recursive Mono for wordmark, headings, and config samples",
+          "secondary": "Recursive Sans for body text",
+          "rationale": "One variable family spanning mono and sans keeps the system to a single dependency — the typographic equivalent of the product's philosophy."
+        },
+        "visualIdentityIdeas": [
+          "Documentation styled as an annotated config file, comments as the prose",
+          "Track-diagram route visualizations as the only illustration style",
+          "Per-release overhead numbers displayed like station departure boards",
+          "A printed one-page 'switching manual' as conference handout",
+          "Terminal-first brand: the demo is asciinema, never a screen recording of a browser"
+        ]
+      },
+      {
+        "brandName": "Jig",
+        "tagline": "The model can't miss.",
+        "brandDescription": "Jig is a structured-output engine that makes malformed model responses impossible rather than unlikely: constrained decoding locked to your schema, so every response parses, every enum is legal, and every tool call is well-formed — guaranteed at generation time, not patched after. Jig ships as a drop-in layer over open-weight and API models, and its pricing carries the guarantee: output that fails your schema is free.",
+        "scope": "Schema-constrained generation for JSON, SQL, and typed function calls; validation-aware retries for API models where hard constraints aren't possible; conformance reports per schema version. Jig stays a layer — it does not host models or opine on prompts.",
+        "brandNameRationale": "In a machine shop, a jig is the fixture that holds the workpiece and guides the tool so the cut physically cannot wander — the craft's oldest answer to human error, predating quality control by centuries. The name promises the same mechanism for model output: correctness by fixture, not by inspection.",
+        "industrySummary": "Structured output went from workaround to battleground in 2025: providers shipped native JSON modes and strict function calling, yet production teams kept discovering the tail — the 0.4% of malformed responses that break agent loops at scale. Constrained-decoding research matured into commercial tooling through .txt's Outlines and the typed-prompting wave led by BAML, while agentic adoption made tool-call validity a reliability metric CFOs hear about. Into 2026, the question is who owns the reliability layer: model providers bundling it imperfectly, or specialists guaranteeing it.",
+        "competitorLandscape": "BoundaryML (boundaryml.com) makes BAML, the typed language for structured LLM outputs. .txt (dottxt.co) commercializes Outlines, the constrained-generation library. Guardrails AI (guardrailsai.com) validates and corrects LLM outputs against specs at runtime. Jig differs on the guarantee: schema conformance is contractual — non-conforming output is not billed — which no validation-after-the-fact vendor can offer.",
+        "positioningStatement": "Structured output with a machinist's guarantee: if it doesn't fit the fixture, you don't pay for the part.",
+        "positioningRationale": "Reliability products are bought on trust, and nothing builds trust like a vendor with skin in the failure mode. The refund guarantee is only rational for whoever genuinely solved the problem at the decoding layer — making the pricing itself the proof.",
+        "targetAudience": {
+          "primary": "Engineers who found the 0.4%: platform and product engineers running agents, ETL, or codegen where one malformed response corrupts a pipeline or strands a customer. They have written three JSON-repair functions they are ashamed of, they log parse failures as incidents, and they would rather buy a fixture than keep sanding parts.",
+          "behaviors": [
+            "Track parse-failure rates as a first-class reliability metric",
+            "Pin schema versions and test against them in CI",
+            "Prefer decoding-level guarantees over retry loops",
+            "Read implementation details before believing any 'guaranteed' claim"
+          ],
+          "motivations": [
+            "Delete the repair-and-retry code forever",
+            "Make tool-call validity a solved, boring problem",
+            "Hold a vendor financially accountable for correctness"
+          ]
+        },
+        "mission": "Make malformed model output an engineering impossibility, not an accepted cost.",
+        "vision": "Schemas become the contract every model honors by construction.",
+        "coreValues": [
+          "Fixture over inspection",
+          "Guarantees with money behind them",
+          "Layer, not platform",
+          "The tail is the product"
+        ],
+        "brandPersonalityTraits": [
+          "Precise",
+          "Understated",
+          "Craftsmanlike",
+          "Accountable"
+        ],
+        "story": "Jig's founder grew up sweeping his grandfather's tool-and-die shop in Rockford, Illinois, where he learned the trade's first rule: never blame the operator for what the fixture should have prevented. Twenty years later, debugging an agent pipeline at 2 a.m. over one unescaped quote in a tool call, he recognized the situation exactly — an operator being blamed for a missing jig. He built the fixture: decoding constrained so the bad part cannot be cut. The refund guarantee was his grandfather's suggestion, offered without looking up from the lathe: 'If the part doesn't fit, you don't invoice for it.'",
+        "messagingPillars": [
+          {
+            "name": "Correct by construction",
+            "description": "Constraints applied at decoding time make invalid output unrepresentable. Not caught — impossible."
+          },
+          {
+            "name": "The refund guarantee",
+            "description": "Output that fails your schema is free, contractually. The pricing is the proof of the engineering."
+          },
+          {
+            "name": "The 0.4% story",
+            "description": "Marketing built on tail-failure math: what one malformed response per 250 costs at production scale, and what zero costs."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Lead with failure-rate arithmetic",
+            "Use machine-shop vocabulary accurately and sparingly",
+            "State the guarantee in contract language",
+            "Show the schema and the conforming output, unedited"
+          ],
+          "donts": [
+            "No 'magic' or 'just works' framing — explain the mechanism",
+            "No hedged guarantees with asterisks",
+            "No platform roadmap talk",
+            "No dunking on model providers"
+          ]
+        },
+        "logoDirection": "A wordmark in a sturdy slab-adjacent grotesque where the J's descender squares off like a clamp arm. Mark: a square bracket pair drawn as machined fixtures gripping a small circle — the part, held. Works at favicon size as the bracket pair alone.",
+        "colorPalette": [
+          {
+            "name": "Shop Floor Grey",
+            "hex": "#494D52",
+            "meaning": "The machine shop; work happening.",
+            "usage": "Primary surfaces"
+          },
+          {
+            "name": "Blueprint White",
+            "hex": "#F2F3EF",
+            "meaning": "The drawing the part must match.",
+            "usage": "Backgrounds, docs"
+          },
+          {
+            "name": "Fixture Blue",
+            "hex": "#2F5D9E",
+            "meaning": "The jig itself; layout-dye blue.",
+            "usage": "Brand accent, diagrams, CTAs"
+          },
+          {
+            "name": "Brass Shaving",
+            "hex": "#C0913E",
+            "meaning": "Evidence of work done true.",
+            "usage": "Small accents, guarantee seal"
+          },
+          {
+            "name": "Conformance Green",
+            "hex": "#358A5D",
+            "meaning": "The part passed the gauge.",
+            "usage": "Validation states"
+          }
+        ],
+        "typography": {
+          "primary": "Roboto Slab for headlines and the wordmark's register",
+          "secondary": "Fira Code for schemas, outputs, and contracts-as-code samples",
+          "rationale": "A slab with tool-bench sturdiness against a code face with ligature precision — drawing office and shop floor, the two rooms the brand lives in."
+        },
+        "visualIdentityIdeas": [
+          "Guarantee seal designed like a machinist's inspection stamp, applied to invoices and reports",
+          "Schema-and-output pairs displayed like engineering drawing and finished part",
+          "Conformance reports formatted as go/no-go gauge sheets",
+          "A physical machined aluminum bracket-pair paperweight for customers past one billion conforming outputs",
+          "Tail-failure calculator as the site's interactive centerpiece"
+        ]
       }
     ],
     "Corporate": [
@@ -950,6 +2313,471 @@
           "secondary": "GT America Mono for KPIs and tables",
           "rationale": "GT America is the institutional Swiss benchmark. Mono carries the metrics."
         }
+      },
+      {
+        "brandName": "Second Signature Systems",
+        "tagline": "No change ships on one opinion.",
+        "brandDescription": "Second Signature Systems delivers AI code review as a governed control, built for enterprises where the four-eyes principle is policy rather than preference. Its review engine examines every merge for correctness, security, and standards drift, then countersigns with an auditable record — reviewer rationale, evidence, and disposition — that risk and compliance teams can produce on demand. Second Signature Systems sells to engineering and risk leadership together, because in regulated software those are now the same conversation.",
+        "scope": "The platform covers AI review of pull requests, policy-as-code enforcement, audit-ready review records, and provenance tracking for AI-generated code. Deployment is self-hosted or private cloud; the review record format is exportable and vendor-neutral by design.",
+        "brandNameRationale": "The countersignature — a second authorized signature required to give an instrument force — is a control as old as banking itself, formalized in the four-eyes principle that governs payments, treasuries, and defense systems worldwide. The name places code review in that lineage: not a courtesy between colleagues, but a control the institution can prove.",
+        "industrySummary": "AI-generated code volume overwhelmed human review capacity through 2025, making review — not writing — the software bottleneck, and turning AI code review into one of the fastest-scaling developer-tool categories, with CodeRabbit reporting millions of repositories under review. Simultaneously, regulators and auditors began asking how AI-written changes are governed: DORA in European finance, SEC cyber-disclosure rules, and internal SOX controls all reach into the merge queue. Into 2026, the enterprise question is shifting from 'does AI review catch bugs' to 'can we evidence our change controls when half the diff was machine-written'.",
+        "competitorLandscape": "CodeRabbit (coderabbit.ai) leads AI pull-request review by adoption across the market. Greptile (greptile.com) sells codebase-aware AI review to engineering teams. Qodo (qodo.ai) covers AI code integrity across generation, testing, and review. Second Signature Systems differs by anchoring in the control function: audit-grade review records, policy enforcement, and risk-officer reporting, sold as governance infrastructure rather than developer productivity.",
+        "positioningStatement": "The AI reviewer whose opinion stands up in an audit.",
+        "positioningRationale": "Productivity-positioned review tools compete on developer delight, a crowded and fickle axis; control-positioned review competes on evidentiary quality, where budgets are compliance-driven and churn is rare. As AI authorship of code approaches the majority, the institution that must attest to its change controls becomes the natural economic buyer.",
+        "targetAudience": {
+          "primary": "VPs of engineering, CISOs, and heads of technology risk at banks, insurers, healthcare platforms, and government suppliers — organizations with change-management obligations written into regulation or contracts. They operate at 200 to 20,000 engineers, already run mandatory human review, and are being asked by auditors how machine-written code enters production.",
+          "behaviors": [
+            "Map engineering controls to frameworks like SOX, DORA, and ISO 27001",
+            "Face annual external audits that sample change records",
+            "Require provenance tracking for AI-generated code",
+            "Procure through security review, legal, and multi-year contracts"
+          ],
+          "motivations": [
+            "Evidence change control without slowing delivery",
+            "Absorb AI-scale code volume with governed review capacity",
+            "Answer the auditor's AI question with a report, not a meeting"
+          ]
+        },
+        "mission": "To make every change to critical software carry a second signature the institution can stand behind.",
+        "vision": "Machine-speed software delivery with bank-grade change control, everywhere software carries obligation.",
+        "coreValues": [
+          "Evidence over assertion",
+          "Four eyes, always",
+          "Governed speed",
+          "Neutral records — the audit trail belongs to the client"
+        ],
+        "brandPersonalityTraits": [
+          "Authoritative",
+          "Methodical",
+          "Sober",
+          "Dependable"
+        ],
+        "messagingPillars": [
+          {
+            "name": "Review as a control",
+            "description": "Every merge is examined against explicit policy and countersigned with rationale and evidence. The review record is designed for the auditor as much as the author."
+          },
+          {
+            "name": "Provenance for the AI era",
+            "description": "Machine-written and human-written code are tracked, labeled, and governed distinctly. The institution always knows who — or what — wrote what runs in production."
+          },
+          {
+            "name": "Sold to the pair",
+            "description": "Engineering leadership gets throughput; risk leadership gets evidence. One platform serves both mandates without translation."
+          },
+          {
+            "name": "Audit-day readiness",
+            "description": "Exportable, framework-mapped review records reduce audit sampling exercises from weeks to hours."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use control-framework vocabulary precisely",
+            "Quantify review coverage and evidence completeness",
+            "Address the CISO and the VP of engineering in the same sentence",
+            "Publish the record schema openly"
+          ],
+          "donts": [
+            "No developer-meme marketing",
+            "No '10x velocity' claims",
+            "No fear-based compliance messaging",
+            "No claims of replacing human accountability"
+          ]
+        },
+        "logoDirection": "A wordmark in a confident humanist grotesque, paired with a mark of two interlocking check strokes forming an S — the double sign-off. The mark holds at document-stamp scale and renders as the countersignature glyph inside the product's review records.",
+        "colorPalette": [
+          {
+            "name": "Charter Navy",
+            "hex": "#14273D",
+            "meaning": "The institution; obligations honored.",
+            "usage": "Primary surfaces, wordmark"
+          },
+          {
+            "name": "Document White",
+            "hex": "#F5F6F4",
+            "meaning": "The record, legible.",
+            "usage": "Backgrounds, reports"
+          },
+          {
+            "name": "Countersign Teal",
+            "hex": "#1F7A6D",
+            "meaning": "The second signature applied.",
+            "usage": "Approval states, primary accent"
+          },
+          {
+            "name": "Ledger Grey",
+            "hex": "#6B7480",
+            "meaning": "The supporting evidence.",
+            "usage": "Secondary type, tables"
+          },
+          {
+            "name": "Exception Amber",
+            "hex": "#C98A2B",
+            "meaning": "A flagged deviation, dispositioned.",
+            "usage": "Policy-exception indicators only"
+          }
+        ],
+        "typography": {
+          "primary": "Söhne for headlines, product, and reports",
+          "secondary": "Söhne Mono for diffs, record IDs, and evidence excerpts",
+          "rationale": "One disciplined family across prose and code keeps review records coherent from boardroom PDF to terminal output — the consistency itself signaling control."
+        },
+        "visualIdentityIdeas": [
+          "Review records rendered as formal countersigned instruments with dual signature blocks",
+          "A public, versioned record schema published like a standards document",
+          "Framework-mapping matrices (SOX/DORA/ISO) as flagship sales collateral",
+          "The double-check mark used as a stamp motif across contracts and slides",
+          "Annual 'State of Change Control' report as the category-defining research artifact"
+        ]
+      },
+      {
+        "brandName": "Bellwether Assurance Group",
+        "tagline": "The model audit, signed.",
+        "brandDescription": "Bellwether Assurance Group is an AI model-audit firm that issues formal assurance opinions on production AI systems — unqualified, qualified, or adverse — the way statutory auditors opine on financial statements. Engagements test models against documented intended use: bias and robustness testing, data-lineage verification, and control review, concluding in a signed opinion letter boards can rely on and regulators recognize. Bellwether Assurance Group does not build, sell, or remediate AI systems; assurance independence is the entire franchise.",
+        "scope": "Services cover conformity assessment against the EU AI Act and ISO/IEC 42001, model-risk audits under SR 11-7-style frameworks, and annual assurance programs for deployed high-risk systems. The firm maintains a public methodology register and submits its own procedures to external peer review.",
+        "brandNameRationale": "The bellwether is the belled ram that leads the flock — shepherd's practice since medieval England — and the word became the term of art for the trusted leading indicator in markets and in law, where bellwether trials test how a mass of cases will resolve. The name claims that function: the audit whose verdict tells the market what follows.",
+        "industrySummary": "AI assurance moved from white paper to obligation in 2025-26: the EU AI Act's general-purpose provisions took effect in August 2025 with high-risk system requirements following in 2026, ISO/IEC 42001 certification demand accelerated, and Colorado's AI Act plus sectoral regulators pushed impact assessments into ordinary procurement. The Big Four are assembling AI-audit practices while a specialist tier — Credo AI, Holistic AI, Babl AI — defines the working methods. The unresolved question of 2026 is whose opinion counts: platforms sell continuous monitoring, but boards and insurers increasingly want a signed, independent verdict.",
+        "competitorLandscape": "Credo AI (credo.ai) leads AI-governance software for policy-to-evidence workflows. Holistic AI (holisticai.com) provides AI risk management and audit services to enterprises. Monitaur (monitaur.ai) covers model governance and assurance for insurers and regulated industries. Bellwether Assurance Group differs as a pure opinion firm: no governance software to sell, no remediation consulting to upsell — only the audit, the methodology register, and the signature.",
+        "positioningStatement": "The independent opinion on AI systems that boards cite by name.",
+        "positioningRationale": "Governance platforms generate evidence, but evidence without independent judgment is homework without a grade; the scarce product is a verdict someone stakes a professional reputation on. Refusing all adjacent revenue makes independence structural rather than promised — the same architecture that made statutory audit an institution.",
+        "targetAudience": {
+          "primary": "Audit-committee chairs, chief risk officers, and general counsel at insurers, banks, healthcare systems, and public agencies deploying high-risk AI — plus the D&O insurers and regulators who read what they commission. Professionally, they live in three-lines-of-defense structures and will not present an internal dashboard to a supervisor when a signed external opinion exists.",
+          "behaviors": [
+            "Commission independent assurance for every material risk domain",
+            "Brief boards quarterly on model-risk posture",
+            "Map obligations across the EU AI Act, ISO 42001, and sector rules",
+            "Select assurance providers on methodology and standing, not price"
+          ],
+          "motivations": [
+            "Carry a defensible, citable opinion into regulatory examinations",
+            "Discharge board-level AI oversight duties with recognized evidence",
+            "Identify model failures before supervisors or plaintiffs do"
+          ]
+        },
+        "mission": "To give AI systems the institution of independent audit: tested against stated intent, judged without conflict, signed without hedging.",
+        "vision": "No consequential AI system operates without an independent opinion — and the opinion means something.",
+        "coreValues": [
+          "Independence, structurally enforced",
+          "Methodology in public",
+          "Judgment, signed",
+          "The flock follows evidence"
+        ],
+        "brandPersonalityTraits": [
+          "Impartial",
+          "Rigorous",
+          "Institutional",
+          "Unswayed"
+        ],
+        "manifesto": "Every AI vendor grades itself generously; every dashboard glows green for whoever bought it. An opinion is different. An opinion has a name under it, a methodology behind it, and consequences attached. We audit models against what their owners claim they do, we publish how we test, and we sign what we find — favorable or not. We sell nothing else, so nothing else can bend the verdict. The bell rings; the market listens.",
+        "messagingPillars": [
+          {
+            "name": "The signed opinion",
+            "description": "Engagements conclude in a formal opinion letter — unqualified, qualified, or adverse — written to be cited in board minutes and regulatory filings."
+          },
+          {
+            "name": "Nothing else for sale",
+            "description": "No software, no remediation, no consulting. Structural independence is the product's active ingredient."
+          },
+          {
+            "name": "Public methodology",
+            "description": "Test procedures live in a versioned public register and undergo external peer review. The firm is auditable by the same standard it applies."
+          },
+          {
+            "name": "Built for the frameworks",
+            "description": "Opinions map to the EU AI Act, ISO/IEC 42001, and model-risk guidance, so one engagement serves multiple obligations."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write in the measured register of an audit report",
+            "Distinguish findings, opinions, and recommendations scrupulously",
+            "Cite frameworks by article and clause",
+            "Publish adverse-opinion statistics annually"
+          ],
+          "donts": [
+            "No AI-hype vocabulary in any direction, boosterish or doomer",
+            "No client outcomes as marketing",
+            "No 'partnership' language — auditors have clients, not partners",
+            "No confidence claims beyond the tested scope"
+          ]
+        },
+        "logoDirection": "A wordmark in a transitional serif with institutional weight, accompanied by a small bell device drawn in a single engraved line, its clapper a solid dot — the mark of the ringing verdict. Used on opinion letterhead at seal scale.",
+        "colorPalette": [
+          {
+            "name": "Opinion Ink",
+            "hex": "#1D2433",
+            "meaning": "The signature that binds.",
+            "usage": "Type, wordmark, letterhead"
+          },
+          {
+            "name": "Report Stock",
+            "hex": "#F4F1E8",
+            "meaning": "The document of record.",
+            "usage": "Backgrounds, reports"
+          },
+          {
+            "name": "Bell Bronze",
+            "hex": "#96712F",
+            "meaning": "The bell itself; the leading signal.",
+            "usage": "Seal, accents, cover rules"
+          },
+          {
+            "name": "Qualified Slate",
+            "hex": "#5D6673",
+            "meaning": "Findings stated without color.",
+            "usage": "Tables, secondary type"
+          },
+          {
+            "name": "Adverse Oxblood",
+            "hex": "#6E2B2E",
+            "meaning": "The verdict no one wanted, delivered anyway.",
+            "usage": "Adverse findings, used sparingly and never decoratively"
+          }
+        ],
+        "typography": {
+          "primary": "Tiempos Text for reports, opinions, and headlines",
+          "secondary": "Graphik for the firm's site and presentation material",
+          "rationale": "A contemporary text serif carries the gravity of the opinion; a neutral grotesque handles everything that is not the opinion. The hierarchy mirrors the firm: the signed document is the product, all else is furniture."
+        },
+        "visualIdentityIdeas": [
+          "Opinion letters with engraved bell seal, wet-ink signature, and numbered methodology citations",
+          "The public methodology register designed like a standards body's document library",
+          "Annual 'Adverse Opinions Report' publishing anonymized failure statistics as the firm's flagship publication",
+          "Engagement certificates suitable for audit-committee papers",
+          "Office and collateral system borrowed from audit tradition: buff folders, red verdict tabs, numbered copies"
+        ]
+      },
+      {
+        "brandName": "Turnpike Group",
+        "tagline": "Every token passes a gate.",
+        "brandDescription": "Turnpike Group is an AI cost-management platform that puts a tollgate on every model call: metering, allocation, and chargeback for token spend across providers, teams, and products, reported in the language of the CFO rather than the console. It reconciles provider invoices against observed usage, prices every feature's AI cost per unit of business value, and turns model spend from an unallocated cloud line into a governed operating cost. Turnpike Group exists because AI became a board-level expense while remaining a engineering-level mystery.",
+        "scope": "The platform meters usage across major model providers and gateways, allocates cost to teams and features via tagging and traces, and produces chargeback, budget, and variance reporting integrated with cloud FinOps tooling. Advisory services cover rate-card negotiation and unit-economics modeling for AI products.",
+        "brandNameRationale": "The turnpike trusts of eighteenth-century Britain solved an unmetered-usage crisis: roads everyone used and no one paid for were rebuilt by charging at the gate, with tolls set by traffic class and receipts accounted to the trust. The name imports that discipline — usage priced at the point of passage, accounted to whoever benefits.",
+        "industrySummary": "AI spend broke enterprise budgeting through 2025: inference costs landed as unallocated cloud line items growing triple digits annually, and the FinOps Foundation formally extended its framework to AI cost scopes as practitioners reported model spend as their fastest-growing category. Token prices per model fell even as total bills rose — volume, agentic multiplication, and premium reasoning modes outran unit deflation. Into 2026, CFOs are demanding the controls cloud spend took a decade to develop: allocation, unit economics, and forecast accuracy, compressed into quarters.",
+        "competitorLandscape": "Vantage (vantage.sh) leads cloud cost management with expanding AI-spend coverage. CloudZero (cloudzero.com) sells unit-economics-focused cloud cost intelligence to engineering-led enterprises. Pay-i (pay-i.com) specializes in GenAI cost and value instrumentation for AI products. Turnpike Group differs by being AI-native rather than cloud-plus: token-level metering, agent-trace allocation, and CFO-grade chargeback as the core product, not an added tab.",
+        "positioningStatement": "The tollgate between your models and your P&L.",
+        "positioningRationale": "Cloud FinOps vendors approach AI as an extension; AI-native metering approaches it as a new cost physics — per-token pricing, cascading agent calls, cache economics — that generic tooling misprices. Owning the CFO conversation with native instrumentation positions Turnpike Group as the system of record when AI budgets formalize, which is exactly the moment enterprises stop tolerating estimates.",
+        "targetAudience": {
+          "primary": "CFOs, VPs of FinOps, and platform-engineering leaders at enterprises spending seven figures annually on model inference — SaaS companies with AI features, financial firms running agents, and retailers with AI-powered operations. Organizationally, they sit where finance meets infrastructure: accountable for a number that engineering generates and finance cannot currently explain.",
+          "behaviors": [
+            "Run monthly cloud cost reviews with engineering leadership",
+            "Negotiate committed-use contracts with model providers",
+            "Allocate shared infrastructure cost via tagging policies",
+            "Report gross-margin impact of AI features to the board"
+          ],
+          "motivations": [
+            "Explain the AI line item with the confidence of any other COGS entry",
+            "Catch runaway agent spend in hours, not at invoice",
+            "Price AI features knowing their true unit cost"
+          ]
+        },
+        "mission": "To make every unit of AI spend attributable, forecastable, and worth it.",
+        "vision": "AI cost management becomes a standard corporate discipline — with Turnpike Group as its system of record.",
+        "coreValues": [
+          "Metered, not estimated",
+          "Allocation is accountability",
+          "The CFO's language is the product's language",
+          "Receipts for everything"
+        ],
+        "brandPersonalityTraits": [
+          "Fiscal",
+          "Exacting",
+          "Pragmatic",
+          "Composed"
+        ],
+        "story": "Turnpike Group was founded by a former cloud-FinOps director and a payments-infrastructure engineer who watched the same film twice: she had spent 2015 to 2020 taming an ungoverned AWS bill, and in 2024 saw her company's AI spend repeating every pathology at five times the growth rate — unallocated, untagged, and defended by whoever spent it. Their first prototype reconciled a quarter of provider invoices and found 22% of spend attributable to a single retried agent loop nobody owned. The CFO who saw that report became their first customer, and the incident became the company's founding parable: unmetered roads ruin themselves.",
+        "messagingPillars": [
+          {
+            "name": "Token-level truth",
+            "description": "Metering reconciled against provider invoices, down to the request. The bill and the observed usage finally agree."
+          },
+          {
+            "name": "Allocation that sticks",
+            "description": "Every call attributed to a team, feature, and customer via traces and tags. Shared mystery cost becomes owned budget."
+          },
+          {
+            "name": "Unit economics for AI features",
+            "description": "Cost per conversation, per document, per resolution — married to revenue data so pricing decisions rest on margins, not vibes."
+          },
+          {
+            "name": "Controls before crisis",
+            "description": "Budgets, anomaly detection, and gate policies that catch the runaway loop on day one, not invoice day."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Speak in gross margin, COGS, and variance",
+            "Show reconciled numbers with their sources",
+            "Use the tollgate metaphor for structure, lightly",
+            "Publish an annual AI-spend benchmark report"
+          ],
+          "donts": [
+            "No AI-capability commentary — the firm prices, it does not review",
+            "No fear-of-AI-cost scaremongering",
+            "No dashboards-as-hero-image clichés",
+            "No unexplained savings claims"
+          ]
+        },
+        "logoDirection": "A wordmark in a solid transitional grotesque, with a mark of a road in plan view passing through a single gate bar — one vertical stroke crossing a horizontal path, reduced to near-abstraction. The gate bar doubles as a progress element in reports.",
+        "colorPalette": [
+          {
+            "name": "Trust Green",
+            "hex": "#24402E",
+            "meaning": "The turnpike trust's ledger; stewardship.",
+            "usage": "Primary surfaces, wordmark"
+          },
+          {
+            "name": "Milestone Stone",
+            "hex": "#EFEBE2",
+            "meaning": "The marker on the road; measured distance.",
+            "usage": "Backgrounds, reports"
+          },
+          {
+            "name": "Toll Brass",
+            "hex": "#A07D33",
+            "meaning": "Coin at the gate.",
+            "usage": "Accents, key figures"
+          },
+          {
+            "name": "Route Charcoal",
+            "hex": "#33373B",
+            "meaning": "The road itself.",
+            "usage": "Type, tables"
+          },
+          {
+            "name": "Variance Rust",
+            "hex": "#A5502F",
+            "meaning": "Spend off forecast.",
+            "usage": "Anomaly and overage indicators only"
+          }
+        ],
+        "typography": {
+          "primary": "Founders Grotesk for headlines and interface",
+          "secondary": "Tiempos Text for board reports and the annual benchmark",
+          "rationale": "A grounded grotesque for operational surfaces, a serious serif for the documents CFOs forward. Numbers set tabular everywhere — alignment is credibility in this category."
+        },
+        "visualIdentityIdeas": [
+          "Monthly statements designed like toll-road accounts: passages, classes, receipts, balance",
+          "Milestone-marker infographic system for cost-reduction case studies",
+          "The annual 'Cost of Intelligence' benchmark report as the category reference document",
+          "Gate-bar motif as chart annotation marking budget thresholds",
+          "Reconciliation reports with side-by-side invoice-versus-observed columns as the signature visual"
+        ]
+      },
+      {
+        "brandName": "Mayday Incident Group",
+        "tagline": "When the model fails, the record begins.",
+        "brandDescription": "Mayday Incident Group is an AI incident-response firm: go-teams that deploy when a production AI system harms a customer, breaches an obligation, or fails in public, and a numbered registry that turns each investigation into transferable industry knowledge. Investigations reconstruct the failure — model, data, orchestration, and human factors — and conclude in a findings report with probable cause and safety recommendations, modeled on transport-safety practice rather than PR crisis management. Mayday Incident Group exists so that AI failures get investigations instead of statements.",
+        "brandNameRationale": "Mayday — from the French m'aider — was coined as the international distress call in 1923 by Frederick Stanley Mockford, radio officer at Croydon Airport, because pilots and ground crews needed one unambiguous word that cut through noise. The name adopts aviation's founding insight: failures are survivable when the distress signal, and the investigation that follows, are standardized.",
+        "industrySummary": "AI incidents became a formal governance category in 2025-26: the EU AI Act imposes serious-incident reporting duties for high-risk systems, incident trackers documented steep year-over-year growth in recorded AI failures, and hallucination-driven lawsuits — from defamation to professional-negligence claims over fabricated citations — established that model failures now carry legal discovery. Enterprises that deployed agents in 2025 are discovering they have no postmortem discipline for probabilistic systems. The emerging market spans monitoring vendors extending into response, insurers demanding investigation evidence, and a nascent practice of independent AI-incident investigation.",
+        "competitorLandscape": "Arize AI (arize.com) leads ML observability and production monitoring for detecting failures. Fiddler AI (fiddler.ai) covers model monitoring and explainability for enterprises. WhyLabs (whylabs.ai) provides AI observability and data-quality monitoring. Mayday Incident Group differs by starting where monitoring ends: independent post-incident investigation, root-cause reconstruction, and regulator-ready findings — the practice layer none of the telemetry vendors sell.",
+        "positioningStatement": "The investigation bureau for AI failures: independent, methodical, and on a plane within twenty-four hours.",
+        "positioningRationale": "Monitoring tells you something broke; only investigation tells you why, in a form regulators, insurers, and courts accept. Transport safety proved that an independent bureau with standard methods turns individual disasters into systemic learning — and no such institution yet exists for AI, which makes the position claimable now and defensible later.",
+        "targetAudience": {
+          "primary": "Chief risk officers, general counsel, and heads of AI platform at enterprises running consequential AI systems — banks, healthcare providers, insurers, transport operators — plus the cyber-insurance carriers writing their policies. They maintain incident-response retainers for security breaches and are waking to the absence of any equivalent for the agent that misquoted a policy or the model that discriminated at scale.",
+          "behaviors": [
+            "Keep breach-response firms on retainer and run tabletop exercises",
+            "Report material incidents to regulators under statutory deadlines",
+            "Commission root-cause analyses that survive legal discovery",
+            "Update controls and playbooks after every near-miss"
+          ],
+          "motivations": [
+            "Meet AI-incident reporting obligations with defensible findings",
+            "Learn the true cause before the plaintiff's expert does",
+            "Convert failures into demonstrable control improvements for regulators and insurers"
+          ]
+        },
+        "mission": "To bring the discipline of transport-safety investigation to artificial intelligence: every serious failure investigated, every finding recorded, every lesson shared.",
+        "vision": "An industry where AI failures produce numbered reports and safer systems — not press releases and repeated mistakes.",
+        "coreValues": [
+          "Independence from every party to the failure",
+          "Method before narrative",
+          "Findings in public where law allows",
+          "Blame is not an explanation"
+        ],
+        "brandPersonalityTraits": [
+          "Unshakeable",
+          "Forensic",
+          "Direct",
+          "Institutional"
+        ],
+        "messagingPillars": [
+          {
+            "name": "The go-team",
+            "description": "A standing multidisciplinary team — ML engineers, human-factors specialists, counsel-coordinated investigators — deployable to any client incident within twenty-four hours."
+          },
+          {
+            "name": "Probable cause, published",
+            "description": "Every investigation concludes in a findings report with probable cause and recommendations, written to investigation-bureau standard and usable with regulators and insurers."
+          },
+          {
+            "name": "The registry",
+            "description": "Anonymized incidents enter a numbered public registry so the industry learns what individual firms cannot afford to teach. Contribution is a condition of engagement."
+          },
+          {
+            "name": "Readiness before the event",
+            "description": "Retainers include AI-incident playbooks, tabletop exercises, and reporting-obligation mapping — the response begins before the failure."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write like an investigation report: chronology, evidence, finding",
+            "Use aviation-safety concepts accurately — probable cause, contributing factors",
+            "State uncertainty explicitly and quantify where possible",
+            "Keep client identities absolutely protected in all material"
+          ],
+          "donts": [
+            "No sensationalizing of AI failures in any marketing",
+            "No blame language toward engineers or operators",
+            "No incident details as sales anecdotes",
+            "No speculation ahead of findings, ever, including on social channels"
+          ]
+        },
+        "logoDirection": "A wordmark in a sturdy neo-grotesque beside a mark of three radiating signal arcs above a horizon line — the distress call, sent and received. The mark inverts for the registry, where each published report carries its number inside the arc device.",
+        "colorPalette": [
+          {
+            "name": "Investigation Navy",
+            "hex": "#1B2B3C",
+            "meaning": "The bureau; method under pressure.",
+            "usage": "Primary surfaces, reports"
+          },
+          {
+            "name": "Recorder Orange",
+            "hex": "#D95B2B",
+            "meaning": "The flight recorder — built to be found.",
+            "usage": "Signature accent, the signal mark"
+          },
+          {
+            "name": "Evidence Grey",
+            "hex": "#8A9099",
+            "meaning": "Facts before interpretation.",
+            "usage": "Tables, chronologies, secondary type"
+          },
+          {
+            "name": "Report White",
+            "hex": "#F4F4F1",
+            "meaning": "The published finding.",
+            "usage": "Backgrounds, documents"
+          },
+          {
+            "name": "Finding Green",
+            "hex": "#2F6B4F",
+            "meaning": "Recommendation adopted; the system improved.",
+            "usage": "Closed-recommendation status only"
+          }
+        ],
+        "typography": {
+          "primary": "Neue Haas Grotesk for headlines, reports, and interface",
+          "secondary": "IBM Plex Serif for long-form findings and the registry",
+          "rationale": "The neo-grotesque carries bureau authority without drama; the serif gives findings the permanence of record. Both chosen for flawless rendering in PDF — the firm's real medium."
+        },
+        "visualIdentityIdeas": [
+          "Findings reports formatted to transport-safety-board conventions: numbered sections, chronology tables, probable-cause statement boxed",
+          "Registry entries with sequential designators (MIG-2026-014) rendered in the arc device",
+          "Incident chronologies as the signature infographic — one timeline, evidence-flagged",
+          "Recorder-orange document tabs and case binders for physical deliverables",
+          "Tabletop-exercise kits packaged like flight-crew checklists"
+        ]
       }
     ],
     "Creative": [
@@ -1203,6 +3031,472 @@
           "secondary": "JetBrains Mono for prompts and seeds",
           "rationale": "Mori for warmth. Mono so the prompt feels like the prompt."
         }
+      },
+      {
+        "brandName": "The Greeking Room",
+        "tagline": "We write what your model reads.",
+        "brandDescription": "The Greeking Room is a synthetic-data studio run like a writers' room: novelists, screenwriters, and domain experts on staff, generating commissioned corpora — negotiation transcripts that never happened, clinical notes for patients who never existed, customer complaints with the texture of real fury — engineered to train and evaluate models. Every corpus ships with authorship credits, generation methodology, and a clean license, because The Greeking Room believes training data is a written work, and written works have writers.",
+        "scope": "Commissions cover instruction-tuning sets, evaluation suites with adversarial narrative structure, privacy-safe synthetic twins of sensitive corpora, and long-tail scenario libraries for agent training. The studio licenses; it never scrapes, and it never resells one client's commission to another.",
+        "brandNameRationale": "Greeking is the typesetter's centuries-old trade term for placeholder text — the tradition that gave us lorem ipsum, itself scrambled from Cicero in a 1500s type shop. The name honors the craft's inside joke while reversing it: text that was once filler, now written so well it teaches machines.",
+        "industrySummary": "The data wall arrived on schedule: by 2025 frontier labs had substantially exhausted high-quality public text, triggering a spending shift toward commissioned expert data and synthetic generation — validated at the highest level when NVIDIA acquired synthetic-data pioneer Gretel in early 2025. Simultaneously, model-collapse research sharpened the case that naive self-generated data degrades quality, favoring curated, human-shaped synthetic corpora over bulk generation. Into 2026, the market is splitting between privacy-focused tabular synthesis and a premium tier of authored data for post-training, where narrative quality and edge-case coverage command expert-labor prices.",
+        "competitorLandscape": "Gretel (gretel.ai) anchors privacy-safe synthetic data generation, now under NVIDIA. Mostly AI (mostly.ai) leads synthetic tabular and structured data for enterprises. Tonic (tonic.ai) generates safe synthetic test data for engineering teams. The Greeking Room differs by operating upstream of tooling entirely: authored, narrative-grade corpora with named writers and editorial standards — a studio, not a platform.",
+        "positioningStatement": "The writers' room where training data is written, not generated.",
+        "positioningRationale": "As bulk synthesis commoditizes, the defensible tier is the one machines cannot self-supply: data with narrative intelligence — motivation, subtext, the shape of real human mess. Staffing actual writers and crediting them converts a procurement line item into an editorial product, and editorial products command editorial margins.",
+        "targetAudience": {
+          "primary": "Post-training leads, data-acquisition managers, and applied-research heads at model labs and AI-product companies who have discovered that their eval suite is fiction written by an intern at midnight. Psychographically, they are quality snobs in a volume industry: they can tell a real customer complaint from a generated one in a sentence and a half, and it bothers them that their model cannot.",
+          "behaviors": [
+            "Audit training batches by reading samples aloud in meetings",
+            "Pay expert rates for domain data no scrape can produce",
+            "Track eval-set contamination and provenance obsessively",
+            "Commission adversarial scenarios their red team hasn't imagined"
+          ],
+          "motivations": [
+            "Train on dialogue with genuine subtext and stakes",
+            "Cover the long tail of scenarios real data never captured",
+            "Buy data with a license and a provenance story that survives diligence"
+          ]
+        },
+        "mission": "To write the world's best fiction for machines — data with craft, provenance, and a byline.",
+        "vision": "Authored synthetic data becomes a recognized literary trade, and The Greeking Room is its first great house.",
+        "coreValues": [
+          "Craft over volume",
+          "Every corpus has authors, and they are named",
+          "Licensed, never scraped",
+          "The edge case is the art form"
+        ],
+        "brandPersonalityTraits": [
+          "Literary",
+          "Wry",
+          "Exacting",
+          "Slightly theatrical"
+        ],
+        "manifesto": "For five hundred years, printers filled empty pages with scrambled Cicero and called it greeking — nonsense standing in for meaning. The industry is still doing it, at scale, and calling it a dataset. We think the machines deserve better prose. So we hired the people who can write it: novelists who understand motive, playwrights who understand subtext, nurses and adjusters and traders who know what the real paperwork sounds like at 4 p.m. on a bad Friday. We write the reader a worthy education. The reader happens to be a model. The byline stays.",
+        "messagingPillars": [
+          {
+            "name": "Authored, credited, licensed",
+            "description": "Every corpus ships with its writers' names, its methodology, and a clean chain of title. Diligence takes an afternoon, not a quarter."
+          },
+          {
+            "name": "Narrative-grade quality",
+            "description": "Data written with motive, subtext, and stakes — the properties bulk generation cannot fake and models demonstrably learn from."
+          },
+          {
+            "name": "The commissioned edge case",
+            "description": "Scenario libraries built to order: the angry customer who is technically right, the contract clause that contradicts itself, the patient who lies."
+          },
+          {
+            "name": "No scraping, ever",
+            "description": "The studio's clean-hands guarantee: nothing in a Greeking Room corpus was taken from anyone. Increasingly, that is the whole purchase reason."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write marketing copy to the standard the studio sells",
+            "Credit writers by name in public work",
+            "Use publishing vocabulary — commission, edition, byline",
+            "Show real corpus excerpts with annotation"
+          ],
+          "donts": [
+            "No 'data is the new oil' economics clichés",
+            "No generation-volume boasts",
+            "No anonymous-workforce language — writers, never 'labelers'",
+            "No lorem ipsum used as actual filler anywhere, on principle"
+          ]
+        },
+        "logoDirection": "A wordmark in a literary display serif with a mark drawn from the typesetter's trade: a rectangle of horizontal greeked lines where one line resolves into legible letters — the moment filler becomes writing. The resolving line animates in digital contexts.",
+        "colorPalette": [
+          {
+            "name": "Galley Black",
+            "hex": "#211E1C",
+            "meaning": "Set type, locked in the chase.",
+            "usage": "Type, wordmark, primary surfaces"
+          },
+          {
+            "name": "Manuscript Cream",
+            "hex": "#F5F0E4",
+            "meaning": "The page awaiting the writer.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Editor Red",
+            "hex": "#C33B2E",
+            "meaning": "The pencil that makes it better.",
+            "usage": "Accents, annotations, links"
+          },
+          {
+            "name": "Composing Blue",
+            "hex": "#31527B",
+            "meaning": "The compositor's apron; trade pride.",
+            "usage": "Secondary surfaces, diagrams"
+          },
+          {
+            "name": "Foil Gold",
+            "hex": "#B08D3F",
+            "meaning": "The edition worth keeping.",
+            "usage": "Corpus-edition seals, small details"
+          }
+        ],
+        "typography": {
+          "primary": "Fraunces for wordmark and display, in its wonkier optical cuts",
+          "secondary": "Atkinson Hyperlegible for interface and annotation",
+          "rationale": "Fraunces carries old-print soul with contemporary mischief — right for a studio that jokes in typesetter's slang. The secondary face keeps working surfaces humane and readable, which is the studio's whole argument about data."
+        },
+        "visualIdentityIdeas": [
+          "Corpora delivered as numbered 'editions' with colophons listing writers, methods, and print run",
+          "Greeked-lines-resolving-to-text motif across site, decks, and title cards",
+          "A literary journal, published annually, of the studio's best synthetic scenarios with writer commentary",
+          "Writer bylines and headshots on corpus product pages, like book jackets",
+          "Proof-mark annotation system (stet, dele, caret) used as UI iconography"
+        ]
+      },
+      {
+        "brandName": "Simonides",
+        "tagline": "Give your agent somewhere to keep it.",
+        "brandDescription": "Simonides is a memory engine for AI agents built on the architecture of the memory palace: instead of a flat vector store of everything ever said, agents get structured rooms — entities, episodes, preferences, commitments — with deliberate placement, decay, and recall. What matters gets a location; what doesn't gets forgotten on schedule; what's recalled arrives with the context of where it lives. Simonides turns agents from brilliant amnesiacs into colleagues who remember why.",
+        "brandNameRationale": "Simonides of Ceos, the Greek poet, stepped out of a banquet hall moments before its roof collapsed — and identified the crushed guests by remembering where each had sat. From that catastrophe he derived the method of loci, the memory-palace technique that carried human memory for 2,500 years. The name plants agent memory in its true lineage: memory is architecture, not storage.",
+        "industrySummary": "Agent memory became the defining infrastructure race of late 2025: as agents moved from stateless chat to persistent work, teams discovered that context windows are working memory, not memory, and a specialist layer emerged — Letta from the MemGPT research line, Mem0's rapid open-source ascent, Zep's temporal knowledge graphs. The hard problems shifted from storage to editorial judgment: what to keep, what to decay, how memories compose across sessions without contradiction. Into 2026, memory is emerging as the retention moat of agent products — users stay where they are remembered — with privacy regulation shaping what remembering is allowed to mean.",
+        "competitorLandscape": "Letta (letta.com) commercializes the MemGPT research lineage for stateful agents. Mem0 (mem0.ai) drives the popular open-source memory layer for AI applications. Zep (getzep.com) builds temporal knowledge-graph memory for agent systems. Simonides differs on architecture-as-doctrine: opinionated memory rooms with placement, decay schedules, and spatially structured recall, rather than a general store the developer must curate.",
+        "positioningStatement": "The memory palace for agents: structured rooms, deliberate forgetting, recall with context.",
+        "positioningRationale": "Flat memory stores make remembering cheap and recall noisy — the exact failure the method of loci solved for humans. An opinionated spatial architecture differentiates on quality of recall rather than quantity of storage, and the 2,500-year-old brand story explains the technical thesis in one image.",
+        "targetAudience": {
+          "primary": "Agent-product engineers and founders whose users are starting to notice the amnesia — the assistant that asks for the same preference weekly, the support agent that forgets last Tuesday's escalation. Culturally, they are craft-obsessed: the kind of builders who quote research papers in design reviews and know that memory is the feature their retention curve is begging for.",
+          "behaviors": [
+            "Instrument recall precision the way others track latency",
+            "Prototype memory schemas per user persona",
+            "Debate decay policies in design docs",
+            "Choose infrastructure with strong opinions over blank canvases"
+          ],
+          "motivations": [
+            "Ship an agent users describe as 'it knows me'",
+            "Bound memory growth without lobotomizing the product",
+            "Explain to users, and regulators, exactly what is remembered and why"
+          ]
+        },
+        "mission": "To give artificial agents the architecture of memory humans spent millennia perfecting.",
+        "vision": "Agents that remember like trusted colleagues — precisely, appropriately, and with the grace to forget.",
+        "coreValues": [
+          "Architecture over accumulation",
+          "Forgetting is a feature",
+          "Recall carries context",
+          "The user can walk their own palace"
+        ],
+        "brandPersonalityTraits": [
+          "Thoughtful",
+          "Poetic",
+          "Structurally minded",
+          "Quietly ambitious"
+        ],
+        "story": "The founding team met working on a support-agent product whose most damning ticket read: 'I've told your bot about my daughter's allergy four times.' They tried bigger context windows, then bigger vector stores, and watched recall get worse as memory got larger — more hay, same needle. The turn came from an unlikely source: one founder's side-obsession with memory-sport, where competitors memorize shuffled decks using palaces built from childhood homes. Structure, placement, deliberate decay — everything the ancients knew, nothing their stack did. They rebuilt memory as rooms instead of rows, and named the company for the poet who walked out of the rubble remembering where everyone sat.",
+        "messagingPillars": [
+          {
+            "name": "Rooms, not rows",
+            "description": "Memory organized into typed spaces — entities, episodes, commitments, preferences — with placement rules. Recall searches a floor plan, not a haystack."
+          },
+          {
+            "name": "Scheduled forgetting",
+            "description": "Decay policies per memory type keep palaces relevant and bounded. What fades was designed to fade, and users can see the schedule."
+          },
+          {
+            "name": "Recall with provenance",
+            "description": "Every remembered fact arrives with where it lives, when it was placed, and what reinforced it — memory an agent can cite and a user can audit."
+          },
+          {
+            "name": "The walkable palace",
+            "description": "End users can tour, correct, and clear their agent's memory of them. Trust in memory is the product's compounding asset."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Use spatial language — rooms, placement, corridors — consistently",
+            "Cite the classical lineage accurately and briefly",
+            "Show recall-precision numbers beside every poetic claim",
+            "Write documentation with the calm of a well-organized mind"
+          ],
+          "donts": [
+            "No 'infinite memory' promises",
+            "No creepy total-recall positioning — forgetting is a selling point",
+            "No Greek-column visual clichés or toga kitsch",
+            "No memory-as-surveillance framing, ever"
+          ]
+        },
+        "logoDirection": "A wordmark in a humanist serif with classical proportions, beside a mark of a floor plan reduced to essentials: a square containing three rooms drawn in single-weight line, one door open, one small dot placed in the far room — the memory, located. The dot glows softly in animated contexts.",
+        "colorPalette": [
+          {
+            "name": "Aegean Night",
+            "hex": "#20303F",
+            "meaning": "The sea off Ceos; deep and navigable.",
+            "usage": "Primary surfaces, wordmark"
+          },
+          {
+            "name": "Fresco White",
+            "hex": "#F3EEE2",
+            "meaning": "The palace wall, ready for placement.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Terracotta",
+            "hex": "#BE6A45",
+            "meaning": "The lived-in room; warmth of the familiar.",
+            "usage": "Accents, the memory dot, CTAs"
+          },
+          {
+            "name": "Olive Stone",
+            "hex": "#7A7D5E",
+            "meaning": "What endures the seasons.",
+            "usage": "Secondary surfaces, charts"
+          },
+          {
+            "name": "Recall Gold",
+            "hex": "#C9A13B",
+            "meaning": "The found thing, exactly where it was left.",
+            "usage": "Successful-recall states, small details"
+          }
+        ],
+        "typography": {
+          "primary": "Freight Text for display and long-form writing",
+          "secondary": "Söhne for interface and documentation",
+          "rationale": "A warm scholarly serif carries the classical thesis without costume; the grotesque keeps the developer surfaces contemporary. The pairing is the product: ancient method, modern engine."
+        },
+        "visualIdentityIdeas": [
+          "Floor-plan diagrams as the house illustration style — every case study drawn as a palace map",
+          "Memory-inspector UI presented as a walkable room view, marketed with the phrase 'tour the palace'",
+          "Decay schedules visualized as frescoes gently fading in documentation",
+          "A printed 'Ars Memoriae for Machines' essay as the founding manifesto artifact for conferences",
+          "The placed-dot motif as a system: loading states, list bullets, and the favicon are all the memory dot"
+        ]
+      },
+      {
+        "brandName": "Journeyman & Daughters",
+        "tagline": "Annotation is a trade. We treat it like one.",
+        "brandDescription": "Journeyman & Daughters is a data-labeling guild: annotators are salaried craftspeople with apprenticeships, published day rates, and names that appear in the model cards their work trains. The guild takes commissions in domains where judgment is the product — medical imaging, legal reasoning, safety evaluation — and refuses piecework pricing on principle. Journeyman & Daughters exists to prove that the industry's most invisible labor is actually its scarcest skill.",
+        "scope": "Commissions cover expert annotation, RLHF and preference data, agentic task demonstration, and evaluation authoring, staffed by guild members who progress through documented apprentice-journeyman-master grades. The guild publishes its rate card, its training curriculum, and its member census annually.",
+        "brandNameRationale": "In the medieval guild system, the journeyman was the credentialed craftsman between apprentice and master — paid by the day (journée), carrying papers that proved training, free to take his skill wherever it was valued. Flipping the patriarchal '& Sons' to '& Daughters' plants the old structure in the present tense: same standards, new trade, everyone's craft counted.",
+        "industrySummary": "Data labeling's center of gravity moved decisively upmarket through 2025: Meta's $14B-scale investment in Scale AI triggered a customer exodus that scattered frontier work across Surge, Labelbox, and specialist vendors, while post-training demand shifted from bulk annotation toward expert judgment — physicians grading clinical reasoning, lawyers ranking arguments, engineers demonstrating agentic tasks. Rates for frontier-quality human data rose even as commodity labeling automated away. Into 2026, labor conditions and annotator provenance are entering procurement questionnaires, and 'who exactly produced this data' has become a diligence question with money attached.",
+        "competitorLandscape": "Surge AI (surgehq.ai) leads premium human data for frontier labs. Labelbox (labelbox.com) provides the data-factory platform and aligned workforce services. Snorkel AI (snorkel.ai) covers programmatic labeling and expert-data services for enterprises. Journeyman & Daughters differs on structure, not just quality: salaried guild employment, published rates, named credit, and a training ladder — selling provenance of labor as the product's first feature.",
+        "positioningStatement": "The labeling house where the workers have names, papers, and a rate card you can read.",
+        "positioningRationale": "As expert-data prices climb, buyers are effectively purchasing judgment from people they are never allowed to meet — an information asymmetry that provenance-minded labs increasingly refuse. Radical labor transparency converts an ethics posture into a quality argument: named, salaried, credentialed craftspeople produce better judgment than anonymous piecework, and can prove it.",
+        "targetAudience": {
+          "primary": "Data leads at frontier labs, alignment researchers, and heads of AI at clinical and legal enterprises — buyers whose diligence questions have outgrown their vendors' answers. Demographically they skew senior-technical, 30 to 50, veterans of at least one data-quality postmortem, and increasingly answerable to procurement standards on supply-chain labor.",
+          "behaviors": [
+            "Audit annotation quality with inter-rater metrics and gold sets",
+            "Pay expert premiums for domains where errors are expensive",
+            "Ask vendors who the annotators are — and get stonewalled",
+            "Cite data provenance in model cards and system cards"
+          ],
+          "motivations": [
+            "Buy judgment from people whose training they can verify",
+            "Answer labor-provenance diligence with documents, not assurances",
+            "Retain a stable bench that learns their domain over years"
+          ]
+        },
+        "mission": "To rebuild data labeling as a credentialed trade — trained, named, fairly paid, and proud of the work.",
+        "vision": "The people who teach machines are recognized as a skilled profession, with the guild as its founding institution.",
+        "coreValues": [
+          "The rate card is public",
+          "Credit where the work happened",
+          "Papers, not vibes — skill is documented",
+          "No piecework, ever"
+        ],
+        "brandPersonalityTraits": [
+          "Proud",
+          "Warm",
+          "Principled",
+          "Craft-obsessed"
+        ],
+        "story": "The guild began when its founder — a former annotation-team lead who had quietly watched her best medical labeler earn less per hour than the parking garage next door charged — was asked by a departing client where the vendor found such good clinical annotators. She realized the answer was a secret because the business model required it to be. She left, hired that labeler as employee number one at a salary with her name on a rate card, and structured the company from a book on medieval guilds her father, a stonemason, kept on the workbench. The '& Daughters' in the name is for the labeler's daughter, who asked whether teaching robots was a real job. It is now.",
+        "messagingPillars": [
+          {
+            "name": "The public rate card",
+            "description": "Day rates by grade and domain, published annually. Clients know what the work costs and workers know what they're worth — the transparency is the trust."
+          },
+          {
+            "name": "Papers and progression",
+            "description": "A documented apprentice-to-master ladder with examined credentials per domain. Buyers can audit the training behind every judgment."
+          },
+          {
+            "name": "Credit in the model card",
+            "description": "Guild members are named (or pseudonymously credited, at their choice) in the data documentation their work produces. Invisible labor, made visible."
+          },
+          {
+            "name": "Judgment domains only",
+            "description": "The guild takes commissions where expertise moves the metric — clinical, legal, safety, agentic — and declines commodity work automation should eat."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Name the craft and the craftspeople specifically",
+            "Publish numbers — rates, tenure, inter-rater agreement",
+            "Use trade vocabulary: commission, grade, papers, bench",
+            "Write with workshop warmth, not NGO solemnity"
+          ],
+          "donts": [
+            "No 'workforce solutions' language — people are members, not capacity",
+            "No poverty-porn ethics marketing",
+            "No hiding the price",
+            "No claiming craft for work the guild automates"
+          ]
+        },
+        "logoDirection": "A wordmark in a sturdy serif with the ampersand oversized and hand-cut in character, paired with a guild mark: a shield-less crest of three tools — a stylus, a caliper, and a check mark — arranged like a trade badge. Members receive the mark as an enamel pin at journeyman grade.",
+        "colorPalette": [
+          {
+            "name": "Workbench Oak",
+            "hex": "#6B4F35",
+            "meaning": "The bench where skill accumulates.",
+            "usage": "Primary brand surfaces, wordmark"
+          },
+          {
+            "name": "Apron Canvas",
+            "hex": "#F1EADC",
+            "meaning": "Work clothes; honest surfaces.",
+            "usage": "Backgrounds"
+          },
+          {
+            "name": "Guild Blue",
+            "hex": "#2E5A87",
+            "meaning": "The trade banner; collective pride.",
+            "usage": "Accents, credentials, links"
+          },
+          {
+            "name": "Stamp Red",
+            "hex": "#B03A30",
+            "meaning": "The maker's mark struck on finished work.",
+            "usage": "Credit seals, key highlights"
+          },
+          {
+            "name": "Brass Pin",
+            "hex": "#AD8B3A",
+            "meaning": "The journeyman's pin, earned.",
+            "usage": "Grade insignia, small details"
+          }
+        ],
+        "typography": {
+          "primary": "Clarendon-style slab (Sentinel) for display and the wordmark",
+          "secondary": "Inter for platform and documentation",
+          "rationale": "The Clarendon carries trade-sign heritage — the typeface of workshops and wage boards — while the neutral sans keeps working surfaces plain. Together: a union hall with excellent tooling."
+        },
+        "visualIdentityIdeas": [
+          "Annual rate card published as a beautifully typeset broadside poster",
+          "Member credentials issued as physical 'papers' — a booklet stamped at each grade examination",
+          "Model-card credit blocks designed as colophons listing guild members by grade",
+          "Enamel grade pins photographed as the brand's hero imagery instead of stock offices",
+          "The member census — tenure, grades, domains — published annually like a guild roll"
+        ]
+      },
+      {
+        "brandName": "Night Porter",
+        "tagline": "Someone's always at the desk.",
+        "brandDescription": "Night Porter is an AI support-agent company that sells the night shift instead of headcount replacement: its agents take the desk from the last human logoff to the first morning standup, resolving what they can to a documented standard and preparing immaculate handovers for what they cannot. Built on the grand-hotel tradition of the porter who fixes anything at 3 a.m. without waking the manager, Night Porter gives support teams what they actually want from AI — not their jobs, but their sleep.",
+        "brandNameRationale": "The night porter is a real and storied hotel trade — the uniformed fixer of the small hours who could produce a train ticket, a doctor, or a discreet solution before dawn, immortalized in every grand hotel's lore. The name borrows a role defined by competence without spectacle: judgment exercised quietly while the institution sleeps.",
+        "industrySummary": "AI customer support crossed from pilot to production economics in 2025: Sierra reached a reported $10B valuation on outcome-priced agents, Decagon raised at frontier multiples, and Intercom's Fin normalized per-resolution pricing — while a counter-current of brands quietly re-humanized daytime support after viral bot failures taught everyone the cost of overreach. Deflection-rate maximalism is giving way to scoped autonomy: agents owning defined territories with clean escalation. Into 2026, differentiation is shifting from raw resolution rates to trust mechanics — when the agent acts alone, and how gracefully it hands over.",
+        "competitorLandscape": "Sierra (sierra.ai) leads enterprise conversational agents with outcome-based pricing. Decagon (decagon.ai) builds AI agents for support at high-growth companies. Intercom's Fin (intercom.com/fin) owns per-resolution pricing in the support-platform mainstream. Night Porter differs by selling a bounded shift rather than a replacement thesis: full autonomy inside the night, human primacy in the day, and the handover document as the product's signature artifact.",
+        "positioningStatement": "The AI agent that takes the shift nobody wants and hands it back better than it found it.",
+        "positioningRationale": "Support leaders distrust replacement narratives because their careers are the collateral — but nobody defends the 3 a.m. queue. Scoping autonomy to the night converts AI adoption from a threat into a gift of sleep, and the morning handover creates a daily, visible proof of competence that replacement-positioned vendors can't match culturally.",
+        "targetAudience": {
+          "primary": "Heads of support and CX operations at global e-commerce, travel, and fintech companies — teams whose queues never close but whose budgets do. Emotionally, they are tired: tired of overnight staffing gymnastics, tired of Monday backlogs, tired of vendors pitching the end of their profession. They want relief with receipts.",
+          "behaviors": [
+            "Staff overnight coverage through painful timezone rotations or costly BPOs",
+            "Track first-response time SLAs that nights routinely break",
+            "Run bake-offs measuring resolution quality, not just deflection",
+            "Read agent transcripts personally after every escalation-gone-wrong"
+          ],
+          "motivations": [
+            "Close the overnight SLA gap without another BPO contract",
+            "Give daytime teams calm mornings instead of backlog archaeology",
+            "Adopt AI in a shape their team celebrates rather than survives"
+          ]
+        },
+        "mission": "To staff the world's night desks with agents worthy of the porter's tradition — capable, discreet, and gone by morning briefing.",
+        "vision": "Every support team sleeps through the night, and every customer forgets timezones exist.",
+        "coreValues": [
+          "The shift has edges — autonomy ends at dawn",
+          "Handover is the deliverable",
+          "Fix quietly, escalate honestly",
+          "The day team is the client, not the target"
+        ],
+        "brandPersonalityTraits": [
+          "Unflappable",
+          "Courteous",
+          "Nocturnal",
+          "Understated"
+        ],
+        "manifesto": "The manager sleeps. The kitchen is dark. And somewhere on the third floor, a guest needs something impossible by morning. This is the porter's hour — the oldest shift in hospitality, worked by people who fixed things without fuss and left a note at the front desk before vanishing into the daylight. We build for that hour. Our agents don't want your job; they want your worst shift. They resolve what the night brings, they know exactly what they're not entitled to decide, and they leave a handover so clean your morning coffee goes cold before you find a problem in it. Sleep. The desk is covered.",
+        "messagingPillars": [
+          {
+            "name": "Autonomy with a sunrise clause",
+            "description": "Full agent authority inside the night window, scoped policies at its edges, human primacy restored every morning. Trust is built on the boundary."
+          },
+          {
+            "name": "The morning handover",
+            "description": "A nightly document — resolutions, judgment calls, anomalies, one thing worth reading twice — formatted like the porter's note. It is the product's daily proof."
+          },
+          {
+            "name": "Fixes, not deflections",
+            "description": "Night Porter is measured on resolved-to-standard rates audited against the day team's own quality rubric, not on tickets made to disappear."
+          },
+          {
+            "name": "The quiet hours advantage",
+            "description": "Nights are the safest possible proving ground for agent autonomy — lower volume, patient customers, full review by morning. Adoption without betting the brand."
+          }
+        ],
+        "voiceAndTone": {
+          "dos": [
+            "Write with night-shift calm — short sentences, low lights",
+            "Honor the support profession explicitly in all copy",
+            "Show real handover documents as marketing",
+            "Use hotel-trade vocabulary with a light touch"
+          ],
+          "donts": [
+            "No headcount-reduction ROI math in public materials",
+            "No 'never sleeps' robot triumphalism aimed at workers",
+            "No dashboard-glow imagery — the aesthetic is lamplight, not LEDs",
+            "No promising daytime autonomy the product deliberately doesn't seek"
+          ]
+        },
+        "logoDirection": "A wordmark in a warm geometric sans with small perfect capitals, beside a mark of a single lit window in a dark building facade — one bright square in a quiet grid. The lit window is the favicon and the product's working-status indicator.",
+        "colorPalette": [
+          {
+            "name": "Lobby Midnight",
+            "hex": "#1E2433",
+            "meaning": "The hotel at 3 a.m.; calm authority.",
+            "usage": "Primary surfaces, wordmark"
+          },
+          {
+            "name": "Lamplight",
+            "hex": "#E8B54D",
+            "meaning": "The one light on; someone's at the desk.",
+            "usage": "Signature accent, the lit window, CTAs"
+          },
+          {
+            "name": "Night Air Blue",
+            "hex": "#44546B",
+            "meaning": "The quiet outside the door.",
+            "usage": "Secondary surfaces, charts"
+          },
+          {
+            "name": "Handover Ivory",
+            "hex": "#F4EFE3",
+            "meaning": "The morning note, crisp on the desk.",
+            "usage": "Documents, backgrounds"
+          },
+          {
+            "name": "Brass Bell",
+            "hex": "#9C7C40",
+            "meaning": "The front-desk bell; service heritage.",
+            "usage": "Small details, icons"
+          }
+        ],
+        "typography": {
+          "primary": "Brandon Grotesque for wordmark and display",
+          "secondary": "Charter for handover documents and long-form",
+          "rationale": "A rounded geometric with hotel-signage warmth for the brand, and a sturdy screen-native serif for the nightly note — because the handover should read like something typed by a professional at 5:55 a.m., which it is."
+        },
+        "visualIdentityIdeas": [
+          "The nightly handover styled as a hotel front-desk note: letterhead, timestamps, initialed judgment calls",
+          "Lit-window mark as a live status element — it glows only during the agent's active shift",
+          "Case studies told as 'night logs' narrating real overnight incident timelines",
+          "Do-not-disturb door hanger as onboarding mailer: 'Your queue is covered. Sleep.'",
+          "Photography direction: empty offices at night, one warm light, no people, no screens glowing blue"
+        ]
       }
     ]
   }
