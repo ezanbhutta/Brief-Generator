@@ -112,16 +112,27 @@ async function logExhaustedCell(industryKey: string, style: Style): Promise<void
 }
 
 // Brief ids that are already in the sheet — we never serve those again.
+// Paged past PostgREST's 1000-row cap so the never-repeat guarantee holds
+// no matter how large the sheet grows.
 async function fetchUsedBriefIds(): Promise<string[]> {
   const supabase = getSupabaseAdmin();
-  const { data, error } = await supabase
-    .from("assignments")
-    .select("brief_id")
-    .not("brief_id", "is", null);
-  if (error) return [];
-  return (data ?? [])
-    .map((r) => (r as { brief_id: string | null }).brief_id)
-    .filter((x): x is string => typeof x === "string" && x.length > 0);
+  const pageSize = 1000;
+  const ids: string[] = [];
+  for (let from = 0; ; from += pageSize) {
+    const { data, error } = await supabase
+      .from("assignments")
+      .select("brief_id")
+      .not("brief_id", "is", null)
+      .range(from, from + pageSize - 1);
+    if (error) return ids;
+    if (!data || data.length === 0) break;
+    for (const r of data) {
+      const id = (r as { brief_id: string | null }).brief_id;
+      if (typeof id === "string" && id.length > 0) ids.push(id);
+    }
+    if (data.length < pageSize) break;
+  }
+  return ids;
 }
 
 async function fetchOneBrief(
@@ -130,22 +141,30 @@ async function fetchOneBrief(
   excludeIds: string[],
 ): Promise<BriefRow | null> {
   const supabase = getSupabaseAdmin();
-  let query = supabase
+  // Excluding ids in the query string breaks once the sheet grows (the URL
+  // gets longer with every used brief until requests fail). Instead, fetch
+  // just the ids in this cell — cells are small — filter locally, pick one
+  // at random, and fetch that single row.
+  const { data: idRows, error: idErr } = await supabase
+    .from("briefs")
+    .select("id")
+    .eq("industry_key", industryKey)
+    .eq("style", style)
+    .range(0, 999);
+  if (idErr) throw idErr;
+  const exclude = new Set(excludeIds);
+  const candidates = (idRows ?? [])
+    .map((r) => (r as { id: string }).id)
+    .filter((id) => !exclude.has(id));
+  if (candidates.length === 0) return null;
+  const chosen = candidates[Math.floor(Math.random() * candidates.length)];
+  const { data, error } = await supabase
     .from("briefs")
     .select("id, industry_key, style, brand_name, data")
-    .eq("industry_key", industryKey)
-    .eq("style", style);
-  if (excludeIds.length > 0) {
-    query = query.not("id", "in", `(${excludeIds.map((s) => `"${s.replace(/"/g, '\\"')}"`).join(",")})`);
-  }
-  // We can't ORDER BY random() in PostgREST, so fetch the candidate set and pick.
-  // Limit to 50 rows: enough to give variety, small enough to be cheap.
-  query = query.limit(50);
-  const { data, error } = await query;
+    .eq("id", chosen)
+    .single();
   if (error) throw error;
-  if (!data || data.length === 0) return null;
-  const idx = Math.floor(Math.random() * data.length);
-  return data[idx] as BriefRow;
+  return data as BriefRow;
 }
 
 export async function pickBrief(
