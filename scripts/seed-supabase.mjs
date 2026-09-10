@@ -15,6 +15,19 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(__dirname, "..");
 const catalogDir = join(repoRoot, "data", "catalog");
 
+// Load .env.local so `npm run seed` works without exporting vars first.
+if (!process.env.SUPABASE_URL || !process.env.SUPABASE_SERVICE_ROLE_KEY) {
+  try {
+    const envFile = readFileSync(join(repoRoot, ".env.local"), "utf8");
+    for (const line of envFile.split("\n")) {
+      const m = line.match(/^\s*([A-Z0-9_]+)\s*=\s*(.*)\s*$/);
+      if (m && !process.env[m[1]]) process.env[m[1]] = m[2];
+    }
+  } catch {
+    // No .env.local — rely on the environment.
+  }
+}
+
 const url = process.env.SUPABASE_URL ?? process.env.NEXT_PUBLIC_SUPABASE_URL;
 const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
 if (!url || !key) {
