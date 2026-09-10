@@ -43,9 +43,23 @@ create index if not exists assignments_due_idx on public.assignments (due_date);
 create index if not exists assignments_created_idx on public.assignments (created_at);
 create index if not exists assignments_brief_idx on public.assignments (brief_id);
 
--- Row level security: only the service-role key (used server-side) writes.
-alter table public.briefs       enable row level security;
-alter table public.designers    enable row level security;
-alter table public.assignments  enable row level security;
+-- ─── Pending industry / exhausted-cell requests ─────────────────────
+-- Unknown keywords the user typed, and industry:style cells that ran out
+-- of unused briefs (encoded as `industry:style` in normalized).
+create table if not exists public.pending_industries (
+  id                text primary key,
+  label             text not null,
+  normalized        text not null unique,
+  request_count     int  not null default 1,
+  last_requested_at timestamptz not null default now(),
+  created_at        timestamptz not null default now()
+);
 
--- No public policies — Next.js API routes use the service role and bypass RLS.
+-- ─── Row level security ─────────────────────────────────────────────
+-- RLS is enabled with no policies: these tables are reachable only
+-- through the `pgrst` edge function, which uses the service role
+-- (bypasses RLS) and only exposes these four tables.
+alter table public.briefs             enable row level security;
+alter table public.designers          enable row level security;
+alter table public.assignments        enable row level security;
+alter table public.pending_industries enable row level security;
