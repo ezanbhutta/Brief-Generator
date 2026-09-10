@@ -46,16 +46,23 @@ async function fetchAllBriefRows(): Promise<
 
 async function fetchUsedBriefIds(): Promise<Set<string>> {
   const supabase = getSupabaseAdmin();
-  const { data, error } = await supabase
-    .from("assignments")
-    .select("brief_id")
-    .not("brief_id", "is", null);
-  if (error) return new Set();
-  return new Set(
-    (data ?? [])
-      .map((r) => (r as { brief_id: string | null }).brief_id)
-      .filter((x): x is string => typeof x === "string" && x.length > 0),
-  );
+  const pageSize = 1000;
+  const ids = new Set<string>();
+  for (let from = 0; ; from += pageSize) {
+    const { data, error } = await supabase
+      .from("assignments")
+      .select("brief_id")
+      .not("brief_id", "is", null)
+      .range(from, from + pageSize - 1);
+    if (error) return ids;
+    if (!data || data.length === 0) break;
+    for (const r of data) {
+      const id = (r as { brief_id: string | null }).brief_id;
+      if (typeof id === "string" && id.length > 0) ids.add(id);
+    }
+    if (data.length < pageSize) break;
+  }
+  return ids;
 }
 
 function emptyStyles(): Record<Style, CellCount> {

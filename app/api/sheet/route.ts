@@ -44,12 +44,21 @@ const SELECT =
 export async function GET() {
   try {
     const supabase = getSupabaseAdmin();
-    const { data, error } = await supabase
-      .from("assignments")
-      .select(SELECT)
-      .order("created_at", { ascending: true });
-    if (error) throw error;
-    return NextResponse.json({ assignments: (data ?? []).map(rowToAssignment) });
+    // Page past PostgREST's 1000-row cap so the sheet never truncates.
+    const pageSize = 1000;
+    const rows: AssignmentRow[] = [];
+    for (let from = 0; ; from += pageSize) {
+      const { data, error } = await supabase
+        .from("assignments")
+        .select(SELECT)
+        .order("created_at", { ascending: true })
+        .range(from, from + pageSize - 1);
+      if (error) throw error;
+      if (!data || data.length === 0) break;
+      rows.push(...(data as AssignmentRow[]));
+      if (data.length < pageSize) break;
+    }
+    return NextResponse.json({ assignments: rows.map(rowToAssignment) });
   } catch (err) {
     return NextResponse.json(
       { error: err instanceof Error ? err.message : "Failed to load sheet." },
